@@ -1,0 +1,373 @@
+copyright
+
+python programming language
+
+ school wikipedia selection related subject computer programming
+
+caption python
+
+paradigmmultiparadigm
+appeareddesigned byguido van rossum
+developerpython software foundation
+latest releaseapril
+typing disciplinestrong dynamicduck typing
+major implementation cpython jython ironpython pypy
+dialectsstackless python
+influenced byabc algolc haskell icon lisp modula perl
+java
+influencedruby boo
+oscrossplatform
+licensepython software foundation license
+websitehttpwwwpythonorg
+
+python highlevel programming language first released guido van
+rossum inpython designed around philosophy emphasizes
+importance programmer effort computer effortreject arcane language feature prioritizing readabilityspeed expressiveness python often characterized minimalist
+although applies core language syntax semantics
+standard library provides language large numberadditional library extensions
+
+python multiparadigm programming language fully
+dynamic type system automatic memory management thus
+similar perl ruby scheme smalltalk tcl
+
+language open communitybased development model managednonprofit python software foundation various partlanguage formal specification standard languagewhole formally specified facto standard language
+cpython implementation
+
+history
+
+python conceived late guido van rossum cwinetherlands successor abc programming language capable
+exception handling interfacing amoeba operating system
+van rossum python principal author continuing central
+role deciding direction python acknowledged referring
+benevolent dictator life bdfl
+
+invan rossum published code labelled versionto
+altsources already present stage development classes
+inheritance exception handling function core datatypes
+list dict str also initial release module
+system borrowed modula van rossum describes module one
+python major programming unit python exception model also
+resembles modulas addition else clause 
+complangpython primary discussion forum python formed
+marking milestone growth python userbase
+
+python reached versionin januarya major set features
+included release functional programming tool lambda
+map filter reduce van rossum state python acquired lambda
+reduce filter map courtesy believe lisp hackermissed submitted working patch actual contributoramrit prem specific mention lisp heritage mentionedrelease note time
+
+last version released cwi pythoninvan rossum
+continued work python corporation national research
+initiative cnri reston virginia released several
+version software
+
+versionpython acquired several new feature notable among
+modula inspired keyword argument also
+similar common lisp keyword argument builtin supportcomplex number also included basic form data hiding name
+mangling though easily bypassed
+
+van rossums stay cnri launched computer programming
+everybody cpe initiative intending make programmingaccessible people basic literacy programming
+language similar basic english literacy mathematics skills
+required employer python served central rolefocus clean syntax already suitablecpes goal bore similarity predecessor abc projectfunded darpa ofthe cpe project inactivepython attempt easily learnable arcane syntax
+semantics reaching nonprogrammers active
+concern
+
+inthe python core development team moved beopencom form
+beopen pythonlabs team cnri requested versionbe
+released summarising python development pointdevelopment team left cnri consequently release schedule 
+andhad significant amount overlap pythonwas first
+release beopencom pythonwas releasedbeopencom guido van rossum pythonlabs developer joined
+digital creations
+
+pythonborrowed major feature functional programming
+language haskell list comprehension python syntaxconstruct similar haskells apart haskells preference
+punctuation character python preference alphabetic
+keywords pythonalso introduced garbage collection system
+capable collecting reference cycles
+
+following double release van rossum left cnri work
+commercial software developer became clear ability
+use python software available gpl desirable
+license used time python license included clause
+stating license governed state virginiamade view free software foundation fsf lawyers
+incompatible gnu gpl cnri fsf interacted develop
+enabling wording change python free software license would
+make gplcompatible yearvan rossum awardedfsf award advancement free software
+
+pythonis essentially pythonwith minor
+bug fix new gplcompatible license
+syntaxhighlighted python code
+syntaxhighlighted python code
+
+pythonwas derivative work pythonas well python
+license renamed python software foundation licensecode documentation specification added time python
+alpha release owned python software foundation
+psf nonprofit organisation formed inmodelledapache software foundation included release thoughdefault mandatory several version later waimplementation scoping similar static scopingscheme originator rules
+
+major innovation pythonwas unification python types
+type written class type written python one
+hierarchy single unification made python object model purely
+consistently object oriented also added generatorinspired icon
+
+python standard library addition syntactical choicestrongly influenced java case logging package
+introduced versionthe sax parser introduced inanddecorator pattern syntax usesadded version 
+
+future development
+
+python enhancement proposal pep standardised design
+document providing general information related python including
+proposal description explanation language feature peps
+intended primary channel proposing new featuredocumenting underlying design rationale major elementpython outstanding pep reviewed commented bdfl
+
+python developer ongoing discussion future version called
+pythonthe project called pythonor pykbreak backwards compatibility series order repair
+perceived flaw language guiding principle reduce
+feature duplication removing old way thingdefinite schedule pythonbut pep python enhancement
+proposal detail planned change exists
+
+usage
+
+largest project use python zope application
+server mnet distributed file store original bittorrent
+client also extensively used google nasa
+
+python successfully embedded number software products
+scripting language commonly used animation packages
+maya software softimage xsi blender software also
+used paint shop pro esri promoting python best choice
+writing script arcgis
+
+operating system python standard component gentoo uses
+extensively package management system portagestandard tool access emerge
+
+python also integral component popular lamp solution stack
+linux apache mysql pythonperl php web development
+
+syntax semantics
+
+python designed highly readable language aim towarduncluttered visual layout english keywords frequentlylanguage use punctuation python requires boilerplatetraditional staticallytyped structured language pascal
+ha smaller number syntactic exception special caseeither python indentationwhitespace rather curly
+brace keywords delimit statement block increaseindentation come certain statement decrease indentation
+signifies end current block python statement include
+statement conditionally executes block code
+along else elif contraction elseif
+statement run block code condition
+false
+statement iterates iterable capturingelement local variable use attached block
+class statement executes block code attaches
+local namespace class use object oriented
+programming
+def statement defines function
+
+statement semantics example def statement
+doe execute block immediately unlike statements
+
+cpython doe support continuation according guido van
+rossum never however better support coroutinelike
+functionality provided inby extending python generators
+prior togenerators lazy iteratorsinformation passed
+monodirectionally generator pythonitpossible pas information back generator function
+
+python duck typing also known latent typing type constraints
+checked compile time rather operation object may
+fail signifying given object suitable type
+despite enforcing static typing python strongly typed
+forbidding operation make little sense example addingnumber string rather silently attempting make sense
+python includes number builtin type used varietypurposes
+type kind note syntax example
+str unicode string immutable wikipedia uwikipedia
+list sequence mutable contain mixed typesstring true
+tuple sequence immutable contain mixed typesstring true
+set set unordered contains duplicate set string true
+dict mapping group key value pair keykey false
+int integer fixed precision number may transparently expandedlong arbitrary precision 
+float number floating point 
+complex complex number complex number real number imaginary
+unit bool boolean empty list dict set andare also considered
+false true false
+
+python also allows programmer define typeform class often used objectoriented styleprogramming new instance class constructed callingclass like fooclass class instances
+class type instance allowing metaprogramming
+reflection
+
+method object function attached object classsyntax instancemethodargument normal method functions
+syntactic sugar classmethodinstance argumentpython method must explicit self parameter access instance
+data contrast implicit self objectoriented
+programming language example java ruby
+
+implementations
+
+mainstream python implementation also known cpython written
+c compliant standard distributed large
+standard library written mixture python cpython ships
+large number supported platform including microsoft windows
+modern unixlike system cpython intended almostconception crossplatform use developmentesoteric platform amoeba alongside conventional one like
+unix macintosh greatly helped regard
+
+stackless python significant fork cpython implements
+microthreads expected run approximatelyplatform cpython run
+two major implementation jython java
+platform ironpython net platform pypy experimental
+selfhosting implementation python python outputvariety type bytecode object code intermediate languages
+
+several program exist package python program standalone
+executables including pyexe pyinstaller cxfreeze pyapp
+
+many python program run different python implementationdisparate operating system execution environment without
+change case implementation running top java
+virtual machine common language runtimeplatformindependence system harnessed respective
+python implementation
+
+many thirdparty library python even firstparty ones
+available window linux bsd mac 
+interpretational semantics
+
+python implementation including cpython dominant
+implementation function commandline interpreteruser enters statement sequentially receives results
+immediately short acting shell semanticsmode execution bytecode compilation compilationnative code preserve sequential semantics offer speed
+boost cost interactivity used outsidecommandline interaction example importing module
+
+shell add capability beyond basic interpreter
+including idle ipython generally following visual style
+python shell implement feature like autocompletion
+retention session state syntax highlighting
+
+implementation able compile bytecodeturn python code machine code far donerestricted subset python pypy take approach namingrestricted compilable version python rpython also psyco
+specialising time compiler transforms
+bytecode machine code runtime produced code specialised
+certain data type example may versioninteger smaller thanwhich cpu operation directly
+may version normal machinerypython object done runtime based valueprogram actually manipulates work python codesubset
+
+standard library
+
+python large standard library commonly cited one pythons
+greatest strength providing tool suited many disparate tasks
+come socalled battery included philosophy python
+module module standard library augmentedcustom module written either python recently boost library includes library python enable interoperability
+c python wide variety tool provided
+standard library combined ability use lowerlevel
+language c already capable interfacing
+library python powerful glue languagelanguage tools
+
+standard library particularly well tailored writing
+internetfacing application large number standard formats
+protocol mime http supported module creating
+graphical user interface connecting relational databases
+arithmetic arbitrarily precise decimal manipulating regular
+expression also included python also includes unit testing
+framework creating exhaustive test suites
+
+part standard library covered specificationexample wsgi implementation wsgiref follows pepbutmajority module defined nothing code
+documentation test suite however standard
+library crossplatform python code small numbermodule must altered completely rewritten alternative
+implementations
+
+programming philosophy
+
+python multiparadigm programming language meanrather forcing programmer adopt particular styleprogramming permit several style object orientationstructured programming fully supported numberlanguage feature support functional programmingaspectoriented programming many paradigm supported using
+extension pydbc contract python allow design
+contract python dynamic typing reference countingmemory management important feature python dynamic name
+resolution bind method variable name program
+execution
+
+another target language design ease extensibility
+rather everything built language core new
+builtin module easily written c python alsoused extension language existing module applications
+need programmable interface design small core
+language large standard library easilyextensible
+interpreter intended van rossum start duefrustration abc espoused opposite mindset
+
+though design python somewhat hostile functional
+programming lisp tradition tailcall elimination good
+support anonymous closure significant parallels
+philosophy python minimalist lispfamily
+language scheme
+
+offering choice coding methodology python philosophy
+reject exuberant syntax perl favour sparser less
+cluttered one perl python developer expressly promoteparticular culture ideology based want language
+favoring language form see beautiful explicitsimple alex martelli put python cookbook ed
+p describe something clever considered compliment
+python culture python philosophy reject perlthereone way approach language design favouradvocating single right approach problem solving
+
+like nearly language community python doeadvocate premature optimisation actively eschews patchnoncritical part cpython would offer marginal increasespeed cost clarity python sometimes
+labelled slow community acceptscommonly seen problem majority programcritical speed bottleneck optimised greatlyfold optimisation naive algorithm recorded without recoding
+c premature optimisation warned strongly 
+
+neologisms
+
+common neologism python community pythonicwide range meaning related program style say piece
+code pythonic say python idiom wellnatural show fluency language likewise sayinterface language feature pythonic saywork well python idiom use mesh well rest
+language people also use word pythonesque synonym
+pythonic
+
+contrast mark unpythonic code attempt write
+c lisp perl code pythonthat provides rough
+transcription rather idiomatic translation formanother language concept pythonicity tightly boundpython minimalist philosophy readability unreadable codeincomprehensible idiom unpythonic
+
+user admirer pythonmost especially considered
+knowledgeable experiencedare often referred pythonists
+pythonistas pythoneers
+
+prefix used show something related python
+example use prefix name python applicationlibrary include pygame binding sdl python commonly usedcreate game pyqt pygtk bind gtk respectivelypython pypy python implementation written python prefix
+also used outside naming software package major python
+conference named pycon
+
+important goal python developer making python fun use
+reflected origin name television
+series monty python flying circus common practice using
+monty python reference example code occasionally playful
+approach tutorial reference material examplemetasyntactic variable often used python literature spamegg instead traditional foo bar
+
+influence languages
+
+python design philosophy influenced several programming
+languages
+boo python heritage explicitit also indentation
+similar syntax similar object model boo however uses
+static typing closely integrated net framework
+ecmascript borrowed iterators generator list comprehensions
+python implementation
+ruby influenced python specifically matz wishedlanguage closer classical message passing objectoriented
+model python
+groovy motivated desire bring python design
+philosophy java
+
+python development practice also emulatedlanguage system requiring document describing rationale
+issue surrounding change language pep also
+used tcl directly due python influence
+
+additional reading
+
+python language reference manual guido van rossum fred
+l drake jrisbn 
+think like computer scientist learning pythonintroduction functionbased programming construct using python
+free download available hardcopy may purchasedisbn
+
+text processing python david mertz intermediate python
+book available online free moneyaddisonwesleyisbn 
+byte python beginner book python also available
+online wiki
+dive python demonstrates clever useful python paradigms
+reader know program already available
+online hardcopy may purchased
+core python programming edition wesley chunisbn
+
+py python online technical journal
+learning python mark lutz david ascher edition dec
+isbn 
+programming python mark lutz edition augisbn
+
+python pocket reference mark lutz edition febisbn
+
+computing scienceengineering peerreviewed technical
+magazine recently devoted special issue python
+
+retrieved 
+httpenwikipediaorgwikipythonprogramminglanguage
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

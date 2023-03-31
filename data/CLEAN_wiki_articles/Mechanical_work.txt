@@ -1,0 +1,139 @@
+copyright
+
+mechanical work
+
+ school wikipedia selection related subject general physics
+
+physic mechanical work amount energy transferredforce like energy scalar quantity unit joules
+heat conduction considered form work sincemacroscopically measurable force microscopic force occurring
+atomic collision french mathematician
+gaspardgustave coriolis coined term work product force
+distance
+
+positive negative sign work indicate whether object
+exerting force transferring energy objectreceiving baseball pitcher example doe positive workball catcher doe negative work work zero
+even force centripetal force uniform circular
+motion example doe zero work kinetic energymoving object doesnt change likewise book sits table
+table doe work book energy transferred
+book
+
+force constant along line motionwork calculated multiplying force distance wfd
+letting positive negative sign accordingcoordinate system chosen force doe lie alongline motion generalized scalar productforce displacement vectors
+baseball pitcher doe work ball transferring energyenlarge
+baseball pitcher doe work ball transferring energy
+calculation
+
+simplest case body moving steady directionacted constant force parallel direction workgiven formula
+
+wf 
+
+
+f forcedistance travelled object
+
+work taken negative force opposes motion
+generally force distance taken vector
+quantity combined using dot product
+
+wvec cdot vec mathbfdmathbff mathbfd
+cosphi 
+
+phiis angle force displacement
+vector formula hold true even object changedirection travel throughout motion
+
+generalize formula situation force
+change time necessary use differential expressinfinitesimal work done force infinitesimal
+displacement thus
+
+dwvec cdot dvecs 
+
+integration side equation yield following
+line integral
+
+wintc vec cdot dvecs 
+
+
+c path curve traversed object
+vec force vector
+vec position vector
+
+formula readily explains nonzero force zero worksimplest case force always perpendiculardirection motion making integrand always zero viz circular
+motion however even integrand sometimes take nonzero values
+still integrate zero sometimes negativesometimes positive
+
+possibility nonzero force zero work exemplifiesdifference work related quantity impulse integral
+force time impulse measure change body momentumvector quantity sensitive direction whereas work considersmagnitude velocity instance object uniform
+circular motion traverse half revolution centripetal force
+doe work transfer nonzero impulse
+
+units
+
+si derived unit work joule definedwork done force one newton acting distance one meter
+definition based sadi carnotsdefinition workweight lifted height based fact early
+steam engine principally used lift bucket water thoughgravitational height flooded ore mine dimensionally
+equivalent newtonmeter sometimes used instead howeveralso sometimes reserved torque distinguish unit work
+energy
+
+nonsi unit work include erg footpound footpoundal
+literatmosphere
+
+type work
+
+form work evidently mechanical fact represent
+special case principle instance caseelectrical work electric field doe work charged particlemove medium
+
+one mechanism heat conduction collision fastmoving
+atom warm body slowmoving atom cold body although
+colliding atom work force average nearly
+zero bulk conduction considered mechanical work
+
+pv work
+
+chemical thermodynamics study work occurs volume
+fluid change work represented following
+differential equation
+
+dwp 
+
+wwork done system
+pexternal pressure
+vvolume
+
+therefore
+wintvivf pdv
+
+like work function work pathdependent pathquestion curve euclidean space specified fluids
+pressure volume infinitely many curve possible
+thermodynamic perspective fact implies workstate function mean differential inexact
+differential rigorous written line
+
+mathematical point view say exact
+oneform line merely flag warn uactually functionform potential dwindeed function able use stokes
+theorem evaluate putative function potential dwboundary path initial final pointtherefore work would state function impossibilityconsistent fact doe make sense referwork point work presupposes path
+
+pv work often measured nonsi unit litreatmospheres
+wherelatmj
+
+mechanical energy
+
+mechanical energy body part total energysubject change mechanical work includes kinetic energypotential energy notable form energy doe include
+thermal energy increased frictional workeasily decreased rest energy constant longrest mass remains
+relation work kinetic energy
+
+external work act upon body causing kinetic energychange ek
+wdelta ekekek
+
+also substitute equation kinetic energy state mv get
+
+wdeltamvmvmv 
+
+conservation mechanical energy
+
+principle conservation mechanical energy statesystem subject conservative force eggravitational force mechanical energy remains constant
+
+instance object constant mass free falltotal energy positionwill equal position 
+
+ekepekep 
+
+ek kinetic energyep potential energy
+
+external work usually done friction forcesystem motion internalnon conservative forcesystem loss energy due heat transfer

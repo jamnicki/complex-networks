@@ -1,0 +1,166 @@
+copyright
+
+physical paradox
+
+ school wikipedia selection related subject general physics
+
+physical paradox apparent contradiction relating physical
+description universe many different uses
+term ranging challenging thought experiment seems
+belie common sense actual breakdown mathematical theory
+describes physical universe many physical paradoxes
+accepted resolution make little curiosities
+others may defy resolution result inadequate
+interpretation theory assumption physical world
+violated indication theory inadequately
+describes condition physic science
+contradiction paradox generally assumed artifacterror incompleteness reality assumed completely
+consistent although philosophical assumptionfield quantum physic relativity theory existing
+assumption reality shown breakusually dealt changing understanding realitynew one remains selfconsistent presence new
+evidence
+
+paradox relating false assumptions
+
+twin paradox show absolute time
+enlarge
+twin paradox show absolute time
+
+certain physical paradox defy common sense prediction physical
+situation case result modern physics
+correctly describing natural world circumstance far
+outside everyday experience example special relativitytraditionally yielded two common paradox twin paradoxladder paradox paradox involve thought experiments
+defy traditional common sense assumption time space
+particular effect time dilation length contractionused paradox create situation seemingly
+contradict turn fundamental postulatespecial relativity speed light invariant frames
+reference requires concept simultaneity absolute
+time applicable comparing radically different framereference
+
+another paradox associated relativity supplees paradoxseems describe two reference frame irreconcilablecase problem assumed wellposed special relativity
+effect dependent object fluid mass
+effect general relativity need taken account taking
+correct assumption resolution actually way restating
+equivalence principle
+
+babinets paradox contrary naive expectation amountradiation removed beam diffraction limit proportional
+twice crosssectional area two
+separate process remove radiation beam equal
+amount absorption diffraction
+
+similarly exists set physical paradox directly rely
+one assumption incorrect gibbs paradoxstatistical mechanic yield apparent contradiction calculating
+entropy mixing assumption particle ideal
+gas indistinguishable appropriately taken accountcalculated entropy extensive variable
+olbers paradox show infinite universe uniform
+distribution star necessarily lead sky brightstar observed dark night sky alternatively resolvablestating one two assumption incorrect paradoxsometimes used argue homogeneous isotropic universerequired cosmological principle necessarily finiteextent turn way relax assumptions
+way admit alternative resolutions
+
+mpemba paradox certain condition hot water freeze
+faster cold water even though must pastemperature cold water freezing processseeming violation newton law cooling reality due
+nonlinear effect influence freezing processassumption temperature water affect freezing
+correct
+
+paradox relating unphysical mathematical idealizations
+
+infinitely dense gravitational singularity found time approaches
+initial point big bang universe example physical
+paradox
+enlarge
+infinitely dense gravitational singularity found time approaches
+initial point big bang universe example physical
+paradox
+
+common paradox occurs mathematical idealization point
+source describe physical phenomenon well distant global
+scale break point paradoxsometimes seen relating zeno paradox dealphysical manifestation mathematical property continuum
+infinitesimal infinity often associated space time
+example electric field associated point chargeinfinite location point charge consequenceapparent paradox electric field pointchargedescribed limiting sense carefully constructed dirac delta
+function mathematically inelegant physically useful concept
+allows efficient calculation associated physical
+condition conveniently sidestepping philosophical issueactually occurs infinitesimallydefined point question
+physic yet unable answer fortunately consistent
+theory quantum electrodynamics developed part richard feynman
+remove need infinitesimal point charge altogether
+
+similar situation occurs general relativity gravitational
+singularity associated schwarzschild solution describes
+geometry black hole curvature spacetimesingularity infinite another way stating theory
+doe describe physical condition point hoped
+solution paradox found consistent
+theory quantum gravity something thus far remained
+elusive consequence paradox associated
+singularity occurred supposed starting pointuniverse see big bang adequately described physictheoretical extrapolation singularity occur quantum
+mechanical effect become important era known planck time
+without consistent theory meaningful statementphysical condition associated universe point
+
+another paradox due mathematical idealization dalemberts
+paradox fluid mechanic force associatedtwodimensional incompressible irrotational inviscid steady flow
+across body calculated dragcontradiction observation flow turnfluid rigorously satisfies condition physical
+impossibility mathematical model break surfacebody new solution involving boundary layer considered
+correctly model drag effects
+
+quantum mechanical paradoxes
+
+significant set physical paradox associatedprivileged position observer quantum mechanic twofamous epr paradox schrdingers catproposed thought experiment relevant discussioncorrect interpretation quantum mechanic thought
+experiment try use principle derived copenhagen
+interpretation quantum mechanic derive conclusionseemingly contradictory case schrdingers cat takes
+form seeming absurdity cat placed box sealedobservation quantum mechanical switch designed killcat appropriately deployed box cat described
+quantum superposition dead alive states
+though opening box effectively collapse cat wavefunctionone two condition case epr paradox quantum
+entanglement appears allow physical impossibilityinformation transmitted faster speed light violating
+special relativity
+
+resolution paradox considered manyphilosophically unsatisfying hinge specifically
+meant measurement observation serfobserver thought experiment real physical sensematter way either term defined resultgiven observation cat yield either one dead
+alive superposition necessary condition calculating
+expected never observed likewise
+epr paradox thought experiment yield way transmitting
+information faster speed light though seemingly
+instantaneous conservation quantumly entangled observablemeasured turn physically impossible useeffect transmit information instantaneous
+conservation subject correct interpretationquantum mechanics
+
+speculative theory quantum gravity combine general relativity
+quantum mechanic associated paradoxgenerally accepted artifact lack consistent physical
+model unites two formulation one paradox black
+hole information paradox point information associated
+particle fall black hole conservedtheoretical hawking radiation cause black hole evaporatestephen hawking claimed working resolutionproblem detail yet published speculative
+nature hawking radiation mean isnt clear whetherparadox relevant physical reality
+
+causality paradoxes
+
+set similar paradox occurs within area physic involving
+arrow time causality one grandfather paradox
+deal peculiar nature causality closed timelike loops
+crude conception paradox involves person traveling
+back time murdering ancestor hadnt yet chanceprocreate speculative nature time travel past meanagreed upon resolution paradox even clear
+physically possible solution einstein equations
+would allow condition required paradox met
+nevertheless two common explanation possible
+resolution paradox take similar flavorexplanation quantum mechanical paradox socalled
+selfconsistent solution reality constructed waydeterministically prevent paradox occurring idea
+make many free advocate uncomfortable thoughsatisfying many philosophical naturalist alternatively many
+world idealization concept parallel universe sometimes
+conjectured allow continual fracturing possible worldlines
+many different alternative reality would meanperson traveled back time would necessarily enter different
+parallel universe would different history pointtime travel forward
+
+another paradox associated causality oneway naturetime loschmidts paradox pose questionmicroprocesses timereversible produce timeirreversible
+increase entropy partial resolution paradox rigorously
+provided fluctuation theorem relies carefully
+keeping track time averaged quantity showstatistical mechanic point view entropy far likelyincrease decrease however assumption initial
+boundary condition made fluctuation theorem apply
+equally well reverse predicting system currentlylowentropy state likely higherentropy state
+past contradiction would usually seenreversed film nonequilibrium state going equilibrium thusoverall asymmetry thermodynamics heartloschmidts paradox still resolved fluctuation theorem
+physicist believe thermodynamic arrow timeexplained appealing low entropy condition shortlybig bang although explanation low entropy big bang
+still debated
+
+observational paradoxes
+
+set physical paradox based set observations
+fail adequately explained current physical modelmay simply indication incompleteness current theoryrecognized unification accomplished yet may
+hint fundamental problem current scientific paradigms
+whether harbinger scientific revolution yet comewhether observation yield future refinement found
+erroneous yet determined brief list yet
+inadequately explained observation includes observation implyingexistence dark matter observation implying existence dark
+energy observed matterantimatter asymmetry gzk paradoxquantum smarandche paradox pioneer anomaly fermi
+paradox
+

@@ -1,0 +1,329 @@
+copyright
+
+john von neumann
+
+ school wikipedia selection related subject mathematicians
+
+caption john janos von neumann
+
+john von neumannjohn von neumannborndecember
+budapest austriahungary
+diedfebruary
+washington usa
+residenceusa
+nationalityushungarian
+fieldmathematics
+institutionlos alamos
+university berlin
+princeton university
+alma materuniversity pzmny pter
+eth zurich
+academic advisor leopold fejer
+notable student israel halperin
+known forgame theory
+von neumann algebra
+von neumann architecture
+cellular automata
+notable prizesenrico fermi award 
+religionroman catholic
+
+john von neumann neumann jnos lajos margittaidecemberin
+budapest austriahungaryfebruaryin washington usahungarianborn mathematician polymath made contributionquantum physic functional analysis set theory topology economics
+computer science numerical analysis hydrodynamics explosions
+statistic many mathematical field one historys
+outstanding mathematician notably von neumann pioneermodern digital computer application operator theoryquantum mechanic see von neumann algebra member manhattan
+project institute advanced study princeton oneoriginally appointeda group collectively referreddemigod creator game theory conceptcellular automaton along edward teller stanislaw ulam von
+neumann worked key step nuclear physic involvedthermonuclear reaction hydrogen bomb
+
+biography
+
+eldest three brother von neumann born neumann jnos lajos
+hungarian name family name first budapest hungaryneumann miksa max neumann lawyer worked bank kann
+margit margaret kann growing nonpractising jewish family
+jnos nicknamed jancsi extraordinary prodigy agesix could divide two digit number head conversefather ancient greek jnos already interested math
+nature number logic world around age
+eight mastered calculus twelve graduate
+level mathematics reading book emile borelstheorie des
+fonctions interest confined mathematicsaccount tell reading allvolumes universal history
+age ofhe could memorize page sight gift later
+would surprise nobel laureate loved invent mechanical toywa expert civil war trial joan arc byzantine
+history
+
+entered lutheran gymnasium budapest ininhis
+father purchased title neumann family acquired hungarian
+mark nobility margittai austrian equivalent von neumann
+jnos therefore became jnos von neumann name later changed
+german johann von neumann teaching history youngest
+privatdozent university berlin fromtohemother brother emigrated hitler rise powergermany united state curiouslyanglicized johann johnhe kept austrianaristocratic surname
+von neumann whereas brother adopted surname vonneumannnewman
+
+although von neumann unfailingly dressed formally enjoyed throwing
+extravagant party driving hazardously frequently readingbook sometimes crashing tree getting arrested waprofoundly committed hedonist liked eat drink heavilywa said knew count everything except calorie tell
+dirty story insensitive joke example bodily violence
+displeasure done intention giving pleasureinsistently gaze leg young woman much female
+secretary los alamo often covered exposed undersidedesk cardboard
+
+received phd mathematics minor experimental
+physic chemistry university budapest agesimultaneously earned diploma chemical engineeringeth zurich switzerland behest father wanted
+son invest time financially viable endeavourmathematics betweenandhe private lecturer berlin
+germany
+
+agehe publishedmajor paper bynearly 
+
+von neumann invited princeton new jersey inand one
+four people selected first faculty instituteadvanced study two albert einstein kurt gdel
+wa mathematics professor formation inuntil
+death
+
+fromtoalan turing visitor institutecompleted phd dissertation supervision alonzo church
+princeton visit occurred shortly turing publicationhispaper computable number applicationentscheidungsproblem involved concept logical designuniversal machine von neumann must known turing ideas
+clear whether applied design ias
+machine ten year later
+
+inhe became naturalized citizen invon neumann
+wa awarded bcher memorial prize work analysis
+
+von neumann married twice first wife mariette kvesimarried inwhen proposed incapableexpressing anything beyond might able fun
+together seeing like drink von neumann agreedconvert catholicism placate family couple divorcedmarried second wife klara dan invon
+neumann one child first marriage daughter marina marina
+distinguished professor international trade public policy
+university michigan
+
+von neumann diagnosed bone cancer pancreatic cancerpossibly caused exposure radioactivity observing
+abomb test pacific possibly later work nuclear
+weapon los alamo new mexico fellow nuclear pioneer enrico fermi
+died bone cancer invon neumann died within months
+initial diagnosis excruciating pain cancer also
+spread brain cutting thinking ability lay dyingwalter reed hospital washington shocked friendacquaintance asking speak roman catholic priest died
+military security lest inadvertently reveal military secrets
+heavily medicated
+
+writtenpublished paper lifein pure
+mathematicsin physic andin applied mathematicsdied developing theory structure human brain
+
+von neumann entertained notion would trouble many love
+meteorological prediction led dreaming manipulatingenvironment spreading colorants polar ice cap orderenhance absorption solar radiation reducing albedothereby raise global temperature also favored preemptive nuclear
+attack ussr believing could preventobtaining atomic bomb
+
+logic
+
+axiomatization mathematics model euclid elements
+reached new level rigor breadth end century particularly arithmetic thanks richard dedekindgiuseppe peano geometry thanks david hilbertbeginning twentieth century set theory new branchmathematics invented georg cantor thrown crisisbertrand russell discovery famous paradox set
+set belong yetformalized russell paradox consisted observationset set member membermust belong set set belong
+therefore cannot belonghand set doe belong must belongset set belong therefore
+must belong
+problem adequate axiomatization set theory resolved
+implicitly twenty year later thanks ernst zermeloabraham frankel way series principle allowedconstruction set used actual practice mathematics
+explicitly exclude possibility existence
+set belong doctoral thesis ofvon
+neumann demonstrated possible exclude possibilitytwo complementary way axiom foundation notionclass
+
+axiom foundation established every set constructed
+bottom ordered succession step wayprinciple zermelo frankel manner one set
+belongs another first must necessarily comesecond succession hence excluding possibility set
+belonging order demonstrate additionnew axiom others produce contradiction von neumann
+introduced method demonstration called method inner
+model later became essential instrument set theory
+
+second approach problem took base notionclass defines set class belongs classes
+proper class defined class doe belongclass zermelofrankel approach axioms
+impede construction set set belongvon neumann approach class setbelong constructed proper class
+set
+
+contribution von neumann axiomatic systemtheory set became fully satisfactory next questionwhether also definitive subject improvement
+strongly negative answer arrived september ofathistorical mathematical congress knigsberg kurt gdel
+announced first theorem incompleteness usual axiomatic
+system incomplete sense cannot prove every truth
+expressible language result sufficiently
+innovative confound majority mathematician time
+von neumann participated congress confirmedfame instantaneous thinker month ablecommunicate gdel interesting consequence theorem
+usual axiomatic system unable demonstrateconsistency precisely consequence attractedattention even gdel originally consideredcuriosity derived independently anywayreason result called gdels second theorem without
+mention von neumann
+
+quantum mechanics
+
+international congress mathematician ofdavid hilbert
+presented famous list twentythree problem considered central
+development mathematics new century sixthwa axiomatization physical theory among new
+physical theory century one yet receive
+treatment end quantum mechanic found condition foundational crisis similarset theory beginning century facing problemphilosophical technical nature one hand apparent
+nondeterminism reduced albert einstein believedmust order satisfactory complete explanationdeterministic form still existed two independent
+equivalent heuristic formulation socalled matrix mechanical
+formulation due werner heisenberg wave mechanical
+formulation due erwin schrdinger yet single
+unified satisfactory theoretical formulation
+
+completed axiomatization set theory von neumann
+began confront axiomatization immediately realizedquantum system could considered pointsocalled hilbert space analogous dimension number
+particlesgeneral coordinate andcanonical momentumphase space classical mechanic infinitely many dimensions
+corresponding infinitely many possible state system
+instead traditional physical quantity positionmomentum could therefore represented particular linear operators
+operating space physic quantum mechanic thereby
+reduced mathematics linear hermitian operator hilbert
+space example famous indeterminacy principle heisenberg
+according determination position particle
+prevents determination momentum vice versatranslated noncommutativity two corresponding
+operator new mathematical formulation included special cases
+formulation heisenberg schrdinger culminatedtheclassic mathematical foundation quantum mechanics
+however physicist generally ended preferring another approachvon neumann considered elegant satisfactorymathematician approach formulated inby paul diracwa based upon strange type function socalled dirac delta
+function harshly criticized von neumann
+
+case von neumann abstract treatment permitted alsoconfront foundational issue determinism nondeterminismbook demonstrated theorem according quantum
+mechanic could possibly derived statistical approximation
+deterministic theory type used classical mechanics
+demonstration contained conceptual error helpedinaugurate line research work john stuart
+bell inon bell theorem experiment alain aspectdemonstrated quantum physic requires notion reality
+substantially different classical physics
+
+complementary work ofvon neumann proved along garrett
+birkhoff quantum mechanic also requires logic substantially
+different classical one example light photon cannot
+pas two successive filter polarized perpendicularly
+eg one horizontally vertically thereforefortiori cannot pas third filter polarized diagonallyadded two either succession
+third filter added two photons
+indeed pas experimental fact translatable
+logic noncommutativity conjunction aland bne
+bland ait also demonstrated law distributionclassical logic plorqland rplor qlandplor pland
+qlor rpland qlorpland rare valid quantum theory
+reason quantum disjunction unlike caseclassical disjunction true even disjunctsfalse turn attributable factfrequently case quantum mechanic pair alternatives
+semantically determinate member necessarily
+indeterminate latter property illustrated simple
+example suppose dealing particle electronsemiintegral spin angular momentum two
+possible value positive negative principleindetermination establishes spin relative two different
+direction x result pair incompatible quantities
+suppose stateof certain electron verifies proposition
+spin electron direction positiveprinciple indeterminacy value spin directioncompletely indeterminate forhencecan verify neitherproposition spin direction positiveproposition spin direction negative nevertheless
+disjunction proposition spin directionpositive spin direction negative must truecase distribution therefore possiblesituation land blor alandawhile aland
+blor aland clor
+
+economics
+
+economics involved great deal mathematicsnumber almost either superficial irrelevant
+wa used part provide uselessly precise
+formulation solution problem intrinsically vague
+economics found state similar physicth century still waiting development appropriate
+language express resolve problem physics
+found language infinitesimal calculus von neumann
+proposed language game theory general equilibrium theory
+economics
+
+first significant contribution minimax theorem 
+theorem establishes certain zero sum game involving
+perfect information player know priori strategyopponent well consequence exists one
+strategy allows player minimize maximum losses
+hence name minimax examining every possible strategyplayer must consider possible response players
+adversary maximum loss player play strategy
+result minimization maximum lossstrategy minimizes maximum loss called optimalplayer case minimaxes equal absolute valuecontrary sign common value zero game becomes
+pointless
+
+von neumann eventually improved extended minimax theoreminclude game involving imperfect information gametwo player work culminated theclassic theory games
+economic behaviour written oskar morgenstern resulted
+public attention new york time front page
+story like einstein previously earned
+
+von neumann second important contribution area wasolution inof problem first described leon walras 
+existence situation equilibrium mathematical modelmarket development based supply demand first recognizedmodel expressed disequationsequation found solution walras problem applyingfixedpoint theorem derived work luitzen brouwerlasting importance work general equilibriummethodology fixed point theorem underscored awardingnobel prize kenneth arrow gerard debreu
+
+von neumann also inventor method proof used game
+theory known backward induction first published ininbook coauthored morgenstern theory game economic
+behaviour
+
+armaments
+
+invon neumann obtained citizenship began take
+interest applied mathematics became top expertexplosive committed large number military
+consultancy primarily navy
+
+one discovery large bomb devastating detonated
+ground force shock wave notable
+application occurred augustwhen nuclear weapondetonated hiroshima nagasaki altitude calculated von
+neumann produce damage
+john von neumann wartime los alamo badge photo
+john von neumann wartime los alamo badge photo
+
+von neumann brought manhattan project help design
+explosive lens needed compress plutonium coretrinity test device thefat man weapon dropped nagasaki
+
+von neumann member committee selecting potential targets
+von neumann first choice city kyoto dismissedsecretary war henry stimson
+
+war robert oppenheimer remarked physicistknown sin result development first atomic bombs
+von neumann rather cynical reply sometimes someone
+confesses sin order take credit continued
+unperturbed work became along edward teller onesustainer hydrogen bomb project von neumann collaborated
+spy klaus fuchs hydrogen bomb development two filedsecret patent improvement method mean utilizing
+nuclear energy inwhich outlined scheme using fission
+bomb compress fusion fuel initiate thermonuclear reaction
+herken ppthough key hydrogen
+bombthe tellerulam designit judged right
+direction
+
+von neumann hydrogen bomb work also realm computing
+stanislaw ulam developed simulation von neumanns
+digital computer hydrodynamic computation time
+contributed development monte carlo methodallowed complicated problem approximated using random numbers
+using list truly random number extremely sloweniac von neumann developed crude form making pseudorandom
+number using middlesquare method though method hacriticized crude von neumann aware justifiedfaster method disposal also notedwent awry obviously unlike method couldsubtlely incorrect
+
+computer science
+
+von neumann gave name von neumann architecture usedalmost computer publication conceptfeel ignores contribution presper eckert john
+william mauchly others worked concept virtually every
+home computer microcomputer minicomputer mainframe computervon neumann machine also created field cellular automata
+without computer constructing first selfreplicating automata
+pencil graph paper concept universal constructorfleshed posthumous work theory self reproducing automata
+von neumann proved effective way largescale mining
+operation mining entire moon asteroid belt couldaccomplished using selfreplicating machine taking advantageexponential growth
+
+credited least one contribution studyalgorithm donald knuth cite von neumann inventor inof
+merge sort algorithm first second halfarray sorted recursively merged together
+
+also engaged exploration problem numerical hydrodynamics
+r richtmyer developed algorithm defining artificial
+viscosity improved understanding shock wavepossible would understand much astrophysics might
+highly developed jet rocket engine without workproblem computer solve hydrodynamic aerodynamic
+problem try put many computational grid point regions
+sharp discontinuityshock wave artificial viscosity wamathematical trick slightly smooth shock transition without
+sacrificing basic physics
+
+politics social affairs
+
+von neumann experienced lightninglike academic career similarvelocity intellect obtaining age ofonefirst five professorship new institute advanced studyprinceton another gone albert einstein seemed compelledseek field interest found outletcollaboration american militaryindustrial complex wafrequent consultant cia military rand corporation
+standard oil ibm others
+
+senate committee hearing described political ideology
+violently anticommunist much militaristicnorm president socalled von neumann committee missiles
+first member commission atomic energy later
+starting fromup death inhe scientist
+political power committeedeveloped various scenario nuclear proliferation development
+intercontinental submarine missile atomic warheadcontroversial strategic equilibrium called mutually assured
+destruction mind behind scientific aspect cold
+war
+
+honours
+
+john von neumann theory prize institute operations
+research management science informs previously timsorsaawarded annually individual group made fundamental
+sustained contribution theory operation researchmanagement sciences
+
+ieee john von neumann medal awarded annually ieeeoutstanding achievement computerrelated science technology
+
+john von neumann lecture given annually societyindustrial applied mathematics siam researchercontributed applied mathematics chosen lecturer also
+awarded monetary prize
+
+von neumann crater earth moon named john von neumann
+
+professional society hungarian computer scientist neumann
+jnos szmtgptudomnyi trsasg named john von neumann
+
+maythe united state postal service issued american
+scientist commemorative postage stamp series set four cent
+selfadhesive stamp several configuration scientist depicted
+john von neumann barbara mcclintock josiah willard gibbsrichard feynman
+
+students
+
+donald gillie phd student john von neumann
+john mayberry phd student john von neumann
+john forbes nash student john von neumann
+

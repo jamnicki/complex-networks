@@ -1,0 +1,303 @@
+copyright
+
+electromagnetic radiation
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+magnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+magnetostatics
+ampere law
+magnetic field
+magnetic moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+electromagnetic field
+electromagnetic radiation
+electrical circuits
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+electromagnetic radiation imagined selfpropagating
+transverse oscillating wave electric magnetic fielddiagram show plane linearly polarised wave propagating leftright
+enlarge
+electromagnetic radiation imagined selfpropagating
+transverse oscillating wave electric magnetic fielddiagram show plane linearly polarised wave propagating leftright
+
+electromagnetic radiation generally described selfpropagating
+wave space electric magnetic component components
+oscillate right angle directionpropagation phase electromagnetic
+radiation classified type according frequencywave type include order increasing frequency radio
+wave microwave infrared radiation visible light ultraviolet
+radiation xrays gamma ray technical context entire
+range referred light
+
+em radiation carry energy momentum may impartedinteracts matter
+
+electromagnetic wave much lower frequency visible lightfirst predicted maxwell equation subsequently discoveredheinrich hertz maxwell derived wave form electricmagnetic equation revealing wavelike nature electricmagnetic field symmetry
+
+according equation timevarying electric field generatesmagnetic field vice versa therefore oscillating electric
+field generates oscillating magnetic field magnetic fieldturn generates oscillating electric fieldoscillating field together form electromagnetic wave
+
+properties
+
+wave model
+
+important aspect nature light frequency frequency
+wave rate oscillation measured hertz unit frequency equal one oscillation per second light usually
+ha spectrum frequency sum together form resultant
+wave different frequency undergo different angle refraction
+
+wave consists successive trough crest distance
+two adjacent crest called wavelength waveelectromagnetic spectrum vary size long radio wavesize building short gamma ray smaller atom nuclei
+frequency inversely proportional wavelength accordingequation
+
+vf
+
+v speed wave vacuum lemedium frequency andis wavelength wave cross
+boundary different medium speed changefrequency remains constant
+
+interference superposition two wave resultingnew wave pattern field component direction
+constructively interfere opposite direction cause
+destructive interference
+
+energy electromagnetic wave sometimes called radiant energy
+
+particle model
+
+particle model radiation wave consists discrete
+packet energy quantum called photon frequency wave
+proportional magnitude particle energy moreover
+photon emitted absorbed charged particle act
+transporter energy
+
+photon absorbed atom excites electron elevating
+higher energy level energy great enoughelectron jump high enough energy level may escapepositive pull nucleus liberated atomprocess called ionization conversely electron descendslower energy level atom emits photon light equalenergy difference since energy level electron atomdiscrete element emits absorbs characteristic
+frequencies
+
+together effect explain absorption spectrum lightdark band spectrum due atom intervening
+medium absorbing different frequency light compositionmedium light travel determines natureabsorption spectrum instance dark band light emitteddistant star due atom star atmosphere bands
+correspond allowed energy level atom similar
+phenomenon occurs emission electron descend lower
+energy level spectrum emitted represents jumpenergy level electron manifested emission
+spectrum nebula today scientist use phenomenon observe
+element certain star composed also useddetermination distance star using socalled red shift
+
+speed propagation
+
+electric charge accelerates changing magnetic field
+produce electromagnetic radiation electromagnetic informationcharge travel speed light accurate treatment thus
+incorporates concept known retarded time opposed advanced
+time unphysical light causality addexpression electrodynamic electric field magnetic field
+extra term responsible electromagnetic radiationwire conducting object antenna conducts
+alternating current electromagnetic radiation propagatedfrequency electric current depending circumstances
+may behave wave particle wave characterized
+velocity speed light wavelength frequencyconsidered particle known photon haenergy related frequency wave given planck relation
+eh energy photon hjsplanck constant andis frequency wave
+
+one rule always obeyed regardless circumstance radiation
+vacuum always travel speed light relativeobserver regardless observer velocity observation led
+albert einstein development theory special relativity
+
+medium vacuum velocity propagation refractive
+index considered depending frequency applicationratio speed medium speed vacuum
+
+electromagnetic spectrum
+
+electromagnetic spectrum light highlighted
+enlarge
+electromagnetic spectrum light highlighted
+legendgamma ray hxhard xrays sxsoft xrays euvextreme
+ultraviolet nuvnear ultraviolet visible light nirnear infrared
+mirmoderate infrared firfar infrared radio wave ehfextremely
+high frequency microwave shfsuper high frequency microwave uhf
+ultrahigh frequency vhfvery high frequency hfhigh frequency medium frequency lflow frequency vlfvery low frequency 
+voice frequency elfextremely low frequency
+legend
+gamma rays
+hxhard xrays
+sxsoft xrays
+euvextreme ultraviolet
+nuvnear ultraviolet
+visible light
+nirnear infrared
+mirmoderate infrared
+firfar infrared
+radio waves
+ehfextremely high frequency microwaves
+shfsuper high frequency microwaves
+uhfultrahigh frequency
+vhfvery high frequency
+hfhigh frequency
+mfmedium frequency
+lflow frequency
+vlfvery low frequency
+vfvoice frequency
+elfextremely low frequency
+
+generally radiation classified wavelength electrical
+energy radio microwave infrared visible region perceivelight ultraviolet xrays gamma rays
+
+behavior radiation depends wavelength higher
+frequency shorter wavelength lower frequency longer
+wavelength radiation interacts single atommolecule behaviour depends amount energy per quantumcarries
+
+spectroscopy detect much wider region spectrumvisible range ofnm tonm common laboratory spectroscopedetect wavelength fromnm tonm detailed informationphysical property object gas even star obtained
+type device widely used astrophysicsexample many hydrogen atom emit radio wave wavelength
+ofcm
+
+light
+
+em radiation wavelength approximatelynm andnm
+detected human eye perceived visible light
+
+radiation frequency visible region spectrum reflects object say bowl fruitstrike eye result visual perception scene
+brain visual system process multitude reflected
+frequency different shade huenotentirelyunderstood psychophysical phenomenon people perceive
+bowl fruit
+
+vast majority case however information carriedlight directly detected human sens natural source produce
+em radiation across spectrum technology also
+manipulate broad range wavelength optical fibre transmits light
+although suitable direct viewing carry datatranslated sound image coding used data
+similar used radio waves
+
+radio waves
+
+radio wave carry information varying combinationamplitude frequency phase wave within frequency band
+
+em radiation impinges upon conductor coupleconductor travel along induces electric currentsurface conductor exciting electron conducting
+material effect skin effect used antenna radiation may also cause certain molecule absorb energy thusheat exploited microwave ovens
+
+derivation
+
+electromagnetic wave general phenomenon predictedclassical law electricity magnetism known maxwells
+equation inspect maxwell equation without source charges
+current find along possibilitynothing happening theory also admit nontrivial solutionchanging electric magnetic field beginning maxwells
+equation vacuum
+
+nabla cdot mathbfeqquad qquad qquad
+nabla time mathbfefracpartialpartialmathbfb qquad qquad 
+nabla cdot mathbfbqquad qquad qquad
+nabla time mathbfbmu epsilon
+fracpartialpartial mathbfe qquad
+
+
+nabla vector differential operator see del
+
+one solution trivial
+
+mathbfemathbfbmathbf
+
+interesting one see one use useful
+vector identity work vector
+
+nabla time left nabla time mathbfa right 
+nabla left nabla cdot mathbfa rightnabla
+mathbfa
+
+see use take curl equation 
+
+nabla time leftnabla time mathbfe right 
+nabla time leftfracpartial mathbfbpartial
+right qquad qquad qquad quad
+
+evaluating left hand side
+
+nabla time leftnabla time mathbfe right 
+nablaleftnabla cdot mathbfe rightnabla
+mathbfenabla mathbfe qquad quad
+
+simplified using equation 
+
+evaluate right hand side
+
+nabla time leftfracpartial mathbfbpartial
+rightfracpartialpartial left nabla
+time mathbfb rightmu epsilon
+fracpartialpartial mathbfe qquad 
+
+equationsandare equal result differential
+equation electric field
+
+nabla mathbfemu epsilon fracpartialpartialmathbfe
+
+applying similar pattern result similar differential equationmagnetic field
+
+nabla mathbfbmu epsilon fracpartialpartialmathbfb
+
+differential equation equivalent wave equation
+
+nabla ffracv fracpartial fpartial
+
+
+
+v velocity wavef describes displacement
+
+notice case electric magnetic fieldvelocity
+vfracsqrtmu epsilon
+
+turn speed light maxwell equationunified permittivity free spacethe permeability free
+spaceand speed light derivationwa known strong relationship light
+electricity magnetism
+
+two equation started fourstill information pertaining wave hidden within
+maxwell equation let consider generic vector waveelectric field
+
+mathbfemathbfe fleft hatmathbfk cdot
+mathbfxc right
+
+mathbfe constant amplitude second
+differentiable function hatmathbfk unit vectordirection propagation mathbfx position vectorobserve fleft hatmathbfk cdot mathbfxc rightgeneric solution wave equation words
+
+nabla fleft hatmathbfk cdot mathbfxc right
+fracc fracpartialpartial fleft
+hatmathbfk cdot mathbfxc right 
+
+generic wave traveling hatmathbfk directionproof trivial
+
+form satisfy wave equation satisfymaxwell equation corresponding magnetic field
+
+nabla cdot mathbfehatmathbfk cdot mathbfe
+fleft hatmathbfk cdot mathbfxc right
+mathbfe cdot hatmathbfk
+
+first maxwell equation implies electric fieldorthogonal direction wave propagates
+
+nabla time mathbfehatmathbfk time mathbfe
+fleft hatmathbfk cdot mathbfxc right 
+fracpartialpartial mathbfb
+mathbfbfracc hatmathbfk time mathbfe
+
+second maxwell equation yield magnetic fieldremaining equation satisfied choicemathbfemathbfb 
+
+electric magnetic field wave travelingspeed light special restricted orientationproportional magnitude ecb electric field magnetic
+field direction wave propagation orthogonalwave propagates direction mathbfe time mathbfb 
+
+viewpoint electromagnetic wave traveling forwardelectric field might oscillating magnetic
+field oscillates right left picture rotatedelectric field oscillating right left magnetic field
+oscillating different solution traveling
+direction arbitrariness orientationrespect propagation direction known polarization
+
+retrieved 
+httpenwikipediaorgwikielectromagneticradiation
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

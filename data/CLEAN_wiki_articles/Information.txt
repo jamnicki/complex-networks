@@ -1,0 +1,214 @@
+copyright
+
+information
+
+ school wikipedia selection related subject everyday life
+mathematics
+
+word wikipedia binary form commonly usedstoring computer information
+enlarge
+word wikipedia binary form commonly usedstoring computer information
+
+information result processing manipulating organizing
+data way add knowledge person receiving
+information concept bear diversity meaning everyday
+usage technical setting generally speaking conceptinformation closely related notion constraint communication
+control data form instruction knowledge meaning mental stimulus
+pattern perception representation
+
+many people speak information age adventknowledge age knowledge society information societyinformation technology even though informatics information
+science computer science often spotlight word
+information often used without careful considerationvarious meaning acquired
+
+information message
+
+information state system interest curiosity message
+information materialized
+
+information quality message sender onereceiver information always something size parameter
+occurrence eventviewed manner informationaccurate may truth lie sound
+kiss even disruptive noise used inhibit flowcommunication create misunderstanding would view form
+information however generally speaking amountinformation received message increase accuratemessage
+model assumes definite sender least one
+receiver many refinement model assume existencecommon language understood sender least onereceiver important variation identifies informationwould communicated message sent senderreceiver capable understanding message however requiring
+existence definite sender information message
+model doe attach significance idea informationsomething extracted environment egobservation reading measurement
+
+information term many meaning depending contextrule closely related concept meaning knowledge
+instruction communication representation mental stimulus simply
+stated information message received understood termdata defined collection fact conclusions
+may drawn many aspect information sinceknowledge acquired study experience instructionoverall information result processing manipulatingorganizing data way add knowledge person
+receiving
+communication theory numerical measure uncertaintyoutcome example say signal contained thousands
+bit information communication theory tends use concept
+information entropy generally attributed shannon see
+
+another form information fisher information conceptra fisher used application statistic estimation
+theory science general fisher information thoughtamount information message carry unobservable
+parameter computed knowledge likelihood function
+defining system example normal likelihood function
+fisher information reciprocal variance lawabsence knowledge likelihood law fisher information
+may computed normally distributed score data reciprocal
+second moment
+
+even though information data often used interchangeablyactually different data set unrelated information
+use properly evaluated upon
+evaluation significant relation datashow relevance converted informationdata used different purpose thus till data
+convey information useful
+
+measuring information entropy
+
+view information message came prominencepublication inof influential paper claude shannona
+mathematical theory communication paper providesfoundation information theory endows word informationtechnical meaning also measure sending device
+equally likely send one set messagepreferred measure information produced one messagechosen set base two logarithm measurecalled selfinformation paper shannon continues
+
+choice logarithmic base corresponds choiceunit measuring information baseis usedresulting unit may called binary digit briefly
+bit word suggested w tukey device two stable
+position relay flipflop circuit store one
+bit information device store bit bell
+system technical journal volpjuly 
+
+complementary way measuring information provided algorithmic
+information theory brief measure information contentlist symbol based predictablespecifically easy generate list sequencewould low algorithmic information measurement sincepredictable pattern pattern continues measurement
+would change shannon information would give information
+measurement symbol since statistically randomnew symbol would increase measurement
+
+
+
+important recognise limitation shannon workperspective human meaning referring meaning contentmessage shannon noted frequently message meaningsemantic aspect communication irrelevant engineering
+problem significant aspect actual message one
+selected set possible message emphasis original
+
+information theory signal part process substance
+something contain specific meaning combining
+algorithmic information theory information theory conclude
+random signal contains informationinterpreted way cannot compressed
+
+micheal reddy noted signal mathematical theorypattern exchanged message containedsignal signal covey ability select set possible
+message information theory system must designedoperate possible selection oneactually chosen since unknown time design
+
+information pattern
+
+information represented pattern view assumes neither
+accuracy directly communicating party instead assumesseparation object representation wellinvolvement someone capable understanding relationshipview seems therefore require conscious mind considerfollowing example economic statistic represent economy however
+inaccurately commonly referred data computing
+statistic field form information sense
+electromagnetic pattern computer network connected
+device related something patterntext displayed keyboard input signal sign symbols
+also category hand according semiotics
+data symbol certain syntax information datacertain semantic painting drawing contain informationextent represent something assortment objects
+table profile landscape word pattern
+something transposed pattern something else latter
+information type information still assumes involvement
+conscious mind either entity constructingrepresentation entity interpreting
+accept information defined merely patternfollow neither utility meaning necessary components
+information surely distinction must made raw
+unprocessed data information posse utility valuequantum meaning information may indeed characterisedpattern necessary condition sufficient exampletelephone book follows specific pattern name address telephone
+number
+
+individual entry doe become informative sense unless
+posse degree utility value meaningexample someone might look girlfriend number might ordertake away etc vast majority number never construedinformation meaningful sense gap datainformation closed behavioural bridge whereby value
+utility meaning added transform mere data patterninformation
+
+one construct representation object one selectively
+extract objectsampling use system sign replace
+encoding sampling encoding resultrepresentation example former sample productexample latter verbal description productcontain information product however inaccurate one
+interprets representation one predict broader patternlimited number observation inference understand relation
+pattern two different thingsdecoding one exampleformer sip soup know spoiled examplelatter examining footprint determine animalcondition case information source constructedpresented sender information repeat informationsense doe assume direct communication assumes
+involvement conscious mind
+
+regardless information dependent upon usually unrelatedseparate medium medium used express words
+position theoretical series bit even outputinterpreted computer similar device unimportant except
+someone something present interpret information
+therefore quantity information totally distinctmedium
+
+information sensory input
+
+often information viewed type input organismdesigned device input two kind input importantfunction organism example food device energybook sensory ecology dusenbery called causal
+input input information importantassociated causal input used predict occurrence
+causal input later time perhaps another placeinformation important association information
+eventually must connection causal inputpractice information usually carried weak stimulus mustdetected specialized sensory system amplified energy inputs
+functional organism device example
+light often causal input plant provides informationanimal colored light reflected flower weakmuch photosynthetic work visual system bee detectsbee nervous system information guide beeflower bee often find nectar pollencausal input serving nutritional function
+
+information type sensory input organismnervous system receives input transforms inputelectrical signal regarded information idearepresentation still relevant slightly different manner
+abstract painting doe represent anything
+concretely viewer see painting nevertheless
+transformed electrical signal create representationpainting defined way information doe relatedtruth communication representation object entertainmentgeneral intended informative music performing arts
+amusement park work fiction thus forminformation sense form information
+according previous definition consider another example
+food supply nutrition taste eatinformation equated sensory input nutritioninformation taste
+information influence lead transformation
+
+information type pattern influence formationtransformation pattern sense needconscious mind perceive much appreciate pattern
+consider example dna sequence nucleotide pattern
+influence formation development organism without
+need conscious mind system theory time seems refer
+information sense assuming information doe necessarily
+involve conscious mind pattern circulating due feedback
+system called information word said
+information sense something potentially perceivedrepresentation though created presented purpose
+
+marshall mcluhan speaks medium effect human
+culture refers structure artifact turn shape
+behavior mindset also pheromone often saidinformation sense
+
+inj bekenstein claimed growing trend physics
+define physical world made informationthus information defined way
+
+see section information property physic also
+see gregory bateson
+
+information property physics
+
+information well defined meaning physic exampleinclude phenomenon quantum entanglement particleinteract without reference separation speed light
+information cannot travel faster light eveninformation transmitted indirectly could lead factattempt physically observing particle entangled
+relationship another slowed even though particleconnected way informationcarry
+
+another link demonstrated maxwell demon thought experiment
+experiment direct relationship informationanother physical property entropy demonstrated consequenceimpossible destroy information without increasingentropy system practical term often mean generating
+heat thus study logic gate theoretical lower boundthermal energy released gate gate
+information destroyed gate simply converted
+gate physical information particular importancetheory quantum computers
+
+etymology
+
+according oxford english dictionary earliest historical
+meaning word information english act informinggiving form shape mind education instructiontraining quote fromfive book come heaveninformation mankind also used item training particular instruction melibee heard great skillreason dame prudence wise information techniques
+
+
+english word apparently derived adding common nounaction ending ation descended french latin tioearlier verb inform sense give form mind
+discipline instruct teach men wise informkingsinform come via french latin verb
+informare give form form idea furthermore latin
+already even contained word informatio meaning conceptidea extent may influenced development
+word information english unclear
+
+final note ancient greek word form eidosword famously used technical philosophical sense platolater aristotle denote ideal identity essence something
+see forms
+
+information data
+
+word information data used interchangeably many
+context however synonym example accordingadam gadomskis observationdata everything iscan
+processed information data describe physicalabstract domain
+
+information records
+
+record specialized form information essentially recordinformation produced byproduct business activitytransaction consciously record activitytransaction retained value primarily value
+evidence activity organization may also
+retained informational value sound record management
+ensures integrity record preserved longrequired
+
+international standard record management isodefines
+record information created received maintained evidence
+information organization person pursuance legal
+obligation transaction business international
+committee archive ica committee electronic record definedrecord specific piece recorded information generated
+collected received initiation conduct completionactivity comprises sufficient content context structure
+provide proof evidence activity
+
+record may retained business value partcorporate memory organization meet legal fiscalaccountability requirement imposed organization willis 
+expressed view sound management business recordinformation delivered six key requirement good corporate
+governancetransparency accountability due process compliance
+meeting statutory common law requirement security personal
+corporate information

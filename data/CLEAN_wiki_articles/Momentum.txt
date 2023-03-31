@@ -1,0 +1,264 @@
+copyright
+
+momentum
+
+ school wikipedia selection related subject general physics
+
+classical mechanic momentumpl momentum unit kgproduct mass velocity object accurate
+measure momentum see section modern definition momentum
+page
+
+general momentum object conceptually thoughtdifficult stop object determined multiplying
+two factor inertia resistance objectaccelerated velocity natural consequencenewton first second law motion lower speedle mass measure inertia result less
+momentum
+
+momentum conserved quantity meaning total momentumclosed system one affected external force whose
+internal force dissipative nature cannot changed
+
+concept momentum classical mechanic originatednumber great thinker experimentalists ren descartes referred
+mass time velocity fundamental force motion galileotwo new science used term impeto italian newtons
+law motion motus latin interpretedsubsequent scholar mean momentum
+
+momentum newtonian mechanics
+
+object moving reference frame momentumframe important note momentum frame dependent
+object may certain momentum one framereference different amount another frame
+
+amount momentum object depends two physical
+quantity mass velocity moving object frame
+reference physic symbol momentum usually denotedsmall bold bold vector written
+
+mathbfp mathbfv
+
+
+p momentum
+mass
+v velocity
+
+using bold text vectors
+
+origin use momentum unclear hasuggested since already used mass mayderived latin petere progress term used
+leibniz
+
+velocity object particular instant given speed
+direction motion instant momentum
+depends includes physical quantity velocity hamagnitude direction vector quantity examplemomentum bowling ball would describedstatement moving westward atm insufficientsay ball haskg momentum momentumfully described unless direction given
+
+momentum system
+
+relating mass velocity
+
+momentum system object vector sum momentumindividual object system
+
+mathbfp mathbfvm mathbfvm
+mathbfvmn mathbfvn
+
+
+mathbfp momentum
+mi mass objectmathbfvi velocity objectn number object system
+
+relating force
+
+force equal rate change momentum
+
+mathbffmathrmdmathbfp mathrmdt 
+
+case constant mass velocity much speed
+light definition result equation mathbff 
+mmathbfacommonly known newton second law
+
+system equilibrium change momentum respect
+time equal 
+
+mathbffmathrmdmathbfp mathrmdt
+mmathbfa 
+
+conservation momentum
+
+principle conservation momentum state total
+momentum closed system object interactionexternal agent constant one consequencecentre mass system object always continuevelocity unless acted force outside system
+
+conservation momentum consequence homogeneity shift
+symmetry space
+
+isolated system one external force absent total
+momentum constant implied newton first lawmotion newton third law motion law reciprocal actions
+dictate force acting system equalmagnitude opposite sign due conservationmomentum
+
+since momentum vector quantity direction thus gun
+fired although overall movement increased comparedshot fired momentum bullet one directionequal magnitude opposite sign momentum gundirection sum zero equal zero
+momentum present either gun bulletmoving
+
+conservation momentum collisions
+
+momentum special property closed systemalways conserved even collision kinetic energyhand conserved collision inelastic since
+momentum conserved used calculate unknown velocities
+following collision
+
+common problem physic requires use factcollision two particle since momentum always conserved sum
+momentum collision must equal sum momenta
+collision
+
+mathbf mathbf mathbf mathbf 
+
+
+u signifies vector velocity collision
+v signifies vector velocity collision
+
+usually either know velocity collision
+would like also find opposite correctly solvingproblem mean know kind collision took placetwo basic kind collision conserve momentum
+elastic collision conserve kinetic energy well total
+momentum collision
+inelastic collision dont conserve kinetic energy total
+momentum collision conserved
+
+elastic collisions
+
+collision two pool snooker ball good examplealmost totally elastic collision addition momentumconserved two ball collide sum kinetic energycollision must equal sum kinetic energy
+beginmatrixfracendmatrix 
+beginmatrixfracendmatrix 
+beginmatrixfracendmatrix 
+beginmatrixfracendmatrix 
+
+since thefactor common term takenright away
+
+headon collisiondimensional
+
+case two object colliding head find final
+velocity
+
+vfleft fracmmmm right
+vileft frac mmm right 
+
+vfleft frac mmm right 
+left fracmmmm right 
+
+easily rearranged
+mf cdot vfmf cdot vfmi
+cdot vimi cdot 
+consider mass one body say far case approximately equal mmapproximately equal
+put value equation calculate value collsion expression change final vvphysical interpretation case collison two body oneheavy lighter body move twice velocityheavier body actual velocity opposite direction
+
+multidimensional collisions
+
+case object colliding one dimensionoblique collision velocity resolved orthogonal components
+one component perpendicular plane collisioncomponent component plane collision velocity
+component plane collision remain unchangedvelocity perpendicular plane collision calculatedway onedimensional case
+
+example twodimensional collision momentumresolved component calculate component
+separately combine produce vector result magnitude
+vector final momentum isolated system
+
+see elastic collision page details
+
+inelastic collisions
+
+common example perfectly inelastic collision two
+snowball collide stick together afterwards equation
+describes conservation momentum
+
+mathbf vim mathbf vileft 
+right mathbf 
+
+shown perfectly inelastic collision onemaximum amount kinetic energy converted forminstance object stick together collision move
+final common velocity one always find reference frameobject brought rest collision andofkinetic energy converted true even relativistic case
+utilized particle accelerator efficiently convert kinetic
+energy new form massenergy create massive
+particles
+
+see inelastic collision page details
+
+modern definition momentum
+
+momentum relativistic mechanics
+
+relativistic mechanic momentum defined
+mathbfpgamma mmathbfv
+
+
+invariant mass object moving
+gammafracsqrtvc lorentz factor
+v relative velocity object observer
+c speed light
+
+relativistic momentum becomes newtonian momentum mmathbfv low
+speed 
+relativistic fourmomentum proposed albert einstein arisesinvariance fourvectors lorentzian translationfourmomentum defined
+left cpxpy right
+
+
+px component relativistic momentum
+e total energy system
+egamma 
+
+length vector mass time speed lightinvariant across reference frames
+
+ecpmc
+
+diagram given alongside serve useful mnemonicremembering relation involving relativistic energye
+invariant mass relativistic momentump
+
+please note notation used diagram creatorinvariant mass subscripted zero
+momentum massless objects
+
+massless object photon also carry momentum formula
+pfrachlambdafracec
+
+
+h planck constant
+wavelength photon
+e energy photon carryc speed light
+
+generalization momentum
+
+momentum noether charge translational invarianceeven field well thing momentumparticle however curved spacetime asymptotically
+minkowski momentum isnt defined
+momentum quantum mechanics
+
+quantum mechanic momentum defined operator wave
+function heisenberg uncertainty principle defines limitaccurately momentum position single observable systemknown quantum mechanic position momentumconjugate variables
+
+single particle electric charge spin momentum
+operator written position basis
+mathbfphbarover inablaihbarnabla
+
+
+nabla gradient operator
+hbar reduced planck constant
+
+commonly encountered form momentum operator though
+general one
+
+momentum electromagnetism
+
+electric andor magnetic field move carry momentum light
+visible radio electromagnetic wave also momentum
+even though photon particle aspect light massstill carry momentum lead application solar
+sail
+
+momentum conserved electrodynamic system may changemomentum field mechanical momentum moving parttreatment momentum field usually accomplishedconsidering socalled energymomentum tensor change time
+poynting vector integrated volume tensor
+field component related energy densitymomentum density
+
+definition canonical momentum corresponding momentum
+operator quantum mechanic interactselectromagnetic field using principle least coupling
+
+mathbf pmmathbf vqmathbf 
+
+instead customary
+
+mathbf pmmathbf 
+
+
+mathbf electromagnetic vector potential
+charged particle invariant mass
+mathbf velocity
+q charge
+
+figurative use
+
+process may said gain momentum terminology impliesrequires effort start process relatively easy
+keep going alternatively expression seen reflect
+process adding adherent general acceptance thus
+ha mass velocity hence gained momentum
+

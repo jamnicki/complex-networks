@@ -1,0 +1,174 @@
+copyright
+
+hydrology
+
+ school wikipedia selection related subject geology geophysics
+
+water coversof earth surface
+enlarge
+water coversof earth surface
+
+hydrology greek yoo yoos hydrologia studywater study movement distribution qualitywater throughout earth thus address hydrologic
+cycle water resource practitioner hydrologyhydrologist working within field either earth environmental
+science physical geography civil environmental engineering
+
+domain hydrology include hydrometeorology surface hydrology
+hydrogeology drainage basin management water quality water
+play central role oceanography meteorology included
+water one many important aspects
+
+hydrological research useful allows better
+understand world live also provides insightenvironmental engineering policy planning
+
+history
+
+hydrology subject investigation engineeringmillennium example aboutbc nile dammedimprove agricultural productivity previously barren lands
+mesopotamian town protected flooding high earthen
+wall aqueduct built greek roman chinese
+built irrigation flood control work ancient sinhalese used
+hydrology build complex irrigation work ancient sri lanka known
+inventiion valve pit allowed construction large
+reservoir anicuts canal still function
+
+marcus vitruvius first century described philosophical
+theory hydrologic cycle precipitation fallingmountain infiltrated earth surface led streamspring lowland adoption scientific approach
+leonardo vinci bernard palissy independently reached accurate
+representation hydrologic cycle th
+century hydrologic variable began quantified
+
+pioneer modern science hydrology include pierre perrault
+edme mariotte edmund halley measuring rainfall runoffdrainage area perrault showed rainfall sufficient account
+flow seine marriotte combined velocity river
+crosssection measurement obtain discharge seine
+halley showed evaporation mediterranean seasufficient account outflow river flowing sea
+
+advance century included bernoulli piezometerbernoulli equation daniel bernoulli pitot tubechezy formula century saw development groundwater
+hydrology including darcys law dupuitthiem well formulahagenpoiseuilles capillary flow equation
+
+rational analysis began replace empiricism century
+governmental agency began hydrological research
+program particular importance leroy sherman unit
+hydrograph infiltration theory robert horton theiss equation describing well hydraulics
+
+since hydrology approached theoretical
+basis past facilitated advance physical
+understanding hydrological process advent computers
+
+hydrologic cycle
+
+central theme hydrology water move throughout earth
+different pathway different rate vivid image
+evaporation water ocean forms
+cloud cloud drift land produce rainrainwater flow lake river aquifer water lakes
+river aquifer either evaporates back atmosphereeventually flow back ocean completing cycle
+
+branch hydrology
+
+chemical hydrology study chemical characteristicwater
+
+ecohydrology study interaction organismhydrologic cycle
+
+hydrogeology study presence movement wateraquifers
+
+hydroinformatics adaptation information technologyhydrology water resource applications
+
+hydrometeorology study transfer water energy
+land water body surface lower atmosphere
+
+isotope hydrology study isotopic signature water
+
+surface hydrology study hydrologic process operatenear earth surface
+
+related fields
+
+aquatic chemistry
+civil engineering
+climatology
+environmental engineering
+geomorphology
+hydraulic engineering
+limnology
+oceanography
+physical geography
+
+hydrologic measurements
+
+movement water earth measured numberway information important assessing water resources
+understanding process involved hydrologic cycle
+following list device used hydrologistused measure
+disdrometerprecipitation characteristics
+evaporationsymons evaporation pan
+infiltrometerinfiltration
+piezometergroundwater pressure inference groundwater
+depth see aquifer test
+radarcloud properties
+rain gaugerain snowfall
+satellite
+sling psychrometerhumidity
+stream gaugestream flow see discharge hydrology
+tensiometersoil moisture
+time domain reflectometersoil moisture
+
+hydrologic prediction
+
+observation hydrologic process used make predictionfuture behaviour hydrologic system water flow water quality
+one major current concern hydrologic researchprediction ungauged basin pub basindata exist
+
+statistical hydrology
+
+analysing statistical property hydrologic recordrainfall river flow hydrologist estimate future hydrologic
+phenomenon however assumes characteristic processes
+remain unchanged
+
+estimate important engineer economistproper risk analysis performed influence investment decisions
+future infrastructure determine yield reliability
+characteristic water supply system statistical informationutilised formulate operating rule large dam forming partsystem include agricultural industrial residential demands
+
+see return period
+
+hydrologic modeling
+
+hydrologic model simplified conceptual representation part
+hydrologic cycle primarily used hydrologic
+prediction understanding hydrologic process two major types
+hydrologic model distinguished
+model based data model black box system using
+mathematical statistical concept link certain inputinstance rainfall model output instance runoff
+commonly used technique regression transfer function neural
+network system identification model knownstochastic hydrology models
+
+model based process description model try represent
+physical process observed real world typicallymodel contain representation surface runoff subsurface flow
+evapotranspiration channel flow farcomplicated model known deterministic hydrology
+model deterministic hydrology model subdividedsingleevent model continuous simulation models
+
+recent research hydrologic modeling try global
+approach understanding behaviour hydrologic systemmake better prediction face major challenge water
+resource management
+
+hydrologic transport
+
+water movement significant mean materialsoil pollutant transported place place initial input
+receiving water may arise point source discharge line
+source area source surface runoff since rather
+complex mathematical model developed facilitatedavailability high speed computer common pollutant classes
+analyzed nutrient pesticide total dissolved solidsediment
+
+application hydrology
+
+designing riparian restoration projects
+mitigating predicting flood landslide drought risk
+designing irrigation scheme managing agricultural
+productivity
+providing drinking water
+designing dam water supply hydroelectric power generation
+designing bridges
+designing sewer urban drainage system
+analyzing impact antecedent moisture sanitary sewer
+systems
+predicting geomorphological change erosionsedimentation
+assessing impact natural anthropogenic environmental
+change water resources
+assessing contaminant transport risk establishing environmental
+policy guidelines
+

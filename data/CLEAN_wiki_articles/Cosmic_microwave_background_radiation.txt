@@ -1,0 +1,356 @@
+copyright
+
+cosmic microwave background radiation
+
+ school wikipedia selection related subject space astronomy
+
+physical cosmology
+
+age universe
+big bang
+blueshift
+comoving distance
+cosmic microwave background
+dark energy
+dark matter
+flrw metric
+friedmann equations
+galaxy formation
+hubble law
+inflation
+largescale structure
+lambdacdm model
+metric expansion space
+nucleosynthesis
+observable universe
+redshift
+shape universe
+structure formation
+timeline big bang
+timeline cosmology
+ultimate fate universe
+universe
+
+related topics
+astrophysics
+general relativity
+particle physics
+quantum gravity
+
+
+cosmology cosmic microwave background radiation often
+abbreviated cmb occasionally cmbr cbr mbr also referredrelic radiation form electromagnetic radiation discoveredfill entire universe thermalkelvin
+black body spectrum peak microwave range frequency
+ofghz corresponding wavelength ofmmcosmologist consider radiation best evidencehot big bang model universe
+
+features
+
+cosmic microwave background spectrum measured firas
+instrument cobe satellite precisely measured black
+body spectrum nature data point error bar graph
+obscured theoretical curve
+enlarge
+cosmic microwave background spectrum measured firas
+instrument cobe satellite precisely measured black
+body spectrum nature data point error bar graph
+obscured theoretical curve
+
+cosmic microwave background isotropic roughly one partroot mean square variation onlykfarinfrared absolute spectrophotometer firas instrument nasa
+cosmic background explorer cobe satellite carefully measuredspectrum cosmic microwave background firas compared cmb
+reference black body difference could seenspectrum deviation black body form might still
+remain undetected cmb spectrum wavelength rangetomm must weighted rms value mostparts per
+millionof cmb peak brightness made cmb spectrum
+precisely measured black body spectrum nature
+
+cosmic microwave background prediction big bang theorytheory early universe made hot plasma photons
+electron baryon photon constantly interactingplasma thomson scattering universe expanded adiabatic
+cooling cosmological redshift ongoing symptom
+caused plasma cool became favourable electroncombine proton form hydrogen atom happened around
+k universe approximatelyyears old
+z point photon scatterneutral atom began travel freely space processcalled recombination decoupling referring electron combining
+nucleus decoupling matter radiation
+respectively
+
+photon continued cooling ever since reached
+k temperature continue drop longuniverse continues expanding accordingly radiation sky
+measure today come spherical surface called surfacelast scattering photon decoupled interaction
+matter early universebillion yearsg ago
+reaching observer earth big bang suggestscosmic microwave background fill observable spaceradiation energy universe cosmic microwave
+background make fraction roughlyof total
+density universe
+
+two greatest success big bang theory prediction
+almost perfect black body spectrum detailed prediction
+anisotropy cosmic microwave background recent
+wilkinson microwave anisotropy probe precisely measuredanisotropy whole sky angular scale ofdegrees
+used estimate parameter standard lambdacdm
+model big bang information shapeuniverse obtained straightforwardly cosmic microwave
+background others hubble constantconstrained must inferred measurements
+
+history
+
+timeline cmb
+important people dates
+andrew mckellar observational detection average
+bolometric temperature ofk based study interstellar
+absorption line reported dominion observatory british
+columbia
+robert dicke predictsradiation cosmic matter atk
+refer background radiation
+george gamow calculates temperature ofk assumingbillion year old universe commenting itis reasonable
+agreement actual temperature interstellar spacemention background radiation
+ralph alpher robert herman estimate temperatureuniverse atk although specifically mention microwave
+background radiation may inferred
+ralph alpher robert herman rereestimate temperaturek
+george gamow estimatesk
+george gamow estimatesk
+srobert dicke reestimates mbr microwave background radiation
+temperature ofk
+g doroshkevich igor novikov publish brief papername cmb radiation phenomenon detectable
+arno penzias robert woodrow wilson measure temperature
+approximatelyk robert dicke j peebles g rollwilkinson interpret radiation signature big
+bang
+firas measure black body form cmb spectrumexquisite precision
+cobe dmr reveals primary temperature anisotropy first
+time
+polarization discovered dasi
+
+cosmic microwave background predicted inby george gamow
+ralph alpher alpher robert herman moreover alpherherman able estimate temperature cosmic microwave
+background bek though two year later reestimatedk although several previous estimatetemperature space see timeline suffered two flaws
+first measurement effective temperature space
+suggest space filled thermal planck
+spectrum second dependent special place edge
+milky way galaxy suggest radiation isotropic
+moreover would yield different prediction earth happened
+located elsewhere universe
+
+theresults gamow alpher widely discussed
+however rediscovered robert dicke yakov zeldovichearly first published recognition cmb radiation
+detectable phenomenon appeared brief paper soviet
+astrophysicist doroshkevich igor novikov springindavid todd wilkinson peter roll dickes colleagues
+princeton university began constructing dicke radiometermeasure cosmic microwave background inarno penziasrobert woodrow wilson crawford hill location bell telephone
+laboratory nearby holmdel township new jersey built dicke
+radiometer intended use radio astronomy satellite
+communication experiment instrument excessk antenna
+temperature could account receivingtelephone call crawford hill dicke famously quipped boy weve
+scooped meeting princeton crawford hill groups
+determined antenna temperature indeed due microwave
+background penzias wilson received thenobel prize physics
+discovery
+
+interpretation cosmic microwave background wacontroversial issue proponent steady
+state theory arguing microwave background resultscattered starlight distant galaxy using model based
+study narrow absorption line feature spectrumstar astronomer andrew mckellar wrote initcalculated therotational temperature interstellar spacek however consensus establishedcosmic microwave background remnant big banglargely new measurement range frequency showedspectrum thermal black body spectrum resultsteady state model unable reproduce
+horn antenna penzias wilson discovered cosmic
+microwave background
+enlarge
+horn antenna penzias wilson discovered cosmic
+microwave background
+
+harrison peebles zeldovich realized early
+universe would inhomogeneity level ofor
+rashid sunyaev later calculated observable imprintinhomogeneity would cosmic microwave background
+increasingly stringent limit anisotropy cosmic microwave
+background set ground based experiment anisotropyfirst detected differential microwave radiometer instrumentcobe satellite
+
+inspired cobe result series ground balloonbased
+experiment measured cosmic microwave background anisotropysmaller angular scale next decade primary goalexperiment measure scale first acoustic peakcobe sufficient resolution resolve first peakanisotropy tentatively detected toco experimentresult confirmed boomerang maximum experimentmeasurement demonstrated universe approximately flatable rule cosmic string major component cosmic
+structure formation suggested cosmic inflation right
+theory structure formation
+
+second peak tentatively detected several experimentdefinitively detected wmap also tentatively
+detected third peak several experiment improve measurementpolarization microwave background small angular scales
+ongoing include dasi wmap boomerang cosmic
+background imager forthcoming experiment include planck
+satellite atacama cosmology telescope south pole telescope
+wmap image cmb anisotropy
+enlarge
+wmap image cmb anisotropy
+
+relationship big bang
+
+standard hot big bang model universe requiresinitial condition universe gaussian random fieldnearly scale invariant harrisonzeldovich spectrumexample prediction cosmic inflation model meaninitial state universe random clearly specified
+way amplitude primeval inhomogeneity 
+therefore meaningful statement inhomogeneityuniverse need statistical nature lead cosmic
+variance uncertainty variance largest
+scale fluctuation observed universe difficult accurately
+compare theory
+
+temperature
+
+cosmic microwave background radiation cosmological red
+shift together regarded best available evidence big
+bang theory discovery cmb mids curtailed
+interest alternative steady state theory cmb gives
+snapshot universe according standard cosmologytemperature dropped enough allow electron proton form
+hydrogen atom thus making universe transparent radiationoriginated someyears big bangthis time period
+generally known time last scattering periodrecombination decouplingthe temperature universe wak corresponds energy aboutev much
+le theev ionization energy hydrogen sincetemperature radiation dropped factor roughly 
+due expansion universe universe expands cmb
+photon redshifted making radiation temperature inversely
+proportional universe scale length detailreasoning radiation evidence big bang see cosmic
+background radiation big bang
+power spectrum cosmic microwave background radiation
+anisotropy term angular scale multipole momentdata shown come wmapacbarboomerang 
+cbiand vsainstruments
+enlarge
+power spectrum cosmic microwave background radiation
+anisotropy term angular scale multipole momentdata shown come wmapacbarboomerang 
+cbiand vsainstruments
+
+primary anisotropy
+
+anisotropy cosmic microwave background divided two
+sort primary anisotropywhich due effect occurlast scattering surface beforeand secondary anisotropywhich
+due effect interaction hot gas gravitational
+potential last scattering surface observer
+
+structure cosmic microwave background anisotropyprincipally determined two effect acoustic oscillationdiffusion damping also called collisionless damping silk damping
+acoustic oscillation arise competition photon
+baryon plasma early universe pressure photon tends
+erase anisotropy whereas gravitational attractionbaryonswhich moving speed much speed light
+make tend collapse form dense halo two effects
+compete create acoustic oscillation give microwave
+background characteristic peak structure peak correspond
+roughly resonance photon decouple particular
+mode peak amplitude
+
+peak contain interesting physical signature first peak
+determines curvature universe topologyuniverse second peaktruly ratio odd peakeven peaksdetermines reduced baryon density third peakused extract information dark matter density
+
+location peak also give important informationnature primordial density perturbation two
+fundamental type density perturbationscalled adiabaticisocurvature general density perturbation mixturetwo type different theory purport explainprimordial density perturbation spectrum predict different mixtures
+adiabatic density perturbation fractional overdensitymatter componentbaryons photonsisismore energy baryon average one spot
+pure adiabatic density perturbation also 
+energy photon andmore energy neutrinoaverage cosmic inflation predicts primordial
+perturbation adiabatic
+
+isocurvature density perturbation sum fractional
+overdensities zero perturbation spot
+ismore energy baryon averagemore energyphoton average andlower energy neutrinoaverage would pure isocurvature perturbation cosmic strings
+would produce mostly isocurvature primordial perturbations
+
+cmb spectrum able distinguish two two
+type perturbation produce different peak location isocurvature
+density perturbation produce series peak whose angular scales
+lvalues peak roughly ratiowhile
+adiabatic density perturbation produce peak whose locationratioobservations consistent primordial
+density perturbation entirely adiabatic providing key support
+inflation ruling many model structure formation
+involving example cosmic strings
+
+collisionless damping caused two effect treatmentprimordial plasma fluid begin breakincreasing mean free path photon primordial
+plasma becomes increasingly rarefied expanding universe
+finite thickness last scattering surface lcause mean free path increase rapidly decoupling
+even compton scattering still occurring
+
+effect contribute equally suppressionanisotropy small scale give rise characteristic
+exponential damping tail seen small angular scale
+anisotropies
+
+thickness refers fact decouplingphoton baryon doe happen instantaneously instead
+requires appreciable fraction age universeera one method quantify exactly long process took usphoton visibility function pvf function defineddenoting pvf probability cmb photon last
+scattered time tdt given ptdt
+
+maximum pvf time likely given
+cmb photon last scattered known quite precisely firstyear
+wmap result put time maximum askyr 
+often taken time cmb formed howeverfigure long took photon baryon decoupleneed measure width pvf wmap team findpvf greater half maximum value full width half
+maximum fwhm interval ofkyr measure
+decoupling took place roughlyyearscomplete universe roughlyyears old
+
+late time anisotropy
+
+creation cmb modified several physical
+process collectively referred latetime anisotropy secondary
+anisotropy emission cmb ordinary matteruniverse mostly form neutral hydrogen helium atoms
+observation galaxy seems volumeintergalactic medium igm today consists ionized material
+since absorption line due hydrogen atomimplies period reionization material universe
+break hydrogen ions
+
+cmb photon scatter free charge electronbound atom ionized universe electronliberated neutral atom ionizing ultraviolet radiation today
+free charge sufficiently low densityvolume universe measurably affect cmb
+however igm ionized early time universe
+wa still denser two main effect cmb
+small scale anisotropy erased lookingobject fog detail object appear fuzzy
+physic photon scatter free electronsthomson
+scattering induces polarization anisotropy large angular
+scale large angle polarization correlated large
+angle temperature perturbation
+
+effect observed wmap satellite
+providing evidence universe ionized early times
+redshift larger thanthe detailed provenance early
+ionizing radiation still matter scientific debate mayincluded starlight first population starspopulation
+iii star supernova first star reached endlife ionizing radiation produced accretion diskmassive black holes
+
+period emission cosmic microwave backgroundobservation first star semihumorously referred
+cosmologist dark age periodintense study astronomer seecentimeter radiation
+
+effect occur reionization observationcosmic microwave background cause anisotropy includesunyaevzeldovich effect cloud high energy electrons
+scatter radiation transferring energy cmb photons
+sachswolfe effect cause photon cosmic
+microwave background gravitationally redshifted blue shifted
+due changing gravitational fields
+e polarization measurement marchin term angular scale
+multipole moment polarization much poorly measured
+temperature anisotropy
+enlarge
+e polarization measurement marchin term angular scale
+multipole moment polarization much poorly measured
+temperature anisotropy
+
+polarization
+
+cosmic microwave background polarized levelmicrokelvins two type polarization called emodesbmodes analogy electrostatics electric
+field efield vanishing curl magnetic field bfield
+ha vanishing divergence emodes arise naturally thomson
+scattering inhomogeneous plasma bmodesmeasured thought amplitude akproduced plasma physic alone signalcosmic inflation determined density primordial
+gravitational wave detecting bmodes extremely difficult
+particularly given degree foreground contaminationunknown weak gravitational lensing signal mix relatively
+strong emode signal bmode signal
+
+microwave background observations
+
+design cosmic microwave background experimentchallenging task greatest problemdetector challenge observing differencemicrokelvins top signal difficult many improved
+microwave detector technology designed microwave
+background application technology used hemt mmic sis
+superconductorinsulatorsuperconductor bolometers
+experiment generally use elaborate cryogenic system keepdetector cool often experiment interferometermeasure spatial fluctuation signal skyinsensitive averagek background another problemf noise intrinsic detector usually experimental scan
+strategy designed minimize effect noise
+optic minimize side lobe microwave optic usually utilize
+elaborate lens feed horns
+water vapor water absorbs microwave radiation fact
+utilized operation microwave oven rather
+difficult observe microwave background groundbased
+instrument cmb research therefore make increasing use airspaceborne experiment groundbased observation usually made
+dry high altitude location chilean andessouth pole
+
+analyses
+
+analysis cosmic microwave background data produce mapangular power spectrum ultimately cosmological parametercomplicated computationally difficult problem although computingpower spectrum map principle simple fourier transform
+decomposing map sky spherical harmonic practicehard take effect noise foreground account
+constraint many cosmological parameter obtainedeffect power spectrum result often calculated using
+markov chain monte carlo sampling techniques
+
+low multipoles
+
+increasingly precise data provided wmapnumber claim cmb suffers anomalynongaussianity longstanding lowl multipole
+controversy even cobe map observed quadrupole
+lspherical harmonic low amplitude comparedprediction big bang observer pointedanisotropy wmap data appear consistentbig bang picture particular quadrupole octupole mode appear unexplained alignmentecliptic plane number group suggested could
+signature new physic largest observable scales
+ultimately due foreground cosmic variance problemlargest mode never well measured small angular scale
+mode analysis performed two mapforeground removed best possible internal linear
+combination map wmap collaboration similar map prepared
+max tegmark others later analysis pointedmode susceptible foreground contaminationsynchrotron dust freefree emission experimental
+uncertainty monopole dipole low quadrupoleappear robust measured value likelihood roughly
+lambdacdm model carefully accounting procedure
+used remove foreground full sky map reducessignificance alignment may suggest dueforeground contamination
+
+retrieved 
+httpenwikipediaorgwikicosmicmicrowavebackgroundradiation
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

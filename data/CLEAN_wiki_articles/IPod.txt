@@ -1,0 +1,491 @@
+copyright
+
+ipod
+
+ school wikipedia selection related subject computing hardwareinfrastructure engineering
+
+correct title article ipod initial lettershown capitalized due technical restrictions
+
+white fifth generation ipod sleeve earphones
+enlarge
+white fifth generation ipod sleeve earphones
+
+ipod brand portable medium player designed marketedapple computer launched indevices ipod rangeprimarily music player designed around central scroll wheel
+although ipod shuffle button fullsized model
+store medium internal hard drive smaller ipod nanoipod shuffle use flash memory like many digital audio player ipods
+also serve external data storage device apple chose focus
+development ipod simple user interface easeuse rather technical capability ipod doescreen built ipod shuffle ipod shuffle named
+ha switch allowing song shuffledorder later ipod given functionality
+software command
+
+octoberthe lineup consists videocapable fifth
+generation ipod smaller ipod nano displayless ipod
+shuffle model updated september 
+
+bundled software used transferring music called itunesjukebox application itunes store comprehensive library musicuser computer play burn rip music cdalso sync photo videos
+
+ipod currently world bestselling digital audio playerworldwide mainstream adoption make one popular
+consumer brand apple design choice proprietary actions
+however led criticism legal battles
+
+history design
+
+ipod came apple digital hub strategy company began
+creating software growing market digital devicepurchased consumer digital camera camcorderorganizer wellestablished mainstream market company found
+digital music player lacking user interface design decideddevelop ipod name apple registered internet
+kiosk never put use
+
+apple hardware engineering chief jon rubinstein assembled teamengineer design along engineer anthony fadell stan
+ng built product year unveileddecemberceo steve job announced maccompatible
+product agb hard drive putsongs pocket
+
+jonathan ive senior vice president industrial design apple
+computer led team designed ipod established
+apple dominant presence player market
+
+uncharacteristically apple develop ipod software
+inhouse instead apple used design chain contractedportalplayer already reference design based onarm cores
+rudimentary software running commercial microkernel embedded
+operating system portalplayer previously workingibmbranded player bluetooth headphone apple contracted
+another company pixo create refine user interfacedirect supervision steve jobs
+
+established apple continued refine software lookfeel starting ipod mini chicago font used early
+macintosh computer replaced espy sans originally
+used eworld copland recent ipod switched fontpodium sansa font similar apple corporate font myriadipod colour display adopted mac theme like aqua
+progress bar brushed metal tuner lock interfaces
+
+user interface
+
+recent ipod display use high quality antialiased graphics
+text sliding animation ipod five buttonnewer generation button integrated scroll wheelinnovation give uncluttered minimalistic interfacebuttonmenuto traverse backwards menu togglebacklight older ipods
+centreto select menu item
+playpausethis double switch held
+fast forwardskip forward
+fast reverseskip backwards
+
+click wheel become standard form input new
+ipod largely spaceefficient design
+enlarge
+click wheel become standard form input new
+ipod largely spaceefficient design
+
+operation scrolling menu itemcontrolling volume handled scroll wheel rotational
+manner clockwise denoting downward movement counterclockwise
+signaling upward movement first generation used scroll wheel
+physically turned button clustered aroundsecond generation replaced touch wheel reacts human
+capacitance third generation rearranged button touch
+wheel left place fourth generation ipod forwardmini nanos button integrated directlywheel called click wheel wheel still usedscrolling button must physically pressed control
+playback innovation give uncluttered minimalistic interface
+
+ipod shuffle nd generation onlyipods withoutscreen consequently five button function differentlylarger model playpause button centre surrounded
+four button two control volume two control track
+skipping
+
+hold switch top ipod prevents accidental button
+press newer ipod automatically pause playback headphones
+unplugged headphone jack playback doe resume
+headphone reinserted ipod crashed frozen
+reset switching hold holding menucentre menu play ipod forseconds
+
+software
+
+ipod play aac protected aac aiff wav audible
+audiobook apple lossless audio file format fifth generation
+ipod also play mpeghmpeg avc quicktime video
+format restriction video dimension encoding techniquebitrates apple doe support microsofts wma audio formatunlike
+medium playersbut converter nondrm wma fileprovided window version itunes midi ogg vorbis files
+cannot played ipod converted audio file using
+advanced menu itunes alternative opensource audio formats
+flac supported
+
+time ipod connects host computer itunes synchronize
+music playlist entire music library user chooseautomatic manual synchronization song rating setipod synchronized later itunes library
+
+itunes store
+
+itunes store formerly itunes music store online medium store
+run apple accessed via itunes introduced onapril
+sell individual song relatively easily cheaplytypical price eu per song ipodportable music player play purchased music episode sometimes movie available forthough prices
+vary store became market leader soon launchapple announced sale video itunes store 
+octoberfulllength movie became available onseptember 
+ranging price 
+purchased audio file use aac format added encryptionencryption based controversial fairplay digital rights
+management drm system five authorized computerunlimited number ipod play file burning file ontoaudio remove drm cost reduced qualityrecompressed one lossy format another
+
+ipod cannot play music file competing music storenapster msn music use rival drm technology like microsofts
+protected wma realnetworks helix drm realnetworks claimapple creating problem using fairplay lock users
+using itunes store steve job stated apple make little
+profit song sale apple store promote ipod sales
+
+file storage
+
+ipod function mass storage device store data fileipod formatted mac computer hf plus file
+system format formatted window fat format used
+window cannot access filesystems user must use itunes
+compatible thirdparty software load audio video photos
+way playable viewable ipod unlike
+playsforsurecompatible player simply copying filedrive allow ipod properly access third
+party ipod software allows however
+
+ipod formatted plus able serve boot disk mac
+computer allowing one portable operating system installed
+older ipod firewire port could additionally functionfirewire disk mode advent windowscompatible ipodipod default file system switched plus fat
+although reformatted either filesystem excludingipod shuffle strictly fat default windowsinstalled
+ipod formatted fat file system
+
+itunes cannot transfer song video device computer
+although itunesallows music purchased online media
+file stored ipod hidden folder togetherproprietary database file hidden content accessedhost operating system enabling hidden file shown audio
+recovered manually dragging file folder onto
+itunes library using thirdparty software
+
+additional features
+
+larger model also limited pdalike functionalitydisplay text file contact schedule viewedsynchronized host computer builtin gameavailable including brick parachute solitaire music quiz brick
+clone breakout originally invented apple
+cofounder steve wozniak
+firmware update released septemberbrought several new
+feature generation ipod including downloadable games
+adjustable screen brightness gapless playback
+
+connectivity
+
+originally firewire connection host computer usedupdate song recharge battery battery could also charged
+power adapter included firstgenerations
+
+third generation began including dock connector allowingfirewire usb connectivity provided better compatibilitypc firewire port time however
+device could charged usb firewire cablenonetheless needed connect adapter dock connector
+also brought opportunity exchange data sound poweripod ultimately created large market accessories
+manufactured third party belkin griffin generation ipod shuffle singlemm jack actheadphone jack data port dock
+
+fourth generation ipod allowed recharging via usb eventually
+apple began shipping ipod usb dock connector cable instead
+firewire cable firewire cable available separatelyapple however fourth generation ipod could use either firewire 
+usb 
+
+th generation ipod apple discontinued using firewire
+information transfer preferring usbdue broader
+popularity port firewire change greatly easedsimilar transfer rate two type connection
+however firewire still supported charging ipod apple
+offer firewire cable purchase
+
+chipsets electronics
+
+caption electronic component used ipods
+
+model storage medium microcontroller audio chip
+ipod g ginch rpmmm ata hard driveproprietary connector made toshiba two arm tdmiderived cpus
+running atmhz various audio codecs manufactured wolfson
+microelectronics
+ipod g variable speed arm tdmi cpu running peak ofmhz
+save battery life
+ipod mini ginch microdrives manufactured hitachi
+ipod nano flash memory samsung toshiba othersarm tdmi
+cpusmhz
+ipod nano samsung systemonchip based around arm processor
+ipod shuffle flash memory sigmatel stmp chip handlemusic decoding audio circuitry
+
+ipod operating system stored dedicated storage medium
+additional flash rom chip eithermb orkb containsbootloader program tell device loadstorage medium ipod also hasmb ram although theand 
+gb fifth generation havemb portion ram used hold
+ipod loaded firmware majority serfcache song storage medium example ipod could spin
+hard disk copy aboutmb upcoming song ram
+thus saving power requiring drive spin song
+
+current ipod model use internal lithiumion battery first
+second generation used lithium polymer battery larger
+model use touch wheel provided synaptics
+
+onaprilee time reported samsung contract
+provide medium processor future model ipod replacing
+apple previous design supplier portalplayer
+
+ipod models
+
+model generation image capacity change introduced connection
+original release date launch price ipod ipod ggb first release mechanical scroll wheel
+physically turned firewireoctober
+g ipod ggb touch sensitive wheel firewire portcover firewirejuly
+g ipod ggb dock connector port introducedbecame standard future ipod central row touch
+sensitive button firewire usb syncing onlyapril
+
+gphoto ipod ggb button integrated click
+wheel colour display photo viewer introduced octoberand
+replaced monochrome model junefirewire usb july 
+
+g ipod ggb slimmer design larger screen video
+player lyric support introduced white first time
+black adapter universal dock cable included
+
+septemberrevision featured brighter display longer video
+battery life music search function modelintroduced replace model discontinued
+usb firewire charging onlyoctoberlater
+
+ipod mini ipod mini ggb first release available incolors
+usb firewirejanuary
+ggb brighter color variant longer battery life click
+wheel lettering matched body color adaptergold colour
+discontinued usb firewirefebruary
+ipod nano g ipod nanogb first release successoripod mini slimmer design flash memory colour screen lyrics
+support usb firewire charging onlyseptember
+
+g black ipod nanogb anodized aluminium case incolors
+brighter screen longer battery life usbseptember
+
+ipod shuffle g ipod shufflembgb first release ipod
+without screen wheellike input usbjanuary
+later
+g ipod shufflegb aluminium case smaller form factor plus
+builtin clip usb via dock october
+timeline ipod model releases
+
+new generation usually feature refinement whilst
+typically smaller lighter predecessor notable
+change include touch sensitive wheel replacing mechanical
+scroll wheel colour display flash memory replacing hard disks
+discontinued model include four generation fullsized ipod
+two generation ipod mini first generation nano
+shuffle information released ipod availableapple website
+
+first generation ipod mac compatible apple later added
+limited window support time window user required
+thirdparty software musicmatch jukebox ephpod xplaymanage music musicmatch included bundled cdjulyand onwards every ipod made fully compatible either
+mac window apple released window version itunesoctober 
+
+special edition colour variants
+
+decemberapple unveiled first limited edition ipodeither madonna tony hawk beck signature doubt band
+logo engraved back extra 
+onoctoberapple introduced special edition fourth
+generation monochrome ipod designed colour scheme latest
+albumhow dismantle atomic bomb irish rock band ublack case red scroll wheel back engraved
+signature band member ipod updated alongsideipod photo fifth generation ipod
+
+onoctoberapple released special edition redgb ipod nano
+part productred campaign three week later angb
+version released sold pricestandard colour model sale donated global
+fund fight aids
+
+apple also released special edition harry potter ipodengraved hogwarts crest back availablepurchaser harry potter audiobooks first appearedipod photo late fourth generation updatedfifth generation ipod since discontinued
+
+first generation ipod nano fifth generation ipod released
+black white variant second generation ipod nano inherited
+case design mini
+
+criticisms
+
+battery life advertising
+
+apple stated original fifth generationgb andgb ipods
+battery life tohours tohours music
+playback respectively used controlled limited testrealworld use many user report battery life thanhours
+thegb video ipod
+
+inclass action lawsuit brought apple complaining
+battery charge lasted shorter length time stated
+battery degraded time lawsuit settledoffering individual eitherstore credit free battery
+replacement
+
+apple later complained competitor sony misled consumers
+advertising sonys music player apple complained sony
+considered realworld usage
+
+nonreplaceable battery
+
+battery ipod designed removed replaceduser although user able pry case openreplace battery online store sell compoundingproblem apple initially would replace wornout batteryofficial policy customer buy refurbished
+replacement ipod cost almost equivalent brand new onelithiumion battery eventually lose capacity lifetime
+guideline available prolonging lifespan situation
+led small market thirdparty battery replacement kits
+
+apple announced battery replacement program onnovembera
+week high publicity stunt website neistat brothers
+initial cost u lowered inone
+week later apple offered extended ipod warranty thirdparty company offer cheaper battery replacement kit often
+use higher capacity battery ipod nano soldering toolneeded battery soldered onto main boardfifth generation ipod battery held onto backplateadhesive
+
+bass response
+
+third generation ipod weak bass response shown audio
+test combination undersized blocking capacitortypical low impedance consumer headphone form highpass
+filter attenuates lowfrequency bass output todb
+similar capacitor used fourth generation ipodproblem reduced using high impedance headphone completely
+masked driving highimpedance line level load first
+generation ipod shuffle dual transistor output stage rathersingle capacitorcoupled output thus doe exhibit reduced
+bass response load
+
+equalizer
+
+sound enhanced ipod software equalizer eqeq settingslike rock acoustic bass boostercan cause
+bass distortion easily
+
+equalizer amplifies digital audio level beyond softwares
+limit causing distortionclipping song bass drumuse bassy instrument even amplifier level low notable
+song example include bob sinclars love generation jem wishone possible workaround reduce volume level recorded
+mp modifying audio file however cannot donedrmencrypted music different tool needed different
+file format
+
+reliability quality control
+
+according asurvey conducted macintouch websiteipod reliability generally improved new generation
+although apple reported september octobera
+minority generation ipod carried virus called ravmoneexe
+virus affect window operating system cleaned using
+antivirus program instruction apple website
+
+surface generation ipod nano generation
+ipod become scratched easily many user complained class
+action lawsuit filed apple initially considered issue minor
+defect later began shipping ipod protective sleeves
+several product available remove scratchicleaner applesauce metal polish brasso
+
+ipod like portable music player may potential causehearing loss used prolonged period included
+earphone earlya louisiana man sued apple claimingcompany failed inform public risk ipods
+listened long time high volume respondapple introduced volume limit option generation ipodnanos shuffle however shuffle must configured itunes
+
+worker exploitation
+
+onjunea british newspaper mail sunday reported ipods
+mainly manufactured worker earn per
+month work hour shift report stated fivestory
+longhua factoryowned foxconnhousesworkersliving dormitory housepeople report also
+claimed visitor allowed plant securedpolice officer allegation denied foxconn apple
+acknowledged worker hour excessive said supplier
+would enforcing normal hour week
+
+patent disputes
+
+inapple computer faced two lawsuit claiming patent infringement
+ipod associated technology advanced audio devices
+claimed ipod breached patent music jukeboxhong kongbased portfolio company called patrights filed suit
+claiming apple fairplay technology breached patent issuedinventor keung tse latter case also includes online music
+store sony realnetworks napster musicmatch defendants
+
+apple application united state patent trademark office
+patent rotational user input used ipods
+interface received third nonfinal rejection nfr august 
+also augustcreative technology one apple main rivalmp player market announced held patent partmusic selection interface used ipod creative dubbedzen patent granted onaugustonmaycreative filed
+another suit apple patent infringement united
+state district court northern district california creative
+also asked united state international trade commissioninvestigate whether apple breaching trade law importing
+ipod united states
+
+onaugustapple creative announced broad settlementend legal dispute apple pay creative millionpaidup license use creatives recently awarded patent apple
+product creative announced intention produce ipod
+accessory joining made ipod program apple also saidrecoup part payment creative successful licensing
+patent
+
+sales
+
+since octoberthe ipod dominated digital music player sales
+united state overof market hard drivebased
+player overof market type playeryear januaryto januaryits high rate sale caused
+u market share increase fromtoand julythe
+market share measured atthe release ipod mini helped
+ensure success time competing flashbased music
+player dominant
+
+first quarter result ofapple reported earnings millionits highest quarterly revenue company history
+although much attributed ipod sale unknown
+apple several industry analyst suggested ipod userlikely purchase apple product mac computers
+
+onjanuaryhewlettpackard announced would sell
+hpbranded ipod license agreement apple several new
+retail channel usedincluding walmartand hpbranded ipods
+eventually made upof ipod sale julyhp stopped
+selling ipod due unfavorable term condition imposed apple
+
+ipod sale according apple quarterly financial result 
+q recent data availableq sale figureforecast sale fourth apple fiscal quarter end september
+december quarter first next year although
+apple includes number ipod sold regular press
+release concerning quarterly earnings alwaysearly day ipod
+ipod quarterly sales
+enlarge
+ipod quarterly sales
+fiscal quarter ipod sold
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+q
+total
+
+advertising
+
+ipod lightrail wrap advertising minneapolis minnesota
+enlarge
+ipod lightrail wrap advertising minneapolis minnesota
+ipod billboard midtown toronto ontario
+enlarge
+ipod billboard midtown toronto ontario
+
+apple promoted ipod itunes several advertising
+campaign particularly silhouette commercial usedprint commercial feature people dark silhouettes
+dancing music brightcolored background silhouettes
+hold ipod shown distinctive white
+
+tv advert used variety song mainstreamrelatively unknown artist whilst commercial featured
+silhouette specific artist including bob dylan eminem
+caesar wynton marsalis successive commercial also used
+increasingly complex animation newer technique included using
+textured background arena photorealistic lightingsilhouette character using luminescent light trail mademoving ipod 
+
+earphones
+
+ipod white earphone cord become symbolic brandadvertisement feature prominently fact earphonestrong visual recognition characteristic saidliability arise robbery grand larceny
+new york city subway spokesperson nyc police
+suggested ipod might behind increases
+
+accessories
+
+several company produce accessory designed ipodmarket sometimes described ipod ecosystem
+
+accessory add extra feature music playersound recorder radio tuner wired remote control music
+transfer device audiovisual cable connectionaccessory offer unique feature like nikeipod pedometer
+ipod camera connector popular accessory include
+external speaker wireless remote control protective casesfilms
+help prevent surface scratch even wireless earphones
+notable manufacturer resellers include griffin belkin jbl bose
+monster cable apple
+
+car integration
+
+bmw released first ipod automobile interface allowed drivers
+newer bmw vehicle control ipod using builtin steering
+wheel control radio head unit button apple announced 
+similar system would available additional vehicle brands
+including mercedesbenz volvo nissan alfa romeo ferrari acura
+audi honda speech recognition renault volkswagen
+
+independent stereo manufacturer including jvc pioneer kenwood
+alpine harman kardon also ipodspecific integration solutions
+alternative connection method include using adaptor kit viacassette deck changer port rca input transmitters
+itrip although personal transmitter illegalcountries
+
+airliner integration
+
+mid six airlinescontinental delta emirate air france
+klm united begin offering passenger ipod seat
+connection power charge ipod flight allowvideo content ipod viewed seat back displays
+integrating seamlessly airline inflight entertainment ife
+system also enable ife system play music television
+show movie stored ipod well function control
+system octoberapple also began selling amagsafe airline
+power adapter plug airline seat power port allowingmacbook macbook pro notebook portable computer maintain power
+full duration flight
+

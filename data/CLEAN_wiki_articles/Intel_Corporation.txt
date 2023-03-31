@@ -1,0 +1,393 @@
+copyright
+
+intel corporation
+
+ school wikipedia selection related subject companies
+
+intel corporation
+typepublicnasdaq intc
+founded
+headquartersunited state santa clara california usa incorporated
+delaware
+key peoplepaul otellini ceo
+craig barrett chairman
+industrysemiconductors
+productsmicroprocessors
+flash memory
+motherboard chipsets
+network interface card
+revenuebillion usd
+operating incomebillion usd
+net incomebillion usd
+employees
+sloganleap ahead
+websitewwwintelcom
+
+intel corporationnasdaq intc sehkis world largest
+semiconductor company leading manufacturer seriesmicroprocessor processor ibm pccompatible personal computers
+founded inas integrated electronics corporation basedsanta clara california usa intel also make motherboard chipsets
+network card flash memory embedded processordevice related communication computing foundedsemiconductor pioneer robert noyce gordon moore intel combines
+advanced chip design capability leadingedge manufacturing
+capability originally known primarily engineer technologists
+intels successful intel inside advertising campaignmade pentium processor household names
+
+intel early developer sram dram memory chiprepresented majority business earlyintel created first commercial microprocessor chip initcreation personal computer became
+primary business intel invested heavily new
+microprocessor design fostering rapid growth industry period intel became facto monopoly
+supplier microprocessor wa known aggressive
+tactic defense market position well strugglemicrosoft control direction industry
+
+early microsoft passed intel power industry competitor emerged advanced microprocessor
+market intels novemberstock market capitalization leonequarter itshigh onlyof microsofts
+
+history
+
+intel headquarters santa clara
+enlarge
+intel headquarters santa clara
+
+intel founded inby gordon moore chemist physicist
+robert noyce physicist coinventor integrated
+circuit left fairchild semiconductor noteworthyintel competitor amd also founded member traitorous
+eight inintels fourth employee andy grove chemical
+engineer ran company muchhighgrowth grove remembered company key
+business strategic leader end intel one
+largest successful business world though
+fierce competition within semiconductor industry since
+diminished position
+
+intel grown several distinct phase founding intel
+wa distinguished simply ability make semiconductorprimary product static random access memory sram chip intels
+business grew expanded improvedmanufacturing process produced wider range product still
+dominated various memory device intel created first
+microprocessor inby early business dominated
+dynamic random access memory chip however increased competition
+japanese semiconductor manufacturer bydramatically
+reduced profitability market sudden successibm personal computer convinced thenceo grove shift companys
+focus microprocessor change fundamental aspectbusiness model end decision proven
+successful intel embarked year period unprecedented
+growth primary profitable hardware supplier industry aftergrowth demand highend microprocessors
+slowed competitor garnered significant market share initiallylowend midrange processor ultimately across product
+range intels dominant position reduced earlythenceo craig barrett attempted diversify company business
+beyond semiconductor activity ultimately
+successful inandceo paul otellini reorganized company
+refocus core processor business announced seriesdramatic cut size intels workforce ultimately
+reduce company size 
+
+septemberintel nearlyemployees 
+facility world wide itsrevenues werebillionfortuneranking th stock symbol intc listednasdaq
+
+srams microprocessor
+
+company first product randomaccess memory integrated
+circuit intel grew leader fiercely competitive
+dram sram rom market throughout concurrently intel
+engineer marcian hoff federico faggin stanley mazor masatoshi
+shima invented first microprocessor originally developedjapanese company busicom replace number asics calculator
+already produced busicom intelwas introduced mass
+market novemberthough microprocessor become
+core intels business mids note intelusually given credit texas instrument almostsimultaneous
+invention microprocessor
+
+dram microprocessors
+
+inat dawn personal computer era intels profit came
+increased pressure japanese memorychip manufacturerthenpresident andy grove drove company focusmicroprocessor grove described transition bookparanoid survive key element plan notionconsidered radical becoming single source successorpopularmicroprocessor
+
+manufacture complex integrated circuit reliable
+enough customer depend single supplier grove began
+producing processor three geographically distinct factoryceased licensing chip design competitor zilog amd
+pc industry exploded late intelone primary beneficiaries
+
+intel processor ibm 
+despite ultimate importance microprocessor theandsuccessor theand thewere never major revenue contributors
+intel next processor theand variant 
+wa completed inintel embarked major marketing sales
+campaign chip nicknamed operation crush intended win
+many customer processor possible one design win wanewlycreated ibm division though importancefully realized time
+
+ibm introduced personal computer inand rapidly
+successful inintel created themicroprocessor though ibm
+chose use embarking effort produce processor crosslicensing agreement intel compaqfirst ibm clone manufacturer inproduced desktop system
+based fasterprocessor inquickly followedfirst based system beating ibm establishingcompetitive market pccompatible system setting intelkey component supplier
+
+ microprocessor
+
+period grove dramatically redirected company closing
+much dram business directing resource microprocessor
+business perhaps importance decisionsinglesource themicroprocessor prior microprocessor
+manufacturing infancy manufacturing problem frequently
+reduced stopped production interrupting supply customermitigate risk customer typically insisted multiple
+manufacturer produce chip would use ensure consistent
+supply theand series microprocessor producedseveral company notably zilog amd grove made decisionlicense thedesign manufacturer instead producingthree geographicallydistinct factory santa clara hillsboro phoenix convincing customerwould ensure consistent delivery success compaqs deskpro
+established thea dominant cpu choice intel achievedposition nearexclusive dominance supplier profitfunded rapid development higherperformance chip designhigherperformance manufacturing capability propelling intelposition unquestioned leadership early
+ pentium itanium
+
+intel introduced themicroprocessor inand informally
+established second design team designing processor codenamed
+p parallel committing major new processor every
+two year versus four year design previously
+taken wa introduced inas intel pentium substituting
+trademarked name former part number number like 
+cannot trademarked followed inas pentium proimproved pentium innew architecture developed
+alternately santa clara california hillsboro oregon haifa
+israel
+
+intels santa clara design team embarked inon successorx architecture codenamed first attempt dropped year
+later quickly revived cooperative programhewlettpackard engineer though intel soon took primary design
+responsibility resulting implementation bit
+architecture itanium introduced junethe
+itaniums performance running legacy code achieve
+expectation inititally failed effectively competebit extension original architecture first amdamd intel emt intel continues develop
+itanium architecture
+
+period intels hillsboro team designed introduced 
+p pentium pro inthe willamette processor codenamed pp marketed pentiumand finally bit extensionx architecture present version pentiumandintel corechips
+
+pentium flaw
+
+juneintel engineer discovered flaw floatingpoint
+math subsection pentium microprocessor certain
+datadependent condition loworder bit resultfloatingpoint division operation would incorrect errorquickly compound floatingpoint operation much larger errors
+subsequent calculation nonetheless intel decided correcterror future chip revision disclose
+octoberdr thomas nicely professor mathematicslynchburg college independently discovered bug upon receiving
+response inquiry intel octoberposted message
+internetword bug spread quickly internetindustry press bug easy replicateaverage user sequence number one could entermicrosofts calculator tool show error intels statementwa minor even erratum accepted many
+computer user thanksgivingthe new york time ran piece
+journalist john markoff spotlighting error intel changedposition decided offer replace every chip problem
+quickly putting place large enduser support organizationresulted amillion charge intelsrevenue
+
+paradoxically pentium flaw incident intels responsesurrounding medium coverage propelled intel technology
+supplier generally unknown computer user household name
+dovetailing uptick intel inside campaign episode
+considered positive event intel changing
+business practice enduser focusedgenerating substantial public awareness avoidinguser lasting negative impression
+
+intel inside intel system division intel architecture labs
+
+period intel undertook two major supporting programhelped guarantee processor success first widelyknown
+theintel inside marketing branding campaign campaign
+established intel component supplier littleknown
+outside industry household name second programlittleknown intels system group began earlymanufacturing pcmotherboards main board componentpersonal computer one containing processor memory
+shortly intel began manufacturing fullyconfigured white box
+system dozen clone company rapidly sprangpeak mids intel manufactured overof pcs
+making thirdlargest supplier time manufacturing
+leadingedge motherboards system intel placed pressuremanufacturer rapidly produce system newest
+microprocessor system architecture including pci bus usbinnovation turn led rapid adoptionnew processor turn making successful competitiondifficult followers
+
+intels architecture lab ial responsiblemany hardware innovation personal computer including
+pci bus pci express pcie bus universal serial bus
+usb bluetooth wireless interconnect nowdominant
+architecture multiprocessor server ials software effort met
+mixed fate video graphic software important
+development software digital video later efforts
+largely overshadowed competition microsoftcompetition intel microsoft revealed testimonyial vicepresident steven mcgeady microsoft antitrust trial
+
+another factor contributing rapid adoption intels processors
+period successive release microsoft windows
+operating system requiring significantly greater processor
+resource release windowswindowsand window 
+provided impetus successive generation hardware
+
+competition antitrust espionage
+
+two factor combined end dominance slowing demand
+growth beginning inand rise lowcost endmicroprocessor performance outstripped software demand
+cpu power aside highend server system software
+demand dropped end thedotcom bubble
+consumer system ran effectively increasingly lowcost systemintels strategy producing evermorepowerful processorobsoleting predecessor stumbled leaving opportunityrapid gain competitor notably amd turn loweredprofitability processor line ended era unprecedented
+dominance hardware intel
+
+intels dominance microprocessor market led numerous
+charge antitrust violation year including ftc
+investigation late inand civil actions
+thesuit digital equipment corporation decpatent suit intergraph intels market dominance one timecontrolled overof market bit microprocessors
+combined intels hardball legal tactic infamous
+patent suit versus manufacturer made attractive target
+litigation lawsuit ever amounted anything
+
+case industrial espionage arose inthat involved intel
+amd guillermo gaede argentine immigrant formerly employedamd intels arizona plant arrested attemptingsell pentium design amd certain foreign
+power gaede videotaped data computer screen intelmailed amd alerted intel authority resultinggaedes arrest gaede convicted sentenced tomonthsprison june 
+imac intel core duo inch
+enlarge
+imac intel core duo inch
+
+partnership apple
+
+juneapple computer ceo steve job announced apple
+would transitioning long favored powerpc architectureintel architecture reason stated change vague
+included thermal issue recent powerpc chipimplication future powerpc roadmap unable satisfy
+apple need computing power particular large power
+requirement chip subsequent heat generation seenmajor stumbling block preventing placement chip one
+apple laptop computer first apple computer containing intel
+cpu announced januaryapple initially planned put
+intel chip computer end ofbut apple
+managed entire consumer product line running intel
+processor early augustthe apple xserve server updatedintel xeon processor novemberand offeredconfiguration similar apple mac pro
+
+leadership
+
+robert noyce intels ceo founding infollowedcofounder gordon moore inandy grove became companys
+president inand added ceo title inwhen moore became
+chairman ingrove succeeded moore chairman craig barrett
+already company president took maybarrett handed
+rein company paul otellini previously wacompany president responsible intels design winoriginal ibm board director elected otellini barrett
+replaced grove chairman board grove steppedchairman retained special advisor
+
+corporate governance
+
+current member board director intel craig barrett
+charlene barshefsky john browne james guzy reed hundt james
+plummer david pottruck jane shaw john thornton david yoffie
+
+origin name
+
+founding gordon moore robert noyce wanted name new
+company moore noyce name however sounded remarkably similar
+noisean illsuited name electronics company since
+noise typically associated bad interference usedname electronics almost year deciding callcompany integrated electronics intel short however intelalready trademarked hotel chain buy rightname beginning
+
+coincidence bbc television sciencefiction serialandromedaand sequel andromeda breakthroughhad
+earlier featured sinister multinational electronics corporation
+named intel involved plot take controlpowerful computer constructed earth alien radio instructions
+
+people believe name intel originated
+intelligence one idea behind microprocessorinternals actually name originated integrated
+electronics nothing
+competition
+
+intel among top ten worldwide semiconductor
+sale leader indominated japanese chip makerintel achieved number one ranking held ever since
+top semiconductor company include samsung texas instruments
+toshiba stmicroelectronics
+
+major competitor intel processor marketadvanced micro device amd intel full
+crosslicensing agreement sinceeach partner use others
+patented technological innovation without charge certain time
+smaller competitor via transmeta produce lowpower
+processor small factor computer portable equipment
+
+octobera transmeta lawsuit filed intel patent
+infringement covering computer architecture power efficiency
+technologies
+
+intel filed response amd lawsuit septemberdisputing
+amd claim stating business practice fairlawful rebuttal intel laid skeleton legal
+defense included deconstruction amd offensive strategy
+levied charge amd longstruggling market positionlargely result bad business decision management incompetence
+including underinvestment essential manufacturing capacityoverreliance contracting chip foundries
+
+legal expert predict lawsuit likely dragnumber year since intels response indicates likely
+try settle amd
+
+competitor chipsets include via technology atinvidia intels competitor networking include freescale broadcom
+marvell amcc competitor flash memory include
+spansion samsung toshiba stmicroelectronics hynix
+
+finances
+
+intel stock price novnov 
+enlarge
+intel stock price novnov 
+
+intels market capitalization isbillion novemberit
+publicly trade nasdaq symbol intc memberfollowing index dow industrials spnasdaq sox phlx
+semiconductor sector gsti software index
+
+intc widelyheld stock almostbillion shares
+outstanding institutional investor mutual fund holdofstock corporate insider including gordon moore andy grove
+hold aboutintel achieved alltime high closing stock
+price augustatsince reached low
+closing price ofon septemberas novemberthe
+stock price 
+
+diversity
+
+intel diversity initiative including employee diversity groups
+well supplier diversity program like many companyemployee diversity group include group based racenationality well sexual identity religion inintel
+sanctioned one earliest corporate gay lesbian bisexualtransgender employee group support muslim employee groupjewish employee group biblebased christian groupref
+
+intel received arating first corporate equality index
+released human right campaign init maintainedrating inandin addition company named onebest company working mother inby working mother
+magazine however intels working practice still face criticismnotably ken hamidi former employee subjectmultiple unsuccessful lawsuit intel
+
+advertising
+
+intel become one world recognizable computer brands
+following longrunning intel inside campaign campaignstarted inwas created intel marketing manager dennis carter
+fivenote jingle introduced following year tenth
+anniversary heard incountries around world
+
+intel inside program lucrative advertiser intel paid
+half advertising cost used intel inside
+logo however print medium intel stipulated page wa must contain reference competitor amdad didnt meet requirement intel pay halfcost advertiser prohibited using intel inside
+logo intel employed staff whose primary function lookingadvertisement violate agreement advertiser foundsomany mom pop shop ignorant reimbursement
+agreementwere requested stop violating use logotold legally use logo get part advertising
+cost reimbursed company advertising product containing intel
+chip required include jingle film television
+advertisement order receive reimbursement
+
+centrino advertising campaign hugely successful leading
+ability access wireless internet laptop becoming
+linked consumer mind intel chip ha caused
+controversy asa upheld complaint wamisleading advert
+
+inintel expanded promotion open specification
+platform beyond centrino include viiv medium centre pcbusiness desktop intel vpro
+
+decemberintel phased intel inside campaignfavour new logo slogan leap ahead new logoclearly inspired intel inside logo fact sometimes intel
+inside used time processor name two
+word like intel core duo inside
+
+mid januaryintel announced dropping long
+running pentium name processor phased pentium
+name mobile processor first new yonah chip branded
+core solo core duo released desktop processor changed
+coreline processor released pentium namefirst used refer core intel processor pent refersp done circumvent court ruling preventtrademarking string number competitor could call
+processor name done priorand
+processor copy manufactured ibmamd
+
+though macintosh community concerned intels
+branding including decal jingle would used new
+intelbased macintosh see apple intel transition haoccurred
+
+intels intel inside campaign generally consideredworld class marketing however year several
+play intel branding scheme appeared web
+jab intel obviously beyond company abilitycontrol tend show everyone belief intels
+program policy always world class examplepopular evil inside logothe ubiquitous picture tombstonerip intel insideand descriptive idiot outside logo 
+
+jingle
+
+famous dgda jingle written walter werzowaaustrian sampling band edelweiss
+
+sale intels xscale processor business
+
+junethe sale intels xscale asset announced
+intel agreed sell xscale processor business marvell
+technology group estimatedmillion cashassumption unspecified liability move intended permit
+intel focus recources core server businesses
+party advised expect close transaction within five
+month time intel continue manufacturing xscale
+processor marvell secures manufacturing facilities
+marvell buy intels handheld processor unit formillion
+
+intel free software
+
+intel significant participation open source communities
+example inintel released mitlicensed xorg driverintegrated graphic card family chipsetsoccasion intel released freebsd driver networking
+cardsavailable bsdcompatible licence also
+ported openbsd however release wireless products
+called intel prowirelessbgbgabg abg
+intel criticised granting free redistribution rights
+firmware necessary included operating
+system wireless device operate result intel
+became target massive campaign allow free operating systeminclude binary firmware term acceptable open source
+community example negative press include articlelinspirelinux creator michael robertson marchin article
+titledis intels centrino technolatin linux
+robertson outline difficult position intelreleasing open source wanting upset large customer
+microsoft although intel received significant negative attention
+result wireless dealing another example theo raadt openbsd claimed intel open source fraud
+intel employee presented distorted view situationopensource conferencethe binary firmware still gained
+licence compatible free software principles
+

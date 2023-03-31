@@ -1,0 +1,244 @@
+copyright
+
+semiconductor
+
+ school wikipedia selection related subject electricityelectronics
+
+semiconductor solid whose electrical conductivitycontrolled wide range either permanently dynamically
+semiconductor tremendously important technologicallyeconomically silicon commercially important semiconductor
+though dozen others important well
+
+semiconductor device electronic component made semiconductor
+material essential modern electrical device computers
+cellular phone digital audio players
+
+overview
+
+semiconductor similar insulator two categorysolid differ primarily insulator larger band gap 
+energy electron must acquire free flowsemiconductor room temperature insulatorelectron gain enough thermal energy leap band gapnecessary conduction reason pure semiconductorinsulator absence applied field roughly similar
+electrical property smaller bandgaps semiconductor however
+allow many mean besides temperature controlelectrical properties
+
+semiconductor intrinsic electrical property often
+permanently modified introducing impurity process knowndoping usually reasonable approximate impurity atom
+add one electron one hole concept discussed latermay flow freely upon addition sufficiently large proportion
+dopants semiconductor conduct electricity nearly wellmetal depending kind impurity region semiconductor
+electron hole called ntypeptype semiconductor respectively junction region nptype semiconductor builtin electric field cause
+electron hole escape criticalsemiconductor device operation also density differenceimpurity produce region small electric field usedaccelerate nonequilibrium electron hole
+addition permanent modification doping electrical
+property semiconductor often dynamically modified applying
+electric field ability control conductivity smallwelldefined region semiconductor material staticallydoping dynamically application electric fieldled development broad range semiconductor device like
+transistor semiconductor device dynamically controlled
+conductivity building block integrated circuit likemicroprocessor active semiconductor device combinedsimpler passive component semiconductor capacitorresistor produce variety electronic devices
+
+certain semiconductor electron fall conduction band
+valence band energy level band gap
+often emit light photoemission process underlieslightemitting diode led semiconductor laserimportant commercially conversely semiconductor absorption
+light photodetectors excites electron valence bandconduction band facilitating reception fibre optic
+communication providing basis energy solar cells
+
+semiconductor may elemental material silicongermanium compound semiconductor gallium arsenideindium phosphide alloy silicon germanium aluminium
+gallium arsenide
+
+band structure
+
+band structure semiconductor showing full valence bandempty conduction band
+band structure semiconductor showing full valence bandempty conduction band
+
+like solid electron semiconductor energies
+within certain band energy ground state
+corresponding electron tightly bound atomic nucleusmaterial free electron energy energy required
+electron escape entirely material energy bands
+correspond large number discrete quantum stateelectron state low energy fullparticular band called valence band semiconductor insulators
+distinguished metal valence band former
+material nearly full normal conditions
+
+ease electron semiconductor excitedvalence band conduction band depends band gapband size energy bandgap serfarbitrary dividing line roughlyev semiconductorinsulators
+
+electron must move state conduct electric currentdue pauli exclusion principle full band contributeelectrical conductivity however temperaturesemiconductor rise absolute zero state electrons
+increasingly randomized smeared electronlikely found state conduction band band
+immediately valence band currentcarrying electronconduction band known free electron althoughoften simply called electron context allows usageclear
+
+electron excited conduction band also leave behind electron
+hole unoccupied state valence band conduction
+band electron valence band hole contribute electrical
+conductivity hole dont actually moveneighbouring electron move fill hole leaving holeplace come way hole appear move
+hole behave actual positively charged
+particles
+
+one covalent bond neighboring atom solid ten times
+stronger binding single electron atomfreeing electron doe imply destroy crystal structure
+
+notion hole introduced semiconductor also
+applied metal fermi level lie within conduction
+band metal hall effect reveals electroncharge carrier metal mostly filled conduction band
+hall effect reveals positive charge carrierioncores hole contrast conductor like solutions
+salt plasma case metal small amountenergy needed electron find unoccupied statemove hence current flow sometimes even case
+may said hole left behind explain electron
+doe fall back lower energy cannot find hole end
+material electronphonon scattering defectdominant cause resistance
+fermidirac distribution state energybelow fermi energy
+herehave higher probability occupiedle likely occupied smearing distribution increasetemperature
+fermidirac distribution state energybelow fermi energy
+herehave higher probability occupiedle likely occupied smearing distribution increasetemperature
+
+energy distribution electron determines states
+filled empty distribution describedfermidirac statistic distribution characterizedtemperature electron fermi energy fermi level
+absolute zero condition fermi energy thoughtenergy available electron state occupiedhigher temperature fermi energy energyprobability state occupied fallen 
+
+dependence electron energy distribution temperature also
+explains conductivity semiconductor strong
+temperature dependency semiconductor operating lower
+temperature fewer available free electron hole ablework
+
+energymomentum dispersion
+
+preceding description important fact ignored sake
+simplicity dispersion energy reasonenergy state broadened band energy
+depends value wave vector kvector electron
+kvector quantum mechanic representationmomentum particle
+
+dispersion relationship determines effective mass mof
+electron hole semiconductor according formula
+
+mhbar cdot left k
+right
+
+effective mass important affect many electrical
+property semiconductor electron hole mobility
+turn influence diffusivity charge carrierelectrical conductivity semiconductor
+
+typically effective mass electron hole differentaffect relative performance pchannel nchannel igfetsexample mullerkamins 
+
+top valence band bottom conduction band might
+occur value material situationsilicon germanium known indirect bandgap materials
+material band extremum aligned example
+gallium arsenide called direct bandgap semiconductor direct gap
+semiconductor particularly important optoelectronicsmuch efficient light emitter indirect gap
+materials
+
+carrier generation recombination
+
+ionizing radiation strike semiconductor may exciteelectron energy level consequently leave holeprocess known electronhole pair generation electronhole pairs
+constantly generated thermal energy well absenceexternal energy source
+
+electronhole pair also apt recombine conservation energy
+demand recombination event electron losesamount energy larger band gap accompaniedemission thermal energy form phonons radiationform photons
+
+steady state generation recombination electronhole
+pair equipoise number electronhole pair steady
+state given temperature determined quantum statistical
+mechanic precise quantum mechanical mechanism generationrecombination governed conservation energy conservation
+momentum
+
+probability electron hole meet together proportional
+product amount product steady state nearly
+constant given temperature providing significant
+electric field might flush carrier type move
+neighbour region containing meet together
+externally driven pair generation product functiontemperature probability getting enough thermal energyproduce pair increase temperature approximately
+expband gapkt boltzmann constant absolute
+temperature
+
+probability meeting increased carrier trapsimpurities
+dislocation trap electron hole holdpair completed carrier trap sometimes purposely addedreduce time needed reach steady state
+
+doping
+
+property semiconductor make usefulconstructing electronic device conductivity may easily
+modified introducing impurity crystal latticeprocess adding controlled impurity semiconductor knowndoping amount impurity dopant added intrinsic pure
+semiconductor varies level conductivity doped semiconductors
+often referred extrinsic
+
+dopants
+
+material chosen suitable dopants depend atomic
+property dopant material doped general
+dopants produce desired controlled change classifiedeither electron acceptor donor donor atom activatesbecomes incorporated crystal lattice donates weaklybound
+valence electron material creating excess negative charge
+carrier weaklybound electron move crystal
+lattice relatively freely facilitate conduction presence
+electric field donor atom introduce stateclose conduction band edge electron stateeasily excited conduction band becoming free electron room
+temperature conversely activated acceptor produce hole
+semiconductor doped donor impurity called ntypedoped acceptor impurity known ptype p
+type designation indicate charge carrier act materials
+majority carrier opposite carrier called minority carrier
+exists due thermal excitation much lower concentration
+compared majority carrier
+
+example pure semiconductor silicon four valence electrons
+silicon common dopants iupac groupcommonly known
+group iii groupcommonly known group element group
+element contain three valence electron causingfunction acceptor used dope silicon groupelementsfive valence electron allows act donor therefore
+silicon crystal doped boron creates ptype semiconductor
+whereas one doped phosphorus result ntype material
+
+carrier concentration
+
+concentration dopant introduced intrinsic semiconductor
+determines concentration indirectly affect manyelectrical property important factor doping directly
+affect material carrier concentration intrinsic
+semiconductor thermal equilibrium concentration electrons
+hole equivalent
+npni
+
+n concentration conducting electron electron
+hole concentration material intrinsic carrier
+concentration intrinsic carrier concentration varies materials
+dependent temperature silicon exampleroughlycm atkelvins room temperature
+
+general increase doping concentration affords increaseconductivity due higher concentration carrier availableconduction degenerately highly doped semiconductorconductivity level comparable metal often used modern
+integrated circuit replacement metal often superscript plus
+minus symbol used denote relative doping concentrationsemiconductor example ndenotes ntype semiconductorhigh often degenerate doping concentration similarly pwould
+indicate lightly doped ptype material useful note
+even degenerate level doping imply low concentrationimpurity respect base semiconductor crystalline
+intrinsic silicon approximatelyatomscm doping
+concentration silicon semiconductor may range anywhere 
+cm tocm doping concentration aboutcmconsidered degenerate room temperature degenerately doped silicon
+contains proportion impurity silicon order part per
+thousand proportion may reduced part per billionlightly doped silicon typical concentration value fall somewhererange tailored produce desired propertydevice semiconductor intended
+effect band structure
+
+band diagram junction band bending resultpositioning fermi level n sides
+band diagram junction band bending resultpositioning fermi level n sides
+
+doping semiconductor crystal introduces allowed energy state within
+band gap close energy band correspondsdopant type word donor impurity create state near
+conduction band acceptor create state near valence
+band gap energy state nearest energy band
+usually referred dopantsite bonding energy ebrelatively small example boron silicon bulkev compared silicon band gap abouteveb small take little energy ionize dopant atomcreate free carrier conduction valence band usuallythermal energy available room temperature sufficient ionize
+dopant
+
+dopants also important effect shifting material fermi
+level towards energy band corresponds dopantgreatest concentration since fermi level must remain constantsystem thermodynamic equilibrium stacking layer materialdifferent property lead many useful electrical propertyexample junction property due energy band
+bending happens result lining fermi levelcontacting region ptype ntype material
+
+effect shown band diagram band diagram typically
+indicates variation valence band conduction band edges
+versus spatial dimension often denoted fermi energyalso usually indicated diagram sometimes intrinsic fermi
+energy fermi level absence dopingshown diagram useful explaining operation many
+kind semiconductor devices
+
+preparation semiconductor materials
+
+semiconductor predictable reliable electronic propertynecessary mass production level chemical purity neededextremely high presence impurity even small
+proportion large effect property materialhigh degree crystalline perfection also required since faultcrystal structure dislocation twin stacking faults
+interfere semiconducting property material
+crystalline fault major cause defective semiconductor
+device larger crystal difficult achieve
+necessary perfection current mass production process use crystal
+ingot four twelve inchesmm diametergrown cylinder sliced wafers
+
+required level chemical purity perfectioncrystal structure needed make semiconductor devices
+special method developed produce initial
+semiconductor material technique achieving high purity includes
+growing crystal using czochralski process additional step
+used increase purity known zone refining
+zone refining part solid crystal melted impurities
+tend concentrate melted region desired material
+recrystalizes leaving solid material pure fewer
+crystalline faults
+
+manufacturing semiconductor device involving heterojunctions
+different semiconductor material lattice constantlength repeating element crystal structureimportant determining compatibility materials
+

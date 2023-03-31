@@ -1,0 +1,104 @@
+copyright
+
+optical telescope
+
+ school wikipedia selection related subject engineering space
+astronomy
+
+optical telescope telescope used gather focus
+light directly viewing magnified image making photograph
+etc term used especially monocular static mounting
+observing sky handheld binoculars commonpurposes
+
+light made photon professional telescope concentrate
+light onto electronic detector collect photonthree primary type optical telescope refractorsdioptrics
+use lens reflectorscatoptrics use mirrorcombined lensmirror systemscatadioptrics use lensmirror combination example maksutov telescopeschmidt camera
+
+works
+
+basic scheme primary lightgathering elementobjectiveobjective lensor concave mirror focus lightdistant objectto focal plane form real image 
+image viewed eyepiecewhich act likemagnifying glass eyesees magnified virtual imageatlarge distance
+keplerian telescope schematic
+enlarge
+keplerian telescope schematic
+
+telescope employ two convex lens cause image appear
+inverted terrestrial version telescope binoculars employ
+prism porro prism relay lens objectiveeyepiece invert image thus upright image appears
+eyepiece
+
+many type telescope fold optical path secondarytertiary mirror may integral part optical design 
+cassegrain reflector similar type also serve makingtelescope compact placing eyepiece detectorconvenient position large telescope additional mirroroften used provide improved image quality larger fieldview
+
+angular resolution
+
+ignoring blurring image turbulence atmosphere 
+atmospheric seeing optical imperfection telescopeangular resolution optical telescope determined width
+objective termed itsaperture primary mirror lens
+rayleigh criterion resolution limit radiangiven
+rd
+
+whereis wavelength aperture visible light
+rmnm equation rewritten
+
+rd
+
+r denotes resolution limit arcsecondmillimeter ideal case two component double starsplit even separated slightly r takenaccount dawes limit
+
+dd
+
+essentially larger aperture better angular resolution
+
+noted resolution given maximum
+magnification power telescope telescope marketedgiving high value maximum power often deliver poor images
+
+large groundbased telescope resolution limitedatmospheric seeing limit overcome placingtelescope atmosphere space telescope balloon
+telescope telescope highflying airplaneskuiper airborne
+observatory sofia adaptive optic speckle imaginggroundbased telescopes
+
+recently become practical perform aperture synthesisarray optical telescope high resolution image obtained
+group widelyspaced smaller telescope linked togethercarefullycontrolled optical path interferometerused imaging bright object star measuring bright
+core active galaxy example image starspots betelgeuseseen
+focal length fratio
+
+focal length determines wide angle telescope view
+given eyepiece size ccd detector photographic plate
+fratio focal ratio fnumber telescope ratio
+focal length aperture diameterobjective thus given aperture lightgathering power low
+fratios indicate wide field view widefield telescopeastrographs used track satellite asteroid cosmicray
+research survey sky difficult reduce
+optical aberration telescope low fratio telescopes
+larger fratio
+
+lightgathering power
+
+lightgathering power optical telescope directly related
+diameter aperture objective lens mirror note
+area circle proportional square radius
+telescope lens diameter three timeanother nine time lightgathering power larger
+objective gather light sensitive imaging equipmentproduce better image light
+
+research telescopes
+
+nearly large researchgrade astronomical telescope reflectors
+reasonlens entire volume material freeimperfection inhomogeneity whereas mirror one
+surface perfectly polished
+light different color travel mediumvacuum different speed cause chromatic aberration
+technical difficulty involved manufacturingmanipulating largeaperture lens one real
+material sag gravity lens held perimeter
+mirror hand supported whole side
+opposite reflecting face
+
+size optical telescope increased steadily century
+doubling doublinglate largest current telescopesalt hobbyeberly telescope gran telescopio
+canarias
+
+number technological improvement madecreated new generation telescope advance includedcreation multimirror telescope invention cheap personal
+computer could control mirror another major advancedinvention rotating furnace centrifugal force would
+shape telescope mirror close final shape
+
+name types
+binoculars two monoculars mounted sideby sideadjustment let used major practical advantagetelescope magnification much brighter field
+view dusk dawn monoculars binoculars builtin
+compass used army artillery unit ship navigatetriangulating topographic shore feature handheld
+telescope limited handshaking aboutpowerbrightestfield bestmagnifying practical monocular 

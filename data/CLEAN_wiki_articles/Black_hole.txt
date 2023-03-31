@@ -1,0 +1,502 @@
+copyright
+
+black hole
+
+ school wikipedia selection related subject space astronomy
+
+general relativity
+
+overview history
+mathematics
+resources
+tests
+black hole
+einstein equation
+equivalence principle
+event horizon
+exact solutions
+flrw metric
+gravitational lens
+gravitational waves
+kerr metric
+quantum gravity
+schwarzschild metric
+singularity
+
+related topics
+albert einstein
+stephen hawking
+astrophysics
+gravitation
+cosmology
+special relativity
+riemannian geometry
+einsteincartan theory
+
+edit
+
+black hole object predicted general relativitygravitational field strong nothing escape itnot even
+light
+
+black hole defined region spacetime escapeoutside universe impossible boundary regionsurface called event horizon surface physically
+tangible one merely figurative concept imaginary boundary
+nothing move inside event horizon outside even
+briefly
+
+theoretically black hole size astrophysicist expectfind black hole mass ranging roughly masssun stellarmass black hole many million time masssunsupermassive black holes
+
+existence black hole universe well supportedastronomical observation particularly studying xray emission
+xray binary active galactic nucleus alsohypothesized black hole radiate energy due quantum mechanical
+effect known hawking radiation
+
+history
+
+concept body massive even light could escapeput forward english geologist john michell apaper sent
+henry cavendish published royal society time
+newtonian theory gravity concept escape velocitywell known michell computed body withtimes radiussun density would surface escape
+velocity equal speed light therefore would invisible
+words
+
+
+black hole
+
+semidiameter sphere density sunexceed sun proportion oftoa body falling
+infinite height towards would acquired surface
+greater velocity light consequently supposing light
+attracted force proportion inertiae
+inertial mass body light emitted body
+would made return towards proper gravity
+
+
+black hole
+
+michell considered possibility many object cannot
+seen might present cosmos
+
+inthe french mathematician pierresimon laplace promotedidea first second edition book exposition systme monde removed later edition idea gained
+little attention nineteenth century since light thoughtmassless wave hence influenced gravity
+
+inalbert einstein developed theory gravity called general
+relativity earlier shown gravity doe influence lightmonth later karl schwarzschild gave solutiongravitational field point mass spherical mass showingblack hole could theoretically exist schwarzschild radiusknown radius event horizon nonrotating black
+hole well understood time schwarzschild
+thought physical month schwarzschild
+student lorentz johannes droste independently gavesolution point mass wrote extensivelyproperties
+
+insubrahmanyan chandrasekhar argued special relativity
+demonstrated nonradiating body abovesolar massknown chandrasekhar limit would collapse sincenothing known time could stopargument opposed arthur eddington believed something
+would inevitably stop collapse correct since white
+dwarf massive chandrasekhar limit collapseneutron star however neutron star three solar masses
+tolmanoppenheimervolkoff limit become unstable
+collapse due similar physics
+
+inrobert oppenheimer snyder predicted massive stars
+could undergo dramatic gravitational collapse black hole couldprinciple formed nature object called
+frozen star since collapse would observed rapidly slowbecome heavily redshifted near schwarzschild radiusmathematics showed outside observer would see surfacestar frozen time instant cross radius
+hypothetical object topic much interestlate physicist believed peculiar
+feature highly symmetric solution found schwarzschildobject collapsing nature would form black holes
+
+interest black hole rekindled inbecause theoretical
+experimental progress instephen hawking roger penrose
+proved black hole generic feature einstein theorygravity cannot avoided collapsing object interestrenewed astronomical community discovery pulsars
+shortly thereafter expression black hole coinedtheoretical physicist john wheeler first used public
+lecture universe known unknown ondecemberthe
+older newtonian object michell laplace often referreddark star distinguish black hole general
+relativity
+
+evidence
+
+simulated black hole ten solar mass seen distancekm milky way background horizontal camera opening
+angle 
+enlarge
+simulated black hole ten solar mass seen distancekm milky way background horizontal camera opening
+angle 
+
+formation
+
+general relativity well metric theory gravity
+say black hole exist fact predictsformed nature whenever sufficient amount mass gets
+packed given region space process called
+gravitational collapse mass inside given region space
+increase gravity becomes stronger languagerelativity increasingly deforms space around ultimatelynothing even light escape gravity point event
+horizon formed matter energy must inevitably collapsedensity beyond limit known physic example suncompressed radius roughly three kilometer aboutits
+present size resulting gravitational field would create event
+horizon around thus black hole
+
+quantitative analysis idea led predictionstellar remnant three five time mass sun
+tolmanoppenheimervolkoff limit would unable support
+neutron star via degeneracy pressure would inevitably
+collapse black hole stellar remnant massexpected produced immediately end life stars
+thantotimes mass sun accretion
+matter onto existing neutron star
+
+stellar collapse generate black hole containing least three
+solar mass black hole smaller limit created
+matter subjected sufficient pressure source
+selfgravitation enormous pressure neededthought existed early stage universe
+possibly creating primordial black hole could masses
+smaller sun
+
+supermassive black hole believed exist centregalaxy including milky way type black hole contains
+million billion solar mass several modelmight formed first via gravitational
+collapse dense cluster star second large amountmass accreting onto seed black hole stellar mass thirdrepeated fusion smaller black hole effect supermassive
+black hole spacetime may observed region virgo
+cluster galaxy example location see imageneighbors
+
+intermediatemass black hole mass stellarsupermassive black hole typically range thousand solar
+mass intermediatemass black hole proposed possible
+power source ultraluminous ray source indetection
+wa claimed intermediatemass black hole orbiting sagittarius
+supermassive black hole candidate core milky way
+galaxy detection disputed
+
+certain model unification four fundamental force allowformation micro black hole laboratory conditionpostulate energy gravity unifiedforce comparable energy threeunified opposed planck energy much higher
+would allow production extremely shortlived black holeterrestrial particle accelerator conclusive evidence type
+black hole production presented though even negative
+result improves constraint compactification extra dimensions
+string theory model physics
+
+observation
+
+formation extragalactic jet black hole accretion disk
+enlarge
+formation extragalactic jet black hole accretion disk
+
+theory object within event horizon black hole ever
+escape including light however black hole inductively
+detected observation phenomenon near gravitational
+lensing galactic jet star appear orbit around
+space visible matter
+
+conspicuous effect believed come matter accreting
+onto black hole predicted collect extremely hot
+fastspinning accretion disk internal viscosity disk
+cause become extremely hot emit large amount xrayultraviolet radiation process extremely efficientconvert aboutof rest mass energy object radiation
+opposed nuclear fusion convert percentmass energy observed effect narrow jet particles
+relativistic speed heading along disk axis
+
+however accretion disk jet orbiting object foundaround black hole also around object neutron stars
+white dwarf dynamic body near nonblack hole
+attractor largely similar body around black holecurrently complex active field research involving
+magnetic field plasma physic disentangle goinghence part observation accretion disk orbital
+motion merely indicate compact object certain
+mass say little nature objectidentification object black hole requiresassumption object bound system object couldmassive compact astrophysicist acceptcase since according general relativity concentrationmatter sufficient density must necessarily collapse black
+hole
+
+one important observable difference black holecompact massive object infalling matter eventually
+collide latter relativistic speed leading emissionkinetic energy matter thermalized addition
+thermonuclear burning may occur surface material buildprocess produce irregular intense flare xrayshard radiation thus lack flareups around compact
+concentration mass taken evidence object black
+hole surface onto matter collect
+
+suspected black holes
+
+artist depiction two black hole merging
+enlarge
+artist depiction two black hole merging
+
+great deal indirect astronomical observational
+evidence black hole two mass ranges
+stellar mass black hole mass typical startimes
+mass sunsupermassive black hole mass ranging ordertosolar masses
+
+additionally evidence intermediatemass black holes
+imbhs mass hundred thousand times
+sun black hole may responsible emission
+ultraluminous xray source ulxs
+
+candidate stellarmass black hole identified mainlypresence accretion disk right size speed withoutirregular flareups expected disk around compact
+object stellarmass black hole may involved gamma ray bursts
+grbs short duration grbs believed caused colliding
+neutron star form black hole merging observation long
+grbs association supernova suggest long grbs caused
+collapsars massive star whose core collapse form black
+hole drawing surrounding material therefore grb could
+possibly signal birth new black hole aiding effort search
+
+candidate massive black hole first providedactive galactic nucleus quasar discovered radioastronomersefficient conversion mass energy frictionaccretion disk black hole seems explanationcopious amount energy generated object indeedintroduction theory removed major objectionbelief quasar distant galaxiesnamelyphysical mechanism could generate much energy
+
+observation motion star around galactic
+centre believed supermassive black hole existcentre galaxy including milky way sagittarius
+generally agreed location supermassive black
+hole centre milky way galaxy orbit star within
+au sagittarius rule object black hole
+centre milky way assuming current standard lawphysic correct
+jet emitted galaxy image thought caused
+supermassive black hole galaxy centre
+enlarge
+jet emitted galaxy image thought caused
+supermassive black hole galaxy centre
+
+current picture galaxy may supermassive black
+hole centre black hole accretes gas dustmiddle galaxy generating huge amount radiationuntil
+nearby mass swallowed process shutspicture may also explain nearby quasars
+
+although detail still clear seems growthblack hole intimately related growth spheroidal
+componentan elliptical galaxy bulge spiral galaxyin
+lives
+
+inthe hubble telescope identified evidence indicatingintermediate size black hole exist globular cluster namedg evidence black hole stemmed orbital velocity
+star globular cluster however group neutron
+star could cause similar observations
+
+recent discoveries
+
+inastronomers foundcandidate supermassive black holesearching obscured quasar lead scientist saidtwo five time many supermassive black hole previously
+predicted
+
+juneastronomers found supermassive black hole centre distant galaxy aboutbillion light year away
+observation indicated rapid creation supermassive black holes
+early universe
+
+novembera team astronomer reported discoveryfirst intermediatemass black hole galaxy orbiting three
+lightyears sagittarius medium black hole ofsolar
+mass within cluster seven star possibly remnantmassive star cluster stripped galactic
+centre observation may add support idea supermassive
+black hole grow absorbing nearby smaller black hole stars
+
+februarya blue giant star j foundleaving milky way twice escape velocityofspeed light catapulted galactic corepath traced back high velocity star supports
+hypothesis supermassive black hole centregalaxy
+
+formation micro black hole earth particle accelerators
+ha tentatively reported yet confirmed farobserved candidate primordial black holes
+
+feature theories
+
+black hole require general relativistic concept curved
+spacetime striking property rely distortiongeometry space surrounding
+gravitational field
+
+gravitational field outside black hole identical field
+produced spherically symmetric object mass
+popular conception black hole sucking thing false
+object orbit around black hole indefinitely without gettingcloser strange property spacetime become noticeable
+closer black hole
+
+event horizon
+
+surface black hole socalled event horizonimaginary surface surrounding mass black hole stephen
+hawking proved topology event horizon nonspinning
+black hole sphere event horizon escape velocityspeed light anything inside event
+horizon including photon prevented escaping acrossevent horizon extremely strong gravitational field particles
+outside region fall cross event horizonnever able leave
+
+since external observer cannot probe interior black hole
+according classical general relativity black hole entirely
+characterised according three parameter mass angular momentum
+electric charge principle summarised saying coined
+john archibald wheelerblack hole hair meaningfeature distinguish one black hole another
+mass charge angular momentum
+
+inside event horizon
+
+spacetime inside event horizon uncharged nonrotating black
+hole peculiar singularity every observer future
+particle within event horizon move inexorably towards 
+penrose hawking mean conceptual inaccuracy
+nonrelativistic concept black hole originally proposed
+john michell inin michells theory escape velocity
+equal speed light would still exampletheoretically possible hoist object black hole usingrope general relativity eliminates loopholeobject inside event horizon timeline contains endpoint
+time possible worldlines come backevent horizon consequence pilot powerful
+rocket ship crossed event horizon triedaccelerate away singularity would reach soonerframe since geodesic unaccelerated path path maximise
+proper time
+
+object continues approach singularitystretched radially respect black hole compresseddirection perpendicular axis phenomenon called
+spaghettification occurs result tidal force partobject closer singularity feel stronger pull towardscausing stretching along axis part pulleddirection singularity aligned objects
+average motion along axis object causing compression
+towards axis
+
+singularity
+
+centre black hole well inside event horizon general
+relativity predicts singularity place curvaturespacetime becomes infinite gravitational force become infinitely
+strong
+
+expected future refinement generalisation general
+relativity particular quantum gravity change thought
+nature black hole interior theorist interpretmathematical singularity equation indicatingcurrent theory complete new phenomenon must comeplay one approach singularity
+
+cosmic censorship hypothesis asserts naked
+singularity general relativity hypothesis every
+singularity hidden behind event horizon cannot probed
+whether hypothesis true remains active area theoretical
+research
+
+rotating black holes
+
+artist impression black hole closely orbiting
+companion star exceeds roche limit infalling matter formaccretion disk matter ejected highly
+energetic polar jets
+enlarge
+artist impression black hole closely orbiting
+companion star exceeds roche limit infalling matter formaccretion disk matter ejected highly
+energetic polar jets
+
+according theory event horizon black holespinning spherical singularity expected single
+point curvature becomes infinite black hole carries
+angular momentum inherited star spinning timecollapse begin drag spacetime surrounding event
+horizon effect known framedragging spinning area
+surrounding event horizon called ergosphere haellipsoidal shape since ergosphere located outside event
+horizon object exist within ergosphere without fallinghole however spacetime movingergosphere impossible object remain fixed position
+object grazing ergosphere could circumstancecatapulted outwards great speed extracting energy angular
+momentum hole hence greek name ergosphere spherework capable work
+
+singularity inside rotating black hole expected ring
+rather point though interior geometry rotating black
+hole currently well understood fate observer
+falling nonrotating black hole spaghettification fate
+observer falling rotating black hole much clear
+instance kerr geometry infalling observerpotentially escape spaghettification passing inner
+horizon however unlikely actual interior geometryrotating black hole kerr geometry due stability issueultimate fate observer falling rotating black holecurrently known
+
+entropy hawking radiation
+
+instephen hawking showed total area event
+horizon collection classical black hole never decrease
+sounded remarkably similar second law thermodynamics
+area playing role entropy classically one could violate
+second law thermodynamics material entering black hole
+disappearing universe resulting decrease total
+entropy universe therefore jacob bekenstein proposedblack hole entropy proportionalhorizon area since black hole classically emit radiation
+thermodynamic viewpoint simply analogy however 
+hawking applied quantum field theory curved spacetime aroundevent horizon discovered black hole emit hawking
+radiation form thermal radiation using first law black
+hole mechanic follows entropy black hole one
+quarter area horizon universal resultextended apply cosmological horizon sitter
+space later suggested black hole maximumentropy
+object meaning maximum entropy region spaceentropy largest black hole fit ledholographic principle
+
+hawking radiation reflects characteristic temperatureblack hole calculated entropy temperature
+fact fall massive black hole becomes energyblack hole absorbs colder get black hole roughlymass planet mercury would temperature equilibriumcosmic microwave background radiation aboutk massive
+black hole colder background radiation
+gain energy background faster give energy
+hawking radiation becoming even colder still howeverle massive black hole effect implies mass black
+hole slowly evaporate time black hole becoming
+hotter hotter doe although effect negligible
+black hole massive enough formed astronomicallywould rapidly become significant hypothetical smaller black holes
+quantummechanical effect dominate indeed small black holes
+predicted undergo runaway evaporation eventually vanishburst radiation
+ultrahighenergy collision particle particle accelerator
+create microscopic black hole expected typeparticle emitted black hole evaporation providing key
+evidence grand unified theory high energy
+particle produced gold ion collision rhic
+enlarge
+ultrahighenergy collision particle particle accelerator
+create microscopic black hole expected typeparticle emitted black hole evaporation providing key
+evidence grand unified theory high energy
+particle produced gold ion collision rhic
+
+although general relativity used perform semiclassical
+calculation black hole entropy situation theoretically
+unsatisfying statistical mechanic entropy understoodcounting number microscopic configuration systemmacroscopic qualitiessuch mass charge pressure
+etc without satisfactory theory quantum gravity one cannot
+perform computation black hole promise shown
+string theory however one posit microscopic
+degree freedom black hole dbranes countingstate dbranes given charge energy entropycertain supersymmetric black hole reproduced extendingregion validity calculation ongoing arearesearch
+
+black hole unitarity
+
+open question fundamental physic socalled information
+loss paradox black hole unitarity paradox classically lawphysic run forward reverseposition velocity every particle universe measured
+could disregarding chaos work backwards discover historyuniverse arbitrarily far past quantum mechaniccorresponds vital property called unitarity haconservation probability
+
+black hole however might violate rule positionclassical general relativity subtle straightforwardclassical hair theorem never determine wentblack hole however seen outside information never
+actually destroyed matter falling black hole appearsoutside become redshifted approachnever ultimately appears reach event horizon
+
+idea quantum gravity hand suggestlimited finite entropy maximum finite amountinformation associated space near horizon change
+entropy horizon plus entropy hawking radiation
+always sufficient take entropy matter energy
+falling black hole
+
+many physicist concerned however stillsufficiently well understood particular quantum levelquantum state hawking radiation uniquely determinedhistory fallen black hole historyha fallen black hole uniquely determined quantum
+state black hole radiation determinism
+unitarity would require
+
+long time stephen hawking opposed idea holdingoriginalposition hawking radiation entirely thermal
+therefore entirely random representing new nondeterministically
+created information however onjulyhe presented new
+argument reversing previous position new calculationentropy associated black hole would stillinaccessible external observer absenceinformation impossible relate away informationhawking radiation embodied detailed internal correlations
+initial state system however black hole
+evaporates completely identification madeunitarity preserved clear far even specialist
+scientific community yet persuaded mathematical machinery
+hawking used indeed many regard work quantum gravity far
+highly speculative hawking found sufficiently
+convincing pay bet made inwith caltech
+physicist john preskill considerable medium interest
+
+mathematical theory
+
+black hole prediction albert einstein theory general
+relativity many known solution einstein field
+equation describe black hole also thoughtinevitable part evolution star certain sizeparticular occur schwarzschild metric one earliest
+simplest solution einstein equation found karl
+schwarzschild inthis solution describes curvaturespacetime vicinity static spherically symmetric object
+metric
+dsc leftgm r right dtleft
+gm r right drr domega 
+
+domegadthetasintheta dphi standard
+element solid angle
+
+according general relativity gravitating object collapse
+black hole radius smaller characteristic
+distance known schwarzschild radius indeed buchdahls
+theorem general relativity show case perfect fluid
+model compact object true lower limit somewhat largerschwarzschild radius radius spacetime strongly
+curved light ray emitted region regardlessdirection emitted travel towards centresystem relativity forbids anything traveling fasterlight anything schwarzschild radiusincludingconstituent particle gravitating objectwill collapsecentre gravitational singularity region theoretically
+infinite density form point even lightescape within schwarzschild radius classical black hole
+would truly appear black
+
+schwarzschild radius given
+rrm sgm 
+g gravitational constant mass objectc speed light object mass earthschwarzschild radius meremillimetersabout sizemarble
+
+mean density inside schwarzschild radius decrease mass
+black hole increase earthmass black hole would
+density ofkgm supermassive black hole 
+solar mass density aroundkgm watermean density given
+rhofraccpi 
+since earth mean radius ofkm volume wouldreducedtimes collapse black hole object
+mass sun schwarzschild radius approximately
+km much smaller sun current radius aboutkm
+also significantly smaller radius sunultimately shrink exhausting nuclear fuel several
+thousand kilometer massive star collapse black holes
+end lifetimes
+
+formula also implies object given mean densityblack hole radius large enough formula applieswhite hole well example visible universe mean
+density equal critical density white hole since
+singularity past futureblack hole
+
+general black hole also predicted solutioneinstein equation kerr metric rotating black
+hole posse ring singularityreissnernordstrm metric charged black hole last kerrnewman
+metric case charged rotating black hole
+
+also black hole entropy formula
+
+sfracakchbar 
+area event horizon black hole hbardirac constant reduced planck constant boltzmann
+constant gravitational constant speed lightentropy
+
+convenient length scale measure black hole processgravitational radius equal
+rrm ggm 
+expressed term length scale many phenomenon appearinteger radius example radius schwarzschild black holetwo gravitational radius radius maximally rotating kerr
+black hole one gravitational radius location light
+circularization radius around schwarzschild black hole light
+may orbit hole unstable circular orbit rglocation marginally stable orbit thought closeinner edge accretion disk schwarzschild black
+hole
+
+alternative models
+
+several alternative model behave like black hole avoid
+singularity proposed researcher judgeconcept artificial complicated give near
+term observable difference black hole see occam razorprominent alternative theory gravastar
+
+marchphysicist george chapline lawrence livermore
+national laboratory california proposed black holeexist object currently thought black holeactually darkenergy star draw conclusion quantum
+mechanical analysis although proposal currently little support
+physic community widely reported media
+
+among alternate model magnetospheric eternally collapsing
+object cluster elementary particle boson star fermion
+ball selfgravitating degenerate heavy neutrino even clusters
+low massmsolar black holes
+

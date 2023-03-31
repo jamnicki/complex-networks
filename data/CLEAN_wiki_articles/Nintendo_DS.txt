@@ -1,0 +1,331 @@
+copyright
+
+nintendo 
+ school wikipedia selection related subject computervideo games
+
+nintendo manufacturernintendo
+product familynintendo typehandheld game console
+generationseventh generation era
+first availableunited state canada november
+japan december
+australia february
+european union march
+people republic china july
+cpuonemhz armesarm onemhz armtdmi
+mediagba cartridges
+nintendo game cards
+system storagecartridge save ram
+connectivitywifi
+online servicenintendo wifi connection
+unit soldmillion
+version worldwide
+topselling game nintendogs
+predecessorgame boy advance sporiginal technologicallysuccessor game boy line
+successornintendo lite concurrent
+
+nintendo nintend dssometimes abbreviated ndique china handheld game console developedmanufactured nintendo released inthe console
+feature clamshell design two lcd screen insideonetouch sensitive screen nintendo also feature builtin
+microphone support wireless ieeewifi standards
+allowing player interact within short range 
+depending condition online nintendo wifi
+connection service system codename project nitroexplains ntr code written back game cardsystem
+console name officially refers dual screen systemobvious feature developer system reference new game
+design system meant inspire
+
+marchnintendo released nintendo lite japanredesign nintendo later released north
+america europe australia junethe lite slimmer
+lighter version nintendo brighter screens
+
+design specifications
+
+input output
+
+nintendo stylus used game played touchscreen
+enlarge
+nintendo stylus used game played touchscreen
+
+lower display nintendo overlaidpressuresensitive touch screen designed accept inputincluded stylus user finger curved plastic rectangle
+attached optional wrist strap touch screen allows players
+interact ingame element directly pressing
+button example trauma centre knife stylus may
+used scalpel cut incision diseased patientwriting tool included chatting software pictochat
+
+traditional control located either side touch screenleft dpad narrow power buttonright x button narrow select start
+button shoulder button r located upper
+corner lower half system overall button layoutsimilar controller super nintendo entertainment system
+
+nintendo feature stereo speaker providing virtual surround
+sound depending software located either side upper
+display screen first nintendo handheld game
+boy line system supported stereo sound useheadphone external speakers
+
+builtin microphone located left side bottom
+screen used variety purpose including speech
+recognitionnintendogs chatting online gameplay sessions
+game gameplaymetroid prime hunterminigames require player blow shout microphone
+feel magic xyxx mario kart etc
+
+specifications
+
+massgramsounces
+physical sizexxmmxxinches
+screen two separate inch tft lcd resolution ofx 
+pixel dimension ofxmm andmm diagonal dot
+pitch ofmm note gap screen approximately
+mm equivalent abouthidden line controversiallygame include space play field whilst others ignoreexistance lowermost display nintendo overlaid
+resistive touch screen register pressure one
+point screen time averaging multiple point contact
+necessary
+cpu two arm processor armes main cpu armtdmi
+coprocessor clock speed ofmhz andmhz respectively
+withmb main memory requiresvolts
+
+card size
+data size togigabitmb ormb
+physical sizemm
+weight aboutgrams
+
+system hardware performs transform lighting
+texturecoordinate transformation texture mapping alpha blending
+antialiasing cel shading zbuffering however point 
+nearest neighbour texture filtering leading titleblocky appearance system theoretically capable rendering
+triangle per second atframes per secondpixelfillrate ismillion pixel per second unlike hardware
+ha limit number triangle render partsingle scene limit somewhere region oftriangles
+hardware designed render single screen timerendering screen difficult decrease performance
+significantly
+
+system two engine one per screen similarpowerful game boy advance engine
+
+game use proprietary solid state rom game card format resembling
+memory card used portable electronic devicedigital camera currently support card togigabit size
+card always small amount flash memory eepromsave user data example progress game high score game
+card aremm weigh aroundgrams 
+ounces
+
+unit builtin wifi functionality allows communications
+standard access point access internet unit modified wifi protocol created nintendopartially secured using rsa security signing latter usedbuiltin wireless drawing chat program game nononline
+multiplayer mode download game demo multiplayer game
+software used download station multiplayer gamingone game card internet capability used accessnintendo wifi connection user compete users
+playing wifi compatible game access services
+
+firmware
+
+nintendos custom firmware boot system first requiringplayer read health information user chooses run
+nintendo game boy advance game use pictochat searchdownloadable game latter adaptation game boy
+advance popular single cartridge multiplayer feature adaptedsupport system wireless link capability player withoutgame search content player game broadcastgame host able set rule game
+
+novembernintendo announced could sortdownload kiosk would transmit signal nintendoarea pick download demo game like download
+play feature fact oftheredownload kiosk placed select game gamestop game crazy toy u walmart target stores
+
+pictochat program permanently stored unit allows
+user communicate nintendo user within rangewireless network text handwriting drawing using dss
+touch screen stylus input small visual keyboardscreen
+
+ds main menu also feature alarm clock ability set
+preference boot priority booting game insertedalways booting main menu game boy advance game screen usage
+top bottom user information name date birth favorite
+colour time etc
+
+download play
+
+selected title including limited mario kart new super
+mario bros meteos possible play multiplayer gamenintendo user using one game card distanceeffective aboutfeet nintendo unit downloadsnecessary data another unit running game alsomultiplayer wifi feature certain hotspot wifi enabled areas
+hook play owner around world also many
+store sell game download station playerdownload demo game although demo permanent
+
+compatibility
+
+nintendo compatible game boy advance gba cartridges
+smaller nintendo cartridge fit sloton topsystem game boy advance game fit sloton bottomsystem nintendo compatible game game
+boy colour original game boy due slightly different form
+factor absence zilog zlike processor usedsystems
+
+handheld doe port game boy advance link cable
+multiplayer gamecubegame boy advance linkup modeavailable game boy advance titles
+
+nintendo one screen playing game boy advance
+game user configure system use either topbottom screen default game displayed within black border
+screen due slightly different screen resolutiontwo systemspx approxmegapixels nintendo
+andpx approxmegapixels game boy advance
+
+nintendo game inserted slotare able detect presence
+specific game boy advance game slotin many game extra
+content unlocked added starting nintendo gameappropriate game boy advance game inserted also availableexpansion paks rumble pak released nintendorumble system rumblecompatible game nintendo memory expansion pak supply extra ram certain gamewell nintendo browser
+
+nintendo wifi connection
+
+nintendo wifi connection online service run nintendofacilitate free internet play compatible nintendo wii games
+use wifi connection service launched north
+america novemberwith release mario kart tony
+hawk american skland decemberanimal crossing wild
+world new release nintendo browser sizeregular game card allows user browse regular web pagewifi connection
+
+battery life
+
+nintendo contains rechargeable lithium ion batteryexpected battery life range fromhours full fourhour
+charge battery life affected multiple factor including speaker
+volume use one screen back lighting usebuiltin wifi biggest effect battery life caused using
+backlight turned main menu screenselected game super mariods
+
+battery designed removed expiresreplaced removable use phillipshead
+screwdriver removing battery cause nintendo prompt
+user reenter unit setting user birthday
+user name etc affect saved data nintendo game card game boy advance game paks
+
+sustain battery life midst game user closenintendo system put sleep modegame playing paused system sleep mode runseveral hundred hour without completely draining battery however
+closing shell playing game boy advance game put
+nintendo sleep mode game continue run normally
+including back light certain game animal crossing
+wild world also pause backlight screen speakers
+turn
+regional division
+
+nintendo region free sense console runnintendo game purchased anywhere world system
+everywhere however chinese version game playedchinese ique whose larger firmware chip contains required
+chinese character glyph image nintendo region cannot
+play chinese game ique play game regions
+also game boy game game require playernintendo game card multiplayer play work
+together game different region japanese
+nintendo game may work north american nintendo game
+though title mario kart mutually compatible
+addition nintendo wifi connection certain gameplayed internet user different region game
+
+wifi enabled game mario kart allow selectionopponent region option continent worldwide well
+two nonlocation specific setting allows player limit
+competitor opponent based geographical
+area unknown whether based region codeconsole use region cartridge geolocation address
+
+prices
+
+nintendo price history united kingdom
+marchoctober
+octoberjune
+junedecember
+
+nintendo price history united states
+novembernovember
+novemberseptember
+septembercurrent 
+black friday
+
+accessories
+
+game boy advance game slot game boy advance nintendo enlarge
+game boy advance game slot game boy advance nintendo 
+although secondary port nintendo doe accept support
+game boy advance cartridge game boy game boy colour
+cartridge nintendo emphasized main intentioninclusion allow wide variety accessory releasedsystem game boy advance compatibility title logical
+extension
+
+nintendo announced ethat would launch headset
+accessory voip enabled game plug voip plug
+next ear phone jack game boy advance slot
+
+rumble pak
+
+rumble pak first official expansion slot accessoryform game boy advance cartridge rumble pak vibratesreflect action compatible game player bumps
+obstacle loses life released october
+bundled metroid prime pinball used gamemario luigi partner time star fox command elite beat agents
+metroid prime hunter sold separate accessoryspecially designed rumble pak released japan late may 
+nintendo lite cartridge shorter prevent
+protruding nintendo lite standard game boy
+advance cartridge north american version accessoryassumed following junerelease system
+
+nintendo headset
+
+nintendo headset official headset nintendoplug headset port combination standard headphone connector proprietary microphone connectorbottom system feature one earphone microphonecompatible game use internal microphonereleased japan september
+
+opera internet browser
+
+februarynintendo announced version operacrossplatform web browser take advantage dual
+screen either zooming certain section websitelonger vertical view browser went sale japanjulyfor approxit released europeoctoberforan american version expectedrelease time december
+
+nintendo wifi usb connector
+
+usbflashdisksized accessory plug usb portcreates miniature hotspot allowing five nintendo unitconnect nintendo wifi connection service host
+computer internet connection currently device compatible
+window 
+nintendo player
+
+novembernintendo confirmed player accessorylaunch europe decemberno price hareleased nintendo many source suggest aprice tagaddon use card use odd bit style gui
+
+hacking
+
+throughout year nintendo released great dealhacking occurred involving firmware wifi game cards
+software use nintendo emulator also early stagedevelopment commercial game playable thus far
+
+marketing sales
+
+januarynintendo issued formal apology nintendo
+sold throughout japan nintendo system ever soldjapan
+nintendo announced februarythat japan nintendo reachedmillion unit sold thanmonths launch
+mark fastestever pace video game system japan
+
+sale nintendo lite september
+worldwidemillion
+japanmillion
+americamillion
+pal regionmillion
+
+sale figure include nintendo lite unit totaled 
+million worldwide
+
+novembernintendo announced nintendoreached overmillion unit sold europe
+
+system promotional slogan revolve around word touchalmost country slogan touching good
+
+nintendo currently seen many analystmarket sonys playstation portable although representativecompany said system target different audience
+time release united state nintendo retailed forusd price dropped tousd august
+one day anticipated north american releasenintendogs advance war dual strike
+
+eight official color nintendo availablestandard retailer titanium silver black available
+worldwide electric blue exclusive north latin america
+graphite black pure white turquoise blue candy pinkavailable japan mystic pink cosmic blue availableaustralia new zealand japan candy pink australia cosmic
+blue also available europe north americanintendogs bundle although color referred pinkblue however color available original
+nintendo model different morelimited set colorused nintendo lite
+
+junenintendo announced would longer sell 
+provide original would replace nintendo lite
+
+octobernintendo announced araise net profit
+forecast partially attributed strong sale company also
+raised estimated sale forecast 
+
+special editionspromotional packages
+
+many special edition promotional package availablenintendo starting first nintendo bundlemetroid prime hunter demo version included first
+lineup shipment adjustment made 
+lite including colour laser engraving made promotional
+event example release mariokart north
+america red hot bundle available red colored
+nintendo game mariokart packaged along
+nintendo lite
+
+nintendo lite sold ique lite chinadualscreen handheld game console developed manufacturednintendo slimmer lightweight redesign earlier
+nintendo model aesthetically sleeker complement nintendos wii
+appeal broader commercial audience announcedjanuarymore month first territorial launch
+japan marchdue overwhelming demand original
+modelthe nintendo lite currently available three different
+color black pink white
+
+software development
+
+nintendo accepts official company game development team
+sufficient experience certain area official developer
+support program additional information available nintendo
+software development support group
+
+alternative method use publicly available knowledge sites
+ndstech use tool available create oneprogram development route requires method running nintendo
+program game boy advance port five methods
+available passme passme wifime flashme nopass howevereventually rewritable card along dsto adaptors
+rewritable cards
+
+trivia
+
+donkey kong version gamewatch
+enlarge
+donkey kong version gamewatch
+nintendo bear striking resemblance nintendos first
+handheld game watch specifically donkey kong version
+

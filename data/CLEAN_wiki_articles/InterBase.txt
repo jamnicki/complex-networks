@@ -1,0 +1,138 @@
+copyright
+
+interbase
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+interbase
+interbases performance monitor allows database administrator view
+control server use
+developer borland software corporation
+latest releaseservice packfebruary 
+linux microsoft window solaris
+use database management system
+license proprietary
+website wwwborlandcominterbase
+
+interbase relational database management system rdbms currently
+developed marketed borland software corporation interbasedistinguished dbms small footprint close zero
+administration requirement multigenerational architecture
+interbase run linux microsoft window solaris operating
+systems
+
+technology
+
+many respect interbase quite conventionalsqlcompliant relational database support standard interfaces
+jdbc odbc adonet however certain technical features
+distinguish interbase products
+
+small footprint
+
+full interbaseserver installation requires aroundmb disk
+significantly smaller client installation many
+competing database server server little memoryidle minimum interbase client install requires aboutkb disk
+space
+
+minimal administration
+
+interbase server typically require fulltime database
+administrators
+
+multigenerational architecture
+
+concurrency control
+
+consider simple banking application two user accessfund particular account bob read account finds
+isdollars withdrawsjane readaccount bob changed seesdollars withdraws
+needle say database system multiuser access needs
+sort system dealing problem
+
+technique used solve related problem known
+database industry concurrency control
+
+traditional product used lock stated particular
+transaction going modify record lock placedone else could read modify data lock releasedlock may block change single record page group records
+stored together disk record every record examinedparticular transaction depending lock resolution lock
+resolution tradeoff performance accuracyby
+blocking update page level example updateblocked fact conflict update madetransaction performance improved comparisonrecord level locks
+
+locking becomes even bigger problem combined another
+feature common system transaction isolationtransaction typically involve read writein
+example read value account changeorder show isolated view data entire transaction
+including record read never written must locked many
+database servers
+
+interbase reader block writer instead recorddatabase exist one version instance bobjane read account would get versionreading 
+dollar bob change account make withdrawaldata overwritten instead new versionwill created
+withdollars janes attempt make herdollar withdrawalnotice new versionand attempt makewithdrawal fail
+
+approach concurrency control called multiversion concurrency
+control interbases implementation multiversion concurrency control
+commonly called multigenerational architecture interbasesecond commercial database use technique firstdec rdbeln
+
+multiversion concurrency control also make true snapshot transaction
+isolation relatively simple implement transaction snapshot
+isolation interbase show state database preciselywa instant transaction began usefulbackup active database longrunning batch processlike
+
+rollback recovery
+
+interbase also multigenerational architecture implement
+rollback database server use log implement rollback
+feature result rollback taking long time possibly
+even requiring manual intervention contrast interbases rollbacks
+nearinstantaneous never fail
+
+drawbacks
+
+certain operation difficult implementmultigenerational architecture hence perform slowly relativetraditional implementation one example sql count verb
+even index available column column includedcount record must visited order seevisible current transaction isolation
+
+history
+
+multiversion concurrency control interbase
+
+multiversion concurrency control described detailsectionsandof thepaper concurrency controldistributed database system philip bernstein nathan goodman 
+employed computer corporation america bernsteingoodman paper cite adissertation reed quite
+clearly describes mvcc claim original work
+
+early years
+
+jim starkey working dec datatrieve network database
+product came idea system manage concurrent
+change many user idea dramatically simplified existing
+problem locking proving serious problemnew relational database system developed time started
+working system dec time dec startedrelational database effort lead rdbvms productfound project turf war broke although product
+wa released rdbeln starkey eventually decided quit
+
+although interbases implementation much similar system
+described reed mit dissertation databaseexisted time starkey knew bernstein previous
+position computer corporation america later dec
+starkey stated arrived idea multiversion
+concurrency control independently comment starkey says
+
+inspiration multigenerational concurrency control wadatabase system done prime supported page level snapshots
+intention feature give reader consistent view
+database without blocking writer idea intrigueduseful characteristic database system
+
+heard local workstation vendor apollo computerlooking database offering unix machine agreedfund development encouragement formed groton database
+system named town groton massachusettslocated labor dayand started work would eventuallyreleased interbase inapollo suffered corporate shakeupdecided exit software business time productmaking money
+
+road borland
+
+betweenandthe product gradually sold ashtontate
+maker famous dbase time purchasing various
+database company order fill portfolio company
+wa soon trouble borland purchased ashtontate 
+acquiring interbase part deal
+
+recent releases
+
+end ofborland released interbase versionfeaturing
+support smp enhanced support monitoring controlserver administrator borland released interbasein
+june ofin december ofandon june
+
+february ofborland announced intention sellline development tool product including interbase delphi
+jbuilder tools
+
+october ofborland announced availability interbase
+

@@ -1,0 +1,282 @@
+copyright
+
+elementary algebra
+
+ school wikipedia selection related subject mathematics
+
+elementary algebra fundamental relatively basic formalgebra taught student presumed little formal
+knowledge mathematics beyond arithmetic arithmeticnumber arithmetical operation asoccur
+algebra one also symbol bdenote number called variable usefulallows generalization arithmetical equationinequality stated law abbab thus first step systematic studyproperty real number system
+allows reference number known context
+problem variable may represent certain valueuncertain may solved formulationmanipulation equations
+allows exploration mathematical relationshipquantity sell ticket profitxdollars
+
+three main strand elementary algebradistinguished abstract algebra advanced topic generally
+taught college students
+
+elementary algebra anexpression may contain number variables
+arithmetical operation usually written convention
+higherpower term left see polynomial examples
+
+x
+
+yx
+
+zabxypi
+
+advanced algebra expression may also include elementary
+functions
+
+anequation claim two expression equalequation true value involved variablebba equation calledidentities equations
+true value involved variable value variable make equation true calledsolution equation
+
+law elementary algebra
+
+addition commutative operation two number addthing whichever order addsubtraction reverse addition
+subtract add negative number
+
+abab 
+
+example ifxthen 
+multiplication commutative operation
+division reverse multiplication
+divide multiply reciprocal
+
+ba leftover right
+
+exponentiation commutative operation
+therefore exponentiation pair reverse operations
+logarithm exponentiation fractional exponent square roots
+example xthen xlog xthen
+x
+square root negative number exist real
+number system see complex number system
+associative property addition abcabc
+associative property multiplication abcabc
+distributive property multiplication respect addition
+cabcacb
+distributive property exponentiation respectmultiplication abcacbc
+combine exponent abacabc
+power power property exponent abcabc
+
+law equality
+
+ab actransitivity equality
+aareflexivity equality
+ab basymmetry equality
+
+laws
+
+ab acbd
+ab acbc addition propertyequality
+ab acbd
+ab acbc multiplication propertyequality
+two symbol equal one substitutedsubstitution principle
+ab ac transitivity inequality
+ab acbc ab cthen acbc
+ab cthen acbc
+
+examples
+
+linear equation one variable
+
+simplest equation solve linear equation one
+variable contain constant number single variable
+without exponent example
+
+x
+
+central technique add subtract multiply divide sides
+equation number order isolate variableone side equation variable isolated side
+equation value variable examplesubtractingfrom side equation
+x
+
+simplifies
+x
+
+dividing side 
+
+fracxfrac 
+
+simplifies solution
+
+x
+
+general case
+
+axbc
+
+follows format solution
+
+xfraccba
+
+quadratic equations
+
+quadratic equation expressed form axbxc
+zero zero equation wouldquadratic linear quadratic equation must
+contain term known quadratic term henceneqand may divide rearrange equationstandard form
+
+xpxq
+
+solving process known completing square leadquadratic formula
+
+quadratic equation also solved using factorization reverse
+process expansion two linear term sometimes
+denoted foiling example factoring
+
+xx
+
+thing
+xx
+
+follows zeroproduct property either xor solution since precisely one factor must equalzero quadratic equation two solution complex
+number system need real number systemexample
+
+x
+
+ha real number solution since real number squared equal 
+sometimes quadratic equation root multiplicitysuch
+x
+
+equationis root multiplicity 
+
+system linear equations
+
+case system linear equation like instance two
+equation two variable often possible find solutions
+variable satisfy equations
+
+first method finding solution
+
+example system linear equation could following
+
+begincasesxyxyendcases 
+
+multiplying term second equation 
+
+xy
+xy
+
+adding two equation together get
+
+x
+
+simplifies
+x
+
+since fact known possible deduceyby either original two equation usinginstead full solution problem
+begincases xyendcases
+
+note way solve specific systemcould solved 
+second method finding solution
+
+another way solving system linear equationsubstitution
+
+begincasesxyxyendcases 
+
+equivalent deduced using one two equations
+using second equation
+
+xy
+
+subtracting side equation
+
+xxyx 
+yx 
+
+multiplying 
+
+yx
+
+using value first equation original system
+
+xx
+xx
+x
+
+addingon side equation
+
+x
+x
+
+simplifies
+x
+
+using value one equation solutionprevious method obtained
+
+begincases xyendcases
+
+note way solve specific systemcase well could solved 
+type system linear equations
+
+unsolvable systems
+
+example possible find solution howeveralso system equation solution obvious
+example would
+begincases xyxyendcases
+
+second equation system possible solution therefore
+system cant solved however incompatible systemrecognized first sight example following systemstudied
+
+begincasesxyxyendcases
+
+trying solve example using methodsubstitution second equation addingxside multiplying byresults
+yx
+
+using value first equation
+
+xx
+xx
+
+
+variable left equality true meanfirst equation cant provide solution valueobtained second equation
+
+undetermined systems
+
+also system multiple infinite solutionopposition system unique solution meaning two unique
+value example
+
+begincasesxyxyendcases
+
+isolating second equation
+
+yx
+
+using value first equation system
+
+xx
+xx
+
+
+equality true doe provide value indeed
+one easily verify filling value xx solution long yxthere infinite
+solution system
+
+underdetermined systems
+
+system variable number linear equationunique solution example system
+begincasesxyyzendcases
+
+system called underdetermined trying findsolution one variable expressed relationvariable cannot determined numerically
+incidentally system greater number equationvariable necessarily equation sum multipleothers called overdetermined
+
+relation solvability multiplicity
+
+given system linear equation relationmultiplicity solvability
+one equation multiple generally sum
+multiple equation system linear
+equation undetermined meaning system infinitely many
+solution example
+
+begincasesxyxyendcases
+
+multiplicity partial meaning exampleleft hand side equation multiple right
+hand side number systemunsolvable example
+begincasesxyxyendcases
+
+second equation yield xywhich contradiction
+first equation system also called inconsistentlanguage linear algebra trying solve system linear
+equation generally good idea check one equationmultiple precisely solution cannotuniquely determined partially solutionexist
+however doe mean equation must multiplesolution shown sectionword multiplicity system linear equation necessary
+condition solvability
+

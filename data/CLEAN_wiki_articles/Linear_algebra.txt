@@ -1,0 +1,114 @@
+copyright
+
+linear algebra
+
+ school wikipedia selection related subject mathematics
+
+linear algebra branch mathematics concerned studyvector vector space also called linear space linear
+transformation system linear equation vector spacecentral theme modern mathematics thus linear algebra widely
+used abstract algebra functional analysis linear algebra
+also concrete representation analytic geometrygeneralized operator theory extensive applicationnatural science social science since nonlinear modeloften approximated linear model
+
+history
+
+linear algebra stem need solve system linear
+equation small system hoc method sufficient larger
+system require one systematic method modern day
+approach seenyears ago chinese text nine
+chapter mathematical arttraditional chinese 
+simplified chinesepinyin jizhng sunsh chinese
+mathematician developed system organized linear
+equation rectangular pattern called fng chngin chinese
+involving horizontal vertical counting rod rectangular
+representation linear equation equivalent today matrix
+
+one key development linear algebra modern day method
+solving linear system known gaussjordan eliminationgerman mathematician carl friedrich gaussand german
+engineer wilhelm jordangauss called method
+elimination even though chinese using almost identical
+method nearly two millennium prior method stemmed reallygauss laziness leaving variable stem x etcsolving large ntuples linear equation following asteroid
+known cere method explained book theoria motus
+corporum coelestium 
+
+history modern linear algebra date back yearsand
+inwilliam rowan hamilton term vector stems
+discovered quaternion inhermann grassmann publishedbook die lineale ausdehnungslehre see reference arthur cayley
+introduced matrix one fundamental linear algebraic
+idea inthese early reference belie fact linear
+algebra mainly development twentieth centurynumberlike object called matrix hard placedevelopment ring theory abstract algebra comingspecial relativity many practitioner gained appreciationsubtlety linear algebra furthermore routine applicationcramers rule solve partial differential equation led inclusion
+linear algebra standard coursework university instance
+et copson wrote
+
+
+linear algebra
+
+went edinburgh young lecturer ini surprised
+find different curriculum oxfordincluded topic lebesgue integration matrix theory numerical
+analysis riemannian geometry knew nothing
+
+
+linear algebra
+
+et copson preface partial differential equation 
+
+francis galton initiated use correlation coefficient 
+often one random variable play maycrosscorrelated statistical analysis multivariate random
+variable correlation matrix natural tool thus statistical
+study random vector helped develop matrix usage
+
+elementary introduction
+
+linear algebra beginning study vector cartesian
+space space vector directed line segment
+characterized magnitude represented lengthdirection vector used represent physical entityforce added multipliedscalar thus forming first example real vector space
+
+modern linear algebra extended consider space arbitrary
+infinite dimension vector space dimension callednspace useful result fromand space extended
+higher dimensional space although many people cannot easily
+visualize vector nspace vector ntuples usefulrepresenting data since vector ntuples ordered list component possible summarize manipulate data efficiently
+framework example economics one create use
+say dimensional vector tuples represent gross national
+product ofcountries one decide display gnp 
+country particular year country orderspecified example united state united kingdom france
+germany spain india japan australia using vector v v v v country gnprespective position
+
+vector space linear space purely abstract conceptprove theorem part abstract algebra well
+integrated discipline striking examplegroup invertible linear map matrix ring linear
+map vector space linear algebra also play important partanalysis notably description higher order derivativevector analysis study tensor product alternating maps
+
+abstract setting scalar element vector
+space multiplied need number requirementscalar form mathematical structure called fieldapplication field usually field real numberfield complex number linear operator take element linear
+space another manner compatibleaddition scalar multiplication given vector spaces
+set transformation vector spacebasis vector space fixed every linear transformrepresented table number called matrix detailed study
+property algorithm acting matrix including
+determinant eigenvectors considered part linear
+algebra
+
+one say quite simply linear problem mathematics 
+exhibit linearity behaviourare likely
+solved example differential calculus doe great deallinear approximation function difference nonlinear
+problem important practice
+
+general method finding linear way look problem
+expressing term linear algebra solving needmatrix calculation one generally applicablemathematics
+
+useful theorems
+
+every linear space basis statement logically
+equivalent axiom choice
+matrix invertible determinant nonzero
+matrix invertible linear transformation
+represented matrix isomorphism see also invertible
+matrix equivalent statements
+matrix positive semidefiniteeigenvalue greater equal zero
+matrix positive definiteeigenvalue greater zero
+spectral theorem regarding diagonal matrices
+
+generalization related topics
+
+since linear algebra successful theory methoddeveloped part mathematics module theory one replaces
+field scalar ring multilinear algebra one dealseveral variable problem mapping linear number
+different variable inevitably leading tensor conceptspectral theory operator control infinitedimensional
+matrix gained applying mathematical analysis theorypurely algebraic case technical difficulties
+much greater
+

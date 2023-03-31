@@ -1,0 +1,146 @@
+copyright
+
+quantity
+
+ school wikipedia selection related subject mathematics
+
+quantity kind property exists magnitude multitude
+among basic class thing along quality substance
+change one relation quantity first introducedquantum entity quantity fundamental term quantity
+used refer type quantitative property attributes
+thing quantity inner nature number
+others functioning state property dimensions
+attribute thing heavy light long short broad
+narrow small great much little small quantitysometimes referred quantulum
+
+two basic division quantity magnitude multitude number
+imply principal distinction continuitycontinuumdiscontinuity
+
+name multitude come discontinuous discrete
+divisible indivisibles case collective noun army
+fleet flock government company party people chorus crowd mess
+number name magnitude come continuousunified divisible divisibles case noncollective
+noun universe matter mass energy liquid material animal
+plant tree
+
+along analyzing nature classification issuequantity involve closely related topic relationmagnitude multitude dimensionality equality proportionmeasurement quantity unit measurement numbernumbering system type number relationnumerical ratios
+
+thus quantity property exists range magnitudemultitude mass time distance heat angular separationamong familiar example quantitative property two magnitudes
+continuous quantity stand relation one another ratio
+real number
+
+background
+
+concept quantity ancient one extends backtime aristotle earlier aristotle regarded quantityfundamental ontological scientific category aristotles
+ontology quantity quantum classified two different types
+characterized follows
+
+quantum mean divisible twoconstituent part nature onequantum plurality numerable magnitude
+measurable plurality mean divisible
+potentially noncontinuous part magnitudedivisible continuous part magnitudecontinuous one dimension length two breadth three
+depth limited plurality number limited lengthline breadth surface depth solid aristotle book chaptersmetaphysics
+
+element euclid developed theory ratio magnitudes
+without studying nature magnitude archimedes giving
+following significant definitions
+
+magnitude part magnitude greater
+measure greater ratio sort relationrespect size two magnitude kind
+
+aristotle euclid relation conceived whole numbers
+michelljohn wallis later conceived ratio magnitudereal number reflected following
+
+comparison term ratio made resultant ratio
+often namely exception numerical genus
+leaf genus quantity compared passnumerical genus whatever genus quantity compared
+may john wallis mathesis universalis
+
+ratio magnitude quantity whether volume mass
+heat number following newton defined
+number relationship quantity numberfollowing term number understand much multitudeunity abstracted ratio quantity another quantitykind take unity newton 
+
+quantitative structure
+
+continuous quantity posse particular structure first
+explicitly characterized hlderas set axiomdefine feature identity relation magnitudescience quantitative structure subject empirical
+investigation cannot assumed exist priori given
+property linear continuum represents prototype continuous
+quantitative structure characterized hldertranslatedmichellernsta fundamental feature type quantity
+relationship equality inequality principlestated comparison particular magnitude unlike quality
+marked likeness similarity difference diversity
+another fundamental feature additivity additivity may involve
+concatenation adding two length obtain third 
+b additivity however restricted extensive quantitymay also entail relation magnitude established
+experiment permit test hypothesized observable
+manifestation additive relation magnitude another feature
+continuity michellpsays length type
+quantitative attribute continuity meanarbitrary length selected unit every positive
+real number length bra
+
+quantity mathematics
+
+two type magnitude multitude number quantitydivided mathematical physical formally quantities
+number magnitude ratio proportion order formal
+relationship equality inequality studied mathematics
+essential part mathematical quantity madecollection variable assuming set value comingscalar vector tensor functioning infinitesimal
+argument independent dependent variable random stochastic
+quantity mathematics magnitude multitude two
+kind quantity also commensurabletopic discrete quantity number number systemkind relation fall number theory geometry
+study issue spatial magnitude straight line length
+relationship parallel perpendicular angle curved
+line kind number degree relationship tangents
+secant asymptote also encompasses surface solids
+transformation measurement relationships
+
+quantity physical science
+
+establishing quantitative structure relationship different
+quantity cornerstone modern physical science physicfundamentally quantitative science progress chiefly achieved
+due rendering abstract quality material entityprimary quantity physical thing postulating material
+body marked quantitative property physical dimensionsubject measurement observation setting unitmeasurement physic cover fundamental quantity space
+length breadth depth time mass force temperature
+energy quantum
+
+traditionally distinction also made intensive
+quantity extensive quantity two type quantitative property
+state relation magnitude intensive quantity doedepend size extent object systemquantity property whereas magnitude extensive quantityadditive part entity subsystem thus magnitudedepend extent entity system case extensive
+quantity example intensive quantity density pressure
+example extensive quantity energy volume mass
+
+quantity logic semantics
+
+respect quantity proposition grouped universalparticular applying whole subject part subjectpredicated accordingly existential universal
+quantifier relation meaning construct quantity
+involves two semantic dimensionsextension extent determining
+specific class individual instance indicatedconstructintension content comprehension definition
+measuring implication relationship association involved
+construct intrinsic inherent internal builtinconstitutional implicit meaning relations
+
+quantity natural language
+
+human language including english number syntactic category
+along person gender quantity expressed identifiers
+definite indefinite quantifier definite indefinitewell three type nounscount unit noun countables 
+mass noun uncountables referring indefinite unidentified
+amountsnouns multitude collective noun word number
+belongs noun multitude standing either single entityindividual making whole amount general expressed
+special class word called identifier indefinite definite
+quantifier definite indefinite amount may expressed
+singular form plural ordinal number count noun
+singular first second third demonstrative definiteindefinite number measurement hundredhundreds
+millionmillions cardinal number count noun setlanguage quantifier cover great number many severalcount name bit little great deal amount much
+mass name plenty lot enougheither neither every complex caseunidentified amount part example mass indicated
+respect following measure mass two kilo rice
+twenty bottle milk ten piece paper piece partmass part element atom item article drop shapecontainer basket box case cup bottle vessel jar
+
+examples
+
+example quantitylitre liter milk continuous quantity
+r metre length radius circle expressed
+metre meter also continuous quantity
+one apple two apple three apple number integer
+representing count denumerable collection objects
+apples
+people also count
+couple conventionally refers two objects
+

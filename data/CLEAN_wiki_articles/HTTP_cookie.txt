@@ -1,0 +1,523 @@
+copyright
+
+http cookie
+
+ school wikipedia selection related subject website internet
+
+http cooky sometimes known web cooky cookyparcel text sent server web browser sent back
+unchanged browser time access server http
+cooky used authenticating tracking maintaining specific
+information user site preference contentelectronic shopping cart term cookie derived 
+magic cookie wellknown concept unix computing inspired
+idea name http cookies
+
+cooky concern internet privacy sinceused tracking browsing behaviour resultsubject legislation various country united states
+european union cooky also criticisedidentification user provide always accuratecould potentially used network attackalternative cooky exist drawbacks
+
+cooky also subject number misconception mostly basederroneous notion computer program fact cookies
+simple piece data unable perform operationparticular neither spyware viruses
+despite detection cooky certain site many
+antispyware products
+
+modern browser allow user decide whether accept cookies
+rejection make website unusable example shopping
+basket implemented using cooky work cooky rejected
+
+purpose
+
+cooky used web server differentiate user operate
+way depends user cooky invented realising
+virtual shopping basket virtual device user
+place item purchase user navigate siteitem shown adding removing item shopping baskettime cooky allow content shopping cart depend
+user actions
+
+allowing user log website another use cooky users
+typically log inserting credential login page
+cooky allow server know user already
+authenticated therefore allowed access service perform
+operation restricted loggedin users
+
+several website also use cooky personalization based users
+preference site require authentication often use feature
+although also present site requiring authentication
+personalization includes presentation functionality example
+wikipedia web site allows authenticated user choose webpage
+skin like best google search engine allows user even
+nonregistered one decide many search result per pagewant see
+
+cooky also used track user across website thirdparty
+cooky web bug explained also allow tracking across
+multiple site tracking within site typically done aim
+producing usage statistic tracking across site typically
+used advertising company produce anonymous user profileused target advertising deciding advertising image
+show based user profile
+
+realization
+
+technically cooky arbitrary piece data chosen web
+server sent browser browser return unchangedserver introducing state memory previous eventotherwise stateless http transaction without cooky retrieval
+web page component web page isolated event mostly
+unrelated view page sitereturning cookie web server browser provides servermean connecting current page view prior page viewset web server cooky also set scriptlanguage javascript supported enabled web
+browser
+
+cookie specification suggest browser support minimal
+number cooky amount memory storing particular
+internet browser expected able store least 
+cooky ofkilobytes leastcookies per serverdomain
+
+cookie setter specify deletion date case cookie
+removed date cookie setter doe specifydate cookie removed user quits browserresult specifying date way making cookie survive across
+session reason cooky expiration date called
+persistent example application shopping site use
+persistent cooky store item user placedbasket way user quit browser without making purchase
+return later dont find product previously
+placed shopping cart
+misconceptions
+
+since introduction internet misconception cookies
+circulated internet medium injupiter
+research published result survey accordingconsistent percentage respondent believed following
+claims
+myth cooky like worm virus erase
+data user hard disks
+myth cooky form spyware read personal
+information stored user computer
+myth cooky generate popups
+myth cooky used spamming
+myth cooky used advertising
+
+cooky fact data program code cannot eraseread information user computer however cooky allowdetecting web page viewed user given site setsite information collected profile userprofile often anonymous contain personal
+information user name address etc preciselycannot contain personal information unless user madeavailable site even anonymous profilesubject privacy concerns
+
+according survey large percentage internet userknow delete cookies
+
+browser settings
+
+modern browser support cooky however user usually also
+choose whether cooky used following common
+optionscookies never acceptedthe browser asks user
+whether accept every individual cookie orcookies always
+accepted
+firefox cookie manager showing detail various cookydomain
+enlarge
+firefox cookie manager showing detail various cookydomain
+
+browser may also include possibility better specifyingcooky accepted particular usertypically choose one following option reject cookies
+specific domain disallow thirdparty cooky see accept
+cooky nonpersistent expiring browser closedallow server set cooky different domain additionally
+browser may also allow user view delete individual cookies
+
+browser supporting javascript allow user see cookies
+active respect given page typing
+javascriptalertcookies documentcookie browser url field
+browser incorporate cookie manager user seeselectively delete cooky currently stored browser
+
+pp specification includes possibility server stateprivacy policy specifies kind information collects
+purpose policy include limiteduse information gathered using cooky according specification browser accept reject cooky comparingprivacy policy stored user preference ask user
+presenting privacy policy declared server
+
+privacy thirdparty cookies
+
+cooky important implication privacy anonymity
+web user cooky sent server settingone internet domain web page may contain imagecomponent stored server domain cooky set
+retrieval component called thirdparty cookies
+
+advertising company use thirdparty cooky track user across
+multiple site particular advertising company track user
+across page placed advertising image web bugs
+knowledge page visited user allows advertisement
+company target advertisement user presumed preferences
+
+possibility building profile user consideredpotential privacy threat even tracking donesingle domain especially tracking done across multiple
+domain using thirdparty cooky reason countrylegislation cookies
+
+united state government set strict rule setting cookywa disclosed white house drug policy office
+used cooky track computer user viewing online antidrug
+advertising see visited site drug makingdrug use inprivacy activist daniel brandt found cia
+leaving persistent cooky computer ten yearnotified violating policy cia stated cookyintentionally set stopped setting december
+brandt discovered national security agency leaving
+two persistent cooky visitor computer due software
+upgrade informed national security agency immediately
+disabled cookies
+
+theeuropean union telecommunication privacy directive contains
+rule use cooky particular articleparagraph 
+directive mandate storing data like cooky users
+computer done ifthe user provided informationdata used andthe user given possibilitydenying storing operation however article also statestoring data necessary technical reason exemptedrule directive expected applied since
+octoberbut decemberreport say pagethatprovision applied practice member countries
+slovakia latvia greece belgium luxembourg even
+transpose report suggests thorough analysissituation member states
+
+drawback cookies
+
+besides privacy concern reason cookyopposed always accurately identify userused security attacks
+
+inaccurate identification
+
+one browser used computer separate
+storage area cooky hence cooky identify personcombination user account computer web browser thus
+anyone multiple account computer browser multiple
+set cookies
+
+likewise cooky differentiate multiple user share
+computer browser use different user accounts
+
+cookie theft
+
+cookie stolen another computer allowed readingnetwork
+enlarge
+cookie stolen another computer allowed readingnetwork
+
+normal operation cooky sent back forthserver group server domain computerbrowsing user since cooky may contain sensitive information
+user name token used authentication etc valueaccessible computer cooky theft process
+allowing unauthorised party receive cookie
+
+cooky sent ordinary http session visible userlisten network using packet sniffer problemovercome using http uri scheme invokes transport layer
+security encrypt connection additionally cookie set
+secure flag make sent secure
+channel ssl connections
+crosssite scripting cookie exchangedserver client sent another party
+enlarge
+crosssite scripting cookie exchangedserver client sent another party
+
+different way steal cooky crosssite scripting makes
+browser send cooky server receive
+modern browser allow execution piece code retrievedserver cooky accessible execution value may
+communicated form server accessprocess allowing unauthorised party receive cookiecalled cookie theft encryption doe help attack
+
+possibility typically exploited attacker siteallow user post html content embedding suitable piece code
+html post attacker may receive cooky users
+knowledge cooky exploited connectingsite using stolen cooky thus recognised user
+whose cooky stolen way preventing attackhttponly flag microsoftspecific option makecookie inaccessible client side script
+cookie poisoning attacker sends server invalid cookie
+possibly modifying valid cookie previously receivedserver
+enlarge
+cookie poisoning attacker sends server invalid cookie
+possibly modifying valid cookie previously receivedserver
+
+cookie poisoning
+
+cooky supposed stored sent back server
+unchanged attacker may modify value cooky sending
+back server example cookie contains total
+value user pay item shopping basket
+changing value expose server risk makingattacker pay supposed price process tampering
+value cooky called cookie poisoning sometimes
+used cookie theft make attack persistent
+crosssite cooking attacker exploit browser bug sendinvalid cookie server
+enlarge
+crosssite cooking attacker exploit browser bug sendinvalid cookie server
+
+website however store session identifiera randomly
+generated unique number used identify user sessionincookie information stored server
+case problem cookie poisoning largely eliminated
+
+crosssite cooking
+
+site supposed cooky site like evilnet
+able alter set cooky another site like
+goodnet crosssite cooking vulnerability web browser allow
+malicious site break rule similar cookie
+poisoning attacker exploit nonmalicious uservulnerable browser instead attacking actual site directlygoal attack may perform session fixation
+
+alternative cookies
+
+operation realised using cooky alsorealised using mechanism however alternative cookies
+drawback make cooky usually preferredpractice following alternative allow user
+tracking even reliably cooky result privacyissue even cooky rejected browser setserver
+
+ip address
+
+unreliable technique tracking user based storing address computer requesting page techniqueavailable since introduction world wide webdownloading page requires server holding know address computer running browser proxyused information available server stored
+regardless whether cooky used
+
+however address typically reliable identifyinguser cooky computer proxy may sharedseveral user computer may assigned different internet
+address different work session often casedialup connection reliability technique improved
+using another feature http protocol browser requests
+page user followed link request sent
+server contains url page link located
+server store url path page viewed user
+tracked precisely however trace reliable
+one provided cooky several user may accesspage computer nat router proxy follow two
+different link moreover technique allows trackingcannot replace cooky uses
+
+tracking address impossible systemused retain internet anonymity tor systemcould one browser carry multiple address throughout session
+multiple user could appear coming address
+thus making address use tracking wholly unreliable
+
+major isps including aol route web traffic small
+number proxy make scheme particularly unworkable
+
+url query string
+
+precise technique based embedding information urls
+query string part url one typically usedpurpose part used well php session
+mechanism method cooky enabled
+
+method consists web server appending query stringlink web page hold sending browseruser follows link browser return attached query stringserver
+
+query string used way cooky similararbitrary piece information chosen server sent backbrowser however difference since query string
+part url url later reused attached piece
+information sent server example preferences
+user encoded query string url user sends
+url another user email preference useduser well
+
+moreover even user access page two timeguarantee query string used viewexample user arrives page comingpage internal site first time external search
+engine second time relative query string typically
+different cooky would detail see
+query string
+
+drawback query string related security storing data
+identifies session query string enables simplifies
+session fixation attack referer logging attack security
+exploit transferring session identifier http cookysecure
+
+http authentication
+
+authentication http protocol includes mechanismdigest access authentication allow access web pageuser provided correct username passwordcredential given browser store alsoaccessing subsequent page without requiring user providepoint view user effectcooky used username password requestedpoint user given access sitebackground username password combination sent server
+every browser request mean someone listeningtraffic simply read information store later use
+session token hand usually expireused thus effectively become useless cannot
+used retrieve session user loggedin
+
+clientside persistence
+
+web browser support scriptbased persistence mechanismallows page store information locally later retrieval
+internet explorer example support persisting informationbrowser history favorite xml store directly withinweb page saved disk
+
+javascript enabled windowname property object window
+used persistently store data property remains unaltered
+across loading unloading web page hacklittle known therefore considered security risk
+additionally windowname introduces browser compatibility issuemozillabased browser mozilla firefox support
+javascript persistence using windowname
+
+history
+
+term http cookie derives frommagic cookie packet dataprogram receives sending possiblyorigin unchanged magic cooky already used computinglou montulli idea using web communication june
+time employee netscape communicationwa developing ecommerce application customer cookies
+provided solution problem reliably implementing virtual
+shopping cart
+
+together john giannandrea montulli wrote initial netscape
+cookie specification year version beta netscape
+released septembersupported cooky first actual usecooky lab made checking whether visitornetscape web site already visited site montulligiannandrea applied patent cookie technology init
+wa granted insupport cooky integrated internet
+explorer versionreleased october 
+
+introduction cooky widely known publictime particular cooky accepted default usernotified presence cooky people awareexistence cooky early first quarter ofbutgeneral public learned financial time published
+article februaryin year cookies
+received lot medium attention especially potential
+privacy implication cooky discussed two federal trade
+commission hearing inand 
+
+development formal cookie specification already
+ongoing particular first discussion formal
+specification started aprilon wwwtalk mailing listspecial working group within ietf formed two alternative
+proposal introducing state http transactionproposed brian behlendorf david kristol respectivelygroup headed kristol soon decided use netscape
+specification starting point februarythe working group
+identified thirdparty cooky considerable privacy threatspecification produced group eventually published rfc
+februaryit specifies thirdparty cookyeither allowed least enabled default
+
+time advertising company already using thirdparty
+cooky recommendation thirdparty cooky rfcwas
+followed netscape internet explorer rfcwas followed
+rfcin october 
+
+implementation
+
+setting cookie
+
+transfer web page follows hypertext transfer protocol http
+regardless cooky browser request page web serversending short text called http request example access
+page httpwwwworgindexhtml browser connect server
+wwwworg sending request look like following one
+
+get indexhtml http
+browser
+
+
+
+server
+
+server reply sending requested page preceded similar
+packet text called http header packet may contain lines
+requesting browser store cookies
+
+httpok
+contenttype texthtml
+setcookie namevalue
+
+content page
+browser
+
+
+
+server
+
+line setcookie sent server wish browserstore cookie indeed request browser storestring namevalue send back future requestserver browser support cooky cooky enabled every
+subsequent page request server contains cookieexample browser request page httpwwwworgspechtmlsending server wwwworg request like following
+
+get spechtml http
+cookie namevalue
+accept 
+
+browser
+
+
+
+server
+
+request another page server differs
+first one contains string server
+ha previously sent browser way server knowrequest related previous one server answersending requested page possibly adding cooky well
+
+value cookie modified server sending new
+setcookie namenewvalue line response page requestbrowser replaces old value new one
+
+setcookie line typically created http servercgi program http server sends resultprogram document preceded header containing cookybrowser
+
+cooky also set javascript similar script running within
+browser javascript object documentcookie usedpurpose example instruction documentcookie 
+temperature creates cookie name temperature value 
+
+cookie attributes
+
+beside namevalue pair cookie may also contain expiration
+date path domain name whether cookie intendedencrypted connection rfcalso specifies cooky must
+mandatory version number usually omittedpiece data follow namenewvalue pair separatedsemicolon example cookie created serversending line setcookie namenewvalue expiresdate path
+domainexampleorg
+example http response googlecom set cookieattributes
+enlarge
+example http response googlecom set cookieattributes
+
+domain path tell browser cookie sent
+back server requesting url given domain pathspecified default domain path objectwa requested result domain path string may tellbrowser send cookie normally would security
+reason cookie accepted server memberdomain specified domain string
+
+cooky actually identified triple namedomainpathname original netscape specification considerspair namepath word name different domainpath identify different cooky possibly different valueresult cookie value changed new value givenname domain path
+
+expiration date tell browser delete cookieexpiration date provided cookie deleted enduser session user quits browser result
+specifying expiration date mean making cooky survive
+across browser session reason cookyexpiration date called persistent
+
+expiration date specified wdy ddmonyyyy hhmmss gmt
+format example following cookie sent web server
+value string changed
+
+setcookie rmidsdfs expiresfri dec 
+gmt path domainexamplenet
+
+name particular cookie rmid valuestring sdfs server use arbitrary stringvalue cookie server may collapse value numbervariable single string like example ababcdcpath domain stringsand examplenet tell browser sendcookie requesting arbitrary page domain examplenet
+arbitrary path
+
+expiration
+
+cooky expire therefore sent browserserver conditions
+end user session browser shutcookie persistent
+expiration date specified passed
+expiration date cookie changed serverscript date past
+browser deletes cookie user request
+
+third condition allows server script explicitly deletecookie
+
+authentication
+
+cooky used server recognize authenticated userpersonalize web page site depending preferenceuser done example follows
+user insert username password text fieldlogin page sends server
+server receives username password checkcorrect sends back page confirming logging hasuccessful together cookie storing pair usercookiecookie
+every time user request page server browser
+automatically sends cookie back server server
+compare cookie stored one match foundserver know user requested page
+
+method commonly used many site allow loggingyahoo wikipedia
+
+personalization
+
+cooky used allowing user express preferenceweb site example google search engine allows userchoose many result shown every querychoice maintained across sessions
+
+user authenticated using techniquerequest page server also sent cookie associateduser therefore adapt requested page stored used
+preference authentication used user preferencestored cookie user select preference enteringweb form submitting server server encodescookie sends back browser way every timeuser access page server also sent cookiepreference stored personalise page accordinguser preferences
+
+example google store user preference cookie name
+pref cookie created default value user accesses
+site first time example cookie value containsstring indicates default preference ten hit displayed
+page user change number toin preference
+page server modifies cookie every time user
+query search engine cookie sent server alongquery way server know many hit shownpage
+
+tracking
+
+cooky also used tracking path user visiting
+web page site also done part using address computer requesting page referer fieldhttp header cooky allows greater precisiondone example follows
+user request page site request contains
+cookie server presumes first page visited
+user server creates random string sendscookie back browser together requested page
+point cookie automatically sentbrowser server every time new page siterequested server sends page usual also storeurl requested page along datetime cookie
+log file
+
+looking log file possible findpage sequence user visited examplelog contains request done using cookie iddfhsiwrequest come user url timedate storedcookie allows finding page user visitedtime
+
+thirdparty cookies
+
+image object contained web page may reside servers
+different one holding page order show page
+browser downloads object possibly receiving cookies
+cooky called thirdparty cooky server sendinglocated outside domain web page
+
+condition common online advertisement indeed web
+banner typically stored server advertising company
+domain web page showingthirdparty cooky rejected browser advertising
+company track user across site placed banner
+particular whenever user view page containing bannerbrowser retrieves banner server advertising company
+server previously set cookie browser sends back
+allowing advertising company link access previous
+one choosing unique banner url every web pageplaced using http referer field advertising companyfind page user viewed techniqueused web bug unlike obvious banner images
+embedded web page undetectable user egtiny andor transparent
+
+thirdparty cooky used create anonymous profileuser allows advertising company select banner show
+user based user profile advertising industryalways denied use profiles
+
+many modern browser internet explorer opera mozilla
+firefox block third party cooky requested user internet
+explorer versionallowes mild form blocking called leashingleashed cookie thirdparty cookie sent browseraccessing thirdparty document via firstpartyexample thirdcom set cookie image requestedimage set first time user view document
+firstcom cookie sent user downloadsdocument contains image document another
+site othercom cookie leashed leashed cookie different
+blocked cookie sent example image
+contained another document site firstcom
+
+basket
+
+online shopping site allow user even loggedstore number item virtual basket user starts
+navigating site empty basket add itembasket visiting site list item user chosen
+stored using cooky example server sends empty
+cookie browser user visit first page wheneveruser add item basket server add name item
+cookie
+
+insecure mechanism malicious user alter
+cookie much secure mechanism generate random cookie
+tracking using lookup key database
+stored server
+
+cookie theft
+
+cookie specification constrain cooky sent backserver domain server originate
+however value cooky sent server using means
+different cookie header
+
+particular scripting language javascript jscriptusually allowed access cookie value mean send
+arbitrary value arbitrary server internet factused combination site allowing user post html contentuser see
+
+example attacker running domain examplecom may postcomment containing following link popular blogotherwise control
+
+href
+onclickwindowlocationhttpexamplecomstolecgitextes
+capedocumentcookie return falseclick herea
+
+another user click link browser executes piece
+code within onclick attribute thus replacing string
+documentcookie list cooky active page
+result list cooky sent examplecom server
+attacker able collect cooky users
+
+type attack difficult detect user side sincescript coming domain set cookieoperation sending value appears authorised domain
+usually considered responsibility administrators
+running site user post disallow postingmalicious code

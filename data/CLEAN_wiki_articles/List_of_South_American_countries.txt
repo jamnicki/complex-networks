@@ -1,0 +1,47 @@
+copyright
+
+list south american countries
+
+ school wikipedia selection related subject centralsouth american
+geography
+
+alphabetical list south american countrydependencies
+flag argentinaargentina
+flag boliviabolivia
+flag brazilbrazil
+flag chilechile
+flag colombiacolombia
+flag ecuadorecuador
+flag falkland islandsfalkland island flag french guiana
+french guiana
+flag guyanaguyana
+flag paraguayparaguay
+flag peruperu
+flag surinamesuriname
+flag uruguayuruguay
+flag venezuelavenezuela
+
+lists
+
+south american countries
+
+gdp
+gdp per capita
+gdp ppp
+population
+population density
+
+country continent
+
+africa
+asia
+europe
+north america
+oceania
+
+retrieved 
+httpenwikipediaorgwikilistofsouthamericancountries
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

@@ -1,0 +1,371 @@
+copyright
+
+light
+
+ school wikipedia selection related subject general physics
+
+prism splitting light
+enlarge
+prism splitting light
+
+light electromagnetic radiation wavelength visibleeye visible light technical scientific context
+electromagnetic radiation wavelengththe elementary particle
+defines light photon three basic dimension light
+ie electromagnetic radiationintensity amplitude related human perception
+brightness light
+frequency wavelength perceived human colourlightpolarization angle vibration weakly
+perceptible human ordinary circumstances
+
+due waveparticle duality matter light simultaneously
+exhibit property wave particle precise naturelight one key question modern physics
+
+visible electromagnetic radiation
+
+visible spectrum portion electromagnetic spectrum
+visible human eye referred balmer series
+electromagnetic radiation range wavelength called
+visible light simply light exact bound visible
+spectrum typical human eye respond wavelength fromto
+nm although people may able perceive wavelengthtonm lightadapted eye typically maximum
+sensitivity aroundnm green region optical
+spectrum see luminosity function spectrum doe however
+contain colour human eye brain distinguish
+brown pink absent example see colour understand
+optical spectrum includes visible light also infrared
+ultraviolet
+
+speed light
+
+speed light vacuum exactlymetres per second
+fixed definition although people speak velocitylight word velocity usually reserved vector quantities
+direction
+
+speed light measured many time many physicists
+best early measurement europe ole rmer danish
+physicist inby observing motion jupiter onemoon telescope noting discrepancy apparent
+period orbit rmer calculated light take 
+minute traverse diameter earth orbit knowndiameter orbit kilometre didnt woulddeduced speed ofkilometres per second approximately
+mile per second
+
+first successful measurement speed light europe using
+earthbound apparatus carried hippolyte fizeau 
+fizeau directed beam light mirror several thousand metres
+away placed rotating cog wheel path beamsource mirror back certain rate rotationbeam could pas one gap wheel waynext gap way back knowing distance mirrornumber teeth wheel rate rotation fizeau measured
+speed light askilometres per second
+
+lon foucault used rotating mirror obtain value ofkms
+aboutmiless inalbert michelson conducted
+experiment speed light fromuntil death inhe
+refined foucault result inusing improved rotating mirrormeasure time took light make round trip wilsonmt san antonio california precise measurement yielded speed
+ofmiskmskmh daily usefigure rounded tokms andmiless
+
+refraction
+
+light propagates finite speed even moving observer always
+measure value speed light vacuum 
+metre per secondmiles per secondlight pass transparent substance air waterglass speed reduced undergoes refraction reduction
+speed light denser material indicatedrefractive index defined
+nfraccv 
+
+thus nin vacuum nin matter
+
+beam light enters medium vacuum another mediumkeep frequency change wavelength incident
+beam orthogonal edge medium directionbeam change refraction light lens used focus
+light magnifying glass spectacle contact lens microscopes
+refracting telescopes
+
+optics
+
+study light interaction light matter termed
+optic observation study optical phenomenon rainbows
+offer many clue nature light well much enjoyment
+
+colour wavelength
+
+different wavelength detected human eyeinterpreted brain colour ranging red longest
+wavelength aboutnm violet shortest wavelengthaboutnm intervening frequency seen orange yellow
+green blue
+
+wavelength electromagnetic spectrum immediately outsiderange human eye able perceive called ultraviolet
+uv short wavelength high frequency end infrared irlong wavelength low frequency end animal bees
+see radiation others pit viper snake see
+infrared light
+
+uv radiation normally directly perceived human exceptdelayed fashion overexposure skin light cause
+sunburn skin cancer underexposure cause vitamindeficiency however higher frequency radiationvisible light easily cause material fluoresce visible
+light
+
+camera detect convert light called
+depending application nightvision camera infrared
+camera different image intensifier cameraamplify available visible light
+
+intense radiation frequency absorbed skincause heating felt since hot object strong sources
+infrared radiation radiation commonly associatedsensation intense radiation absorbed skineffect however
+
+measurement light
+
+following quantity unit used measure quantitybrightness light
+
+caption photometry units
+
+quantity symbol unit abbr notes
+luminous energy lumen second unit sometimes called
+talbots
+luminous flux lumencd lm also called luminous power
+luminous intensity candelalm cd base unit
+luminance candela per square metre unit sometimes
+called nits
+illuminance luxlm used light incidentsurface
+luminous emittance luxlm used light emittedsurface
+luminous efficacylumen per watt w ratio luminous fluxradiant flux maximum possible 
+
+caption radiometry units
+
+quantity symbol unit abbr notes
+radiant energy joule energy
+radiant fluxwatt radiant energy per unit time also called radiant
+power
+radiant intensity watt per steradian wsr power per unit solid
+angle
+radiance watt per steradian per square metre wsrm power per
+unit solid angle per unit projected source area
+
+sometimes confusingly called intensity
+irradiance watt per square metre power incident surface
+
+sometimes confusingly calledintensity
+radiant exitanceradiant emittance watt per square metre power emitted surface
+
+sometimes confusingly called intensity
+spectral radiance l watt per steradian per metre
+watt per steradian per square metre per hertz
+wsrm
+
+wsrmhz
+commonly measured wsrmnm
+spectral irradiance e watt per metrewatt per square metre per hertz wmhz commonly measured wmnm
+
+light also characterisedamplitude
+colour wavelength frequencypolarization angle vibration
+
+theory light
+
+indian theories
+
+ancient india philosophical school samkhya vaisheshika
+around th century developed theory light
+according samkhya school light one five fundamental
+subtle element tanmatra emerge gross elements
+atomicity element specifically mentionedappears actually taken continuous
+
+hand vaisheshika school give atomic theoryphysical world nonatomic ground ether space time see
+indian atomism basic atom earth prthiv water
+apas fire tejas air vayu confusedordinary meaning term atom taken form
+binary molecule combine form larger molecule motion
+defined term movement physical atomappears taken noninstantaneous light ray taken
+stream high velocity tejas fire atom particlelight exhibit different characteristic depending speedarrangement tejas atom around first centuryvishnu purana refers sunlight seven ray sun
+
+later inaryabhata proposed heliocentric solar systemgravitation aryabhatiya wrote planet moonlight reflect light sun
+
+indian buddhist dignga centurydharmakirti century developed type atomismphilosophy reality composed atomic entitymomentary flash light energy viewed lightatomic entity equivalent energy similar modern conceptphoton though also viewed matter composedlightenergy particles
+
+greek hellenistic theories
+
+fifth century empedocles postulated everythingcomposed four element fire air earth water believedaphrodite made human eye four element lit
+fire eye shone eye making sight possible
+true one could see night wellday empedocles postulated interaction rays
+eye ray source sun
+
+aboutbc euclid wrote optica studiedproperty light euclid postulated light travelled straight
+line described law reflection studiedmathematically questioned sight result beameye asks one see star immediately one closes
+one eye open night course beam eye
+travel infinitely fast problem
+
+inbc lucretius roman carried idea earlier greek
+atomists wrote
+
+light heat sun composed minute atoms
+shoved lose time shooting right across
+interspace air direction imparted shoveonnature universe
+
+despite remarkably similar think light today
+lucretius view generally accepted light still
+theorized emanating eye
+
+ptolemy nd century wrote refraction lightdeveloped theory vision object seen ray light
+emanating eyes
+
+optical theory
+
+muslim scientist abu ali alhasan ibn alhaytham also known alhazen west developed broad theoryexplained vision using geometry anatomy statedpoint illuminated area object radiates light ray every
+direction one ray point strike eye
+perpendicularly seen ray strike different angles
+seen invented pinhole camera produceinverted image used example support argument
+contradicted ptolemy theory vision object seenray light emanating eye alhazen held light raystream minute particle travelled finite speedimproved ptolemy theory refraction light wentdiscover law refraction
+
+also carried first experiment dispersion light
+constituent colour major work kitab almanazirtranslated latin middle age well book dealingcolour sunset dealt length theory various
+physical phenomenon like shadow eclipse rainbow also
+attempted explain binocular vision gave correct explanation
+apparent increase size sun moon nearhorizon extensive research optic alhaythamconsidered father modern optics
+
+alhaytham also correctly argued see object suns
+ray light believed stream tiny particles
+travelling straight line reflected object eyes
+understood light must travel large finite velocity
+refraction caused velocity differentdifferent substance also studied spherical parabolic mirrors
+understood refraction lens allow image focused
+magnification take place understood mathematicallyspherical mirror produce aberration
+
+plenum
+
+ren descartesheld light disturbanceplenum continuous substance universe composedpublished theory refraction light assumed
+incorrectly light travelled faster denser mediumle dense medium descartes arrived conclusion analogybehaviour sound wave although descartes incorrectrelative speed right track term assuming
+light behaved like wave concluding refraction could
+explained speed light different medium result
+descartes theory often regarded forerunner wave
+theory light
+
+particle theory
+
+pierre gassendian atomist proposed particle theorylight published posthumously isaac newton
+studied gassendis work early age preferred viewdescartes theory plenum stated hypothesis light
+ofthat light composed corpuscle particle matter
+emitted direction source one newtons
+argument wave nature light wave knownbend around obstacle light travelled straight linehowever explain phenomenon diffraction lightobserved francesco grimaldi allowing light
+particle could create localised wave aether
+
+newton theory could used predict reflection lightcould explain refraction incorrectly assuming light
+accelerated upon entering denser medium gravitational
+pull greater newton published final version theoryopticks ofhis reputation helped particle theory light
+dominate physic century
+
+wave theory
+
+robert hooke published wave theory light christian
+huygens worked wave theory light inand published
+treatise light inhe proposed light emitted
+direction series wave medium calledluminiferous aether wave affected gravityassumed slowed upon entering denser medium
+thomas young sketch twoslit experiment showingdiffraction light young experiment supported theorylight consists waves
+enlarge
+thomas young sketch twoslit experiment showingdiffraction light young experiment supported theorylight consists waves
+
+wave theory predicted light wave could interferelike sound wave noted century thomas young
+light could polarized young showed meandiffraction experiment light behaved wave also proposed
+different colour caused different wavelength light
+explained colour vision term threecoloured receptoreye
+
+another supporter wave theory leonhard euler arguednova theoria lucis colorumthat diffraction couldeasily explained wave theory
+
+later augustinjean fresnel independently worked wave
+theory light presented acadmie science 
+simeon denis poisson added fresnel mathematical work produceconvincing argument favour wave theory helping overturn
+newton corpuscular theory
+
+weakness wave theory light wave like sound waves
+would need medium transmission hypothetical substance called
+luminiferous aether proposed existence caststrong doubt late nineteenth century michelsonmorley
+experiment
+
+newton corpuscular theory implied light would travel fasterdenser medium wave theory huygens others impliedopposite time speed light could measured
+accurately enough decide theory correct first make
+sufficiently accurate measurement lon foucault inhis
+result supported wave theory classical particle theoryfinally abandoned
+
+electromagnetic theory
+
+linearlypolarized light wave frozen time showing two
+oscillating component light electric field magnetic field
+perpendicular direction motiontransverse wave
+enlarge
+linearlypolarized light wave frozen time showing two
+oscillating component light electric field magnetic field
+perpendicular direction motiontransverse wave
+
+inmichael faraday discovered angle polarizationbeam light passed polarizing material couldaltered magnetic field effect known faraday rotation
+wa first evidence light related electromagnetism
+faraday proposed inthat light highfrequency
+electromagnetic vibration could propagate even absencemedium ether
+
+faraday work inspired james clerk maxwell study electromagnetic
+radiation light maxwell discovered selfpropagating
+electromagnetic wave would travel space constant speed
+happened equal previously measured speed light
+maxwell concluded light form electromagnetic
+radiation first stated result inin physical lineforce inhe published treatise electricity magnetism
+contained full mathematical description behaviourelectric magnetic field still known maxwell equation soon
+heinrich hertz confirmed maxwell theory experimentallygenerating detecting radio wave laboratorydemonstrating wave behaved exactly like visible light
+exhibiting property reflection refraction diffractioninterference maxwell theory hertz experiment led directlydevelopment modern radio radar television electromagnetic
+imaging wireless communications
+
+special theory relativity
+
+wave theory wildly successful explaining nearly optical
+electromagnetic phenomna great triumph nineteenth
+century physic late nineteenth century however handfulexperimental anomaly remained could explaineddirect conflict wave theory one anomalies
+involved controversy speed light constant speedlight predicted maxwell equation confirmedmichelsonmorley experiment contradicted mechanical law motion
+unchallenged since time galileo statedspeed relative speed observer inalbert
+einstein resolved paradox revising newton law motionaccount constancy speed light einstein formulated
+idea special theory relativity radically altered
+humankind understanding space time einstein also demonstrated
+previously unknown fundamental equivalence energy mass
+famous equation
+
+emc 
+
+e energy mass speed light
+
+particle theory revisited
+
+another experimental anomaly photoelectric effectlight striking metal surface ejected electron surface
+causing electric current flow across applied voltage
+experimental measurement demonstrated energy individual
+ejected electron proportional frequency ratherintensity light furthermore certain minimum
+frequency depended particular metal current would
+flow regardless intensity observation clearly
+contradicted wave theory year physicist tried vainfind explanation ineinstein solved puzzle welltime resurrecting particle theory light explainobserved effect preponderance evidence favourwave theory however einstein idea met initially great
+skepticism among established physicist eventually einsteins
+explanation photoelectric effect would triumphultimately formed basis waveparticle duality muchquantum mechanics
+
+quantum theory
+
+third anomaly arose late nineteenth century involvedcontradiction wave theory light measurementelectromagnetic spectrum emitted thermal radiator socalled
+black body physicist struggled problem later
+became known ultraviolet catastrophe unsuccessfully many
+year inmax planck developed new theory black body
+radiation explained observed spectrum correctly plancks
+theory based idea black body emit lightelectromagnetic radiation discrete bundle packetenergy packet called quantum particle lightgiven name photon correspond particledescribed around time electron proton photon
+ha energy proportional frequency f
+ehffrachclambda 
+
+h planck constantis wavelength speedlight likewise momentum photon also proportionalfrequency inversely proportional wavelength
+
+pe chf lambda 
+
+originally stood theory explain simultaneous
+wave particlelike nature light though planck would later
+work theory inplanck received nobel prizephysic part founding quantum theory
+
+waveparticle duality
+
+modern theory explains nature light waveparticle
+duality described albert einstein early basedwork photoelectric effect planck result einstein
+determined energy photon proportionalfrequency generally theory state everything haparticle nature wave nature various experiment done
+bring one particle nature easily
+discerned object large mass took experiment
+louis broglie realise electron also exhibited
+waveparticle duality einstein received nobel prize infor
+work waveparticle duality photon broglie
+followed infor extension particles
+
+quantum electrodynamics
+
+quantum mechanical theory light electromagnetic radiation
+continued evolve culminateddevelopment theory quantum
+electrodynamics qed socalled quantum field theory among
+comprehensive experimentally successful theory ever
+formulated explain set natural phenomenon qed developed
+primarily physicist richard feynman freeman dyson julian
+schwinger sinitiro tomonaga feynman schwinger tomonaga
+shared thenobel prize physic contributions
+

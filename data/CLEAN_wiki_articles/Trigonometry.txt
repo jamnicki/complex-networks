@@ -1,0 +1,247 @@
+copyright
+
+trigonometry
+
+ school wikipedia selection related subject mathematics
+
+trigonometry greek trigononthree angle metron 
+measureis branch mathematics deal triangles
+particularly triangle plane one angle triangle 
+degreesright triangle triangle sphere also studiedspherical trigonometry trigonometry specifically dealrelationship side angle triangletrigonometric function calculation basedfunctions
+
+trigonometry important application many branch pure
+mathematics well applied mathematics consequently much
+science
+
+overview
+
+basic definitions
+
+right triangle sinaac cosabc tanaab
+enlarge
+right triangle sinaac cosabc tanaab
+
+shape right triangle completely determinedsimilarity value either two angle means
+one angle known ratio various
+side always regardless size triangleratio traditionally described following trigonometric
+function known angle
+sine function sin defined ratio leg opposite
+angle hypotenuse
+cosine function defined ratio adjacent leg
+hypotenuse
+tangent function tan defined ratio opposite
+leg adjacent leg
+
+adjacent leg side angle hypotenuse
+hypotenuse side opposite thedegree angle right
+triangle longest side triangle
+
+sin afracmboxoppositemboxhypotenuse qquad cofracmboxadjacentmboxhypotenuse qquad tan 
+fracmboxoppositemboxadjacentfracsin acos
+reciprocal function named cosecant csc secant
+sec cotangent cot respectively inverse functioncalled arcsine arccosine arctangent respectivelyarithmetic relation function knowntrigonometric identities
+
+function one answer virtually questionarbitrary triangle using law sine law cosines
+law used compute remaining angle sidetriangle soon two side angle two angle sidethree side known law useful branchgeometry since every polygon may described finite combination
+triangles
+
+extending definitions
+
+graph function sinx cosx angle xmeasured radians
+enlarge
+graph function sinx cosx angle xmeasured radians
+
+definition apply angle betweenanddegreesand
+radian using unit circle one may extendpositive negative argument see trigonometric functiontrigonometric function periodic period ofdegreesradian mean value repeat intervals
+
+trigonometric function defined way besidesgeometrical definition using tool calculus infinite
+series definition trigonometric functiondefined complex number complex function particularly
+useful
+
+operatornamecis xcos xisin xeix
+
+see euler formula
+
+mnemonics
+
+sine cosine tangent ratio right triangleremembered soh cah toa sineoppositehypotenuse
+cosineadjacenthypotenuse tangentoppositeadjacent commonly
+referred sohcahtoa american mathematics teacherliken nonexistent native american girl name see
+trigonometry mnemonic memory aid also another wayremember old hag cant always hide old age
+
+calculating trigonometric functions
+
+trigonometric function among earliest mathematical
+table table incorporated mathematics textbookstudent taught look value interpolatevalue listed get higher accuracy slide rule special
+scale trigonometric functions
+
+today scientific calculator button calculating main
+trigonometric function sin tan sometimes ciinverse allow choice angle measurement method degrees
+radian sometimes grad computer programming languages
+provide function library include trigonometric functions
+floating point unit hardware incorporated microprocessor
+chip used personal computer built instructioncalculating trigonometric functions
+
+early history trigonometry
+
+table trigonometrycyclopaedia
+enlarge
+table trigonometrycyclopaedia
+
+trigonometry probably invented purpose astronomyorigin trigonometry traced civilization ancient
+egypt mesopotamia indus valley thanyears agocommon practice measuring angle degree minute seconds
+come babylonian base sixty system numeration
+
+first recorded use trigonometry came hellenistic
+mathematician hipparchus circabc compiled trigonometric
+table using sine solving triangle ptolemy developed
+trigonometric calculation circaad
+
+sulba sutra written india betweenbc andbc correctly
+compute sine ofasin procedure circlingsquare opposite squaring circle
+
+ancient sinhalese constructing reservoir anuradhapura
+kingdom used trigonometry calculate gradient water flow
+
+indian mathematician aryabhata ingave table half chords
+known sine table along cosine table used
+zya sine kotizya cosine otkram zya inverse sinealso introduced versine
+
+another indian mathematician brahmagupta inused interpolation
+formula compute value sine second ordernewton stirling interpolation formula
+
+th century persian mathematician astronomer abul wfa
+introduced tangent function improved method calculating
+trigonometry table established angle addition identity sin discovered sine formula spherical geometry
+
+fracsinasinafracsinbsinb 
+fracsincsinc
+
+also late early century egyptian astronomer
+ibn yunus performed many careful trigonometric calculationdemonstrated formula cosacosbcosabcosa 
+b
+
+indian mathematician pioneer variable computations
+algebra use astronomical calculation along trigonometry
+lagadha circabc first person thought used
+geometry trigonometry astronomy vedanga jyotisha
+
+persian mathematician omar khayymcombined trigonometry
+approximation theory provide method solving algebraic
+equation geometrical mean khayyam solved cubic equation 
+xxand found positive root cubicconsidering intersection rectangular hyperbola circle
+approximate numerical solution found interpolationtrigonometric tables
+
+detailed method constructing table sine anglegiven indian mathematician bhaskara inalongsine cosine formula bhaskara also developed spherical
+trigonometry
+
+th century persian mathematician nasir aldin tusi alongbhaskara probably first treat trigonometry distinct
+mathematical discipline nasir aldin tusi treatisequadrilateral first list six distinct case right
+angled triangle spherical trigonometry
+
+th century persian mathematician alkashi timurid
+mathematician ulugh beg grandson timur produced tabletrigonometric function part study astronomy
+
+mathematician bartholemaeus pitiscus published influential work
+trigonometry inwhich may coined word trigonometry
+
+application trigonometry
+
+marine sextant like used measure angle sunstar respect horizon using trigonometry accurate
+clock position ship determined several
+measurements
+enlarge
+marine sextant like used measure angle sunstar respect horizon using trigonometry accurate
+clock position ship determined several
+measurements
+
+enormous number application trigonometrytrigonometric function instance technique triangulation
+used astronomy measure distance nearby stargeography measure distance landmark satellite
+navigation system sine cosine function fundamentaltheory periodic function describe soundlight waves
+
+field make use trigonometry trigonometric functions
+include astronomy especially locating apparent positioncelestial object spherical trigonometry essentialhence navigation ocean aircraft space music
+theory acoustic optic analysis financial market electronics
+probability theory statistic biology medical imagingcat scans
+ultrasound pharmacy chemistry number theory hence
+cryptology seismology meteorology oceanography many physical
+science land surveying geodesy architecture phonetics
+economics electrical engineering mechanical engineering civil
+engineering computer graphic cartography crystallography game
+development
+
+common formulae
+
+certain equation involving trigonometric function trueangle known trigonometric identity many express
+important geometric relationship example pythagorean
+identity expression pythagorean theoremcommonly used identity well important
+formula connecting angle side arbitrary triangleidentity see trigonometric identity
+
+trigonometric identities
+
+pythagorean identities
+
+sin acos
+tan asec 
+
+cot acsc 
+
+sum difference identities
+
+sin absin bcos sin 
+co abcos bsin sin 
+tan abfractan atan btan tan 
+
+sin absin bcos sin 
+co abcos bsin sin 
+tan abfractan atan btan tan 
+fraccot bcot acot cot 
+
+doubleangle identities
+
+sin asin 
+
+co acos asin acos asin 
+tan overtan 
+
+tan atan overtan acot cot
+aover cot atan 
+
+halfangle identities
+
+note formula doe mean correctmean may either one depending value
+sin fracapm sqrtfraccos 
+
+co fracapm sqrtfraccos 
+
+tan fracapm sqrtfraccos acos afrac
+sin acos afrac asin 
+
+triangle identities
+
+law sines
+
+law sine arbitrary triangle states
+
+fracsin aafracsin bbfracsin 
+equivalently
+
+fracasin afracbsin bfraccsin 
+law cosines
+
+law cosine also known cosine formula extension
+pythagorean theorem arbitrary triangles
+
+cababcosc
+
+equivalently
+
+co cfracabcab
+
+law tangents
+
+law tangents
+
+fracabab 
+fractanfracabtanfracab
+

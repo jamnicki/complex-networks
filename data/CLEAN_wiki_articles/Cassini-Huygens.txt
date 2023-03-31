@@ -1,0 +1,448 @@
+copyright
+
+cassinihuygens
+
+ school wikipedia selection related subject space transport
+
+cassinihuygens
+artist concept cassini
+organizationnasaesa asi
+mission typeflyby orbiter lander
+flyby ofjupiter phoebe titan enceladus
+satellite ofsaturn
+launch dateoctober
+launch vehicle titan ivbcentaur launch vehicle
+nssdc ida
+webpagecassinihuygens home
+
+cassinihuygens joint nasaesa asi unmanned space mission
+intended study saturn moon spacecraft consists two
+main element nasa cassini orbiter named italianfrench
+astronomer giovanni domenico cassini esa huygens probe named
+dutch astronomer christiaan huygens launchedoctoberand entered orbit around saturn july
+decemberthe huygens probe separated orbiterapproximatelyutc deployment confirmed jet
+propulsion laboratory probe reached saturn moon titan january
+made atmospheric descent surfacerelayed scientific information first spacecraft orbit
+saturn fourth spacecraft visit saturn
+
+overview
+
+launch occurred atam edtutc octoberfrom
+launch complexat cape canaveral air force station florida
+enlarge
+launch occurred atam edtutc octoberfrom
+launch complexat cape canaveral air force station florida
+
+cassinis principal objectivedetermine threedimensional structure dynamic behaviourrings
+determine composition satellite surfacegeological history object
+determine nature origin dark material iapetuss
+leading hemisphere
+measure threedimensional structure dynamic behaviourmagnetosphere
+study dynamic behaviour saturn atmosphere cloud level
+study time variability titan cloud hazes
+characterize titan surface regional scale
+
+cassinihuygens spacecraft launched octoberfrom
+cape canaveral air force station launch complexusing air
+force titan ivb centaur launch vehicle launch vehicle madetwostage titan booster rocket two strapon solid rocket
+motor centaur upper stage payload enclosure fairing
+complete cassini flight system composed launch vehicle
+spacecraft
+
+spacecraft composed cassini orbiter huygens
+probe cassini orbiter planned orbit saturn moonfour year plan see huygens probe diveatmosphere titan land surface cassinihuygensinternational collaboration three space agency seventeen
+nation contributed building spacecraft cassini orbiterbuilt managed nasa caltechs jet propulsion laboratoryhuygens probe built european space agency italian space
+agency provided cassinis highgain communication antennarevolutionary compact lightweight multimode radar synthetic
+aperture radar radar altimeter radiometer
+
+total cost cassinihuygens mission billion
+includingbillion prelaunch developmentmillionmission operationsmillion tracking andmillionlaunch vehicle contributedbillion european space
+agencymillion italian space agencymillion
+
+normally spoken cassini mission would end inbut quite
+certain funding granted
+
+list cassinihuygens abbreviation available
+
+history
+
+cassinihuygens origin date towhen european science
+foundation american national academy science formedworking group investigate future cooperative mission two european
+scientist suggested paired saturn orbiter titan probepossible joint mission innasas solar system exploration
+committee recommended orbiter probe pair core nasa
+project nasa european space agency esa performed joint
+study potential mission fromtoesa continuedstudy inwhile american astronaut sally rideinfluentialreportnasa leadership america futurespace also examined approved cassini mission
+
+ride report described saturn orbiter probe nasa
+solo mission inthe associate administrator space scienceapplication nasa len fisk returned idea joint nasaesa mission wrote counterpart esa roger bonnet
+strongly suggesting esa choose cassini missionthree candidate hand promising nasa would commitmission soon esa
+time nasa becoming sensitive straindeveloped american european space program result
+european perception nasa treated like equal
+previous collaboration nasa official advisor involvedpromoting planning cassinihuygens attempted correct trend
+stressing desire evenly share scientific technology
+benefit resulting mission part newfound spiritcooperation europe driven sense competitionsoviet union begun cooperate closely europeesa drew away nasa
+
+collaboration improved relation two space
+program also helped cassinihuygens survive congressional budget
+cut cassinihuygens came fire bothand 
+nasa successfully persuaded congress wouldunwise halt project esa already poured funddevelopment frustration broken space exploration promises
+might spill area foreign relation project
+proceeded politically smoothly afteralthough notedcitizen group concerned potential environmental impact
+attempted derail protest lawsuit pastlaunch
+
+spacecraft design
+
+cassini assembly
+enlarge
+cassini assembly
+
+spacecraft originally planned second threeaxis
+stabilized rtgpowered mariner mark class spacecraft
+developed mission beyond orbit mar cassini wadeveloped together comet rendezvous asteroid flyby craf
+spacecraft various budget cut rescopings project
+forced nasa terminate craf development order save cassiniresult cassini spacecraft became specialized design
+cancelling implementation mariner mark series
+
+cassini spacecraft including orbiter huygens probelargest complex interplanetary spacecraft built date
+orbiter alone mass ofkilograms kilogram
+huygens probe launch vehicle adapter andkilogramspropellant loaded launch spacecraft masskilogram two phobos spacecraft sent marsoviet union heavier cassini spacecraft stood 
+metresfeet high thanmetresfeet wide
+complexity spacecraft necessitatedtrajectory flight path saturn ambitious programscientific observation undertaken spacecraft reaches
+destination function withinterconnected circuits
+wire connection overkilometersmiles cabling
+
+cassini saturn betweenandastronomical
+unit earth take betweentominutes
+signal travel earth spacecraft vice versapractical term mean ground controller ablegiverealtime instruction spacecraft either daytoday
+operation case unexpected inflight event evencontroller respond immediately becoming aware problem
+nearly three hour passed receive responsespacecraft
+
+instruments
+
+cassinis instrumentation consists synthetic aperture radar
+mapper ccd imaging system visible infrared mapping spectrometer
+composite infrared spectrometer cosmic dust analyzer radioplasma wave experiment plasma spectrometer ultraviolet imaging
+spectrograph magnetospheric imaging instrument magnetometerionneutral mass spectrometer telemetry communications
+antenna well special transmitter sband transmitter
+dualfrequency kaband system also used make
+observation atmosphere titan saturn measuregravity field planet satellites
+
+cassini plasma spectrometer caps
+cassini plasma spectrometer cap direct sensing
+instrument measure energy electrical chargeparticle electron proton instrument
+encounter cap measure molecule originatingsaturn ionosphere also determine configurationsaturn magnetic field cap also investigate plasmaarea well solar wind within saturns
+magnetosphere
+
+cosmic dust analyzer cda
+cosmic dust analyzer cda direct sensing instrument
+measure size speed direction tiny dust grains
+near saturn particle orbiting saturnothers may come solar system cosmic dust
+analyzer onboard cassini orbiter ultimately designedhelp discover mysterious particlesignificantly add knowledge materialcelestial body potentially originuniverse
+
+composite infrared spectrometer cirs
+composite infrared spectrometer cirs remote sensing
+instrument measure infrared light comingobject atmosphere moon surface learntemperature made throughoutcassinihuygens mission cirs measure infrared emissions
+atmosphere ring surface vast saturn system
+determine composition temperature thermal
+property map atmosphere saturn three
+dimension determine temperature pressure profilealtitude gas composition distribution aerosolcloud instrument also measure thermal
+characteristic composition satellite surfacerings
+
+ion neutral mass spectrometer inms
+ion neutral mass spectrometer inms direct sensing
+instrument analyzes charged particle like protonheavier ion neutral particle like atom near titansaturn learn atmosphere inms intended
+also measure positive ion neutral environmentsaturn icy satellite rings
+
+imaging science subsystem iss
+imaging science subsystem remote sensing
+instrument capture image visible lightinfrared ultraviolet light cameratake broad wideangle picture camera record
+small area fine detail scientist anticipate cassini
+able use return hundred thousandimage saturn ring moon includes two
+camera wide angle camera wac narrow angle camera
+nac sensitive chargecoupled device ccddetector ccd consists asquare array pixels
+side camera system allows many data
+collection mode including onchip data compressioncamera fitted spectral filter rotatewheelto view different band within electromagnetic
+spectrum ranging fromtom
+
+dual technique magnetometer mag
+dual technique magnetometer mag direct sensing
+instrument measure strength directionmagnetic field around saturn magnetic field generated
+partly intensely hot molten core saturn centre
+measuring magnetic field one way probecore even though far hot deep actually visit
+mag goal develop threedimensional model saturns
+magnetosphere well determine magnetic state titan
+atmosphere icy satellite rolemagnetosphere saturn
+
+magnetospheric imaging instrument mimi
+magnetospheric imaging instrument mimi direct
+remote sensing instrument produce imagedata particle trapped saturn huge magnetic
+field magnetosphere information used study
+overall configuration dynamic magnetosphereinteraction solar wind saturn atmosphere
+titan ring icy satellites
+
+radio detection ranging instrument radar
+radio detection ranging instrument radar remote
+active remote passive sensing instrument produce
+map titan surface measure height surface
+object like mountain canyon bouncing radio signals
+titan surface timing return radio wavepenetrate thick veil haze surrounding titan addition
+bouncing radio wave radar instrument listenradio wave saturn moon may producing
+
+radio plasma wave science instrument rpws
+radio plasma wave science instrument rpws direct
+remote sensing instrument receives measureradio signal coming saturn including radio waves
+given interaction solar wind saturntitan major function rpws measureelectric magnetic wave field interplanetary medium
+planetary magnetosphere instrument also determine
+electron density temperature near titanregion saturn magnetosphere rpws studyconfiguration saturn magnetic field relationshipsaturn kilometric radiation skr well monitoringmapping saturn ionosphere plasma lightning saturns
+possibly titan atmosphere
+
+radio science subsystem rss
+radio science subsystem remote sensing instrument
+us radio antenna earth observe way radio
+signal spacecraft change sentobject titan atmosphere saturn ring even
+behind sun also study composition pressures
+temperature atmosphere ionosphere radial
+structure particle size distribution within ring bodysystem mass gravitational wave instrument usspacecraft xband communication link well sband downlink
+kaband uplink downlink
+
+ultraviolet imaging spectrograph uvis
+ultraviolet imaging spectrograph uvis remote sensing
+instrument capture image ultraviolet light
+reflected object cloud saturn andorring learn structure composition
+designed measure ultraviolet light wavelength 
+tonm instrument also valuable tool help
+determine composition distribution aerosol particle
+content temperature atmosphere sensitive
+instrument different type spectrometers
+take spectral spatial readingparticularly adept determining composition gases
+spatial observation take widebynarrow view one pixel
+tall andpixels across spectral dimension 
+pixel per spatial pixel additionally capable taking
+many image create movie show waymaterial moved around forces
+
+visible infrared mapping spectrometer vims
+visible infrared mapping spectrometer vim remote
+sensing instrument actually made two cameraone one used measure visible wavelengthinfrared vim capture image using visible infrared light
+learn composition moon surface rings
+atmosphere saturn titan vim also observessunlight starlight pass ring learn
+ring structure vim designed measure reflected
+emitted radiation atmosphere ring surfacewavelength fromtonm also help determinecomposition temperature structure objectvim scientist also plan perform longterm study cloud
+movement morphology saturn system determineplanet weather patterns
+
+huygens probe
+
+huygens probe supplied european space agency esanamed dutch century astronomer christiaan huygens
+scrutinized cloud atmosphere surface saturn moon titan
+descent onjanuaryit designed enter brake
+titan atmosphere parachute fully instrumented robotic
+laboratory surface huygens probe system consistedprobe descended titan probe support
+equipment pse cassini remained attached orbiting
+spacecraft pse includes electronics necessary trackprobe recover data gathered descent process
+deliver data orbiter transmitteddownlinked earth probe data relay subsystem pdrsradio link huygens cassini transmit scientific data
+collected descent titan command data management
+subsystem cdms automatically manage entire missionprobe cannot telecommanded distanceearth provided italian space agencyasi
+
+important event discoveries
+
+venus cruise jupiter
+
+cassini performed two gravityassisted flyby venus april
+june
+picture moon flyby
+enlarge
+picture moon flyby
+
+augustatutc cassini gravityassisted flybyearth hourminutes closest approach cassini madeclosest approach moon atkm took seriescalibration images
+
+januarycassini performed flyby asteroidmasursky
+aroundutc cassini took imagestohours 
+million distance estimated diameter oftokm
+
+jupiter flyby
+
+jupiter flyby picture
+enlarge
+jupiter flyby picture
+
+cassini made closest approach jupiter decemberand
+performed many scientific measurement aboutimages taken
+jupiter course monthslong flybydetailed global colour portrait jupiter ever produced see image
+right smallest visible feature approximately 
+kmmiles across
+
+major finding jupiter flyby announced marchwas
+nature jupiter atmospheric circulation dark belts
+alternate light zone atmosphere scientist long
+considered zone pale cloud area upwelling
+air partly many cloud earth form air rising
+analysis cassini imagery however told new story individual
+storm cell upwelling brightwhite cloud small seeearth pop almost without exception dark belt accordinganthony del genio nasa goddard institute space studyclear picture emerging belt must areanetrising atmospheric motion jupiter implicationnet motion zone sinking
+
+atmospheric observation made included swirling dark ovalhighatmosphere haze size great red spot near
+jupiter north pole infrared imagery revealed aspect circulation
+near pole band globeencircling wind adjacent
+band moving opposite directions
+
+announcement also discussed nature jupiter rings
+light scattering particle ring revealed particleirregularly shaped opposed spherical likely originate
+ejecta micrometeorite impact jupiter moon probably
+metis adrastea
+
+test einstein theory general relativity
+
+octoberthe cassini science team announced resulttest einstein theory general relativity using radio signals
+cassini probe researcher observed frequency shiftradio wave spacecraft signal traveled
+close sun according theory general relativitymassive object like sun cause spacetime curve beamradio wave light pass sun travelcurvature extra distance radio waves
+travel cassini past sun earth delay arrivalamount delay provides sensitive test predictioneinstein theory although deviation general relativityexpected cosmological model none foundexperiment past test agreement theoretical
+prediction accuracy one part one thousand cassini
+experiment improved aboutparts million data
+still supporting einstein theory
+spoke imaged cassini 
+enlarge
+spoke imaged cassini 
+
+spoke phenomenon verified
+
+image capturedseptembercassini finally detected spokesaturn ring hitherto seen famed visual observer stephen
+james omeara inand later confirmed voyager spacecraftearly exact cause spoke yet understood
+model predicted spoke would visible 
+
+new moon saturn
+
+discovery photograph moon daphnis
+enlarge
+discovery photograph moon daphnis
+
+using image taken cassini two new moon saturn discovered
+junethey small given provisional
+name sand sbefore named methone pallene
+end 
+
+maya new moon discovered cassini keeler gap
+wa given designation sbefore named daphnismoon inside saturn ring system pan
+image phoebe
+enlarge
+image phoebe
+
+phoebe flyby
+
+junecassini flew moon phoebe first
+opportunity closeup study moon since voyager 
+flyby also cassinis possible flyby phoebe duemechanic available orbit around saturn
+
+first close image received juneand mission
+scientist immediately realized surface phoebe looks
+different asteroid visited spacecraft part heavily
+cratered surface look bright picturecurrently believed large amount water ice existsimmediate surface
+
+saturn rotation
+
+announcement junecassini scientist describedmeasurement rotational period saturn sincefixed feature surface used obtain period
+repetition radio emission used new data agreelatest value measured earth constitute puzzlescientist turn radio rotational period changed
+since first measured inby voyager 
+minute longer doesnt indicate change overall spinplanet thought due movement sourceradio emission different latitude rotation ratedifferent
+
+orbiting saturn
+
+julythe spacecraft flew gap fg ring achieved orbit seven year voyage first
+spacecraft ever orbit saturn
+
+saturn orbital insertion soi maneuver performed cassininotably complex requiring craft orient highgain antenna
+away earth along flight path order shieldinstrument particle saturn ring craft crossed
+ring plane rotate enginepointed along flight path engine fired decelerate
+craft allow saturn capture cassini capturedsaturn gravity aroundpm pacific daylight time june 
+maneuver cassini passed withinkm 
+mile saturn cloud tops
+
+titan flybys
+
+titan surface
+enlarge
+titan surface
+
+cassini first distant flyby saturn largest moon titanjulyonly day orbit insertion approachedwithinkilometersmiles titan providedbest look moon surface date image taken special
+filter able see moon global haze showed south polar
+cloud thought composed methane surface featurewidely differing brightness octoberthe spacecraft
+executed first theplanned close flybys titan flew
+merekilometers moon almost four gigabit data
+collected transmitted earth including first radar
+image moon hazeenshrouded surface radar imagery observedconclusive evidence lake liquid hydrocarbon thoughdismiss possibility lake could exist also revealedsurface titan least area covered radar relatively
+level topography reaching aboutmetersaltitude flyby provided remarkable increase imaging
+resolution previous coverage image totimes higher
+resolution taken typical resolution plannedsubsequent titan flybys
+
+huygens encounter titan
+
+cassini released huygens probe ondecemberby meanspring entered atmosphere titan januaryfor
+information landing see huygens probe
+
+enceladus flybys
+
+first two close flybys moon enceladus 
+cassini discovered deflection local magnetic fieldcharacteristic existence thin significant atmosphere
+measurement obtained time point ionized water vapor
+main constituent cassini also observed water ice geysers
+erupting south pole enceladus giving credibilityidea enceladus supplying particle saturn ring
+mission scientist hypothesize may pocket liquid
+water near surface moon fuel eruption making
+enceladus one body solar system liquid
+water present
+
+radio occultation saturn rings
+
+maycassini began series occultation experiments
+designed measure sizedistribution particle saturns
+ring measure atmosphere saturn 
+month cassini complete orbit specifically designedpurpose occultation experiment cassini fly behind
+ring plane saturn seen earth transmit radio waves
+particle radio signal received earthfrequency phase power signal analyzed help
+determine structure rings
+
+lake titan
+
+lake titan
+enlarge
+lake titan
+
+radar image obtained julyappear show lake liquid
+hydrocarbon methane ethane titan northern
+latitude first discovery currentlyexisting lakes
+anywhere besides earth lake range size kilometer
+one one hundred kilometer across
+
+saturn hurricane
+
+novemberscientists discovered storm south polesaturn distinct eyewall characteristic hurricaneearth never seen another planet unlike hurricane
+storm appears stationary pole storm 
+mile acrossmiles high packing wind blowingmiles per
+hour
+
+trajectory
+
+image display initial gravityassist trajectorycassinihuygens process whereby insignificant mass
+approach significant mass behind stealorbital energy significant mass usually planet loses virtually
+zero orbital energy yet insignificant mass case
+probe gain large proportion orbital energy
+
+cassinihuygens performed two gravity assist venus one earth
+one jupiter
+
+simplified diagram show two dimension orbital
+motion cassinihuygens arrival saturn
+cassinis speed relative sun various gravitational
+slingshot form visible peak left periodic variation
+right caused spacecraft orbit around saturndata came jpl horizon ephemeris system inthe speed
+instantaneous distance kilometer per second datetime
+utc spacecraft event time octto
+julutc two leap second period note
+also minimum velocity achieved saturnian orbitle equal saturn orbital velocity kms
+velocity cassini matched enter orbit
+enlarge
+cassinis speed relative sun various gravitational
+slingshot form visible peak left periodic variation
+right caused spacecraft orbit around saturndata came jpl horizon ephemeris system inthe speed
+instantaneous distance kilometer per second datetime
+utc spacecraft event time octto
+julutc two leap second period note
+also minimum velocity achieved saturnian orbitle equal saturn orbital velocity kms
+velocity cassini matched enter orbit

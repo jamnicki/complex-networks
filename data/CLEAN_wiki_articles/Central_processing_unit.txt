@@ -1,0 +1,422 @@
+copyright
+
+central processing unit
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+
+featured article click information
+die intel microprocessor actual sizemmpackaging
+enlarge
+die intel microprocessor actual sizemmpackaging
+
+central processing unit cpu sometimes simply processorcomponent digital computer interprets instructionprocess data contained computer program cpu providefundamental digital computer trait programmability onenecessary component found computer era alongprimary storage inputoutput facility cpu manufactured
+using integrated circuit known microprocessor sincemids singlechip microprocessor almost totally replacedtype cpu today term cpu usually appliedtype microprocessor
+
+phrase central processing unit description certain
+class logic machine execute complex computer programs
+broad definition easily applied many early computers
+existed long term cpu ever came widespread
+usage however term initialism usecomputer industry least since early sthe form design
+implementation cpu changed dramatically since earliest
+example fundamental operation remained much
+early cpu customdesigned part larger usually
+oneofakind computer however costly method designing
+custom cpu particular application largely given waydevelopment inexpensive standardized class processorsuited one many purpose standardization trend
+generally began era discrete transistor mainframeminicomputer rapidly accelerated popularizationintegrated circuit ic allowed increasingly complex
+cpu designed manufactured small space order
+millimeter miniaturization standardization cpus
+increased presence digital device modern life far
+beyond limited application dedicated computing machine modern
+microprocessor appear everything automobile cell phonechildrens toys
+
+history
+
+prior advent machine resemble today cpu computers
+eniac physically rewired order perform
+different task machine often referred fixedprogram
+computer since physically reconfigured orderrun different program since term cpu generally definedsoftware computer program execution device earliest devicecould rightly called cpu came advent storedprogram
+computer
+
+idea storedprogram computer already presenteniacs design initially omitted machine couldfinished sooner junebefore eniac even completed
+mathematician john von neumann distributed paper entitledfirst
+draft report edvac outlined designstoredprogram computer would eventually completed august
+edvac designed perform certain number instructions
+operation various type instruction could combined
+create useful program edvac run significantlyprogram written edvac stored highspeed computer memory
+rather specified physical wiring computerovercame severe limitation eniac large amounttime effort took reconfigure computer perform new
+task von neumann design program software edvac
+ran could changed simply changing content computers
+memory
+
+noted von neumann often crediteddesign storedprogram computer designedvac others konrad zuse suggested similar
+idea additionally socalled harvard architecture harvard
+mark completed edvac also utilizedstoredprogram design using punched paper tape rather electronic
+memory key difference von neumann harvard
+architecture latter separate storage treatmentcpu instruction data former memory space
+modern cpu primarily von neumann designelement harvard architecture commonly seen well
+
+digital device cpu deal discrete state therefore
+require kind switching element differentiatechange state prior commercial acceptance transistor
+electrical relay vacuum tube thermionic valve commonly
+used switching element although distinct speed
+advantage earlier purely mechanical designunreliable various reason example building direct current
+sequential logic circuit relay requires additional hardwarecope problem contact bounce vacuum tubesuffer contact bounce must heat becoming fully
+operational eventually stop functioning altogether usuallytube failed cpu would diagnosed locate failing
+component could replaced therefore early electronic vacuum
+tube based computer generally faster reliableelectromechanical relay based computer tube computer like edvac
+tended average eight hour failure whereas relay computers
+like slower earlier harvard mark failed rarelyin
+end tube based cpu became dominant significant speed
+advantage afforded generally outweighed reliability problemearly synchronous cpu ran low clock rate comparedmodern microelectronic design see discussion clock
+rate clock signal frequency ranging fromkhz tomhzcommon time limited largely speed switching
+device built
+discrete transistor cpus
+
+cpu core memory external bus interface msi pdpi
+enlarge
+cpu core memory external bus interface msi pdpi
+
+design complexity cpu increased various technologies
+facilitated building smaller reliable electronic devicefirst improvement came advent transistor
+transistorized cpu longerbuilt bulky unreliable fragile switching element like
+vacuum tube electrical relay improvement complex
+reliable cpu built onto one several printed circuit boards
+containing discrete individual components
+
+period method manufacturing many transistorcompact space gained popularity integrated circuit allowedlarge number transistor manufactured single
+semiconductorbased die chip first basic
+nonspecialized digital circuit gate miniaturized
+ic cpu based upon building block generally
+referred smallscale integration ssi device ssi icone used apollo guidance computer usually contained
+transistor count numbering multiple ten build entire cpu
+ssi required thousand individual chip still
+consumed much space power earlier discrete transistor
+design microelectronic technology advanced increasing number
+transistor placed thus decreasing quantityindividual needed complete cpu msi lsi mediumlargescale integration increased transistor count hundreds
+thousands
+
+inibm introduced system computer architectureused series computer could run programdifferent speed performance significant timeelectronic computer incompatible one another even
+made manufacturer facilitate improvement
+ibm utilized concept microprogram often called microcode
+still see widespread usage modern cpusthe system
+architecture popular dominated mainframe computer
+market next decade left legacy still
+continued similar modern computer like ibm zseriesyeardigital equipment corporation dec introduced another
+influential computer aimed scientific research marketpdp dec would later introduce extremely popular pdp lineoriginally built ssi wa eventually implementedlsi component became practical stark contrastssi msi predecessor first lsi implementation pdp
+contained cpu composed four lsi integrated circuit 
+
+transistorbased computer several distinct advantagepredecessor aside facilitating increased reliability lower
+power consumption transistor also allowed cpu operate much
+higher speed short switching time transistorcomparison tube relay thanks increased reliability
+well dramatically increased speed switching elements
+almost exclusively transistor time cpu clock
+rate ten megahertz obtained period
+additionally discrete transistor cpu heavy
+usage new highperformance design like simd single instruction
+multiple data vector processor began appear early
+experimental design later gave rise era specialized
+supercomputer like made cray inc
+
+microprocessors
+
+intel microprocessor ceramic pga package
+enlarge
+intel microprocessor ceramic pga package
+
+introduction microprocessor significantly
+affected design implementation cpu since introduction
+first microprocessor intelinand first
+widely used microprocessor intelinthis class cpus
+ha almost completely overtaken central processing unit
+implementation method mainframe minicomputer manufacturertime launched proprietary development program upgradeolder computer architecture eventually produced instruction set
+compatible microprocessor backwardcompatibleolder hardware software combined advent eventual vast
+success ubiquitous personal computer term cpuapplied almost exclusively microprocessors
+
+previous generation cpu implemented discrete components
+numerous small integrated circuit one circuit
+board microprocessor hand cpu manufacturedsmall number usually one overall smaller cpu
+size result implemented single die mean faster
+switching time physical factor like decreased gate
+parasitic capacitance allowed synchronous microprocessorclock rate ranging ten megahertz several gigahertz
+additionally ability construct exceedingly small transistors
+ic increased complexity number transistorsingle cpu increased dramatically widely observed trenddescribed moore law proven fairly accurate
+predictor growth cpu complexity date
+
+complexity size construction general form cpuchanged drastically past sixty year notablebasic design function changed much almostcommon cpu today accurately described von neumann
+storedprogram machines
+
+aforementioned moore law continues hold true concernarisen limit integrated circuit transistor technology
+extreme miniaturization electronic gate causing effectphenomenon like electromigration subthreshold leakage become much
+significant newer concern among many factors
+causing researcher investigate new method computingquantum computer well expand usage parallelismmethod extend usefulness classical von neumann
+model
+
+cpu operation
+
+fundamental operation cpu regardless physical form
+take execute sequence stored instruction calledprogram discussed device conform common von
+neumann architecture program represented series numbers
+kept kind computer memory four steps
+nearly von neumann cpu use operation fetch decode
+execute writeback
+diagram showing one mips instruction decoded mips
+technology 
+enlarge
+diagram showing one mips instruction decoded
+
+first step fetch involves retrieving instructionrepresented number sequence number program memory
+location program memory determined program counter store number identifies current positionprogram word program counter keep track cpus
+place current program instruction fetched incremented length instruction word term memory
+unit often instruction fetched must retrievedrelatively slow memory causing cpu stall waitinginstruction returned issue largely addressed modern
+processor cache pipeline architecture see
+instruction cpu fetch memory used determine
+cpu decode step instruction brokenpart significance portion cpu way
+numerical instruction value interpreted definedcpu instruction set architecture isa often one groupnumber instruction called opcode indicatesoperation perform remaining part number usually provide
+information required instruction operandaddition operation operand may given constant value
+called immediate value place locate valueregister memory address determined addressing modeolder design portion cpu responsible instruction
+decoding unchangeable hardware device however abstract
+complicated cpu isas microprogram often used assist
+translating instruction various configuration signalcpu microprogram sometimes rewritablemodified change way cpu decodes instruction evenha manufactured
+block diagram simple cpu
+enlarge
+block diagram simple cpu
+
+fetch decode step execute step performedstep various portion cpu connectedperform desired operation instance addition operation
+wa requested arithmetic logic unit alu connectedset input set output input provide numberadded output contain final sum alu contains
+circuitry perform simple arithmetic logical operationinput like addition bitwise operation addition
+operation produce result large cpu handlearithmetic overflow flag flag register may also set seediscussion integer range
+final step writeback simply writes back resultexecute step form memory often result written
+internal cpu register quick access subsequent
+instruction case result may written slowercheaper larger main memory type instruction manipulate
+program counter rather directly produce result datagenerally called jump facilitate behaviour like loops
+conditional program execution use conditional jump
+function program many instruction also change state
+digit flag register flag used influence
+program behaves since often indicate outcome various
+operation example one type compare instruction considers
+two value set number flag register accordingone greater flag could used later jump
+instruction determine program flow
+
+execution instruction writeback resulting
+data entire process repeat next instruction cycle
+normally fetching nextinsequence instructionincremented value program counter completed instruction
+wa jump program counter modified contain address
+instruction jumped program execution continues
+normally complex cpu one described multiple
+instruction fetched decoded executed simultaneouslysection describes generally referred theclassic risc
+pipeline fact quite common among simple cpu usedmany electronic device often called microcontrollers
+
+design implementation
+
+prerequisites
+computer architecture
+digital circuits
+
+integer range
+
+way cpu represents number design choice affectbasic way device function early digital
+computer used electrical model common decimal base ten
+numeral system represent number internally computers
+used exotic numeral system like ternary base three nearly
+modern cpu represent number binary form digitrepresented twovalued physical quantity highlow voltage
+mosmicroprocessor dual inline package extremely popular
+bit design
+enlarge
+mosmicroprocessor dual inline package extremely popular
+bit design
+
+related number representation size precision numbers
+cpu represent case binary cpu bit refersone significant place number cpu deal numberbit numeral place cpu represent number often
+calledword size bit width data path width integer
+precision dealing strictly integer number opposedfloating point number differs architecture often
+within different part cpu example bit cpu
+deal range number represented eight binary
+digit digit two possible value isor 
+discrete number effect integer size set hardware limitrange integer software run cpu utilize
+
+integer range also affect number location memory cpu
+address locate example binary cpu usesbitsrepresent memory address memory address represents one
+octetbits maximum quantity memory cpu addressoctet orgib simple view cpu address space
+many modern design use much complex addressing method like
+paging order locate memory integer range would
+allow flat address space
+
+higher level integer range require structure dealadditional digit therefore complexity size power usage
+generally expense uncommon therefore see 
+bit microcontrollers used modern application even though cpus
+much higher range aseven bitavailable simpler microcontrollers usually cheaper use less
+power therefore dissipate heat major
+design consideration electronic device however higherend
+application benefit afforded extra range oftenadditional address space significant often affect design
+choice gain advantage afforded lowerhigher bit length many cpu designed different bit widths
+different portion device example ibm system
+used cpu primarilybit used bit precision
+inside floating point unit facilitate greater accuracyrange floating point numbersmany later cpu design use similar
+mixed bit width especially processor meantgeneralpurpose usage reasonable balance integerfloating point capability required
+
+clock rate
+
+cpu indeed sequential logic device synchronousnature designed operate assumptionsynchronization signal signal known clock signal usually
+take form periodic square wave calculating maximum
+time electrical signal move various branch cpus
+many circuit designer select appropriate periodclock signal
+
+period must longer amount time takesignal move propagate worstcase scenario setting
+clock period value well worstcase propagation
+delay possible design entire cpu way moves
+data around edge rising falling clock signalha advantage simplifying cpu significantlydesign perspective componentcount perspective however also
+carry disadvantage entire cpu must wait slowest
+element even though portion much fasterlimitation largely compensated various methodincreasing cpu parallelism see
+architectural improvement alone solve drawbackglobally synchronous cpu however example clock signalsubject delay electrical signal higher clock
+rate increasingly complex cpu make difficult keepclock signal phase synchronized throughout entire unitha led many modern cpu require multiple identical clock signalprovided order avoid delaying single signal significantly
+enough cause cpu malfunction another major issue clock
+rate increase dramatically amount heat dissipatedcpu constantly changing clock cause many component switch
+regardless whether used time generalcomponent switching energy elementstatic state therefore clock rate increase doe heat
+dissipation causing cpu require effective cooling
+solutions
+
+one method dealing switching unneeded componentcalled clock gating involves turning clock signalunneeded component effectively disabling howeveroften regarded difficult implement therefore doe see
+common usage outside lowpower design another methodaddressing problem global clock signalremoval clock signal altogether removing global clock
+signal make design process considerably complex many ways
+asynchronous clockless design carry marked advantage power
+consumption heat dissipation comparison similar synchronous
+design somewhat uncommon entire cpu built without
+utilizing global clock signal two notable examplearm compliant amulet mips compatible minimips rather
+totally removing clock signal cpu design allow certain
+portion device asynchronous using asynchronous
+alus conjunction superscalar pipelining achievearithmetic performance gain altogether clear whether
+totally asynchronous design perform comparable better
+level synchronous counterpart evidentleast excel simpler math operation combinedexcellent power consumption heat dissipation property makesuitable embedded computer 
+
+parallelism
+
+model subscalar cpu notice take fifteen cyclecomplete three instructions
+enlarge
+model subscalar cpu notice take fifteen cyclecomplete three instructions
+
+description basic operation cpu offered previous
+section describes simplest form cpu take typecpu usually referred subscalar operates executes one
+instruction one two piece data time
+
+process give rise inherent inefficiency subscalar cpus
+since one instruction executed time entire cpu must
+wait instruction complete proceeding next
+instruction result subscalar cpu get hunginstruction take one clock cycle complete
+execution even adding second execution unit see doeimprove performance much rather one pathway hungtwo pathway hung number unused transistorincreased design wherein cpu execution resourceoperate one instruction time possibly reach
+scalar performance one instruction per clock howeverperformance nearly always subscalar one instruction per
+cycle
+
+attempt achieve scalar better performance resultedvariety design methodology cause cpu behave less
+linearly parallel referring parallelism cpus
+two term generally used classify design techniques
+instruction level parallelism ilp seek increase rateinstruction executed within cpu increaseutilization ondie execution resource thread level
+parallelism tlp purpose increase number threads
+effectively individual program cpu execute
+simultaneously methodology differs wayimplemented well relative effectiveness affordincreasing cpu performance application
+
+ilp instruction pipelining superscalar architecture
+
+basic fivestage pipeline best case scenario pipelinesustain completion rate one instruction per cycle
+enlarge
+basic fivestage pipeline best case scenario pipelinesustain completion rate one instruction per cycle
+
+one simplest method used accomplish increased parallelismbegin first step instruction fetching decodingprior instruction finish executing simplest formtechnique known instruction pipelining utilized almost
+modern generalpurpose cpu pipelining allows one
+instruction executed given time breakingexecution pathway discrete stage separation compared
+assembly line instruction made completestage exit execution pipeline retired
+
+pipelining doe however introduce possibility situation
+result previous operation needed completenext operation condition often termed data dependency conflictcope additional care must taken check sorts
+condition delay portion instruction pipelineoccurs naturally accomplishing requires additional circuitrypipelined processor complex subscalar one thoughsignificantly pipelined processor become nearly
+scalar inhibited pipeline stall instruction spendingone clock cycle stage
+simple superscalar pipeline fetching dispatching two
+instruction time maximum two instruction per cyclecompleted
+enlarge
+simple superscalar pipeline fetching dispatching two
+instruction time maximum two instruction per cyclecompleted
+
+improvement upon idea instruction pipelining leddevelopment method decrease idle time cpu components
+even design said superscalar include long
+instruction pipeline multiple identical execution unitsuperscalar pipeline multiple instruction read passeddispatcher decides whether instructionexecuted parallel simultaneously dispatchedavailable execution unit resulting ability several
+instruction executed simultaneously generalinstruction superscalar cpu able dispatch simultaneouslywaiting execution unit instruction completedgiven cycle
+
+difficulty design superscalar cpu architecture
+lie creating effective dispatcher dispatcher needable quickly correctly determine whether instructionexecuted parallel well dispatch way keep
+many execution unit busy possible requiresinstruction pipeline filled often possible give riseneed superscalar architecture significant amount cpu
+cache also make hazardavoiding technique like branch prediction
+speculative execution outoforder execution crucialmaintaining high level performance attempting predictbranch path conditional instruction take cpuminimize number time entire pipeline must waitconditional instruction completed speculative execution often
+provides modest performance increase executing portion code
+may may needed conditional operation completes
+outoforder execution somewhat rearranges orderinstruction executed reduce delay due data dependencies
+
+case portion cpu superscalar partpart suffers performance penalty due scheduling
+stall original intel pentium two superscalar aluscould accept one instruction per clock fpu couldaccept one instruction per clock thus wa integer superscalar
+floating point superscalar intels successor pentium
+architecture added superscalar capability floating point
+feature therefore afforded significant increase floating
+point instruction performance
+
+simple pipelining superscalar design increase cpu ilpallowing single processor complete execution instructionrate surpassing one instruction per cycle ipc modern cpu
+design least somewhat superscalar nearly general
+purpose cpu designed last decade superscalar later
+year emphasis designing highilp computer hamoved cpu hardware software interfaceisa strategy long instruction word vliw causeilp become implied directly software reducing amountwork cpu must perform boost ilp thereby reducingdesign complexity
+
+tlp simultaneous thread execution
+
+another strategy commonly used increase parallelism cpuinclude ability run multiple thread programtime general hightlp cpu use much longerhighilp one many design pioneered cray late
+concentrated tlp primary method enabling
+enormous time computing capability fact tlp form
+multiple thread execution improvement use earlysin context single processor design two main
+methodology used accomplish tlp chiplevel multiprocessing
+cmp simultaneous multithreading smt higher levelcommon build computer multiple totally independent cpus
+arrangement like symmetric multiprocessing smp nonuniform
+memory access numa using different meantechnique accomplish goal increasing number threads
+cpu run parallel
+
+cmp smp method parallelism similar one anotherstraightforward involve little conceptuallyutilization two complete independent cpucase cmp multiple processor core includedpackage sometimes integrated circuit smphand includes multiple independent package numa somewhat
+similar smp nonuniform memory access modelimportant computer many cpu processor access
+time memory quickly exhausted smps shared memory model
+resulting significant delay due cpu waiting memory
+therefore numa considered much scalable model successfully
+allowing many cpu used one computer smpfeasibly support smt differs somewhat tlp improvementattempt duplicate portion cpu possible
+considered tlp strategy implementation actuallyresembles superscalar design indeed often used superscalar
+microprocessor ibms power rather duplicatingentire cpu smt design duplicate part needed instruction
+fetching decoding dispatch well thing like
+generalpurpose register allows smt cpu keep execution
+unit busy often providing instruction two different
+software thread similar ilp superscalar
+method simultaneously executes instruction multiple threads
+rather executing multiple instruction thread
+concurrently
+
+vector processor simd
+
+le common increasingly important paradigm cpu indeed
+computing general deal vector processor discussed
+earlier referred type scalar device name
+implies vector processor deal multiple piece datacontext one instruction contrast scalar processors
+deal one piece data every instruction two
+scheme dealing data generally referred sisd single
+instruction single data simd single instruction multiple data
+respectively great utility creating cpu deal vectors
+data lie optimizing task tend requireoperation example sum dot product performedlarge set data classic example type taskmultimedia application image video sound well many
+type scientific engineering task whereas scalar cpu must
+complete entire process fetching decoding executinginstruction value set data vector cpu performsingle operation comparatively large set data one
+instruction course possible application
+tends require many step apply one operation large setdata
+
+early vector cpu cray associated almost
+exclusively scientific research cryptography applications
+however multimedia largely shifted digital medium need
+form simd generalpurpose cpu become significant
+shortly floating point execution unit started become
+commonplace include generalpurpose processor specifications
+implementation simd execution unit also began appear
+generalpurpose cpu early simd specification like
+intels mmx integeronly proved significant
+impediment software developer since many applications
+benefit simd primarily deal floating point numbers
+progressively early design refined remadecommon modern simd specification usually associated
+one isa notable modern example intels ssepowerpcrelated altivec also known vmx
+

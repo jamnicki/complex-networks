@@ -1,0 +1,424 @@
+copyright
+
+polymerase chain reaction
+
+ school wikipedia selection related subject general biology
+
+polymerase chain reaction pcr molecular biology techniqueenzymatically replicating dna without using living organisme coli yeast like amplification using living organismtechnique allows small amount dna amplified exponentially
+pcr vitro technique performed without
+restriction form dna extensively modifiedperform wide array genetic manipulations
+
+pcr commonly used medical biological research labvariety task detection hereditary diseaseidentification genetic fingerprint diagnosis infectious
+disease cloning gene paternity testing dna computing
+
+pcr invented kary mullis time thought pcr 
+mullis working emeryville california cetus onefirst biotechnology company charged making short
+chain dna scientist mullis writtenconceived pcr cruising along pacific coast highwayone
+night car playing mind new wayanalyzing change mutation dna realizedinstead invented method amplifying dna region mullis said
+trip wa already savoring prospectnobel prize shared nobel prize chemistry michael
+smith 
+
+mullis written scientific american beginningsingle molecule genetic material dna pcr generate 
+billion similar molecule afternoon reaction easyexecute requires test tube simple reagents
+source heat
+
+pcr practice
+
+imagepcr mjhgjgjhgjhgjuachinejpg
+figurea thermal cycler pcr
+
+pcr used amplify specific region dna strandsingle gene part gene noncoding sequence pcr
+typically amplifies short dna fragment usually tokilo
+base pair certain method copy fragment tokbsize still much chromosomal dna eukaryotic
+cellfor example human cell contains three billion base
+pairs
+
+pcr currently practiced requires several basic componentcomponentdna template contains region dna fragmentamplified
+two primer determine beginning end regionamplified see following section primers
+taq polymerase another durable polymerase dna polymerase
+copy region amplified
+deoxynucleotide triphosphates dntps dna
+polymerase build new dna
+buffer provides suitable chemical environment dna
+polymerase
+
+pcr process carried thermal cycler machine
+heat cool reaction tube within precise
+temperature required step reaction prevent
+evaporation reaction mixture typically volume per tube heated lid placed top reaction tubelayer oil put surface reaction mixturemachine cost thanusd 
+
+primers
+
+dna fragment amplified determined selecting primers
+primer short artificial dna strandsoften thanand
+usually onlytobase pair longthat complementarybeginning end dna fragment amplified anneal
+adhering dna template starting ending points
+dna polymerase bind begin synthesis new dna
+strand
+
+choice length primer melting temperature
+tm depends number consideration melting temperature
+primernot confused melting temperaturetemplate dnais defined temperature halfprimer binding site occupied primer short would
+anneal several position long dna template would result
+nonspecific copy hand length primerlimited maximum temperature allowed applied ordermelt melting temperature increase lengthprimer melting temperature high aboveccause problem since dna polymerase activetemperature optimum length primer generally fromto 
+nucleotide melting temperature c
+
+sometimes degenerate primer used actually mixturesimilar identical primer may convenientgene amplified different organism genes
+probably similar identical usedegenerate primer primer design based protein sequence
+several different codon code one amino acid often
+difficult deduce codon used particular case therefore
+primer sequence corresponding amino acid isoleucine mightath stand adenine thymine adenine
+thymine cytosine see genetic code detailcodon use degenerate primer greatly reduce specificity
+pcr amplification problem partly solved using
+touchdown pcr
+
+mentioned consideration make primer design exacting
+process upon product yield depends
+gccontent 
+calculated primer used reaction differ
+c amplification product differprimer annealing temperature usually calculated lower
+tm however chosen empirically individual
+conditions
+inner selfcomplementary hairpin ofand dimersshouldavoided
+primerterminus design critical pcr success sinceprimer extends theend theendcomplementary greater thanbases regionprimer even primer used reactionmust provide correct base matching template
+
+computer program help design primer see external
+links
+
+procedure
+
+pcr process usually consists series twenty thirtyfive
+cycle cycle consists three step fig 
+doublestranded dna heated cextremely thermostable polymerase used order separate
+strand step called denaturing break aparthydrogen bond connect two dna strand prior first
+cycle dna often denatured extended time ensure
+template dna primer completely
+separated singlestrand time usually 
+minute tominutes also certain polymeraseactivated step see hotstart pcr
+separating dna strand temperature loweredprimer attach single dna strand step
+called annealing temperature stage dependsprimer usually melting temperature
+c wrong temperature annealing step result
+primer binding template dna bindingrandom timeminutes
+finally dna polymerase copy dna strand starts
+annealed primer work way along dna strandstep called elongation elongation temperature dependsdna polymerase taq polymerase elongates optimallytemperature ofcelsius time step dependsdna polymerase length dna fragmentamplified ruleofthumb step takesminute per
+thousand base pair final elongation step frequently used
+last cycle ensure remaining single stranded
+dna completely copied differs elongation
+step longer typicallyminuteslast step highly recommendable pcr productligated vector using tacloning
+
+figureschematic drawing pcr cycledenaturingcannealing celongation ppolymerasethe first cycle complete two resulting dna
+strand make template dna next cycle thus doublingamount dna duplicated new cycle total three cycleshownfigureschematic drawing pcr cycledenaturingcannealing celongation ppolymerasethe first cycle complete two resulting dna
+strand make template dna next cycle thus doublingamount dna duplicated new cycle total three cycleshown
+example
+
+time temperature given example taken pcr
+program successfully used abp fragmentcterminus insulinlike growth factor igf
+gel electrophoresis image standard pcr two set specific
+primer used amplify one gene three seperate tissuegel show tissuelacks gene whereas tissueand 
+posse gene
+enlarge
+gel electrophoresis image standard pcr two set specific
+primer used amplify one gene three seperate tissuegel show tissuelacks gene whereas tissueand 
+posse gene
+
+reaction mixture consistsl dna templatengl
+l primerl per primerngl
+l pfupolymerase
+l nucleotides
+l buffer solution
+l water
+
+al reaction tube containing thel mixture insertedthermocycler
+
+pcr process consists following steps
+initialization mixture heated forminutesensure dna strand well primer melteddna polymerase present initialization added
+step
+melting heated forseconds cycle
+usually enough time dna denature
+annealing heating forsecondsthe primerjiggling around caused brownian motion short bondingconstantly formed broken single stranded primersingle stranded template stable bond last little
+bit longer primer fit exactly little piecedouble stranded dna template primer polymeraseattach start copying template bases
+built doublestranded region template
+primer greater annealing extension
+temperature
+elongation heating forsecondsthis ideal working
+temperature polymerase primer extended
+base already stronger hydrogen bondtemplate force breaking attraction primerposition exact match melt away template
+higher temperature extended
+
+base complementary template coupled primertheside polymerase add dntps fromtoreadingtemplate fromtoside base added complementarytemplate
+stepsare repeatedtimes good primer fresh
+polymerasetocycles sufficient
+mixture held useful one start pcrevening leaving lab run overnightdna damaged one night
+
+pcr product identified size using agarose gel
+electrophoresis agarose gel electrophoresis procedureconsists injecting dna agarose gel applyingelectric current gel result smaller dna strand move
+faster larger strand gel toward positive
+current size pcr product determined comparingdna ladder contains dna fragment known size also
+within gel fig 
+
+pcr optimization
+
+since pcr sensitive adequate measure avoid contamination
+dna present lab environment bacteria virus lab
+staff skin etc taken thus dna sample preparation
+reaction mixture assemblage pcr process additionsubsequent reaction product analysis performed separate
+area preparation reaction mixture laminar flow cabinet
+uv lamp recommended fresh glove used pcr
+step well displacement pipette aerosol filterreagent pcr prepared separately used solelypurpose aliquot stored separately dna samplecontrol reaction inner control omitting template dna always
+performed confirm absence contamination primer
+multimer formation
+
+difficulty polymerase chain reaction
+
+polymerase chain reaction perfect error mistakeoccur common error problem may occur
+
+polymerase errors
+
+taq polymerase lack atoexonuclease activity makeimpossible check base inserted removeincorrect process common higher organism turn
+result high error rate approximatelyinbaseserror occurs early alter large proportion final
+product
+
+polymerase available accuracy vital usamplification sequencing example polymerase 
+exonuclease activity include kod dna polymerase recombinant formthermococcus kodakaraensis kod vent extractedthermococcus litoralis pfu dna polymerase extractedpyrococcus furiosus pwo extracted pyrococcus
+woesii
+
+size limitations
+
+pcr work readily dna length two three thousand basepairs
+length polymerase tends fall typical
+heating cycle doe leave enough time polymerisationcomplete possible amplify larger piece tobase
+pair slower heating cycle special polymerasespecial polymerase often polymerase fused dnabinding
+protein making literally stick dna longer
+
+non specific priming
+
+non specific binding primer always possibility duesequence duplication nonspecific binding partial primer binding
+leaving theend unattached increased usedegenerate sequence base primer manipulation annealing
+temperature magnesium ion stabilise dna rna
+interaction concentration increase specificity nonspecific
+priming prevented low temperature reaction
+preparation use hotstart polymerase enzyme active
+site blocked antibody chemical dislodgesreaction heated denaturation step first
+cycle
+
+method increase specificity include nested pcr touchdown
+pcr
+
+practical modification pcr technique
+
+nested pcrnested pcr intended reduce contaminationproduct due amplification unexpected primer binding
+site two set primer used two successive pcr runsecond set intended amplify secondary target within first
+run product successful requires detailed
+knowledge sequence involved
+intersequence specific issr pcr
+ligationmediated pcr
+
+inverse pcrinverse pcr method used allow pcrone internal sequence known especially usefulidentifying flanking sequence various genomic insertinvolves series digestion self ligation cuttingendonuclease resulting known sequence either endunknown sequence
+
+rtpcrrtpcr reverse transcription pcr method usedamplify isolate identify known sequence celltissue rna library essentially normal pcr precededtranscription reverse transcriptase convert rna cdna
+widely used expression mapping determiningcertain gene expressed
+
+assembly pcrassembly pcr completely artificial synthesis
+long gene product performing pcr pool long
+oligonucleotides short overlapping segmentoligonucleotides alternate sense antisense directions
+overlapping segment serve order pcr fragmentselectively produce final product
+
+asymmetric pcrasymmetric pcr used preferentially amplify
+one strand original dna find usetype sequencing hybridization probingone two complementary stand ideal pcr carried
+usual great excess primer chosen
+strand due slow arithmetic amplification laterreaction limiting primer used extra cycles
+pcr required recent modification process known
+linearaftertheexponentialpcrlatepcr limiting
+primer higher melting temperaturetm excess
+primer maintain reaction efficiency limiting primer
+concentration decrease midreaction
+
+quantitative pcrqpcr quantitative pcr used rapidly
+measure quantity pcr product preferably realtime thusindirect method quantitatively measuring starting amountdna cdna rna commonly used purposedetermining whether sequence presentpresent number copy sample aremain
+method vary difficulty detail
+
+quantitative realtime pcr often confusingly known rtpcr
+real time pcr rqpcr qrtpcr rtqpcr appropriate
+contraction rtpcr also refer reverse transcription pcr
+even confusingly often used conjunctionqpcr method fluorescent dye probe measureamount amplified product real time
+
+touchdown pcrtouchdown pcr variant pcr reduces
+nonspecific primer annealing gradually loweringannealing temperature cycle higher temperature give
+greater specificity primer binding primer anneal firsttemperature pass zone greatest specificity
+
+hotstart pcr technique reduces nonspecific primingoccurs preparation reaction componenttechnique may performed manually simply heating reaction
+component briefly melting temperature addingpolymerase specialized enzyme system developedinhibit polymerase activity ambient temperature eitherbinding antibody presence covalently bound
+inhibitor dissociate hightemperature activation
+step
+
+colony pcrbacterial clonesecoli screenedcorrect ligation product selected colony pickedsterile toothpick agarose plate dabbed master
+mix sterile water primer master mix addedthe
+pcr protocol started extended time 
+racepcrrapid amplification cdna ends
+
+multiplexpcrthe use multiple unique primer set withinsingle pcr reaction produce amplicons varying size specific
+different dna sequence targeting multiple geneadditional information may elicited single test runotherwise would require several time reagent technician
+time perform annealing temperature primer sets
+must optimized work correctly within single reactionamplicon size separated enough difference final
+base pair length form distinct band via gel electrophoresis
+
+methylation specific pcrmethylation specific pcr msp used
+detect methylation cpg island genomic dna dna first
+treated sodium bisulfite convert unmethylated cytosine
+base uracil recognized pcr primer thymine two
+pcr reaction carried modified dna using
+primer set identical except cpg island within primer
+sequence point one primer set recognizes dnacytosine amplify methylated dna one set recognizes dna
+uracil thymine amplify unmethylated dna msp using qpcr
+also performed obtain quantitative ratherqualitative information methylation
+
+recent development pcr techniques
+
+recent method excludes temperature cycle uses
+enzyme helicasedependent amplification
+tailpcr developed liu al inis thermal
+asymmetric interlaced pcr
+metapcr developed andrew wallace allows optimize
+amplification direct sequence analysis complex genes
+detail national genetic reference laboratory manchester 
+us pcr
+
+pcr used broad variety experiment analysisexample discussed
+genetic fingerprinting
+
+genetic fingerprinting forensic technique used identifyperson comparing dna given sample exampleblood crime scene genetically compared bloodsuspect sample may contain tiny amount dna obtained
+source blood semen saliva hair organic
+material theoretically single strand needed first one
+break dna sample fragment amplifies using pcr
+amplified fragment separated using gel electrophoresis
+overall layout dna fragment called dna fingerprint
+since tiny possibility two individual maysequence one several million techniqueeffective acquitting suspect proving suspect guiltysmall possibility exploited defense lawyer controversial
+oj simpson case match however usually remains extremely strong
+indicator also question guilt
+
+paternity testing
+
+figureelectrophoresis pcramplified dna fragmentsfather
+childmother child inheritedfingerprint parent giving new unique
+fingerprint
+enlarge
+figureelectrophoresis pcramplified dna fragmentsfather
+childmother child inheritedfingerprint parent giving new unique
+fingerprint
+
+although resulting fingerprint unique exceptidentical twin genetic relationship example parentchildsibling determined two genetic fingerprints
+used paternity test figa variationtechnique also used determine evolutionary relationships
+organisms
+
+detection hereditary diseases
+
+detection hereditary disease given genome longdifficult process shortened significantly using pcr
+gene question easily amplified pcr usingappropriate primer sequenced detect mutations
+
+viral disease detected using pcr amplificationviral dna analysis possible right infectionseveral day several month actual symptoms
+occur early diagnosis give physician significant leadtreatment
+
+cloning genes
+
+cloning gene confused cloning whole organism
+describes process isolating gene one organisminserting another organism termed genetically modified
+organism gmo pcr often used amplify geneinserted vector vector piece dna carries
+gene gmo plasmid circular dna molecule
+figthe dna transferred organism gmo
+gene product studied closely expressing
+cloned gene gene expressed gene product usually
+protein rna produced gmo also waymassproducing useful protein example medicine enzymebiological washing powder incorporation affinity tagrecombinant protein generate fusion proteineasily purified affinity chromatography
+figurecloning gene using plasmid chromosomal dnaorganism apcrmultiple copy single gene organism
+ainsertion gene plasmidplasmid geneorganism ainsertion plasmid organism 
+multiplication expression gene originally organismoccurring organism figurecloning gene using plasmid
+chromosomal dna organism apcrmultiple copysingle gene organism ainsertion gene plasmid
+plasmid gene organism ainsertion plasmidorganism bmultiplication expression gene originally
+organism occurring organism 
+mutagenesis
+
+mutagenesis way making change sequence nucleotides
+dna situation one interested mutated
+changed copy given dna strand example tryingass function gene invitro protein evolution also
+known directed evolution mutation introduced copied
+dna sequence two fundamentally different way pcr process
+sitedirected mutagenesis allows experimenter introducemutation specific location dna strand usually desired
+mutation incorporated primer used pcr program
+random mutagenesis hand based useerrorprone polymerase pcr process case random
+mutagenesis location nature mutation cannotcontrolled one application random mutagenesis analyze
+structurefunction relationship protein randomly alteringdna sequence one compare resulting protein original
+determine function part protein
+
+analysis ancient dna
+
+using pcr becomes possible analyze dna thousandyear old pcr technique successfully used animalfortythousandyearold mammoth also human dnaapplication ranging analysis egyptian mummyidentification russian tsar
+
+genotyping specific mutations
+
+use allelespecific pcr one easily determineallele mutation polymorphism individual onetwo primer common would anneal short distance awaymutation anneals right variation 
+end allelespecific primer modified annealmatch one allele mutation interest single nucleotide polymorphism snp one would use two reactions
+one containing primer ending ending ccommon primer would following pcr two setreaction would run agarose gel band patterntell individual homozygous homozygous cheterozygous methodology several applicationamplifying certain haplotype certain allele ator snps
+occur together chromosome linkage disequilibriumdetection recombinant chromosome study meiotic
+recombination
+
+comparison gene expression
+
+researcher used traditional pcr way estimate changeamount gene expression ribonucleic acid rnamolecule dna transcribed prior making proteinstrand rna hold instruction protein sequence
+known messenger rna mrna rna isolatedreverse transcribed back dna complementary dna precise
+known cdna point traditional pcr appliedamplify gene methodology called rtpcr casestarting material mrna gene pcrcopy gene generated product pcr
+process run agarose gel see figureabove band
+corresponding gene appear larger gel noteband remains location relative ladderappear fatter brighter running sample amplified cdnadifferently treated organism one get general ideasample expressed gene interest quantative rtpcr
+method developed called realtime pcr 
+
+history
+
+polymerase chain reaction invented kary mullis awarded
+nobel prize chemistry infor invention seven
+year colleague cetus first reduced proposal
+practice idea develop process dna couldartificially multiplied repeated cycle duplication driven
+enzyme called dna polymerase
+
+dna polymerase occurs naturally living organism cellfunction duplicate dna cell divide mitosis meiosis
+polymerase work binding single dna strand creatingcomplementary strand first many original processenzyme used vitro controlled environment outsideorganism doublestranded dna separated two single
+strand heating f temperature however
+dna polymerase used time destroyed enzymereplenished heating stage cycle original
+procedure inefficient since required great deal time
+large amount dna polymerase continual attention throughoutprocess
+
+later original pcr process greatly improved use dna
+polymerase taken thermophilic bacteria grown geysertemperature f dna polymerase takenorganism stable high temperature used pcrbreak mixture heated separate dna strands
+since longer need add new dna polymerasecycle process copying given dna strand could simplified
+automated
+
+one first thermostable dna polymerase obtained thermus
+aquaticus called taq taq polymerase widely usedcurrent pcr practice disadvantage taq sometimes makes
+mistake copying dna leading mutation error dna
+sequence since lacksproofreading exonuclease activity
+polymerase pwo pfu obtained archaeaproofreading mechanism mechanism check errorsignificantly reduce number mutation occur copied
+dna sequence however enzyme polymerise dna much slower
+rate taq combination taq pfu available nowadays
+provide high processivity fast polymerisation high
+fidelity accurate duplication dna
+
+pcr performed dna larger thankilobases average
+pcr several hundred thousand base dna problem
+long pcr balance accuracyprocessivity enzyme usually longer fragmentgreater probability errors
+
+patent wars
+
+pcr technique patented cetus corporation mullis
+worked invented technique inthe taq polymerase
+enzyme also covered patent several highprofile
+lawsuit related technique including unsuccessful lawsuit
+brought dupont pharmaceutical company hoffmannla roche
+purchased right patent inand currently holdstill protected
+
+related patent battle taq polymerase enzyme still ongoing
+several jurisdiction around world roche promega
+interestingly seems possible legal argument extend
+beyond life original pcr taq polymerase patentexpire 
+retrieved 
+httpenwikipediaorgwikipolymerasechainreaction
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

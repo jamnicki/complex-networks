@@ -1,0 +1,313 @@
+copyright
+
+silicon
+
+ school wikipedia selection related subject chemical elements
+
+
+aluminiumsiliconphosphorus
+c
+
+si
+
+ge
+
+periodic tableextended periodic table
+
+general
+name symbol number silicon 
+chemical series metalloids
+group period blockp
+appearance dark gray bluish tinge
+atomic massgmol
+electron configuration p
+electron per shell
+physical properties
+phase solid
+density near rtgcm
+liquid density mpgcm
+melting pointk
+cf
+boiling pointk
+cf
+heat fusionkjmol
+heat vaporizationkjmol
+heat capacitycjmolk
+
+caption vapor pressure
+
+ppakkk
+tk
+
+atomic properties
+crystal structure diamond lattice
+oxidation state 
+amphoteric oxide
+electronegativitypauling scale
+ionization energies
+stkjmol
+ndkjmol
+rdkjmol
+atomic radiuspm
+atomic radius calcpm
+covalent radiuspm
+van der waals radiuspm
+miscellaneous
+magnetic ordering nonmagnetic
+thermal conductivitykwmk
+thermal expansioncmmk
+speed sound thin rodcms
+young modulusgpa
+bulk modulusgpa
+mohs hardness 
+ca registry number 
+selected isotopes
+
+caption main article isotope silicon
+
+isonahalflife dmdemevdp
+sisi stable withneutrons
+sisi stable withneutrons
+sisi stable withneutrons
+si synyp
+
+references
+
+confused silicone
+
+siliconipa slikn latin silicium chemical elementperiodic table symbol atomic numbera
+tetravalent metalloid silicon reactive chemical
+analog carbon second abundant element earths
+crust making upof mass doe occur free nature
+mainly occurs mineral consisting practically pure silicon
+dioxide different crystalline form quartz chalcedony opalsilicate various mineral containing silicon oxygen oneanother metal example feldspar mineral occur clay
+sand various type rock like granite sandstone siliconprincipal component semiconductor device form
+silica silicate glass cement ceramic alsocomponent silicone name various plastic substance often
+confused silicon silicon widely used semiconductors
+remains semiconductor higher temperaturesemiconductor germanium native oxide easily grownfurnace form better semiconductordielectric interfacealmost material combinations
+
+notable characteristics
+
+crystalline form silicon dark gray colour metallic
+luster similar glass rather strongbrittle prone chipping even though relatively inert
+element silicon still reacts halogen dilute alkaliacid except combination nitric acid hydrofluoric
+acid affect elemental silicon transmits thanof
+wavelength infrared light pure silicon negative
+temperature coefficient resistance since number free charge
+carrier increase temperature electrical resistancesingle crystal silicon significantly change applicationmechanical stress due piezoresistive effect
+
+applications
+
+silicon useful element vital many human
+industry silicon used frequently manufacturing computer chips
+related hardware
+
+silicon alloys
+
+largest application pure silicon metallurgical grade
+silicon aluminiumsilicon alloy often called light
+alloy produce cast part mainly automotive industry
+represents aboutof world consumption pure
+silicon
+second largest application pure silicon raw material
+production silicone aboutof world consumption
+silicon
+pure silicon also used produce ultrapure siliconelectronic photovoltaic application 
+semiconductorultrapure silicon dopedelement adjust electrical response controllingnumber chargepositive negative current carriers
+control necessary transistor solar cells
+semiconductor detector semiconductor deviceused electronics hightech applications
+photonicssilicon used continuous wave raman
+laser produce coherent light wavelength ofnm
+lcd solar cellshydrogenated amorphous siliconwidely used production lowcost largearea
+electronics application lcd also shown
+promise largearea lowcost solar cells
+steel cast ironsilicon important constituentsteel used production process cast ironintroduced ferrosilicon silicocalcium alloys
+
+silicon compounds
+
+construction silicon dioxide silica form sandclay important ingredient concrete brick also
+used produce portland cement
+pottery enamelit refractory material usedhightemperature material production silicate usedmaking enamel pottery
+glasssilica sand principal component glass glass
+made great variety shape many
+different physical property silica used base materialmake window glass container insulator many useful
+objects
+abrasivessilicon carbide one important abrasives
+medical materialssilicones flexible compound containing
+siliconoxygen siliconcarbon bond widely usedapplication artificial breast implant contact lenses
+silicone also used many applications
+
+history
+
+silicon latin silex silicis meaning flint first identifiedantoine lavoisier inand later mistaken humphry davycompound ingaylussac thnard probably prepared
+impure amorphous silicon heating potassium silicon
+tetrafluoride inberzelius prepared amorphous silicon using
+approximately method lussac berzelius also purifiedproduct repeatedly washing
+silicon important element semiconductor hightech
+device hightech region silicon valley california named
+element
+
+occurrence
+
+measured mass silicon make upof earth crustsecond abundant element earth oxygen pure silicon
+crystal rarely found nature natural silicon usually found
+form silicon dioxide also known silica silicate
+
+estimated seventh plentiful elementuniverse
+
+sand amethyst agate quartz rock crystal flint jasper opal
+form silicon dioxide appears known
+aslithogenic opposed tobiogenic silica granite
+asbestos feldspar clay hornblende mica many
+silicate mineral pure silicon crystal found inclusions
+gold volcanic exhalations
+
+silicon principal component aerolite classmeteoroid also tektite natural form glass
+
+production
+
+silicon commercially prepared reaction highpurity silica
+wood charcoal coal electric arc furnace using carbon
+electrode temperature overc carbon reduces silica
+silicon according chemical equation
+
+siocsico
+
+liquid silicon collect bottom furnacedrained cooled silicon produced via process called
+metallurgical grade silicon leastpure usingmethod silicon carbide sic form however provided amountsio kept high silicon carbide may eliminated explainedequation
+
+sicsiosico
+
+inmetallurgical grade silicon cost aboutper pound
+kg 
+
+purification
+
+use silicon semiconductor device demand much greater
+purity afforded metallurgical grade silicon historicallynumber method used produce highpurity silicon
+
+physical methods
+
+silicon wafer mirror finish nasa
+enlarge
+silicon wafer mirror finish nasa
+
+early silicon purification technique based factsilicon melted resolidified last part masssolidify contain impurity earliest method silicon
+purification first described inand used limited basismake radar component world war involved crushing
+metallurgical grade silicon partially dissolving silicon
+powder acid crushed silicon cracked weaker
+impurityrich region outside resulting grainsilicon result impurityrich silicon firstdissolved treated acid leaving behind pure product
+
+zone melting also called zone refining first silicon
+purification method widely used industrially rodmetallurgical grade silicon heated melt one endheater slowly moved length rod keeping small
+length rod molten silicon cool resolidifies behind
+since impurity tend remain molten region rather
+resolidify process complete impurities
+rod moved end lastmelted end cut discarded process
+repeated still higher purity desired
+
+chemical methods
+
+today silicon instead purified converting silicon
+compound easily purified siliconconverting silicon element back pure silicon trichlorosilane
+silicon compound commonly used intermediate
+although silicon tetrachloride silane also usedgas blown silicon high temperature decomposehighpurity silicon
+
+siemens process highpurity silicon rod exposedtrichlorosilane atc trichlorosilane gas decomposesdeposit additional silicon onto rod enlarging accordingchemical reaction like
+
+hsiclsihclsicl
+
+silicon produced similar process called
+polycrystalline silicon polycrystalline silicon typically impurity
+level 
+
+one time dupont produced ultrapure silicon reacting silicon
+tetrachloride highpurity zinc vapor atc producing silicon
+according chemical equation
+
+siclznsizncl
+
+however technique plagued practical problemzinc chloride byproduct solidifying clogging lineeventually abandoned favour siemens process
+
+crystallization
+
+majority silicon crystal grown device productionproduced czochralski process since cheapest method
+available however silicon singlecrystals grown czochralski
+method contain impurity since crucible contains melt
+dissolve certain electronic device particularly required
+high power application silicon grown czochralski methodpure enough application floatzone silicon fzsiused instead
+
+different form silicon
+
+granular silicon
+
+polycrystal silicon
+
+silicon monocrystal
+
+silicon nanopowder
+
+silicon ingot
+
+one notice colour change silicon nanopowder caused
+quantum effect occur particle nanometric
+dimension see also potential well quantum dot nanoparticle
+
+isotopes
+
+silicon numerous known isotope mass number ranging 
+tosi abundant isotope atsiand
+siare stable radioactive isotope producedargon decay halflife determined approximately 
+year decay beta emission ha aday
+halflifeand
+precautions
+
+serious lung disease known silicosis often occurred miners
+stonecutter others engaged work siliceous dust
+wa inhaled great quantities
+
+siliconbased life
+
+since silicon similar carbon particularly valencypeople proposed possibility siliconbased lifeconcept especially popular science fiction one main detraction
+siliconbased life unlike carbon silicon doetendency form double triple bonds
+
+although known form life rely entirelysiliconbased chemistry rely silicon minerals
+specific function bacteria form lifeprotozoa radiolaria silicon dioxide skeleton sea
+urchin spine made silicon dioxide form silicon
+dioxide known biogenic silica silicate bacteria use silicates
+metabolism
+
+life know could developed based silicon
+biochemistry main reason fact life earth
+depends carbon cycle autotrophic entity use carbon dioxidesynthesize organic compound carbon used foodheterotrophic entity produce energy carbon dioxidecompound carbon replaced silicon would
+need silicon cycle however silicon dioxide precipitateaqueous system cannot transported among livingcommon biological means
+
+another solvent would necessary sustain siliconbased
+life form would difficult impossible find another
+common compound unusual property water makeideal solvent carbonbased life larger silicon compound analogous
+common hydrocarbon chainssilanes also generally unstable
+owing larger atomic radius silicon correspondingly
+weaker siliconsilicon bond silanes decompose readily often
+violently presence oxygen making unsuitableoxidizing atmosphere silicon also doe readily
+participate pibonding second third bond triple bonds
+double bond pibonds porbital electron experience
+greater shielding able take necessary geometry
+furthermore although silicon ringscyclosilanes analogouscommon cycloalkanes formed carbon synthesizedlargely unknown synthesis suffers difficulties
+inherent producing silane compound whereas carbon readily
+form five six sevenmembered ring variety pathways
+dielsalder reaction one naturallyoccurring example evenpresence oxygen silicon inability readily form long silane
+chain multiple bond ring severely limit diversitycompound synthesized known conditions
+silicon chemistry simply cannot begin approach diversityorganic chemistry crucial factor carbon role biology
+
+however siliconbased life could construed lifeexists computational substrate concept yetexplored mainstream technology receives ample coverage scifi
+authors
+
+g cairnssmith proposed first living organismexist form clay mineralswhich probably based around
+silicon atom
+
+compounds
+
+example silicon compound see silicate silane sih
+silicic acid hsio silicon carbide sic silicon dioxide
+sio silicon tetrachloride sicl silicon tetrafluoride
+sif trichlorosilane hsicl

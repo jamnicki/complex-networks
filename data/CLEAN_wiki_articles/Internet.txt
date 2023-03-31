@@ -1,0 +1,387 @@
+copyright
+
+internet
+
+ school wikipedia selection related subject medium websiteinternet
+
+internet worldwide publicly accessible networkinterconnected computer network transmit data packet switching
+using standard internet protocol networknetwork consists million smaller domestic academic
+business government network together carry various
+information service electronic mail online chat file
+transfer interlinked web page documentworld wide web
+visualization various route portion internet
+enlarge
+visualization various route portion internet
+
+terminology internet web
+
+internet world wide web synonymous internetcollection interconnected computer network linked copper
+wire fibreoptic cable wireless connection etc webcollection interconnected document resource linkedhyperlink url world wide web accessible via internet
+many service including email file sharing others
+described
+best way define distinguish termunderstand internet protocol suite collection protocolorganized layer layer provides foundationservice required layer conception term
+internet refers computer network communicate internet protocol tcp transfer control protocolnetworking structure established protocol runtop protocol sometimes called serviceapplication hypertext transfer protocol http application
+layer protocol link billion file together world
+wide web
+
+creation internet
+
+internet worldwide publicly accessible networkinterconnected computer network transmit data packet switching
+using standard internet protocol networknetwork consists million smaller domestic academic
+business government network together carry various
+information service electronic mail online chat file
+transfer interlinked web page documentworld wide web
+
+ussr launch sputnik spurred united state createadvanced research project agency arpa later known defense
+advanced research project agency darpa februaryto regain
+technological lead arpa created information processing
+technology office ipto research semi automatic
+ground environment sage program networked countrywide
+radar system together first time c lickliderselected head ipto saw universal networking potential
+unifying human revolution
+
+inlicklider moved psychoacoustic laboratory harvard
+university mit served committee established mit
+lincoln laboratory worked sage project inhe becamevice president bbn bought first production pdp
+computer conducted first public demonstration timesharing
+
+licklider recruited lawrence robert head project implementnetwork robert based technology work paul baranwritten exhaustive study air force recommended
+packet switching opposed circuit switching make network
+highly robust survivable much work first node went live
+ucla octoberon would called arpanet oneeve network today internet followingbritish post office western union international tymnet
+collaborated create first international packet switched network
+referred international packet switched service ipnetwork grew europe cover canada hong
+kong australia 
+
+first tcpip wide area network operational byjanuary 
+united state national science foundation nsf constructeduniversity network backbone would later become nsfnetdate held technically birthinternet followed opening networkcommercial interest inimportant separate network offered
+gateway later merged nsfnet include usenet
+bitnet various commercial educational compuservejanet telenet later called sprintnet large privatelyfunded
+national computer network free dialup access city throughout
+u operation since network
+eventually merged others tcpip protocol
+became increasingly popular ability tcpip workpreexisting communication network especially international ip network allowed great ease growth use term
+internet describe single global tcpip network originated around
+time
+
+network gained public face august 
+cern straddle border france switzerland
+publicized new world wide web project two year tim
+bernerslee begun creating html http first web pages
+cern
+
+early popular web browser violawww based upon hypercardeventually replaced popularity mosaic web browser 
+national centre supercomputing application university
+illinois urbanachampaign released versionof mosaiclatethere growing public interest previously
+academictechnical internet bythe word internet coming
+common daily usage frequently misused refer world wide
+web
+
+meanwhile course decade internet successfully
+accommodated majority previously existing public computer
+network although network fidonet remained
+separate growth often attributed lack central
+administration allows organic growth network wellnonproprietary open nature internet protocolencourages vendor interoperability prevents one companyexerting much control network
+
+today internet
+
+server hosting opera community internet
+enlarge
+server hosting opera community internet
+
+aside complex physical connection makeinfrastructure internet facilitated multilateral
+commercial contract peering agreement technical
+specification protocol describe exchange datanetwork indeed internet essentially definedinterconnection routing policies
+
+septemberbillion people use internet
+according internet world stats
+
+internet protocols
+
+context three layer protocols
+lowest level internet protocol definesdatagrams packet carry block data one nodeanother vast majority today internet version fourip protocol ipv although ipv standardisedexists island connectivity many isps
+dont ipv connectivitynext come tcp transmission control protocol udp user
+datagram protocolthe protocol one host sends dataanother former make virtual connection givelevel guarantee reliability latter besteffort
+connectionless transport data packet losttransit resent
+top come application protocol defines specific
+message data format sent understood applications
+running end communication
+
+internet structure
+
+many analysis internet structureexample determined internet routing structure
+hypertext link world wide web example scalefree
+networks
+
+similar way commercial internet provider connect via
+internet exchange point research network tend interconnectlarge subnetworksgeant
+gloriad
+internet
+janet joint academic network aka ukerna
+
+turn built around relatively smaller network see also
+list academic computer network organizations
+
+network schematic diagram internet often representedcloud symbol network communication pass
+
+icann
+
+internet corporation assigned name number icannauthority coordinate assignment unique identifierinternet including domain name internet protocol addressprotocol port parameter number globally unified namespace
+ie system name one one holdername essential internet function icannheadquartered marina del rey california overseeninternational board director drawn across internet
+technical business academic noncommercial community government continues primary role approving changeroot zone file lie heart domain name system
+internet distributed network comprising many
+voluntarily interconnected network internet hagoverning body icanns role coordinating assignment unique
+identifier distinguishes perhaps central coordinating
+body global internet scope authority extends
+internet system domain name internet protocol
+address protocol port parameter numbers
+
+novthe world summit information society heldtunis established internet governance forum igf discuss
+internetrelated issues
+graphic representation small part www representing
+hyperlinks
+enlarge
+graphic representation small part www representing
+hyperlinks
+
+language
+
+prevalent language communication internetenglish may result internet origin wellenglish role lingua franca may also related poor
+capability early computer handle characterbasic latin alphabet
+
+englishof web visitor mostrequested languageworld wide web chinesejapanesespanishgermanand
+frenchfrom internet world stats updated june
+
+continentof world internet user based asia 
+europe andin north americaupdated june
+
+internet technology developed enough recent yeargood facility available development communicationwidely used language however glitch mojibake
+incorrect display foreign language character also knownkrakozyabry still remain
+
+internet workplace
+
+internet allowing greater flexibility working hourlocation especially spread unmetered highspeed
+connection web applications
+
+common internet
+
+world wide web
+
+keyworddriven internet research using search engine like
+google million worldwide easy instant access vastdiverse amount online information compared encyclopediatraditional library world wide web enabled suddenextreme decentralization information data
+
+many individual company group adopted useweb log blog largely used easilyupdatable online
+diary commercial organization encourage staff filladvice area specialization hope visitors
+impressed expert knowledge free informationattracted corporation result one example practice
+microsoft whose product developer publish personal blogorder pique public interest work
+
+information distinction world wide webinternet itselfas everyday use two sometimes confused
+see dark internet discussed detail
+
+remote access
+
+internet allows computer user connect computerinformation store easily wherever may across worldmay without use security authenticationencryption technology depending requirements
+
+encouraging new way working home collaborationinformation sharing many industry accountant sitting home
+audit book company based another country server
+situated third country remotely maintainedspecialist fourth account could createdhomeworking bookkeeper remote location basedinformation emailed office worldthing possible widespread use internet
+cost private leased line would made manyinfeasible practice
+
+office worker away desk perhaps sideworld business trip holiday open remote desktop
+session normal office using secure virtual private
+network vpn connection via internet give complete
+access normal file data including emailapplication away
+
+concept also referred network security peoplevirtual private nightmare extends secure perimetercorporate network employee home source
+notable security breach also provides securityworkers
+
+collaboration
+
+lowcost nearly instantaneous sharing idea knowledgeskill made collaborative work dramatically easiergroup cheaply communicate test wide reach internet
+allows group easily form first place even among niche
+interest example freelibreopensource software
+floss movement software development linux mozillaopenofficeorg cooperation greatly eased fieldwell
+
+internet chat whether form irc chat room channels
+via instant messaging system allow colleages stay touchconvenient way working computer day
+message send viewed even quickly convenientlyvia email extension system may allow file exchanged
+whiteboard drawing shared well voice video contact
+team members
+
+version control system allow collaborating team work shared
+set document without either accidentally overwriting others
+work member wait get sent document able
+add thought changes
+
+file sharing
+
+computer file emailed customer colleague friendattachment uploaded web site ftp server easy
+download others put shared location ontofile server instant use colleague load bulk downloads
+many user eased use ofmirror serverpeertopeer network case access file maycontrolled user authentication transit fileinternet may obscured encryption money may change hands
+access file given price paidremote charging fund example credit card whose
+detail also passedhopefully fully encryptedacrossinternet origin authenticity file received maychecked digital signature message digests
+
+simple feature internet worldwide basischanging basis production sale distributionanything reduced computer file transmissionincludes manner office document publication software
+product music photography video animation graphicart turn causing seismic shift existing
+industry association riaa mpaa united states
+previously controlled production distributionproduct country
+
+voip
+
+voip stand voice ip refers internet protocol
+underlies internet communication phenomenon beganoptional twoway voice extension instant messaging
+system took around yearin recent year many voip
+system become easy use convenient normal
+telephone benefit internet carry actual
+voice traffic voip free cost much normal
+telephone call especially long distance especiallyalwayson adsl dsl internet connections
+
+thus voip maturing viable alternative traditional
+telephone interoperability different provider improved
+ability call receive call traditional telephone
+available simple inexpensive voip modem availableeliminate need 
+voice quality still vary call call often equaleven exceed traditional calls
+
+remaining problem voip include emergency telephone number dialing
+reliability currently voip provider provide 
+dialing universally available traditional phoneline powered operate power failure voip doewithout backup power source electronics
+
+voip provider offer unlimited national calling direction
+voip clearly toward global coverage unlimited minutelow monthly fee
+
+voip also become increasingly popular within gaming worldform communication player popular gaming voip clients
+include ventrilo teamspeak others available also
+
+censorship
+
+government iran people republicchina restrict people country accessinternet especially political religious contentaccomplished software filter domain contentmay easily accessed obtained without elaborate
+circumvention
+
+many country enacted law making possession distribution
+certain material child pornography illegal use
+filtering software
+
+many free commercially available software programuser choose block offensive web site individual
+computer network limit child access pornography
+violence see contentcontrol software
+
+internet access
+
+internet public access point brazil 
+enlarge
+internet public access point brazil 
+
+common method home access include dialup landline broadbandcoaxial cable fibre optic copper wire wifi satellite cell
+phones
+
+public place use internet include library internet cafes
+computer internet connection available also
+internet access point many public place airport hallcoffee shop case brief use standing various
+term used public internet kiosk public access
+terminal web payphone many hotel also public
+terminal though usually fee based
+
+wifi provides wireless access computer network thereforeinternet hotspot providing access include
+wificafes wouldbe user need bringwirelessenabled device laptop pda service mayfree free customer feebased hotspot needlimited confined location whole campus park even
+entire city enabled grassroots effort led wireless
+community network commercial wifi service covering large city areas
+place london vienna san francisco philadelphia chicago
+pittsburgh city including toronto end ofthe
+internet accessed place park bench
+
+apart wifi experiment proprietary mobile
+wireless network like ricochet various highspeed data servicecellular phone network fixed wireless services
+
+highend mobile phone smartphones generally come internet
+access phone network web browser operaavailable advanced handset also run wide variety
+internet software mobile phone internet access
+pc though widely used internet access
+provider protocol matrix differentiates method used get
+online
+
+leisure
+
+internet major source leisure since world
+wide web entertaining social experiment mud moos
+conducted university server humorrelated usenet groups
+receiving much main traffic today many internet forumsection devoted game funny video short cartoon form
+flash movie also popular overmillion people use blogmessage board mean communication sharingideas
+
+pornography gambling industry taken full advantage
+world wide web often provide significant sourceadvertising revenue web site although many governmentattempted put restriction industry use internet
+ha generally failed stop widespread popularity song
+broadway musical show avenue titledthe internetporn refers popularity aspect internet
+
+one main area leisure internet multiplayer gamingform leisure creates community bringing people ageorigin enjoy fastpaced world multiplayer game range
+mmorpg firstperson shooter roleplaying game online
+gambling revolutionized way many people interactspend free time internet
+
+online gaming around since modern modeonline gaming began service gamespy mplayerplayer game would typically subscribe nonsubscriberslimited certain type gameplay certain games
+
+many use internet access download music moviework enjoyment relaxation discussedpaid unpaid source using centralised serverdistributed peertopeer technology discretion neededsource take care original artist rightcopyright law others
+
+many use world wide web access news weather sport reports
+plan book holiday find random ideas
+casual interests
+
+people use chat messaging email make stay touchfriend worldwide sometimes way previously pen
+pal social networking web site like friend reunited many others
+like also put keep people contact enjoyment
+
+cyberslacking become serious drain corporate resourceaverage employee spendsminutes day surfing web work
+according study peninsula business service 
+
+complex architecture
+
+many computer scientist see internet prime examplelargescale highly engineered yet highly complex systeminternet extremely heterogeneous instance data transfer rates
+physical characteristic connection vary widely internet
+exhibit emergent phenomenon depend largescale
+organization example data transfer rate exhibit temporal
+selfsimilarity
+
+marketing
+
+internet also become large market companybiggest company today grown taking advantage efficient
+nature lowcost advertising commerce internet also
+known ecommerce fastest way spread informationvast amount people simultaneously internet also
+subsequently revolutionized shoppingfor example person ordercd online receive mail within couple daydownload directly case internet also greatly
+facilitated personalized marketing allows company marketproduct specific person specific group peopleadvertising medium
+
+example personalized marketing include online communitymyspace friendster others thousand internet user join
+advertise make friend online many users
+young teen adolescent ranging fromtoyears oldturn advertise advertise interesthobby online marketing company use informationuser purchase online advertisecompany product users
+
+ineffective way advertising internetspamming email advertisement ineffectiveemail provider offer protection email spamspam message sent automatically everybody email database
+companyperson spamming way advertisingalmost like using adware
+
+adware another ineffective way advertising people
+simply close popup window show bothering read
+name internet
+
+internet traditionally written capital first letterproper noun internet society internet engineering task
+force internet corporation assigned name numberworld wide web consortium several internetrelated
+organization use convention publications
+
+many newspaper newswires periodical technical journals
+capitalize term example include new york timeassociated press time time india hindustan timecommunication acm
+
+others assert first letter written lower case
+internet significant number publication use form
+including economist canadian broadcasting corporationfinancial time guardian time sydney morning
+herald ofmany publication using internet appearlocated outside north americaalthough one news source wired
+news adopted lower case spelling
+
+historically internet internet different meaninginternet contraction internetwork internetworkinginternet referring worldwide network distinction
+internet particular internet reverse doe apply
+distinction evident many rfcs book articleearly rfcreferinternet plural recently fallen disuse
+
+significant internet events
+
+malfunction attacks
+
+sql slammer wormjanuary
+dns backbone ddosoctober
+uunetworldcom backbone difficultiesoctober
+predicted bugjanuary
+morris wormnovember
+

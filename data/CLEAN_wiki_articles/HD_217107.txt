@@ -1,0 +1,68 @@
+copyright
+
+hd 
+
+ school wikipedia selection related subject space astronomy
+
+caption 
+
+observation data
+epoch constellationpisces
+right ascensionhdeclination
+apparent magnitude characteristics
+spectral typegiv
+bv colour index
+ub colour index
+variable typenone
+astrometry
+radial velocity rvkms
+proper motionramas decmas parallaxmas
+distancely
+pc
+absolute magnitude 
+details
+massm
+radiusr
+luminosityl
+temperaturek
+metallicity
+rotationdays
+ageyears
+designations
+hrbdhdsaofkhip 
+
+hdis yellow subgiant star constellation piscesmass similar sun although considerably older
+two planet discovered orbiting star one extremely
+close star completes orbit every seven daymuch distant takingyears complete orbit
+
+distance age mass
+
+hdis fairly close sun hipparcos astrometric
+satellite measured parallax asmilliarcsecondscorresponds distance oflight year apparent magnitudemaking barely visible naked eye favourable
+conditions
+
+spectroscopic observation show spectral type g
+mean temperature aboutk mass thoughtroughly sun although estimated age 
+billion year rather older sunsbillion yearthought beginning evolve away main sequence
+consumed almost hydrogen core nuclear fusion
+reactions
+
+planetary system
+
+study radial velocity hdcarried 
+revealed motion along line sight varied aday
+cycle period amplitude variation indicatedcaused planetary companion orbit around starminimum mass slightly greater jupiterthe companion
+planet designated hdb
+
+planet orbital period thandaysalmost circular orbit hdb somewhat eccentric orbitdiscoverer hypothesised could duegravitational influence second planet system distance
+several astronomical unit confirmation existencesecond planet followed inwhen long term observationstar radial velocity variation revealed variation periodaboutyears caused planet mass least twicejupiter eccentric orbit semimajor axis aboutau
+second planet designated hdc
+
+companion
+order starmass
+mjorbital period
+dayssemimajor axis
+aueccentricity
+b
+c
+

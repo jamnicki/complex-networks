@@ -1,0 +1,330 @@
+copyright
+
+optical fibre
+
+ school wikipedia selection related subject general physics
+
+optical fibre glass plastic fibre designed guide light
+along length total internal reflection fibre opticbranch applied science engineering concerned optical
+fiber optical fiber widely used fibreoptic communication
+permit digital data transmission longer distancehigher data rate electronic communication also usedform sensor variety applications
+
+operating principle optical fiber applies numbervariant including multimode optical fiber singlemode optical
+fiber gradedindex optical fiber stepindex optical fibers
+physic optical fibre special methodsplicing fiber connecting equipment neededvariety method used manufacture optical fiberfiber also built different kind cable dependingused
+
+lightguiding principle behind optical fiber first
+demonstrated victorian time modern optical fiberdeveloped beginning optical fiber became practicaluse communication late since several
+technical advance made extend reach speed
+capability optical fiber lower cost fibre
+communication systems
+
+applications
+
+optical fibre communication
+
+optical fibre used medium telecommunicationnetworking flexible bundled cables
+although fiber made transparent plastic glasscombination two fiber used longdistance
+telecommunication application always glass lower
+optical attenuation multimode singlemode fiber usedcommunication multimode fiber used mostly short distances
+tom singlemode fibre used longer distance links
+tighter tolerance required couple lightsinglemode fiber singlemode transmitter receivers
+amplifier component generally expensivemultimode components
+
+fibre optic sensors
+
+optical fiber used sensor measure strain temperature
+pressure parameter small size factelectrical power needed remote location give fibre optic
+sensor advantage conventional electrical sensor certain
+applications
+
+optical fiber used hydrophones seismic sonar
+application hydrophone system thansensors per fibre
+cable developed hydrophone sensor system usedoil industry well country navy bottom mounted
+hydrophone array towed streamer system use german
+company sennheiser developed microphone working laseroptical fibers
+
+optical fiber sensor temperature pressure developed
+downhole measurement oil well fibre optic sensor well
+suited environment functioning temperaturehigh semiconductor sensorsdistributed temperature sensing
+
+another use optical fibre sensor optical gyroscope
+use boeingand car modelnavigation purpose use hydrogen microsensors
+
+us optical fibers
+
+flying disc illuminated fiber optics
+enlarge
+flying disc illuminated fibre optics
+
+fiber widely used illumination application usedlight guide medical application bright light needs
+brought bear target without clear lineofsight path
+building optical fiber used route sunlightroof part building see nonimaging optic optical
+fibre illumination also used decorative application including
+sign art artificial christmas tree swarovski boutique use
+optical fiber illuminate crystal showcase many
+different angle employing one light source optical fibre
+intrinsic part lighttransmitting concrete building
+product litracon
+
+optical fibre also used imaging optic coherent bundlefiber used sometimes along lens long thin imaging
+device called endoscope used view objectsmall hole medical endoscope used minimally invasive
+exploratory surgical proceduresendoscopy industrial endoscopes
+see fiberscope borescope used inspecting anything hardreach jet engine interiors
+
+optical fibre doped certain rareearth element erbium
+used gain medium laser optical amplifier
+rareearth doped optical fiber used provide signal
+amplification splicing short section doped fibre regular
+undoped optical fiber line doped fibre optically pumpedsecond laser wavelength coupled line additionsignal wave wavelength light transmitteddoped fibre transfer energy second pump wavelengthsignal wave process cause amplificationstimulated emission
+
+optical fiber doped wavelength shifter used collect
+scintillation light physic experiments
+
+optical fibre used supply low level power around one
+watt electronics situated difficult electrical environment
+example electronics highpowered antenna elementmeasurement device used high voltage transmission equipment
+
+principle operation
+
+optical fibre cylindrical dielectric waveguide transmits
+light along axis process total internal reflectionfibre consists core surrounded cladding layer confineoptical signal core refractive index core mustgreater cladding boundary corecladding may either abrupt stepindex fibre gradualgradedindex fibre
+
+multimode fibre
+
+propagation light multimode optical fiber
+enlarge
+propagation light multimode optical fibre
+
+fibre large greater thanm core diameter may analyzedgeometric optic fibre called multimode fibreelectromagnetic analysis see stepindex multimode fibre
+ray light guided along fibre core total internal
+reflection ray meet corecladding boundary high angle
+measured relative line normal boundary greatercritical angle boundary completely reflectedcritical angle minimum angle total internal reflectiondetermined difference index refraction core
+cladding material ray meet boundary low anglerefracted core cladding convey lighthence information along fibre critical angle determinesacceptance angle fibre often reported numerical aperture
+high numerical aperture allows light propagate fiberray close axis various angle allowing efficient
+coupling light fibre however high numerical aperture
+increase amount dispersion ray different angledifferent path length therefore take different time traverse
+fibre low numerical aperture may therefore desirable
+
+gradedindex fiber index refraction core decreases
+continuously axis cladding cause light rays
+bend smoothly approach cladding rather reflecting
+abruptly corecladding boundary resulting curved paths
+reduce multipath dispersion high angle ray paslowerindex periphery core rather highindex
+center index profile chosen minimize difference axial
+propagation speed various ray fibre ideal index
+profile close parabolic relationship indexdistance axis
+
+singlemode fibre
+
+typical singlemode optical fiber showing diameter component
+layers
+enlarge
+typical singlemode optical fibre showing diameter component
+layers
+
+fibre core diameter ten time wavelengthpropagating light cannot modeled using geometric optics
+instead must analyzed electromagnetic structuresolution maxwell equation reduced electromagnetic wave
+equation electromagnetic analysis may also requiredunderstand behavior speckle occur coherent light
+propagates multimode fiber optical waveguide fibre
+support one confined transverse mode lightpropagate along fiber fibre supporting one mode called
+singlemode monomode fiber behavior largercore multimode
+fiber also modeled using wave equation showfiber support one mode propagation hence name
+result modeling multimode fiber approximately agree
+prediction geometric optic fibre core large
+enough support modes
+
+waveguide analysis show light energy fibrecompletely confined core instead especially singlemode
+fiber significant fraction energy bound mode travels
+cladding evanescent wave
+
+common type singlemode fibre core diameter ofto
+designed use near infrared notablemode structure depends wavelength light usedfiber actually support small number additional modevisible wavelength multimode fibre comparison manufactured
+core diameter small asmicrons large hundredmicrons
+
+specialpurpose fibre
+
+specialpurpose optical fibre constructednoncylindrical core andor cladding layer usually elliptical
+rectangular crosssection include polarizationmaintaining
+fibre fibre designed suppress whispering gallery mode
+propagation
+
+materials
+
+glass optical fiber almost always made silicamaterial fluorozirconate fluoroaluminate chalcogenide
+glass used longerwavelength infrared application like
+glass glass refractive index 
+typically difference core cladding one
+percent
+
+plastic optical fibre pof commonly stepindex multimode fiber
+core diameter ofmm larger pof typically much higher
+attenuation glass fibre amplitude signaldecrease fasterdbm higher high attenuation
+limit range pofbased systems
+
+fibre fuse
+
+high optical intensity abovemegawatts per square centimetre
+fibre subjected shock otherwise suddenly damaged
+fibre fuse occur reflection damage vaporizesfibre immediately break new defect remains
+reflective damage propagates back toward transmittermeter per secondthe open fibre control systemensures laser eye safety event broken fiber also
+effectively halt propagation fibre fusein situationundersea cable high power level might used without need
+open fiber control fibre fuse protection devicetransmitter break circuit prevent damage
+
+manufacturing
+
+optical fibre made first constructing largediameter preform
+carefully controlled refractive index profile pulling
+preform form long thin optical fibre preformcommonly made three chemical vapor deposition method inside vapor
+deposition outside vapor deposition vapor axial deposition
+
+inside vapor deposition hollow glass tube approximatelycm
+length known preform placed horizontally rotated
+slowly lathe gas silicon tetrachloride siclgermanium tetrachloride gecl injected oxygen end
+tube gas heated mean external hydrogen
+burner bringing temperature gas tokelvinstetrachloride react oxygen produce silica germania
+germanium oxide particle reaction condition chosenallow reaction occur gas phase throughout tube
+volume contrast earlier technique reaction occurred
+glass surface technique called modified chemical
+vapor deposition
+
+oxide particle agglomerate form large particle chains
+subsequently deposit wall tube sootdeposition due large difference temperaturegas core wall causing gas push particle outwards
+known thermophoresis torch traversedlength tube deposit material evenlytorch reached end tube brought backbeginning tube deposited particle meltedform solid layer process repeated sufficient amount
+material deposited layer compositionvaried varying gas composition resulting precise controlfinished fibre optical properties
+
+outside vapor deposition vapor axial deposition glassformed flame hydrolysis reaction silicon tetrachloride
+germanium tetrachloride oxidized reaction water oxyhydrogen flame outside vapor deposition glassdeposited onto solid rod removed processing
+vapor axial deposition short seed rod used porous
+preform whose length limited size source rodbuilt end porous preform consolidatedtransparent solid perform heating aboutkelvins
+
+preform however constructed placed device knowndrawing tower preform tip heated optic fiberpulled string measuring resultant fiber widthtension fiber controlled maintain fibre thickness
+
+manufacturing process accomplished several fibre optic
+company including corning inc molex addition various
+fiber optic component manufacturer assembly house custom fibre
+optic provider exist
+
+optical fibre cables
+
+practical fiber cladding usually coated tough resin
+buffer layer may surrounded jacket layer
+usually plastic layer add strength fibrecontribute optical wave guide properties
+
+indoor application jacketed fibre generally enclosedbundle flexible fibrous polymer kevlar strength memberlightweight plastic cover form simple cable endcable may terminated specialized optical fibre connectorallow easily connected disconnected transmittingreceiving equipment
+
+use strenuous environment much robust cable
+construction required loosetube construction fiber laid
+helically semirigid tube allowing cable stretch without
+stretching fiber protects fiber tension
+laying due temperature change alternatively fibre
+may embedded heavy polymer jacket commonly called tight
+buffer construction fibre unit commonly bundledadditional steel strength member helical twist allow
+stretching
+
+another critical concern cabling protect fibrecontamination water component hydrogenhydroniumhydroxyl ion diffuse fiber reducing fiber strength
+increasing optical attenuation water kept cable
+use solid barrier copper tube waterrepellant jelly
+recently water absorbing powder surrounding fibre
+
+finally cable may armored protect environmental
+hazard construction work gnawing animal undersea cables
+heavily armored nearshore portion protectboat anchor fishing gear even shark mayattracted electrical power signal carried power
+amplifier repeater cable
+
+modern fiber cable contain thousand fiber single
+cable performance optical network easily accommodates even
+today demand bandwidth pointtopoint basis however
+unused pointtopoint potential bandwidth doe translateoperating profit estimated thanofoptical fibre buried recent year actually lit
+
+modern cable come wide variety sheathing armor designed
+application direct burial trench dual use power
+linesinstallation conduit lashing aerial telephone poles
+submarine installation insertion paved street recent years
+cost small fibrecount pole mounted cable greatly decreased
+due high japanese south korean demand fibre home
+ftth installations
+
+termination splicing
+
+st fiber connector
+enlarge
+st fibre connector
+
+optical fiber connected terminal equipment optical fibre
+connector connector usually standard type sc lc
+
+optical fiber may connected connectorsplicing joining two fiber together form continuous
+optical waveguide generally accepted splicing method arc fusion
+splicing melt fibre end together electric arcquicker fastening job mechanical splice used
+
+fusion splicing done specialized instrument typically
+operates follows two cable end fastened inside splice
+enclosure protect splice fibre endstripped protective polymer coating wellsturdy outer jacket present end cleaved cutprecision cleaver make perpendicular placedspecial holder splicer splice usually inspected viamagnified viewing screen check cleavessplice splicer small motor align end face together
+emits small spark electrode gap burn dust
+moisture splicer generates larger spark raisetemperature melting point glass fusing ends
+together permanently location energy spark carefully
+controlled molten core cladding dont mixminimizes optical loss splice loss estimate measuredsplicer directing light cladding one sidemeasuring light leaking cladding sidesplice loss underdb typical complexity processmajor thing make fibre splicing difficult splicing
+copper wire
+
+mechanical fiber splice designed quicker easierinstall still need stripping careful cleaning
+precision cleaving fibre end aligned held togetherprecisionmade sleeve often using clear gelindex matching gel
+enhances transmission light across joint joints
+typically higher optical loss robust fusion
+splice especially gel used splicing technique involve
+use enclosure splice placed protection
+afterward
+
+fiber terminated connector fiber end heldend face precisely securely fiber optic connectorbasically rigid cylindrical barrel surrounded sleeve holds
+barrel mating socket push click turnlatch threaded typical connector installed preparingfiber end inserting rear connector body quick
+set glue usually used fiber held securely strain
+relief secured rear glue set endpolished mirror finish various type polish profile used
+depending type fiber application singlemode
+fiber fiber end typically polished slight curvature
+connector mated fiber touchcore known physical contact polish curved
+surface may polished angle make angled physical contact
+apc connection connection higher loss connection greatly reduced backreflection lightreflects angled surface leak fibre core
+
+various method align two fiber end one fibreoptical devicevcsel led waveguide etc reported
+follow either active fiber alignment approach passive
+fibre alignment approach
+
+history
+
+history dielectric optical lightguides back victorian
+time total internal reflection principle usedilluminate stream water elaborate public fountain later
+development earlytomid twentieth century focuseddevelopment fibre bundle image transmission primary
+application medical gastroscope first fibre optic
+semiflexible gastroscope patented basil hirschowitz wilbur
+peter lawrence curtis researcher universitymichigan inin process developing gastroscope
+curtis produced first glassclad fiber previous optical fibers
+relied air impractical oil wax lowindex
+cladding material variety image transmission applications
+soon followed
+
+incharles kao george hockham british company
+standard telephone cable first recognizeattenuation contemporary fiber caused impuritycould removed rather fundamental physical effectscattering demonstrated optical fibre could practical
+medium communication attenuation could reduced 
+db per kilometer hechtpby measure first
+practical optical fibre communication invented inby
+researcher robert maurer donald keck peter schultz frank
+zimar working american glass maker corning glass workmanufactured fibre withdb optic attenuation per kilometerdoping silica glass titanium
+
+onaprilgeneral telephone electronics sent first
+live telephone traffic fibre optic atmbits long
+beach california
+
+erbiumdoped fibre amplifier reduced costlongdistance fibre system eliminating needopticalelectricaloptical repeater invented david payneuniversity southampton emmanuel desurvire bell
+laboratory inthe two pioneer awarded benjamin
+franklin medal engineering 
+
+first transatlantic telephone cable use optical fibre tat
+based desurvire optimized laser amplification technology went
+operation 
+
+inthe emerging field photonic crystal led development
+photonic crystal fibre sciencevolpagewhich
+guide light mean diffraction periodic structure rather
+total internal reflection first photonic crystal fibers
+became commercially available inphotonic crystal fiberdesigned carry higher power conventional fibrewavelength dependent property manipulated improveperformance certain applications
+

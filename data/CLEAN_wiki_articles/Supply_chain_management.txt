@@ -1,0 +1,318 @@
+copyright
+
+supply chain management
+
+ school wikipedia selection related subject business
+
+supply chain management scm process planning implementing
+controlling operation supply chain purposesatisfy customer requirement efficiently possible supply chain
+management span movement storage raw materials
+workinprocess inventory finished good pointoforiginpointofconsumption term supply chain management coinedconsultant keith oliver strategy consulting firm booz allen
+hamilton 
+
+definition one america professional association put forwardsupply chain management encompasses planning managementactivity involved sourcing procurement conversion logistics
+management activity importantly also includes coordinationcollaboration channel partner suppliers
+intermediary thirdparty service provider customeressence supply chain management integrates supply demand
+management within across companies
+
+supply chain event management abbreviated scem consideration
+possible occurring event factor causedisruption supply chain scem possible scenariocreated solution planned
+
+expert distinguish supply chain management logisticsothers consider term interchangeable
+
+supply chain management also category software products
+
+supply chain management problems
+
+supply chain management must address following problems
+distribution network configuration number locationsupplier production facility distribution center warehouses
+customers
+distribution strategy centralized versus decentralized direct
+shipment cross docking pull push strategy third party
+logistics
+information integrate system process supply
+chain share valuable information including demand signals
+forecast inventory transportation etc
+inventory management quantity location inventory including
+raw material workinprocess finished goods
+
+supply chain execution managing coordinating movementmaterial information fund across supply chain flowbidirectional
+
+activitiesfunctions
+
+supply chain management crossfunctional approach managingmovement raw material organization movementfinished good organization toward endconsumercorporation strive focus core competency becomeflexible reduced ownership raw material sources
+distribution channel function increasinglyoutsourced corporation perform activity better
+cost effectively effect increase numbercompany involved satisfying consumer demand reducing
+management control daily logistics operation controlsupply chain partner led creation supply chain management
+concept purpose supply chain management improve trust
+collaboration among supply chain partner thus improving inventory
+visibility improving inventory velocity
+
+several model proposed understanding activities
+required manage material movement across organizationalfunctional boundary scor supply chain management model promoted
+supplychain management council another model scm model
+proposed global supply chain forum gscf supply chain
+activity grouped strategic tactical operational
+level activities
+
+strategic
+
+strategic network optimization including number locationsize warehouse distribution center facilities
+strategic partnership supplier distributor customers
+creating communication channel critical informationoperational improvement cross docking direct shipping
+thirdparty logistics
+product design coordination new existing productoptimally integrated supply chain load management
+information technology infrastructure support supply chain
+operations
+make make buy decisions
+align overall organizational strategy supply strategy
+
+tactical
+
+sourcing contract purchasing decisions
+production decision including contracting location scheduling
+planning process definition
+inventory decision including quantity location qualityinventory
+transportation strategy including frequency routecontracting
+benchmarking operation competitorimplementation best practice throughout enterprise
+milestone payments
+
+operational
+
+daily production distribution planning including nodesupply chain
+production scheduling manufacturing facility supply
+chain minute minute
+demand planning forecasting coordinating demand forecast
+customer sharing forecast suppliers
+sourcing planning including current inventory forecast demand
+collaboration suppliers
+inbound operation including transportation supplierreceiving inventory
+production operation including consumption materialflow finished goods
+outbound operation including fulfillment activitytransportation customers
+order promising accounting constraint supply
+chain including supplier manufacturing facilities
+distribution center customers
+
+supply chain management
+
+organization increasingly find must rely effective supply
+chain network successfully compete global marketnetworked economy peter druckersmanagements new
+paradigm concept business relationship extends beyond
+traditional enterprise boundary seek organize entire business
+process throughout value chain multiple companies
+
+past decade globalization outsourcing information
+technology enabled many organization dell hewlett
+packard successfully operate solid collaborative supply networkspecialized business partner focus key
+strategic activity scottthis interorganizational supply
+network acknowledged new form organization however
+complicated interaction among player network
+structure fit neither market hierarchy category powell
+clear kind performance impact different
+supply network structure could firm little known
+coordination condition tradeoff may exist among
+player system point view complex network structure
+decomposed individual component firm zhang dilts
+traditionally company supply network concentrateinput output process little concerninternal management working individual player thereforechoice internal management control structure known impact
+local firm performance mintzberg 
+
+st century change business
+environment contributed development supply chain
+network first outcome globalization proliferationmultinational company joint venture strategic alliancebusiness partnership found significant success factors
+following earlierjustintime lean management agile
+manufacturing practice second technological change particularly
+dramatic fall information communication cost paramount
+component transaction cost led change coordination
+among member supply chain network coase 
+
+many researcher recognized kind supply network
+structure new organization form using term askeiretsu
+extended enterprise virtual corporation global production
+network next generation manufacturing system generalstructure defined group semiindependent
+organization capability collaborateeverchanging constellation serve one market orderachieve business goal specific collaboration akkermans
+
+
+supply chain business process integration
+
+successful scm requires change managing individual functionintegrating activity key supply chain process example
+scenario purchasing department place order requirements
+become appropriate marketing responding customer demand
+communicates several distributor retailer attemptsatisfy demand shared information supply chain partners
+fully leveraged process integration
+
+supply chain business process integration involves collaborative work
+buyer supplier joint product development common systems
+shared information according lambert cooper 
+operating integrated supply chain requires continuous information
+flow turn assist achieve best product flow however
+many company management reached conclusionoptimizing product flow cannot accomplished without
+implementing process approach business key supply chain
+process stated lambertare
+customer relationship management
+customer service management
+demand management
+order fulfillment
+manufacturing flow management
+supplier relationship management
+product development commercialization
+return management
+
+one could suggest key critical supply business processes
+combining process stated lambertcustomer service management
+procurement
+product development commercialization
+manufacturing flow managementsupport
+physical distribution
+outsourcingpartnerships
+performance measurement
+
+customer service management process
+
+customer relationship management concern relationshiporganization customerscustomer service provides sourcecustomer information also provides customer realtime
+information promising date product availabilityinterface company production distribution operations
+successful organization use following step build customer
+relationships
+determine mutually satisfying goal organizationcustomers
+establish maintain customer rapport
+produce positive feeling organization customers
+
+b procurement process
+
+strategic plan developed supplier supportmanufacturing flow management process development new products
+firm operation extend globally sourcing managed
+global basis desired outcome winwin relationshipparty benefit reduction time design cycleproduct development achieved also purchasing function develops
+rapid communication system electronic data interchange edi
+internet linkage transfer possible requirement rapidly
+activity related obtaining product material outside
+supplier requires performing resource planning supply sourcing
+negotiation order placement inbound transportation storagehandling quality assurance also includes responsibilitycoordinate supplier scheduling supply continuity hedging
+research new source programmes
+
+c product development commercialization
+
+customer supplier must united product
+development process thus reduce time market product life
+cycle shorten appropriate product must developedsuccessfully launched ever shorter timeschedules remain
+competitive according lambert coopermanagersproduct development commercialization process must
+coordinate customer relationship management identify
+customerarticulated needs
+select material supplier conjunction procurementdevelop production technology manufacturing flow manufacture
+integrate best supply chain flowproductmarket combination
+
+manufacturing flow management process
+
+manufacturing process produced supply productdistribution channel based past forecast manufacturing processes
+must flexible respond market change must accommodate
+mass customization order process operating justintime
+jit basis minimum lot size also change manufacturing
+flow process lead shorter cycle time meaning improved
+responsiveness efficiency demand customer activities
+related planning scheduling supporting manufacturing
+operation workinprocess storage handling transportation
+time phasing component inventory manufacturing sitemaximum flexibility coordination geographic final
+assembly postponement physical distribution operations
+
+e physical distribution
+
+concern movement finished productservice customerphysical distribution customer final destinationmarketing channel availability productservicevital part channel participant marketing effort also
+physical distribution process time spacecustomer service become integral part marketing thus linkmarketing channel customer link manufacturers
+wholesaler retailers
+
+f outsourcingpartnerships
+
+outsourcing procurement materialcomponent also outsourcing service traditionallyprovided inhouse logic trend company
+increasingly focus activity value chainha distinctive advantage everything else outsourcemovement particularly evident logistics provision
+transport warehousing inventory control increasingly
+subcontracted specialist logistics partner also managecontrol network partner supplier requires blendcentral local involvement hence strategic decision needtaken centrally monitoring control supplier performance
+daytoday liaison logistics partner best managedlocal level
+
+g performance measurement
+
+expert found strong relationship largest arc supplier
+customer integration market share profitability taking
+advantage supplier capability emphasizing longterm supply
+chain perspective customer relationship correlatedfirm performance logistics competency becomes critical
+factor creating maintaining competitive advantage logistics
+measurement becomes increasingly important difference
+profitable unprofitable operation becomes narrow
+kearney consultantsnoted firm engagingcomprehensive performance measurement realized improvement overall
+productivity according expert internal measure generally
+collected analyzed firm including
+cost
+customer service
+productivity measures
+asset measurementquality
+
+external performance measurement examined customer
+perception measure andbest practice benchmarking includes 
+customer perception measurement andbest practice benchmarking
+
+component supply chain management arestandardisation 
+postponementcustomisation
+
+supply chain management component integration
+
+management component scm
+
+scm management component third element foursquare
+circulation framework level integration managementbusiness process link function number level ranging
+low high component added link ellram cooper
+houlihanconsequently adding management components
+increasing level component increase levelintegration business process link literature business
+process reengineering buyersupplier relationship scm suggests
+various possible component must receive managerial attentionmanaging supply relationship lambert cooperidentifiedfollowing componentplanning control
+work structure
+organization structure
+product flow facility structure
+information flow facility structure
+management methods
+power leadership structure
+risk reward structure
+culture attitude
+
+however careful examination existing literaturelead comprehensive structure key
+critical supply chain component branch previous
+identified supply chain business process kindrelationship component may related suppliers
+customer accordingly bowersox closs state emphasis
+cooperation represents synergism leading highest leveljoint achievement bowersox clossa primary level channel
+participant business willing participateinventory ownership responsibility assume aspect financial
+risk thus including primary level component bowersox closs
+secondary level participant specialized businessparticipates channel relationship performing essential services
+primary participant thus including secondary level components
+supporting primary one also third level channel
+participant component may included supportprimary level channel participant fundamental
+branch secondary level components
+
+consequently lambert cooper framework supply chain
+component doe lead conclusionprimary secondary specialized level supply chain componentssee
+bowersox closspgthat supply chain
+component viewed primary secondarycomponent structured order comprehensive
+supply chain structure examine supply chainintegrative one see sectionsand 
+
+baziotopoulos reviewed literature identify supply chain
+component based study baziotopoulossuggestsfollowing supply chain component fig
+customer service management includes primary level
+component customer relationship management secondary level
+component benchmarking order fulfillment
+product development commercialization includes primary
+level component product data management pdm secondary
+level component market share customer satisfaction
+profit margin return stakeholders
+physical distribution manufacturing support procurement
+includes primary level component enterprise resource
+planning erp secondary level component warehouse
+management material management manufacturing planning personnel
+management postponement order management
+performance measurement includes primary level
+component logistics performance measurement correlated
+information flow facility structure withinorganization secondary level component may include four typemeasurement variation direction decision policy
+measurement specifically accordance secondary
+level component total cost analysis tca customer profitability
+analysis cpa asset management could concerned wellgeneral information flow facility structure regarded two
+important requirement planning coordination
+flow boperational requirements
+outsourcing includes primary level componentmanagement method company cuttingedge strategyvital strategic objective company identify adopt
+particular strategic initiative key area technology
+information operation manufacturing capability logistics
+secondary level components
+

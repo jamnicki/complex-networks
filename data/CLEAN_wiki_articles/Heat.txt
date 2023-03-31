@@ -1,0 +1,278 @@
+copyright
+
+heat
+
+ school wikipedia selection related subject general physics
+
+physic heat symbolized defined energy transit
+generally heat form energy transfer associateddifferent motion atom molecule particle comprise
+matter hot cold high temperature bodies
+often result high heat transfer created chemical
+reaction burning nuclear reaction fusion taking
+place inside sun electromagnetic dissipation electric
+stove mechanical dissipation friction heattransferred object radiation conduction convection
+temperature defined measure object spontaneously give
+energy used measure internal energy enthalpy
+level elementary motion giving rise heat transfer
+heat transferred object area withinobject different temperature given zeroth lawthermodynamics absence workdirection colder body per second law thermodynamics
+
+history
+
+first put forward semblance theory heat wagreek philosopher heraclitus lived aroundbc cityephesus ionia asia minor became famous flux fire
+philosopher proverbial utterance thing flowing
+heraclitus argued three principle element naturefire earth water three however fire assignedcentral element controlling modifying twouniverse postulated continuous state fluxpermanent condition change result transformation fire
+heraclitus summarized philosophy thing exchange
+fire
+
+early asbc hippocrates father medicine postulated
+
+
+heat
+
+heat quantity function animate derives internal
+fire located left ventricle
+
+
+heat
+
+hypothesis heat form motion proposed initiallyth century aroundthe english philosopher scientist
+francis bacon surmised
+
+heat
+
+heat essence quiddity motion nothing else
+
+
+heat
+
+echoed midth century view english scientist robert
+hooke stated
+
+
+heat
+
+heat nothing else brisk vehement agitation parts
+body
+
+
+heat
+
+inscottish chemist joseph black discovered ice absorbs heat
+without changing temperature melting concludedheat must combined ice particle become latent
+betweenandhe evolved theory oflatent heatscientific fame chiefly rest also showed different
+substance different specific heat james watt later
+invented watt engine black pupil assistant
+
+direction ability able use heat transfergenerate work allowed invention development steam engine
+people thomas newcomen james watt addition 
+cannon manufacturer sir benjamin thompson count rumford
+demonstrated use friction possible convert
+work heat designed specially shaped cannon barrel
+thoroughly insulated heat loss replaced sharp boring
+tool dull drill bit immersed front part guntank full water using setup amazementonlooker made cold water boil twoandhalfhours time without
+use fire
+
+several theory nature heat developed century johann becher proposed heat associatedundetectable material called phlogiston drivensubstance burnt finally refuted lavosier
+demonstrating importance oxygen burning inhe proposed
+instead caloric theory saw heat type weightless
+invisible fluid moved equilibrium theory
+used inby french engineer sadi carnot published
+reflection motive power fire set forth importanceheat transfer production motive power due actual
+consumption caloric transportation form warm bodycold body reestablishment equilibrium accordingcarnot principle applies machine set motion heat
+
+another theory kinetic theory gas basislaid inby swiss physician mathematician daniel
+bernoulli hydrodynamica work bernoulli first proposed
+gas consist great number molecule movingdirection impact surface cause gas pressurefeel internal energy substance sumkinetic energy associated molecule heat transfer occurs
+region energetic molecule high internal energyle energetic molecule lower internal energy
+
+work joule mayer demonstrated heat workinterchangeable led statement principleconservation energy hermann von helmholtz inclausius
+demonstrated inthat caloric theory could reconciledkinetic theory provided conservation energy employed
+rather movement substance stated first lawthermodynamics
+
+overview
+
+first law thermodynamics heat work processes
+change internal energy substance object heattransfer energy boundary system owing temperature
+gradient unit heat joule formenergy though british thermal unit still occasionally usedunited states
+heat emanating redhot iron rod
+enlarge
+heat emanating redhot iron rod
+
+heat process quantity opposed state quantitythermal energy work mechanical energy heat flows
+region thermal equilibriumspontaneously flow area high temperature area low
+temperature object matter certain amount internal
+energy state quantity related random motionatom molecule two body different temperature comethermal contact exchange internal energytemperature equalized reach thermal
+equilibrium amount energy transferred amount heat
+exchanged common misconception confuse heat internal
+energy heat related change internal energy work
+performed system term heat used describe flowenergy term internal energy used describe energy
+
+common usage term heat denotes warmth hotnesssurrounding object used mean object high
+temperature concept warm object contain heatuncommon hot nearly always used relative term object
+hot compared surroundings person usingterm high temperature directly associated high heat
+transfer
+
+amount heat transferred objecttemperature varies one degree called heat capacity heat
+capacity specific every object substancereferred quantity unit mass mole heat exchanged
+per degree termed specific heat depends primarilycomposition physical state phase object fuel generate
+predictable amount heat burned heat known heating
+value expressed per unit quantity upon changing one
+phase another pure substance exchange heat withouttemperature suffering change amount heat exchangedphase change known latent heat depends primarilysubstance initial final phase
+
+notation
+
+total amount energy transferred heat transferconventionally abbreviated conventional sign conventionbody release heat surroundings qwhenbody absorbs heat surroundings qheat transfer rate
+heat flow per unit time denoted
+dotqdqover 
+measured watt heat flux defined rate heat transfer
+per unit crosssectional area denoted resulting unitwatt per metre squared slightly different notation conventionused may denote heat flux example dotq 
+
+thermodynamics
+
+heat related internal energy system work done
+system first law thermodynamics
+
+delta uqw 
+
+mean energy system change either via workvia heat transfer heat ideal gas constant pressure
+increase internal energy performs boundary work allowscontrol volume gas become larger smaller provided volume
+constrained returning first law equation separating
+work term two type boundary work shaft
+work performed compressor fan yield following
+
+delta uwboundaryqwother
+
+combined quantity uwboundary enthalpy onethermodynamic potential enthalpy internal energy ustate function state function return initial value upon
+completion cycle cyclic process heat
+engine contrast neither w property systemneed sum zero step cycle infinitesimal
+expression heat form inexact differential processes
+involving work however process involving change volume
+applied magnetic field external parameter formexact differential likewise adiabatic process heat
+transfer expression work form exact differentialprocess involving transfer heat form inexact differential 
+
+change enthalpy internal energy related heat
+capacity gas constant pressure volume respectivelywork heatq required change temperaturegas initial temperature final temperature depends relationship
+
+qintttfcpdt 
+
+constant pressure whereas constant volume
+
+qintttfcvdt 
+
+incompressible substance solid liquiddistinction among two expression nearly
+incompressible heat capacity extensive quantitydependent number molecule systemrepresented product mass mand specific heat capacity according
+cpmcs 
+
+dependent number mole molar heat capacity according
+cpncn 
+
+molar specific heat capacity dependent upon internal
+degree freedom system external properties
+volume number molecules
+
+specific heat monatomic gas helium nearly
+constant temperature diatomic gas hydrogen displaytemperature dependence triatomic gas carbon dioxide
+still
+liquid sufficiently low temperature quantum effect become
+significant example behaviour boson helium
+substance behaviour heat capacity temperaturediscontinuous boseeinstein condensation point
+
+quantum behaviour solid adequately characterizeddebye model temperature well characteristic debye
+temperature solid lattice specific heat proportional
+cube absolute temperature second smaller term needed
+complete expresssion lowtemperature metalconduction electron example fermidirac statistics
+
+change phase
+
+boiling point water sea level normal atmospheric
+pressure temperature always nearlyc mattermuch heat added extra heat change phase waterliquid water vapor heat added change phasesubstance way said hidden thus called
+latent heat latin latere meaning lie hidden latent
+heat heat per unit mass necessary change state given
+substance
+lfracqdelta 
+
+
+qintmm ldm 
+
+note pressure increase rise slightly moamount mass initially new phase amountmass end new phase alsol generally doe dependamount mass change phase equation normallywritten
+
+qldelta 
+
+sometimes timedependent pressure volume changing
+time integral written
+qint lfracdmdtdt 
+
+heat transfer mechanisms
+
+mentioned previously heat tends move high temperature
+region low temperature region heat transfer may occurmechanism conduction radiation engineering term
+convective heat transfer used describe combined effectconduction fluid flow regarded third mechanism heat
+transfer
+
+conduction
+
+conduction significant mean heat transfer solid
+microscopic scale conduction occurs hot rapidly movingvibrating atom molecule interact neighboring atommolecule transferring energy heatneighboring atom insulator heat flux carried almost
+entirely phonon vibrations
+
+electron fluid conductive metallic solid conduct nearlyheat flux solid phonon flux still presentcarry thanof energy electron also conduct electric
+current conductive solid thermal electrical
+conductivity metal ratio good
+electrical conductor copper usually also conduct heat well
+peltierseebeck effect exhibit propensity electronconduct heat electrically conductive solid
+thermoelectricity caused relationship electron heat
+flux electrical currents
+
+convection
+
+convection usually dominant form heat transfer liquidgas term used characterize combined effectconduction fluid flow convection enthalpy transfer occursmovement hot cold portion fluid together heat
+transfer conduction example water heated stove
+hot water bottom pan rise heating watertop pan two type convection commonly distinguished
+free convection gravity buoyancy force drive fluid
+movement forced convection fan stirrer means
+used move fluid buoyant convection effects
+gravity hence doe occur microgravity environments
+
+radiation
+
+radiation form heat transfer occurabsence form medium mean heat
+transfer vacuum thermal radiation direct resultmovement atom molecule material since atommolecule composed charged particle proton electrons
+movement result emission electromagnetic radiation
+carry energy away surface timesurface constantly bombarded radiation surroundings
+resulting transfer energy surface since amountemitted radiation increase increasing temperature net transfer
+energy higher temperature lower temperature results
+
+frequency emitted photon described planck
+distribution black body higher temperature emit photons
+distributional peak higher frequency colder
+object respective spectral peak separated according
+wiens displacement law photosphere suntemperature approximatelyk emits radiation principallyvisible portion spectrum solar radiation incident uponearth atmosphere largely passed surfaceatmosphere largely transparent visible spectrum howeverinfrared spectrum characteristic blackbody temperature earth atmosphere largely opaqueblackbody radiation earth surface absorbed scatteredatmosphere though radiation escape spaceradiation absorbed subsequently emitted atmospheric gasspectral selectivity atmosphere responsibleplanetary greenhouse effect
+
+behaviour common household lightbulb spectrum
+overlapping blackbody spectrum sun earth portion
+photon emitted tungsten light bulb filament lie
+visible spectrum however majority photonic energy
+associated longer wavelength transfer heatenvironment deduced empirically observing household
+incandescent lightbulb whenever radiation emittedabsorbed heat transferred principle used microwave
+oven laser cutting hair removal
+
+heat transfer mechanisms
+
+latent heat transfer heat physical changemedium watertoice watertosteam involves significant
+energy exploited many way steam engine refrigerator
+etc see latent heat fusion
+heat pipe using latent heat capillary action move heatcarry many time much heat similar sized copper rod
+originally invented use satellite startingapplication personal computers
+
+heat dissipation
+
+cold climate house heating system form dissipative
+system spite effort insulate house reduce heat
+loss exterior considerable heat lost dissipated
+make interior uncomfortably cool cold
+furthermore interior house must maintainedthermal equilibrium external surroundings comfortinhabitant effect domestic residence oasis warmthsea cold thermal gradient inside outsideoften quite steep lead problem condensationuncomfortable draught left unaddressed cause structural
+damage property modern insulation techniquerequired reduce heat loss
+
+house thermostat device capable startingheating system house interior fall set temperature
+stopping system another higher set temperature
+ha achieved thus thermostat control flow energyhouse energy eventually dissipated exterior

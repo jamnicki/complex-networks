@@ -1,0 +1,233 @@
+copyright
+
+shielded metal arc welding
+
+ school wikipedia selection related subject engineering
+
+
+featured article click information
+shielded metal arc welding
+enlarge
+shielded metal arc welding
+
+shielded metal arc welding smaw also known manual metal arc mma
+welding informally stick welding manual arc welding process
+us consumable electrode coated flux lay weldelectric current form either alternating current direct
+current welding power supply used form electric arc
+electrode metal joined weld laid
+flux coating electrode disintegrates giving vaporserve shielding gas providing layer slagprotect weld area atmospheric contamination
+
+versatility process simplicityequipment operation shielded metal arc welding oneworld popular welding process dominates welding
+process maintenance repair industry though fluxcored
+arc welding growing popularity smaw continues used
+extensively construction steel structure industrial
+fabrication process used primarily weld iron steels
+including stainless steel aluminium nickel copper alloyalso welded method
+
+development
+
+discovery electric arc inby humphry davy arc
+welding began develop slowly end centuryearly welding process called carbon arc welding developed nikolai
+n benardos stanislaus olszewski awarded patentshowing rudimentary electrode holder later inc coffin
+received patent arc welding method utilized metal
+electrode process like smaw deposited melted electrode metal
+serving filler metal weld
+
+around turn century strohmenger oscar
+kjellberg released first coated electrode strohmenger used clay
+lime coating stabilize arc kjellberg dipped iron
+wire mixture carbonate silicate coat electrode
+instrohmenger released heavily coated electrodehigh cost complex production method none early
+electrode became popular inhowever extrusion processreleased reduced cost coating electrode openingdoor complex coating mixture designed specific
+application later use iron powderelectrode covering became popular making possible increasewelding speed
+
+ink madsen described automated variation smawknown gravity welding briefly gained popularityreceiving publicity use japanese shipyard however
+today application limited another little used variationprocess known firecracker welding developed aroundtime george haferguy austria
+
+operation
+
+smaw weld area
+enlarge
+smaw weld area
+
+strike electric arc electrode brought contactworkpiece short sweeping motion pulled away slightly
+initiate arc thus melting workpiececonsumable electrode cause droplet electrode passed
+electrode weld pool electrode melt flux
+covering disintegrates giving vapor protect weld area
+oxygen atmospheric gas addition flux provides
+molten slag cover filler metal travelelectrode weld pool part weld pool slag floats
+surface protects weld contaminationsolidifies hardened must chipped away revealfinished weld welding progress electrode meltwelder must periodically stop welding remove remaining electrode
+stub insert new electrode electrode holderactivity combined chipping away slag reduce amounttime welder spend laying weld making smaw oneleast efficient welding process general operator factorpercentage operator time spent laying weld approximately
+
+
+actual welding technique utilized depends electrodecomposition workpiece position jointwelded choice electrode welding position also determinewelding speed flat weld require least operator skilldone electrode melt quickly solidify slowlypermit higher welding speed sloped vertical upsidedown welding
+requires operator skill often necessitates useelectrode solidifies quickly prevent molten metalflowing weld pool however generally meanelectrode melt quickly thus increasing time required lay
+weld
+
+quality
+
+common quality problem associated smaw include weld
+spatter porosity poor fusion shallow penetration cracking weld
+spatter affecting integrity weld damageappearance increase cleaning cost causedexcessively high current long arc arc blow condition
+associated direct current characterized electric arcdeflected away weld pool magnetic force arc blow also
+cause porosity weld joint contamination high welding
+speed long welding arc especially lowhydrogen electrodes
+used porosity often visible without use advanced
+nondestructive testing method serious concernpotentially weaken weld another defect affecting strengthweld poor fusion though often easily visiblecaused low current contaminated joint surface useimproper electrode shallow penetration another detriment weld
+strength addressed decreasing welding speed increasingcurrent using smaller electrodeweldstrengthrelated defect make weld prone crackingfactor involved well high carbon alloy sulfur
+content base material lead cracking especiallylowhydrogen electrode preheating employed furthermore
+workpiece excessively restrained introduces
+residual stress weld cause cracking weld
+cools
+
+safety
+
+sma welding like welding method dangerousunhealthy practice proper precaution taken process
+us open electric arc presenting risk burnprevented personal protective equipment form heavy leather
+glove long sleeve jacket additionally brightnessweld area lead condition called arc eye ultraviolet
+light cause inflammation cornea burn retinaeye welding helmet dark face plate worn prevent
+exposure recent year new helmet modelproduced feature face plate selfdarkens upon exposurehigh amount light protect bystander especiallyindustrial environment transparent welding curtain often surround
+welding area curtain made polyvinyl chloride plastic
+film shield nearby worker exposure lightelectric arc used replace filter glass used
+helmets
+
+addition vaporizing metal flux material expose welderdangerous gas particulate matter smoke produced contains
+particle various type oxide size particlequestion tends influence toxicity fume smaller
+particle presenting greater danger additionally gas like carbon
+dioxide ozone form prove dangerous ventilationinadequate
+
+application
+
+shielded metal arc welding one world popular welding
+process accounting half welding countries
+versatility simplicity particularly dominant
+maintenance repair industry heavily usedconstruction steel structure industrial fabricationrecent year use declined fluxcored arc weldingexpanded construction industry gas metal arc weldingbecome popular industrial environment howeverlow equipment cost wide applicability process likely
+remain popular especially among amateur small businessspecialized welding process uneconomical unnecessary
+
+smaw often used weld carbon steel low high alloy steel
+stainless steel cast iron ductile iron popularnonferrous material used nickel copperalloy rare case aluminium thickness material
+welded bounded low end primarily skillwelder rarely doe drop belowinmm upper bound
+exists proper joint preparation use multiple passes
+material virtually unlimited thickness joined
+furthermore depending electrode used skillwelder smaw used position
+
+equipment
+
+smaw system setup
+enlarge
+smaw system setup
+
+shielded metal arc welding equipment typically consists constant
+current welding power supply electrode electrode
+holder work clamp welding cable also known welding leads
+connecting two
+
+power supply
+
+power supply used smaw constant current output ensuring
+current thus heat remains relatively constant even
+arc distance voltage change importantapplication smaw manual requiring operator holdtorch maintaining suitably steady arc distance difficultconstant voltage power source used instead since cause
+dramatic heat variation make welding difficult however
+current maintained absolutely constant skilled
+welder performing complicated weld vary arc length cause
+minor fluctuation current
+
+preferred polarity smaw system depends primarily uponelectrode used desired property weld direct
+current negatively charged electrode dcen cause heat build
+electrode increasing electrode melting ratedecreasing depth weld reversing polarityelectrode positively charged workpiece negatively charged
+increase weld penetration alternating current polarity
+change overtime per second creating even heat distribution
+providing balance electrode melting rate penetration
+high output welding power supply smaw gtaw
+enlarge
+high output welding power supply smaw gtaw
+
+typically equipment used smaw consists stepdown
+transformer rectifier converting alternating currentdirect current power normally supplied welding
+machine highvoltage alternating current welding transformerused reduce voltage increase current result
+instead ofv ata example power suppliedtransformer aroundv current toa numberdifferent type transformer used produce effect
+including multiple coil inverter machine usingdifferent method manipulate welding current multiple coil
+type adjusts current either varying number turncoil taptype transformer varying distanceprimary secondary coil movable coil movable core
+transformer inverter smaller thus portable use
+electronic component change current characteristics
+
+electrical generator alternator frequently used portable
+welding power supply lower efficiency greater
+cost frequently used industry maintenance also
+tends difficult complexity usingcombustion engine power source however one sensesimpler use separate rectifier unnecessaryprovide either dc
+
+electrode
+
+various welding electrode electrode holder
+enlarge
+various welding electrode electrode holder
+
+choice electrode smaw depends number factors
+including weld material welding position desired weld
+property electrode coated metal mixture called flux
+give gas decomposes prevent weld contamination
+introduces deoxidizers purify weld cause weldprotecting slag
+form improves arc stability provides alloying elementimprove weld quality electrode divided three
+groupsthose designed melt quickly called fastfill
+electrode designed solidify quickly called fastfreeze
+electrode intermediate electrode name fillfreezefastfollow electrode fastfill electrode designed melt
+quickly welding speed maximized fastfreeze
+electrode supply filler metal solidifies quickly making welding
+variety position possible preventing weld poolshifting significantly solidifying
+
+composition electrode core generally similarsometimes identical base material even thoughnumber feasible option exist slight difference alloy
+composition strongly impact property resulting weld
+especially true alloy steel hsla steel likewise
+electrode composition similar base materialoften used welding nonferrous material like aluminium copper
+however sometimes desirable use electrode core
+material significantly different base material example
+stainless steel electrode sometimes used weld two piececarbon steel often utilized weld stainless steel workpieces
+carbon steel workpieces
+
+electrode coating consist number different compounds
+including rutile calcium fluoride cellulose iron powder rutile
+electrode made oftio characterized ease use
+good appearance resulting weld however create welds
+high hydrogen content encouraging embrittlement cracking
+electrode containing calcium fluoride caf sometimes knownbasic lowhydrogen electrode hygroscopic must storeddry condition produce strong weld coarseconvexshaped joint surface electrode made cellulose especially
+combined rutile provide deep weld penetrationhigh moisture content special procedure must usedprevent excessive risk cracking finally iron powder common
+coating additive improves productivity electrode
+sometimes much doubling yield
+
+identify different electrode american welding society
+established system assigns electrode four fivedigit
+number covered electrode made mild low alloy steel carryprefix followed number first two three digitnumber specify tensile strength weld metal thousand
+pound per square inch ksi penultimate digit generally
+identifies welding position permissible electrode
+typically using valuesnormally fastfreeze electrode implying
+position welding andnormally fastfill electrode implying
+horizontal welding welding current type electrode
+covering specified last two digit togetherapplicable suffix used denote alloying elementcontributed electrode
+
+common electrode include fastfreeze allposition
+electrode minimum tensile strength ofksimpaoperated using dcep cousin similar except used
+alternating current fastfill electrode used
+primarily make flat horizontal weld using dcen dcep
+example fillfreeze electrode e eprovide compromise fast welding speedallposition welding
+
+process variations
+
+though smaw almost exclusively manual arc welding process one
+notable process variation exists known gravity welding gravity
+arc welding serf automated version traditional
+shielded metal arc welding process employing electrode holder
+attached inclined bar along length weld started
+process continues electrode spent allowingoperator manage multiple gravity welding system electrodes
+employed often e coated heavily fluxtypicallyinm length aboutinmm thickmanual smaw constant current welding power supply usedeither negative polarity direct current alternating current
+
+due rise use semiautomatic welding processfluxcored arc welding popularity gravity welding falleneconomic advantage method often minimalsmawrelated method even frequently used include
+firecracker welding automatic method making butt fillet
+weld massive electrode welding process welding large
+component structure deposit tolbkg weld
+metal per hour
+retrieved 
+httpenwikipediaorgwikishieldedmetalarcwelding
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

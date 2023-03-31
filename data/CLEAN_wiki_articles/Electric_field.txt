@@ -1,0 +1,189 @@
+copyright
+
+electric field
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+
+physic space surrounding electric charge property
+called electric field electric field exerts forcecharged object concept electric field introducedmichael faraday
+
+electric field vector unit newton per coulomb c equivalently volt per meter directionfield point defined direction electric force
+exerted positive test charge placed point strengthfield defined ratio electric force chargepoint magnitude charge placed point electric
+field contain electrical energy energy density proportionalsquare field intensity electric field chargeacceleration mass force density volume
+
+moving charge electric field also magnetic
+field general electric magnetic fieldcompletely separate phenomenon one observer perceiveselectric field another observer different frame reference
+perceives mixture electric magnetic fieldreason one speaks electromagnetism electromagnetic fields
+quantum mechanic disturbance electromagnetic fieldcalled photon energy photon quantized
+
+definition electrostatics
+
+electric field defined electric force per unit chargedirection field taken direction forcewould exert positive test charge electric field radially
+outward positive charge radially toward negative point
+charge
+
+electric field defined proportionality constantcharge force word force per unit test charge
+
+vecefracvecfq
+
+
+vecf electric force given coulomb law
+q charge test charge
+
+however note equation true caseelectrostatics say nothing movinggeneral case moving charge cause equation becomelorentz force equation
+
+coulomb law
+
+electric field surrounding point charge given coulombs
+law
+
+vece frac varepsilonfracqrhatr
+
+
+q charge particle creating electric field
+r distance particle charge efield
+evaluation point
+hatr unit vector pointing particlecharge efield evaluation point
+varepsilon permittivity free space
+
+coulomb law actually special case gauss lawfundamental description relationship distributionelectric charge space resulting electric field gauss law
+one maxwell equation set four law governing
+electromagnetics
+
+property electrostatics
+
+illustration electric field surrounding positive rednegative green charge larger image
+illustration electric field surrounding positive rednegative green charge larger image
+
+according equationabove electric field dependentposition electric field due single charge fallsquare distance charge
+
+electric field follow superposition principle one
+charge present total electric field point equalvector sum respective electric field object would
+create absence others
+
+vecerm totalsumi veceivecevece 
+vece ldots 
+
+principle extended infinite number infinitesimally
+small element charge following formula results
+
+vecefracpivarepsilon intfracrhor
+hatrmathrmdv
+
+
+charge density amount charge per unit
+volume
+
+electric field point equal negative gradientelectric potential symbols
+
+vecevecnablaphi
+
+
+xyz scalar field representing electric potential
+given point
+
+several spatially distributed charge generate electric
+potential solid electric field gradient may alsodefined
+
+considering permittivity varepsilon material may
+differ permittivity free space varepsilonthe
+electric displacement field
+vecdvarepsilon vece
+
+energy electric field
+
+electric field store energy energy density electric
+field given
+ufrac varepsilon vece
+
+
+varepsilon permittivity medium field
+exists
+vece electric field vector
+
+total energy stored electric field given volume vtherefore
+
+intv frac varepsilon vecemathrmdv
+
+
+dv differential volume element
+
+parallel electrostatics gravity
+
+coulomb law describes interaction electric charges
+
+vecffrac varepsilonfracqqrhatr 
+qvece
+
+similar newtonian gravitation law
+
+vecfgfracmmrhatrmvecg
+
+suggests similarity electric field egravitational field sometimes mass called gravitational
+charge
+
+similarity electrostatic gravitational forces
+act vacuum
+central conservative
+obey inversesquare law inversely proprotionalsquare propagate finite speed 
+difference electrostatic gravitational forces
+electrostatic force much greater gravitational forceabouttimes
+gravitational force always attractive nature whereas
+electrostatic force may either attractive repulsive
+gravitational force independent medium whereas
+electrostatic force depend medium due fact
+medium contains charge fast motion charges
+response external electromagnetic field produce large
+secondary electromagnetic field accountedslow motion ordinary mass response changing
+gravitational field produce extremely weak secondary
+gravimagnetic field may neglected case except
+course mass move relativistic speeds
+
+timevarying fields
+
+charge produce electric field movegenerate magnetic field magnetic field changegenerates electric field secondary electric fieldcomputed using faraday law induction
+
+vecnabla time vecefracpartial vecb partial
+
+
+vecnabla time vece indicates curl electric
+field
+fracpartial vecb partial represents vector rate
+decrease magnetic flux density time
+
+mean magnetic field changing time produce curled
+electric field possibly also changing time situationelectric magnetic field change time longer electrostatics
+rather electrodynamics electromagnetics
+

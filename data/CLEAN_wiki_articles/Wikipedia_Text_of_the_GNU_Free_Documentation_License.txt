@@ -1,0 +1,276 @@
+copyright
+
+wikipediatext gnu free documentation license
+
+ school wikipedia selection related subject website internet
+
+versionnovember 
+
+copyright cfree software foundation inc
+franklin fifth floor boston mausa
+everyone permitted copy distribute verbatim copies
+license document changing allowed
+
+ preamble
+
+purpose license make manual textbookfunctional useful document free sense freedomassure everyone effective freedom copy redistributewithout modifying either commercially noncommercially
+secondarily license preserve author publisher way
+get credit work considered responsible
+modification made others
+
+license kind copyleft mean derivative works
+document must free sensecomplement gnu general public license copyleft license
+designed free software
+
+designed license order use manual free
+software free software need free documentation free
+program come manual providing freedomsoftware doe license limited software manualused textual work regardless subject matterwhether published printed book recommend license
+principally work whose purpose instruction reference
+
+ applicability definitions
+
+license applies manual work mediumcontains notice placed copyright holder sayingdistributed term license notice grantworldwide royaltyfree license unlimited duration usework condition stated herein document refers
+manual work member public licenseeaddressed accept license copy modifydistribute work way requiring permission copyright law
+
+modified version document mean work containingdocument portion either copied verbatimmodification andor translated another language
+
+secondary section named appendix frontmatter sectiondocument deal exclusively relationshippublisher author document document overall subject
+related matter contains nothing could fall directly
+within overall subject thus document parttextbook mathematics secondary section may explainmathematics relationship could matter historical
+connection subject related matter legal
+commercial philosophical ethical political position regarding
+
+invariant section certain secondary section whose titles
+designated invariant section notice
+say document released licensesection doe fit definition secondaryallowed designated invariant document may contain zero
+invariant section document doe identify invariant
+section none
+
+cover text certain short passage text listed
+frontcover text backcover text notice saydocument released license frontcover text maymostwords backcover text may mostwords
+
+transparent copy document mean machinereadable copy
+represented format whose specification available general
+public suitable revising document straightforwardly
+generic text editor image composed pixel generic
+paint program drawing widely available drawing editor
+suitable input text formatters automatic
+translation variety format suitable input text
+formatters copy made otherwise transparent file format whose
+markup absence markup arranged thwart discourage
+subsequent modification reader transparent image format
+transparent used substantial amount text copy
+transparent called opaque
+
+example suitable format transparent copy include plain ascii
+without markup texinfo input format latex input format sgml xml
+using publicly available dtd standardconforming simple html
+postscript pdf designed human modification exampletransparent image format include png xcf jpg opaque formats
+include proprietary format read editedproprietary word processor sgml xml dtd andor
+processing tool generally available machinegenerated
+html postscript pdf produced word processor output
+purpose
+title page mean printed book title page plus
+following page needed hold legibly materiallicense requires appear title page work formats
+title page title page mean text
+near prominent appearance work title precedingbeginning body text
+
+section entitled xyz mean named subunit document whose
+title either precisely xyz contains xyz parenthesis following
+text translates xyz another language xyz standspecific section name mentioned acknowledgements
+dedication endorsement history preserve title
+section modify document mean remainssection entitled xyz according definition
+
+document may include warranty disclaimer next noticestate license applies document warranty
+disclaimer considered included reference license
+regard disclaiming warranty implicationwarranty disclaimer may void effectmeaning license
+
+ verbatim copying
+
+may copy distribute document medium either
+commercially noncommercially provided licensecopyright notice license notice saying license applies
+document reproduced copy addcondition whatsoever license may use
+technical measure obstruct control readingcopying copy make distribute however may accept
+compensation exchange copy distribute large enough
+number copy must also follow condition section 
+
+may also lend copy condition statedmay publicly display copies
+
+ copying quantity
+
+publish printed copy copy medium commonlyprinted cover document numbering thananddocument license notice requires cover text must enclosecopy cover carry clearly legibly cover
+text frontcover text front cover backcover textback cover cover must also clearly legibly identifypublisher copy front cover must present full
+title word title equally prominent visiblemay add material cover addition copying changes
+limited cover long preserve titledocument satisfy condition treated verbatim
+copying respects
+
+required text either cover voluminous fit
+legibly put first one listed many fit
+reasonably actual cover continue rest onto adjacent
+pages
+
+publish distribute opaque copy document numbering
+thanyou must either include machinereadable transparent
+copy along opaque copy state opaque copy
+computernetwork location general networkusing public
+ha access download using publicstandard network protocolcomplete transparent copy document free added materialuse latter option must take reasonably prudent stepbegin distribution opaque copy quantity ensuretransparent copy remain thus accessible stated
+location least one year last time distributeopaque copy directly agent retaileredition public
+
+requested required contact authordocument well redistributing large number copy give
+chance provide updated version document
+
+ modifications
+
+may copy distribute modified version documentcondition sectionsandabove provided releasemodified version precisely license modified
+version filling role document thus licensing distribution
+modification modified version whoever posse copyaddition must thing modified version
+use title page cover title
+distinct document previous
+version listed history
+section document may use title previous
+version original publisher version give permission
+b list title page author one personentity responsible authorship modificationmodified version together least five principal
+author document principal authorfewer five unless release requirement
+c state title page name publishermodified version publisher
+preserve copyright notice document
+e add appropriate copyright notice modifications
+adjacent copyright notices
+f include immediately copyright notice license
+notice giving public permission use modified version
+term license form shown addendum
+g preserve license notice full list invariant
+section required cover text given document license
+notice
+h include unaltered copy license
+preserve section entitled history preserve titleadd item stating least title year new authors
+publisher modified version given title page
+section entitled history document create
+one stating title year author publisher document
+given title page add item describingmodified version stated previous sentence
+j preserve network location given documentpublic access transparent copy document likewise
+network location given document previous versions
+wa based may placed history sectionmay omit network location work published least
+four year document original publisher
+version refers give permission
+k section entitled acknowledgement dedications
+preserve title section preserve sectionsubstance tone contributor acknowledgements
+andor dedication given therein
+l preserve invariant section document unaltered
+text title section numberequivalent considered part section titles
+delete section entitled endorsement section may
+included modified version
+n retitle existing section entitled
+endorsement conflict title invariant section
+preserve warranty disclaimers
+
+modified version includes new frontmatter sectionappendix qualify secondary section contain material
+copied document may option designatesection invariant add titlelist invariant section modified version license notice
+title must distinct section titles
+
+may add section entitled endorsement provided contains
+nothing endorsement modified version various
+partiesfor example statement peer review textapproved organization authoritative definitionstandard
+
+may add passage five word frontcover textpassage towords backcover text end list
+cover text modified version one passage frontcover
+text one backcover text may addedarrangement made one entity document already includes
+cover text cover previously addedarrangement made entity acting behalfmay add another may replace old one explicit
+permission previous publisher added old one
+
+author publisher document license
+give permission use name publicity assertimply endorsement modified version
+
+ combining documents
+
+may combine document document releasedlicense term defined sectionabove modified
+version provided include combinationinvariant section original document unmodifiedlist invariant section combined worklicense notice preserve warranty disclaimers
+
+combined work need contain one copy licensemultiple identical invariant section may replaced single
+copy multiple invariant section namedifferent content make title section uniqueadding end parenthesis name original
+author publisher section known else unique number
+make adjustment section title list invariant
+section license notice combined work
+
+combination must combine section entitled historyvarious original document forming one section entitled history
+likewise combine section entitled acknowledgementsection entitled dedication must delete section entitled
+endorsements
+
+ collection documents
+
+may make collection consisting documentdocument released license replace individual
+copy license various document single copyincluded collection provided follow rulelicense verbatim copying documentrespects
+
+may extract single document collectiondistribute individually license provided insertcopy license extracted document followlicense respect regarding verbatim copyingdocument
+
+ aggregation independent works
+
+compilation document derivative separate
+independent document work volume storagedistribution medium called aggregate copyright
+resulting compilation used limit legal rightcompilation user beyond individual work permitdocument included aggregate license doe apply
+work aggregate derivative
+work document
+
+cover text requirement sectionis applicablecopy document document one halfentire aggregate document cover text may placedcover bracket document within aggregateelectronic equivalent cover document electronic form
+otherwise must appear printed cover bracket whole
+aggregate
+
+ translation
+
+translation considered kind modification may distribute
+translation document term sectionreplacing
+invariant section translation requires special permissioncopyright holder may include translationinvariant section addition original versioninvariant section may include translation licenselicense notice document warranty disclaimers
+provided also include original english versionlicense original version notice disclaimercase disagreement translation original version
+license notice disclaimer original versionprevail
+
+section document entitled acknowledgements
+dedication history requirement sectionto preserve
+title sectionwill typically require changing actual title
+
+ termination
+
+may copy modify sublicense distribute document except
+expressly provided license attemptcopy modify sublicense distribute document voidautomatically terminate right license however
+party received copy rightlicense license terminated long parties
+remain full compliance
+
+ future revision license
+
+free software foundation may publish new revised versiongnu free documentation license time time new versions
+similar spirit present version may differdetail address new problem concern see
+httpwwwgnuorgcopyleft
+
+version license given distinguishing version number
+document specifies particular numbered versionlicense later version applies optionfollowing term condition either specified versionlater version published draftfree software foundation document doe specify version
+number license may choose version ever publisheddraft free software foundation
+
+use license documents
+
+use license document written include copylicense document put following copyright license
+notice title page
+
+copyright year name
+permission granted copy distribute andor modifydocument
+term gnu free documentation license version
+
+later version published free software foundation
+invariant section frontcover textbackcover texts
+copy license included section entitled gnu
+free documentation license
+
+invariant section frontcover text backcover texts
+replace withtexts line
+invariant section list titlefrontcover text list backcover texts
+list
+
+invariant section without cover textcombination three merge two alternative suitsituation
+
+document contains nontrivial example program coderecommend releasing example parallel choicefree software license gnu general public licensepermit use free software
+
+spoken article click listen
+retrieved 
+httpenwikipediaorgwikiwikipediatextofthegnufreedocumentati
+onlicense
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

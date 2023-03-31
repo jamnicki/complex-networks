@@ -1,0 +1,167 @@
+copyright
+
+rot
+
+ school wikipedia selection related subject cryptography
+
+
+featured article click information
+rot replaces letter partnercharacters along
+alphabet example hello becomes uryyb decrypting uryyb
+becomes helloenlarge
+rot replaces letter partnercharacters along
+alphabet example hello becomes uryyb decrypting uryyb
+becomes hello
+rot rotate byplaces usually hyphenated rot simple
+caesar cipher used obscuring text replacing letterletter thirteen place alphabet becomes b becomesbecomes sequence revers becomes
+becomes z becomes algorithm used
+online forum mean hiding joke punchlines puzzle
+solution movie story spoiler offensive materialcasual glance rot described theusenet equivalentmagazine printing answer quiz upside downthe name rot
+originated usenet early method become facto standard caesar cipher method encryption thousandyear old rot provides real cryptographic securityused fact often used canonical exampleweak encryption additional feature ciphersymmetrical undo rot algorithm appliedcode used encoding decoding
+
+description
+
+applying rot piece text merely requires examiningalphabetic character replacing one letterplaces
+along alphabet wrapping back beginningnecessary preserving case becomes b becomes forth
+z becomes letter occur latin
+alphabet affected number symbol whitespacecharacter left unchanged areletterslatin alphabet andthe rot function inverse
+
+rotrotxrotxx text 
+word two successive application rot restoreoriginal text mathematics sometimes called involution
+cryptography reciprocal cipher
+
+transformation done using lookup tablefollowing
+abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz
+nopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijklm
+
+example following joke answer punchline haobscured rot
+tell extrovertintrovert atnsa gur ryringbef
+gur rkgebireg ybbxf gur bgure thlf fubrf
+
+transforming entire text via rot form answer jokerevealed
+ubj pna lbh gryy rkgebireg sebz vagebireg afn elevators
+extrovert look guy shoes
+
+second application rot would restore original
+
+history
+
+rot originated netjokes newsgroup earlyeffort provide voluntary mean hide joke readers
+might found offensive obscure punchline joke
+keep read soon previous attempt categorize
+offensive joke putting separate newsgroups failed 
+site manager want seen condoning postingcreating special place rot convenient solution
+simplicity
+
+since replaces alphabetic letter letter rotguaranteed cause problem newsgroup software might
+incompatible unusual kind character rotchosen rotn value asasoriginal caesar cipher becauseis value arrangesencoding decoding equivalent thereby allowing convenience
+single command encryption decryption strictly
+speaking valueworks way language like
+english haveletters alphabet although sincecharacter latin alphabet embedded ascii character set
+rot pretty much universal least western languages
+use ascii one extensions
+
+user could plausibly encode decode message hand
+automatic decryption much convenient unix systemstandard utility calledtr transliterate usedperform rot encoding
+
+tr azaz nzamnzam
+
+automatic deciphering soon added builtin featurenewsreading software early rot also usedfidonet forum extent fidonet mail reading software often
+included feature enciphering deciphering automatically
+
+rot encryption
+
+rot one set encryption algorithm known caesar ciphers
+particularly simple type substitution cipher
+rot intended used secrecy concernthe
+use constant shift mean encryption effectively hakey decryption requires knowledge fact rot
+use even without knowledge like substitution cipher
+algorithm easily broken frequency analysisexploitation pattern word rot example bruce
+schneier call kid sister encryptionat best might keepdocument secret kid sister
+
+real effect rot merely make sure viewermessage must consciously choose decipher typically means
+invoking relevant rot command messagereading software
+rather protecting confidential message unauthorized
+reader rot safeguard authorized reader material maywish inadvertently read spoiler book movie reviews
+
+utter unsuitability real secrecy rot becomecatchphrase refer conspicuously weak encryption schemecritic might claim bit little better rotday also play real term like double terms
+double rot rot rot crop humorous intent includingspoof academic paper rot encryption algorithm pdfexplained applying rot already rotencrypted text
+restores original plaintext rot equivalentencryption notional rot used satirical jibe
+united state digital millennium copyright act dmca
+online user append phrase encoded rot 
+circumvention prosecuted post online forums
+dmca introduced broad ban circumvention copy
+prevention system system often found internally employ
+woefully insecure method cryptography triple rot also
+sometimes seenwhich course equivalent regular rotterm probably take triple des
+
+inrussian cryptanalyst dmitry sklyarov arresteddetailing weakness ebook copy prevention system one ebook
+vendor new paradigm research group nprg actually used rotencrypt document speculated nprg maymistaken rot toy exampleprovided adobe ebook software
+development kitfor serious encryption scheme 
+
+window us rot registry key userassist didier
+stevens wrote tool decrypt key track recently used
+programs
+
+rot letter game net culture
+
+abcdefghijklmnopqrstuvwxyz
+nopqrstuvwxyzabcdefghijklm
+ahanunantnag
+balkonyxbarone
+barfonesbeor
+binovaebbsroof
+envyrailerre
+errsreefflapsync
+furshegeltry
+gnattangirkvex
+clerkpyrex purelycheryl
+pngcatshafun
+
+rot provides opportunity letter game wordtransformed rot produce another word longest exampleenglish language pair letter word abjurer nowhere
+also letter pair chechen purpura exampleword like shown table
+
+word ravine transformed rot enivarits reversal
+although english word known pair common english
+word others rot reversal gnat tang
+
+vex transformed irk rot word synonym also
+terra transformed green give satisfying pair
+
+theinternational obfuscated code contest ioccc includedentry brian westley westleys computer program rotdreversed still compiles correctly operation executedeither perform rot encoding reverse input
+
+newsgroup altfolkloreurban coined wordfurrfuthat warot encoding frequently encoded utterance sheesh furrfu
+evolved mid response posting repeating urban mythaltfolkloreurban poster complained sheeshresponse newcomer overused 
+
+variants
+
+littleused obfuscation scheme similar purpose
+rot rot handle letter leaf characterpunctuation number whitespace untouchedrot may unsuitable purpose example hidingnumeric answer riddle handling arbitrary binary data
+
+rot
+
+rot variant rot addition scrambling basic
+letter also treat number many character insteadusing sequence alphabet rot larger alphabet
+derived common character encoding known ascii ascii maps
+letter digit punctuation special character numberrangeviewed ascii rot cover codesand
+upper lower case letter respectively rot 
+character instead fromthe exclamation mark ascii codeto 
+tilde ascii coderotating offset ofthe use
+larger alphabet intended produce thorough obfuscation
+rot rot far widely supported
+
+applying rot earlier example entirely plaintext gives
+whjf eiecgce 
+ecgce pn e gecd
+e iecgcede wt fjvd 
+unix command apply rot
+trpo
+
+memfrob
+
+gnu library set standard routine available usecomputer programming contains functionmemfrobwhich hasimilar purpose rot although intended usearbitrary binary data function operates humorously termed 
+frobnicates combining byte binary pattern
+decimal using exclusive xor operation effectsimple xor cipher like rot memfrob selfreciprocal also
+insecure trivial decrypt key
+known
+

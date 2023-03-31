@@ -1,0 +1,576 @@
+copyright
+
+synthesizer
+
+ school wikipedia selection related subject musical instruments
+
+synthesizer synthesiser electronic musical instrument
+designed produce electronically generated sound using techniques
+additive subtractive physical modelling synthesisphase distortion
+
+synthesizer create sound direct manipulation electrical
+voltage analog synthesizer mathematical manipulationdiscrete value using computer software synthesizercombination method final stage synthesizer
+electrical voltage generated synthesizer cause vibrationdiaphragm loudspeaker headphone etc synthesized sound
+contrasted recording natural sound mechanical
+energy sound wave transformed signalconverted back mechanical energy playback though sampling
+synthesizer significantly blur distinction
+
+synthesizer typically keyboard provides human
+interface instrument often thought keyboard
+instrument however synthesizer human interface doenecessarily keyboard doe synthesizer strictly need
+playable human different fingerboard synthesizer ribbon
+controlled synthesizer also developed see sound module
+
+term speech synthesizer also used electronic speech
+processing often connection vocoders
+
+sound basics
+
+natural tonal instrument sound analyzed frequency
+domain spectrum tonal instrument exhibit amplitude peakharmonic harmonic frequency primarily located closeinteger multiple tone fundamental frequency
+
+percussives rasp usually lack harmonic exhibit spectrumcomprised mainly noise shaped resonant frequencystructure produce sound resonant propertyinstrument spectral peak also referredformants also shape spectrum string wind voicenatural instruments
+
+conventional synthesizer purpose resynthesis
+recording real instrument thought composed several
+components
+
+component sound represent acoustic response different
+part instrument sound produced instrumentdifferent part performance behaviour instrument
+different playing condition pitch intensity playing
+fingering etc distinctive timbre intonation attackreal instrument therefore created mixing togethercomponent way resembles natural behaviour real
+instrument nomenclature varies synthesizer methodologymanufacturer component often referred oscillators
+partial higher fidelity reproduction natural instrumenttypically achieved using oscillator increased
+computational power human programming requiredsynthesizer use one four oscillator default
+schematic adsr
+schematic adsr
+
+one important part sound amplitude envelope
+envelope determines whether sound percussive like snare
+drum persistent like violin string often shapingsound amplitude profile realized anadsr attack decay
+sustain release envelope model applied control oscillator volumes
+apart sustain stage modeled changevolume typically exponential
+attack time time taken initial runup sound level
+nil 
+decay time time taken subsequent run 
+designated sustain level
+sustain level third stage steady volume producedkey heldrelease time time taken sound decaysustain level nil key released key released
+attack decay stage sustain phase usually
+skipped similarly sustain level zero producemoreorless pianolike percussive envelopecontinuous steady level even key held exponential rates
+commonly used closely model real physical
+vibration usually rise decay exponentially
+
+although oscillation real instrument also change frequency
+instrument modeled well without refinementrefinement necessary generate vibrato
+
+overview popular synthesis methods
+
+subtractive synthesizer use simple acoustic model assumesinstrument approximated simple signal generator producing
+sawtooth wave square wave etc followed filterrepresents frequencydependent loss resonanceinstrument body reason simplicity economy filters
+typically loworder lowpass filter combination simple
+modulation routings pulse width modulation oscillator
+sync along physically unrealistic lowpass filterresponsible classic synthesizer sound commonly associated
+analog synthesis often mistakenly used referringsoftware synthesizer using subtractive synthesis although physical
+modeling synthesis synthesis wherein sound generated according
+physic instrument superseded subtractive synthesis
+accurately reproducing natural instrument timbre subtractive
+synthesis paradigm still ubiquitous synthesizer modern
+design still offering loworder lowpass bandpass filter following
+oscillator stage
+
+one newest system evolve inside music synthesis physical
+modelling involves taking model component musical
+object creating system define action filter envelopes
+parameter time definition instrumentvirtually limitless one combine given model availableamount source modulation term pitch frequencycontour example model violin characteristicpedal steel guitar perhaps action piano hammerphysical
+modelling computer get better faster higher processing 
+
+one easiest synthesis system record real instrumentdigitized waveform play back recording different
+speed produce different tone technique usedsampling sampler designate part samplecomponent adsr envelope repeat sectionchanging volume segment envelope letsampler persuasively different envelope using note
+see also samplebased synthesis
+
+synthesizer basics
+
+two major kind synthesizer analog digital
+
+also many different kind synthesis methodapplicable analog digital synthesizer techniques
+tend mathematically related especially frequency modulationphase modulation
+subtractive synthesis
+additive synthesis
+granular synthesis
+wavetable synthesis
+frequency modulation synthesis
+phase distortion synthesis
+physical modelling synthesis
+sampling
+subharmonic synthesis
+
+start analogue synthesizer era
+
+first electric musical synthesizer invented inby elisha
+graywho also independent inventor telephonemusical telegraph chance byproduct telephone
+technology
+
+gray accidentally discovered could control sound self
+vibrating electromagnetic circuit invented basic
+single note oscillator musical telegraph used steel reed whose
+oscillation created transmitted telephone lineelectromagnet gray also built simple loudspeaker device later
+model consisting vibrating diaphragm magnetic field make
+oscillator audible
+
+early synthesizer used technology derived electronic analog
+computer laboratory test equipment early electronic musical
+instrument ivor darreg created microtonal electronic keyboard
+oboe inanother one early synthesizer ans
+synthesizer machine constructed russian scientist
+evgeny murzin fromtoonly one copy builtcurrently kept lomonosov university moscowrca produced experimental device synthesize voice music
+giant mark music synthesizer housed columbiaprinceton
+electronic music centre new york city inwas capableproducing music completely programmed vacuum tube
+system manually patched create new type soundused paper tape sequencer punched hole controlled pitch
+source filter similar mechanical player piano ablegenerate wide variety sounds
+
+indaphne oram bbc radiophonic workshop produced novel
+synthesizer using heroramics technique driven drawingmm film strip used number year bbc hugh
+le caine john hanert raymond scott percy grainger burnett
+cross others built variety automated electronicmusic
+controller late
+synthesizer developed could played real
+time confined studio sizesynthesizer usually configured using modular designstandalone signal source processor connected patch
+cord mean controlled common controlling
+device
+
+early synthesizer often experimental specialbuilt devices
+usually based concept modularity buchla hugh caine
+raymond scott paul ketoff among first buildinstrument late early buchla later
+produced commercial version
+
+robert moog student peter mauzey oneengineer rca mark created revolutionary synthesizercould actually used pop musician moog designed circuits
+used synthesizer columbiaprinceton moog
+synthesizer first displayed audio engineering society
+convention inlike rca mark required lotexperience set machine new sound smaller
+intuitive like machine like musical
+instrument moog synthesizer first curiosity 
+caused sensation
+
+micky dolenz monkees bought one first three moog
+synthesizer first commercial release feature moog
+synthesizer monkees fourth album pisces aquarius capricorn
+jones ltd inwhich also became first album featuringsynthesizer hiton chart also among first music
+performed synthesizer millionsellingalbum
+switchedon bach wendy carlos switchedon bach onepopular classicalmusic recording ever made latehundred popular recording used moog synthesizer soundmoog synthesizer even spawned subculture record producer made
+novelty moog recording depending odd new sound madesynthesizer always moog unit draw attention
+sales
+
+moog also established standard control interfacinglogarithmic voltperoctave pitch control separate pulse
+triggering signal standardization allowed synthesizerdifferent manufacturer operate together pitch control usually
+performed either organstyle keyboard music sequencer
+produce series control voltage fixed time period
+allows automation music production
+
+early commercial synthesizer manufacturer included arp also
+started modular synthesizer producing allinone
+instrument british firm ems
+
+inmoog designed innovative synthesizer builtin
+keyboard without modular designthe analog circuit retained
+made interconnectable switch simplified arrangement
+called normalization though flexible modular designmade instrument portable easier use first
+prepatched synthesizer minimoog became popularunit sold minimoog also influenced design nearly
+subsequent synthesizers
+
+miniaturized solidstate component allowed synthesizers
+become selfcontained portable instrument began used
+live performance soon electronic synthesizer becomestandard part popularmusic repertoire chicory tip son
+father firsthit feature synthesizer
+
+first movie make use synthesized music james bond
+film majesty secret service infrom pointlarge number movie made synthesized music movies
+like john carpenter thing used synthesized musicmusical scores
+
+homemade synthesizers
+
+late early relatively easy build
+one synthesizer design published hobby electronics
+magazine notably formant modular synth impressive diy clone
+moog system published elektur complete kitsupplied company paia maplin electronicsuk although often design actually rebranded versions
+synths originally built hobbyist example maplin 
+wa creation australian scientist trevor marshall
+
+electronic organ synthesizers
+
+organ including acoustic based principle additive
+fourier synthesis several sine tone mixed formcomplex waveform original hammond organ built inthese
+sine wave generated using revolving tone wheel inducedcurrent electromagnetic pickup every harmonicseparate tonewheel modern electronic organ electronic
+oscillator serve produce sine wave organ tend use fairly
+simple formant filter effect change oscillator
+toneautomation modulation tend limited simple vibrato
+
+analog synthesizer produce sound using subtractive
+synthesis method waveform rich overtone usuallysawtooth pulse wave produced oscillator signalpassed filter preferentially remove overtones
+obtain sound may imitation acoustical
+instrument may unique tonality existing acoustical
+form adsr envelope generator control vca voltage
+controlled amplifier give sound loudness contour
+
+circuit waveshapers ring modulators changetonality nonharmonic way create distortion effectoften found natural sound source spite popularitymodern digital softwarebased synthesizer purely analog
+modular synthesizer still proponent numbermanufacturer producing module little different moogs 
+circuit design well many newer variation like moogalicious
+invented 
+
+microprocessor controlled polyphonic analog synthesizers
+
+early analog synthesizer always monophonic producing one
+tone time moog sonic six arp odyssey eml
+capable producing two different pitch time two
+key pressed polyphony multiple simultaneous toneenables chord obtainable electronic organ designfirst popular electronic keyboard combining organ circuitsynthesizer processing included arp omni moogs polymoogopus 
+
+bythe first true music synthesizer offer polyphony begun
+appear notably form moogs polymoog yamaha
+c oberheim fourvoice early instrumentcomplex heavy costly another feature began appearrecording knob setting digital memory allowingchanging sound quickly
+
+microprocessor first appeared scene earlyexpensive difficult apply
+
+first practical polyphonic synth first usemicroprocessor controller sequential circuit prophet
+introduced infor first time musician practical
+polyphonic synthesizer allowed knob setting savedcomputer memory recalled pushing button prophetalso physically compact lightweight unlike predecessorbasic design paradigm became standard among synthesizer
+manufacturer slowly pushing complex difficult
+use modular design
+
+one first realtime polyphonic digital music synthesizercoupland digital music synthesizer much portablepiano never reached commercial production
+
+midi control
+
+synthesizer became easier integrate synchronizeelectronic instrument controller invention inof
+midi timecoded serial interface cable midi interfacealmost ubiquitous music equipment commonly availablepersonal computer pcs
+
+socalled general midi software standard devised 
+serve consistent way describing set overtones
+including percussion available playback musical
+score first time given midi preset would consistently
+produce oboe guitar sound etc gmconforming devicefile format mid also established became popular standardexchange music score computers
+
+osc opensound control proposed replacement mididesigned networking contrast midi osc fast enoughallow thousand synthesizer computer share music performance
+data internet realtime
+
+fm synthesis
+
+fm synthesis one oscillator used modulate another
+oscillator oscillator used modulate another
+oscillator parameter synth patch rate depth
+etc lfos low frequency oscillator usually control
+parameter oscillator modulate lfos givecomplex sound oscillator turn modulate produce
+white noise john chowning stanford university generally
+considered first researcher conceive producing musical
+sound causing one oscillator modulate pitch anothercalled frequency modulation synthesis chownings early experiment done software mainframe computer
+
+fm synthesizer use sinewave oscillator called operators
+order fundamental frequency sufficiently
+stable normally generated digitally several year yamaha
+popularized field synthesis outfittedability generate wavforms sine wave operators
+audio output may fed input another operator via adsr
+envelope controller first operator modulates pitchsecond operator way produce complex waveform synthesis fundamentally type additive synthesis filters
+used subtractive synthesizer typically used synthesizer mid cascading operatorprogramming envelope appropriately subtractive synthesis
+effect simulated though sound resonant analog filter
+almost impossible achieve wellsuited making sounds
+subtractive synthesizer difficulty producing particularly
+nonharmonic sound bell timbres
+
+chownings patent covering sound synthesis licensed giant
+japanese manufacturer yamaha made million stanfordyamahas first synthesizer g costly
+heavy keyboardist brent mydland grateful dead used extensively soon followed series pair
+smaller preset versionsthe ce combo ensembleswhich
+targeted primarily home organ market featured
+fouroctave keyboard third version dxwassize weight prophet reasonably priceddepended custom digital integrated circuit produce tonality wa smash hit heard many
+recording mids yamaha later licensed technology
+manufacturer time stanford patent ran almost
+every personal computer world contained audio inputoutput
+system builtin operator digital synthesizera factpc user aware
+g small memory strip programmedhardwarebased machine existed hamamatsu yamaha japan
+headquarters buena park yamahas headquarters four
+monochrome video monitor displaying parameter onefour operator within time single operator
+wa square circuit boardthis course long yamaha
+condensed circuitry single asic interestingly became
+dxs stage adsr time actually many break
+pointsaboutwhich proved quite ineffective modifying sounds
+hence subsequent regress analogsynth type adsr envelope
+generators
+
+time period fromyamaha built recording studio
+los feliz boulevard los angeles dubbed yamaha studio
+besides operating commercial recording studio facility served
+test area new musical instrument product soldwa called combo division yamaha
+
+japanese engineer hamamatsu failed createhandful pleasing sound monitor programming
+machine although one used recording africatoto one point john chowning invited try assistcreating new sound synthesis came yamaha studio spent long time trying make theory resultuseful musical sound practice gave end week
+
+thereafter select group prominent studio synthesist hiredyamaha try create voice library gprogramming tool included gary leuenberger time
+owned acoustic piano outlet san francisco tomlynlater founded key clique thirdparty software manufacturer
+
+gary third programmer hired united kingdom
+named david bristow created bulk voice g really caught attention musician musical
+instrument dealer yamaha channel namm national
+association music merchant demonstration instore
+demonstration yamaha report indicated onlygss ever
+produced either showcase piece donatedyamahasponsored artist included stevie wonder
+toto herbie hancock chick corea despite fact wasnt
+actually sold g bore retail priceg priced around 
+
+ce combo ensemble sold home pianoorgan
+channel accepted limited extentprofessional music scene sound programmed japanengineering staff member working gs
+
+hardwarebased programmer wa rackbreadboard electronics size telephone booth first
+dx print brochure distributed around world included pictureprogrammer
+
+one time young yamaha engineer assigned odious tasklistening real instrument recording trying emulatecrude synthesis programmer epromparticular engineer supposedly locked laboratoryextended period time eventually failed produce market thought good result term viable synthesizer
+voices
+
+despite difficulty couple notable recordings
+produced utilizing including jarreaus
+mornin
+
+despite lot internal pressure product management withinyamaha international division going time
+term adoption midi standard many companies
+industry decided ce need
+midi since relegated home channel
+
+wa going development team workingwould successful yamaha professional keyboard date
+nippon gakki headquarters hamamatsu
+
+called yamaha international corporation product managers
+u held series critical meeting hamamatsureview design concepts
+
+nippon gakki engineering team headed karl hiranotime many japanese engineer interfaced product
+manager adopted american nickname hiranosan selected karl
+liked karl malden time longrunning
+television show street san francisco michael douglas
+
+key design approach development stagelike ce preset synthfactory sound programming capability rationale
+behind extreme difficulty yamaha team gary
+others experienced wielding synthesismultioperator algorithm make good sounds
+
+luckily american product management staff way make
+dx relatively unsuccessful completely programmable
+instrument result wa unheralded success literally
+hundred great sound created entire industry
+surrounding rdparty sound spawned mentioned
+previously oem chipsets fm synthesis engine became
+standard fare industry
+
+many preset general midi sound wintel exactdna
+clone numerous sound originally created gary dave bristow
+handful synthesist even retainsimilar name given era
+
+dx finally introduced bo tomlyn peter
+rochon yamaha canada yamaha staff went roadshow product north american yamaha dealer networkseminar included thought key elementtraining
+dealer operate program wa vivid
+indication concern raised hamamatsu difficulty
+level programming machine still persisted
+
+demand high first year introductiongrey market influx unit originally purchased akihabaraelectronics outlet tokyo part japan quickly
+developed became serious concern yamaha international
+corporation management
+
+rumor propagated unknown people yamaha dealerjapanese unit would blow upon plugged ac
+outlet sound different version latter rumor true rom cartridge includedjapanese version different american
+releasethe version many pleasing sounds
+created tomlyn gary leuenberger
+
+dx exceeded yamahas wildest expectation term unit sales
+took many month production catch demand failed prominently fouroperator sixdx cassette tape storage system voice
+loadingrecording
+
+rackmounted tx although relatively powerful studio
+instrument time also poor seller due lacksupport difficult user interface
+
+successful introduction series tomlyn along
+mike malizola original yamaha product manager chuck
+monte founder dynomypiano founded key clique incsold thousand rom cartridge new fmdx sound programmedbo owner around world ironically key cliques
+rhodeselectricpiano voice led relative demise fender
+rhodes piano even business started cofounder monte
+dynomypianos principal product rhodes modification kit
+later however key clique strong dominance marketplaceeventually eroded people sharing tomlyn voice parameter settings
+bulletin board early computer many competitor entered
+market
+final outcome far afield yamaha engineeroriginally concerned aboutthe huge library soundpropagated throughout music industry instrumentactually created handful synth programmer numerous
+interview case study conducted yamaha product managementretail store owner keyboardist discoveredaverage purchaser hardly ever wantedor neededto programsynthesizer voice since difficultmany great sound available shelf
+
+time synthesis technology first licensedstanford university everyone management nippon
+gakki yamaha international thought wouldlonggone time license ran aboutthat turned
+completely untruewitness flourishing technology
+opl chipsets majority around worldpast many year mentioned previously article
+
+list prominent musical recording utilizing dxmyriad synthesizer introduced latersignificant new composition utilizing added world
+music library time software emulation voice library
+including many key clique sound exists today wide range
+profssional prosumer studio software products
+
+pcm synthesis
+
+one kind synthesizer start binary digital recordingexisting sound called pcm sample replayed range
+pitch sample playback take place oscillator foundsynthesizer sound still processedsynthesizer effect filter lfos ring modulatorslike music workstation use method synthesis oftenpitch sample isnt changed simply played backfaster speed example order shift frequency sound
+one octave higher simply need played double speed
+playing sample half speed cause shifted one
+octave
+contrast instrument primarily record play back
+sample called sampler sample playback instrument neither
+record sample process sample synthesizerrompler
+
+nature digital sound storage sound measuredfraction time antialiasing interpolation technique among
+others involved get natural sounding waveform end
+resultespecially one note played andorarbitrary tone interval used calculation sampledata
+need great precision high quality bit like
+bit least especially lot different parameter needed
+make specific sound parameter lotcalculation need made avoid rounding errordifferent calculation taking place
+
+pcmsound obtainable even bit system soundterrible mostly noise two levelsince beginning pcm synthesisalmost number bits
+fromtohave used today common one areand
+bit going towards bit next jump quality
+
+physical modeling synthesizer
+
+physical modeling synthesis synthesis sound using setequation algorithm simulate physical source soundinitial set parameter run physical simulation
+simulated sound generated
+
+although physical modeling new concept acousticsynthesis wasnt development karplusstrong
+algorithm subsequent refinement generalizationalgorithm digital waveguide synthesis julius smith iiiothers increase dsp power late commercial
+implementation became feasible
+
+following success yamahas licensing stanford synthesis
+patent yamaha signed contract stanford universityjointly develop digital waveguide synthesis patents
+related technology owned stanford yamaha physical
+modeling synthesizer first realized commercially yamahas
+vl released 
+
+modern digital synthesizer
+
+modern synthesizer completely digital includingmodel analog synthesis using digital technique digital
+synthesizer use digital signal processing dsp technique make
+musical sound digital synthesizer exist form 
+softsynth software synthesizes sound using conventional hardware others use specialized dsp hardware
+
+digital synthesizer generate digital sample correspondingsound pressure given sampling frequency typicallysamples
+per second basic case digital oscillator modeled
+counter sample counter oscillatoradvanced amount varies depending frequencyoscillator harmonic oscillator counter index table
+containing oscillator waveform randomnoise oscillatorsignificant bit index table random number values
+indexed oscillator counter mixed processedsent digitaltoanalog converter followed analog amplifier
+
+eliminate difficult multiplication step envelope
+generation mixing synthesizer performoperation logarithmic coding add current adsr mix
+level logarithmic value oscillator effectively
+multiply add value last step mixingconverted linear values
+
+softwareonly synthesis
+
+earliest digital synthesis performed software synthesizers
+mainframe computer using method exactly like describeddigital synthesis music coded using punch card describe
+type instrument note duration formants timbre
+generated series sine wave converted fixedpoint
+binary suitable digitaltoanalog converter mixed adding
+averaging data written slowly computer tapeplayed back real time generate music
+
+today variety software available run modern highspeed
+personal computer dsp algorithm commonplace permitcreation fairly accurate simulation physical acoustic sourceelectronic sound generator oscillator filter vcas etccommercial program offer quite lavish complex model classic
+synthesizerseverything yamaha original moog
+modular program allow user complete control aspects
+digital music synthesis cost greater complexitydifficulty use
+
+virtual orchestra
+
+digital musical instrument musical network capable simulating
+sonic behavioural characteristic traditional acoustic
+orchestra real time instrument often incorporates various
+synthesis sound generating technique virtual orchestrademarcated traditional keyboardbased synthesizer due live
+performance capability include ability followconductor tempo respond variety musical nuance real
+time instrument intelligence achieved sophisticated
+decision making algorithm utilize knowledge informationrelevant area specialization including acoustic psychoacoustics
+music history music theory example
+
+commercial synthesizer manufacturers
+
+notable synthesizer manufacturer past present include
+access music
+alesis
+arp
+akai
+buchla associates
+casio
+clavia
+doepfer
+electronic music studio ems
+emu
+ensoniq
+fairlight
+generalmusic
+hartmann music
+kawai
+korg
+kurzweil music systems
+moog music
+new england digital ned
+novation
+oberheim
+paia electronics
+palm product gmbh ppg
+realtime music solution rms
+roland corporation
+sequential circuits
+technics
+waldorf music
+yamaha
+
+complete list see categorysynthesizer manufacturers
+
+classic synthesizer designs
+
+intended list classic instrument markedturning point musical sound style potentially worth article
+listed name performer styles
+associated synthesizer model see
+categorysynthesizers
+alesis andromeda synthesizer modern digital controlfully analog sound producing circuitry
+arpthe stevie wonder weather report edgar winter
+jeanmichel jarre new order
+arp odysseyultravox former frontman john foxx styx
+herbie hancock
+buchla music boxmorton subotnick suzanne ciani
+casio early lowcost digital synthesizervince clarke
+casio famous drum beat synthesizer
+sound trio da clavia nord leadgod life underwater zoot womanweatherman jean michel jarre first modern analog modelling
+synthesizer using digital circuitry emulate analog circuits
+em vcsroxy music hawkwind pink floyd bbc radiophonic
+workshop brian eno
+emu emulatorthe resident depeche mode deep purple genesis
+fairlight cmijeanmichel jarre jan hammer peter gabriel mike
+oldfield pet shop boy art noise kate bush
+hartmann music neuronhans zimmer peter gabriel gun roses
+nikos patrelakis david sylvian
+korg karma
+korg mbradley joseph
+korg tritonbradley joseph derek sherinian
+kurzweil synthesizer vast systemjean michel jarre
+
+lyricon first massproduced wind synthesizermichael brecker
+tom scott chuck greenberg wayne shorter
+moog modular synthesizerrush pedal wendy carlos
+tomita tontos expanding head band emerson lake palmerbeatles weezer
+moog taurusrush genesis police rentals
+minimoogpink floyd rush yes emerson lake palmer
+stereolab devo ray buttigieg george duke
+ned synclaviermichael jackson stevie wonder laurie anderson
+frank zappa pat metheny group
+oberheim obxarush prince styx supertramp van halen
+ppg waverush depeche mode fixx thomas dolby
+roland djeanmichel jarre enya
+roland jdbradley joseph
+roland roland jupiteraha john foxx duran duran human league
+simple minds
+roland jupiteraha rush duran duran omd huey lewisthe
+news
+roland defacto standard computer game music effects
+roland tbtechno acid house
+sequential circuit prophetberlin phil collins cars
+steve winwood
+waveframe audioframepeter gabriel stevie wonder
+yamaha dxrush steve reich depeche mode zoot woman cure
+brian eno howard jones nitzer ebb
+yamaha yamaha shs one firstkeytars 
+showbread band
+

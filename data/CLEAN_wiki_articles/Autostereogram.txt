@@ -1,0 +1,418 @@
+copyright
+
+autostereogram
+
+ school wikipedia selection related subject health medicine
+
+random dot autostereogram encodes scene seenproper viewing technique click thumbnail see fullsize image
+enlarge
+random dot autostereogram encodes scene seenproper viewing technique click thumbnail see fullsize image
+
+autostereogram singleimage stereogram designed trick
+human brain perceiving three dimensional scenetwodimensional image order perceive shapeautostereograms brain must overcome normally automatic
+coordination focusing convergence
+
+simplest type autostereogram consists horizontally repeating
+pattern known wallpaper autostereogram viewedproper convergence repeating pattern appear float air
+background magic eye series book feature another
+type autostereogram called random dot autostereogram type
+autostereogram every pixel image computed pattern
+strip depth map usually hidden scene emergesimage viewed proper viewing technique
+
+two way autostereogram viewed walleyedcrosseyed autostereograms designed viewed one
+way usually walleyed walleyed viewing requirestwo eye adopt relatively divergent angle crosseyed viewing
+requires relatively convergent angle
+
+history
+
+inthe british scientist charles wheatstone publishedexplanation binocular vision binocular depth perceptionled make stereoscopic drawing construct stereoscope
+based combination mirror allow person see images
+two picturesstereograms
+
+betweenanddavid brewster scottish scientist improved
+wheatstone stereoscope using lens instead mirror thus
+reducing size contraption brewster noticed staringrepeated pattern wallpaper could trick brain matching
+pair thus causing brain perceive virtual plane
+behind wall basis wallpaperstyle autostereograms
+also known singleimage stereograms
+
+inbela julesz vision scientist psychologist macarthur
+fellow discovered random dot stereogram working bell
+laboratory recognizing camouflaged object aerial pictures
+taken spy plane time many vision scientist still thought
+depth perception occurred eye whereasknown complex neurological process julesz used computercreate stereo pair randomdot image viewedstereoscope caused brain see shape proved depth
+perception neurological process
+
+inchristopher tyler smithkettlewell institute studentjulesz visual psychophysicist combined theory behind
+singleimage wallpaper stereograms randomdot stereograms create
+first randomdot autostereogram also known singleimage
+randomdot stereogram allowed brain see shapesingle image without aid optical equipment
+
+work
+
+simple wallpaper
+
+example wallpaper repeated horizontal patterns
+pattern repeated exactly everypixels illusionpicture lying flat surface plane back createdbrain however nonrepeating pattern arrow words
+appear plane text lies
+enlarge
+example wallpaper repeated horizontal patterns
+pattern repeated exactly everypixels illusionpicture lying flat surface plane back createdbrain however nonrepeating pattern arrow words
+appear plane text lies
+
+stereopsis stereo vision visual blending two similaridentical image one resulting visual perceptionsolidity depth human brain stereopsis resultcomplex set mechanism form threedimensional impressionmatching point set point one eye viewequivalent point set point eye viewtherefore ass point position otherwise inscrutable
+zaxis depth
+
+brain presented repeating pattern like wallpaperha difficulty matching two eye view accurately lookinghorizontally repeating pattern converging two eye point
+behind pattern possible trick brain matching one
+element pattern seen left eye another similar
+looking element beside first seen right eyegive illusion plane bearing pattern located
+behind real wall distance plane lie behindwall depends spacing identical elements
+
+autostereograms use dependence depth spacing create
+threedimensional image area picturepattern repeated smaller distance area appear closer
+background plane distance repeat longerarea area appear distant like holeplane
+autostereogram display pattern three different planerepeating pattern different spacings
+enlarge
+autostereogram display pattern three different planerepeating pattern different spacings
+
+people never able perceive shape hidden withinautostereogram find hard understand remarkimage pop background starepicture long enough object emergebackground help illustrate image emergebackground second viewer perspective virtualobject reconstructed autostereogram viewer brain real
+object second viewer observing scene side would see
+object floating air background image
+
+effect example autostereogram created repeating
+tiger rider icon everypixels background planeshark rider icon everypixels second plane tiger
+icon everypixels highest plane closer set icons
+packed horizontally higher lifted background
+plane repeat distance referred depth zaxis value
+particular pattern autostereogram depth value also
+known zbuffer value
+
+picture illustrates shape autostereogram emerge
+background plane autostereogram viewedproper eye divergence
+enlarge
+picture illustrates shape autostereogram emerge
+background plane autostereogram viewedproper eye divergence
+depth zaxis value proportional pixel shiftautostereogram
+enlarge
+depth zaxis value proportional pixel shiftautostereogram
+
+brain capable almost instantly matching hundred patterns
+repeated different interval order recreate correct depth
+information pattern autostereogram may contain 
+tiger varying size repeated different intervalcomplex repeated background yet despite apparent chaotic
+arrangement pattern brain able place every tiger iconproper depth
+
+brain place every tiger icon proper depth plane
+enlarge
+brain place every tiger icon proper depth plane
+image illustrates autostereogram perceived viewer
+enlarge
+image illustrates autostereogram perceived viewer
+
+depth maps
+
+autostereograms pattern particular row repeated
+horizontally spacing read either crosseyedwalleyed autostereograms type reading produce
+similar depth interpretation exception crosseyed
+reading revers depth image popped pushed
+pattern autostereogram appear different depth acrossrow
+enlarge
+pattern autostereogram appear different depth acrossrow
+
+however icon row need arranged identical
+interval autostereogram varying interval icons
+across row present icon different depth planeviewer depth icon computed distanceneighbour left type autostereogramsdesigned read one way either crosseyed walleyed
+autostereograms article encoded walleyed viewing
+unless specifically marked otherwise autostereogram encodedwalleyed viewing produce incoherent pattern viewed
+crosseyed magic eye picture also designed walleyed
+viewing
+
+following walleyed autostereogram encodesplanes acrossxaxis background plane left side picturehighest plane shown right side picturenarrow middle plane middle xaxis startingbackground plane icon spaced atpixels one raiseparticular icon shifting certain number pixel left
+instance middle plane created shifting iconpixels
+left effectively creating spacing consisting ofpixels
+brain doe rely intelligible icon represent objects
+concept autostereogram pattern become smallersmaller yaxis look like random dot brainstill able match random dot patterns
+
+black gray white color background represent depth
+map showing change depth across row
+enlarge
+black gray white color background represent depth
+map showing change depth across row
+
+pattern image
+enlarge
+pattern image
+
+distance relationship pixel counterpartequivalent pattern left expressed depth map depth
+map simply grayscale image represents distancepixel left counterpart using grayscale value black
+white convention closer distance brightercolour becomes
+
+using convention grayscale depth mapautostereogram created black gray white representing
+shift ofpixelspixels andpixels respectively depth map
+key creation randomdot autostereograms
+
+randomdot
+
+depth map
+enlarge
+depth map
+
+pattern
+enlarge
+pattern
+
+software program take depth map accompanying pattern
+image produce autostereogram program tile pattern image
+horizontally cover area whose size identical depth map
+conceptually every pixel output image program lookgrayscale value equivalent pixel depth map imageus value determine amount horizontal shift required
+pixel
+
+one way accomplish make program scan every lineoutput image pixelbypixel left right seed first
+series pixel row pattern image consultsdepth map retrieve appropriate shift value subsequent pixels
+every pixel subtracts shift width pattern
+image arrive repeat interval repeat intervallook color counterpart pixel left uscolor new pixel colour
+
+three raised rectangle appear different depth planeautostereogram
+enlarge
+three raised rectangle appear different depth planeautostereogram
+every pixel autostereogram obeys distance interval specified
+depth map
+enlarge
+every pixel autostereogram obeys distance interval specified
+depth map
+
+unlike simple depth plane created simple wallpaper
+autostereograms subtle change spacing specified depth map
+create illusion smooth gradient distancepossible grayscale depth map allows individual pixelplaced one depth plane number bit used
+pixel depth map practice total number depth
+plane determined number pixel used widthpattern image grayscale value must translated pixel space
+order shift pixel final autostereogram resultnumber depth plane must smaller pattern width
+random dot autostereogram feature raised shark fine
+gradient flat background
+enlarge
+random dot autostereogram feature raised shark fine
+gradient flat background
+
+finetuned gradient requires pattern image complexstandard repeatingpattern wallpaper typically pattern consisting
+repeated random dot used autostereogram viewedproper viewing technique hidden scene emerges autostereogramsform known random dot autostereograms
+
+smooth gradient also achieved intelligible pattern
+assuming pattern complex enough doe big
+horizontal monotonic patch big area painted monotonic colour
+without change hue brightness doe lend pixel
+shifting result horizontal shift identicaloriginal patch following depth map shark smooth gradient
+produce perfectly readable autostereogram even though image
+contains small monotonic area brain able recognizesmall gap fill blank intelligible repeated
+pattern used instead random dot type autostereogram
+still known many random dot autostereogramcreated using process
+
+shark figure depth map drawn smooth gradient
+enlarge
+shark figure depth map drawn smooth gradient
+shark randomdot autostereogram smooth round
+shape due use depth map smooth gradient
+enlarge
+shark randomdot autostereogram smooth round
+shape due use depth map smooth gradient
+
+animated
+
+animated autostereogramversion
+enlarge
+animated autostereogramversion
+
+series autostereograms shown one anotherway moving picture shown brain perceives animated
+autostereogram autostereograms animation produced
+using background pattern often possible see faint
+outline part moving object autostereogram
+image without walleyed viewing constantly shifting pixelmoving object clearly distinguished static background
+plane eliminate side effect animated autostereograms often
+use shifting background order disguise moving parts
+
+regular repeating pattern viewed crt monitorwallpaper autostereogram usually possible see depth
+ripple also seen background static
+randomdot autostereogram caused sideways shiftimage due small change deflection sensitivity
+linearity line scan become interpreted depth
+effect especially apparent left hand edge screen
+scan speed still settling flyback phaseeffect absent tft lcd
+
+mechanism viewing
+
+much advice exists seeing intended threedimensional imageautostereogram people simply see imageautostereogram others must learn train eye decouple eye
+convergence lens focusing
+
+every person see illusion autostereogramsautostereograms constructed based stereo vision personvariety visual impairment even affecting one eyeunable see threedimensional images
+
+people amblyopia also known lazy eye unable seethreedimensional image child poor dysfunctional eyesight
+critical period childhood may grow stereoblindbrain stimulated stereo image critical period
+vision problem corrected early childhooddamage becomes permanent adult never able see
+autostereograms estimated sometoof population
+affected amblyopia
+
+perception
+
+depth perception result many monocular binocular visual
+clue object relatively close eye binocular vision plays
+important role depth perception binocular vision allowsbrain create single cyclopean image attach depth levelpoint cyclopean image
+
+two eye converge object attention
+enlarge
+two eye converge object attention
+
+brain creates cyclopean image two image receivedtwo eyes
+enlarge
+brain creates cyclopean image two image receivedtwo eyes
+
+brain give point cyclopean image depth value
+represented grayscale depth map
+enlarge
+brain give point cyclopean image depth value
+represented grayscale depth map
+
+brain coordinate shift also known parallax matched
+object identify depth object depth levelpoint combined image represented grayscale pixelimage benefit reader closer point appears
+brain brighter painted thus way brain
+perceives depth using binocular vision captured depth map
+cyclopean image painted based coordinate shift
+eye adjusts internal lens get clear focused image
+enlarge
+eye adjusts internal lens get clear focused image
+two eye converge point object
+enlarge
+two eye converge point object
+
+eye operates like photographic camera adjustable iris
+open close allow light entereye camera except pinhole camera need focus light
+ray entering iris aperture camerafocus single point retina order produce sharp
+image eye achieves goal adjusting lens behind cornea
+refract light appropriately
+person stare object two eyeball rotate sidewayspoint object object appears centreimage formed eye retina order look nearby object
+two eyeball rotate towards eyesightconverge object referred crosseyed viewingsee faraway object two eyeball diverge become almost
+parallel known walleyed viewingconvergence angle much smaller crosseyed viewing
+
+stereovision based parallax allows brain calculate depthobject relative point convergence convergence
+angle give brain absolute reference depth valuepoint convergence absolute depth objects
+inferred
+
+simulated perception
+
+decoupling focus convergence trick brain seeingimage autostereogram
+enlarge
+decoupling focus convergence trick brain seeingimage autostereogram
+
+eye normally focus converge distance process
+known accommodative convergence looking faraway
+object brain automatically flattens lens rotates two
+eyeball walleyed viewing possible train braindecouple two operation decoupling useful purposeeveryday life prevents brain interpreting objects
+coherent manner see manmade pictureautostereogram pattern repeated horizontally however
+decoupling focusing convergence crucial
+
+focusing lens nearby autostereogram patternrepeated converging eyeball distant point behindautostereogram image one trick brain seeing imagepattern received two eye similar enough brain
+consider two pattern match treat comingimaginary object type visualization knownwalleyed viewing eyeball adopt walleyed convergence
+distant plane even though autostereogram image actually
+closer eye two eyeball converge plane
+farther away perceived location imaginary object behind
+autostereogram imaginary object also appears biggerpattern autostereogram foreshortening
+
+following autostereogram showsrows repeated patternpattern repeated different interval place different
+depth plane two nonrepeating line used verify correct
+walleyed viewing autostereogram correctly interpretedbrain using walleyed viewing one stare dolphinmiddle visual field brain see two set flickering
+line result binocular rivalry
+
+two black line autostereogram help viewer establish
+proper walleyed viewing see right
+enlarge
+two black line autostereogram help viewer establish
+proper walleyed viewing see right
+
+brain manages establish proper walleyed viewingsee two set lines
+enlarge
+brain manages establish proper walleyed viewingsee two set lines
+
+aredolphin pattern autostereogram brain
+seeapparent dolphin plane autostereogram
+side effect pairing similar pattern brain
+arepairs dolphin pattern image allowsbrain createapparent dolphin leftmost patternrightmost pattern partner brain tryassimilate two pattern onto established depth planeadjacent dolphin despite binocular rivalry result 
+apparent dolphin leftmost rightmost one appearing
+slight flicker dissimilar two set flickering
+line observed one stare apparent dolphin
+toprow cube appear bigger
+enlarge
+toprow cube appear bigger
+
+foreshortening difference convergence needed see
+repeated pattern different plane cause brain attribute
+different size pattern identical sizeautostereogram ofrows cube cubephysical dimension one top row appear biggerperceived farther away cube secondthird rows
+
+viewing techniques
+
+photographic camera easier make eye focusobject intense ambient light intense lightingeye constrict iris yet allow enough light reach retina
+eye resembles pinhole camera dependsfocusing lens word degree decoupling
+focusing convergence needed visualize autostereogram
+reduced place strain brain therefore mayeasier firsttime autostereogram viewer see firstimage attempt feat bright lighting
+
+vergence control important able see image thusmay help concentrate convergingdiverging two eye shift
+image reach two eye instead trying see clear
+focused image although lens adjusts reflexively orderproduce clear focused image voluntary control processpossible viewer alternate instead convergingdiverging two eye process seeing double image typically
+seen one drunk otherwise intoxicated eventually brain
+successfully match pair pattern reported two eyelock onto particular degree convergence brain also
+adjust eye lens get clear image matched pairdone image around matched pattern quickly become clearbrain match additional pattern using roughly degreeconvergence
+bottom part random dot autostereogram free images
+easier trick brain matching pair patternarea
+enlarge
+bottom part random dot autostereogram free images
+easier trick brain matching pair patternarea
+
+one move one attention depth plane anotherinstance top row second row cube
+autostereogram two eye need adjust convergence match
+new repeating interval pattern level changeconvergence high shift sometimes brain lose
+hardearned decoupling focusing convergencefirsttime viewer therefore may easier seeautostereogram two eye rehearse convergence exerciseautostereogram depth pattern across particular row
+remains constant
+
+random dot autostereogram image usually shownmiddle autostereogram background depth plane seeshark autostereogram may help establish proper convergence
+first staring either top bottom autostereogram
+pattern usually repeated constant intervalbrain lock onto background depth plane reference
+convergence degree match pattern different
+depth level middle image
+
+majority autostereograms including articledesigned divergent walleyed viewing one way help brain
+concentrate divergence instead focusing hold picturefront face nose touching picture picture
+close eye people cannot focus picturebrain may give trying move eye muscle order get clear
+picture one slowly pull back picture away facerefraining focusing rotating eye point brainlock onto pair pattern distance matchcurrent convergence degree two eyeballs
+
+another way stare object behind picture attempt
+establish proper divergence keeping part eyesight
+fixed picture convince brain focus picturemodified method viewer stare reflection shiny
+surface picture brain perceives located
+twice far away picture may help persuadebrain adopt required divergence focusing nearby
+picture
+
+crossedeyed autostereograms different approach needtaken viewer may hold one finger eye moveslowly towards picture maintaining focus fingertime correctly focused spotpicture allow view illusion
+
+terminology
+
+stereogram originally used describe pair image used
+stereoscope present image viewer termoften used interchangeably autostereogram random dot
+autostereogram tyler inventor autostereogram
+consistently refers singleimage stereograms autostereograms
+distinguish form stereograms
+
+random dot stereogram rds originally described pairimage showing random dot viewed stereoscope
+produced image term often used interchangeably
+random dot autostereogram
+
+single image stereogram synonym autostereogram sis
+differs stereograms use single image
+instead stereo pair single image viewedproper eye convergence cause brain fuse different
+pattern perceived two eye virtual image without
+aid optical equipment
+
+wallpaper autostereogram image pattern repeated
+various interval raise lower pattern perceivedlocation relation virtual background plane
+
+randomdot autostereogram also known single image random dot
+stereogram sirds term also refers autostereogramsintelligible pattern instead random dot used
+
+single image random text stereogram sirts alternativesirds using random normally ascii text instead dot produceform ascii art
+

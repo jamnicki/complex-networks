@@ -1,0 +1,190 @@
+copyright
+
+architecture window 
+ school wikipedia selection related subject software
+
+
+featured article click information
+ntbased operating system family architecture consists two layers
+user mode kernel mode many different module withinlayers
+enlarge
+ntbased operating system family architecture consists two layers
+user mode kernel mode many different module withinlayers
+
+window vista window serverwindows windowsand
+window part window familyntbasedmicrosoft operating system preemptive reentrant
+operating system designed work either
+uniprocessor symmetrical multi processor smpbased intel computer process inputoutput request packetdriven
+io utilises request packet irps asynchronous starting window microsoft began building bit support
+operating systemsbefore operating systembased bit model architecture window highly
+modular consists two main layer user mode kernel
+mode program subsystem user mode limited termsystem resource access kernel modeunrestricted access system memory external devicekernel operating system line known hybrid
+kernelsalthough worth noting term disputedclaim kernel essentially monolithic kernelstructured somewhat like microkernel architecture comprised
+hybrid kernel hardware abstraction layer hal driverexecutive exist kernel modethe higherlevel services
+implemented executive
+
+user mode window line made subsystem capablepassing request appropriate kernel mode software driverusing manager two subsystem make user mode layerwindowsthe environment subsystem run application writtenmany different type operating system integral subsystem
+operates system specific function behalf environment
+subsystem kernel mode windowshas full access hardware
+system resource computer kernel mode stop user mode
+service application accessing critical areaoperating system access
+executive interface user mode subsystem deals
+io object management security process managementkernel sits hardware abstraction layer executiveprovide multiprocessor synchronization thread interrupt scheduling
+dispatching trap handling exception dispatchingkernel also responsible initialising device driver bootup
+kernel mode driver exist three level highest level drivers
+intermediate driver low level driver window driver model wdm
+exists intermediate layer mainly designed binary
+source compatible windowsand windowsthe lowest
+level driver either legacy window device driver control
+device directly pnp hardware bus
+
+user mode
+
+user mode made subsystem pas requestappropriate kernel mode driver via manager exists
+kernel mode two subsystem make user mode layer windows
+environment subsystem integral subsystem
+
+environment subsystem designed run application writtenmany different type operating system none environment
+subsystem directly access hardware must request accessmemory resource virtual memory manager run kernel
+mode also application run lower priority kernel mode
+process currently three main environment subsystemwin subsystem subsystem posix subsystem
+
+win environment subsystem run bit window applicationcontains console well text window support shutdownharderror handling environment subsystem also
+support virtual machine vdms allow msdos bit
+window xwin application run windowspecific msdos vdm run address spaceemulates intelrunning msdoswin program however run
+win vdm program default run process
+thus using address space win vdm give program
+thread run however windowsdoes allow user run
+win program separate win vdm allows programpreemptively multitasked windowswill preempt whole vdm
+process contains one running application environment subsystem support bit characterbased applications
+emulates bit graphical applicationused later posix environment subsystem supports
+application strictly written either posix standard
+related iso iec standards
+
+integral subsystem look operating system specific functions
+behalf environment subsystem consists security
+subsystem workstation service server service security
+subsystem deal security token grant denies access user
+account based resource permission handle logon requestinitiate logon authentication determines system resources
+need audited windowsit also look active
+directory workstation service api network redirector
+provides computer access network server service
+api allows computer provide network services
+
+kernel mode
+
+windowskernel mode full access hardware system
+resource computer run code protected memory areacontrol access scheduling thread prioritisation memory management
+interaction hardware kernel mode stop user mode
+service application accessing critical areaoperating system access user mode
+process ask kernel mode perform operation behalf
+
+kernel mode consists executive service mademany module specific task kernel driver kernelhardware abstraction layer hal
+
+executive
+
+executive interface user mode subsystem deals
+io object management security process managementcontains various component including manager security
+reference monitor object manager ipc manager virtual
+memory manager vmm pnp manager power manager wellwindow manager work conjunction window graphics
+device interface gdi component export kernelonly
+support routine allows component communicate one
+another grouped together component called executive
+service executive component access internal routineexecutive component
+
+object manager special executive subsystemexecutive subsystem must pas gain access window 
+resourcesessentially making resource management infrastructure
+service object manager used reduce duplication object
+resource management functionality executive subsystemcould potentially lead bug make development window 
+harderto object manager resource object whether
+resource physical resource file systemperipheral logical resource file object hastructure object type object manager must knowanother executive subsystem request creation objectsend request object manager creates empty object
+structure requesting executive subsystem fill 
+object type define object procedure data specificobject way object manager allows windowstoobject oriented operating system object type thoughtclass define objects
+
+instance object created store name parameters
+passed object creation function security attributes
+pointer object type object also contains object
+close procedure reference count tell object managermany object system reference object thereby
+determines whether object destroyed close requestsent itevery object exists hierarchical object namespace
+
+executive subsystem following
+io manager allows device communicate usermode
+subsystem translates usermode read write command read
+write irps pass device driver accepts file
+system request translates device specific calls
+incorporate lowlevel device driver directly
+manipulate hardware either read input write output also
+includes cache manager improve disk performance caching
+read request write disk background
+security reference monitor srm primary authorityenforcing security rule security integral subsystem 
+determines whether object resource accessed via
+use access control list acls made
+access control entry ace ace contain security
+identifier sid list operation ace giveselect group trusteesa user account group account logon
+sessionpermission allow deny audit resource 
+ipc manager short interprocess communication managermanages communication client environment
+subsystem server component executive use
+two facility local procedure call lpc facility clients
+server one computer remote procedure call
+rpc facility client server situated different
+computer microsoft significant security issuerpc facility 
+virtual memory manager manages virtual memory allowing windows
+use hard disk primary storage device although
+strictly speaking secondary storage control paging
+memory physical memory disk storage
+process manager handle process thread creationtermination
+pnp manager handle plug play support device detection
+installation boot time also responsibilitystop start device demandsometimes happensbus gain new device need device driver loadedsupport device firewire usb hotswappablerequire service pnp manager load stop start
+device pnp manager interface hal restexecutive necessary device drivers
+power manager power manager deal power eventgenerates power irps coordinate power eventseveral device send request turned determinesbest waydisplay system moved user mode kernel
+mode device driver contained file winksystwo component device driverthe window managergdi
+window manager responsible drawing window menucontrol way output painted screenhandle input event keyboard mouse
+pass message application need receive
+input
+gdi graphic device interface responsible tasks
+drawing line curve rendering font handling
+palette windowsintroduced native alpha blendinggdi
+
+kernelkernelmode drivers
+
+kernel sits hal executive provides
+multiprocessor synchronization thread interrupt schedulingdispatching trap handling exception dispatching kernel
+often interface process manager kernel also
+responsible initialising device driver bootupnecessary get operating system running
+
+windowsuses kernelmode device driver enable interact
+hardware device driver well defined system
+routine internal routine export restoperating system device seen user mode code file
+object manager though manager devices
+seen device object defines either file devicedriver object kernel mode driver exist three level highest
+level driver intermediate driver low level driver highest
+level driver file system driver fat ntfs relyintermediate driver intermediate driver consist function drivers
+main driver devicethat optionally sandwichedlower higher level filter driver function driver relies
+bus driveror driver service bus controller adapter
+bridgewhich optional bus filter driver sits
+function driver intermediate driver relylowest level driver function window driver model wdm
+exists intermediate layer lowest level driver either
+legacy window device driver control device directlypnp hardware bus lower level driver directly control
+hardware rely drivers
+
+hardware abstraction layer
+
+windowshardware abstraction layer hal layerphysical hardware computer rest operating
+system designed hide difference hardware therefore
+provide consistent platform application may run hal
+includes hardware specific code control interface interrupt
+controller multiple processors
+
+windowswas designed support bit dec alpha compaq
+announced would discontinue support processor microsoft
+stopped releasing test build windowsfor axp public
+stopping betadevelopment window alpha continued
+internally order continue bit architecture
+development model ready wider availability intel
+itanium architecture hal support hardwarecompatible intel architecture
+retrieved 
+httpenwikipediaorgwikiarchitectureofwindowsnt
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

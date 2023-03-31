@@ -1,0 +1,611 @@
+copyright
+
+macintosh
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+macintosh first macintosh computer introduced 
+upgraded fat mac
+macintosh first macintosh computer introduced 
+upgraded fat mac
+
+mac formerly macintosh currently refers personal computer
+designed developed manufactured marketed apple inc named
+mcintosh variety apple original macintoshreleased januaryit first commercially successful
+personal computer use graphical user interface gui mouse
+instead thenstandard command line interface current range
+mac varies apple entry level mac mini desktopmidrange server xserve mac system mainly targetedhome education creative professional market productionmac based upon vertical integration model apple
+facilitates aspect hardware creates operating
+system preinstalled mac contrast pcs
+preinstalled microsoft window one vendor providesoperating system multiple vendor create hardwarecase hardware run operating system modern mac like
+pc capable running operating system linux freebsd
+windows
+
+original macintosh computer used motorola familymicroprocessor later model switched motorola ibms
+powerpc range cpu inapple began transitionpowerpc line intels architecture inwhich first
+time allowed mac run native operating system binary architecture current mac use intel core intel coreand intel
+xeonseries microprocessor current mac model come
+preinstalled native version latest mac xcurrently versionand commonly referred code
+name tiger apple releasing mac v codenamed
+leopard october 
+
+history
+
+ todevelopment
+
+macintosh project started earlywith jef raskin apple
+employee envisioned easytouse lowcost computeraverage consumer septemberraskin authorized start
+hiring project began look engineer could
+put together prototype bill atkinson member apple lisa team
+wa developing similar higherend computer introduced
+burrell smith service technician hired earlier
+year apple employeeover year raskin assembledlarge development team designed built original macintosh
+hardware software besides raskin atkinson smith team
+included chris espinosa joanna hoffman george crow jerry manock
+susan kare andy hertzfeld
+
+smith first macintosh board built raskins design
+specification hadkibibytes kib ram used motorola
+e microprocessor capable supporting apixel
+blackandwhite bitmap display final product used inch
+x monochrome display bud tribble macintosh programmerinterested running lisas graphical program macintosh
+asked smith whether could incorporate lisas motorola 
+microprocessor mac still keeping production cost
+decembersmith succeeded designing boardused thebut bumped speed fromtomegahertz
+mhz board also capacity support abitmap
+display smith design used fewer ram chip lisa made
+production board significantly costefficient final
+mac design selfcontained far programming code rom
+computer hadkib ram formsixteenkilobit ram chip soldered logicboard though
+memory slot ram expandable tokib means
+soldering sixteenkib ram chip placefactoryinstalled chips
+
+innovative design caught attention steve job cofounderapple realizing macintosh marketable lisa
+began focus attention project raskin finally leftmacintosh project inover personality conflict jobfinal macintosh design said closer job idearaskins hearing pioneering gui technologydeveloped xerox parc job negotiated visit see xerox alto
+computer smalltalk development tool exchange apple stock
+option lisa macintosh user interface partially
+influenced technology seen xerox parc combinedmacintosh group idea job also commissioned industrial designer
+hartmut esslinger work macintosh line resulting snow
+white design language although came late earliest
+mac implemented mid lates apple
+computer however job leadership macintosh projectshortlived internal power struggle new ceo john
+sculley job fired apple inwent found next
+another computer company return untilceo john
+sculley raised price u pay massive
+marketing campaign
+
+ introduction
+
+macintosh officially announced januarywithnowfamoussuper bowl commercial directed ridley scottcommercial showed woman played anya major defiantly throwsledgehammer big brotherlike video screen represented
+ibm symbolized apple bringing power peoplechallenging textbased computer dominated markettime
+
+mac went sale two day aired
+came bundled two useful program designed showinterface macwrite macpaint although mac garneredimmediate enthusiastic following radicalmachine entirely designed around gui existing textmode
+commanddriven program redesigned rewrittenwa challenging undertaking many software developer shied away
+resulted initial lack software new system
+many user accustomed arcane world command line labeled
+mac mere toy
+
+ tothe desktop publishing era
+
+inthe combination mac apple laserwriter printermacspecific software like boston software macpublisher aldus
+pagemaker superseded adobe indesign enabled user design
+preview print page layout complete text graphicactivity known desktop publishing desktop publishing uniquemacintosh eventually became available user well
+later program macromedia freehand quarkxpress adobe
+illustrator strengthened mac position graphic computerhelped expand emerging desktop publishing market
+
+limitation first mac soon became clear little
+memory even compared personal computer inand could
+expanded easily lacked hard drive meanattach one easily although bythe mac base memory increased
+tokib possible although inconvenient difficult
+expand memory akib mac apple realized mac
+needed improvement area result macintosh plus
+released januaryfor offered one mebibyte
+mib ram expandable four thenrevolutionary scsi
+parallel interface allowing seven peripheralssuch hard
+drive scannersto attached machine floppy driveincreased ankb capacity plus immediate successremained production octoberon salefour year ten month longestlived mac apples
+history
+macintosh first expandable macintosh
+macintosh first expandable macintosh
+
+issue remained particularly low processor speed limited
+graphic ability hobbled mac ability make inroads
+business computing market updated motorola cpu made faster
+machine possible inapple took advantage new motorola
+technology introduced macintosh used amhz
+motorolaprocessor marked start new directionmacintosh first time open architecture
+several expansion slot support colour graphic modular
+break design similar ibm inspired apples
+line expandable apple series alongside macintosh macintosh wa released first compact mac internal
+expansion slot processor direct slot specific machinese shared macintosh snow white design language wellnew apple desktop bus mouse keyboard first appearedapple iigs month earlier
+
+new motorolaprocessor came macintosh iix 
+benefited internal improvement including onboard
+mmu followed inby compact version fewer slots
+macintosh iicx version mac powered themhz
+macintosh later year macintosh iici
+running atmhz first mac bebit clean allowingnatively support thanmib ram unlike predecessors
+bit dirty romsof thebits availableaddressing used level flag systemwas first
+macintosh operating system support bit addressing apple also
+introduced macintosh portable amhzmachineactive matrix flat panel display following year themhz
+macintosh iifx starting wa unveiled apartfast processor significant internal architectural
+improvement including faster memory pair dedicatedcpus
+io processing
+
+ togrowth decline
+
+macintosh classic apple early budget model
+macintosh classic apple early budget model
+
+microsoft windowswhich began approach macperformance feature set released mayand usable
+le expensive alternative macintosh platform apple response
+wa introduce range relatively inexpensive mac october
+macintosh classic essentially expensive versionmacintosh sold making least expensive mac
+rerelease subsequent price cut themhz imacfebruarythe powered macintosh distinctive
+pizza box case available offered colour graphics
+wa accompanied new lowcost pixel monitormacintosh iisi essentially amhz iici one expansion slot
+cost three machine sold well although apple profit
+margin considerably lower earlier machines
+
+saw muchanticipated release systema bit rewritemacintosh operating system improved handling colour
+graphic memory addressing networking cooperative multitasking
+introduced virtual memory later year apple introducedmacintosh quadraandthe first mac employ faster
+motorolaprocessor joined improved versionprevious year hit macintosh classic macintosh iilatter upgraded use amhzcpu
+
+time first three model apple enduring powerbook
+range introducedthe powerbooka miniaturized macintosh
+portable themhzpowerbookand themhz 
+powerbookthey first portable computer keyboard
+behind palm rest builtin pointing device trackball
+front keyboard
+
+inapple started sell lowend mac performanontraditional dealer apple dealer midrange versionquadra series called macintosh centris offeredquickly renamed quadra buyer became confused rangeclassic lcs quadras performas centrises apple also
+unveiled miniaturized powerbook duo range intendeddocked base station desktoplike functionalityworkplace powerbook duo dropped apple product lineearly 
+
+next evolutionary step macintosh cpu switch risc
+powerpc architecture developed aim alliance apple computer
+ibm motorola since introduction power macintosh line
+proved highly successful million unit sold late
+three month ahead apple oneyear goal year
+apple released secondgeneration powerbook model powerbook
+series introduced novel trackpad
+
+despite technical commercial success microsoft intel
+began rapidly erode apple market share window 
+operating system pentium processor respectivelysignificantly enhanced multimedia capability performancepc brought window still closer mac gui response apple
+started macintosh clone program regain footholddesktop computer market succeeded increasing macintoshs
+market share somewhat cost undermining apple bottom
+line company saw regular loss period clonemanufactured result steve job returned apple inhe
+pulled plug whole operation reasoning despitemachine often providing value consumer apple losinglot money clone market decision caused significant
+financial loss company like motorola invested
+substantial resource starting maccompatible lines
+
+ present new beginnings
+
+ina year steve job returned company apple
+introduced allinone macintosh similar original
+macintosh imac new design away apple
+standard connection scsi adb favour two usb ports
+featured innovative new design translucent plastic case
+originally bondi blue later many color consideredindustrial design hallmark late imac provedphenomenally successful withunits sold inmakingcompany annual profit millionapples first profitable
+year since michael spindler took ceo inat macworld 
+san francisco steve job stated sold overmillion
+imacs previous quarter one every six second power macintosh
+wa redesigned similar blue white aesthetic
+
+inapple introduced new operating system mac server 
+codenamed rhapsody new gui powerful unix underpinnings
+nextlike gui left many mac user disappointed wonderingnext generation mac gui would look like mac xbased openstep operating system developed steve jobs
+postapple company next mac wa released publicseptemberas mac public beta aqua interface
+much different mac server cost allowed
+adventurous mac user sample apple new operating systemprovide feedback company wanted seeactual release final release xnicknamed cheetah
+wa released marchsubsequent release werepuma
+septemberjaguar augustpanther
+octoberandtiger aprilversion 
+leopard scheduled released public october 
+macbook pro first mac notebook use intel processorwa released macworld 
+macbook pro first mac notebook use intel processorwa released macworld 
+
+mid apple introduced ibook new consumerlevel portable
+mac designed similar appearance imacintroduced year earlier six week ibooks unveiling
+thanorders placed october computer
+wa much sale hit imac apple continued add new
+product lineup emac powerbook wellmake two major upgrade imac januaryapple
+announced release mac mini priced least
+expensive mac date
+
+recent year apple seen significant boost sale macs
+many claim due part success ipodhalo effect whereby satisfied ipod owner purchase apple
+equipment ipod digital audio player recaptured brand
+awareness mac line seen since original
+release infromtomac sale increased continuouslyannual basis octoberapple released fourth quarter
+result reporting shipment ofmacs aincreasequarter previous year starting introductionimac core duo macbook pro januaryapplegradually switched powerpc microprocessor microprocessors
+manufactured intel apple completed transition august 
+apple worldwide developer conferenceintroduction mac pro based intels xeon
+microprocessor
+
+timeline macintosh models
+
+usemappng
+
+current product line
+
+image name type market description
+mac mini mac mini desktop consumer mac mini least
+expensive mac currently production ship without monitor
+keyboard mouse come two version core duo
+processors
+imac imac desktop consumer imac apple current flagship
+consumer desktop computer powered mobile version intel
+coreduo cpu allinone unit screen size available
+mac pro mac pro desktop professional mac pro appleexpensive highend workstation computer replaces power mac current model feature two dualcore intel xeon woodcrest cpus
+two quad core intel xeon clovertown cpu include
+displays
+white macbook macbook portable consumer macbook apples
+consumer portable intel coreduo processor runningslightly slower speedsghz orghz cpumacbook pro line replaces ibook inch
+powerbook used powerpc processors
+macbook pro macbook pro portable professional macbook prohighend portable workstation computer run intel core 
+duo processor atghz orghz withor inch screens
+inch model come atghz
+xserve xserve server enterprise xserve enterprisegrade
+u rackmount server specifically marketed towards missioncritical
+data center enterprise client service mostly usedcluster distributed computing protein analysis uses
+intel xeon woodcrest processors
+
+hardware
+
+current mac product family intel processor mac
+model ship leastmib ram standard current mac
+computer use ati radeon nvidia geforce intel gma graphics
+processor include either combo drive dvd player burner
+allinone superdrive dualfunction dvd burner macs
+include two standard data transfer port usb standardized 
+imac firewire technology developed apple support
+higherperformance device usb ubiquitous today firewiremainly reserved highperformance device hard drivevideo cameras
+
+inkeeping philosophy making computing easy possible
+majority mac computer shipped singlebutton mousechanged augustwhen apple released fourbutton mighty
+mouse wireless version made available julyand
+began ship new desktop mac starting new imac released octoberapple started include builtin isight
+camera appropriate model medium centre interface called
+front row operated remote control accessing media
+stored computer
+
+ina new formfactor development supported apple mac
+turned tablet aftermarketers axiotron introducingmodbook tablet running mac created reengineering
+standard macbook
+
+processor architecture
+
+original macintosh used motorolaa bit bit
+internal cisc processor ran atmhz macintosh portablepowerbookboth used amhz version macintosh featuredfull bit motorolaprocessor mac rom time
+contained software supported bit memory addressing
+therefore using fraction chip memory addressing
+capability unless software patch applied maclimitation referred bit clean successor
+macintosh iix introduced motorolaprocessor addedmemory management unit thedid builtin floating
+point unit fpu thus based macintosh incorporated separate
+uniteither theorlowercost model without although
+incorporated fpu socket user decide add oneoption first bit clean macintosh could use bit
+memory addressing without software patch iici inapple
+released first computer containing motorolaprocessor
+contained floating point unit main processorlowercost model fpus based cutdown
+motorola instead
+
+afterapple used powerpc line processor startingpowerpcwhich later upgraded theand 
+e inapple introduced first computer basedsignificantly upgraded powerpc processor followedpowerpc last generation powerpc processorintroduced bit powerpc g introduced 
+transition powerpc apple cognac team wrotetopowerpc emulator booted early loading
+initially emulation speed wasnt stellar later version useddynamic recompilation emulator boosted performance caching
+frequently used section translated code first versionship earliest powerpc system estimated run 
+emulated later version operating system increasedpercentage powerpc native code brought tonative
+
+powerpcprocessor introduced symmetric multiprocessing smpmacintosh platform dual powerpc eequipped power macintosh
+andmodels processor smpcapable g apple introduced many dualcpu g power macs
+top range power macintosh us two dual core
+processor total four cores
+
+junesteve job announced company would begin
+transitioning macintosh line powerpc intel microprocessors
+transition completed augustand demonstrated version
+mac running computer powered intel pentiumcpu
+intelpowered mac able run macintosh software compiledpowerpc processor using dynamic translation system known 
+rosetta reason switch believed ibms apparent
+inability deliver cpu suited apple notebooks
+
+first mac intel processor imac inch
+macbook pro announced macworld conference expojanuarythroughout year mac mini transitionedintel architecture user choice either core solocore duo cpu ibook product line phased macbook
+none pro augustthe power mac wa discontinuedfavour mac pro based new intel xeon woodcrestxserve also transitioned intel xeon woodcrestsecond half ofapple launched new imac macbook line usingcoreduo processor claiming tofaster
+
+expandability connectivity
+
+typical universal serial bus usb type cable usb become
+standard modern mac computers
+typical universal serial bus usb type cable usb become
+standard modern mac computers
+
+earliest form internal macintosh expandability processor
+direct slot present onwards basicallyshortcut cpu socket buswhich also meant partpd slot tied specific macintosh model notable
+exception pd slot standardized across entire
+lc line slot could used processor upgrade ethernet
+card apple iie card video card last line macintoshes
+pd slot first generation power mac first
+macintosh feature bus expansion macintosh iiform six nubus parallel bit bus slot nubus abandoned
+favour pci secondgeneration power mac introduced bit pci slot well agp slot video cards
+later became powered support apple adcbased displaypower mac quickly introduced pcix slot shortlivedfinal mac pro use pci express graphicexpansion memory apple used standard simmsand pin
+proprietary pin dimms later industrystandard sdram ddr
+dimms
+
+earliest macintosh used special proprietary serial portpin dsubminiature connector external floppy hard drives
+scsi introduced macintosh plus scsi remainedmacintosh drive medium choice mid less
+expensive ata drive introduced first budget modelacross whole range current macintosh use serial ata internal
+hard drive ata internal optical drive firewire usb 
+external drive peripheral apple desktop busintroduced macintosh macintosh wa standard
+input connector keyboard mouse usb introducedimac last macintosh adb power macintosh bluewhite alongside usb legacy macintosh peripheral
+connector include serial geoport aaui port networking
+external video signal apple used connector models
+prior blueandwhite used vga connectororiginal agpbased used vga complemented dvi almost later
+g however used apple display connector addition vgadvi port recent mac apple used single duallink
+dvi connector power mac two connector allowing
+dual display early power mac one dvi one adc port
+
+software
+
+operating system
+
+macintosh operating system originally known system
+software simply system release systemthe
+official name became mac fromthe classic mac phased
+favour new bsd unixbased mac apple offered
+another unix system aux macintosh server earlierwithout much success mac operating system widely considered
+one main selling point mac platform apple heavily
+tout release large releaseday special event applegenerally chosen stick loose userinterface elementrelease many similarity seenlegacy mac osand modern mac 
+mac first widely used operating system graphical
+interface version classic mac featured command line
+interface originally singletasking limited
+background execution ability optional cooperative multitasking
+wa introduced system softwarethe next major upgrade system
+inwhich featured new fullcolour design builtin
+multitasking applescript user configuration option mac continued evolve versionbut dated
+architecturethough retrofitted time example partpowerpc port nanokernel added later mac oswas
+modified support multiprocessing service made replacement
+necessary
+
+marchapple introduced mac modern secure
+unixbased successor using darwin xnu mach foundation mac
+x directly derived nextstep operating system developed
+steve job company next apple bought older mac program still run mac special virtual machine
+called classic possible using apple software macs
+using powerpc processor mac using intel processor need third party
+software run older code program similar classic called
+rosetta allow powerpc program run intel machine mac x remains common unixbased desktop operating system even
+though mac wa never originally certified unix implementation
+open group apple currently working full unix compliance
+certification next server release mac currentlyversionreleased aprilcodenamed tiger next
+version mac v codenamed leopard scheduledreleased october 
+
+nonapple operating system today mac include linux netbsdopenbsd release intelbased mac computer potential
+natively run windowsbased operating system apple hardware
+without need emulation software virtual pcintroduced march ofa group hacker announcedable run window intel based mac groupreleased software open source posted download
+website aprilapple announced public beta
+availability boot camp software allow ownerintelbased mac install window machine boot camp
+standard feature leopard
+
+software history
+
+since introduction mac criticized lesser
+range software title available operating systemcomparison windowsbased init apparentwider range software available ibm used
+popular operating system time msdos apple struggled
+encourage software developer port software titlemacintosh however bill gate microsoft realized gui would
+become industry standard software would sell large
+quantity available macintosh inmicrosoft word
+microsoft multiplan available large selling point
+mac however lacked business software gamelotus software introduced lotus jazz success lotus
+ibm although largely flop
+
+inapple spun software business claris given
+code right several program written within
+apple notably macwrite macpaint macproject lateclaris released number revamped software title resultpro series including macpaint pro macdraw pro macwrite pro
+filemaker pro provide complete office suite claris purchased
+right informix wingz spreadsheet mac renamingclaris resolve added new presentation program claris impact
+early claris program shipping majorityconsumerlevel macintosh extremely popular inclaris
+released clarisworks soon became second bestselling
+program claris later folded back apple clarisworksrenamed appleworks beginning versionhence cwk
+extension end name appleworks document day
+
+new mac come suite consumerlevel applications
+sometimes known iapps ina digital video editing
+application imovie released use imac next came
+itunes digital jukebox designed work apple ipod digital
+music player januaryapple released iphotoeasytouse digital photo organizer inapple began market
+application along idvd garageband suite
+called ilife also come packaged every new apple computer
+intended make mac versatile box providing
+several highvalue consumer medium application popular tool
+suite itunes window version spawnedpopular online music store itunes store ilifewas
+notable addition support high definition videoraw image format price increase january 
+ilifewas released iweb new website creation applicationadded suite
+
+complement mac apple built portfolio digital media
+application well three application geared towards
+productivity iwork suite filemaker pro
+
+advertising
+
+ever since introduction macintosh inwith 
+super bowl commercial apple recognized efforts
+towards effective advertising marketing macintoshmacintosh introduction page brochure included various
+magazine decemberoften remembered presence bill
+gate pagefor special postelection edition newsweeknovemberapple spent usmillion buyadvertising page issue total ofapple also ran test
+drive macintosh promotion year potential buyercredit card could trial macintosh forhours returndealer afterwards began look like success 
+participant advertising age magazine named one 
+best promotion ofhowever dealer disliked promotionsupply computer insufficient demand many computers
+returned bad shape could longer sold
+
+inthe lemming commercial aired super bowl apple went
+far create newspaper advertisement stating gobathroom fourth quarter youll sorry large
+failure capture nearly much attention 
+commercial many brochure new model like macintosh
+plus performa followed apple started whats
+powerbook campaign print television commercials
+featuring celebrity describing powerbook helpbusiness everyday lives
+
+inapple responded introduction windowswithseveral print television commercial demonstratingdisadvantage lack innovation inthe think different
+campaign introduced apple new slogan inthe switch campaign
+followed recent advertising strategy apple getmac campaign north american japanese variants
+
+today apple focus much advertising effort around special
+event keynote conference like macworld expoapple expo event typically draw large gathering media
+representative spectator past special eventused unveil desktop notebook computer imacmacbook consumer electronic device like ipod apple iphone
+
+effect technology industry
+
+apple introduced number innovation direct relationmacintosh later adopted rest industrystandard design computer possibly apple numberone
+achievement first largescale use graphical user interface
+operating system software developed first xerox macintosh
+introduced innovation graphical user interface use
+double click drag drop still usemany operating system macintosh also introduced software
+allowed wysiwyg see get pronounced
+whizzywig text graphic editing alongside significant technical
+improvement long file name permitting whitespacerequiring file extensionfloppy disk drive bit mono audio
+builtin speaker output jack standard features
+
+macintosh platform introduced many innovation ideasignificant effect computer industry especiallyarea communication standard one first wamacintosh plus successfully introduced scsi interfacemacintosh iisi macintosh introduced standard audio
+port today port standard large
+majority computer beginning imac inapple madeuniversal serial bus standard introduced firewire highspeed
+data transfer bus popular mediaediting computer almostdigital video camera apple also innovated area networking
+heavy marketing early implementation existing wireless
+networking standard ieee bairport macintosh portable
+line inthe imac debuting inwas one earlier
+computer floppy disk drive today almost new computers
+come one macintosh able support multiple monitorfar back asa full ten year windowssupported dual
+monitor apple developed imac dual monitor heavily
+influenced bobby green development dsds dual screen duo
+system macintosh also first personal computervirtual memory inusing virtual connectix product
+
+apple also contributed heavily field mobile computing
+many feature mobile computer become normpowerbookandset ergonomic standardplacement keyboard inby moving keyboard behind palm
+rest rather right bottom laptop inthe
+powerbookseries featured first builtin pointing devicelaptop trackball powerbook duo also introduced ideadockport replicator inone important feature ever
+added macintosh powerbook lineup first true touchpadpointing device powerbookintoday laptops
+rely pointing device recently powerbook became first fullsize laptop computer feature widescreen
+display init became first laptop computer inch
+display init became first laptop computer provide
+duallink dvi apple first deliver wifi internet access using
+wifi alliance standard airport product line
+
+market share demographics
+
+ever since introduction macintosh apple struggledgain significant share personal computer market firstmacintosh suffered dearth available software comparedibms resulting disappointing sale inandonly
+mac sold septemberjobs originally
+predicted five million unit would sold within two year sales
+eventually crossed one million mark marchand two
+million mark inand three year later installed base finally
+reached five million mac computer widely usedcreative professional market including journalism desktop
+publishing video editing audio editing also made inroads
+educative scientific research sector 
+
+bythere thanmillion mac user comparedinstalled base aroundmillion window statistic late
+indicate apple hadof desktop share united
+state increased toby qas october 
+research firm idc gartner reported apple market shareu increased aboutthe latest figure december
+showing market share aroundidc andgartnerbased aincrease unit sale fromto 
+
+actual installed base mac computer extremely harddetermine number ranging conservativeto optimistic
+
+
+whether size mac market share installed baseactually relevant hotly debated issue industry
+pundit often called attention mac relatively small
+market share predict apple impending doom particularlylate company future seemed bleakest others arguemarket share wrong way judge mac success citingfollowing reasons
+apple positioned mac higherend personal computermisleading compare mac lowbudget equally
+capable within computer industry doe market share seemmajor concern rarely topic raised automobiletelevision industry example
+much emphasis placed mac worldwide market shareexpense united state market share 
+stand almost twice corresponding worldwide figure
+overall market personal computer grown much
+rapidly mac increasing sale number effectively
+swallowed industry number whole apple small
+market share give false impression fewer people
+using mac example ten year ago
+market share number ignore total installed baseparticular platform statistic difficult accurately
+determine example one platform replaced oftenothers number use given moment would higherindicated sale alone
+regardless mac market share apple remained profitable
+ever since steve job return company subsequent
+reorganization
+
+market research indicates apple draw customer basehigherincome demographic mainstream market higher income
+correlate greater artistic creative welleducated social
+behavior may explain platform visibility within certain
+youthful avantgarde subculture steve job speculates maybelittle half apple customer republican maybe
+dell perception may mayaccurateseveral prominent conservative including george bushrush limbaugh mac usersbut reinforcedcompany pattern political donation gore membershipboard surely least job personal history
+
+advantage disadvantage criticisms
+
+macintosh differs several way xbased personal
+computer especially run window operating system
+apple control supply operating system directly
+subcontract hardware production asian oem laptop manufacturers
+asus maintaining high degree control end
+product contrast microsoft supply software original
+equipment manufacturer including dell compaq lenovo
+make hardware using wider range componentlesscommon operating system mean much smaller rangethirdparty software available although suitable applications
+microsoft office available area however
+following release intelbased mac thirdparty
+virtualization software parallel desktop crossover mac
+began emerge allowing user run previously windowsonly
+software mac apple also released public beta versionboot camp allows user run microsoft window nativelyintelbased macs
+design macintosh operating system contributednearabsence type malware spyware plague
+microsoft window user also due small user base
+deters attention malware designer however virus
+well potential vulnerability noted february 
+led industry analyst antivirus company issue
+warning apple mac immune viruses
+apple history innovation making bold changemet strong uptake software upgrade classic
+application allowed user run old mac osapplicationsmac computer though without advantage native mac
+x application apple intel transition started indoes
+support classic new intel mac purchasercomputer still using classic application either
+replace upgrade software run powerpc emulator
+sheepshaver transition involved recompilationmac software maximize performance interim
+unmodified mac application run intel chipemulation software rosetta application run fast
+rosetta normal application many analyst stated
+certain highprofile program adobe
+system used rosetta native versionreleased stopped analyst fully
+recommending apple computer seen reviewrecent macbook
+early history pcibased power mac macintosh
+hardware notoriously closed connector often proprietary
+requiring specialized peripheral adapter cable however since
+introduction original imac inapple computerused standard usb firewire connection allow usergreatly expanded choice peripherals
+originally hardware architecture closely tiedmac impossible boot alternative operating
+system common workaround used even apple aux
+unix implementation boot mac handcontrol program took system acted boot
+loader technique necessary open firmwarebased pci
+mac though formerly used convenience many old world
+rom system due bug firmware implementation modern mac
+hardware boot directly open firmware eficompliant
+firmware limited mac inapple
+introduced boot camp allows owner intelbased macinstall boot legacy bios based like window without
+use emulation software
+misconception macintosh computerintegrate many peripheral one unit repairpartsreplacement costly difficult comparedintelbased computer reality higherquality components
+used macintosh typically outlast commoditypc
+counterpart repair need done recognized
+apple service center mean user often correct
+problem
+litigation
+
+user interface gemdesktop almost direct copymacintosh apple sued charge look feeleventuallyuser interface gemdesktop almost direct copymacintosh apple sued charge look feeleventually
+many lawsuit centered around macintoshgenerally involve copyright infringement computer lookfeel macintosh released several company beganimitate apple success early lawsuit making digital
+research alter basic component graphical environment manager
+pictured user interface almost direct copymacintoshs
+
+notable case sort however apple computer inc
+v microsoft corp inapple sued microsoft hewlettpackard
+ground infringed apple copyrighted gui citing
+among thing use rectangular overlapping resizable
+window four year apple lostthe decision appeal
+several year litigation end microsoft boughtstock share apple late sin partvaguely worded contract signed microsoft bill gates
+threatened stop development microsoft office mac apples
+action criticized software community including
+free software foundation fsf maker free gnu operating
+system fsf characterized lawsuit attempt apple
+computer prevent anyone making user interface similarmacintosh called boycott gnu software macintosh
+platform fsf ended boycott inand current versionmac ship gnu tool installed gnu compiler gccintegral part apple xcode development platform
+
+inapple successfully sued emachines whose eone resembledthennew imac closely
+

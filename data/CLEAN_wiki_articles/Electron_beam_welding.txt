@@ -1,0 +1,65 @@
+copyright
+
+electron beam welding
+
+ school wikipedia selection related subject engineering
+
+electron beam welding ebw fusion welding process beam
+highvelocity electron applied material joined
+workpiece melt kinetic energy electrontransformed heat upon impact filler metal used also
+melt form part weld pressure appliedshielding gas used though welding often donecondition vacuum prevent dispersion electron beamprocess developed france released novemberin
+paris stohr
+
+operation
+
+electron strike workpiece energy convertedheat instantly vaporizing metal temperature near 
+c heat penetrates deeply making possible weld much thicker
+workpiece possible welding process however
+electron beam tightly focused total heat inputactually much lower arc welding process result
+effect welding surrounding material minimalheataffected zone small distortion slight workpiece
+cool rapidly normally advantage leadcracking highcarbon steel almost metal weldedprocess commonly welded stainless steels
+superalloys reactive refractory metal process also
+widely used perform weld variety dissimilar metals
+combination however attempting weld plain carbon steelvacuum cause metal emit gas melt deoxidizers must
+used prevent weld porosity
+
+amount heat input thus penetration depends several
+variable notably number speed electron impactingworkpiece diameter electron beam travel speed
+greater beam current cause increase heat input penetration
+higher travel speed decrease amount heat inputreduces penetration diameter beam varied moving
+focal point respect workpiecefocusing beamsurface increase penetration placing focal point
+surface increase width weld
+
+three primary method ebw applied different welding
+environment method first developed requires welding
+chamber hard vacuum result chamber must smallprevent crushed atmospheric pressure materialthick ascmin welded distancewelding gun workpiece standoff distance greatmin efficient three modes
+disadvantage include amount time required properly evacuate
+chamber cost entire machine electron beam gun
+technology advanced became possible perform ebw soft
+vacuum pressure oftorrs allows larger welding
+chamber reduces time equipment required attain evacuate
+chamber reduces maximum standoff distance halfdecrease maximum material thickness tocmin third ebw
+mode called nonvacuum outofvacuum ebw since performedatmospheric pressure standoff distance must diminished tocm
+maximum material thickness aboutcmin
+however allows workpiece size welded sincesize welding chamber longer factor
+
+equipment
+
+electron beam gun used ebw produce electronaccelerates using emitter made tungsten emits
+electron heated electron attracted anode
+inside tool collect directed magnetic
+force resulting focusing deflection coil components
+housed electron beam gun column hard vacuum
+abouttorr maintained
+
+ebw power supply pull low current usually thanaprovides voltage high askv lowvoltage machine orkv
+highvoltage machine highvoltage machine supply current low
+asma provide weld depthtowidth ratio ofwhereas
+ratio lowvoltage machine aroundthe beam powerpower supply indicator ability workdetermines power density generallykwcmkwin
+
+hard vacuum soft vacuum ebw method welding chamber
+used must airtight strong enough preventcrushed atmospheric pressure must openingworkpiece inserted removed size must sufficient
+hold workpiece significantly larger larger chambers
+require time evacuate chamber must also equippedpump capable evacuating desired pressure hard
+vacuum diffusion pump necessary soft vacuum oftenobtained costly equipment
+

@@ -1,0 +1,132 @@
+copyright
+
+gauss law
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+
+physic mathematical analysis gauss law developed carl
+friedrich gauss closely related gauss theorem give relation
+electric gravitational flux flowing closed
+surface respectively electric charge mass enclosedsurface gauss law used contextinversesquare law hold electrostatics newtonian
+gravitation two example one four equationunderpins electromagnetic theory
+
+integral form
+
+integral form law states
+
+phioints vece cdot mathrmdvecaover
+varepsilono intv rho mathrmdv 
+fracqavarepsilono
+
+whereis electric flux vece electric field
+mathrmdveca differential area closed surfaceoutward facing surface normal defining direction qacharge enclosed surfaceis charge density pointv varepsilono permittivity free space ointsintegral surface enclosing volume 
+information strategy application gauss law see
+gaussian surfaces
+
+differential form
+
+differential form equation becomes
+
+vecnabla cdot vecdrhomathrmfree
+
+vecnabla del operator representing divergenceelectric displacement field unit freefree electric charge density unit includingdipole charge bound material differential form derivespart gauss divergence theorem
+
+linear material equation becomes
+
+vecnabla cdot varepsilon vecerhomathrmfree
+
+varepsilon electric permittivity
+
+coulomb law
+
+special case spherical surface central chargeelectric field perpendicular surface magnitude
+point giving simpler expression
+
+efracqpivarepsilonr
+
+e electric field strength radius q enclosed
+charge andis permitivity free space thus familiar
+inversesquare law dependence electric field coulomb law
+follows gauss law
+
+gauss law used demonstrate electric field
+inside faraday cage electric charge gauss lawelectrostatic equivalent ampres law deal magnetism
+equation later integrated maxwell equations
+
+wa formulated carl friedrich gauss inbut wapublished untilbecause mathematical similarity gausss
+law application physical quantity governedinversesquare law gravitation intensity radiation
+see also divergence theorem
+
+gravitational analogue
+
+since gravity electromagnetism strength propagates
+relative squared distance two object relatetwo using gauss law examining respective vector fields
+vecg vecewhere
+
+vecggfracmvecrhatr
+
+
+vecefrac varepsilon
+fracqvecrhatr
+
+g gravitational constant mass point
+source radius distance point source another
+object varepsilon permittivity free space qcharge electric point source
+
+way evaluate surface integralelectromagnetism get result fracqvarepsilonwechoose proper gaussian surface find answergravitational flux point mass centered coordinate system
+origin logical choice gaussian surface sphereradius centered origin
+
+start integral form gauss law
+
+phigoints vecg cdot mathrmdveca
+
+infinitesimal area element area infinitesimal
+solid angle defined
+mathrmdvecar mathrmdomega hatr
+
+gaussian surface wisely chosen since vector normalsurface radial origin
+phigoints hatr cdot hatr mathrmdomega
+
+see inner product two radial vector unitymagnitude field vecgand squaredistance surface point remain constantevery element surface give integral
+
+phiggr oints mathrmdomega
+
+remaining surface integral surface area sphere
+r combine gravitational field equationexpression gravitational flux point
+mass
+
+phigfracgmrpi rpi 
+interesting note gravitational flux likeelectromagnetic counterpart doe depend radiussphere
+

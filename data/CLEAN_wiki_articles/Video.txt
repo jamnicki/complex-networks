@@ -1,0 +1,267 @@
+copyright
+
+video
+
+ school wikipedia selection related subject media
+
+help video wikipedia see wikipediamedia help
+
+video technology electronically capturing recording
+processing storing transmitting reconstructing sequencestill image represent scene motion video technologyfirst developed television system developed
+many format allow consumer video recording video also
+viewed internet video clip streaming media
+clip computer monitors
+
+video different film capture moving imagesequence still picture photographically
+
+description
+
+analog video standard bright greenntsc yellowpal switching
+pal orangesecam oliveno information
+enlarge
+analog video standard bright greenntsc yellowpal switching
+pal orangesecam oliveno information
+
+term video latin see commonly refers several
+storage format moving picture digital video format including
+dvd quicktime mpeg analog videotape including vhsbetamax video recorded transmitted various physical
+medium magnetic tape recorded pal ntsc electric signals
+video camera mpeg digital medium recordeddigital cameras
+
+quality video essentially depends capturing methodstorage used digital television dtv relatively recent format
+higher quality earlier television format becomestandard television video see list digital television
+deployment country
+
+dvideo digital video three dimension premiered endth century six eight camera realtime depth measurementtypically used capture dvideo stream format dvideofixed mpeg partanimation framework extension afx
+
+uk australia new zealand term video often used
+informally refer video recorder video cassettemeaning normally clear context
+
+characteristic video streams
+
+number frame per second
+
+frame rate number still picture per unit time video
+range six eight frame per second fps old mechanical
+camera toor frame per second new professional cameras
+pal europe asia australia etc secam france russia partafrica etc standard specifyfps ntsc usa canada japan
+etc specifiesfps film shot slower frame ratefps complicates slightly process transferringcinematic motion picture video achieve illusion moving
+image minimum frame rate ten frame per second
+
+interlacing
+
+video interlaced progressive interlacing inventedway achieve good visual quality within limitation narrow
+bandwidth horizontal scan line interlaced framenumbered consecutively partitioned two field odd field
+consisting oddnumbered line even field consistingevennumbered line ntsc pal secam interlaced formats
+abbreviated video resolution specification often includeindicate interlacing example pal video format often specified
+whereindicates vertical line resolutionindicates interlacing andindicatesfields halfframes per
+second
+
+progressive scan system refresh period updatescan line result higher perceived resolution lackvarious artifact make part stationary picture appearmoving flashing
+
+procedure known deinterlacing used convertinginterlaced stream analog dvd satellite processed
+progressive scan device tft tvsets projectorplasma panel deinterlacing cannot however produce video quality
+equivalent true progressive scan source material
+
+video resolution
+
+comparison resolutions
+enlarge
+comparison resolutions
+
+size video image measured pixel digital videohorizontal scan line analog video standarddefinition television
+sdtv specified ntscpal secam resolution new highdefinition televisionshdtv
+capable resolution iepixels per
+scan line byscan line progressive atframes per second
+
+video resolution dvideo measured voxels volume picture
+element representing value three dimensional space example
+voxels resolution used simple dvideodisplayed even pdas
+
+aspect ratio
+
+comparison common cinematography traditional television green
+aspect ratios
+enlarge
+comparison common cinematography traditional television green
+aspect ratios
+
+aspect ratio describes dimension video screen video
+picture element screen aspect ratio traditional television
+screen isorhigh definition television use aspect
+ratio ofor aboutthe aspect ratio fullmm film
+frame soundtrack also known academy standard around
+
+
+pixel computer monitor usually square pixel useddigital video often nonsquare aspect ratio used
+pal ntsc variant ccirdigital video standard
+corresponding anamorphic widescreen format therefore ntsc
+dv image ispixels bypixels displayed aspect
+ratio ofwhich traditional television standardpixel thin displayed aspect ratio andwhichanamorphic widescreen format pixel fat
+
+colour space bit per pixel
+
+example color plane value
+enlarge
+example colour plane value
+
+colour model name describes video colour representation yiqused ntsc television corresponds closely yuv scheme used
+pal television ydbdr scheme used secam television
+
+number distinct colour represented pixel
+depends number bit per pixel bpp common way reduce
+number bit per pixel digital video chroma subsampling
+eg
+
+video quality
+
+video quality measured formal metric like psnrsubjective video quality using expert observation
+
+subjective video quality video processing system mayevaluated follows
+choose video sequence src use testing
+choose setting system evaluate hrc
+choose test method present video sequence experts
+collect ratings
+invite sufficient number expert preferably fewer
+carry testing
+calculate average mark hrc based experts
+ratings
+
+many subjective video quality method described itut
+recommendation one standardized method double
+stimulus impairment scale dsis dsis expert viewunimpaired reference video followed impaired versionvideo expert rate impaired video using scale ranging
+impairment imperceptible impairmentannoying
+
+video compression method digital
+wide variety method used compress video stream video
+data contains spatial temporal redundancy making uncompressed
+video stream extremely inefficient broadly speaking spatial
+redundancy reduced registering difference partsingle frame task known intraframe compressionclosely related image compression likewise temporal redundancyreduced registering difference frame taskknown interframe compression including motion compensationtechnique common modern standard mpeg useddvd satellite television mpeg used home video
+
+bit rate digital
+bit rate measure rate information content video
+stream quantified using bit per second bit unitmegabit per second mbit higher bit rate allows better video
+quality example videocd bit rate aboutmbitslower quality dvd bit rate aboutmbits hdtv hastill higher quality bit rate aboutmbits
+
+variable bit rate vbr strategy maximize visual video
+quality minimize bit rate fast motion scene variable
+bit rate bit doe slow motion scene similar
+duration yet achieves consistent visual quality realtimenonbuffered video streaming available bandwidth fixed
+eg videoconferencing delivered channel fixed bandwidthconstant bit rate cbr must used
+
+stereoscopic
+
+stereoscopic video requires either two channelsa right channelright eye left channel left eye two overlayed
+colour coded layer left right layer techniqueoccasionally used network broadcast recent anaglyph releases
+movie dvd simple redcyan plastic glass provide means
+view image discretely form stereoscopic viewcontent new dvd bluray disk greatly improveeffect colour coded stereo program first commercially
+available player expected debut thenab show las
+vega april see article stereoscopy film
+
+video formats
+
+video display standard video connection standards
+new digital
+atsc usa canada etc advanced television systems
+committee
+dvb european digital video broadcasting
+isdb japanese integrated service digital broadcasting
+old analog
+mac europeobsolete
+muse japananalog hdtv
+ntsc usa canada japan etc
+pal europe asia australia etc
+palplus pal extension europepalm pal variation brazil
+secam france exussr central africa
+
+composite videorca bnc
+component videorca bnc
+video connector new hdtv
+svideo separated videominidin
+scart used europe
+dvi uncompressed video hdcp optional
+hdmi uncompressed videoaudio hdcp mandatory
+rf connector radio frequency coaxial connector
+bnc bayonet niellconcelman
+c connector concelman connector
+gr connector general radio connector
+f connector used domestic television installations
+ieciec connector used mostly n connector niell connector
+tnc connector threaded niellconcelman
+uhf connector plso
+sdi hdsdi
+vga connector mini subminivga used laptops
+
+analog tape format see analog television
+
+digital tape format see digital video
+ampex
+vera bbc experimental format 
+umatic sony
+betamax sony
+betacam
+betacam quadruplex videotapeampex
+type videotapeampex sony
+vcr vcrlp svr
+vhsjvc
+svhsjvc
+vhscjvc
+videophilips
+video
+video 
+sony
+sony
+hd
+digital betacam sony
+betacam imx sony
+hdv
+prohdjvc
+dvhsjvc
+dv
+minidv
+micromv
+digital sony
+
+optical disc storage formats
+
+digital encoding formats
+dvd super density disc dvd forum
+laserdisc old mca philips
+bluray disc sony
+enhanced versatile disc evd chinese governmentsponsored
+hd dvdhitachi toshiba
+
+cciritut
+mjpegiso
+mpegiso
+mpegitutiso
+mpegiso
+hitut
+hitut
+hmpeg avcitutiso
+vcsmpte
+ogg theora
+
+
+
+industrialhome video media
+magnetic tape
+
+verainch quadruplex videotapeinch typevideotapeumaticvideo cassette recording
+vcordvx aka great time machinebetamax
+inch type videotapeinch type videotape
+vhsvideovhscm
+betacamvideomiidsvhs 
+ddddigitals dhi
+svhscwvhsdvbetamax hdcam
+dvhsdigitalhdv 
+optical discs
+
+laserdisclaserfilmcd videovcddvd
+minidvdcvdsvcdfmdevd
+umdhd dvdbluray disc bddmd
+avchdhvd tba
+grooved videodiscs
+
+selectavisionvhd 
+

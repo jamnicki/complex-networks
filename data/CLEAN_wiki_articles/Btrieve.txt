@@ -1,0 +1,357 @@
+copyright
+
+btrieve
+
+ school wikipedia selection related subject software
+
+
+featured article click information
+
+computing btrieve transactional database based indexed
+sequential access method isam way storing datafast retrieval btrieve modularised versionand became one
+two database backends plugged standard software
+interface called microkernel database engine productscalable sql relational database product structured query
+language otherwise known sql several versionproduct linux older version microsoft windows
+windowswindows windowswindows window server 
+novell netware
+
+wa originally record manager shipped softcraftaround time release first ibm gaining
+market share popularity purchased novell integration
+netware operating system product failed gain
+significant market share reorganisation within novell
+product spun developed new company knownbtrieve technology inc bti several new versionreleased company renamed pervasive softwaresell product called pervasive psql use btrieve sql
+
+architecture
+
+mkde model allows different database backends pluggedpervasives software product
+enlarge
+mkde model allows different database backends pluggedpervasives software product
+
+btrieve relational database management system rdbms early
+description btrieve referred record manager though
+pervasive initially used term navigational database later
+changed transactional database dealunderlying record creation data retrieval record updating data
+deletion primitive isam underlying indexingstorage mechanism key part pervasives architecture usemicrokernel database engine allows different database backends
+modularised integrated easily dbms package
+pervasivesql allowed support btrieve
+navigational database engine sqlbased engine scalable sql
+
+current version btrieve support system transaction user
+transaction system transaction bundlenontransactional operation andor user transaction user
+transaction transaction work actual data database
+system transaction developed allow multiple transactiondone batch allow ability recover data easily
+
+btrieve file format consists entirely page data
+move memory storage medium engine performsio operation version prior tomerely used data page index
+page file control record fcr file indexsearching linked physical page beginning version 
+logical page started used page mappedphysical page page fixed location file disk
+use set page allocation table pat fcrrecord contains important information btrieve filenumber page current use order avoid corruptiondatabase btrieve two method updating record preimage paging
+btrieve version beforeand shadow paging subsequent
+version mainly changeover preimage pagingshadowpaging caused radical file format change broke
+compatibility previous version btrieve version xproduct
+
+history
+
+btrieve owned developed three different companies
+softcraft novell btrieve technology inc later renamed
+pervasive software committed loyal developerbasecompany literature remain fully committedproduct fact pervasive even set btrieve societyrecognises existing developers
+
+softcraft years
+
+product launched februaryby softcraft firm located
+austin texas doug nancy woodward doug becamevicepresident handled software development nancy becamepresident company released number versionnext year februarythey released btrieve series
+msdos developed support file directory handles
+released btrievewhen msdosstandardised internal
+interface marchthey released btrievecs one month later
+network clientserver support februarybtrieve
+wa released theupgrade released gained
+support extended key type supplemental indexes
+
+although btrieve fairly popular strongly differentiated
+killerapp database dbase never gainedsort popularity however known developer base grownoverusers widely used financial areacompany took time create userinterface product
+however inthey released xtrieve menudriven program used
+new ddf data dictionary enforce relational database rules
+
+novell acquisition
+
+innovell started diversifying buying company addnetware operating system one company purchasedsoftcraft nancy woodward became vicepresident general manager
+novells austin operation doug woodward becamevicepresident advanced database technology early next year
+btrievewas released run native netware application vap
+value added process according jim kyle autoincrement
+key type brouter network process server dataonly keyonly
+file optional data compression versionwas released 
+increased filehandling transaction capability loggingrollforward operation along several api enhancement several
+version created microsoft window version 
+wa released junehowever promoted extensivelynovell due enhancement change preimagingshadowpaging incompatible previous version btrieve
+market increase much btrieve see wide
+adoption due issues
+
+company acquired novell softcraft workingproduct called xql sql interpreter designedbetter deal industry standard sql xtrieve packagefully compliant became basis netware sqlwa initially released inand barebones sql interpreter
+implemented base ibm version sql
+
+btrieve technology inc
+
+bynovell largely given attempting make netwarecomplete alternative operating system started selling many
+company acquired year earlieralso done minimal promotion btrieve largely due long time
+month took release versionnegotiations nancy
+doug woodward novell entered two years
+novell announced januarythat going transfer
+ownership btrieve btrieve technology incorporated also known
+bti aprilthe transfer completed nancy
+woodward became chairman bti doug woodward madechief technical officer ceo position taken ron harris
+former employee texas instrument one founding employees
+citrix system inc employed first directorstrategic planning vicepresident marketing finallyproduct group vice president
+
+btrieve totally rewritten julybtrievewas
+released window novell sql renamed scalable
+sql reflect change ownership company inversion
+wa released novell netware window server windows
+ntand thus became crossplatform database product concept
+micro kernel database engine mkde introducedversion
+
+pervasive software
+
+inthe company renamed pervasive softwareproduct pervasivesql order allow greater
+penetration relational database market realign sql
+vendor though still marketing developing btrieve
+pervasive completed ipo september company continued using
+mkde versioninpervasive released scalablesqla
+relational database product btrieve 
+
+innovell criticized ceased bundling pervasivesql
+netwarewas first version affected instead shipped
+trial version shut days
+
+latest version pervasive psql wa released 
+
+versions
+
+btrieve dos
+
+wa one clientbased configuration btrieve createdsoftcraft softcrafts definition clientbased version wabtrieve engine running particular workstation meantrecordmanagement engine connected directly file via
+operating system function modified record accordingly
+whether file local network clientbased engine
+allowed five concurrent user access database one time
+processing record done local workstationengine installed btrieve used sefs mefs modes
+file sharing
+
+btrieve netware
+
+btrieve netware essentially btrieveextra feature available netware time ranserver process called bserver filesharing servermanaged data conjunction network file systemserver process first implemented netware value added process
+vap called bservervap switched netware netware
+loadable module nlm soon basically bserver database
+engine dealt access record however also accepted
+request transmittal requested data another server via
+brouter process
+
+btrieve used requester make database request client
+workstation requester available microsoft
+window unixware program brequestexe accepted requests
+via btrieve api relayed bserver handledresponse bserver relayed back appropriate
+applications
+
+brouter process allowed incoming request routedcopy database another server loaded netware
+server dealt communication multiple server processes
+running one fileserver use two file server
+table fsts according pervasive provide list server
+name address server routing table srt brouter also
+allowed communication request routed correct server via
+spx looking bspxcom nlm coordinated lockmechanism controlled access data btrieve database
+
+btrieve used sefs mefs mode file sharingwa able run network able use exclusive
+concurrent transactions
+
+btrieve windows
+
+btrieve window created company rewrote codebase
+use mkde featured sefs mefs file sharing mechanisms
+used shadowpaging allowed exclusive concurrent lockhandled version andfiles differently version file could
+handle operation chunk record rather lockingwhole record handled record implemented vats
+ac new data type allowed percentage operationrecord could located manipulated physical locationfile handled duplicate key version wa capable dropping
+adding index fly versionand could drop
+supplemental index versionfiles allowed concurrentsystem transaction optional renumbering key case insensitive
+ac table enhanced locking operations
+
+btrieve window could run client database utilized
+sefs mefs mode could directly access btrieve server
+
+clientbased btrieve
+
+clientbased version btrieve database file either
+directly local computer via mapped network drive setup
+using dos net use command
+
+application make function call wbtrcalldll loaderrequester interface loader requester module check btiini
+configuration file correctly setup load clientbased btrieve
+engine turn load local interface btrieve engine
+wbtrlocldll necessary local interface load btrieve
+engine wbtrexe memory sends necessary database
+request database engine call various win system
+library perform file operation database files
+
+clientbased btrieve accessing serverbased btrieve
+
+clientbased version btrieve window could access
+severbased version btrieve via dosbased requesterrequestor required use protected mode interface dpmiallows program access dos extended memory couldaccessed using protected mode functionality cpu architecture
+
+clientbased interface btrievebased application makes
+call wbtrcalldll loader requester interface librarylibrary check btiini file see need access datalocal system whether need access data remote server
+need access server window versiondpmi access dosbased requester named brequestexe requester
+establishes network connection server processes
+request pass back message requesterdatabase request completed
+
+btrieve window ntwindows 
+
+btrieve window windowswas released inalongbtrieve netware btrieve window server reached
+versionand started using mkde file sharing mechanisms
+remained still used sefs mefs file sharing modes
+used shadowpaging allowed exclusive concurrent lockversion btrieve allowed null value key meantrecord could entered database information key
+wa available meant key would includedindex helped decrease unnecessary searching database
+via index also introduced concept system transaction
+user transaction see system user transaction mkde
+also allowed gap autoincremented key variabletail
+allocation table introduced versionsoincluded window build btrieve
+
+two configuration btrieve window standalone
+workstation clientserver
+
+standalone workstation
+
+using standalone workstation configuration btrieveprocessing record done local workstation workstation
+relies underlying mechanism window allow mkdewmkdeexe program gain direct access database fileus lock file deal concurrency issues
+
+configuration application make call btrieve api
+microkernel interface wbtrvdll call processedinterface passed along mkde wmkdeexeus underlying operating system file system whether network
+local directly access database files
+
+lead peculiar issue btrieve window file
+sharing database engine open file directly file
+share instance network instability evennetwork cable unplugged update field used link
+one btrieve file another become unsynchronized intents
+purpose data loses relationship link data
+database file get corrupted though chancereduced due preimage paging
+
+clientserver
+
+using clientserver server edition configurationbtrieve processing record generally done window file
+server via mapped drive way mapping file share virtual
+disk drive window via net use command utilisespermission assigned authenticating eitherlogging via permission given net use utilised
+
+windowsthe mkde interface window dynamic link library dll
+called wbtrvdll actually determines database access methoduse via configuration file detectsclientserver workstation engine installed one machine
+check whether target set workstation serverrunning window server process ntmkdeexe running
+along standalone workstation process wmkdeexe lookregistry determine target either serverworkstation case mkde interface set workstation
+standalone workstation configuration mkde
+wmkdeexe directly access file set servermkde interface client communication modulewindowsthis wbticmdll window ntbticmdll
+talk server server matching
+communication module either wbticmdll ntbticmdllresides mapped drive server dll communicatesserver mkde ntmkdeexe update record sendsconfirmation operation succeeded backcommunication module client
+
+advantage system network connection failure
+occurs mkde server able detect recover
+graceful manner workstation configuration able
+
+configuration
+
+configuration utility included btrieve alter mkde
+setting setting could changedfile setting category contains setting related files
+file handle record lock index log file numberopen file logical file handle set wellnumber record lock per client index balancing optioncreate file pre format category also
+controlled whether microkernel kept log operations
+executed selected file section method file
+sharing could set either mefs sefs system transaction
+hold limit set number system transaction performedwrite operation shared files
+memory organisation category contained setting relatedsize buffer microkernel needed allocate various
+purposes
+clientsystem transaction category contains setting related
+transaction including number supportedlogged
+system resourcesdirectories category contains settings
+related number client thread supported welllocation various system files
+trace operation category contains setting relatedtracing various btrieve operation tracing advanced feature
+used mainly debugging purposes
+
+pervasivesql 
+
+pervasive sqlwas released marchand included scalable sql
+btrievebtrieveran platform btrieve
+x windowswindows ntnetware howevercompany changed componentbased architecture called
+smartcomponents resolve compatibility issue upgradeused component identification scheme embedded fileencoded file name along dynamic binding glue files
+dlls loaded memory needed dynamic bindingcomponent done using new abstract service dll looked
+latest version appropriate needed component via file
+name encoding glue module loaded memory used
+old log file format btrieve wa also replaced new
+centralised log called pvswlog unified enhanced log
+file format also improved error message error message
+reporting mechanisms
+
+mkde retained pervasivesqlhowever due new
+component architecture dynamic binding internal architecturemodified application using btrieve call service managersearch various configured directory specific
+encoded filename file name loaded btrieve file backusnaur
+formfilenameplatformcode bif majorfunctionallevel minorfunctional
+level
+platformcodewwwwwtnwo
+majorfunctionallevelnumber
+minorfunctionallevelnumber number
+number
+
+caption embedded filename platform codes
+
+platform codeplatform
+wwindows incl window workgroups win
+wextended window bit watcom extender
+wwindowswindows win
+wwindows 
+wtwindows nwnetware x
+oos bit
+
+glue module dll loaded memory becomes
+interface mkde mkde determines whetherconfigured workstation based configuration server based
+configuration pass request via communications
+requester module onto database server directly modifiesdatabase file configured workstation mode
+
+pervasivesql
+pervasivesqland pervasivesql essentiallyarchitecture pervasivesqlthough includes inet serverus component model ability use btrievescalable sql engine continues using mkde versionred hat linux caldera openlinux suse solaris developedalso better integration terminal service though one
+instance database engine may run terminal server
+platform cannot run separate copy database engine within
+two terminal sessions
+
+pervasivesql 
+introduced decemberpervasivesql improves performance
+btrieve sql application using number new
+technologies
+client side caching greatly improves read performancemaintaining portion database content local turbo write acceleration twa group disk writes groups
+minimizing interaction disk
+transaction logging provides slightly failure protection
+transaction durability improves overall performance
+
+v security feature pack midrelease product update designated
+added important new security feature designed lockpervasivesql data file prior toaccess btrieve datacontrolled operating system security mechanism meant
+user needed readwrite access database also needed
+readwrite access underlying data filesintroduced new
+security model allow administrator control accessbtrieve data using database security activated database security
+longer requires user access underlying fileaddition clientserver configuration longer require usenetwork share mapped drive application reference secure
+btrieve data using uri connection string
+
+pervasive psql 
+current version psql includes new java gui builteclipse framework gui available microsoft windows
+linux addition included many sql performance syntax
+update improving speed flexibility sql
+interfacesadonet jdbc odbc ole finally psql expanded
+btrieve maximum file size togb
+
+conjunction psql pervasive reintroduced ddf builder
+utility added support text searching full text search
+ft addon ddf builder provides mechanism btrieve userdefine meta data existing btrieve file thus allowing btrieve
+data accessible via sql tool utilities
+
+version mkde retain full backward compatibilityearlier version btrieve including predate introduction
+mkde change file version unless
+specifically requested
+pervasive psql ecosystem
+
+pervasive offer number addon product extend basic
+feature psql dbms
+pervasive auditmaster provides realtime auditing database
+interaction whether btrieve sql log data eventqueried track change sensitive data alert alsocreated notify appropriate personnel launchassociated process
+pervasive backup agent manages psqls continuous operation mode
+allows backup software reliably copy online databases
+pervasive dataexchange provides data synchronizationreplication two psql engine ensuringcritical data always available
+

@@ -1,0 +1,150 @@
+copyright
+
+differential geometry topology
+
+ school wikipedia selection related subject mathematics
+
+mathematics differential topology field dealingdifferentiable function differentiable manifold arises
+naturally study theory differential equations
+differential geometry study geometry using differential
+calculus integral geometry field adjacentmany application physic notably theory relativity
+together make geometric theory differentiable manifolds
+also studied directly point viewdynamical systems
+
+intrinsic versus extrinsic
+
+initially middle nineteenth century differential
+geometry studied extrinsic point view curvesurface considered lying euclidean space higher
+dimension example surface ambient space three
+dimension simplest result differential
+geometry curve starting work riemann intrinsic
+point view developed one cannot speak moving
+outside geometric object considered givenfreestanding way
+
+intrinsic point view flexible example useful
+relativity spacetime cannot naturally taken extrinsic
+would outside intrinsic point viewharder define central concept curvature structures
+connection price pay
+
+two point view reconciled extrinsic geometry
+considered structure additional intrinsic one see
+nash embedding theorem
+
+technical requirements
+
+apparatus differential geometry calculusmanifold includes study manifold tangent bundles
+cotangent bundle differential form exterior derivative integrals
+pforms pdimensional submanifolds stokes theorem wedge
+product lie derivative relate multivariable
+calculus geometric application must developed way
+make good sense without preferred coordinate systemdistinctive concept differential geometry saidembody geometric nature second derivative many
+aspect curvature
+
+real differentiable manifold topological space collection
+diffeomorphisms open set space open subset open set cover space gdiffeomorphisms composite mapping gfrom open
+subset open unit ball open unit ball infinitely
+differentiable say function manifold infinitely
+differentiable composition every diffeomorphism resultinfinitely differentiable function open unit ball rcourse manifold need real example complex
+manifolds
+
+every point manifold tangent spacepoint consists every possible velocity directionmagnitude possible travel away point
+ndimensional manifold tangent space pointndimensional vector space word copy rntangent space many definition one definition tangent space
+dual space linear space functionzero point divided space function zero
+first derivative zero point zero
+derivative defined composition every differentiable
+function real zero derivative defineddifferentiability
+
+vector field function manifold disjoint uniontangent space union manifold knowntangent bundle point value elementtangent space point mapping called sectionbundle vector field differentiable every differentiable
+function applying vector field function point
+yield differentiable function vector field thoughttimeindependent differential equation differentiable functionreal manifold curve manifold definesfunction real tangent space velocitycurve point pass curve saidsolution vector field every point velocitycurve equal vector field point
+
+alternating kdimensional linear form elementantisymmetric kth tensor power dual vector space differential kform manifold choice pointmanifold alternating kformwhere tangent space
+point called differentiable wheneveroperates differentiable vector field resultdifferentiable function manifold real space formlinear form dimensionality manifold
+
+differential topology
+
+differential topology per considers property structures
+require smooth structure manifold defineprevious section smooth manifold softermanifold extra geometric structure actobstruction certain type equivalence deformationexist differential topology instance volume riemannian
+curvature invariant distinguish different geometric
+structure smooth manifoldthat one smoothly
+flatten certain manifold might require distortingspace affecting curvature volume
+
+conversely smooth manifold rigid topological
+manifold certain topological manifold smooth structuresee donaldsons theorem others one
+inequivalent smooth structure exotic sphereconstruction smooth manifold theory existencetangent bundle done topological setting muchwork others cannot
+
+see also transversality
+
+branch differential geometry
+
+contact geometry
+
+contact geometry analog symplectic geometry workcertain manifold odd dimension roughly contact structurendimensional manifold choice hyperplane fieldnowhere integrable equivalent hyperplane fielddefined formsuch alphawedge dalphan doevanish anywhere
+
+finsler geometry
+
+finsler geometry finsler manifold main object study 
+differential manifold finsler metric banach
+norm defined tangent space finsler metric muchgeneral structure riemannian metric finsler structuremanifold function ftmnfx mymfxy tm
+f infinitely differentiable vertical hessian positive definite
+
+riemannian geometry
+
+riemannian geometry riemannian manifold main objectstudysmooth manifold additional structure makelook infinitesimally like euclidean space allow onegeneralise notion euclidean geometry analysisgradient function divergence length curve without
+assumption space globally symmetric riemannian
+curvature tensor important pointwise invariant associatedriemannian manifold measure close flat
+
+symplectic geometry
+
+symplectic geometry study symplectic manifold symplectic
+manifold differentiable manifold equipped symplectic form
+nondegenerate bilinear skewsymmetric closed 
+form since symplectic form must skewsymmetric matrix
+representation must skewsymmetric 
+mtopm 
+
+follows detmndetm time matrix
+thus odd see detmand nondegenerate
+skewsymmetric two form exist even dimensional spaces
+unlike riemannian geometry symplectic manifold locally
+isomorphic called darbouxs theorem followsassumption thatis closed invariant symplectic
+manifold global nature diffeomorphism two symplectic
+space preserve symplectic structure symplectic
+form called symplectomorphism
+
+dimensiona symplectic manifold manifold endowedarea form first result symplectic topology probablypoincarebirkhoff theorem conjectured poincare provedbirkhoff inthis claim area preserving map ring
+twist boundary component opposite direction mapleast two fixed points
+
+easy show area preserving condition twisting
+condition cannot removed
+
+note one try extend theorem higher dimensions
+one would probably guess volume preserving map certain type
+must fixed point false dimension greater 
+
+complex khler geometry
+
+complex differential geometry study complex manifoldalmost complex manifold real manifold endowed tensortypeie vector bundle endomorphism called almost complex
+structure
+
+jtmrightarrow tmsuch 
+definition almost complex manifold even dimensional
+
+almost complex manifold called complex njwhere njtensor typerelated called torsion nijenhuis
+tensor almost complex manifold complex admitsholomorphic atlas almost hermitian structure given couple
+jg almost complex structure riemannian
+metric satisfying compatibility condition gjxjygxyalmost hermitian structure defines naturally adifferential form
+jgxygjxy following two condition equivalent
+
+njand
+nabla 
+nabla levicivita connection case jgcalled khler structure particular khler manifoldmanifold endowed khler structure particular khler
+manifold complex symplectic manifold large classkhler manifold given smooth complex algebraic
+varieties
+
+retrieved 
+httpenwikipediaorgwikidifferentialgeometryandtopology
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

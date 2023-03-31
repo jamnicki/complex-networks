@@ -1,0 +1,599 @@
+copyright
+
+saturn 
+ school wikipedia selection related subject space transport
+
+
+featured article click information
+
+caption saturn 
+first saturn launch apollo 
+first saturn launch apollo 
+
+fact sheet
+functionmanned leo lunar launch vehicle
+manufacturerboeingsic
+north americansii
+douglassivb
+country origin usa
+size
+heightmft
+diametermft
+masskglb
+stages
+capacity
+payload leokg
+payloadlunar orbitkg
+launch history
+statusretired
+launch siteslc kennedy space centre
+total launchesint
+successesint
+failures
+partial failures
+maiden flightnovember
+last flightdecember
+first stagesic
+enginesrocketdyne thrustmnlbf
+burn timeseconds
+fuelrp lox
+second stagesii
+enginesrocketdyne thrustmnlbf
+burn timeseconds
+fuellh lox
+third stagesivb
+enginesrocketdyne thrustmnlbf
+burn timeseconds
+burns
+fuellh lox
+
+saturn pronounced saturn five popularly known moon
+rocket multistage liquidfuel expendable rocket used nasas
+apollo skylab programs
+
+largest production model saturn family rocketsaturn wa designed direction wernher von braunmarshall space flight centre huntsville alabama boeing north
+american aviation douglas aircraft company ibm lead
+contractor remains powerful launch vehicle ever brought
+operational status height weight payload standpoint
+although russian energia flew two test missionslightly takeoff thrust
+
+nasa launched thirteen saturn rocket betweenand 
+loss payload design payload manned apollo
+spacecraft used nasa moon landing saturn wentlaunch skylab space station
+
+three stage saturn developed various nasa
+contractor following sequence merger takeoverowned boeing first second stage test
+fired stennis space centre located near bay louis
+mississippi facility later used testingverification space shuttle main engine newer rocket engine currently used delta eelv rocketfuture rocket
+
+background
+
+early soviet union developed considerable lead
+space race united state inthe sovietlaunched sputnikthe first artificial satellite april 
+yuri gagarin become first human travel space
+
+maypresident kennedy announced america would tryland man moon end decade timeexperience united state manned spaceflight 
+minute suborbital freedomflight alan shepard rocketworld could launch manned spacecraft moon one piecesaturn development yet flown duesmall size would require several launch place orbitcomponent lunar spacecraft
+
+early planning process nasa considered three leading ideamoon mission earth orbit rendezvous direct ascent lunar
+orbit rendezvous lor although nasa first dismissed lor
+considering rendezvous yet performed earth orbit
+let alone lunar orbit end nasa decided wouldquickest easiest method achieving kennedy goal see
+choosing mission mode information
+
+development
+
+c 
+betweenandthe marshall space flight centre msfc designed
+rocket could used various missions
+
+c developed saturn rocket dropped
+early design process favour wa intendedusef engine first stagej engine second
+stage siv stage using six engines
+
+nasa planned use part earth orbit rendezvous
+concept least four five launch needed single
+mission msfc already planning even bigger rocket would use four engine first stage enlarged second stage sivb stage single enginethird stage would need two launch carry earth
+orbit rendezvous mission
+
+c
+
+januarynasa announced plan build would
+five engine first stage five enginesecond stage sivb third stage
+
+originally first four flight test first
+successively testing three stage followed unmanned
+circumlunar mission manned flight intended follow 
+
+middle ofnasa decided use allup testing scheme
+three stage tested first launchwould drastically shorten testing development timelinereduce required number rocket fromtobut meant
+stage would work perfectly first launch
+
+inthe wa renamed saturn rocketdyne producedfirst engines
+
+inthe passed nasa first article configuration inspection
+complete qualification manned mission coming september 
+
+first saturn launch took place novemberwithapollounmanned spacecraft payload
+
+first manned launch occurred decembercarrying apollo
+circumlunar mission
+
+technology
+
+saturn arguably one impressive machine human
+history overfeetm high andfeetm diameter
+total mass three thousand short ton payload
+capacity ofpoundskg leo saturn dwarfed
+overpowered previous rocket successfully
+flown comparatively atfeet saturn one foot
+shorter paul cathedral london
+
+saturn wa principally designed marshall space flight centre
+huntsville alabama although numerous major system including
+propulsion designed subcontractor used powerful new
+f rocket engine propulsion tested engines
+sent tremor ground could felt frommiles 
+km away designer decided early attempt use much
+technology saturn program possible sivb
+third stage saturn wa based siv second stagesaturn instrument unit controlled saturn shared
+characteristic carried saturn
+stages
+
+saturn diagram
+enlarge
+saturn diagram
+
+one flight saturn consisted three stage 
+sic first stage sii second stage sivb third stageand
+instrument unit three stage used liquid oxygen loxoxidizer first stage used fuel secondthird stage used liquid hydrogen three stage also used
+small solidfuelled ullage motor helped separate stages
+launch ensure liquid propellantproper position drawn pumps
+
+sic first stage
+
+first stage apollosaturn erected vabfebruary
+enlarge
+first stage apollosaturn erected vabfebruary
+
+sic built boeing company michoud assembly
+facility new orleans space shuttle external tankconstructed almost every rocket stage masstwo thousand metric tonne launch fuel case rocket fuel liquid oxygen oxidizer wasmeters tall 
+meter diameter providedmn thrust get rocket
+firstkilometers ascent five enginearranged cross pattern centre engine fixedfour outer ring could hydraulically turned controlrocket
+
+sii second stage
+
+sii built north american aviation seal beach
+california using liquid hydrogen liquid oxygen five engine similar arrangement sic second stage
+accelerated saturn upper atmosphere withmnthrust loadedof weight stage propellant
+instead intertank structure separate two fuel tanks
+wa done sic sii used common bulkheadconstructed top lox tank bottom tank consisted two aluminium sheet separated honeycomb
+structure made phenol insulate thec 
+f temperature difference two tank use common
+bulkhead savedmetric ton weight
+instrument unit apollosaturn enlarge
+instrument unit apollosaturn 
+sivb third stage
+
+sivb built douglas aircraft company huntington
+beach california one engine used fuelsii stage used twice mission first orbit
+insertion second stage cutoff later trans lunar
+injection tli burn sivb also used common bulkhead insulate
+two tank sivb rocket stage saturn small enough transported plane case super guppy
+apart interstage adapter stage nearly identicalsecond stage saturn rocket
+
+instrument unit
+
+saturn instrument unit built ibm rode atop third
+stage constructed space system centre huntsville
+computer controlled operation rocketliftoff sivb discarded included guidancetelemetry system rocket measuring accelerationvehicle attitude could calculate position velocityrocket correct deviations
+
+range safety
+
+event abort requiring destruction rocketrange safety officer would send signal shaped explosive charges
+attached outer surface rocket detonate would
+make cut fuel oxidizer tank disperse fuel quicklyminimize mixing launch escape tower jettisoned
+charge made safe
+
+comparisons
+
+f engine sic first stage engine dwarf creator
+wernher von braun
+enlarge
+f engine sic first stage engine dwarf creator
+wernher von braun
+saturn first stage thrust performance apollolaunch 
+million poundsmn liftoff thrust
+enlarge
+saturn first stage thrust performance apollolaunch 
+million poundsmn liftoff thrust
+
+soviet counterpart saturn wa rocket less
+sophiscated design rendered capability saturn
+v even though wa heavier higher total liftoff
+thrust saturn greater payload capacity due useefficient hydrogen second third stage sovietmastered use cryogenic fuel lateproved significant advantage american four test
+launch cancellation never functioned long enoughreach first stage separation successfullythe successfulfailed approximatelyseconds separation first
+stage saturn used five powerful engine rathercontroversialsmaller engine necessary soviets
+developed similarly powerful engine time two
+launch apolloand apollothe saturn wa even able recover
+engine loss incident computer designedcompensate engine failure poorly engineered never
+successfully saved launch failureindeed one occasionreacted fault shutting first stage engines
+utterly destroying vehicle launch pad overall main
+reason failure seems traceable lack allup
+testing first stage turn due insufficient funding
+
+threestage saturn peak thrust leastmn subsequent lift capacity ofkg leo mission apollohad liftoff thrust ofmillion pound 
+mn operational launch vehicle ever surpassed saturn
+v height weight payload two russian energia test
+launch counted operational slightly liftoff
+thrustmn
+
+hypothetical future version soviet energia wouldsignificantly powerful saturn deliveringmnthrust able deliver tometric tonne leovulkan configuration planned uprated version saturn using
+fa engine would aboutmore thrust andkg
+lb payload nasa contemplated building larger membersaturn family including nova never produced
+
+space shuttle generates peak thrust ofmnand payload
+capacity leo excl shuttle orbiter onlykg
+
+recent launch vehicle small fraction saturn
+v payload capacity european arianewith newest versions
+arianeeca delivers tokg geostationary transfer orbit
+gto deltaheavy launched dummy satellitedecemberhas capacity ofkg geosynchronous
+transfer orbit atlas rocket using engine based russian
+design delivers tokg leo andkg gto
+
+sic thrust comparisons
+
+large size attention often focused sic
+thrust compare large rocket however several
+factor make comparison complex first appears
+commonlyreferenced thrust number specificationactual measurement individual stage engine may fall shortexceed specification sometimes significantly
+
+f thrust specification uprated beginning apollo 
+sa frommillion lbf tomillion lbf ormillion
+lbfmn sic stage higher thrust achieved
+via redesign injector orifice slightly higher
+propellant mass flow rate however comparing specified number
+actual measured thrust ofmillion lbfmnapolloshows significant difference
+
+bathroom scale way directly measure thrustrocket flight rather mathematical calculation madecombustion chamber pressure turbopump speed calculated propellant
+density flow rate nozzle design atmospheric conditions
+thrust varies greatly altitude even nonthrottled
+engine example apollothe calculated liftoff thrust
+based actual measurement aboutmillion lbfincreased tomillion lbf second centre
+engine cutoff ceco
+thrust specification often given vacuum thrust sea level
+thrust sometimes without qualifying one leadincorrect comparisons
+thrust specification often given average thrust peak
+thrust sometimes without qualifying one evennonthrottled engine fixed altitude thrust often vary
+somewhat firing period due several factorinclude intentional unintentional mixture ratio change slight
+propellant density change firing period variations
+turbopump nozzle injector performance firing
+period
+
+without knowing exact measurement technique mathematical method
+used determine thrust different rocket comparisonoften inexact show specified thrust often differs
+significantly actual flight thrust calculated direct
+measurement thrust stated various reference oftenadequately qualified vacuum sea level peak average
+thrust
+
+similarly payload increase often achieved later missions
+independent engine thrust weight reduction trajectory
+reshaping
+
+result single absolute figure engine thrust
+stage thrust vehicle payload specified value actual
+flight value various way measuring deriving actual
+flight values
+
+performance saturn launch extensively analyzedlaunch evaluation report produced mission includesthrusttime graph vehicle stage missionavailable page inside kennedy space centre web site
+
+assembly
+
+apollosaturn rollout
+enlarge
+apollosaturn rollout
+
+construction stage completed shippedkennedy space centre first two stage largeway transport barge sic constructed new orleans
+wa transported mississippi river gulf mexicorounding florida transported intracoastal waterway
+vertical assembly building called vehicle assembly
+building sii constructed california travelled via
+panama canal third stage instrument unit could carried
+aero spacelines pregnant guppy super guppy
+
+arrival vertical assembly building stage checkedhorizontal position moved vertical position nasa
+also constructed large spool shaped structure could usedplace stage particular stage late spoolheight mass contained electrical connectionactual stages
+
+nasa decided use mobile launch tower orcrawler builtmarion power shovel ohio meant rocket constructed
+launch pad vab whole structure movedlaunch site crawler still used todayspace shuttle program run four double tracked treadshoe weighingkg transporter keep rocket level
+travelled themileskm launch site
+
+lunar mission launch sequence
+
+saturn carried apollo astronaut moon saturn mission launched launch complexat john kennedy space
+centre rocket cleared launch tower mission control
+transferred johnson space centre houston texas
+
+average mission used rocket total justminutes
+although apolloand apolloexperienced engine failureonboard computer able compensate burning remaining
+engine longer none apollo launch resulted payload
+loss
+
+sic sequence
+
+first stage burned forminutes lifting rocketaltitude ofkilometers speed ofkmh burning
+kg propellant
+condensation cloud seen sticking apollosaturn launch
+vehicle work way dense lower atmosphere
+enlarge
+condensation cloud seen sticking apollosaturn launch
+vehicle work way dense lower atmosphere
+
+atseconds launch first stage ignition sequence
+started centre engine ignited first followed opposing outboard
+pair millisecond stagger time reduce structural loads
+rocket moment full thrust confirmedonboard computer rocket softreleased two stage first
+holddown arm released rocket second rocket began
+accelerate upwards held back somewhat tapered metal pins
+pulled hole latter lasted half secondrocket lifted could safely settle back onto
+pad engine failed
+
+took aboutseconds rocket clear tower moved
+past tower rocket yawed away ensure adequate clearancecase adverse wind engine failure altitude ofmeters
+foot rocket began roll pitch correct
+azimuth launch untilseconds second stage ignitionsaturn would fly preprogrammed pitch program biasedprevailing wind launch month four outboard engines
+also tilted away centre one engine shutearly thrust remaining engine would towardsrocket centre gravity saturn quickly accelerated reaching
+atkm altitude much early portion flight
+wa spent gaining altitude required velocity coming later
+
+aboutseconds rocket reached point flightmaximum dynamic pressure known max dynamic pressurerocket proportional air density around rocketsquare speed although speed increasing air density
+decreasing rocket get higher
+
+atseconds centre engine would shut reduceacceleration load rocket since became lighter fuelused engine throttlable easiest
+method crew also experienced greatest accelerationg 
+first stage cut engine continuedburn either oxidizer fuel depleted measuredsensor suction assembliesmilliseconds engine
+cutoff first stage separated help eight small
+solid fuel seperation motor occurred altitude 
+km first stage continued altitude ofkm fellatlantic ocean aboutkm launch pad
+
+sii sequence
+
+still film footage apollo interstage falling away nasa
+enlarge
+still film footage apollo interstage falling away nasa
+
+sic sequence sii second stage burned forminutespropelled craft tokm andkmh bringing closeorbital velocity
+
+second stage twopart ignition process first part
+eight solidfuel ullage motor ignited four second give
+positive acceleration followed five engine second
+part aboutseconds first stage separated aft
+interstage separated second stage precisely
+controlled maneuver interstage could allowed touchengine clearance one meter timeinterstage separated launch escape system jettisoned see
+apollo abort mode information various abort modes
+could used launch
+
+aboutseconds second stage ignition control guidance
+saturn switched preprogrammed pitch routineiterative guidance mode controlled instrument unit basedaccelerometer altitude sensor instrument unit tookrocket outside allowed limit crew could either abort take
+control rocket using one rotational hand controllercapsule
+
+aboutseconds second stage cutoff centre engine shut
+reduce longitudinal pogo oscillation pogo suppressor first
+flown apollostopped pogo motion centre enginestill shut early around time lox flow rate
+decreased changing mix ratio two propellant ensuringwould little propellant possible left tankend second stage flight done predetermined
+deltav
+
+five sensor bottom tank siitwo uncovered instrument unit would initiatestaging sequence one second second stage cutseparated tenth second later third stage ignitedsii impacted aboutkm launch site
+
+sivb sequence
+
+third stage burned furtherminutes aboutminutes
+launch third stage remained attached spacecraft
+orbited earth two half time parking orbitastronaut examined spacecraft rocket make sure everything
+functioned nominally
+
+unlike previous separation twostage separation
+interstage second third stage remained attachedsecond stage although constructed part third
+stage
+sivb stage apolloflight earth orbit although
+apolloused saturn booster sivb stage usedsaturn saturn saturn flight four spacecraftlm
+adapter panel would jettisoned allow access lunar module
+enlarge
+sivb stage apolloflight earth orbit although
+apolloused saturn booster sivb stage usedsaturn saturn saturn flight four spacecraftlm
+adapter panel would jettisoned allow access lunar module
+
+byminutesseconds launch saturn waskmaltitude andkm downrange launch site aboutmore
+minute burning rocket cut spacecraft waorbit aboutkm bykm quite low earth orbit
+standard would remained stable long dueinteraction spacecraft earth atmospheretwo earth orbit mission saturn apolloand skylaborbit would higher next two half orbit spent
+checking system spacecraft preparing spacecraft
+trans lunar injection tli
+
+tli came aboutand half hour launch third stage
+reignited propel spacecraft moon sivb burnedalmostminutes total spacecraft velocity cutoffoverkms escape velocity
+
+couple hour tli apollo command service module csm
+separated third stage turneddegrees dockedlunar module rode csm launch csmlm separated third stage
+
+remain trajectory spacecraftbooster could presented hazard later missionremaining propellant tank vented engine
+changing trajectory third stage apolloonwards
+controller directed impact moon seismometers left behindprevious mission detected impact information helped map
+inside moon stage except apolloand
+apollowere directed towards flyby moon sentsolar orbit apollo sivb put directly solar
+orbit
+
+apollo sivb stage hand different fateseptemberbill yeung discovered suspected asteroidgave temporary designation appeared orbit
+around earth soon discovered spectral analysiscovered white titanium dioxide paint paint usedsaturn mission controller planned send apollo sivb
+solar orbit burn separating apollo
+spacecraft lasted long pas close enough moon
+ended barelystable orbit around earth moonseries gravitational perturbation thoughtentered solar orbit returned orbit earth 
+year later left earth orbit june 
+last saturn launch carried skylab space station low earth
+orbit place third stage
+enlarge
+last saturn launch carried skylab space station low earth
+orbit place third stage
+
+skylab
+
+inthe apollo application program created lookscience mission could performed surplus apollo
+hardware much planning centered idea space station
+eventually spawned skylab programme launch skylab
+using saturn int two stage derivative saturn vsaturn launch directly related apollo lunar
+landing program
+
+originally planned use wet workshop conceptrocket stage launched orbit outfitted spacewa abandoned dry workshop concept sivb stagesaturn wa converted space station ground launched
+saturn backup constructed saturn third stagedisplay national air space museum
+
+three crew lived aboard skylab mayto february
+skylab remaining orbit may 
+
+wa originally hoped skylab would stay orbit long enoughvisited space shuttle first flightshuttle could raised skylab orbit allowed usedbase future space station however shuttle didnt flyrealized retrospect skylab wouldlittle use designed refurbished replenished
+supplies
+
+proposed postapollo developments
+
+cancelled second production run saturn would likely
+used engine first stage providing substantial
+performance boost likely change would removalfin turned provide little benefit comparedweight stretched sic first stage supportpowerful uprated upper stages
+
+number alternate saturn vehicle proposed based saturn
+v ranging saturn int sivb stage interstage
+mounted directly onto sic stage saturn would five engine first stage also
+four strapon booster two engine giving totalthirteen engine firing launch
+
+space shuttle initially conceived cargo transportused concert saturn even point asaturn
+shuttle using current orbiter external tanktank mounted modified flyback version sic would used
+power shuttle first two minute flightsic would jettisoned fly back kscrefurbishment space shuttle main engine would fireplace orbiter orbit shuttle would handle space station
+logistics saturn would launch component lack second
+saturn production run killed plan left united states
+without heavylift booster space communitycome lament situation continued production wouldallowed international space station using skylab mir
+configuration russian docking portlifted handful launch saturn shuttle
+concept possibility elmininating condition causedchallenger disaster 
+
+saturn would prime launch vehicle cancelled
+voyager mar probe launch vehiclenuclear rocket stage rift test program later nerva
+
+successors
+
+u proposal rocket larger saturn late
+early generally called nova thirty
+different large rocket proposal carried nova name
+
+wernher von braun others also plan rocket would
+featured eight engine first stage allowinglaunch manned spacecraft direct ascent flight moonplan saturn called using centaur upper stageadding strapon booster enhancement would increasedability send large unmanned spacecraft outer planetmanned spacecraft mars
+
+ofnasa plan build heavylift shuttle
+derived launch vehicle approximately height weight class
+saturn launcher named homage saturn
+v intended unmanned heavy lift vehicle future manned
+mission moon possibly later mars
+
+unlike stage saturn two stage feature foot
+diameter core stage diameter sic sii
+stage fueled liquid hydrogen liquid oxygen assisted
+first two minute powered flight pair modified
+space shuttle solid rocket booster five segmentplace current four core stage powered five rocket engine cross pattern used sicsii stage originally wa used five space shuttle
+main engine switch wa based costsuccessful flight use unmanned delta eelv launch system
+along powerful easier construct ssme
+counterpart
+
+r engine built rocketdyne division prattwhitney formerly ownership boeing rockwell
+international efficient saturn f enginej engine used sii sivb modifiedimproved engine use earth departure stage edbeefedup version sivb second stage
+proposed second stage would
+use single motor although wa originally designeduse two motor redesign employing five placefive ssmes
+
+cost
+
+fromuntila total billion appropriatedsaturn maximum inwith billion
+
+one main reason cancellation apollo programcost innasa received highest budget billion
+aboutof gdp united state timeyear department defense receivedbillion
+
+saturn vehicle launches
+
+saturn launched day night foul weather fairappropriate time reach destination shown montagelaunches
+enlarge
+saturn launched day night foul weather fairappropriate time reach destination shown montagelaunches
+serial number mission launch date notes
+
+sa
+
+apollonovemberfirst test flight
+
+sa
+
+apolloaprilsecond test flight
+
+sa
+
+apollodecemberfirst manned flight saturn lunar
+orbit
+
+sa
+
+apollomarchearth orbit test
+
+sa
+
+apollomaylunar orbit test
+
+sa
+
+apollojulyfirst manned lunar landing
+
+sa
+
+apollonovemberlanded near surveyor 
+
+sa
+
+apolloaprilmission aborted crew saved
+
+sa
+
+apollojanuarylanded near fra mauro
+
+sa
+
+apollojulyfirst lunar rover
+
+sa
+
+apolloaprillanded descartes
+
+sa
+
+apollodecemberfirst night launch final apollo
+lunar mission
+
+sa
+
+skylabmaytwostage skylab versionsaturn int
+
+sa
+
+unused designated never used apollo
+
+sa
+
+unused designated never used backup skylab launch vehicle
+
+currently three saturn display displayed
+horizontally
+saturn display spacerocket center huntsville
+alabama
+enlarge
+saturn display spacerocket centre huntsville
+alabama
+johnson space centre made first stage sasecond stage third stage kennedy space centre made sict test stagesecond third stage u spacerocket centre made sicd siifdsivbd test stage meant actual flight
+
+three one johnson space centre consists
+entirely stage meant launched spacerocket centre
+huntsville also display erect full scale modelsaturn first stage resides michoud assembly
+facility new orleans louisiana third stage converteduse backup skylab backup skylab display national
+air space museum
+
+popular though untrue urban legend started instatesnasa lost destroyed blueprint plan saturn
+v fact plan still exist microfilm marshall space
+flight centre

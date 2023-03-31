@@ -1,0 +1,110 @@
+copyright
+
+linus torvalds
+
+ school wikipedia selection related subject computing people
+
+caption linus torvalds
+
+borndecember 
+helsinki finland
+occupation software engineer
+spousetove torvalds
+websitehttpwwwcshelsinkifiutorvalds
+
+linus benedict torvalds born decemberin helsinki finland
+finnish software engineer best known initiatingdevelopment linux kernel act projects
+coordinator benevolent dictator life
+
+linus inspired minix operating system developed andrewtanenbaum develop capable unixlike operating system could
+run linux also run many architectures
+
+biography
+
+linus born helsinki finland son journalist annanil torvalds grandson poet ole torvalds family
+belongs swedishspeaking minority roughlyof finlands
+population torvalds named linus pauling american nobel
+prizewinning chemist although prefers claim namedlinus peanut comic strip parent campus
+radical university helsinki father wacommunist mids spent year studying moscow
+
+torvalds attended university helsinki fromto 
+graduating master degree computer science msc thesis
+wa titled linux portable operating system
+
+interest computer began commodore vicvic purchased sinclair modified extensively
+especially operating system programmed assembler text
+editor well game known written
+pacman clone named cool man inhe purchased intel
+based ibm spent week playing game princepersia receiving minix copy turn enabledbegin work linux
+
+linus married tove torvalds born monni sixtime
+finnish national karate champion first met autumnlinus running introductory computer laboratory exercisestudent instructed course attendant send emailtest tove responded email asking datethree daughter patricia miranda born decemberdaniela
+yolanda born apriland celeste amanda born november 
+cat named randi short mithrandir sindarin name
+gandalf wizard lord rings
+
+red hat linux leading developer linuxbased software
+presented torvalds stock option gratitude creationcompany went public torvalds net worth shotroughlymillion 
+
+torvalds moved san jose california lived several
+year family june oftorvalds family moved
+portland oregon closer linuss place work
+
+worked transmeta februaryuntil juneandseconded open source development lab beaverton oregon based
+software consortium
+
+personal mascot penguin nicknamed tux widely
+adopted linux community mascot linux kernel
+
+unlike many open source evangelist torvalds maintains low profile
+generally refuse comment competing software products
+torvalds generally stay nonkernelrelated debate hacriticized neutrality free software movement
+specifically worked proprietary software transmeta
+use alleged advocacy proprietary bitkeeper
+software version control linux kernel bitkeeperreplaced git junetorvalds commented official
+gnome developmental mailing list term desktop
+environment encourages user switch kde 
+
+torvalds often find middle competing ideologyone hand established icon opensource free software
+yet supported use proprietary software
+bitkeeper help manage linux kernel stated linux may
+include technology supporting digital right management pragmatic
+reasons
+
+linuslinux connection
+
+torvalds originally used minix system replaced
+linux first named freax combination free
+freak letter indicate unixlike system
+friend ari lemmke administered ftp serverlinux kernel first hosted downloading gave torvaldsdirectory called linux torvaldsdiamond 
+
+authority linux
+
+aboutof current linux kernel written torvalds
+despite relative size contribution torvalds
+remains ultimate authority new code incorporatedlinux kernel
+
+linux trademark
+
+torvalds owns linux trademark monitor use abusechiefly nonprofit organization linux international
+linux wide passionate userbase make trademark abuse difficultmisuse rapidly detected
+
+recognition
+
+inasteroidtorvalds named linus torvalds
+inhe received eff pioneer award
+inhe received honorary doctor status stockholm university
+inhe received honorary doctor status universityhelsinki
+time magazine person century poll torvaldsvoted atat poll close 
+inhe shared takeda award socialeconomic wellbeing
+richard stallman ken sakamura
+thefilm swordfish contains finnish characterthe number
+one computer hacker worldnamed axl torvalds
+inhe named one influential peopleworld time magazine article linus torvaldsfreesoftware champion lawrence lessig time magazine posted
+monday aprretrieved october 
+search thegreatest finn time votedsummer oftorvalds placed inhe appeared one best manager surveybusinessweek
+augusttorvalds received vollum award reed
+college
+inbusinessmagazine named one ofpeopledont matter
+intime magazine name one revolutionary heropastyears
+

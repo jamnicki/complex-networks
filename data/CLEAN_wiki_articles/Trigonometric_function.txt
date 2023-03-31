@@ -1,0 +1,569 @@
+copyright
+
+trigonometric function
+
+ school wikipedia selection related subject mathematics
+
+trigonometric function anglecan constructed
+geometrically term unit circle centeredenlarge
+trigonometric function anglecan constructed
+geometrically term unit circle centered
+mathematics trigonometric function function angle
+important studying triangle modeling periodic
+phenomenon among many application commonly definedratio two side right triangle containing angleequivalently defined length various line segmentunit circle modern definition express infinite seriessolution certain differential equation allowingextension positive negative value even complex numbers
+approach presented
+study trigonometric function date back babylonian times
+considerable amount fundamental work done persiangreek mathematicians
+
+modern usage six basic trigonometric functiontabulated along equation relating one another
+especially case last four relation often
+taken definition function one defineequally well geometrically mean deriverelation function common historically appeared
+earliest table seldom used versine
+cosand exsecant secmany relationfunction listed article trigonometric
+identities
+function abbreviation relation
+sine sin sin thetacos leftfracpitheta right 
+cosine co thetasin leftfracpitheta right
+tangent tan tan thetafraccot thetafracsin
+thetacos thetacot leftfracpitheta right 
+cotangent cot cot thetafractan thetafraccos
+thetasin thetatan leftfracpitheta right 
+secant sec sec thetafraccos thetacsc
+leftfracpitheta right 
+cosecant csc
+cosec csc theta fracsin thetasec
+leftfracpitheta right 
+
+history
+
+earliest use sine appears sulba sutra written ancient
+india century th century trigonometric
+function later studied hipparchus nicaeabc
+ptolemy aryabhatavarahamihira brahmagupta muammad ibn
+alwrizm abulwafa omar khayyam bhaskara nasir aldin
+tusi ghiyath alkashi century ulugh beg century
+regiomontanusrheticus rheticus student valentin otho
+madhava cmade early stride analysis trigonometric
+function term infinite series leonhard euler introductioanalysin infinitorumwas mostly responsible establishinganalytic treatment trigonometric function europe also defining
+infinite series presentingeulers formula wellnearmodern abbreviation sin tang cot sec cosec
+
+notion standard correspondencelength side triangle angle triangle
+come soon one recognises similar triangle maintainratio side similar triangleratio hypotenuse example another side remains
+hypotenuse twice long sideratio trig function express
+
+right triangle definitions
+
+right triangle always includes aradians anglelabeled angle may vary trigonometric function specifyrelationship side length interior angle right
+triangle
+enlarge
+right triangle always includes aradians anglelabeled angle may vary trigonometric function specifyrelationship side length interior angle right
+triangle
+
+order define trigonometric function angle start
+arbitrary right triangle contains angle
+use following name side triangle
+hypotenuse side opposite right angle definedlongest side rightangled triangle case opposite side side opposite angleinterested caseadjacent side side contact angleinterested right angle hence name case
+adjacent side 
+triangle taken exist euclidean planeinside angle triangle sum toradians ortherefore
+right triangle two nonright angle zero 
+radian reader note following definitions
+strictly speaking define trigonometric function angles
+range extend full set real argumentusing unit circle requiring certain symmetryperiodic functions
+
+sine angle ratio length opposite side
+length hypotenuse case
+
+sin afrac textrmopposite textrmhypotenusefrac
+h
+
+note ratio doe depend particular right triangle
+chosen long contains angle since triangles
+similar
+
+set zero sine
+leftnpibig nisinmathbbzright
+
+cosine angle ratio length adjacent
+side length hypotenuse case
+
+co afrac textrmadjacent textrmhypotenusefrac
+b 
+set zero cosine
+leftfracpinpibigg nisinmathbbzright
+
+tangent angle ratio length opposite
+side length adjacent side case
+
+tan afrac textrmopposite textrmadjacentfrac
+b
+
+set zero tangent
+leftnpibig nisinmathbbzright
+
+set sine function since
+
+tan afrac sin acos
+remaining three function best defined using three
+functions
+
+cosecant csca multiplicative inverse sina ratio length hypotenuse length opposite
+side
+
+csc afrac textrmhypotenuse textrmoppositefrac
+h 
+
+secant seca multiplicative inverse cosa ieratio length hypotenuse length adjacent
+side
+
+sec afrac textrmhypotenuse textrmadjacentfrac
+h 
+
+cotangent cota multiplicative inverse tana ratio length adjacent side lengthopposite side
+
+cot afrac textrmadjacent textrmoppositefrac
+b 
+
+mnemonics
+
+number mnemonic definition example
+sohcahtoa sound like soak toea socka toea depending upon
+use american english british english even soccer tour
+means
+sohsinoppositehypotenuse
+cahcosadjacenthypotenuse
+toatanoppositeadjacent
+
+many word phrase contrived see
+mnemonic
+
+slope definitions
+
+equivalent righttriangle definition trigonometric
+function defined term rise run slope line
+segment relative horizontal line slope commonly taught
+rise run riserun three main trigonometric functions
+commonly taught order sine cosine tangent unit
+circle give rise following matchings
+sine first rise first sine take angle tellrise
+cosine second run second cosine take angle tells
+run
+tangent slope formula combine rise run
+tangent take angle tell slope
+
+show main use tangent arctangent convertingtwo way telling slant line angle slopes
+note arctangent inverse tangent confused
+cotangent isdivided tangent
+
+radius circle make difference slopeslope doesnt depend length slanted line doe affect
+rise run adjust find actual rise run multiply
+sine cosine radius instance circleradiusthe run angle ofiscos
+
+unitcircle definitions
+
+unit circle
+enlarge
+unit circle
+
+six trigonometric function also defined termunit circle circle radius one centered origin unit
+circle definition provides little way practical calculation
+indeed relies right triangle angle unit circle
+definition doe however permit definition trigonometric
+function positive negative argument angles
+betweenandradians also provides single visual picture
+encapsulates important triangle used farequation unit circle
+xy
+
+picture common angle measured radian given
+measurement counter clockwise direction positive anglemeasurement clockwise direction negative angle let line
+making angle ofwith positive half xaxis intersectunit circle ycoordinates point intersectionequal cosand sinrespectively triangle graphic
+enforces formula radius equal hypotenuselengthso siny cosx unit circlethought way looking infinite number trianglevarying length leg keeping lengthhypotenuse equal 
+fxsinx fxcosx function graphed cartesian
+plane
+enlarge
+fxsinx fxcosx function graphed cartesian
+plane
+sinx animation show connection circle sine
+enlarge
+sinx animation show connection circle sine
+
+angle greater thanor thansimply continue rotate
+around circle way sine cosine become periodic
+function period 
+
+sinthetasinleftthetapi right
+costhetacosleftthetapi right
+
+angleand integer 
+smallest positive period periodic function calledprimitive period function primitive period sine
+cosine secant cosecant full circle ieradians 
+degree primitive period tangent cotangenthalfcircle ieradians ordegrees sine cosine
+defined directly unit circle four
+trigonometric function defined
+tanthetafracsinthetacostheta quad sectheta 
+fraccostheta
+
+cscthetafracsintheta quad cottheta 
+fraccosthetasintheta
+
+fxtanx function graphed cartesian plane
+enlarge
+fxtanx function graphed cartesian plane
+
+right image display noticeably different graphtrigonometric function tan graphed cartesian plane
+note xintercepts correspond sinundefined value correspond xintercepts observe
+function result change slowly around angle kchange rapidly angle close graph tangent
+function also vertical asymptote atk case
+function approach infinity asapproaches kleft minus infinity approach right
+trigonometric function constructed geometricallyterm unit circle centeredenlarge
+trigonometric function constructed geometricallyterm unit circle centered
+alternatively basic trigonometric function defined
+term unit circle centered shown right similar
+geometric definition used historically particularchord circle whereis half subtended angle sin
+ac half chord definition introduced india see
+co horizontal distance versin
+co tan length segment tangent
+line hence word tangent function cotanother tangent segment secoe cscof segments
+secant line intersecting circle two point also
+viewed projection along tangent horizontal
+vertical respectively exsecsecthe
+portion secant outside circleconstruction easy see secant tangent functions
+diverge asapproachesdegrees cosecantcotangent diverge asapproaches zero many similar constructionpossible basic trigonometric identity also proven
+graphically
+
+series definitions
+
+sine function blue closely approximated taylor
+polynomial degreepink full cycle centered origin
+enlarge
+sine function blue closely approximated taylor
+polynomial degreepink full cycle centered origin
+
+using geometry property limit shownderivative sine cosine derivative cosinenegative sine generally calculus anglemeasured radian see also significance radian one
+use theory taylor series show following
+identity hold real number 
+sin xxfracxfracxfracx 
+cdotssumninfty fracnxnn
+
+co xfracxfracxfracx 
+cdotssumninfty fracnxnn
+
+identity often taken definition sinecosine function often used starting pointrigorous treatment trigonometric function applications
+eg fourier series since theory infinite seriesdeveloped foundation real number system independent
+geometric consideration differentiability continuity
+function established series definitions
+alone
+
+series found
+
+tan xsumninfty fracun xnn
+sumninfty fracn n xnn
+xfracxfrac xfrac 
+cdots qquad mboxforxfrac 
+
+
+unis nth updown number
+bnis nth bernoulli numberenbelow nth euler number
+
+expressed form denominatorcorresponding factorial numerator called tangent
+number combinatorial interpretation enumerate
+alternating permutation finite set odd cardinality
+
+csc xsumninfty fracnn xnn
+fracxfrac xfracxfrac 
+xcdots qquad mboxforxpi
+
+sec xsumninfty fracun xnn 
+sumninfty fracn xnn
+frac xfracxfracx
+cdots qquad mboxforxfrac 
+
+expressed form denominatorcorresponding factorial numerator called secant numbers
+combinatorial interpretation enumerate alternating
+permutation finite set even cardinality
+
+cot xsumninfty fracn bn
+xnn
+fracxfrac xfrac xfracx
+cdots qquad mboxforxpi
+
+theorem complex analysis unique analytic
+extension real function complex numbertaylor series trigonometric function definedcomplex number using taylor series
+relationship exponential function complex numbers
+
+shown series definition sine cosine
+function imaginary real part respectivelycomplex exponential function argument purely imaginary
+
+ei thetacosthetaisintheta 
+
+relationship first noted euler identity called
+euler formula way trigonometric function become essential
+geometric interpretation complex analysis exampleidentity one considers unit circle complex
+plane defined eix parametrize circleterm cosine sine relationship complex
+exponential trigonometric function becomes apparent
+
+furthermore allows definition trigonometric
+function complex argument 
+sin sumninftyfracnnzn
+eimath zeimath imathimath sinh
+left imath zright
+
+co zsumninftyfracnnzn
+eimath zeimath overcosh
+leftimath zright
+
+ialso purely real 
+co xmboxreeimath 
+sin xmboximeimath 
+also known exponential process intimately linkedperiodic behaviour
+
+definition via differential equations
+
+sine cosine function satisfy differential equation
+
+yy
+
+say additive inverse second
+derivative within dimensional vector space consistingsolution equation sine function unique solution
+satisfying initial condition yand yandcosine function unique solution satisfying initial
+condition yand ysince sine cosine functions
+linearly independent together form basis method
+defining sine cosine function essentially equivalentusing euler formula see linear differential equation turndifferential equation used define sine
+cosine function also prove trigonometric identitysine cosine functions
+
+tangent function unique solution nonlinear
+differential equation
+
+yy
+
+satisfying initial condition ythere interesting
+visual proof tangent function satisfies differential
+equation see needhams visual complex analysis
+
+significance radians
+
+radian specify angle measuring length around pathcircle constitute special argument sine cosine
+function particular sine cosine map
+radian ratio satisfy differential equation classically
+describe argument sine cosine radian scaledfrequency
+
+fxsinkx nek 
+derivative scale amplitude
+
+fxkcoskx
+
+k constant represents mapping unit xdegree
+kfracpicirc
+
+mean second derivative sine degree satisfies
+differential equation
+
+yy
+
+
+yky
+
+similarly cosine
+
+mean sine cosine different functionfourth derivative sine sineargument radians
+
+identities
+
+many identity exist interrelate trigonometric functions
+among frequently used pythagorean identitystate angle square sine plus squarecosine alwaysthis easy see studying right
+triangle hypotenuseand applying pythagorean theoremsymbolic form pythagorean identity reads
+
+leftsin xrightleftcos xright
+
+commonly written following way
+
+sinxcosx
+
+key relationship sum difference formula give
+sine cosine sum difference two angle termsine cosine angle derived
+geometrically using argument back ptolemy one also
+produce algebraically using euler formula
+
+sin leftxyrightsin co ycos sinco leftxyrightcos co ysin sin
+sin leftxyrightsin co ycos sinco leftxyrightcos co ysin sin
+two angle equal sum formula reduce simpler
+equation known doubleangle formulas
+
+integral derivative trigonometric function seerelevant section table derivative table integral list
+integral trigonometric functions
+
+definition using functional equations
+
+mathematical analysis one define trigonometric functions
+using functional equation based property like sumdifference formula taking given formula pythagorean
+identity example one prove two real functions
+satisfy condition symbolically say exists
+exactly one pair real function real
+number following equation hold
+
+sxcx
+sxysxcycxsy
+cxycxcysxsy
+
+added condition
+xcxsxx mathrmforx
+
+derivation starting functional equation also
+possible derivation extended complex numbers
+example derivation used define trigonometrygalois fields
+
+computation
+
+computation trigonometric function complicated subject
+today avoided people widespread
+availability computer scientific calculator provide
+builtin trigonometric function angle section
+however describe detail computation three
+important context historical use trigonometric tablemodern technique used computer important anglesimple exact value easily found suffices considersmall range angle saytosince anglereduced range periodicity symmetrytrigonometric functions
+
+prior computer people typically evaluated trigonometric functions
+interpolating detailed table value calculatedmany significant figure table available long
+trigonometric function described see historytypically generated repeated application halfangleangleaddition identity starting known valuesin
+
+modern computer use variety technique one common method
+especially higherend processor floating point unitcombine polynomial approximation taylor seriesrational function table lookupthey first look closest
+angle small table use polynomial computecorrection simpler device lack hardware multiplieralgorithm called cordic well related techniqueefficient since shift additionmethod commonly implemented hardware performance reasons
+
+finally simple angle value easily computedhand using pythagorean theorem following examplefact sine cosine tangent integer multiple 
+radian three degree found exactly hand
+
+consider right triangle two angle equaltherefore bothradiansdegrees length side length side equal choose abthe values
+sine cosine tangent angle ofradiansdegreesfound using pythagorean theorem
+
+csqrtabsqrt
+
+therefore
+
+sin leftpirightsin leftcircrightcos
+leftpirightcos leftcircrightover
+sqrt
+tan leftpirighttan leftcircright 
+sqrt sqrt
+
+determine trigonometric function angle ofradians 
+degree andradiansdegrees start equilateral
+triangle side lengthall angle areradiansdegrees
+dividing two obtain right triangle withradians
+degree andradiansdegrees angle triangle
+shortest sidethe next largest sideandhypotenusethis yields
+
+sin leftpirightsin leftcircrightcos
+leftpirightcos leftcircrightover
+
+co leftpirightcos leftcircrightsin
+leftpirightsin leftcircrightsqrt
+
+tan leftpirighttan leftcircrightcot
+leftpirightcot leftcircrightover
+sqrt
+
+inverse functions
+
+trigonometric function periodic must restrictdomain able define unique inversefollowing function left defined equationright proved identity principal inverseusually defined
+beginmatrix mboxforfracpi le
+fracpiyarcsinxmboxif ifx 
+sinymboxforle piyarccosx 
+mboxif ifxcosymboxfor 
+fracpiyfracpiyarctanxmboxif
+ifxtanymboxforfracpi le fracpi neyarccscxmboxififxcscymboxforle pi fracpiyarcsecxmboxif ifx 
+secymboxforfracpiyfracpineyarccotxmboxif ifxcoty
+endmatrix
+
+inverse trigonometric function notation sin cos
+often used arcsin arccos etc notation used
+inverse function sometimes confused multiplicative
+inverse function notation using arc prefix avoids
+confusion though arcsec may occasionally confused 
+arcsecond
+
+like sine cosine inverse trigonometric functionalso defined term infinite series example
+
+arcsin zzleft fracright frac left fraccdotcdotright frac left frac cdotcdotcdotcdotright
+fraczcdots
+
+function may also defined provingantiderivatives function arcsine examplewritten following integral
+
+arcsinleftxrightintx fracsqrt 
+zmathrmdz quad 
+analogous formula function found inverse
+trigonometric function using complex logarithm one generalize
+function complex arguments
+
+arcsin log left zsqrtz right
+arccos log left zsqrtzright
+arctan zfraci logleftfracizizright
+
+property applications
+
+trigonometric function name suggests crucial
+importance trigonometry mainly following two
+results
+
+law sines
+
+law sine arbitrary triangle states
+
+fracsin aafracsin bbfracsin 
+also known
+fracasin afracbsin bfraccsin 
+lissajous curve figure formed trigonometrybased function
+enlarge
+lissajous curve figure formed trigonometrybased function
+
+proven dividing triangle two right one using
+definition sine common number sinaa occurringtheorem reciprocal diameter circlethree point c law sine useful computinglength unknown side triangle two angle one side
+known common situation occurring triangulationtechnique determine unknown distance measuring two angleaccessible enclosed distance
+
+law cosines
+
+law cosine also known cosine formula extension
+pythagorean theorem
+
+cababcos 
+
+also known
+co cfracabcab
+
+theorem proven dividing triangle two
+right one law cosine useful determine unknown data
+triangle two side angle known
+
+angle contained two side triangle may
+unique aware ambiguous case cosine law
+
+useful properties
+
+also law tangents
+
+fracabab 
+fractanfracabtanfracab
+
+periodic functions
+
+animation additive synthesis square wave increasing
+number harmonics
+enlarge
+animation additive synthesis square wave increasing
+number harmonics
+
+sine cosine function also appear describing simple
+harmonic motion another important concept physic context
+sine cosine function used describe one dimension
+projection uniform circular motion mass string
+movement small angle approximation mass pendulum
+movement
+
+trigonometric function also important outside studytriangle periodic function characteristic wave
+pattern graph useful modelling recurring phenomenonsound light wave every signal written typically
+infinite sum sine cosine function different frequencies
+basic idea fourier analysis trigonometric series
+used solve variety boundaryvalue problem partial
+differential equation example square wave writtenfourier series
+
+xmathrmsquaretfracpi sumkinfty
+sinleftkt right overk
+

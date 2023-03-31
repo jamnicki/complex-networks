@@ -1,0 +1,239 @@
+copyright
+
+compact disc
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+caption compact disc
+
+medium type optical disc
+capacityup tomib
+usageaudio data storage
+optical disc authoring
+optical disc
+optical disc image
+recorder hardware
+authoring software
+recording technologies
+recording modes
+packet writing
+
+optical medium types
+laserdisc
+compact disc cdrom cdr cdrw
+dvd dvdr dvdr dvdr dvdr dvdrw dvdrw dvdrw dvdram
+bluray disc bdr bdre
+hd dvd dvdr
+
+standards
+rainbow books
+file systems
+iso 
+joliet
+rock ridge
+amiga extension rock ridge
+el torito
+apple iso extensions
+universal disk format
+mount rainier
+
+compact disc optical disc used store digital data
+originally developed storing digital audio availablemarket lateremains standard physical mediumcommercial audio recording ofan audio compact disc consists
+one stereo track stored using bit pcm codingsampling rate ofkhz standard compact disc diametermm ormm themm disc hold approximatelyminutesaudio themm disc sometimes used single hold
+approximatelyminutes audio compact disc technology later
+adapted use data storage device known cdrominclude recordonce rewritable mediacdr cdrw cdroms
+cdrs remain widely used technology personalcomputer
+industry ofthe extension extremely
+successful inthe annual worldwide sale cdaudio cdrom
+cdr reached aboutbillion discs
+
+history
+
+optical lens drive
+enlarge
+optical lens drive
+
+inphilips sony decided join force setting joint
+task force engineer whose mission design new digital
+audio disc prominent member task force kees imminktoshitada doi year experimentation discussiontaskforce produced thered book compact disc standard philips
+contributed general manufacturing process based video
+laserdisc technology philip also contributed eighttofourteen
+modulation efm offer long playing time high
+resilience disc handling damage scratchfingerprint sony contributed errorcorrection method circ
+compact disc story told former member taskforce gives
+background information many technical decision made including
+choice sampling frequency playing time disc diameter
+according philip compact disc thus invented collectively
+large group people working team
+
+compact disc reached market latein asia earlyfollowing year market example releasedunited state march first available 
+japanesemade title cbssony event often seenbig bang digital audio revolution new audio discenthusiastically received especially earlyadopting classical
+music audiophile community handling quality received
+particular praise price player sank rapidly began
+gain popularity larger popular rock music markets
+
+design wa originally thought evolutiongramophone record rather primarily data storage mediumlater concept audio file arise generalizingdata file origin music format compact disc
+ha grown encompass application junethe cdrom
+readonly memory incdrecordable introduced also
+developed sony philips
+
+physical details
+
+compact disc made amm thick disc pure
+polycarbonate plastic thin layer super purity aluminiumrarely gold used data longevitylimitededition audiophile applied surface makereflective protected film lacquer lacquerprinted label common printing method compact discsilkscreening offset printing data stored seriestiny indentation pit encoded tightly packed spiral trackpit moulded top polycarbonate layer areapit known land pit approximatelynm deepnm wide varies fromnm tom length spacing
+track pitch ism read focusingnm wavelength semiconductor laser bottompolycarbonate layer difference height pit lands
+lead phase difference light reflected pitsurrounding land measuring intensityphotodiode one able read data disc pitland directly represent zero one binary
+data instead nonreturntozero inverted encoding used change
+pit land land pit indicates one change
+indicates zero turn decoded reversingeighttofourteen modulation used mastering discreversing crossinterleaved reedsolomon coding finally revealing
+raw audio data stored disc
+
+pit much closer label side disc defectdirt clear side focus playback discs
+consequently suffer damage defect scratchlabel side whereas clearside scratch repairedrefilling plastic similar index refraction
+minicd iscentimeters diameter
+enlarge
+minicd iscentimeters diameter
+
+disc shape diameters
+
+digital data begin centre disc proceeds
+outwards edge allows adaptation different size
+format available standard available two size farcommon ismm diameter aor minute audio
+capacity aormb data capacitymm discsmini cds
+originally designed single hold tominutes
+music ormb data today many single released cd called maxi single
+physical size marketedmb marketedmb
+cmmbmibmbmib
+
+audio format
+
+technical format audio compact disc compact disc digital
+audiocdda laid document produced inbyformat joint creator sony philip document known
+colloquially thered book colour coverformat twochannel bit pcm encoding akhz sampling
+rate fourchannel sound allowed option within red book
+format never implemented
+
+sampling rate ofkhz inherited method converting
+digital audio analog video signal storage video tape
+wa affordable way get data recording
+studio manufacturer time specificationdeveloped device turn analog audio signal pcm
+audio turn changed analog video signal calledpcm adaptor technology could store six sample three sample per
+stereo channel single horizontal line standard ntsc video
+signal hasusable line per field andfieldss works
+atsamplessstereo channel similarly pal haslinesfield givessamplessstereo channel system
+could either store bit sample error correction bit
+sample almost error correction
+
+wa long debate whether useorbit sample andor
+orsampless sonyphilips task force designed
+compact disc philip already developed abit convertersony insisted onbit endbits andkilosamples per
+second prevailed philip found way producebit quality using
+bit dac using four time oversampling
+
+storage capacity playing time
+
+original target storage capacity wa one hour audio
+content disc diameter ofmm sufficient however
+according philip sony vicepresident norio ohga suggested
+extending capacity tominutes accommodate complete
+performance beethoven symphony single dischowever kees
+immink philip denies extra playing time subsequently
+required change acm disc
+
+according sunday tribune interview story slightlyinvolved timephilips owned polygram oneworld largest distributor music polygram set large
+experimental disc plant hanover germany could produce
+huge amount course diameter sonyyet facility sony agreed disc
+philip would significant competitive edge market
+sony aware like something done
+longplaying time beethoven ninth imposed ohga usedpush philip accept philip polygram lost edgedisc fabrication
+
+minute playing time cdlongplaying vinyl album often used format advantage
+early year lp vied commercial sale cds
+would often released one bonus track enticing
+consumer buy extra material however attemptcombine double onto one occasionally resulted opposing
+situation would actually offer fewer track equivalent example thealbum kiss kiss kisscure say following back editiontrack hey appears double album cassetteomitted facilitate single compact disk
+
+main physical parameters
+
+main parameter taken septemberissuecompact disc specification follows
+scanning velocitymsconstant linear velocity 
+equivalent approximatelyrpm inside discapproximatelyrpm outside edge disc playedbeginning end slows playback
+track pitchm
+disc diametermm
+disc thicknessmm
+inner radius program areamm
+outer radius program areamm
+centre spindle hole diametermm
+
+program area iscm length recordable
+spiral iskm scanning speed ofmsplaying time isminutes aroundmb data cdromdisc diameter weremm maximum playing time wouldminute six minute disc data appearing slightly
+densely tolerated player though old one fail
+using linear velocity ofms track pitch ofmicrometre
+lead playing time ofminutes capacity ofmb even
+higher capacity nonstandard disc tominutesavailable least recordables generally tighter tracks
+squeezed worse compatibility
+data structure
+
+smallest entity audio format called frame frame
+accommodate six complete bit stereo sample byte frame comprisesbytes whichare audio
+byte six full stereo sample eight circgenerated error correction
+byte one subcode byte eight bit subcode byteavailable control display eighttofourteen modulation
+efm rule dataaudio byte translated bit efm words
+alternate bit merging word totalbit bit unique synchronization word addednumber bit frame totalsthe synchronization word cannot
+occur normal bit stream thus used identifybeginning frame data cdrom organized framesector cdrom sector containsframes holds
+user bytes
+
+current manufacturing process allow audio containminute varies one replication plant another without
+requiring content creator sign waiver thus current
+practice maximum playing time crept higher maintaining
+acceptable standard reliability
+
+cdrom
+
+first year existence compact disc purelyaudio format however inthe yellow book cdrom standardestablished sony philip defined nonvolatile optical
+data storage medium using physical format audio compact
+disc readable computer cdrom cdr drive
+
+manufacture
+
+replicated massproduced initially using hydraulic press
+small granule raw plastic fed barrel heat
+increasing amount pressure melt plastic forceliquified material mold cavity equipped metal stamper
+mold close allowing plastic cool harden opened
+disc substrate removed mold robotic arm 
+mm diameter centre hole called stacking ring removedmethod produce clear plastic blank part discfoil layer applied clear blank substrate disc readygo press press first glass master cut using high
+power laser device dissimilar writer glass master
+aroundinchescm diameter one inchmm
+thick need strong pressing glass masterpositive master testing used make diepressing metal disc die becomes negative
+image number made depending number pressing
+mill running copy final diego press press image onto foil layerblank leaving final positive image disc small circlevarnish applied ring around centre discfast spin evenly spread surface discprinted packed method used press recordsimilar except molding plastic disc separate process
+cds
+
+recordable 
+typical megabyte cdr
+enlarge
+typicalmegabyte cdr
+
+recordable compact disc cdrs injection molded blank
+data spiral photosensitive dye applied discs
+metalized lacquer coated write laser recorder
+change colour dye allow read laser standard player see data would injection molded compact disc
+cdr recording permanent resulting disc readcdrom drive played audio player time however
+estimated aboutyears dye fade causing read errors
+data loss reading device cannot recover error
+correction methods
+
+cdrw rerecordable medium metallic alloy insteaddye write laser case used heat alterchemical property alloy hence change reflectivitycdrw doe great difference reflectivity lands
+bump pressed cdr many audio players
+cannot read cdrw disc although majority standalone dvd
+player
+cdrs follow orange book standard
+
+copy protection
+
+red book audio specification except simple anticopy bitsubcode doe include serious copy protection mechanism
+starting earlyattempts made record companymarket copyprotected nonstandard compact disc philip stated
+disc permitted bear trademarked compact disc
+digital audio logo violate red book specification
+moreover great public outcry copyprotected discs
+many see threat fair use

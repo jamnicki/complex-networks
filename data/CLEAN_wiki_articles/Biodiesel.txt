@@ -1,0 +1,386 @@
+copyright
+
+biodiesel
+
+ school wikipedia selection related subject engineering environment
+
+plant oils
+types
+vegetable fatslist
+essential oillist
+maceratedlist
+uses
+drying oiloil paint
+cooking oil
+fuelbiodiesel
+aromatherapy
+components
+saturated fat
+monounsaturated fat
+polyunsaturated fat
+trans fat
+
+biodiesel refers dieselequivalent processed fuel derivedbiological source though derived biological sourceprocessed fuel readily used dieselengined vehicles
+distinguishes biodiesel straight vegetable oil svowaste vegetable oil wvo used fuel modified diesel
+vehicles
+
+article context biodiesel refers alkyl ester madetransesterification vegetable oil andor animal fats
+biodiesel biodegradable non toxic significantly fewer
+emission petroleumbased diesel burned much debate
+extent biodiesel safely used conventional
+diesel engine without modification using biodiesel unmodified
+engine lead problem particularly blocked injectorturn lead serious engine damage majority vehicle
+manufacturer say usingbiodiesel damage engineuk example manufactuers maintain engine
+warranty use maximumbiodieselblended 
+conventional dieselalthough position generally consideredoverly cautious peugeot citroen exceptionrecently announced hdi diesel engine runbiodiesel scania another exception allowengine operate onbiodiesel
+
+biodiesel also used heating fuel domestic commercial
+boiler technical research paper published ukinstitute plumbing heating entitled biodiesel heating
+sustainable heating future andrew robertson describes
+laboratory research field trial project using pure biodieselbiodiesel blend heating fuel oil fired boilerbiodiesel expoin andrew robertson presentedbiodiesel heating oil research technical paper suggested
+b biodiesel could reduce household emission 
+million tonne per year would require aroundhectares
+arable land required biodiesel heating oil
+sector paper also suggests existing oil boiler easily
+cheaply converted biodiesel biodiesel used
+
+biodiesel distributed using today infrastructure use
+production increasing rapidly fuel station beginningmake biodiesel available consumer growing numbertransport fleet use additive fuel biodieselgenerally expensive purchase petroleum dieseldifferential may diminish due economy scale rising costpetroleum government tax subsidies
+
+description
+
+biodiesel light dark yellow liquid practically
+immiscible water high boiling point low vapor pressure
+typical methyl ester biodiesel flash point ofcf
+making rather nonflammable biodiesel densitygcm water biodiesel uncontaminated starting
+material regarded nontoxic
+
+biodiesel viscosity similar petrodiesel industry termdiesel produced petroleum used additiveformulation diesel increase lubricity pure ultralow
+sulfur diesel ulsd fuel although care must taken ensurebiodiesel used doe increase sulfur content mixture
+aboveppm much world system known factor
+state amount biodiesel fuel mix contrastba system used ethanol mix example fuel containing
+biodiesel labeled pure biodiesel referred 
+technical standards
+
+common international standard biodiesel 
+
+additional national specification astm discommon standard referenced united state germanyrequirement biodiesel fixed din enstandardstandard three different variety biodieselmade different oils
+rmerapeseed methyl ester according din 
+pme vegetable methyl ester purely vegetable product according
+din 
+fme fat methyl ester vegetable animal product accordingdin 
+
+standard ensure following important factor fuel
+production process satisfied
+complete reaction
+removal glycerin
+removal catalyst
+removal alcohol
+absence free fatty acids
+low sulfur content
+
+basic industrial test determine whether product conformstandard typically include gas chromatography test verifies
+important variable complete testexpensive fuel meeting quality standard nontoxic
+toxicity ratingld greater thanmlkg
+biodiesel sample
+enlarge
+biodiesel sample
+
+applications
+
+biodiesel used pure form may blendedpetroleum diesel concentration modern diesel engines
+biodiesel degrade natural rubber gasket hose vehicles
+mostly found vehicle manufactured beforealthoughtend wear naturally likely alreadyreplaced viton nonreactive biodiesel biodiesels
+higher lubricity index compared petrodiesel advantagecontribute longer fuel injector life biodiesel better solvent
+petrodiesel known break deposit residue
+fuel line vehicle previously runpetrodiesel fuel filter may become clogged particulatequick transition pure biodiesel made biodiesel cleanengine process therefore recommended change fuel
+filter withinmiles first switching biodiesel blend
+
+use
+
+warm climate pure unblended biodiesel poured straighttank diesel vehicle older diesel engine stillnatural rubber part affected biodieselpractice rubber part replaced long ago
+biodiesel noted linked premature injection pump
+failure many vehicle using biodiesel many years
+without ill effect uncanny correlation several casepump failure biodiesel cannot dismissed pure biodiesel produced
+home use thousand driver experienced
+failure however fact remains biodiesel new subject
+carry risk fully researched biodiesel sold
+publicly held high standard set astm
+
+gelling
+
+temperature pure biodiesel start gel varies
+significantly depends upon mix ester thereforefeedstock oil used produce biodiesel example biodiesel
+produced low erucic acid variety canola seed rme startgel approximatelyc biodiesel produced tallow tendsgel aroundc ofthere limited numberproduct significantly lower gel point straight
+biodiesel one product wintron ha shown reducegel point pure biodiesel fuel wintron blend styrene
+copolymer ester toluene base reduces tendencyviscosity biodiesel increase cooled key step
+cold temperature crystallisation way act decrease
+temperature crystal formed become large enough
+block pore fuel filter cold filter plugging pointcfpp lowest temperature fuel still flow
+pour point number study shown winter operationpossible biodiesel blended fuel oil includinglow
+sulfur diesel fuel anddieselkerosene exact blend dependsoperating environment successful operation run using 
+lskandbio blend area run alow
+sulfurkeroseneandbio blend akbiodiesel blend according national biodiesel board nbb biodieselpetrodiesel doe need treatmentaddition already taken petrodiesel
+
+contamination water
+
+biodiesel although hydrophobic may contain small problematic
+quantity water water present residualprocessing come storage tank condensation
+
+presence water problemwater reduces heat combustion bulk fuel means
+smoke harder starting power
+water cause corrosion vital fuel system component fuel pumps
+injector pump fuel line etc
+water freeze form ice crystal nearcfcrystal provide site nucleation accelerate gellingresidual fuel
+water accelerates growth microbe colony plugfuel system biodiesel user heated fuel tank therefore
+face yearround microbe problem
+
+previously amount water contaminating biodiesel hadifficult measure taking sample since water oil separate
+however possible measure water content using wateroil sensors
+
+availability
+
+production
+
+chemically transesterified biodiesel comprises mix mono alkyl
+ester long chain fatty acid common form methanolproduce methyl ester cheapest alcohol available though
+ethanol used produce ethyl ester biodiesel higher
+alcohol isopropanol butanol also used using
+alcohol higher molecular weight improves cold flow properties
+resulting ester cost efficient
+transesterification reaction byproduct transesterification
+process production glycerol lipid transesterification
+production process used convert base oil desired
+ester free fatty acid ffas base oil either
+converted soap removed process esterified
+yielding biodiesel using acidic catalystprocessing unlike straight vegetable oil biodiesel combustion
+property similar petroleum diesel replace
+current uses
+
+biodiesel feedstock
+
+soybean used source biodiesel
+enlarge
+soybean used source biodiesel
+
+variety oil used produce biodiesel include
+virgin oil feedstock rapeseed soybean oil commonly
+used though crop mustard palm oil hemp jatropha
+even algae show promise see list vegetable oilcomplete list
+waste vegetable oil wvo
+animal fat including tallow lard yellow greasebyproduct production omega fatty acid fish oil
+sewage company new zealand successfully developedsystem using sewage waste substrate algaeproducing biodiesel
+
+worldwide production vegetable oil animal fat yet
+sufficient replace liquid fossil fuel use furthermoreenvironmental group object vast amount farmingresulting overfertilization pesticide use land use conversion
+say would needed produce additional vegetable oil
+
+many advocate suggest waste vegetable oil best sourceoil produce biodiesel however available supply drastically
+le amount petroleumbased fuel burnedtransportation home heating world according united
+state environmental protection agency epa restaurant produce aboutmillion gallonsm waste cooking
+oil annually although economically profitable use wvoproduce biodiesel even profitable convert wvoproduct soap therefore wvo dumpedlandfill used purpose animal fat similarly
+limited supply would efficient raise animals
+simply fat however producing biodiesel animal fatwould otherwise discarded could replace small percentagepetroleum diesel usage
+
+estimated transportation fuel home heating oil usedunited state aboutbillion gallonskm briggs
+waste vegetable oil animal fat would enough meet
+demand united state estimated production vegetable
+oil aboutbillion poundsmillion ton 
+billion gallonskm estimated production animal fat
+isbillion poundsmillion ton van gerpen 
+
+biodiesel feedstock plant utilize photosynthesis convert solar
+energy chemical energy stored chemical energy released
+burned therefore plant offer sustainable oil source
+biodiesel production carbon dioxide emittedburning biodiesel simply recycling absorbedplant growth net production greenhouse gas small
+
+feedstock yield efficiency per acre affect feasibility ramping
+production huge industrial level required powersignifcant percentage national world vehicle highest yield
+feedstock biodiesel algae producetimesamount oil per acre soybeans
+feedstock gallonsacre litreshectare
+soybean
+rapeseed
+mustard
+jatropha
+palm oil
+algae
+
+efficiency economic arguments
+
+according study written drs van dyne raymertennessee valley authority average farm consumes fuelrate ofliters per hectareus gallon per acre landproduce one crop however average crop rapeseed produce oilaverage rate oflhaus galacre highyield rapeseed
+field produce aboutlhaus galacre ratio input
+output case roughlyandphotosynthesis
+known efficiency rate aboutand entire
+mass crop utilized energy production overall
+efficiency chain known aboutthis doecompare favorably solar cell combined electric drive train
+biodiesel outcompetes solar cell cost ease deployment
+however statistic enough show whether
+change make economic sense additional factor must taken
+account fuel equivalent energy requiredprocessing yield fuel raw oil return cultivating
+food relative cost biodiesel versus petrodiesel 
+joint study department energy doe department agriculture usda traced many various costs
+involved production biodiesel found overallyieldsunits fuel product energy every unit fossil fuel
+energy consumed measure referred energy yieldcomparison petroleum diesel petroleum gasoline bioethanol using
+usda number found minnesota departmentagriculture website comparison petroleum diesel fuel foundaenergy yield along withfor petroleum gasolinebioethanol thestudy used soybean oil primarilybase oil calculate energy yield furthermore due higher
+energy density biodiesel combined higher efficiencydiesel engine gallon biodiesel produce effective energygallon ethanol also higher oil yielding crop could increase
+energy yield biodiesel
+
+debate energy balance biodiesel ongoing however
+transitioning fully biofuels could require immense tract landtraditional crop used problem especially severenation large economy since energy consumption scaleeconomic output using traditional plant nationsufficient arable land produce biofuel nations
+vehicle nation smaller economy hence energy
+consumption arable land may better situation although
+many region cannot afford divert land away food production
+third world country biodiesel source use marginal land
+could make sense honge oil nut grown along roadjatropha grown along rail line recent study using speciealgae tooil content concluded onlykm
+orof land area could utilized produce enough
+biodiesel replace transportation fuel country currently
+utilizes furthermore otherwise unused desert land receives
+high solar radiation could effective growing algae
+algae could utilize farm waste excess factories
+help speed growth algae direct source energy
+content biodiesel solar energy captured plantphotosynthesis website biodieselcoukdiscusses positive
+energy balance biodiesel
+
+straw left field biodiesel productionstrongly energy positive yieldinggj biodiesel every
+gj energy input yieldcost ratio 
+straw burned fuel oilseed rapemeal usedfertilizer yieldcost ratio biodiesel productioneven betterin word every unit energy
+input produce biodiesel output wasunitsdifference ofunits would solar energy
+
+biodiesel becoming interest company interested commercial
+scale production well usual home brew biodiesel useruser straight vegetable oil waste vegetable oil diesel
+engine homemade biodiesel processor many varied success
+biodiesel homebrewing microeconomyofscale operations
+continues shatter conventional business myth large
+economyofscale operation efficient profitablebecoming increasingly apparent smallscale localized
+lowimpact energy keep resource revenue within communities
+reduces damage environment requires waste management
+
+environmental benefits
+
+environmental benefit comparison petroleum based fuel include
+biodiesel reduces emission carbon monoxide coapproximatelyand carbon dioxide byon net lifecycle
+basis carbon biodiesel emission recycledcarbon already atmosphere rather new
+carbon petroleum sequestered earth crust
+sheehan 
+biodiesel contains fewer aromatic hydrocarbon benzofluoranthene
+reduction benzopyrenesreduction
+biodiesel reduce much asthe direct tailpipe
+emission particulate small particle solid combustion
+product vehicle particulate filter comparedlowsulfurppm diesel particulate emission resultproduction reduced aroundcompared fossilsourced
+diesel beer al 
+biodiesel produce betweenandmore nitrogen oxide nox
+tailpipeemissions petrodiesel biodiesel low sulphur
+content nox emission reduced usecatalytic converter nox emissionconventional diesel engine nonetheless nox tailpipe
+emission biodiesel use catalytic converterremain greater equivalent emission petrodieselbiodiesel contains nitrogen increase nox emission may
+due higher cetane rating biodiesel higher oxygen
+content allows convert nitrogen atmosphere
+nox rapidly debate continues nox emissionfebruarya navy biodiesel expert claimed nox emissionpractice actually lower baseline researchneeded
+biodiesel higher cetane rating petrodieselinsignificant term emission performance
+biodiesel biodegradable nontoxicthe departmentenergy confirms biodiesel toxic table saltbiodegrades quickly sugar see biodiesel handling use
+guidelines
+united state biodiesel alternative fuelsuccessfully completed health effect testing requirements
+tier tier clean air act 
+
+since biodiesel often used blend petroleum diesel
+fewer formal study effect pure biodieselunmodified engine vehicle daytoday use fuel meetingstandard engine part withstand greater solvent
+property biodiesel expected toand reported case doesrun
+without additional problem use petroleum diesel
+flash point biodieselc significantly higherpetroleum dieselc gasolinec gel
+point biodiesel varies depending proportion different
+type ester contained however biodiesel includingmade soybean oil somewhat higher gel cloud point
+petroleum diesel practice often requires heating
+storage tank especially cooler climates
+pure biodiesel used petroleum diesel engine
+though commonly used lower concentration areas
+mandated ultralow sulfur petrodiesel reducesnatural viscosity lubricity fuel due removalsulfur certain material additive required make
+ulsd properly flow engine making biodiesel one popular
+alternative range low asb shown restore
+lubricity many municipality started usingbiodiesel
+b snowremoval equipment systems
+
+environmental concerns
+
+oilproducing plant grown increasing concernenvironmentalist one prime worry countryclear cut large area forest order grow cropalready occurred philippine indonesiacountry plan increase biodiesel production levellead deforestation ten million acreplan materialize
+
+levington agricultural report highlight sectionthatuse biodiesel energy footprinttimes bigger use
+pure plant oil ppo suitably modified engines
+
+union concerned scientist writes come buyingnew car gasolinepowered model better diesel toxic soot
+smogforming emission downside current dieselproducetotimes toxic particulate gasoline
+counterpart made use biodiesel
+diesel fare even worse come smogforming nitrogen oxide
+emission greater thantimes emission comparable
+gasoline vehicle
+
+indepth look worrying problem pursuitbiodiesel found biofuelwatch leading watch dogunsustainable growth biodiesel international market
+
+historical background
+
+transesterification vegetable oil conducted early 
+scientist duffy patrick many year first
+diesel engine became functional rudolf diesel prime model single
+ftm iron cylinder flywheel base ranpower first time augsburg germany augustin
+remembrance event augusthas declared international
+biodiesel day diesel later demonstrated engine receivedgrand prix highest prize world fair paris franceengine stood example diesel visionpowered peanut oila biofuel though strictly biodiesel since
+wa transesterified believed utilizationbiomass fuel real future engine aspeech
+rudolf diesel said use vegetable oil engine fuel may seem
+insignificant today oil may become course time
+important petroleum coaltar product present
+time
+
+diesel engine manufacturer altered engineutilize lower viscosity fossil fuel petrodiesel rather
+vegetable oil biomass fuel petroleum industry able
+make inroad fuel market fuel much cheaperproduce biomass alternative result many years
+near elimination biomass fuel production infrastructurerecently environmental impact concern decreasing cost
+differential made biomass fuel biodiesel growing
+alternative
+
+research use transesterified sunflower oil refiningdiesel fuel standard initiated south africa inby 
+process produce fuel quality enginetested biodieselcompleted published internationally sae technical paper seriessae international highway meeting milwaukee wisconsin
+usaan austrian company gaskoks obtained technologysouth african agricultural engineer put first pilot plant
+biodiesel novemberand erection first
+industrial biodiesel plant onaprilwith capacityton rapeseed per annum throughout plant openedmany european country including czech republic france germany
+sweden time nation part world also saw
+local production biodiesel starting bythe austrian
+biofuels institute identifiedcountries commercial biodiesel
+projects
+
+france launched local production biodiesel fuel
+known locally diester obtained transesterificationrapeseed oil mixed proportion ofinto regular diesel
+fuel proportion ofinto diesel fuel usedcaptive fleetspublic transportation renault peugeotmanufacturer certified truck engine usepartial biodiesel experiment withbiodiesel underway
+
+september ofminnesota became first state requirediesel fuel sold state contain part biodieselminnesota law requires leastbiodiesel diesel fuel sold
+
+current research
+
+ongoing research finding suitable cropimproving oil yield using current yield vast amount landfresh water would needed produce enough oil completely replace
+fossil fuel usage would require twice land area udevoted soybean production twothirds devoted rapeseed
+production meet current heating transportation needs
+
+specially bred mustard variety produce reasonably high oil
+yield added benefit meal leftover oil
+ha pressed act effective biodegradable
+pesticide
+
+algaculture
+
+fromtothe national renewable energy laboratory
+experimented using algae biodiesel source theaquatic
+specie program recent paper michael briggs unh
+biodiesel group offer estimate realistic replacementvehicular fuel biodiesel utilizing algae natural
+oil content greater thanwhich briggs suggests grownalgae pond wastewater treatment plant oilrich algaeextracted system processed biodieseldried remainder reprocessed create ethanol
+
+production algae harvest oil biodiesel yetundertaken commercial scale feasibility studyconducted arrive yield estimate additionprojected high yield algacultureunlike cropbased biofuelsdoes
+entail decrease food production since requires neither
+farmland fresh water
+
+maythe aquaflow bionomic corporation marlborough new
+zealand announced produced first sample biodiesel
+fuel made algae found sewage pond unlike previous attempts
+algae naturally grown pond discharge marlborough
+district council sewage treatment work novembera
+commercialscale project announced south africa using
+americanmade closed bioreactors expected produce 
+million gallon yearthousand barrel day biodiesel within
+couple years
+

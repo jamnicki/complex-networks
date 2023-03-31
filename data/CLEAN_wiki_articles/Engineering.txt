@@ -1,0 +1,210 @@
+copyright
+
+engineering
+
+ school wikipedia selection related subject engineering
+
+engineering design analysis andor construction workpractical purpose engineer council professional
+development also known ecpd defines engineering creative
+application scientific principle design develop structures
+machine apparatus manufacturing process work utilizing
+singly combination construct operatefull cognizance design forecast behaviourspecific operating condition respect intended function
+economics operation safety life property onepractice engineering called engineer licensedformal designation professional engineerchartered
+engineer incorporated engineer broad discipline engineering
+encompasses range specialized subdisciplines focusissue associated developing specific kind product using
+specific type technology
+
+methodology
+
+crucial unique task engineer identify understand
+interpret constraint design order producesuccessful result usually enough build technically
+successful product must also meet requirement constraints
+may include available resource physical imaginative technical
+limitation flexibility future modification additionfactor requirement cost marketability
+producibility serviceability understanding constraints
+engineer derive specification limit within viable
+object system may produced operated
+
+problem solving
+
+engineer use knowledge science mathematics appropriate
+experience find suitable solution problem creatingappropriate mathematical model problem allows analyzesometimes definitively test potential solution usually
+multiple reasonable solution exist engineer must evaluatedifferent design choice merit choose solutionbest meet requirement genrich altshuller gathering
+statistic large number patent suggested compromiseheart oflowlevel engineering design higher
+level best design one eliminates core contradiction
+causing problem
+
+engineer typically attempt predict well designperform specification prior fullscale productionuse among thing prototype scale model simulations
+destructive test nondestructive test stress test testing
+ensures product perform expected engineerprofessional take seriously responsibility produce designs
+perform expected cause unintended harmpublic large engineer typically include factor safetydesign reduce risk unexpected failure howevergreater safety factor efficient design may
+computer use
+
+modern scientific technological endeavor computers
+software play increasingly important role welltypical business application software number computer
+aided applicationscax specifically engineering
+
+one widely used tool profession computeraided
+design cad software enables engineer create modeldrawing schematic design cad together digital
+mockup dmu cae software finite element method analysis
+allows engineer create model design analyzed
+without make expensive timeconsuming physical
+prototype allow product component checkedflaw ass fit assembly study ergonomics analyze static
+dynamic characteristic system stress temperatures
+electromagnetic emission electrical current voltage digital
+logic level fluid flow kinematics access distributioninformation generally organized use product
+data management software
+
+also many tool support specific engineering taskcomputeraided manufacture cam software generate cnc machining
+instruction manufacturing process management software production
+engineering eda printed circuit board pcb circuit schematics
+electronic engineer mro application maintenance management 
+aec software civil engineering
+
+recent year use computer software aid developmentgood collectively come known product lifecycle management
+plm
+
+history
+
+f eagle prattwhitney turbofan engine designedaerospace engineers
+f eagle prattwhitney turbofan engine designedaerospace engineers
+
+history concept engineering stem earliest
+time man began make clever invention pulley
+lever wheel etc exact etymology word engineer
+however person occupationally connected study design
+implementation engine word engine deriveslatin ingenium cmeaning innate quality especially mental
+power hence clever invention hence engineer essentiallysomeone make useful practical inventions
+
+another perspective obsolete meaning engineer dating
+fromis constructor military engine engineeringoriginally divided military engineering included
+construction fortification well military engine civil
+engineering nonmilitary construction bridges
+
+first electrical engineer considered william gilberthispublication magnete originator term
+electricity
+
+first steam engine built inby mechanical engineer thomas
+savery
+
+rise engineering profession nineteenth century
+term became narrowly applied field mathematics
+science applied end similarly additionmilitary civil engineering field known mechanic
+art became incorporated engineering
+
+inwith rise computer technology first search engine
+wa built computer engineer alan emtage
+
+engineering social context
+
+engineering subject range large collaboration small
+individual project almost engineering project beholdensort financing agency company set investorgovernment type engineering minimally constrained
+issue pro bono engineering open design engineering
+
+nature engineering bound society human
+behaviour every product construction used modern societyinfluenced engineering design engineering designpowerful tool make change environment societyeconomy application brings great responsibility
+represented many engineering institution codepractice ethic whereas medical ethic wellestablished field
+considerable consensus engineering ethic far developed
+engineering project subject considerable controversy
+example different engineering disciplinedevelopment nuclear weapon three gorge dam design
+use sport utility vehicle extraction oilgrowing trend amongst western engineering company enact serious
+corporate social responsibility policy many company
+engineering key driver human development subsaharan africaparticular small engineering capacity result many
+african nation unable implement solution problem face
+without outside intervention even political financial
+obstacle overcome attainment many millennium
+development goal primarily engineering challengeachievement sufficient engineering capacity prerequisiteachieving mdgs overseas development relief ngo make
+considerable use engineer apply solution disasterdevelopment scenario number charitable organization aim use
+engineering directly good mankind
+engineer without borders
+engineer poverty
+registered engineer disaster relief
+engineer sustainable world
+
+cultural presence
+
+engineering well respected profession example canadarank one public trusted professions
+
+sometimes engineering seen somewhat dry uninteresting
+field popular culture also thought domainnerd example cartoon character dilbert engineer one
+difficulty increasing public awareness professionaverage people typical run ordinary life everpersonal dealing engineer even though benefitwork every day contrast common visit doctorleast year chartered accountant tax timeoccasionally even lawyer
+
+ha always somost british school childbrought stirring tale victorian engineer chief
+amongst brunels stephenson telfordcontemporaries
+
+science fiction engineer often portrayed highly
+knowledgeable respectable individual understandoverwhelming future technology often portrayed genre star
+trek character montgomery scott geordi forge famous
+examples
+
+engineer often respected ridiculed intense beliefs
+interest perhaps deep understandinginterconnectedness many thing engineer governor john sununu new york city mayor michael bloomberg nuclear physicist
+edward teller often driven politics fix thingpublic good
+
+occasionally engineer may recognized theiron ringa
+stainless steel iron ring worn little fourth fingerdominant hand tradition originally developed canadaritual calling engineer symbol prideobligation engineering profession year laterpractice adopted united state member orderengineer accept ring pledge uphold proud history
+engineering professional engineer name often hapostnominal letter peng north america much europeprofessional engineer denoted letter ukmuch commonwealth term chartered engineer appliesdenoted letter ceng
+
+relationship disciplines
+
+science
+
+scientist study world engineer create worldha never
+theodore von krmn
+
+exists overlap science engineering practice
+engineering one applies science area endeavor relyaccurate observation material phenomenon use mathematics
+classification criterion analyze communicate observations
+scientist expected interpret observation make
+expert recommendation practical action basedinterpretation scientist may also complete engineering
+task designing experimental apparatus building prototypes
+conversely process developing technology engineer sometimes
+find exploring new phenomenon thus becoming moment
+scientists
+
+book engineer know know walter vincenti
+asserts engineering research character differentscientific research first often deal areabasic physic andor chemistry well understood problems
+complex solve exact manner exampleuse numerical approximation navierstokes equationdescribe aerodynamic flow aircraft use miner rule
+calculate fatigue damage second engineering research employ many
+semiempirical method foreign pure scientific research
+one example method parameter variation
+
+medicine biology
+
+study human body albeit different directiondifferent purpose important common link medicineengineering discipline medicine aim sustain enhanceeven replace function human body necessary use
+technology modern medicine replace several bodys
+function use artificial organ significantly
+alter function human body artificial deviceexample brain implant pacemaker field bionics
+medical bionics dedicated study synthetic implants
+pertaining natural system conversely engineering disciplines
+view human body biological machine worth studyingdedicated emulating many function replacing biologytechnology led field artificial intelligence
+neural network fuzzy logic robotics also substantial
+interdisciplinary interaction engineering medicine
+
+field provide solution real world problem often
+requires moving forward phenomenon completely understoodrigorous scientific sense therefore experimentationempirical knowledge integral part medicine part
+study function human body human body biological
+machine many function modeled using engineering
+method heart example function much like pump skeleton
+like linked structure lever brain produce electrical
+signal etc similarity well increasing importance
+application engineering principle medicine leddevelopment field biomedical engineering utilizes
+concept developed disciplines
+
+newly emerging branch science system biologyadapting analytical tool traditionally used engineeringsystem modeling computational analysis descriptionbiological systems
+
+art
+
+connection engineering art directfield example architecture landscape architectureindustrial design even extent discipline may
+sometimes included university faculty engineeringindirect others art institute chicago instance heldexhibition art nasa aerospace design robert maillarts
+bridge design perceived deliberately artistic
+university south florida engineering professorgrant national science foundation developed courseconnects art engineering among famous historical figure leonardo
+da vinci well known renaissance artist engineer prime
+example nexus art engineering
+
+fields
+
+political science term engineering borrowedstudy subject social engineering political engineering
+deal forming political social structure using
+engineering methodology coupled political science principles
+

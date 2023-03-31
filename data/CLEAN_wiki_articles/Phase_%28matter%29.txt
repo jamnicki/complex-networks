@@ -1,0 +1,185 @@
+copyright
+
+phase matter
+
+ school wikipedia selection related subject general physics
+
+physical science phase set state macroscopic
+physical system relatively uniform chemical compositionphysical property density crystal structure indexrefraction forth familiar example phasesolid liquid gas familiar phase include plasmaquarkgluon plasma boseeinstein condensate fermionic
+condensate strange matter liquid crystal superfluidssupersolids paramagnetic ferromagnetic phase magnetic
+materials
+
+phase sometimes called state matter term leadconfusion thermodynamic state example two gas maintained
+different pressure different thermodynamic statestate matter
+
+general definition phases
+
+general say two different state systemdifferent phase abrupt change physical
+property transforming one state conversely
+two state phase transformed one
+another without abrupt changes
+
+important point different type phase associated
+different physical quality discussing solid liquid
+gaseous phase talked rigidity compressibilityeffect varying pressure volumerelevant property distinguish solid liquid gashand discussing paramagnetism ferromagnetismlooked magnetization distinguishesferromagnetic phase paramagnetic phase several examples
+phase given following section
+
+physical quantity relevant lookingcertain system example generally useful ucompare magnetization liquid water magnetization ice
+sense constitutes phase depends parameters
+looking vice versa idea allows ugeneralize concept phase encompass wide varietyphenomena
+
+technical language phase region parameter space
+thermodynamic variable free energy analyticlong free energy analytic thermodynamic propertyentropy heat capacity magnetization compressibilitywellbehaved expressed term free energy
+derivative example entropy first derivative
+free energy temperature
+
+system one phase another generallystage free energy nonanalytic phase
+transition due nonanalyticity free energy either
+side transition two different function onethermodynamic property behave differentlytransition property commonly examined contextheat capacity transition heat capacity may become
+infinite jump abruptly different value exhibit kinkdiscontinuity derivative see also differential scanning
+calorimetry
+possible graph heat capacity temperature phase
+transition
+enlarge
+possible graph heat capacity temperature phase
+transition
+
+example phases
+
+section present several system exhibit phase
+phenomena
+
+discussed solid liquid gaseous phase ordinary
+matter turn configuration moleculepossible corresponding novel phase amorphous solid glasses
+solid phase term mechanical behaviour lackstructural order ordinary crystalline solidarrangement atom within resembles liquid liquid crystals
+another phase intermediate solid liquidmolecule substance orderly orientationcase smectic liquid crystal even orderly position
+one direction free flow past one another liquid
+crystal liquid mechanical sense structural
+feature normally seen solids
+
+many material actually variety solid phasecorresponding unique crystal structure varying crystal
+phase substance calledallotropes intramolecular
+bonding change polymorph intermolecular bonding changes
+instance least nine different polymorph icemanifest different temperature pressure condition take
+another example diamond graphite allotrope carbon
+graphite composed layer hexagonally arranged carbon atomcarbon atom strongly bound three neighboring atomlayer weakly bound atom neighboring layers
+contrast diamond carbon atom strongly bound four
+neighboring carbon atom diamond cubic array tetrahedral
+bonding unique crystal structure graphite diamondresponsible vastly different property two materials
+
+ordinary gas phase electron tightly bound atomic
+nucleus contrast plasma phase atom dissociated
+ie electron separated atomic nucleusdissociation ionization occurs abruptly upon raisingtemperature lowering pressure thus display hallmarks
+phase transition
+
+boseeinstein condensate phase matter occurs extremely
+low temperature near absolute zero temperature lowoccur anywhere earth except laboratory experiment slow
+motion molecule temperature allowbizarre aspect quantum mechanic manifest form
+novel macroscopic properties
+
+phase also exist two dimension boundary two
+different threedimensional phase surface materialgrain boundary different crystallographic orientationsingle material also show distinct phase example surface
+reconstruction metal semiconductor surface two dimensional
+phases
+
+extremely high pressure ordinary matter undergoes transition
+series exotic phase collectively known degenerate matter
+phase great interest astrophysicshighpressure condition believed exist inside starused nuclear fusion fuel white dwarf neutron
+stars
+
+phase transition also play extremely important role physical
+cosmology believed universe whole underwentseries important phase transition early history shortly
+big bang major branch theoretical cosmology inflation
+theory seek explain various aspect modern universeuniverse flat effect onetransition transition great interest particle
+physic well hypothesized quantum field
+fill spacetime particle physic concept incorporates
+material particle like electron well fieldlike particles
+photon gluon underwent series transitionhighly symmetric phase fundamental force unified
+single entity thebroken symmetry phase observe
+today four fundamental force different
+strengths
+
+phase diagrams
+
+different phase system may represented using phase
+diagram diagram relevant thermodynamic
+variable simple mechanical system generally use pressure
+temperature
+phase diagram typical material exhibiting solid liquidgaseous phases
+enlarge
+phase diagram typical material exhibiting solid liquidgaseous phases
+
+marking phase diagram show point free energy
+nonanalytic open space free energy analytic
+correspond phase phase separated linenonanalyticity phase transition occur called phase
+boundaries
+
+diagram phase boundary liquid gas doecontinue indefinitely instead terminates point phase
+diagram called critical point temperature pressurecritical point physical property differencedifferentiate liquid phase gas phase become defined
+reflects fact extremely high temperaturepressure liquid gaseous phase become indistinguishablewater critical point occurs aroundkc orf
+andmpa
+
+existence liquidgas critical point reveals slight
+ambiguity definition going liquidgaseous phase one usually cross phase boundarypossible choose path never cross boundary goingright critical point thus phase sometimes blend
+continuously new phase properties
+similar liquid property similargas called supercritical fluid note howeverdoe always happen example impossiblesolidliquid phase boundary end critical point way
+liquidgas boundary solid liquid phasedifferent symmetry
+
+interesting thing note solidliquid phase boundaryphase diagram substance one shownpositive slope due solid phase higher
+density liquid increasing pressure increasemelting temperature however phase diagram watersolidliquid phase boundary negative slope reflectsfact ice lower density water unusual
+property material
+
+metastable phases
+
+sometimes substance mixture heated compressed etc
+beyond point would normally exhibit phase changewithout actually triggering change example include supercooling
+superheating supersaturation
+
+usually polymorph given substance stablespecific range condition example diamond stable form
+carbon extremely high pressure graphite stable form
+normal atmospheric pressure regardless diamond appear stablenormal temperature pressure fact slowly
+converting graphite heat increase rate transformation
+normal temperature diamond practically stable
+
+another important example metastable polymorph occursprocessing steel steel often subjected variety thermal
+treatment designed produce various combination stablemetastable iron phase way steel propertyhardness strength adjusted controlling relative
+amount crystal size various phase form
+
+phase equilibrium
+
+distribution kinetic energy among molecule uniformchange randomly mean say surface liquid
+may individual molecule enough kinetic energy jump
+gas phase likewise individual gas molecule may low
+enough kinetic energy join molecule liquid phasephenomenon mean given temperature pressure multiple
+phase may coexist
+
+example standard condition temperature pressurebowl liquid water dry air evaporate partial
+pressure gaseous water equal vapor pressure waterpoint rate molecule leaving entering liquid phase
+becomes due increased number gaseous water
+molecule available recondense fact liquid molecules
+aboveaverage kinetic energy removed bowl
+result evaporative cooling similar process may occurtype phase boundaries
+
+gibbs phase rule relates number possible phase variabletemperature pressure whether equilibriumreached
+
+emergence universality
+
+phase emergent phenomenon produced selforganizationmacroscopic number particle typical sample matterexample contain aroundparticles order avogadros
+number system smalleven say thousand atoms
+distinction phase disappears since appearancenonanalyticity free energy requires huge formally infinite
+number particle present
+
+one might ask real system exhibit phase sinceactually infinite reason real system contain
+thermodynamic fluctuation system far phase
+transition fluctuation unimportant approachphase transition fluctuation begin grow size spatial
+extent ideal transition point size would infinite
+happen fluctuation become large
+system regime finitesize effect comeplay unable accurately predict behavioursystem thus phase real system welldefined awayphase transition far away need dependentsize system
+
+corollary emergent nature phase phenomenon known
+principle universality property phase largely
+independent underlying microscopic physictype phase arise wide variety system familiar
+fact life know example property definessolidresistance deformationis exhibited materialdiverse iron ice silly putty difference matters
+scale iron may resist deformation strongly silly putty
+maintain shape applied force strong
+

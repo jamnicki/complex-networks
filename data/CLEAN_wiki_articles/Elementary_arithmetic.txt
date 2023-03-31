@@ -1,0 +1,453 @@
+copyright
+
+elementary arithmetic
+
+ school wikipedia selection related subject mathematics
+
+elementary arithmetic basic kind mathematicsconcern operation addition subtraction multiplicationdivision people learn elementary arithmetic elementary school
+
+elementary arithmetic start natural number arabic
+numeral used represent requires memorizationaddition table multiplication table adding multiplying
+pair digit knowing table person perform certain
+wellknown procedure adding multiplying natural numberalgorithm used subtraction division mental arithmeticelementary arithmetic performed head example knowwithout use paper everyday skill extended
+form mental calculation may involve calculating extremely large
+number skill usually taught elementary
+level
+
+elementary arithmetic move fraction decimalnegative number represented number line
+
+nowadays people routinely use electronic calculator cash registers
+computer perform elementary arithmetic earlier
+calculating tool included slide rule multiplication division
+log trig table logarithm nomograph mechanical
+calculators
+
+question whether calculator used whether
+traditional mathematics manual computation method stilltaught elementary school provoked heated controversy many
+standardsbased mathematics text deliberately omitstandard computation method thenctm standard led curricula
+deemphasized ommitted much consideredelementary arithmetic elementary school replacedemphasis topic traditionally studied college algebra
+statistic problem solving
+
+ancient time many part asia abacus still often
+used perform elementary arithmetic skilled user fast
+calculator may require batteries
+
+th century arabic numeral introduced europeleonardo pisano numeral efficient performing
+calculation roman numeral positional system
+
+digits
+
+zero represents absence object counted
+one one sticktwo two stickthree three stickfour four stick five five stick iisix six stick iiseven seven stick ii
+eight eight stick iinine nine stick iimany digit finger hand word digitalso mean finger counting digit hand first
+digit would one last digit would counted zero
+astenmade digit one zero number 
+first twodigit number ten stick ii
+number one digit rightmost digit saidlast digit called onesdigit digit immediatelyleft tensdigit digit immediately lefttensdigit hundredsdigit digit immediately left
+hundredsdigit thousandsdigit
+
+addition
+
+
+
+
+
+
+
+
+
+
+
+
+
+doe mean add two natural number suppose two
+bag one bag holding five apple second bag holding three
+apple grabbing third empty bag move apple first
+second bag third bag third bag hold eight
+apple illustrates combination three apple five
+apple eight apple generally three plus five eight
+three plus five equal eight eight sum threefive number abstract addition group three
+thing group five thing yield group eight things
+addition regrouping two set object counted
+separately put single group counted together count
+new group sum separate count two
+original groups
+
+symbolically addition represented theplus signsostatement three plus five equal eight written symbolicallyorder two number added doe mattercommutative property addition
+
+add pair digit using table find intersectionrow first digit column second digit rowcolumn intersect square containing sum two digits
+pair digit add twodigit number tensdigit
+always addition algorithm tensdigit sum
+pair digit called thecarry digit
+
+addition algorithm
+
+simplicity consider number three digit add
+pair number written arabic numeral write second number
+first one digit line column rightmost
+column contain onesdigit second numberonesdigit first number rightmost columnonescolumn column immediately left tenscolumntenscolumn tensdigit second numberone tensdigit first number onecolumn immediately left tenscolumnhundredscolumn hundredscolumn line hundredsdigitsecond number one hundredsdigitfirst number one
+
+second number written first onedigit line correct column draw linesecond bottom number start onescolumn onescolumn
+contain pair digit onesdigit first number
+onesdigit second number find sumtwo digit write sum line onescolumn
+sum two digit write onesdigitsum write carry digit top digit next columncase next column tenscolumn write aabovetensdigit first number
+
+first second number one digit sum
+given addition table addition algorithmunnecessary
+
+come tenscolumn tenscolumn might contain two digits
+tensdigit first number tensdigit second
+number one number missing tensdigittensdigit number considered zero addtensdigits two number carry digit addsum sum wasthen adding carry digityieldif sum tensdigits plus carry digitone ten write tenscolumn line
+sum two digit write last digit tenscolumn
+line carry first digit onenext column case hundred column
+
+none two number hundredsdigitcarry digit addition algorithm finishedcarry digit carried tenscolumn writehundredscolumn line algorithm finishedalgorithm finish number line sum two
+numbers
+
+least one number hundredsdigit onenumber missing hundredsdigit write zero digitplace add two hundredsdigits sum add carry
+digit one write sum hundredscolumnline also hundred column sum two digitwrite last digit sum hundredscolumn write
+carry digit left thousandscolumn
+
+example
+
+say one want find sum numbersandwritesecond number first one digit aligned column like
+
+
+
+draw line second number startonescolumn onesdigit first number isand second
+number isthe sum three four seven write sevenonescolumn line
+
+
+
+
+next tenscolumn tensdigit first number isandtensdigit second number isand five plus seven twelve
+ha two digit write last digitintenscolumn line write carry digithundredscolumn first number
+
+
+
+
+
+next hundredscolumn hundredsdigit first number 
+hundredsdigit second number isthe sum sixtwo eight carry digit added eight equal
+nine write nine line hundredscolumn
+
+
+
+
+
+digit column left unadded algorithm
+finish
+
+
+successorship size
+
+result addition one number successornumber examples
+successor zero one
+successor one two
+successor two three
+successor ten eleven
+every natural number successor
+
+predecessor successor number numberexample five successor four therefore fourpredecessor five every natural number except zero hapredecessor
+
+number successor another number first number
+said larger number number largeranother number number larger third number
+first number also larger third number example
+five larger four four larger three therefore five
+larger three six larger five therefore sixalso larger three seven larger six therefore seven
+also larger three therefore eight larger three
+therefore nine larger three etc
+
+two nonzero natural number added together sumlarger either one example three plus five equal eight
+therefore eight larger threeand eight largerfivethe symbol larger 
+
+number larger another one smallerfirst one example three smaller eightand fivesmaller eightthe symbol smaller isa number
+cannot time larger smaller another number
+neither number time larger equalanother number given pair natural number one onefollowing case must true
+first number larger second one
+first number equal second one
+first number smaller second one
+
+counting
+
+count group object mean assign natural numberone object label objectnatural number never assigned object unless predecessor
+wa already assigned another object exception zeroassigned object smallest natural number assigned
+one largest natural number assigned depends sizegroup called count equal numberobject group
+
+process counting group following
+steplet count equal zero count variable
+quantity though beginning value zero soonvalue changed several times
+stepfind least one object group halabeled natural number object foundlabeled counting finished otherwise choose
+one unlabeled objects
+stepincrease count one replace valuecount successor
+stepassign new value count label unlabeled
+object chosen step 
+stepgo back step 
+
+counting finished last value countfinal count count equal number object group
+
+often counting object one doe keep track numerical
+label corresponds object one keep track subgroup
+object already labeled ableidentify unlabeled object necessary stephowever onecounting person one ask person countedkeep track number person self haassigned count finished possible ask group
+person file line order increasing numerical
+label person would process lining would
+something like pair person unsureposition line ask number person
+whose number smaller stand left side onelarger number right side person thus pairperson compare number position commuteposition necessary repetition conditional
+commutation become ordered
+
+algorithm subtraction
+
+several method accomplish subtraction traditional
+mathematics taught elementary school child subtract using methods
+suitable hand calculation particular method used variescountry country within country different methodfashion different time standardsbased mathematicsdistinguished generally lack preference standard
+method replaced guiding grade child inventmethod computation using property negative numbercase terc
+
+american school currently teach method subtraction using
+borrowing system marking called crutch although method
+borrowing known published textbook prior
+apparently crutch invention william browellused study november ofthis system caughtrapidly displacing method subtraction use america
+time
+
+european child taught older american employ method
+subtraction called austrian method also known additions
+method borrowing method also crutches
+marking aid memory probably vary accordingcountry
+
+method borrowing subtraction aswill
+accomplish one place subtraction offromby borrowing 
+fromand adding thethe problem thus transformedeffectively indicated striking 
+writing smallabove writing smallabove thethese
+marking called crutch theis subtracted fromleaving
+thefrom theleavingoras result
+
+addition method borrowed make theintoin
+preparation subtraction ofjust borrowing method
+however theis taken reducing minuend rather one augments
+subtrahend effectively problem transformedtypically crutch small one markedsubtrahend digit reminder operation proceedfrom
+isandthat isfromisoras result
+
+addition method seem taught two variation differ
+psychology continuing example ofthe first
+variation attempt subtractfromand thenfromborrowing
+aby marking near digit subtrahend next column
+second variation attempt find digit added 
+givesand recognizing possible givesand carrying
+theof thea one marking near digit first
+method marking matter preferenceone explains appearance
+
+final caution borrowing method get bit complicatedcase aswhere borrow cannot made immediatelymust obtained reaching across several column caseminuend effectively rewriten asby taking one hundredhundred making ten ten immediately borrowingtotens ten column finally placing tenone column
+
+several method particularly
+advantageous machine calculation example digital computers
+employ method two complement great importancecounting method change made suppose amount pgiven pay required amount p greater ratherperforming subtraction counting amount change
+money counted starting continuing reaching curiously although amount counted must equal resultsubtraction subtraction never really done valuepq might still unknown changemaker
+
+subtraction united state historial perspective susan
+ross mary prattcotter mathematics educator volno 
+
+browell alearning reorganization experimental
+study thirdgrade arithmetic duke university press
+
+see also
+method complements
+subtraction without borrowing
+
+multiplication
+
+
+
+
+
+
+
+
+
+
+
+
+
+two number multiplied together result calledproduct two number multiplied together called factors
+
+doe mean multiply two natural number supposefive red bag one containing three apple grabbing empty
+green bag move apple five red bag green
+bag green bag fifteen apple thus productfive three fifteen also stated five time three
+fifteen five time three equal fifteen fifteenproduct five three multiplication seen formrepeated addition first factor indicates many time second
+factor added onto final sum product
+
+symbolically multiplication represented multiplication sign
+timesso statement five time three equal fifteenwritten symbolically
+times
+
+country advanced arithmeticmultiplication sign used cdotin situations
+especially algebra number symbolized letters
+multiplication symbol may omitted xy mean time ythe
+order two number multiplied doe matterexample three time four equal four time threecommutative property multiplication
+
+multiply pair digit using table find intersectionrow first digit column second digit row
+column intersect square containing product two
+digit pair digit produce twodigit numbermultiplication algorithm tensdigit product pairdigit called thecarry digit
+
+multiplication algorithm singledigit factor
+
+consider multiplication one factor one digit
+whereas factor arbitrary quantity digit write
+multidigit factor write singledigit factorlast digit multidigit factor draw horizontal linesingledigit factor henceforth singledigit factorcalled multiplier multidigit factor calledmultiplicand
+
+suppose simplicity multiplicand three digitfirst digit hundredsdigit middle digit tensdigit
+last rightmost digit onesdigit multiplierha onesdigit onesdigits multiplicand multiplier
+form column onescolumn
+
+start onescolumn onescolumn contain pairdigit onesdigit multiplicandonesdigit multiplier find product two digits
+write product line onescolumnproduct two digit write onesdigitproduct write carry digit superscript yetunwritten
+digit next column line case next
+column tenscolumn write carry digit superscript
+yetunwritten tensdigit product line
+
+first second number one digitproduct given multiplication table multiplication
+algorithm unnecessary
+
+come tenscolumn tenscolumn far contains one
+digit tensdigit multiplicand though might containcarry digit line find product multipliertensdigits multiplicand carry digit
+superscripted line tenscolumn addproduct resulting sum ten writetenscolumn line sum two digit writelast digit tenscolumn line carry first digit
+next column case hundred column
+
+multiplicand doe hundredsdigitcarry digit multiplication algorithm finishedcarry digit carried tenscolumn writehundredscolumn line algorithm finishedalgorithm finish number line product two
+numbers
+
+multiplicand hundredsdigit find productmultiplier hundredsdigit multiplicandproduct add carry digit one write resulting
+sum hundredscolumn line also hundred column
+sum two digit write last digit sumhundredscolumn write carry digit leftthousandscolumn
+
+example
+
+say one want find product numbersandwritesingledigit multiplier multidigit multiplicandmultiplier onesdigit multiplicand like
+
+
+draw line multiplier start onescolumn
+onesdigit multiplicand isand multiplier isthe
+product three nine isso write seven onescolumn
+line write carrydigitas superscriptyetunwritten tensdigit product line
+
+
+
+
+next tenscolumn tensdigit multiplicand isthe
+multiplier isand three time two six add carrydigitto
+productto obtaineight one digit carrydigitwrite tenscolumn line
+
+
+
+
+next hundredscolumn hundredsdigit multiplicand 
+multiplier isthe product three seven isand
+previous carrydigit carried tenscolumn
+producthas two digit write last digithundredscolumn line carry first digitthousandscolumn since multiplicand thousandsdigitwrite carrydigit thousandscolumn linesuperscripted
+
+
+
+
+digit multiplicand left unmultipliedalgorithm finishtimes
+
+multiplication algorithm multidigit factors
+
+given pair factor one two digit writefactor one one digit linecolumns
+
+simplicity consider pair threedigits number write last
+digit second number last digit first number
+forming onescolumn immediately left onescolumn
+tenscolumn top column second
+digit first number second digitsecond number immediately left tenscolumnhundredscolumn top column first digitfirst number first digit second
+number written factor draw linesecond factor
+
+multiplication consist two part first partconsist several multiplication involving onedigit multiplieroperation one multiplication already describedprevious multiplication algorithm algorithmdescribe one individually describe several
+multiplication onedigit multiplier shall cordinatedsecond part add subproducts first partresulting sum product
+
+first part let first factor called multiplicand letdigit second factor called multiplier let onesdigit
+second factor called onesmultiplier lettensdigit second factor called tensmultiplier let
+hundredsdigit second factor calledhundredsmultiplier
+
+start onescolumn find product onesmultipliermultiplicand write row line aligning
+digit product previouslydefined columnproduct four digit first digit beginningthousandscolumn let product called onesrow
+
+tenscolumn find product tensmultipliermultiplicand write rowcall tensrow 
+onesrow shifted one column leftonesdigit tensrow tenscolumn onesrow
+tensdigit tensrow hundredsdigitonesrow hundredsdigit tensrowthousandsdigit onesrow tensrow four digitfirst digit beginning tenthousandscolumn
+
+next hundredscolumn find product hundredsmultiplier
+multiplicand write rowcallhundredsrowunder tensrow shifted one columnleft onesdigit hundredsrowhundredscolumn tensdigit hundredsrowthousandscolumn hundredsdigit hundredsrowtenthousandscolumn hundredsrow four digitfirst digit beginning hundredthousandscolumn
+
+onesrow tensrow hundredsrow drawhorizontal line hundredsrow multiplication
+second part multiplication pair line first one
+pair factor second one three rowsubproducts second line six columnright left following onescolumn tenscolumn
+hundredscolumn thousandscolumn tenthousandscolumnhundredthousandscolumn
+
+first second line onescolumn containone digit located onesrow onesdigitonesrow copy digit rewriting onescolumnsecond line
+
+first second line tenscolumn contain pair
+digit located onesrow tensrow tensdigitonesrow onesdigit tensrow add digitsum one digit write digittenscolumn second line sum two digitfirst digit carrydigit write last digittenscolumn second line carry first digithundredscolumn writing superscript yetunwritten
+hundredsdigit second line
+
+first second line hundredscolumn contain
+three digit hundredsdigit onesrow tensdigittensrow onesdigit hundredsrow find sumthree digit carrydigit tenscolumn
+written superscript second line hundredscolumn
+add carrydigit well resulting sum one digit
+write second line hundredscolumnha two digit write last digit linehundredscolumn carry first digitthousandscolumn writing superscript yetunwritten
+thousandsdigit line
+
+first second line thousandscolumn contain
+either two three digit hundredsdigit tensrowtensdigit hundredsrow possibly thousandsdigitonesrow find sum digitcarrydigit hundredscolumn written superscriptsecond line thousandscolumn add carrydigit well
+resulting sum one digit write second
+line thousandscolumn two digit write last
+digit line thousandscolumn carry first
+digit tenthousandscolumn writing superscriptyetunwritten tenthousandsdigit line
+
+first second line tenthousandscolumncontain either one two digit hundredsdigithundredscolumn possibly thousandsdigit tenscolumn
+find sum digit one tensrow missing
+think zero carrydigitthousandscolumn written superscript second linetenthousandscolumn add carrydigit wellresulting sum one digit write second linetenthousandscolumn two digit write last
+digit line tenthousandscolumn carryfirst digit hundredthousandscolumn writingsuperscript yetunwritten tenthousands digit line
+however hundredsrow thousandsdigit write
+carrydigit superscript normal size position
+hundredthousandsdigit second linemultiplication algorithm
+hundredsrow doe thousandsdigit addcarrydigit previous row carrydigitthink zero write singledigit sumhundredthousandscolumn second line
+
+number second line soughtafter productpair factor first line
+
+example
+
+let objective find product ofandwrite 
+thein three column draw horizontal line
+
+
+first part start onescolumn multiplicand isandonesmultiplier isperform multiplication rowline
+
+
+
+
+tenscolumn multiplicand isand tensmultiplier
+isperform multiplication tensrow previous
+subproduct onesrow shifted one column left
+
+
+
+
+
+next hundredscolumn multiplicand againandhundredsmultiplier isperform multiplicationhundredsrow previous subproduct tensrowshifted one column left draw horizontal line
+hundredsrow
+
+
+
+
+
+
+second part add subproducts first second
+line ignoring superscripted carrydigits locatedfirst second lines
+
+
+
+
+
+
+
+answer
+times
+

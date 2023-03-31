@@ -1,0 +1,265 @@
+copyright
+
+david hilbert
+
+ school wikipedia selection related subject mathematicians
+
+caption david hilbert
+
+david hilbert 
+david hilbert 
+bornjanuary
+wehlau east prussia
+diedfebruary
+gttingen germany
+residencegermany
+nationalitygerman
+fieldmathematician
+institutionuniversity knigsberg
+gttingen university
+alma materuniversity knigsberg
+doctoral advisorferdinand von lindemann
+doctoral student otto blumenthal
+richard courant
+max dehn
+erich hecke
+hellmuth kneser
+robert knig
+erhard schmidt
+hugo steinhaus
+emanuel lasker
+hermann weyl
+ernst zermelo
+known forhilberts basis theorem
+hilbert axioms
+hilbert problems
+hilbert program
+einsteinhilbert action
+hilbert space
+
+david hilbertjanuarywehlau east prussiafebruary 
+gttingen germany german mathematician recognized one
+influential universal mathematician thearly century invented developed broad rangefundamental idea invariant theory axiomatization geometry
+notion hilbert space one foundationfunctional analysis
+
+adopted warmly defended cantor set theory transfinite
+number famous example leadership mathematics 
+presentation collection problem set course much
+mathematical research century
+
+hilbert student supplied significant portionmathematical infrastructure required quantum mechanic general
+relativity also known one founder proof theory
+mathematical logic distinction mathematicsmetamathematics
+
+life
+
+hilbert born wehlau near knigsberg east prussiaznamensk near kaliningrad russia graduated lyceumnative city registered university knigsbergobtained doctorate inwith dissertation writtenferdinand von lindemann titled ber invariante eigenschaften
+specieller binrer formen insbesondere der kugelfunctioneninvariant property special binary form particularcircular function hermann minkowski also doctoral candidate
+university time hilbert became close
+friend two exercising reciprocal influencevarious time scientific careers
+
+hilbert remained university knigsberg professortowhen result intervention behalf felix
+klein obtained position chairman mathematicsuniversity gttingen time best research centremathematics world remained restlife
+
+inhe married kthe jeroschand one child franz
+hilbert 
+
+finiteness theorem
+
+hilbert first work invariant function leddemonstration inof famous finiteness theorem twenty years
+earlier paul gordan demonstrated theorem finitenessgenerator binary form using complex computational approachattempt generalize method function two
+variable failed enormous difficulty calculations
+involved hilbert realized necessary take completely
+different path result demonstrated hilbert basis theorem
+showing existence finite set generator invariants
+quantic number variable abstract formdemonstrating existence set waalgorithmic existence theorem
+
+hilbert sent result mathematische annalen gordanhouse expert theory invariant mathematische annalen
+wa able appreciate revolutionary nature hilberts
+theorem rejected article criticizing expositionwa insufficiently comprehensive comment
+theology mathematics
+
+klein hand recognized importance workguaranteed would published without alterations
+encouraged klein comment gordan hilbert second
+article extended method providing estimation maximum
+degree minimum set generator sentannalen read manuscript klein wrotesaying
+
+without doubt important work general algebra
+annalen ever published
+
+later usefulness hilbert method universally
+recognized gordan would say
+
+must admit even theology merits
+
+axiomatization geometry
+
+see supplement hilbert axioms
+
+text grundlagen der geometrie foundation geometry
+published hilbert insubstitutes formal set comprised 
+axiom traditional axiom euclid avoid weaknesses
+identified euclid whose work time still used
+textbookfashion independently contemporaneously yearold
+american student named robert lee moore published equivalent setaxiom axiom coincide axiommoore system theorem hilbert viceversa
+
+hilbert approach signalled shift modern axiomatic method
+axiom taken selfevident truth geometry may treat things
+powerful intuition necessaryassign explicit meaning undefined concept elements
+point line plane others could substitutedhilbert say table chair glass beerobject defined relationship discussed
+
+hilbert first enumerates undefined concept point line plane
+lying relation point plane betweenness
+congruence pair point congruence angle axioms
+unify plane geometry solid geometry euclid single
+system
+
+theproblems
+
+put forth influential list ofunsolved probleminternational congress mathematician paris inthisgenerally reckoned successful deeply considered
+compilation open problem ever produced individual
+mathematician
+
+reworking foundation classical geometry hilbert could
+extrapolated rest mathematics approach differed
+however later foundationalist russellwhiteheadencyclopedist nicolas bourbaki contemporary giuseppe
+peano mathematical community whole could enlist problems
+identified crucial aspect area mathematics
+took key
+
+problem set launched talk problem mathematics
+presented course second international congressmathematician held paris introduction speech
+hilbert gave
+
+among would happy lift veil behindhidden future gaze coming developmentscience secret development centuries
+come end toward spirit future
+generation mathematician tend method new
+fact new century reveal vast rich fieldmathematical thought
+
+presented fewer half problem congresspublished act congress subsequent publicationextended panorama arrived formulationnowcanonicalproblems hilbert full text important since
+exegesis question still matter inevitable
+debate whenever asked many solved
+
+solved within short time othersdiscussed throughout century takenunsuitably openended come closure even continueday remain challenge mathematicians
+
+formalism
+
+account become standard midcentury hilberts
+problem set also kind manifesto opened waydevelopment formalist school one three major schoolmathematics century according formalist
+mathematics game devoid meaning one play symbols
+devoid meaning according formal rule agreed uponadvance therefore autonomous activity thoughthowever room doubt whether hilbert view simplistically
+formalist sense
+
+hilbert program
+
+inhe proposed explicitly research project metamathematics
+wa termed became known hilbert programwanted mathematics formulated solid complete logical
+foundation believed principle could doneshowingmathematics follows correctlychosen finite systemaxiomaxiom system provably consistent
+
+seems technical philosophical reasonformulating proposal affirmed dislike become
+known ignorabimus still active issue time german
+thought traced back formulation emil boisreymond
+
+program still recognizable popular philosophymathematics usually called formalism examplebourbaki group adopted watereddown selective versionadequate requirement twin project writing
+encyclopedic foundational work supporting axiomatic
+method research tool approach successfulinfluential relation hilbert work algebra functional
+analysis failed engage way interests
+physic logic
+
+gdels work
+
+hilbert talented mathematician workedenterprise committed project attempt support
+axiomatized mathematics definitive principle could banish
+theoretical uncertainty however end failure
+
+gdel demonstrated noncontradictory formal systemcomprehensive enough include least arithmetic cannot demonstrate
+completeness way axiom inhis incompleteness
+theorem showed hilbert grand plan impossible statedsecond point cannot reasonable way combined first
+point long axiom system genuinely finitary
+
+nevertheless incompleteness theorem say nothing regarddemonstration way different formal systemcompleteness mathematics subsequent achievement proof
+theory least clarified consistency relatestheory central concern mathematician hilbert workstarted logic course clarification need understand
+gdels work led development recursion theorymathematical logic autonomous discipline decade 
+basis later theoretical computer science alonzo churchalan turing also grew directly debate
+
+gttingen school
+
+among student hilbert hermann weyl championchess emanuel lasker ernst zermelo carl gustav hempel john von
+neumann assistant university gttingen hilbertsurrounded social circle important
+mathematician century emmy noether alonzo
+church
+
+functional analysis
+
+aroundhilbert dedicated study differentialintegral equation work direct consequence important
+part modern functional analysis order carrystudy hilbert introduced concept infinite dimensional
+euclidean space later called hilbert space work partanalysis provided basis important contributionmathematics physic next two decade thoughunanticipated direction later stefan banach amplified concept
+defining banach space hilbert space important single idea
+area functional analysis grew aroundth century
+
+physics
+
+untilhilbert almost exclusively pure mathematicianplanning visit bonn immersed studying physics
+fellow mathematician friend hermann minkowski jokedspenddays quarantine able visit hilbertfact minkowski seems responsible hilbert physics
+investigation prior toincluding joint seminarsubject 
+
+inthree year friend death hilbert turned focus
+subject almost exclusively arranged physics
+tutor started studying kinetic gas theory movedelementary radiation theory molecular theory matter even
+war started inhe continued seminar classwork einstein others followed closely
+
+hilbert invited einstein gttingen deliver week lecturejunejulyon general relativity developing theorygravity sauerfolsingthe exchange idea ledfinal form field equation general relativity namelyeinstein field equation einsteinhilbert action spitefact einstein hilbert never engaged public priority
+dispute dispute discovery field
+equations
+
+additionally hilbert work anticipated assisted several advances
+mathematical formulation quantum mechanic work wakey aspect hermann weyl john von neumans workmathematical equivalence werner heisenberg matrix mechanicerwin schrdingers wave equation namesake hilbert space plays
+important part quantum theory invon neuman showedatomic state understood vector hilbert spacewould correspond schrodinger wave function theoryheisenberg matrices
+
+throughout immersion physic hilbert worked putting rigor
+mathematics physic highly dependent higher math
+physicist tended sloppy pure mathematician
+like hilbert ugly difficult understandbegan understand physic physicist using
+mathematics developed coherent mathematical theoryfound importantly area integral equationcolleague richard courant wrote classic method mathematical
+physic including hilbert idea added hilbert nameauthor even though hilbert directly contributed writing
+hilbert said physic hard physicist implyingnecessary mathematics generally beyond couranthilbert
+book made easier
+number theory
+
+hilbert unified field algebraic number theory 
+treatise zahlbericht literally report number disposedwarings problem wide sense little publish
+subject emergence hilbert modular formdissertation student mean name attached major
+area
+
+made series conjecture class field theory concepts
+highly influential contribution seen names
+hilbert class field hilbert symbol local class field
+theory result mostly proved byafter breakthrough
+work teiji takagi established japan first
+mathematician international stature
+
+hilbert work central area analytic number theory
+name become known hilbertplya conjecturereason anecdotal
+
+later years
+
+hilbert lived see nazi purge many prominent faculty
+member university gttingen inamong forcedhermann weyl taken hilbert chair retiredemmy noether edmund landau one leave
+germany paul bernays hilbert collaborator mathematical logic
+coauthor important book grundlagen der mathematik
+eventually appeared two volume inandthissequel hilbert ackermann book principle theoretical logic
+
+
+year later attended banquet seated nextnew minister education bernhard rust rust askedmathematics gttingen freed jewish
+influence hilbert replied mathematics gttingen really
+none
+time hilbert died inthe nazi nearly completely
+restructured university many former faculty either
+jewish married jew hilbert funeral attended fewerdozen people two fellow academics
+
+tombstone gttingen one read epitaph
+
+wir mssen wissen wir werden wissenwe must knowknow
+
+ironically day hilbert pronounced phrase kurt gdel
+presented thesis containing famous incompleteness theorem

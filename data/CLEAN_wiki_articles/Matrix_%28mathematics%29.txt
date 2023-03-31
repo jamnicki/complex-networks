@@ -1,0 +1,238 @@
+copyright
+
+matrix mathematics
+
+ school wikipedia selection related subject mathematics
+
+mathematics matrix plural matrix rectangular tablenumber generally table consisting abstract quantities
+added multiplied matrix used describe linear
+equation keep track coefficient linear transformationrecord data depend two parameter matrix added
+multiplied decomposed various way making key concept
+linear algebra matrix theory
+
+article entry matrix real complex numbers
+unless otherwise noted
+organization matrix
+enlarge
+organization matrix
+
+definition notations
+
+horizontal line matrix called row vertical lines
+called column matrix row column calledmbyn matrix written n called dimensiondimension matrix always given number row first
+number columns
+
+entry matrix lie row jth column
+called entry ijth entry writtenaij aij row always noted first column
+
+often write aaijm time define matrixentry matrix aij called aij allimjn however convention index start 
+universal programming language start zerocase haveimandjn
+
+matrix one dimension equal one often calledvector interpreted element real coordinate spacematrix one row column called row vectormatrix one column row called column vector
+
+example
+
+matrix
+
+abeginbmatrix
+endbmatrix
+
+amatrix element 
+
+matrix
+
+rbeginbmatrix
+endbmatrix
+
+amatrix element row vector
+
+adding multiplying matrices
+
+sum
+
+given mbyn matrix sum mbyn matrix
+computed adding corresponding element abi jai bi jfor example
+
+beginbmatrix
+endbmatrixbeginbmatrix
+endbmatrixbeginbmatrix
+endbmatrixbeginbmatrix
+endbmatrix
+
+another much often used notion matrix addition direct
+sum
+
+scalar multiplication
+
+given matrix number scalar multiplication cacomputed multiplying scalar every element cai jcai jfor example
+
+beginbmatrixendbmatrix 
+beginbmatrix timestimestimestimes 
+timestimesendbmatrixbeginbmatrix
+endbmatrix
+
+matrix multiplication
+
+multiplication two matrix welldefined numbercolumn left matrix number rowright matrix mbyn matrix nbyp matrixmatrix product mbyp matrix row column given
+
+abijai bjai bjain bnj
+
+
+pair 
+example
+
+beginbmatrixendbmatrix times
+beginbmatrixendbmatrix 
+beginbmatrixtimestimestimes
+timestimestimestimestimes 
+timestimestimestimes
+endbmatrixbeginbmatrixendbmatrix
+
+two operation turn set n mbyn matrices
+real entry real vector space dimension 
+matrix multiplication following properties
+abcabc kbym matrix mbyn matrix bnbyp matrix associativity
+abcacbc mbyn matrix nbyk
+matrix right distributivity
+cabcacb mbyn matrix kbym
+matrix left distributivity
+
+important note commutativity doe generally hold
+given matrix product definedgenerally abba
+
+linear transformation rank transpose
+
+matrix conveniently represent linear transformationmatrix multiplication neatly corresponds composition mapdescribed next property make powerful data
+structure highlevel programming languages
+
+sequel identify set columnnby matrix every linear map frnrm existsunique mbyn matrix fxax rn say
+matrix represents linear map kbym
+matrix represents another linear map grmrk linear
+map f represented follows abovementioned
+associativity matrix multiplication
+
+generally linear map ndimensional vector spacemdimensional vector space represented mbyn matrix provided
+base chosen
+rank matrix dimension image linear map
+represented dimension space
+generated row also dimensionspace generated column
+transpose mbyn matrix nbym matrix atr also
+sometimes written formed turning row columns
+column row atri jaj indexj describes linear map respect two basematrix atr describes transpose linear map respectdual base see dual space
+
+abtratrbtr abtrbtr atr
+
+square matrix related definitions
+
+square matrix matrix number rowcolumn set square nbyn matrix together matrix
+addition matrix multiplication ring unless nthis ring
+commutative
+
+mn ring real square matrix real unitary
+associative algebra c ring complex square matrixcomplex associative algebra
+
+unit matrix identity matrix element main
+diagonal set toand element set tosatisfies minm
+innn mbyn matrix nbyk matrix example
+n
+
+ibeginbmatrix
+endbmatrix
+
+identity matrix identity element ring square
+matrices
+
+invertible element ring called invertible matrixnonsingular matrix n matrix invertibleexists matrix b
+abinba
+
+case inverse matrix denoted setinvertible nbyn matrix form group specifically lie group
+matrix multiplication general linear group
+
+ifis number nonzero vector avvcall eigenvector andthe associated eigenvalue eigen
+mean german numberis eigenvalueinvertible happens pax characteristic polynomialpolynomial degree ha therefore complex root counting
+multiple root according multiplicity sense every
+square matrix n complex eigenvalues
+
+determinant square matrix product eigenvalue also defined leibniz formula
+invertible matrix precisely matrix nonzero
+determinant
+
+gaussian elimination algorithm central importanceused compute determinant rank inverse matrixsolve system linear equations
+
+trace square matrix sum diagonal entryequal sum eigenvalues
+
+matrix exponential defined square matrix using power series
+
+special type matrices
+
+many area mathematics matrix certain structure ariseimportant examplesymmetric matrix element symmetric main
+diagonal upper left lower right equalaijaji
+skewsymmetric matrix element symmetricmain diagonal negative aij 
+aji skewsymmetric matrix diagonal element zero
+aii
+hermitian selfadjoint matrix elements
+symmetric diagonal others complex conjugates
+aijaji superscriptsignifies
+complex conjugation
+toeplitz matrix common element diagonalaijaij
+stochastic matrix square matrix whose columnprobability vector used define markov chains
+
+extensive list see list matrices
+
+matrix abstract algebra
+
+start ring consider set mmn rn matrix entry addition multiplicationmatrix defined case real complex matrix see
+set r square n matrix ring
+right isomorphic endomorphism ring left module 
+similarly entry taken semiring matrix addition
+multiplication still defined usual set square
+nn matrix semiring note fast matrix
+multiplication algorithm strassen algorithm generallyapply matrix ring work matrixsemirings rings
+
+r commutative ring r unitary associative
+algebra also meaningful define determinantsquare matrix using leibniz formula matrix invertibledeterminant invertible 
+statement mentioned article real complex matrices
+remain correct matrix arbitrary field
+
+matrix polynomial ring important study control
+theory
+
+history
+
+study matrix quite old latin square magic squares
+studied since prehistoric times
+
+matrix long history application solving linear
+equation leibniz one two founder calculus developedtheory determinant incramer developed theorypresenting cramers rule incarl friedrich gauss wilhelm
+jordan developed gaussjordan elimination
+term matrix first coined inby j sylvester cayley
+hamilton grassmann frobenius von neumann among famous
+mathematician worked matrix theory
+
+olga taussky toddstarted use matrix theoryinvestigating aerodynamic phenomenon called flutteringaeroelasticity wwii
+
+applications
+
+transportation
+
+one given list city destination node etctold flight road connection etc citycity one build square matrix city indexing
+side matrix entry mab set toifconnection isotherwise reverse
+connection going also mbain many instances
+connection might bidirectional mabdoes
+necessarily imply mba
+
+multiplying matrix one obtains matrixindicate b via third city mab
+exists one third city act layovergo c mabn
+n layovers
+
+encryption
+
+see matrix encryption
+
+matrix used encrypt numerical data encryption donemultiplying data matrix key matrix decryption done
+simply multiplying encrypted matrix inverse key
+
+computer graphics
+
+x transformation matrix commonly used computer graphicupper left portion transformation matrix composednew z posttransformation coordinate space
+

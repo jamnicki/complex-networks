@@ -1,0 +1,336 @@
+copyright
+
+atom
+
+ school wikipedia selection related subject general chemistry
+
+atom
+
+helium atom ground state
+
+accurate depiction atomic structure helium atomdarkness electron cloud corresponds lineofsight
+integral probability function electron orbitalmagnified nucleus schematic showing proton pink neutronpurple reality nucleus wavefunctionnucleon also spherically symmetric complex nucleuscase
+classification
+
+
+smallest recognised division chemical element
+
+properties
+
+
+masstokg
+electric chargezeroif number electron equal protonatom
+diameterapprox
+pm 
+angstrompmhe topmcs
+
+chemistry physic atomgreekor tomos meaning
+indivisible smallest particle chemical elementretains chemical property since advent quantum
+mechanic dividing material object invariably equatedcutting tomos usually translated indivisibleword atom originally denoted particle cannot cutsmaller particle atom modern parlance composedsubatomic particles
+electron negative charge smallestthree
+proton positive charge abouttimes
+bigger electronneutron charge abouttimes biggerelectrons
+
+proton neutron make dense massive atomic nucleuscollectively called nucleon electron form much larger
+electron cloud surrounding nucleus
+
+atom differ number subatomic particlecontain atom element number protons
+called atomic number within single element numberneutron may vary determining isotope element number
+electron associated atom easily changed duelower energy binding electron number protonneutron atomic nucleus may also change via nuclear fusion
+nuclear fission radioactive decay case atomlonger element
+atom electrically neutral equal number protons
+electron atom either deficit surpluselectron called ion electron furthest nucleus
+may transferred nearby atom shared atommechanism atom able bond molecule typechemical compound like ionic covalent network crystals
+
+atom fundamental building block chemistryconserved chemical reactions
+
+atom molecules
+
+gas certain molecular liquid solid watersugar molecule smallest division matter retains
+chemical property however also many solid liquids
+made atom contain discrete moleculesalt rock liquid solid metal thus moleculecommon earth making atmosphereocean mass earth much crustmantle core made identifiable molecule rather
+represents atomic matter arrangement lackparticular type smallscale order associated molecules
+
+molecule made multiple atom example molecule
+water combination two hydrogen atom one oxygen atom
+term molecule gas used synonymfundamental particle gas whatever structuredefinition result type gas example inert elements
+form compound helium molecules
+consisting single atom
+
+history atomic theory discovery atomic structure
+
+philosophical atomic rumination date back ancient greekindian fifth sixth century bce greek 
+democritus see coined term atomos meant
+uncuttable
+
+first philosophical statement relating idea similar atoms
+wa developed democritus greece fifth century bce around
+bce idea lost century scientific interestrekindled renaissance period
+various atom molecule depicted john dalton new system
+chemical philosophy 
+enlarge
+various atom molecule depicted john dalton new system
+chemical philosophy 
+
+injohn dalton used concept atom explain elements
+always reacted simple proportion certain gas dissolved
+better water others proposed element consistsatom single unique type atom could joinform compound chemicals
+
+injj thomson work cathode ray discoveredelectron subatomic nature destroyed conceptatom indivisible unit thomson would also later discoverexistence isotope work ionized gases
+
+thomson believed electron distributed evenly throughout
+atom balanced presence uniform sea positive charge
+however inrutherfords gold foil experiment suggestedpositive charge atom mass concentratednucleus centre atom electron orbiting like
+planet around sun inniels bohr added quantum mechanicmodel stated electron confinedclearly defined orbit could freely spiral
+inerwin schrodinger proposed electron behave like
+particle like wave consequence notion pointedwerner heisenberg year later mathematically impossible
+obtain precise value position momentumparticle point time became known uncertainty
+principle instead given value position couldobtain range probable value momentum vice versa thus
+planetary model atom discarded favour onedescribed zone around nucleus given electronlikely exist
+
+property atom present theory
+
+subatomic particles
+
+model helium atom show electron yellow protons
+grey neutron pink also shown quark red
+quark blue make nucleon wellgluon black hold quark together
+enlarge
+model helium atom show electron yellow protons
+grey neutron pink also shown quark red
+quark blue make nucleon wellgluon black hold quark together
+
+although name atom applied time atom thought
+indivisible known atom brokennumber smaller component firstdiscovered negatively charged electron easily ejected
+atom ionization electron specifically
+electron cloud orbit small dense body containingpositive charge atom called atomic nucleus nucleusmade nucleon positively charged proton chargeless
+neutrons
+
+beforethe subatomic particle thought consistproton neutron electron however proton neutrons
+known consist still smaller particle called
+quark addition electron known nearly massless
+neutral partner called neutrino together electron neutrino
+leptons
+
+ordinary atom composed quark lepton first
+generation proton composed two quark one quark
+whereas neutron composed one quark two quarks
+although occur ordinary matter two heavier
+generation quark lepton may generated highenergy
+collisions
+
+subatomic force carrying particle called gauge boson also
+important atom electron bound nucleus photons
+carrying electromagnetic force proton neutron bound
+together nucleus gluon carrying strong nuclear force
+
+electron configuration
+
+nucleus atom surrounded cloud electronprimarily interaction cloud govern chemical
+behaviour atom popular concept electron orbitatom neat circle like planet around sun obsolete
+model nonetheless still taught schoolchildrensimpler sufficient schoollevel chemistry true modern
+model atom position electron around atoms
+nucleus described probabilitiesthat electrontheoretically found arbitrary position around nucleus
+likely found certain region otherspattern referred atomic orbital shapeorbital depends energy level specifically quantum
+state
+five atomic orbitals neon atom separated arrangedorder increasing energy orbital hold two electrons
+exist time zone representedbubbles
+five atomic orbitals neon atom separated arrangedorder increasing energy orbital hold two electrons
+exist time zone representedbubbles
+
+atomic orbital hold two electron orbitalsorganized shell subshells based overall energyangular momentum generally speaking higher energy shell hold
+electron located farther nucleus shellhold electron shell number electrons
+outermost shell called valence electron greatest
+influence chemical behaviour core electron outer
+shell play role usually term secondary effect
+due screening positive charge atomic nucleus
+
+stable ground state atom electron fillorbitals order increasing energy circumstanceelectron may excited higher energy level absorbs
+energy external source leap higher shell leavingspace lower shell excited atom electron spontaneously
+fall back lower level emitting energy gainedphoton behaviour root substance absorption
+spectrum
+
+nucleon properties
+
+constituent proton neutron atomic nucleuscollectively called nucleon nucleon held togethernucleus strong nuclear force carried gluons
+
+nucleus undergo transformation affect number protons
+neutron contain process called radioactive decaynucleus transformation take place spontaneously process called
+radioactivity radioactive transformation proceed wide varietymode common alpha decay emission helium
+nucleus beta decay emission electron decay involving
+electron positron due weak nuclear interaction
+
+addition like electron atom nucleon nucleus may
+pushed excited state higher energy howevertransition typically require thousand time energyelectron excitation excited nucleus emits photon return
+ground state photon high energy calledgamma ray
+
+nuclear transformation also take place nuclear reactionnuclear fusion two light nucleus come together merge single
+heavier nucleus nuclear fission single large nucleus divided
+two smaller nuclei
+
+atom size speed
+
+depiction hydrogen atom showing van der waals radius image
+scale
+enlarge
+depiction hydrogen atom showing van der waals radius image
+scale
+
+atom much smaller wavelength light human vision
+detect atom cannot seen kind optical microscope
+however way detecting position atomsurface solid thin film obtain imageinclude electron microscope scanning tunneling microscopy
+stm atomic force microscopy afm nuclear magnetic resonance nmr
+xray microscopy
+
+since electron cloud doe sharp cutoff sizeatom easily defined atom form solid crystal
+lattice distance center adjacent atomeasily determined xray diffraction giving estimateatom size atom one might use radiuselectron valence shell likely foundexample size hydrogen atom estimated approximately
+twice bohr radius compare sizeproton particle nucleus hydrogen atomapproximatelym ratio size hydrogen
+atom nucleus aboutif atom sizestadium nucleus would size marble atomsize united state electron would long wide
+nearly mass atom nucleus yet almostspace atom occupied electrons
+
+atom different element vary size size volumescale well mass atom heavier atom tend
+generally dense diameter atom roughlywithin factor three heavier atomnoticeable effect size atomic mass reverse one
+atomic size actually shrink increasing mass periodic
+table rowthe reason effect heavy elementlarge positive charge nucleus strongly attractelectron centre atom contract sizeelectron shell electron may fit smaller volume
+effect may striking example atom densest
+element iridium atomic weight aboutare sizealuminium atom atomic weight aboutand contributes greatly
+density ratio eight metals
+
+temperature collection atom measure average
+energy motion atom minimum zeropoint energy
+demanded quantum mechanic atkelvins absolute zero atom would
+extra energy minimum temperaturesystem increased kinetic energy particle system
+increased speed motion increase room temperature
+atom making gas air move average speed ofms
+aboutmph orkmh
+
+element isotope ions
+
+atom atomic number share wide variety physical
+property exhibit almost identical chemical propertyclosest instance exception principle see deuteriumheavy water atom classified chemical elementatomic number corresponds number protonatom example atom containing six proton zare
+classified carbon element may sorted accordingperiodic table order increasing atomic number done
+certain repeating cycle regularity chemical physical
+property evident
+
+mass number nucleon number element total number
+proton neutron atom element socalledproton neutron mass aboutamu particular
+collection certain number proton neutron azcalled nuclide
+
+element numerous different nuclides number proton electron varying number neutronfamily nuclides called isotope element isotope 
+place nuclides share chemical symbolplace periodic table writing name particular
+nuclide element name specifies precededmass number written superscript else followed mass
+number superscript example nuclide carbonmay also written one isotope carboncontainsprotons andneutrons atom total mass number
+offor complete table known nuclides including radioactive
+stable nuclides see isotope table divided
+
+atomic mass listed element periodic tableaverage isotope mass found nature weightedabundance
+
+simplest atom hydrogen isotope protium atomic
+numberand atomic mass numberit consists one proton one
+electron hydrogen isotope also contains one neutroncalled deuterium hydrogen hydrogen isotope two neutrons
+called tritium hydrogen tritium unstable isotopedecay process called radioactivity many isotopeelement radioactive number stable varies greatly
+element tin hasstable isotope see list stable
+isotope lead zis last element stable isotopes
+element atomic numberbismuth greater stable
+isotope radioactive
+
+virtually element heavier hydrogen helium created
+stellar nucleosynthesis supernova nucleosynthesissolar system thought formed cloud element many
+supernova date thanbillion year agoelement lighter uranium zhave either stable
+isotope else radioisotope longlived enough occur naturallyearth two notable exception light shortlived radioactive
+element technetium zalthough technetium found
+earth occurred element first synthesized
+artificially promethium zwhich found naturallystar recently made several shortlived heavy
+element occur earth found presentstar element normally found nature artificially
+created nuclear bombardment ofelements created
+atomic numbergiven temporary name ununhexiumultraheavy element generally highly unstable decay quickly
+
+atom lost gained electron become electrically
+nonneutral called atomic ion ion divided cationpositiveelectric charge anion negativecharge
+
+valence bonding
+
+number electron atom outermost shell valence
+shell governs bonding behaviour therefore elementnumber valence electron grouped together columnperiodic table element alkali metal contain one electronouter shell alkaline earth metal two electron halogens
+seven electron various others
+
+every atom stable full valence shell meanatom full valence shell noble gas unreactive
+conversely atom electron valence shellreactive alkali metal therefore reactive caesium
+rubidium francium reactive metal also
+atom need electron halogen fillvalence shell reactive fluorine reactiveelements
+
+atom may fill valence shell chemical bondingachieved one two way atom either share electronatom covalent bond remove electron donate
+electron atom ionic bond formation bond
+cause strong attraction two atom creating moleculeionic compound many type bond exist including
+polar covalent bonds
+coordinate covalent bonds
+metallic bonds
+hydrogen bondvan der waals bonds
+
+atomic spectrum
+
+since element periodic table consists atomunique configuration different number proton electrons
+element also uniquely described energyatomic orbitals number electron within normallyatom found lowestenergy ground state state higher
+energy called excited state electron may movelowerenergy orbital higherenergy orbital absorbing photon
+energy equal difference energy two
+level electron higherenergy orbital may droplowerenergy orbital emitting photon since element haunique set energy level creates light pattern unique
+spectral signature
+
+set atom heated arc lamp electrons
+move excited state atom fall back towardground state produce emission spectrum set atoms
+illuminated continuous spectrum absorb specific
+wavelength energy photon correspond differenceenergy level resulting pattern gap calledabsorption spectrum
+
+spectroscopic analysis scientist use spectrometer study
+atom star distant object due distinctive
+spectral line element produce able tellchemical composition distant planet star nebulae
+
+part atomic spectrum visible light partelectromagnetic spectrum example hyperfine transitions
+including importantcm line produce lowenergy radio waves
+electron deep inside atom high atomic number knockedexample beta radiation replacement electron fall deepelectric potential highz nucleus producing highenergy
+xrays
+
+exotic atoms
+
+exotic atom usually made normal matter atomsubstitution abnormal rarely encountered matterantimatter muon meson object exotic atomatom antimatter made normal atomic constituents
+exotic atom save antiatoms made antinucleonspositron highly unstable decaying lifetimemicrosecond antimatter counterpart stable particles
+also stable difficult store short periods
+since annihilate allowed contact ordinary matter
+
+familiar example exotic atom antiatom
+antihydrogen composed antiproton positron haproduced tiny quantity positronium analoguehydrogen atom positron substituted usual proton
+nucleus positronium unstable common phaseattraction electron positron annihilation
+reaction matter particle destroyed two gamma rays
+emitted
+
+atom big bang theory
+
+model big bang big bang nucleosynthesis predictswithin one three minute big bang almost atomic material
+universe created process nucleus hydrogen
+helium formed abundantly almost element heavierlithium hydrogen make approximatelyof atomuniverse helium make upand element make 
+however although nucleus fully ionized atom created neutral
+atom could form intense heat
+
+big bang chronology atom continues approximately 
+year big bang cosmic temperature droppedjustk cool enough allow nucleus capture
+electron process called recombination first
+neutral atom took form atom become neutral absorb
+photon discrete absorption spectrum allowsphoton universe travel unimpeded billion years
+photon still detectable today cosmic microwave
+background
+
+big bang nucleosynthesis heavier element could created
+formation first star star fused heavier
+element stellar nucleosynthesis lifesupernova nucleosynthesis died seeding interstellar
+medium heavy element eventually allowed formationterrestrial planet like earth
+
+atom size comparisons
+
+various analogy used demonstrate minutenessatom
+human hair aboutmillion carbon atom wide
+hiv virus width ofcarbon atom containsmillion atom total coli bacterium contains perhaps 
+billion atoms
+speck dust might contain xtrillion atoms
+number atom ingrams charcoal aboutxis
+thantimes age universe seconds
+

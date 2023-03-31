@@ -1,0 +1,252 @@
+copyright
+
+chlorine
+
+ school wikipedia selection related subject chemical elements
+
+
+sulfurchlorineargon
+f
+
+cl
+
+br
+
+periodic tableextended periodic table
+
+general
+name symbol number chlorine 
+chemical series halogens
+group period blockp
+appearance yellowish green
+atomic massgmol
+electron configuration p
+electron per shell
+physical properties
+phase gas
+densityckpa
+gl
+melting pointk
+cf
+boiling pointk
+cf
+critical pointkmpa
+heat fusion clkjmol
+heat vaporization clkjmol
+heat capacityc jmolk
+
+caption vapor pressure
+
+ppakkk
+tk
+
+atomic properties
+crystal structure orthorhombic
+oxidation states
+strongly acidic oxide
+electronegativitypauling scale
+ionization energies
+stkjmol
+ndkjmol
+rdkjmol
+atomic radiuspm
+atomic radius calcpm
+covalent radiuspm
+van der waals radiuspm
+miscellaneous
+magnetic ordering nonmagnetic
+electrical resistivitycm
+thermal conductivitykmwmk
+speed sound gascms
+ca registry number 
+selected isotopes
+
+caption main article isotope chlorine
+
+isonahalflifedmdemevdp
+clcl stable withneutrons
+cl synyar
+clcl stable withneutrons
+
+references
+
+chlorineipa klrin greekchloros meaning pale
+green chemical element atomic numberand symbol halogen found periodic table groupaschloride ion part common salt compoundabundant nature necessary form life including
+human elemental form standard condition pale
+green gas abouttimes dense air disagreeable
+suffocating odour poisonous chlorine powerful oxidantused bleaching disinfectants
+
+notable characteristics
+
+chlorine gas diatomic formula combine readily
+nearly element although extremely
+reactive fluorine atc one litre water dissolve 
+litre gaseous chlorine atc onlylitres
+
+element member saltforming halogen seriesextracted chloride oxidation often electrolysischloride ion also abundant dissolved species
+ocean water
+
+history
+
+chlorine discovered inby swedish chemist carl wilhelm
+scheele called dephlogisticated marine acid see phlogiston
+theory mistakenly thought contained oxygen chlorine given
+current name inby sir humphry davy insistedfact element
+
+chlorine gas also known bertholite first used weapon
+human world war germany april nditpioneered german scientist later nobel laureate fritz
+haber alleged role use chlorine deadly
+weapon drove wife suicide first use utilised
+side chemical weapon
+
+occurrence
+
+nature chlorine found mainly chloride ion componentsalt deposited earth dissolvedoceansaboutof mass seawater chloride ion even higher
+concentration chloride found dead sea underground
+brine deposit chloride salt soluble water thus
+chloridecontaining mineral usually found abundance dry
+climate deep underground common chloride mineral include halite 
+sodium chloride sylvitepotassium chloride carnallite
+potassium magnesium chloride hexahydrate
+
+industrially elemental chlorine usually producedelectrolysis sodium chloride dissolved water alongchlorine chloralkali process yield hydrogen gas sodium
+hydroxide according chemical equation
+
+naclhoclhnaoh
+
+isotopes
+
+chlorine hasisotopes mass number ranging fromtothere
+two principal stable isotope cland 
+found relative proportion ofrespectively giving chlorine
+atom bulk apparent atomic weight 
+
+cl
+
+trace amount radioactive exist environment ratio
+x towith stable isotope producedatmosphere spallation interaction cosmic ray
+proton subsurface environment generated primarilyresult neutron capture muon capture cl
+decay combined halflife 
+year halflife hydrophilic nonreactive isotope makesuitable geologic dating range oftomillion years
+additionally large amount produced irradiationseawater atmospheric detonation nuclear weapon 
+andthe residence time atmosphere 
+week thus event marker water soil ground water
+cl also useful dating water thanyearspresent ha seen use area geological sciences
+including dating ice sediments
+
+chlorine gas extraction
+
+chlorine manufactured electrolysis sodium chloride
+solutionbrine production chlorine resultcoproducts caustic soda sodium hydroxide naoh hydrogen gas
+h two product well chlorine highly reactive
+three industrial method extraction chlorineelectrolysis
+
+mercury cell electrolysis
+
+mercury cell electrolysis first method used produce chlorine
+industrial scale titanium anode located liquid
+mercury cathode solution sodium chloride positionedelectrode electrical current applied chloridereleased titanium anode sodium dissolve mercury
+cathode forming amalgam
+
+amalgam regenerated mercury reacting water
+producing hydrogen sodium hydroxide useful byproducts
+however method consumes vast amount energy also
+concern mercury emissions
+
+diaphragm cell electrolysis
+
+diaphragm cell electrolysis asbestos diaphragm depositediron grid cathode preventing chlorine forming anodesodium hydroxide forming cathode remixing
+
+method le energy mercury cell sodium
+hydroxide easily concentrated precipitated useful
+substance
+
+membrane cell electrolysis
+
+electrolysis cell divided two membrane actingion exchanger saturated sodium chloride solution passedanode compartment leaving lower concentration sodium hydroxide
+solution circulated cathode compartment exitinghigher concentration portion concentrated sodium hydroxide
+solution diverted product remainder diluteddeionized water passed electrolyzer
+method nearly efficient diaphragm cell produces
+pure sodium hydroxide requires pure sodium chloride
+solution
+
+cathodehaqeh anodeclcl 
+overall equationnaclhclhnaoh
+
+methods
+
+electrolytic method used chlorine productiondirect oxidation hydrogen chloride oxygen air exercised
+deacon process
+
+hcloclho
+
+reaction accomplished use cucl catalyst
+due extremely corrosive reaction mixture industrial usemethod difficult
+
+another earlier process produce chlorine heat brine acid
+manganese dioxide
+
+naclhsomnonasomnsoho 
+cl
+
+using process chemist carl wilhelm scheele firstisolate chlorine laboratory manganese recoveredweldon process
+
+laboratory small amount chlorine gas created adding
+concentrated hydrochloric acid typically sodium chlorate
+solution
+
+application uses
+
+purification disinfection
+
+chlorine important chemical process water
+purification disinfectant bleach ozone also used
+killing bacteria preferred many municipal drinking water
+system ozone doe form organochlorine compoundremain water treatment
+
+chlorine also used widely manufacture many everyday
+item purify water various forms
+used form hypochlorous acid kill bacteriamicrobe drinking water supply swimming pool however
+noncommercial swimming pool chlorine used
+rather mixture sodium hypochloride mixture sodiumchlorine even small water supply routinely chlorinated
+see also chlorination
+used widely paper product production antiseptic dyestuffs
+food insecticide paint petroleum product plastics
+medicine textile solvent many consumer products
+
+oxidizing agent
+
+chlorine used extensively organic inorganic chemistryoxidizing agent substitution reaction chlorine often
+imparts many desired property organic compoundsubstituted hydrogen synthetic rubber productionhigh electron affinity
+
+world war
+chlorine became first killing agent employed world war
+german chemical conglomerate farben producing chlorine
+byproduct dye manufacturing cooperation fritz
+haber kaiser wilhelm institute chemistry berlindeveloped method discharging chlorine gas trenched
+enemy
+
+compounds
+
+general reference chloride ion including references
+specific chloride see chloride chlorine compound see
+chlorate clo chlorite clo hypochloritecloperchlorateclo chloramine nhcl
+
+see also
+fluoride chlorine monofluoride clf chlorine trifluoride
+clf chlorine pentafluoride clf
+oxide chlorine dioxide clo dichlorine monoxide clo
+dichlorine heptoxide clo
+acid hydrochloric acid hcl chloric acid hcloperchloric acid hclo
+
+uses
+
+also used production chlorate chloroform carbon
+tetrachloride bromine extraction
+
+safety
+
+chlorine toxic gas irritates respiratory systemheavier air tends accumulate bottom poorly
+ventilated space chlorine gas strong oxidizer may react
+flammable material information see msds
+

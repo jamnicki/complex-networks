@@ -1,0 +1,176 @@
+copyright
+
+greenhouse effect
+
+ school wikipedia selection related subject climate weather
+
+schematic representation exchange energy outer
+space earth atmosphere earth surface abilityatmosphere capture recycle energy emitted earth
+surface defining characteristic greenhouse effect
+schematic representation exchange energy outer
+space earth atmosphere earth surface abilityatmosphere capture recycle energy emitted earth
+surface defining characteristic greenhouse effect
+
+greenhouse effect discovered joseph fourier inand first
+investigated quantitatively svante arrhenius inis process
+emission infrared radiation atmosphere warmsplanet surface name come incorrect analogywarming air inside greenhouse compared air outsidegreenhouse earth average surface temperature warmer would without greenhouse effectin additionearth mar especially venus greenhouse effects
+
+common usage greenhouse effect may refer either natural
+greenhouse effect due naturally occurring greenhouse gasenhancedanthropogenic greenhouse effect resultgas emitted result human activity see also global warming
+scientific opinion climate change attribution recent climate
+change
+
+basic mechanism
+
+earth receives energy sun form radiationearth reflects aboutof incident solar flux remaining 
+absorbed warming land atmosphere oceans
+
+extent earth steady state energy storedatmosphere ocean doe change time energy equalabsorbed solar radiation must radiated back space earth
+radiates energy space blackbody radiation maintainsthermal equilibrium thermal infrared radiation increaseincreasing temperature one think earth temperaturedetermined infrared flux needed balance absorbed
+solar flux
+solar radiation top atmosphere earth surface
+solar radiation top atmosphere earth surface
+
+visible solar radiation heat surface atmosphere
+whereas infrared radiation escaping space emitted
+upper atmosphere surface infrared photons
+emitted surface mostly absorbed atmosphereescape directly space
+atmospheric transmittance various wavelength electromagnetic
+radiation measured along sea level
+atmospheric transmittance various wavelength electromagnetic
+radiation measured along sea level
+
+reason warms surface easily understood starting
+simplified model purely radiative greenhouse effectignores energy transfer atmosphere convection sensible heat
+transport evaporation condensation water vapor 
+latent heat transport purely radiative case one thinkatmosphere emitting infrared radiation upwardsdownwards upward infrared flux emitted surface must balance
+absorbed solar flux also downward infrared flux
+emitted atmosphere surface temperature risegenerates thermal radiation equivalent sum two incident
+radiation streams
+
+realistic picture taking account convective latent
+heat flux somewhat complex following simple model
+capture essence starting point note opacityatmosphere infrared radiation determines heightatmosphere photon emitted space emitted
+atmosphere opaque typical photon escaping space
+emitted higher atmosphere one hago higher altitude see space infrared sinceemission infrared radiation function temperaturetemperature atmosphere emission leveleffectively determined requirement emitted flux balance
+absorbed solar flux
+
+temperature atmosphere generally decrease height
+surface rate roughlyc per kilometeraverage one reach stratospherekm surface
+infrared photon escaping space emittedtroposphere region bounded surface stratosphereignore stratosphere simple picture simple
+model one prof remarkably useful involvesassumption temperature profile simply fixednonradiative energy flux given temperature emission
+level infrared flux escaping space one computessurface temperature increasing temperature rate ofc per
+kilometer environmental lapse rate one reach surface
+opaque atmosphere higher emission levelescaping infrared radiation warmer surface since oneneed follow lapse rate larger distance vertical
+le intuitive purely radiative greenhouse effectle familiar radiativeconvective picture starting pointdiscussion greenhouse effect climate modeling
+literature
+
+term greenhouse effect source confusion actual
+greenhouse warm mechanism 
+
+greenhouse gases
+
+quantum mechanic provides basis computing interactions
+molecule radiation interaction occursfrequency radiation closely match spectral
+line molecule determined quantization modevibration rotation molecule electronic excitationgenerally relevant infrared radiation require energy
+larger infrared photon
+
+width spectral line important element understanding
+importance absorption radiation earths
+atmosphere spectral width primarily determined pressure
+broadening distortion spectrum duecollision another molecule infrared absorptionatmosphere thought occurring two moleculecolliding absorption due photon interacting lone
+molecule relatively small threebody aspect problem
+one photon two molecule make direct quantum mechanical
+computation molecule interest challenging careful
+laboratory spectroscopic measurement rather initio quantum
+mechanical computation provide basis radiative
+transfer calculation used study atmosphere
+
+moleculesatoms constitute bulk atmosphere oxygen
+nitrogen argon interact infrared
+radiation significantly oxygen nitrogen moleculevibrate symmetry vibration createtransient charge separation enhances interactionradiation earth atmosphere dominant infrared absorbing
+gas water vapor carbon dioxide ozonemolecule floppier rotationvibration modeeasily excited example carbon dioxide linear molecule
+ha important vibrational mode molecule bends
+carbon middle moving one way oxygenend moving way creating charge separation dipole
+moment substantial part greenhouse effect due carbon
+dioxide exists vibration easily excited infrared
+radiation cloud also important infrared absorbers
+therefore water multiple effect infrared radiationvapor phase condensed phase absorbersignificance include methane nitrous oxidechlorofluorocarbons
+
+discussion relative importance different infrared absorbers
+confused overlap spectral line due different
+gas widened pressure broadening result absorption due
+one gas cannot thought independent presencegas one convenient approach remove chosen constituent
+leaving absorber temperature untouchedmonitoring infrared radiation escaping space reductioninfrared absorbtion measure importanceconstituent precisely define greenhouse effect gedifference infrared radiation surface would
+radiate space atmosphere actual infrared
+radiation escaping space compute percentage reductionge constituent removed table computedmethod using particular dimensional model atmosphererecent computation lead similar results
+
+gas removed
+percent reduction ho
+co
+
+source ramanathan coakley rev geophys space phys
+see also 
+
+particular measure water vapor thought providing
+greenhouse effect carbon dioxidebut effectremoval constituent greater thanan
+additional proviso number computed holding cloud
+distribution fixed removing water vapor atmosphereholding cloud fixed likely physically relevantaddition effect given gas typically nonlinearamount gas since absorption gas one levelatmosphere remove photon would otherwise interactgas another altitude kind estimate presented table
+often encountered controversy surrounding global
+warming must treated caution different estimate founddifferent source typically result different definitionreflect uncertainty underlying radiative transfer
+
+positive feedback runaway greenhouse effect
+
+concentration greenhouse gas functiontemperature positive feedback increase another
+greenhouse gas whereby increase increase temperature
+turn increase concentration increases
+temperature feedback bound stop since
+overall supply gas must finite feedback ends
+producing major temperature increase called runaway
+greenhouse effect
+
+according climate modelsclathrate gun hypothesisrunaway greenhouse effect involving liberation methane gashydrate global warming caused permiantriassic extinction
+event also thought large quantity methane couldreleased siberian tundra begin thaw methanetime potent greenhouse gas carbon dioxide 
+
+runaway greenhouse effect involving water vapor mayoccurred venus venus today little water vaporatmosphere water vapor contribute warmth venus one
+time water thought escaped space venussufficiently strongly heated sun water vapor rise much
+higher atmosphere split hydrogen oxygenultraviolet light hydrogen escape atmosphereoxygen recombines carbon dioxide dominant greenhouse gascurrent venusian atmosphere likely owes larger concentration
+weakness carbon recycling compared earthcarbon dioxide emitted volcano efficiently subductedearth plate tectonics geologic time scales
+
+anthropogenic greenhouse effect
+
+co production increased industrial activity fossil fuel
+burning human activity cement productiontropical deforestation increased concentrationatmosphere measurement carbon dioxide amount mauna loa
+observatory show ha increased aboutppm part per
+million aboutppm inthe current observed amount
+co exceeds geological record maximappmice core data hansen climatic changeissn
+
+
+greenhouse gas elevated level increase
+global mean temperature based extensive review scientific
+literature intergovernmental panel climate change concludes
+observed increase globally averaged temperatures
+since midth century likely due observed increase
+anthropogenic greenhouse gas concentration 
+
+pastyearsice core data show unambiguouslycarbon dixoide varied value low asparts per million
+ppm preindustrial level ppmcertain
+paleoclimatologists consider variation carbon dioxidefundamental factor controlling climate variation time
+scale
+
+real greenhouses
+
+term greenhouse effect originally came greenhouse used
+gardening misnomer since greenhouse operate
+differentlya greenhouse built glass heat primarily
+sun warms ground inside warms air near
+ground air prevented rising flowing awaywarming inside greenhouse thus occurs suppressing convectionturbulent mixing demonstrated opening small window
+near roof greenhouse temperature drop considerably
+ha also demonstrated experimentally wooda
+greenhouse built rock salt transparent heatone built glass doe greenhouse thus work primarilypreventing convection atmospheric greenhouse effect however
+reduces radiation loss convection quite common howeverfind source egthat make greenhouse analogy althoughprimary mechanism warming greenhouse prevention mixing
+free atmosphere radiative property glazingstill important commercial grower modern development
+new plastic surface glazings greenhousepermitted construction greenhouse selectively control
+radiation transmittance order better control growing
+environment pdfkib
+

@@ -1,0 +1,514 @@
+copyright
+
+photon
+
+ school wikipedia selection related subject general physics
+
+word light defined electromagnetic radiation
+wavelength thus xrays gamma ray ultraviolet light
+microwave radio wave visible light formlight
+
+photon
+photon emitted coherent beam laser
+compositionelementary particle
+familyboson
+groupgauge boson
+interactionelectromagnetic
+theorizedalbert einstein 
+symbolgamma orhnu
+mass
+mean lifetimestable
+electric charge 
+spin
+
+modern physic photon elementary particle responsible
+electromagnetic phenomenon mediates electromagnetic interactions
+make form light photon zero invariant masstravel constant speed speed light empty space
+however presence matter photon slowed even
+absorbed transferring energy momentum proportionalfrequency like quantum photon wave particle
+property exhibit waveparticle duality
+
+modern concept photon developed graduallyby
+albert einstein explain experimental observation fit
+classical wave model light particular photon model
+accounted frequency dependence light energy explained
+ability matter radiation thermal equilibriumphysicist sought explain anomalous observationsemiclassical model light still described maxwells
+equation material object emit absorb lightquantized although semiclassical model contributeddevelopment quantum mechanic experiment proved einsteins
+hypothesis light quantized quantum lightphotons
+
+photon concept led momentous advance experimentaltheoretical physic laser boseeinstein condensation
+quantum field theory probabilistic interpretation quantum
+mechanic according standard model particle physic photons
+responsible producing electric magnetic fieldproduct requiring physical law certain
+symmetry every point spacetime intrinsic propertyphotonssuch charge mass spinare determinedproperty gauge symmetry photon many applicationtechnology photochemistry highresolution microscopymeasurement molecular distance recently photonstudied element quantum computer sophisticated
+application optical communication quantum cryptography
+
+nomenclature
+
+photon originally called light quantum lichtquantalbert einstein modern name photon derives greek word
+lightand coined inby physical chemist gilbert
+n lewis published speculative theory photonuncreatable indestructible although lewis theory never
+acceptedbeing contradicted many experimentshis new name
+photon adopted immediately physicists
+
+physic photon usually denoted symbol gammathe
+greek letter gamma symbol photon likely derivesgamma ray discovered named inby villardshown form light inby rutherford andradechemistry optical engineering photon usually symbolized nuthe energy photon planck constantgreek letter nunu photon frequency much less
+commonly photon symbolized frequencydenoted 
+physical properties
+
+photon massless electric charge doe decay
+spontaneously empty space photon two possible polarization
+state described three continuous parameter components
+wave vector determine wavelength lambdaanddirection propagation photon emitted many natural
+process charge accelerated atomnucleus jump higher lower energy level particle
+antiparticle annihilated photon absorbedtimereversed process correspond mentionedexample production particleantiparticle pair atomic
+nuclear transition higher energy level
+
+since photon massless photon move cthe speedlight empty space energy eand momentum mathbfprelated ecpwhere magnitude momentum
+comparison corresponding equation particleinvariant mass mwould pm cas
+shown special relativity
+
+energy momentum photon depend frequency 
+equivalently wavelength lambda 
+
+ehbaromegahnu 
+
+mathbfphbarmathbfk
+
+consequently magnitude momentum
+phbar kfrachlambdafrachnuc
+
+hbarhpiknown dirac constant planck reduced
+constant mathbfk wave vector wave number 
+pilambdaas magnitude omegapinuisangular frequency notice mathbfk point directionphoton propagation photon also carry spin angular momentum
+doe depend frequency magnitude spinsqrt hbar component measured along directionmotion helicity must pmhbarthese two possible helicities
+correspond two possible circular polarization statephoton righthanded lefthanded
+
+illustrate significance formula annihilationparticle antiparticle must result creation least
+two photon following reason centre mass framecolliding antiparticle net momentum whereas single photon
+always momentum hence conservation momentum requiresleast two photon created zero net momentum energytwo photonsor equivalently frequencymay determined
+conservation fourmomentum reverse process pair
+production dominant mechanism highenergy photongamma ray lose energy passing matter
+
+classical formula energy momentum electromagnetic
+radiation reexpressed term photon event example
+pressure electromagnetic radiation object derivestransfer photon momentum per unit time unit area object
+since pressure force per unit area force changemomentum per unit time
+
+historical development
+
+thomas young doubleslit experiment inshowed light act
+wave helping defeat early particle theory light
+enlarge
+thomas young doubleslit experiment inshowed light act
+wave helping defeat early particle theory light
+
+theory eighteenth century light picturedmade particle since particle model cannot easily account
+refraction diffraction birefringence light wave
+theory light proposed ren descartesrobert hooke
+christian huygenshowever particle model remained
+dominant chiefly due influence isaac newton early
+nineteenth century thomas young august fresnel clearly
+demonstrated interference diffraction light bywave
+model generally accepted injames clerk maxwells
+prediction light electromagnetic wavewhich confirmed
+experimentally inby heinrich hertz detection radio wave 
+seemed final blow particle model light
+inmaxwells theoretical model light oscillating electric
+magnetic field seemed complete however several observations
+could explained wave model electromagnetic radiation
+leading idea lightenergy packaged quanta
+described later experiment showed lightquanta
+also carry momentum thus considered particle photon
+concept born leading deeper understanding electricmagnetic fieldenlarge
+inmaxwells theoretical model light oscillating electric
+magnetic field seemed complete however several observations
+could explained wave model electromagnetic radiation
+leading idea lightenergy packaged quanta
+described later experiment showed lightquanta
+also carry momentum thus considered particle photon
+concept born leading deeper understanding electricmagnetic field
+maxwell wave theory however doe account properties
+light maxwell theory predicts energy light wave
+depends intensity frequency nevertheless
+several independent type experiment show energy imparted
+light atom depends light frequencyintensity example chemical reaction provokedlight frequency higher certain threshold light lower
+frequency matter intense incapable excitingreaction similarly electron ejected metal plateshining light sufficiently high frequency photoelectric
+effect energy ejected electron relatedlight frequency intensity
+
+time investigation blackbody radiation carriedfour decadesby various researcher culminated max
+planck hypothesis energy system absorbs emits
+electromagnetic radiation frequencyis integer multipleenergy quantum shown albert einstein form energy
+quantization must assumed account thermal equilibrium
+observed matter electromagnetic radiation
+
+since maxwell theory light allows possible energyelectromagnetic radiation physicist assumed initiallyenergy quantization resulted unknown constraint matter
+absorbs emits radiation ineinstein firstpropose energy quantization property electromagnetic
+radiation although accepted validity maxwells
+theory einstein pointed many anomalous experiment couldexplained energy maxwellian light wave localizedpointlike quantum move independently one another evenwave spread continuously space inand 
+einstein showed planck law blackbody radiationaccepted energy quantum must also carry momentum phmaking
+fullfledged particle photon momentum observed
+experimentally arthur compton received nobel prize
+inthe pivotal question unify maxwell wave
+theory light experimentally observed particle natureanswer question occupied albert einstein restlife solved quantum electrodynamics successorstandard model
+
+early objections
+
+tomost physicist reluctant acceptelectromagnetic radiation quantized instead triedaccount photon behavior quantizing matter bohr model
+hydrogen atom shown although semiclassical models
+disproved experiment early atomic model ledquantum mechanics
+enlarge
+tomost physicist reluctant acceptelectromagnetic radiation quantized instead triedaccount photon behaviour quantizing matter bohr model
+hydrogen atom shown although semiclassical models
+disproved experiment early atomic model ledquantum mechanics
+
+einsteinspredictions verified experimentally several
+way within first two decade century recountedrobert millikan nobel lecture however compton experiment
+showing photon carried momentum proportional frequency
+physicist reluctant believe electromagnetic
+radiation might particulate see example nobel
+lecture wien planck millikan reluctanceunderstandable given success plausibility maxwells
+electromagnetic wave model light therefore physicist assumed
+rather energy quantization resulted unknown constraint
+matter absorbs emits radiation niels bohr arnold
+sommerfeld others developed atomic model discrete energy
+level could account qualitatively sharp spectral lines
+energy quantization observed emission absorptionlight atom model agreed excellently spectrumhydrogen atom compton
+scattering photon free electron energy
+level since internal structure convincedphysicist light quantized
+
+even compton experiment bohr hendrik kramers john slater
+made one last attempt preserve maxwellian continuous
+electromagnetic field model light socalled modelaccount thenavailable data two drastic hypothesismade
+energy momentum conserved averageinteraction matter radiation elementary
+process absorption emission allows onereconcile discontinuously changing energy atom jump
+energy state continuous release energyradiation
+
+causality abandoned example spontaneous emissionmerely emission induced virtual electromagnetic field
+
+however refined compton experiment showed energymomentumconserved extraordinarily well elementary process alsojolting electron generation new photoncompton scattering obey causality withinps accordingly bohr
+coworkers gave model honorable funeralpossible nevertheless model inspired werner heisenbergdevelopment quantum mechanics
+
+physicist persisted developing semiclassical modelelectromagnetic radiation quantized matter obeys laws
+quantum mechanic although evidence photon chemical
+physical experiment overwhelming evidence
+could considered absolutely definitive since reliedinteraction light matter sufficiently complicated theory
+matter could principle account evidence nevertheless
+semiclassical theory refuted definitivelyelegant photoncorrelation experiment hence einsteins
+hypothesis quantization property lightconsidered proven
+
+waveparticle duality uncertainty principles
+
+photon like quantum object exhibit wavelikeparticlelike property dual waveparticle naturedifficult visualize photon display clearly wavelike phenomena
+diffraction interference length scalewavelength example single photon passing doubleslit
+experiment land screen probability distribution giveninterference pattern determined maxwell equation however
+experiment confirm photon short pulseelectromagnetic radiation doe spread propagatesdoe divide encounter beam splitter rather photon
+seems like pointlike particle since absorbed emittedwhole arbitrarily small system system much smallerwavelength atomic nucleusm across evenpointlike electron nevertheless photon pointlike
+particle whose trajectory shaped probabilisticallyelectromagnetic field conceived einstein othershypothesis also refuted photoncorrelation experiment cited
+according present understanding electromagnetic
+field produced photon turn result local
+gauge symmetry law quantum field theory see second
+quantization gauge boson sectionheisenberg thought experiment locating electron shownblue highresolution gammaray microscope incoming gamma
+ray shown green scattered electronmicroscope aperture anglethe scattered gamma ray shown red
+classical optic show electron position resolveduncertainty depends onand wavelengthofincoming light
+enlarge
+heisenberg thought experiment locating electron shownblue highresolution gammaray microscope incoming gamma
+ray shown green scattered electronmicroscope aperture anglethe scattered gamma ray shown red
+classical optic show electron position resolveduncertainty depends onand wavelengthofincoming light
+
+key element quantum mechanic heisenberg uncertainty
+principle forbids simultaneous measurement position
+momentum particle along direction remarkablyuncertainty principle charged material particle requiresquantization light photon even frequency dependence
+photon energy momentum elegant illustrationheisenberg thought experiment locating electron ideal
+microscope position electron determined within
+resolving power microscope given formulaclassical optics
+
+delta sim fraclambdasin theta
+
+whereis aperture angle microscope thus position
+uncertainty made arbitrarily small reducingwavelength momentum electron uncertain sincereceived kick light scatteringmicroscope light quantized photon uncertainty
+p could made arbitrarily small reducing light intensity
+case since wavelength intensity light varied
+independently one could simultaneously determine positionmomentum arbitrarily high accuracy violating uncertainty
+principle contrast einstein formula photon momentum
+preserve uncertainty principle since photon scattered
+anywhere within aperture uncertainty momentum transferred
+equals
+
+delta sim pmathrmphoton sinthetafrachlambda
+sintheta
+
+giving product delta delta psimhwhichheisenberg uncertainty principle thus world quantized
+matter field must obey consistent set quantum laweither one quantized
+
+analogous uncertainty principle photon forbidssimultaneous measurement number photon see fock statesecond quantization section electromagnetic wavephaseof wave
+
+n
+
+see coherent state squeezed coherent state details
+
+photon material particle electron create analogous
+interference pattern passing doubleslit experiment
+photon corresponds interference maxwell light
+wave whereas material particle correspondsinterference schrdinger wave equation although similarity
+might suggest maxwell equation simply schrdingers
+equation photon physicist agree one thingmathematically different obviously schrdingers one
+equation solves complex field whereas maxwell four equations
+solve real field generally normal conceptschrdinger probability wave function cannot applied photons
+massless cannot localized without destroyed
+technically photon cannot position eigenstate mathbfr
+rangleand thus normal heisenberg uncertainty principle delta
+x delta doe pertain photon substitute
+wave function suggested photoncome general use instead physicist generally acceptsecondquantized theory photon described quantum
+electrodynamics photon quantized excitationelectromagnetic modes
+
+boseeinstein model photon gas
+
+insatyendra nath bose derived planck law blackbody
+radiation without using electromagnetism rather modification
+coarsegrained counting phase space einstein showedmodification equivalent assuming photon rigorously
+identical implied mysterious nonlocal interactionunderstood requirement symmetric quantum mechanical state
+work led concept coherent state developmentlaser paper einstein extended bos formalismmaterial particlesbosons predicted would condense
+lowest quantum state low enough temperatureboseeinstein condensation observed experimentally 
+
+photon must obey boseeinstein statistic allowsuperposition principle electromagnetic field conditionmaxwell equation linear particle divided bosons
+fermion depending whether integer halfinteger
+spin respectively spinstatistics theorem show bosons
+obey boseeinstein statistic whereas fermion obey fermidirac
+statistic equivalently pauli exclusion principlestate one particle occupy given state thusphoton fermion one photon could move particular
+direction time inconsistent experimental
+observation laser produce coherent light arbitrary
+intensity many photon moving direction
+hence photon must boson obey boseeinstein statistics
+
+stimulated spontaneous emission
+
+stimulated emission photon clone predicted
+einstein kinetic derivation leddevelopment laser einstein derivation also provokeddevelopment quantum treatment light semiclassical model
+quantum electrodynamics seeenlarge
+stimulated emission photon clone predicted
+einstein kinetic derivation leddevelopment laser einstein derivation also provokeddevelopment quantum treatment light semiclassical model
+quantum electrodynamics see
+ineinstein showed planck quantum hypothesis could
+derived kinetic rate equation consider cavity thermal
+equilibrium filled electromagnetic radiation systememit absorb radiation thermal equilibrium requiresnumber densityof photon frequencyis constanttime hence rate emitting photon frequency must equal
+rate absorbing
+einstein hypothesized rate rji system absorbphoton frequencyand transition lower energy ejhigher energy wa proportional number molecules
+energy number densityof ambient photonfrequency
+
+rjinj bji rhonu 
+
+bji rate constant absorption
+
+daringly einstein hypothesized reverse rate rijsystem emit photon frequencyand transition higher
+energy lower energy wa composed two terms
+
+rijni aijni bij rhonu 
+
+aij rate constant emitting photon spontaneously
+bij rate constant emitting response ambient
+photonsinduced stimulated emission einstein showedplanck energy formula necessary consequencehypothesized rate equation basic requirement ambient
+radiation thermal equilibrium system absorbemit radiation independent system material
+composition
+
+simple kinetic model powerful stimulus research
+einstein able show bijbji rate constants
+induced emission absorption equal perhapsremarkably
+
+aijfrac h nuc bij
+
+einstein attempt justify rate equation notedaij bij derivable mechanicelectrodynamics modified accommodate quantum hypothesisprediction borne quantum mechanic quantum
+electrodynamics respectively required derive einsteins
+rate constant first principle paul dirac derived bij rate
+constant inusing semiclassical approach 
+succeeded deriving rate constant first principles
+dirac work foundation quantum electrodynamics iequantization electromagnetic field dirac approachalso called second quantization quantum field theory earlier
+quantum mechanic quantization material particle movingpotential represents first quantization
+
+einstein troubled fact theory seemed incomplete
+since determine direction spontaneously emitted
+photon probabilistic nature lightparticle motion first
+considered newton treatment birefringencegenerally splitting light beam interfacetransmitted beam reflected beam newton hypothesized hidden
+variable light particle determined path would follow
+similarly einstein hoped complete theory would leave
+nothing chance beginning separation quantum mechanics
+ironically max born probabilistic interpretation wave
+function inspired einstein later work searchingcomplete theory
+
+second quantization
+
+different electromagnetic mode depictedtreated independent simple harmonic oscillator photon
+corresponds unit energy electromagnetic mode
+enlarge
+different electromagnetic mode depictedtreated independent simple harmonic oscillator photon
+corresponds unit energy electromagnetic mode
+
+inpeter debye derived planck law blackbody radiationrelatively simple assumption correctly decomposedelectromagnetic field cavity fourier mode assumed
+energy mode integer multiple hnuwhere
+nuis frequency electromagnetic mode planck lawblackbody radiation follows immediately geometric sum however
+debyes approach failed give correct formula energy
+fluctuation blackbody radiation derived einstein
+
+inborn heisenberg jordan reinterpreted debyes conceptkey way may shown classically fourier modeelectromagnetic fielda complete set electromagnetic plane waves
+indexed wave vector mathbfk polarization stateare
+equivalent set uncoupled simple harmonic oscillator treated
+quantum mechanically energy level oscillator known
+enhnuwhere nuis oscillator frequency key
+new step identify electromagnetic mode energy enhnu
+state nphotons energy hnuthis approach
+give correct energy fluctuation formula
+quantum field theory probability event computedsumming possible way happenfeynman diagram shownenlarge
+quantum field theory probability event computedsumming possible way happenfeynman diagram shown
+dirac took one step treated interactioncharge electromagnetic field small perturbationinduces transition photon state changing numberphoton mode conserving energy momentum overall
+dirac able derive einstein aijand bij 
+coefficient first principle showed boseeinstein
+statistic photon natural consequence quantizingelectromagnetic field correctly bos reasoning went opposite
+direction derived planck law black body radiation assuming
+statistic dirac time yet known bosons
+including photon must obey statistics
+
+dirac secondorder perturbation theory involve virtual photons
+transient intermediate state electromagnetic field static
+electric magnetic interaction mediated virtual
+photon quantum field theory probability amplitudeobservable event calculated summing possible
+intermediate step even one unphysical hence virtual
+photon constrained satisfy epcand mayextra polarization state depending gauge used virtual photons
+may three four polarization state instead two states
+real photon although transient virtual photon neverobserved contribute measurably probability observable
+event indeed secondorder higherorder perturbation
+calculation make infinite contribution sum problemwa overcome quantum electrodynamics renormalizationvirtual particle may contribute summation well example
+two photon may interact indirectly virtual electron positron
+pairs
+
+modern physic notation quantum state electromagnetic
+field written fock state tensor product stateelectromagnetic mode
+
+nkrangleotimesnkrangleotimesdotsotimesnkn
+rangledots
+
+nkirangle represents state whichnki photons
+modekiin notation creation new photon
+modeki emitted atomic transition writtennkirangle rightarrow nkiranglethis notation merely
+express concept born heisenberg jordan describeddoe add physics
+
+photon gauge boson
+
+electromagnetic field understood gauge theory iefield result requiring symmetry hold independently
+every position spacetime electromagnetic fieldgauge symmetry abelian symmetry complex numberreflects ability vary phase complex number without
+affecting real number made energylagrangian
+
+quantum abelian gauge field must massless uncharged
+boson long symmetry broken hence photonpredicted massless zero electric charge integer
+spin particular form electromagnetic interaction specifies
+photon must spinthus helicity must hbar
+two spin component correspond classical conceptrighthanded lefthanded circularly polarized light howevertransient virtual photon quantum electrodynamics may also adopt
+unphysical polarization states
+
+prevailing standard model physic photon one four
+gauge boson electroweak interaction threedenoted w responsible weak interaction
+unlike photon gauge boson invariant mass owingmechanism break gauge symmetry unificationphoton z gauge boson electroweak interactionaccomplished sheldon glashow abdus salam steven weinbergawarded thenobel prize physic physicists
+continue hypothesize grand unified theory connect four
+gauge boson eight gluon gauge boson quantum
+chromodynamics however key prediction theoryproton decay observed experimentally
+
+contribution invariant mass system
+
+although photon massless add invariant mass
+system belongs true every formenergy predicted special theory relativity example
+invariant mass system emits photon decreasedamount upon emission energy photonframe emitting system similarly invariant masssystem absorbs photon increased corresponding amount
+based energy photon frame absorbing system
+
+concept applied key prediction qed theoryquantum electrodynamics begun dirac described qed able
+predict magnetic dipole moment lepton extremely high
+accuracy experimental measurement magnetic dipole moments
+agreed prediction perfectly prediction however
+require counting contribution virtual photon invariant
+mass lepton another example contribution verified
+experimentally qed prediction lamb shift observedhyperfine structure bound lepton pair muoniumpositronium
+
+since photon contribute stressenergy tensor exertgravitational attraction object according theorygeneral relativity conversely photon affectedgravity normally straight trajectory may bent warped
+spacetime gravitational lensing frequency maylowered moving higher gravitational potentialpoundrebka experiment however effect specificphoton exactly effect would predicted classical
+electromagnetic waves
+
+photon matter
+
+light travel transparent matter doe lower speed
+c speed light vacuum example photon suffermany collision way core sun radiant energy
+take year reach surface however open spacephoton takesminutes reach earth factorspeed decreased called refractive index materialclassical wave picture slowing explained light
+inducing electric polarization matter polarized matter
+radiating new light new light interfering original
+light wave form delayed wave particle picture slowing
+instead described blending photon quantum
+excitation matterquasiparticles phononsexcitons form polariton polariton nonzero effective
+mass mean cannot travel light different
+frequency may travel matter different speedcalled dispersion polariton propagation speed equal group
+velocity derivative energy respectmomentum
+
+vfracdomegadkfracdedp
+
+retinal straightens absorbing photonof correct
+wavelength
+enlarge
+retinal straightens absorbing photonof correct
+wavelength
+
+e polaritons energy momentum
+magnitude andand angular frequency wave number
+respectively case dispersion result extremely
+slow speed light effect photon interactionquasiparticle may observed directly raman scatteringbrillouin scattering
+
+photon also absorbed nucleus atom molecule provoking
+transition energy level classic examplemolecular transition retinal cho figure rightresponsible vision discovered inby nobel laureate
+biochemist george wald coworkers shown absorption
+provokes cistrans isomerization combinationtransition transduced nerve impulse absorptionphoton even break chemical bond photodissociationchlorine subject photochemistry
+
+technological applications
+
+photon many application technology example chosen
+illustrate application photon per rather general
+optical device lens etc could operateclassical theory light laser extremely important
+application discussed stimulated emission
+
+individual photon detected several method classic
+photomultiplier tube exploit photoelectric effect photon
+landing metal plate ejects electron initiatingeveramplifying avalanche electron chargecoupled device chip use
+similar effect semiconductor incident photon generatescharge microscopic capacitor detected detectors
+geiger counter use ability photon ionize gas
+molecule causing detectable change conductivity
+
+planck energy formula often used engineer chemists
+design compute change energy resulting photon
+absorption predict frequency light emittedgiven energy transition example emission spectrumfluorescent light bulb designed using gas moleculedifferent electronic energy level adjusting typical energy
+electron hit gas molecule within bulb
+
+condition energy transition excited two
+photon individually would insufficient allows higher
+resolution microscopy sample absorbs energyregion two beam different color overlap significantlymade much smaller excitation volume single beam
+see twophoton excitation microscopy moreover photon cause
+le damage sample since lower energy
+
+case two energy transition coupled one
+system absorbs photon another nearby system steal energyreemits photon different frequency basisfluorescence resonance energy transfer used measure
+molecular distances
+
+recent research
+
+fundamental nature photon believed understood
+theoretically prevailing standard model predicts photon
+massless chargeless boson spinthat result local
+u gauge symmetry mediates electromagnetic interaction
+however physicist continue check discrepancyexperiment standard model prediction hope finding
+clue physic beyond standard model particular experimental
+physicist continue set ever better upper limit chargemass photon nonzero value either parameter wouldserious violation standard model however experimental data
+hitherto consistent photon zero charge mass
+best universally accepted upper limit photon chargemass arec ortimes elementary chargekg respectively
+
+much research devoted application photon field
+quantum optic photon seem wellsuited elementultrafast quantum computer quantum entanglement photonfocus research nonlinear optical process another active
+research area topic twophoton absorption selfphase
+modulation optical parametric oscillator however processes
+generally require assumption photon per may
+often modeled treating atom nonlinear oscillatornonlinear process spontaneous parametric conversion often
+used produce singlephoton state finally photon essentialaspect optical communication especially quantum
+cryptography
+

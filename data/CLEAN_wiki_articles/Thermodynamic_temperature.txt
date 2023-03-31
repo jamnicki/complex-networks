@@ -1,0 +1,550 @@
+copyright
+
+thermodynamic temperature
+
+ school wikipedia selection related subject general physics
+
+thermodynamic temperature absolute measure temperatureone principal parameter thermodynamics thermodynamic
+temperature absolute scale measurefundamental property underlying temperature null zero point
+absolute zero lowest possible temperature nothing could
+colder
+
+overview
+
+figthe translational motion fundamental particle natureatom molecule give substance temperaturesize helium atom relative spacing shown scaleatmosphere pressure roomtemperature atomcertain average speed slowed two trillion foldgiven instant however particular helium atom may moving much
+faster average another may nearly motionless five atoms
+colored red facilitate following motions
+figthe translational motion fundamental particle natureatom molecule give substance temperaturesize helium atom relative spacing shown scaleatmosphere pressure roomtemperature atomcertain average speed slowed two trillion foldgiven instant however particular helium atom may moving much
+faster average another may nearly motionless five atoms
+colored red facilitate following motions
+
+temperature arises random submicroscopic vibrationparticle constituent matter motion comprise kinetic
+energy substance specifically thermodynamic temperature
+bulk quantity matter measure average kinetic
+energy certain kind vibrational motion constituent
+particle called translational motion translational motionordinary wholebody movement space whereby particle moveexchange energy collision figat right show translational
+motion gas figbelow show translational motion solids
+thermodynamic temperature null point absolute zerotemperature particle constituent matter minimal
+motion retaining quantum mechanical motion
+
+throughout scientific world measurement made unit thermodynamic temperature measured kelvin symbol many engineering field measure thermodynamic temperature
+using rankine scale
+
+international agreement unit kelvin scaledefined two point absolute zero triple point specially
+prepared vsmow water absolute zerothe coldest possible
+temperatureis defined preciselyk andctriple point water defined preciselykc definition doe three thingsit fix magnitude
+kelvin unit preciselypart inpartsdifference absolute zero triple point waterit
+establishes one kelvin precisely magnitudeonedegree increment celsius scale andit establishesdifference two scale null point precisely
+kelvinskc andkc conversion
+kelvin degree rankine accomplished follows
+tktr
+
+table thermodynamic temperatures
+
+full range thermodynamic temperature scale notable
+point along shown tablekelvin celsius peak emittance
+wavelengthblackbody photons
+absolute zero
+
+precisely definition
+kc
+coldest measured
+temperaturepkckilometers
+one millikelvin
+
+precisely definition
+kcmeters
+radio band
+water triple point
+
+precisely definition
+kcnm
+long wavelength water boiling point akcnm
+mid wavelength incandescent lampbkcnm
+near infraredc
+sun visible surfacedkcnm
+green light
+lightning bolts
+channel ekcnm
+far ultraviolet light
+sun core emkmillion cnmxrays
+thermonuclear weapon
+peak temperatureemkmillion cnm
+gamma rays
+sandia national labs
+z machine egkbillion cnm
+gamma raysf
+core highmass
+star last day egkbillion cnm
+gamma rays
+merging binary neutron
+star system egkbillion cnm
+gamma rays
+relativistic heavy
+ion collider etktrillion cnm
+gamma rays
+cerns proton nucleus collision etktrillion cnm
+gamma rays
+universes
+big bang ekc
+nm
+planck frequency
+
+vienna standard mean ocean water one standard atmosphere
+kpa calibrated strictly per twopoint definitionthermodynamic temperature
+b thek value approximate thek difference c rounded tok avoid false precision celsius
+value
+c true blackbody tungsten filament tungsten
+filament emissivity greater shorter wavelength makes
+appear whiter
+effective photosphere temperature thek difference c rounded tok avoid false precision celsius
+value
+e thek difference c ignored avoid false
+precision celsius value
+f true blackbody plasma z machines
+dominant emission originated frommk electron soft xray
+emission within plasma
+
+relationship temperature motion conduction heat energy
+
+nature kinetic energy translational motion temperature
+
+simplest temperature arises kinetic energyvibrational motion matter particle constituentsmolecules
+atom subatomic particle full variety kinetic
+motion contribute total heat energy substancerelationship kinetic energy mass velocity givenformula ekmvaccordingly particle one
+unit mass moving one unit velocity kinetic
+energyand temperatureas twice massvelocity
+figthe translational motion helium atom occurs across range
+speed compare shape curve planck curvefigbelow
+figthe translational motion helium atom occurs across range
+speed compare shape curve planck curvefigbelow
+
+thermodynamic temperature bulk quantity substancestatistically significant quantity particle directly
+proportional averageor meankinetic energy specific kind
+particle motion known translational motion simple
+movement three zaxis dimension space meanparticle move three spatial degree freedom particular
+form kinetic energy sometimes referred kinetic temperature
+translational motion one form heat energy gives
+gas temperature also pressure vast
+majority volume relationship temperature
+pressure volume gas established ideal gas laws
+formula pvnrt
+
+extent kinetic energy translational motionindividual atom molecule particle gas contributespressure volume gas proportional functionthermodynamic temperature established boltzmann constant
+symbol boltzmann constant also relates thermodynamic
+temperature gas mean kinetic energy individual
+particle translational motion follows
+
+emeankbt
+
+emeanjoules symbol kbjk
+tthermodynamic temperature kelvins
+
+boltzmann constant useful finding mean kinetic
+energy particle important note even substance
+isolated thermodynamic equilibrium partuniform temperature heat goingtranslational motion individual atom molecule occurs acrosswide range speed see animation figabove one
+instant proportion particle moving given speed within
+range determined probability describedmaxwellboltzmann distribution graph shown figshows
+speed distribution ofk helium atomprobable speed ofkmsskm however certain
+proportion atom given instant moving faster others
+moving relatively slowly momentarily virtual
+standstill xaxis right graph inverse speed
+xaxis shape curve easily comparedcurve figbelow graph zero xaxis represents
+infinite temperature additionally yaxis graphscaled proportionally
+
+high speed translational motion
+
+although specialized laboratory equipment required directly
+detect translational motion resultant collision atommolecule small particle suspended fluid produce brownian
+motion seen ordinary microscope translational
+motion elementary particle fast temperature closeabsolute zero required directly observe instancescientist nist achieved recordsetting cold temperaturenk billionth kelvin inthey used optical lattice
+laser equipment adiabatically cool cesium atom turned
+entrapment laser directly measured atom velocity ofmm
+per second order calculate temperatureformulascalculating velocity speed translational motion givenfollowing footnote
+
+internal motion molecule specific heat
+
+figmolecules internal structure composedatom different way moving within molecule heat
+energy stored internal degree freedom doe contribute
+temperature substance
+figmolecules internal structure composedatom different way moving within molecule heat
+energy stored internal degree freedom doe contribute
+temperature substance
+
+form heat energy besides kinetic energytranslational motion seen animation right
+molecule complex object population atomthermal agitation strain internal chemical bond three
+different way via rotation bond length bond angle movements
+type internal degree freedom makes
+molecule distinct monatomic substance consisting individual
+atom like noble gas helium argon three
+translational degree freedom kinetic energy storedmolecule internal degree freedom give internal
+temperatureeven though motion called internalexternal portion molecule still moverather like jigglingstationary water balloon permit twoway exchange kinetic
+energy internal motion translational motionmolecular collision accordingly heat removed molecules
+kinetic temperature kinetic energy translational
+motion internal temperature simultaneously diminish equal
+proportion phenomenon described equipartition theorem
+state bulk quantity molecularbased substance
+equilibrium kinetic energy particle motion evenly
+distributed among active degree freedom availableparticles
+
+kinetic energy stored internally molecule doe contribute
+directly temperature substance pressurevolume gas kinetic energygiven instant bound internal motion instant
+contributing molecule translational motion sinceinternal temperature molecule bulk quantitysubstance equilibrium average equal kinetic
+temperature distinction usually interestdetailed study nonequilibrium phenomenon sublimationsolid diffusion hot gas partial vacuum
+
+different molecule absorb different amount heat energyincremental increase temperature water instance absorblarge amount heat energy per mole specific number particles
+modest temperature change property knownsubstance specific heat capacity high specific heat capacity arises
+part certain substance molecule posse internal
+degree freedom others instance roomtemperature
+nitrogen diatomic molecule five active degreefreedom three comprising translational motion plus two rotational
+degree freedom internally surprisingly accordanceequipartition theorem nitrogen fivethirds molar heat capacity
+monatomic gas larger complex moleculedozen internal degree freedom
+
+diffusion heat energy entropy phonons mobile conduction
+electrons
+
+figthe temperatureinduced translational motion particlesolid take form phonons shown phonons identical
+amplitude wavelength ranging fromtomolecules
+figthe temperatureinduced translational motion particlesolid take form phonons shown phonons identical
+amplitude wavelength ranging fromtomolecules
+
+heat conduction diffusion heat energy hot partsystem cold system either single bulk entityplurality discrete bulk entity term bulk context
+mean statistically significant quantity particlemicroscopic amount anytime heat energy diffuses within isolated
+system temperature difference within system decrease entropy
+increases
+
+one particular heat conduction mechanism occurs translational
+motionthe particle motion underlying temperaturetransfers momentum
+particle particle collision gas translational
+motion nature shown figas seenanimation doe momentum heat diffuse throughout volume
+gas serial collision entire molecule atomadvance forward new territory bringing kinetic energyconsequently heat diffuses gas rather easily
+especially light atom molecule convection speed process
+even
+translational motion solid however take form phonons see
+figat right phonons constrained quantized wave packets
+traveling speed sound given substance mannerphonons interact within solid determines varietyproperty including thermal conductivity electrically
+insulating solid phononbased heat conduction usually inefficient
+solid considered thermal insulator glass
+plastic rubber ceramic rock solid atoms
+molecule locked place relative neighborfree roam
+
+metal however restricted phononbased heat
+conduction heat energy conduct metal extraordinarily quickly
+instead direct moleculetomolecule collision vast
+majority heat energy mediated via light mobile conduction
+electron nearperfect correlationmetal thermal conductivity electrical conductivity
+conduction electron imbue metal extraordinary conductivity
+delocalized tied specific atombehave rather like sort quantum gas due effectzeropoint energy zpe see notebelow furthermore
+electron relatively light rest mass thproton ratio ashort bullet 
+grain org compared rifle shoot sir isaac
+newton wrote third law motion
+
+lawall force occur pair two forces
+equal magnitude opposite direction
+
+however bullet accelerates faster rifle given equal force
+since kinetic energy increase square velocity nearlykinetic energy bullet rifle even though
+experience force expanding propellant gasmannerbecause much massiveheat energyreadily borne mobile conduction electron theyre
+delocalized fast kinetic heat energy conduct extremely
+quickly metal abundant conduction electrons
+
+diffusion heat energy blackbody radiation
+
+figthe spectrum blackbody radiation form planck
+curve black body peak emittance wavelength ofnm
+compare shape curve maxwell distributionfigabove
+figthe spectrum blackbody radiation form planck
+curve black body peak emittance wavelength ofnm
+compare shape curve maxwell distributionfigabove
+
+thermal radiation byproduct collision arising atoms
+various vibrational rotational motion collision cause
+atom emit thermal photon known blackbody radiation photons
+emitted anytime electric charge accelerated happenstwo atom electron cloud collide even individual moleculeinternal temperature greater absolute zero also emit blackbody
+radiation atom bulk quantity substanceequilibrium blackbody photon emitted across rangewavelength spectrum bell curvelike shape calledplanck curve see graph figat right top planck curve
+peak emittance wavelengthis located particular partelectromagnetic spectrum depending temperature black
+body substance extreme cryogenic temperature emit long radio
+wavelength whereas extremely hot temperature produce short gamma rays
+see table thermodynamic temperature
+blackbody radiation diffuses heat energy throughout substancephoton absorbed neighboring atom transferring momentumprocess blackbody photon also easily escape substanceabsorbed ambient environment kinetic energy lostprocess
+
+established stefanboltzmann law intensity blackbody
+radiation increase fourth power absolute temperature thus
+black body atk short glowing dull red emitstimes
+radiant power doe atk room temperatureone easily feel radiant heat hot object distance
+higher temperature found incandescent lamp
+blackbody radiation principal mechanism heat
+energy escape system
+figice water two phase substance
+figice water two phase substance
+
+heat phase changes
+
+kinetic energy particle motion one contributortotal heat energy substance potential energymolecular bond yet form substance coolcondensing freezing concept may easily
+grasped visualizing reverse direction heat energy
+required break molecular bond evaporationmelting process known phase transition heat
+energy required phase transition called latent heat anyone
+ha compared thec air hair dryer toc steam knows
+steam quickly cause severe burn whereas airburn occurs large amount heat energy liberatedsteam condenses liquid water skin even though heat energy
+liberated absorbed phase transition pure chemical
+element compound eutectic alloy exhibit temperature change
+whatsoever undergo see figbelow right
+
+phenomenon readily understood examining one particular
+type phase transition melting solid solid melts
+crystal lattice chemical bond break apart substance goneknown ordered state ordered state see
+topological order figthe melting ice shown withinlower left box heading blue green one specific
+thermodynamic point melting point isc across wide
+pressure range case water atom molecule areon
+averageat maximum energy threshold lattice bond withstand
+without breaking jumping higher quantum energy state
+figwaters temperature doe change phase transitionheat flow total heat capacity molewater liquid phase green line iskj
+figwaters temperature doe change phase transitionheat flow total heat capacity molewater liquid phase green line iskj
+
+quantum transition complete jump one energy levelanother intermediate value possible consequentlysubstance melting point every joule heat energyadded break bond specific quantity atommolecule releasing crystal lattice convertingliquid precisely temperature kinetic energyadded translational motion give substancetemperature effect rather like popcorn certain
+temperature additional heat energy cant make kernel hotter
+transition popping complete process reversed
+freezing liquid heat energy must removedsubstance
+
+stated heat energy required phase transitioncalled latent heat specific case melting freezingcalled enthalpy fusion heat fusion molecular bondcrystal lattice strong heat fusion relatively
+great typically range oftokj per mole watermetallic element substance one monatomic
+gas little tendency form molecular bond heatfusion modest ranging fromtokj per mole
+relatively speaking phase transition truly energetic events
+completely melt ice atc water atc one must add roughly
+time heat energy required increase temperaturemass liquid water one degree celsius metal ratios
+even greater typically range oftotimesphase transition boiling much energetic freezinginstance energy required completely boil vaporize water
+known enthalpy vaporization roughlytimesrequired onedegree increase water sizable enthalpyvaporization one skin burned quickly steam
+condenses heading red green figaboveopposite direction one skin feel cool liquid water
+evaporates process occurs subambient wetbulb
+temperature dependent relative humidity
+
+internal energy
+
+total kinetic energy particle motionincludingconduction electronsplus potential energy phase change plus
+zeropoint energy comprise internal energy substancetotal heat energy term internal energy mustnt confused
+internal degree freedom whereas internal degreefreedom molecule refers one particular place kinetic
+energy bound internal energy substance composed heat
+energy various forms
+figwhen many chemical element noble gasplatinumgroup metal freeze solidthe ordered statemattertheir crystal structure closestpacked arrangement
+yield greatest possible packing density lowest energy
+state
+figwhen many chemical element noble gasplatinumgroup metal freeze solidthe ordered statemattertheir crystal structure closestpacked arrangement
+yield greatest possible packing density lowest energy
+state
+
+heat energy absolute zero
+
+substance cool many form heat energy related
+effect simultaneously decrease magnitude latent heatavailable phase transition liberated substance changele ordered state ordered state translational motions
+atom molecule diminish kinetic temperature decreases
+internal motion molecule diminish internal temperature
+decrease conduction electron substance electrical
+conductor travel somewhat slower blackbody radiation peak
+emittance wavelength increase photon energy decreaseparticle substance close possible complete rest
+retain quantum mechanical motion substancetemperature absolute zero
+note whereas absolute zero point zero temperature
+absolute zero necessarily point substance
+contains zero heat energy one must precise one means
+heat energy often phase change occursubstance occurred time reach absolute zero
+however always case instance helium remains
+liquid room pressure must pressure least 
+bar crystallize helium heat fusionthinkenergy required melt helium iceis lowj mol motioninducing effect zeropoint energysufficient prevent freezing lower pressure heliumcooled leastbar pressure latent heat energy
+liberated helium freeze approaching absolute zero
+
+complicating matter many solid change crystal
+structure compact arrangement extremely high pressuremillion bar known solidsolid phase transitions
+wherein heat liberated crystal lattice changethermodynamically favorable compact one complexity makerather cumbersome blanket statement regarding internal energysubstance regardless pressure though saidabsolute zero solid lowestenergy crystal latticeclosestpacked arrangement see figabove left
+contain minimal internal energy retaining dueeverpresent background zeropoint energy one also saysubstance fixed pressure absolute zero pointminimal enthalpy measure heat content take pressureconsideration lastly always true saysubstance zero kinetic heat energy
+
+origin heat energy
+
+earth proximity sun everything near earths
+surface warm temperature substantially absolute zero
+sun constantly replenishes heat energy earth loses space
+matter everywhere natural worldwide variety heat diffusion mechanism one blackbody
+radiation occurs speed light object earth rarely
+vary far global mean surface air temperature ofto
+ktoc object system temperature
+varies average rapidly tends come backequilibrium ambient environment
+
+history thermodynamic temperature
+
+guillaume amontonspublished two papers
+credit first researcher deduceexistence fundamental thermodynamic temperature scale
+featuring absolute zero made discovery endeavoring
+improve upon air thermometer use time jtube
+thermometer comprised mercury column supportedfixed mass air entrapped within sensing portionthermometer thermodynamic term thermometer relied upon
+volumetemperature relationship gas constant
+pressure measurement boiling point watermelting point ice showed regardless mass air
+trapped inside thermometer weight mercury air
+wa supporting reduction air volume ice pointalways ratio observation lead positsufficient reduction temperature would reduce air volumezero fact calculation projected absolute zeroequivalent todegrees today celsius scaleonly 
+degree short true value ofc
+
+
+anders celsius
+anders celsius
+anders celsiuscreated backwards versionmodern celsius temperature scale whereby zero representedboiling point water andrepresented melting pointice paper observation two persistent degreethermometer recounted experiment showing ices
+melting point effectively unaffected pressure also
+determined remarkable precision water boiling point
+varied function atmospheric pressure proposed zero
+temperature scale water boiling point wouldcalibrated mean barometric pressure mean sea level
+
+
+carolus linnaeus
+carolus linnaeus
+coincident death anders celsius famous botanist
+carolus linnaeuseffectively reversedcelsiuss
+scale upon receipt first thermometer featuring scalezero represented melting point ice andrepresented
+water boiling point custommade linnaeusthermometeruse greenhouse made daniel ekstrm swedens
+leading maker scientific instrument time next
+year scientific thermometry community worldwide
+referred scale centigrade scale temperaturecentigrade scale often reported simply degreegreater specificity desired degree centigradesymbol temperature value scale c several
+format year term centigrade alsofrenchlanguage name unit angular measurement
+onehundredth right angle similar connotationlanguage term centesimal degree usedprecise unambiguous language required international
+standard body bureau international poids mesures bipm cgpmconfrence gnrale poids mesures cipmcomit international poids mesures
+formally adopted degree celsius symbol 
+
+book pyrometrie berlin haudespener 
+completed four month death johann heinrich lambert
+sometimes incorrectly referred joseph
+lambertproposed absolute temperature scale basedpressuretemperature relationship fixed volume gasdistinct volumetemperature relationship gasconstant pressure guillaume amontons discoveredyears
+earlier lambert stated absolute zero pointsimple straightline extrapolation reached zero gas pressurewa equal toc
+
+circanotwithstanding work guillaume amontonsyears
+earlier jacques alexandre csar charlesis often
+credited discovering publishing volumegas constant pressure proportional absolute
+temperature formula created vtvt
+
+joseph louis gaylussacpublished work
+acknowledging unpublished lab note jacques charles fifteen
+year earlier describing volume gas constant
+pressure change linearly absolute thermodynamic
+temperature behaviour called charles law onegas law first known formula used number
+expansion coefficient gas relative melting
+point ice indicating absolute zero equivalentc
+
+
+lord kelvin
+lord kelvin
+william thomsonalso known lord kelvin wrotepaper absolute thermometric scale needscale whereby infinite cold absolute zero scale null
+point used degree celsius unit incrementgaylussac thomson calculated absolute zeroequivalent toc air thermometer timeabsolute scale known today kelvin thermodynamic
+temperature scale noteworthy thomson value 
+wa actually derived fromwhich accepted expansion
+coefficient gas per degree celsius relative ice point
+inverse ofexpressed four significant digitc remarkably close true valuec
+
+william john macquorn rankineproposedthermodynamic temperature scale similar william thomsonused degree fahrenheit unit incrementabsolute scale known today rankine thermodynamic
+temperature scale
+
+
+ludwig boltzmann
+ludwig boltzmann
+ludwig boltzmannmade major contributionthermodynamics understanding role particle
+kinetics blackbody radiation played name attached
+several formula used today thermodynamics
+
+circa gas thermometry experiment carefully calibratedmelting point ice boiling point water showedabsolute zero equivalent toc
+
+resolutionof cgpm confrence gnrale poids
+et mesures also known general conference weightmeasure fixed triple point water preciselyctime triple point still formal definitionequivalent kelvin value resolution declaredfixed later date implication valueabsolute zero measured trulyctriple point waterc equivalent tok also
+cipm comit international poids mesures also
+known international committee weight measurecgpm formally adopted name celsius degree
+celsius celsius temperature scale
+
+resolutionof cgpm gave kelvin scalemodern definition choosing triple point watersecond defining point assigned temperature precisely
+kelvin actually writtendegrees kelvintime combination resolutionof cgpm
+effect defined absolute zero precisely zero
+kelvin andc
+
+resolutionof cgpm renamed unit increment
+thermodynamic temperature kelvin symbol replacing degree
+absolute symbol feeling useful explicitly
+define magnitude unit increment cgpm also
+decided resolutionthat kelvin unit thermodynamic
+temperature fractionof thermodynamic
+temperature triple point water
+
+cipm comit international poids mesures also
+known international committee weight measures
+affirmed purpose delineating temperaturetriple point water definition kelvin
+thermodynamic temperature scale would refer waterisotopic composition defined precisely equalnominal specification vsmow water
+
+derivation thermodynamic temperature
+
+strictly speaking temperature system welldefinedparticle atom molecule electron photonequilibrium obey boltzmann distribution quantum
+mechanical counterpart many possible scale temperature
+derived variety observation physical phenomenonthermodynamic temperature shown special propertyparticular seen uniquely definedup constant
+multiplicative factor considering efficiency idealized heat
+engine thus ratio temperature ttabsolute scales
+
+loosely stated temperature control flow heat two
+system universe would expect natural system tends
+progress maximize entropy thus would expectrelationship temperature entropy order find
+relationship let first consider relationship heat
+work temperature heat engine device converting heat
+mechanical work analysis carnot heat engine provides
+necessary relationship seek work heat engine
+corresponds difference heat put systemhigh temperature heat ejected low temperature
+qc efficiency work divided heat putsystem
+textrmefficiencyfrac wcyqhfracqhqcqh
+fracqcqh 
+
+wcy work done per cycle see efficiency
+depends qcqh qh correspond heat
+transfer temperature th respectively qcqh
+function temperatures
+
+fracqcqhfthtc 
+
+carnot theorem state reversible engine operatingheat reservoir equally efficient thus heat engine
+operating must efficiency one
+consisting two cycle one second
+case
+fttfracqqfracq q 
+fttftt
+
+consequently
+fttfracfttfttfrac cdot
+ftt cdot ftt
+
+temperature triple point waterdefine thermodynamic temperature
+tcdot ftt 
+
+temperature scale property
+fracqcqhfthtcfractcth 
+
+substituting equationback equationgives relationshipefficiency term temperature
+
+textrmefficiencyfracqcqhfractcth
+
+
+notice k efficiency isand efficiency
+becomes greater thanbelowk since efficiency greaterviolates first law thermodynamics requires thatk
+must minimum possible temperature make intuitive sense
+since temperature motion particle systemaverage motion minimum permitted quantum
+physic fact junethe coldest manmade temperaturepk subtracting right hand side equationfrom middle
+portion rearranging gives
+
+frac qhthfracqctc
+
+negative sign indicates heat ejected systemrelationship suggests existence state function defined
+dsfrac dqmathrmrevt 
+
+subscript indicates reversible process changestate function around cycle zero necessary state
+function function corresponds entropy systemdescribed previously rearranging equationto get new
+definition temperature term entropy heat
+
+tfracdqmathrmrevds
+
+system entropy may function energy thermodynamic temperature given
+fractfracdsde
+
+reciprocal thermodynamic temperature rate increase
+entropy energy
+
+retrieved 
+httpenwikipediaorgwikithermodynamictemperature
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

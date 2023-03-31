@@ -1,0 +1,118 @@
+copyright
+
+ultimatum game
+
+ school wikipedia selection related subject games
+
+extensive form representation two proposal ultimatum game
+enlarge
+extensive form representation two proposal ultimatum game
+
+ultimatum game experimental economics game two
+party interact anonymously reciprocationissue first player proposes divide sum moneysecond party second player reject division neither gets
+anything second accepts first get demandsecond get rest
+
+equilibrium analysis
+
+illustration suppose smallest divisiongood available saycent suppose total amount money
+available 
+first player chooses amount interval second
+player chooses function fxaccept reject iesecond chooses division accept rejectrepresent strategy profile f proposal function fpaccept first receives second
+xp otherwise get zero f nash equilibriumultimatum game fpaccept fy
+accept p largest amount second acceptfirst player would want unilaterally increase demand since
+second reject higher demand second would wantreject demand since would get nothing
+
+one nash equilibrium fyrejectie second reject demand give firstamount player get nothing neither could get
+unilaterally changing strategy
+
+however one nash equilibrium satisfies restrictive
+equilibrium concept subgame perfection suppose first demands
+large amount give second small amount moneyrejecting demand second choosing nothing rathersomething would better second choose accept
+demand give amount whatsoever first knows
+give second smallest nonzero amount possible
+
+experimental results
+
+many culture people offer fair egsplits offers
+le thanare often rejected result along similar
+result dictator game taken evidence homo
+economicus model individual decision since individualreject positive offer choosing get nothing rathersomething individual must acting solely maximizeeconomic gain several attempt explain behaviouravailable author suggest individual maximizingexpected utility money doe translate directly expected
+utility perhaps individual get psychological benefitengaging punishment receive psychological harmaccepting low offer
+
+based fmri study brain decisionmaking different
+brain region activate dependent upon whether participating subject
+accepts decline offer since decline mean neither
+receives money responder actually punishing player
+make low offer punishing activates part brainassociated dopamine pathwayie provides pleasurepunish hence subject refuse punish process
+possibly receive pleasure punishment wouldaccepting low offer therefore expected utility argument
+currency pleasure received rather goodassociated value money
+
+explanations
+
+classical explanation ultimatum game wellformed
+experiment approximating general behaviour often lead conclusion
+homo economicus model economic selfinterest incomplete
+however several competing model suggest way bring cultural
+preference player within optimized utility functionplayer way preserve utility maximizing agentfeature microeconomics example researcher foundmongolian proposer tend offer even split despite knowingunequal split almost always accepted similar resultsmallscale society player led researcher conclude
+thatreputation seen important economic reward
+another way integrating conclusion utility maximizationform inequity aversion model preference fairness
+
+explanation originally quite popular learning
+model hypothesized proposer offer would decay
+towards sub game perfect almost zero masteredstrategy game decay tends seen iterated
+game however explanationbounded rationality less
+commonly offered light empirical evidence
+ha hypothesised james surowiecki unequal
+allocation rejected absolute amount offer
+low concept amount split ten
+million dollar asplit would probably accepted ratherspurning million dollar offer essentially explanation says
+absolute amount endowment significant enoughproduce strategically optimal behaviour however many experimentperformed amount offered substantial studycameron hoffman al found higher stakecloser offer approach even split even ausd game played
+indonesia averagepercapita income wasusd
+rejection reportedly independent stake levelusd offer turned indonesia united states
+even though equates two week wage indonesia
+
+evolutionary game theory
+
+author used evolutionary game theory explain behaviour
+ultimatum game simple evolutionary model replicator
+dynamic cannot account evolution fair proposalrejection author attempted provide increasingly
+complex model explain fair behaviour
+
+sociological applications
+
+split dollar game important sociological perspective
+illustrates human willingness accept injusticesocial inequality
+
+extent people willing tolerate different
+distribution reward fromcooperative venture resultinequality measurably exponential across stratummanagement within large corporation see also inequity aversion
+within companies
+
+see implication ultimatum game profoundly relevant
+relationship society free market prof
+pj hillwheaton college illinois saying
+
+see ultimatum game simply providing counter evidence
+general presumption participation market
+economy capitalism make person selfish
+
+history
+
+first ultimatum game developed inas stylized
+representation negotiation gth werner schmittbergerschwarze since become popular standard
+experiment economics said catchingprisoner dilemma prime showpiece apparently irrational
+behaviour
+
+variants
+
+competitive ultimatum game many proposerresponder accept one offer three
+nave proposer responder usually offered almost entire
+endowment would nash equilibrium assuming collusion
+among proposers
+
+ultimatum game tippingif tip allowed responder
+back proposer game includes feature trust gamesplit tend net equitable
+
+reverse ultimatum game give power respondergiving proposer right offer many divisionendowment like game end responder
+accepts offer abandon game therefore proposer tends
+receive slightly half initial endowment
+

@@ -1,0 +1,376 @@
+copyright
+
+radio
+
+ school wikipedia selection related subject engineering
+
+amateur radio station multiple receiver tranceivers
+amateur radio station multiple receiver tranceivers
+
+radio wireless transmission signal modulationelectromagnetic wave frequency visible light
+
+electromagnetic radiation travel mean oscillating
+electromagnetic field pas air vacuumspace doe require medium transport informationcarried systematically changingmodulating propertyradiated wave amplitude frequency radio
+wave pas electrical conductor oscillating field inducealternating current conductor detectedtransformed sound signal carry information
+
+word radio used describe phenomenon television
+radio transmission classed radio frequency emissions
+
+etymology
+
+originally radio radioteleography called wireless telegraphy
+wa shortened wireless prefix radio sensewireless transmission first recorded word radioconductor
+coined french physicist edouard branly inand basedverb radiate latin radius mean spoke wheel beamlight ray radio noun said coinedadvertising expert waldo warren whitethe word appearsarticle lee forest adopted united state navybecame common time first commercial broadcasts
+united state noun broadcasting came
+agricultural term meaning scattering seed american
+term adopted language europe asia although
+british commonwealth country retained term wirelessmidth century japanese term wireless basisterm radio wave although term device listensradio wave literally device receiving sounds
+
+recent year term wireless gained renewed popularity
+rapid growth short range networking wlan
+wireless local area network wifi bluetooth well mobile
+telephony gsm umts today term radio often refersactual transceiver device chip whereas wireless referssystem andor method used radio communication hence one talks
+radio transceivers radio frequency identificationrfid
+wireless device wireless sensor networks
+
+invention
+
+identity original inventor radio time called
+wireless telegraphy contentious development laboratory
+demonstration commercial utility spanned several decaderequired effort many practitioner controversyinvented radio benefit hindsight brokenfollows
+indavid hughes transmitted morse code radiosuper low frequency range via clockwork transmitter
+
+inheinrich hertz produced measured ultra high
+frequency range via sparkgap transmitter
+
+innikola tesla began wireless research developed means
+reliably produce radio frequency publicly demonstratedprinciple radio transmitted longdistance signalobtained patent invention radio defined
+wireless transmission data
+
+betweenandroberto landell moura brazilian priest
+scientist conducted experiment publiciseachievement untilbut later obtained brazilian american
+patents
+
+inin kolkata calcutta sir jagdish chandra bose c
+bose invented mercury coherer together telephone
+receiver later used guglielmo marconi receive radio
+signal first transatlantic radio communicationdistance ofmiles poldhu newfoundland johns
+decemberguglielmo marconi celebrated worldwideachievement fact receiver inventedbose well known
+
+alexander stepanovich popov inbuilt first radio
+receiver contained coherer actually coherer first
+demonstrated bose refined lightning detector
+presented russian physical chemical society may
+
+
+guglielmo marconi early radio experimenter although
+frequently regarded true inventor radio coherer
+used actually developed bose ignoredtime
+reginald fessenden lee forest invented amplitudemodulated
+radio one station send signalopposed sparkgap radio one transmitter cover entire
+bandwidth spectrum
+
+edwin armstrong invented frequencymodulatedfm radioaudio signal avoid static interferenceelectrical equipment atmospherics
+
+brief history
+
+inin louis missouri tesla made device experiments
+electricity addressing franklin institute philadelphianational electric light association described demonstrated
+detail principle wireless work descriptions
+contained element later incorporated radio
+system development vacuum tube initially
+experimented magnetic receiver unlike coherers detecting
+device consisting tube filled iron filinginvented temistocle calzecchionesti fermo italy inused
+guglielmo marconi early experimenter 
+
+inmarconi awarded british patentimprovementstransmitting electrical impulse signal apparatus
+therefor radio inhe established world first radio
+station isle wight england marconi opened world first
+wireless factory hall street chelmsford england 
+employing aroundpeople
+
+next great invention vacuum tube detector inventedwestinghouse engineer christmas evereginald fessenden used
+synchronous rotaryspark transmitter first radio program
+broadcast brant rock massachusetts ship sea heardbroadcast included fessenden playing holy night violin
+reading passage bible first radio news programbroadcast augustby station detroit michiganfirst college radio station add renamed wruc inbegan
+broadcasting octoberfrom union college schenectady new
+york first regular entertainment broadcast commenced infrom
+marconi research centre writtle near chelmsford england
+
+one first development early centurywas
+aircraft used commercial radio station navigationcontinued early vor system finally became
+widespread though station still marked aviation
+chart early single sideband frequency modulation
+invented amateur radio operator end decade
+established commercial mode radio used transmit
+picture visible television early commercial
+television transmission started north america europeinregency introduced pocket transistor radio powered standardv battery
+
+insony introduced first transistorized radio small enough
+fit vest pocket able powered small batterywa durable tube burn next 
+year transistor replaced tube almost completely excepthighpower bycolour television regularly
+transmitted commercially first radio communication
+satellite telstar launched late longdistance telephone network began convert digital network
+employing digital radio many link loran
+became premier radio navigation system soon navy
+experimented satellite navigation culminating invention
+launch gps constellation inin earlyamateur radio experimenter began use personal computer audio
+card process radio signal inthe army darpa
+launched aggressive successful project construct software
+radio could become different radio fly changing
+software digital transmission began applied broadcastinglate
+us radio
+
+early maritime sending telegraphic message using morse
+code ship land earliest user included japanese
+navy scouting russian fleet battle tsushima 
+one memorable marine telegraphy wasinking rms titanic inincluding communicationoperator sinking ship nearby vessel communicationshore station listing survivors
+
+radio used pas order communication armynavy side world war germany used radio communications
+diplomatic message submarine cable cutbritish united state passed president woodrow wilsons
+fourteen point germany via radio war broadcasting began
+san jose inand became feasiblewidespread introduction radio receiver particularly europeunited state besides broadcasting pointtopoint broadcasting
+including telephone message relay radio program became
+widespread another use radio prewar
+year development detecting locating aircraft ships
+use radar radio detection ranging
+
+today radio take many form including wireless network mobile
+communication type well radio broadcastingadvent television commercial radio broadcast includednews music drama comedy variety show manyform entertainment radio unique among dramatic presentation
+used sound see radio programming
+
+audio
+
+fisheramfm hifi receiver 
+fisheramfm hifi receiver 
+
+broadcast radio sends music voice medium frequency
+mf mhz tomhz radio spectrum radio amplitude
+modulation amplitude transmitted signal made
+proportional sound amplitude captured transducedmicrophone transmitted frequency remains unchanged
+transmission affected static interference lightning
+source radio transmitting frequency
+add amplitude original transmitted amplitudewattage radio station allowed use iswattsstation blast signal high grandfathered
+include wjr cklw
+
+fm broadcast radio sends music voice higher fidelityradio frequency modulation amplitude variation microphone
+cause transmitter frequency fluctuate audio signal
+modulates frequency amplitude signalsubject static interference way signal fmtransmitted high frequency vhf mhz tomhz radio
+spectrum vhf radio wave act like light traveling straight
+line hence reception range generally limited 
+mile unusual upper atmospheric condition signaloccasionally reflected back towards earth ionosphere
+resulting long distance reception receiver subjectcapture effect cause radio receivestrongest signal multiple signal appear frequency receiver relatively immune lightning spark interference
+
+fm subcarrier service secondary signal transmittedpiggyback
+along main program special receiver required utilize
+service analog channel may contain alternative programming
+reading service blind background music stereo
+sound signal extremely crowded metropolitan areasubchannel program might alternate foreign language radio program
+various ethnic group subcarriers also transmit digital data
+station identification current song name web addresses
+stock quote country radio automatically retune
+channel different district using
+subbands
+
+aviation voice radio use vhf used multiple stations
+channel received use would resultstronger station blocking reception weaker station due fms
+capture effect aircraft fly high enough transmitterreceived hundred mile kilometre away even thoughusing vhf
+
+marine voice radio use shortwave high frequency mhz tomhz radio spectrum long range narrowband fmvhf spectrum much shorter range government police firecommercial voice service use narrowband special frequencies
+fidelity sacrificed use smaller range radio frequencies
+usually five khz deviation rather thekhz used broadcast andkhz used sound
+
+civil military high frequency voice service use shortwave
+radio contact ship sea aircraft isolated settlementuse single sideband voice ssb le bandwidthradio ssb sound like duck quacking viewed graphfrequency versus power signal show power frequencies
+voice add subtract main radio frequency ssb cuts
+bandwidth half suppressing carrier usually lower
+sideband also make transmitter three timepowerful doesnt need transmit unused carriersideband
+
+tetra terrestrial trunked radio digital cell phone systemmilitary police ambulance commercial service worldspace sirius offer encrypted digital satellite radio
+
+telephony
+
+mobile phone transmit local cell site transmitterreceiverultimately connects public switched telephone networkpstn
+optic fibre microwave radio network elements
+mobile phone nears edge cell site radio coverage
+area central computer switch phone new cell cell
+phone originally used use various digital modulation
+scheme satellite phone use satellite rather cell towercommunicate come two type inmarsat iridium types
+provide worldwide coverage inmarsat geosynchronous satellites
+aimed highgain antenna vehicle iridium useslow
+earth orbit satellite cells
+
+video
+
+television sends picture sound sound
+carrier fixed frequencymhz ntsc system awayvideo carrier analog television also vestigial sidebandvideo carrier reduce bandwidth required
+
+digital television quadrature amplitude modulation reedsolomon
+error correction code add redundant correction code allows
+reliable reception moderate data loss although many currentfuture codecs sent mpeg transport stream container
+format ofmost system use standarddefinition format almost
+identical dvd mpeg video anamorphic widescreen mpeg layer
+mp audio highdefinition television possible simply usinghigherresolution picture havc consideredreplacement video codec region improved compression
+compression improved modulation involved single
+channel contain highdefinition program several
+standarddefinition programs
+
+navigation
+
+satellite navigation system use satellite precision clocks
+satellite transmits position time transmission
+receiver listens four satellite figure positionline tangent spherical shell aroundsatellite determined timeofflight radio signalsatellite computer receiver doe math
+
+radio directionfinding oldest form radio navigationnavigator used movable loop antenna locate commercialstation near city case used marine radiolocation
+beacon share range frequency radioamateur radio operator loran system also used timeofflight radio
+signal radio station ground vor high
+frequency omnidirectional range system used aircraftantenna array transmits two signal simultaneously directional
+signal rotates like lighthouse fixed rate directional
+signal facing north omnidirectional signal pulse measuring
+difference phase two signal aircraft determine
+bearing radial station thus establishing lineposition aircraft get reading two vor locateposition intersection two radial known fixvor station collocated dmedistance measuring equipment
+aircraft determine bearing range station thus
+providing fix one ground station station called
+vordmes military operates similar system navaids called
+tacans often built vor station stationcalled vortacs tacans include distance measuring equipment
+vordme vortac station identical navigation potentialcivil aircraft
+
+radar
+
+radar radio detection ranging detects thing distancebouncing radio wave delay caused echo measures
+distance direction beam determines directionreflection polarization frequency return sensetype surface navigational radar scan wide area two four times
+per minute use short wave reflect earthstone common commercial ship longdistance commercial
+aircraft
+
+general purpose radar generally use navigational radar frequencies
+modulate polarize pulse receiver determinetype surface reflector best generalpurpose radars
+distinguish rain heavy storm well land vehicles
+superimpose sonar data map data gps position
+
+search radar scan wide area pulse short radio waveusually scan area two four time minute sometimes search
+radar use doppler effect separate moving vehicle clutter
+targeting radar use principle search radar scan much
+smaller area far often usually several time secondweather radar resemble search radar use radio wavecircular polarization wavelength reflect water droplets
+weather radar use doppler measure wind speeds
+
+emergency services
+
+emergency positionindicating radio beacon epirbs emergency
+locating transmitter elts personal locator beacon plbssmall radio transmitter satellite use locate personvehicle needing rescue purpose help rescue peoplefirst day survival likely several typewidelyvarying performance
+
+data digital radio
+
+new radio system digital see also digital satellite
+radio digital audio broadcasting oldest form digital broadcast
+wa spark gap telegraphy used pioneer marconi pressing
+key operator could send message morse code energizingrotating commutating spark gap rotating commutator produced tone
+receiver simple spark gap would produce hiss
+indistinguishable static spark gap transmitter illegal
+transmission span several hundred megahertzwasteful radio frequency power
+
+next advance continuous wave telegraphy cwcontinuous
+wave pure radio frequency produced vacuum tube
+electronic oscillator switched key receiverlocal oscillator wouldheterodyne pure radio frequency
+creating whistlelike audio tone us thanhzbandwidth still used day primarily amateur radio
+operator ham strictly onoff keying carrier known
+interrupted continuous wave icw
+
+radio teletypes usually operate shortwave much loved
+military create written information withoutskilled operator send bit one two tone group five
+seven bit become character printed teletype 
+toradio teletype commercial message sentle developed country still used militaryweather services
+
+aircraft use abaud radioteletype service vhf sendid altitude position get gate connectingflight data
+microwave dish satellite telephone exchange stations
+usually use quadrature amplitude modulation qam qam sends datachanging phase amplitude radio signal
+engineer like qam pack bit radio signal
+usually bit sent frame repeat special bit
+pattern used locate beginning frame
+
+system need reliability share frequencyservice may use corrected orthogonal frequencydivision
+multiplexing cofdm cofdm break digital signal manyseveral hundred slower subchannels digital signal often sentqam subchannels modern cofdm system use small computermake decode signal digital signal processingflexible far expensive older systemimplemented separate electronic channel cofdm resists fadingghosting narrowchannel qam signal sent slowlyadaptive system one sends errorcorrection code also
+resist interference interference affectqam channel cofdm used wifi cell phone digital
+radio mondiale eurekaand many local area network digital
+tv radio standards
+
+heating
+
+radiofrequency energy generated heating object generally
+intended radiate outside generating equipment prevent
+interference radio signal microwave oven use intense
+radio wave heat food note common misconceptionradio wave tuned resonant frequency water moleculemicrowave frequency used actually factor tenresonant frequency diathermy equipment used surgery sealing
+blood vessel induction furnace used melting metalcasting
+
+mechanical force
+
+tractor beam use radio wave exert small electrostaticmagnetic force enough perform stationkeepingmicrogravity environment conceptually spacecraft propulsion
+radiation pressure intense radio wave proposedpropulsion method interstellar probe called starwisp sincewave long probe could light metal mesh thus
+achieve higher acceleration solar sail
+
+amateur radio service
+
+amateur radio hobby enthusiast purchase buildequipment use radio enjoyment may also
+provide emergency publicservice radio service hagreat use saving life many instance radio amateur licensed
+use frequency large number narrow band throughoutradio spectrum use form encoding including obsoleteexperimental one several form radio pioneered radio
+amateur later became commercially important including singlesideband ssb digital packet radio satellite
+repeater amateur frequency may disrupted powerline
+internet service
+
+unlicensed radio services
+
+personal radio service citizen band radio family radio
+service multiuse radio service others exist north americaprovide simple usually short range communication individualsmall group without overhead licensing similar service exist
+part world radio service involve usehandheld mobile radio better known walkietalkies
+
+radio control 
+radio remote control use radio wave transmit control dataremote object early form guided missile early remote range model boat car airplane large
+industrial remotecontrolled equipment crane switching
+locomotive usually use digital radio technique ensure safety
+reliability
+
+madison square garden electrical exhibition ofnikola
+tesla successfully demonstrated radiocontrolled boat awarded
+u patent nofor method apparatus controlling
+mechanism moving vessel vehicles
+
+electromagnetic spectrum
+
+radio wave form electromagnetic radiation created whenevercharged object normal radio transmission electron accelerates
+frequency lie radio frequency portionelectromagnetic spectrum radio acceleration causedalternating current antenna radio frequency occupy range
+ten hertz three hundred gigahertz although
+commercially important radio use small partspectrum
+
+radio spectrum
+elfslfulfvlflfmfhfvhfuhfshfehf
+hzhzhzkhzkhzkhzmhzmhzmhzghz
+ghz
+hzhzkhzkhzkhzmhzmhzmhzghzghz 
+ghz
+
+type electromagnetic radiation frequency range microwave infrared visible light ultraviolet xraysgamma ray since energy individual photon radio frequency
+low remove electron atom radio waveclassified nonionizing radiation
+electromagnetic spectrum diagram radio transmission audio
+signal colour used diagram electromagnetic
+spectrum decoration correspondwavelength frequency indicated scale
+electromagnetic spectrum diagram radio transmission audio
+signal colour used diagram electromagnetic
+spectrum decoration correspondwavelength frequency indicated scale
+electromagnetic spectrum
+sorted wavelength short long
+gamma rayxrayultravioletvisible spectruminfrared 
+terahertz radiationmicrowaveradio waves
+visible optical spectrum violetbluegreenyelloworange 
+red
+microwave spectrum bandv bandk band band bandx
+bandc band bandl band
+radio spectrum ehfshfuhfvhfhfmflfvlfulfslf 
+elf
+wavelength designation microwaveshortwavemediumwavelongwave
+
+
+energy autarkic radio technology consists small radio transmitter
+powered environmental energy push button temperature
+difference light vibration etc number schemeproposed wireless energy transfer various plan included
+transmitting power using microwave technique hademonstrated see microwave power transmission schemes
+include example solar power station orbit beaming energyterrestrial users
+

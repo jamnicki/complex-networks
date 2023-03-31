@@ -1,0 +1,385 @@
+copyright
+
+dna
+
+ school wikipedia selection related subject general biology
+
+general structure section dna
+enlarge
+general structure section dna
+
+deoxyribonucleic acid dna nucleic acid contains genetic
+instruction biological development cellular form life
+virus known cellular life virus dna dnalong polymer nucleotide polynucleotide encodessequence amino acid residue protein using genetic code
+
+inheritance dna
+
+dna responsible genetic propagation inherited
+trait human trait range hair colour disease
+susceptibility genetic information encoded organism dnacalled genome cell division dna replicatedreproduction transmitted offspring
+
+eukaryotic cell plant animal fungiprotist dna located cell nucleus dna
+molecule usually packed chromosome passeddaughter cell cell division contrast simpler cells
+called prokaryote including eubacteria archaea dna found
+directly cytoplasm separated nuclear envelopecircular cellular organelle known chloroplastmitochondrion also carry dna dna thought originated
+approximatelytobillion year ago
+
+human mother mitochondrial dna together withchromosomes
+parent combine form genome zygote fertilized
+egg result certain exception red blood cellhuman cell containpairs chromosome togethermitochondrial dna inherited mother lineage studydone mitochondrial dna come motherchromosome come father
+animation section dna rotating
+animation section dna rotating
+dna base pairing
+enlarge
+dna base pairing
+
+replication
+
+dna replication
+dna replication
+
+doublestranded structure dna provides mechanism dna
+replication two strand separated strands
+complement recreated exposing strand mixture four
+base enzyme make complement strand finding correct
+base mixture bonding original strandway base old strand dictate base appears new
+strand cell end extra copy dna
+
+physical chemical properties
+
+comparison dna single stranded rna diagrambase showing
+enlarge
+comparison dna single stranded rna diagrambase showing
+
+molecular structure
+
+although sometimes called molecule heredity dna
+macromolecule people typically think single
+molecule rather pair molecule entwine like
+vine shape double helix see illustrationright
+
+dna consists pair molecule organized strand running
+starttoend joined hydrogen bond along lengthstrand chain chemical building block called nucleotidefour type adenine abbreviated cytosine guanine thymine thymine confusedthiamine vitamin dna organismnotably phage uracil instead
+strand dna covalently linked chain nucleotidealternating sugardeoxyribose phosphate forming backbonenucleobases base negativelycharged phosphate groups
+deoxyribose make dna acid solution allow dna
+molecule different size separated electrophoresis
+dna strand composed nucleotide subunitpolymer major difference dna rna sugar
+deoxyribose dna ribose rna
+
+base pairing
+
+dna composed ofbases adenine thymine cytosine cguanine uracil rarely found dna except resultchemical degradation cytosine dna virus notably
+pb phage dna rna ribonucleic acid uracil insteadthymine
+
+base one strand form bond one kind baseanother strand called complementary base bond bond therefore whole doublestrand sequencedescribed sequence one strand chosen convention
+two nucleotide paired together called base pair
+
+dna double helix two polynucleotide strand associatehydrophobic effect stacking strand associate depends
+complementary pairing base form hydrogen bond readilyone base forming two hydrogen bond g
+forming three hydrogen bond content length dna
+molcule dictate strength associationcomplementary base exist stronger longerlastingassociation characterised temperature required breakhydrogen bond melting temperature also called value
+chemical structure dna
+enlarge
+chemical structure dna
+
+strand direction
+
+asymmetric shape linkage nucleotide mean dna strand
+always discernible orientation directionality inspectiondouble helix reveals direction nucleotide one
+strand opposite direction strandarrangement strand called antiparallel
+
+chemical nomenclatureand 
+
+assymetric end dna base referred asfive
+prime andthree prime within nucleus enzymeperform replication transcription read dna template 
+todirection although directional readingassumed case vertically oriented double helix 
+strand said ascending thestrand saiddescending
+
+sense antisense
+
+result antiparallel arrangement sequencereading
+preference enzyme even strand carried identical instead
+complementary sequence cell could properly translate onestrand cell read backwards molecular
+biologist call sequence sense translated translatable
+call complement antisense follows somewhat
+paradoxically template transcription antisense
+strand resulting transcript rna replica sense strand
+sense
+
+small proportion gene prokaryote plasmidvirus blur distinction made sense antisense
+strand certain sequence genome double duty encoding
+one protein readtoalong one strand second protein
+read opposite direction stilltoalongstrand result genome virus unusually compact
+number gene contain biologist viewadaptation merely confirms biological
+distinction two strand double helix typicallystrand dna double helix act sense antisensedifferent regions
+
+singlestranded dna
+
+virus dna appears nonhelical singlestranded form
+many dna repair mechanism cell work paired
+base virus carry singlestranded dna genome mutatefrequently would otherwise result specie may
+adapt rapidly avoid extinction result wouldfavorable complicated slowly replicating organisms
+however may explain virus carry singlestranded dna
+virus presumably also benefit lower costreplicating one strand versus two
+
+discussion physical structure dna see mechanical
+property dna
+
+dna sequence
+
+dna contains genetic information inheritedoffspring organism information determinedsequence base pair along length strand dna contains
+gene area regulate gene area eitherfunction function yet unknown gene unit heredity
+loosely viewed organism cookbook blueprint
+dna often referred molecule heredity
+
+genetic code
+
+within gene sequence nucleotide along dna strand definesmessenger rna sequence defines protein organism
+liable manufacture orexpress one several pointlife using information sequence relationshipnucleotide sequence aminoacid sequence proteindetermined simple cellular rule translation known collectively
+genetic code genetic code consists threeletter words
+termed codon formed sequence three nucleotide act
+cag ttt codon translated messenger rnatransfer rna codon corresponding particular amino
+acid arepossible codonsbases inplacesthat
+encodeamino acid amino acid therefore one
+possible codon also three stop nonsense codons
+signifying end coding region namely uaa uga uag
+codons
+
+noncoding dna
+
+many specie small fraction total sequencegenome appears encode protein example aboutofhuman genome consists proteincoding exon function rest
+matter speculation known certain nucleotide
+sequence specify affinity dna binding protein play wide
+variety vital role particular control replication
+transcription sequence frequently called regulatory
+sequence researcher assume far identifiedtiny fraction total existjunk dna represents
+sequence yet appear contain genefunction reason presence much noncoding dnaeukaryotic genome extraordinary difference genome size 
+cvalue among specie represent longstanding puzzle dna
+research known thecvalue enigma
+
+dna sequence play structural role chromosome telomerecentromere typically contain proteincoding geneimportant function stability chromosome genes
+code rna gene see trna rrna rna gene codetranscript function regulatory rna see sirna influence
+function rna molecule intronexon structuregene immunoglobin protocadeherin gene importantallowing alternative splicing premrna allows several
+different protein made gene indeed 
+human gene encode someproteins noncoding dna
+represents pseudogenes hypothesized serve raw
+genetic material creation new gene processgene duplication divergence noncoding dna provided hotspots
+duplication short dna region sequence duplicationmajor form genetic change human lineage see
+evidence chimpanzee genome project
+
+sequence also determines dna segment susceptibility cleavagerestriction enzyme important tool genetic engineeringposition cleavage site throughout individual genome determines
+one kind individualsdna fingerprint
+
+mutation
+
+cell machinery separate dna double helix dna
+strand template synthesizing new strand nearly
+identical previous strand error occur synthesis
+called mutation mutation result cell attempts
+repair chemical imperfection process baseaccidentally skipped inserted incorrectly copied chaintrimmed added rare occasion wrong pairing happenthymine enol form cytosine imino form
+mutation also occur chemical damage mutagens
+light damage complicated gene swapping
+event process replication mimiced vitro process
+called polymerase chain reaction pcr
+
+study dna
+
+first isolation dna
+
+working century biochemist initially isolated dna rna
+mixed together cell nucleus relatively quickappreciate polymeric nature nucleic acid isolatesrealized later nucleotide two typesone containing
+ribose deoxyribose subsequent discoveryled identification naming dna substance distinct
+rna
+
+friedrich miescherdiscovered substance called
+nuclein insomewhat later isolated pure samplematerial known dna sperm salmon inhis
+pupil richard altmann named nucleic acid substancefound exist chromosomes
+
+inphoebus levene rockefeller institute identifiedcomponent four base sugar phosphate chainshowed component dna linked order
+phosphatesugarbase called unit nucleotidesuggested dna molecule consisted string nucleotide units
+linked together phosphate group backbone
+molecule however levene thought chain shortbase repeated fixed order torbjorn casperssoneinar hammersten showed dna polymer
+
+chromosome inherited traits
+
+max delbrck nikolai timofeeffressovsky karl zimmer
+published result insuggesting chromosome large
+molecule structure changed treatmentxrays changing structure possiblechange heritable characteristic governed chromosomewilliam astbury produced first xray diffraction patterndna able propose correct structure patterns
+showed dna regular structure therefore mightpossible deduce structure
+inoswald theodore avery team scientist discoveredtrait proper smooth form pneumococcus couldtransferred rough form bacteria merely making
+killed smooth form available live rough form
+quite unexpectedly living pneumococcus bacteria transformed
+new strain form transferred characteristics
+turned heritable avery called medium transfertrait transforming principle identified dnatransforming principle protein previously thoughtessentially redid frederick griffith experiment inalfred
+hershey martha chase experimenthersheychase experiment
+showed phage dna genetic material hershey
+shared nobel prize luria
+
+discovery structure dna
+
+three group made goal determinestructure dna first group start king college london
+wa led maurice wilkins later joined rosalind
+franklin another group consisting francis crick james watson
+wa cambridge third group caltech led linus
+pauling crick watson built physical model using metal rodball incorporated known chemical structurenucleotide well known position linkage joining one
+nucleotide next along polymer king college maurice
+wilkins rosalind franklin examined xray diffraction patterndna fiber three group london group ableproduce good quality diffraction pattern thus produce sufficient
+quantitative data structure
+
+helix structure
+
+inpauling discovered many protein included helical see
+alpha helix shape pauling deduced structure xray
+pattern attempt physically model structure pauling
+wa also later suggest incorrect three chain helical structure
+based astburys data even initial diffraction data dna
+maurice wilkins evident structure involved helices
+insight beginning remained questionmany strand came together whether number waevery helix whether base pointed toward helical axis away
+ultimately explicit angle coordinatebond atom question motivated modeling effortwatson crick
+
+complementary nucleotides
+
+modeling watson crick restrictedsaw chemically biologically reasonable still breadthpossibility wide breakthrough occurred inwhen
+erwin chargaff visited cambridge inspired crick description
+experiment chargaff published inchargaff observed
+proportion four nucleotide vary one dna
+sample next particular pair nucleotide 
+adenine thymine guanine cytosinethe two nucleotidealways present equal proportions
+
+watson crick model
+
+crick watson dna model built inwas reconstructed largely
+original piece inand donated national science
+museum london
+enlarge
+crick watson dna model built inwas reconstructed largely
+original piece inand donated national science
+museum london
+
+discovery dna carrier genetic information waprocess required many earlier discovery existence dna
+wa discovered mid century however waearly century researcher began suggesting might
+store genetic information gained almost universal acceptance
+structure dna elucidated james watsonfrancis crick theirnature publication watson crick
+proposed central dogma molecular biology indescribingprocess whereby protein produced nucleic dna inwatson
+crick maurice wilkins jointly received nobel prizedetermination structure dna
+
+spite prize presented watson crickindeed controversial inrosalind franklin physical
+chemist working paris researching dna structure kings
+college gave department lecture work time dna
+watson attended lecture initially learned franklin data
+take note led initial structure proposedwatson crick franklin refuted revealed information
+watson neglected write attending lecture
+
+watson crick begun contemplate double helical arrangements
+lacked information amount twist pitchdistance two strand rosalind franklin disclose
+finding medical research council crick saw
+material max perutz link mrc franklin work
+confirmed phosphate backbone outsidemolecule also gave insight symmetry particulartwo helical strand ran opposite direction end
+however turned much franklin data mrc
+report presented open seminar watsonneglected take notes
+
+watson crick greatly assisted franklins
+data controversial franklin critical xray pattern
+wa shown watson crick without franklin knowledgepermission wilkins showed famous photoof much simpler type dna watson lab immediately watsonunsuccessful asking franklin collaborate beat paulingfinding structure
+
+data photographwatson crick able discern
+wa distance two strand constantalso measure exact value ofnanometres photograph
+also gave thenanometreper pitch helix
+
+final insight came crick watson saw complementary
+pairing base could provide explanation chargaffs
+puzzling finding however structure baseincorrectly guessed textbook enol tautomerlikely keto form jerry donohue pointed
+fallacy watson watson quickly realised pairadenine thymine guanine cytosine almost identicalshape would provide equally sized rung two
+strand watson crick worked develop physical modeldoublehelical structure wire used confirmdistance molecule permissiblebasepairing watson crick quickly converged upon model
+announced franklin publishedwork
+
+disclosure franklin data watson angered peoplebelieve franklin receive due credit timemight discovered structure crick watson
+crick watson famous paper nature inthey saidwork stimulated work wilkins franklin
+whereas basis work however agreed
+wilkins franklin publish paperissue nature support proposed structure
+additionally autobiography double helix watson describes
+franklin unflattering term commenting derisively lack
+feminine trait implies work actually
+impaired wilkins
+
+franklin died inand four year later watson crick wilkins
+nobel prize work structure dnanobel prize awarded posthumously franklin could share
+central dogma
+
+watson crick model attracted great interest immediately uponpresentation arriving conclusion februarywatson
+crick made first announcement februarytheir paperstructure deoxyribose nucleic acid published aprilin
+influential presentation incrick laid thecentral
+dogma foretold relationship dna rna proteins
+articulated sequence hypothesis critical confirmationreplication mechanism implied doublehelical
+structure followed inin form meselsonstahl
+experiment work crick coworkers showed genetic code
+wa based nonoverlapping triplet base called codon har
+gobind khorana others deciphered genetic code long
+afterward finding represent birth molecular biology
+
+watson crick wilkins awarded thenobel prizephysiology medicine discovering molecular structure dna
+time franklin died cancer atnobel prizeawarded posthumously lived difficult decisionjointly award prize would complicated prizeshared maximum three work could
+considered chemistry conceivable wilkinsfranklin could awarded nobel prize chemistry instead
+see graeme hunter biography sir lawrence bragginformation scientist nominated nobel prizes
+
+forensics
+
+forensic scientist use dna located blood semen skin saliva
+hair left scene crime identify possible suspectprocess called genetic fingerprinting dna profiling dna
+profiling relative length section repetitive dnashort tandem repeat minisatellites compared dna profiling
+wa developed inby british geneticist sir alec jeffreysuniversity leicester first used convict colin pitchfork
+inin enderby murder case leicestershire united kingdom
+many jurisdiction require convict certain type crimeprovide sample dna inclusion computerized databaseha helped investigator solve old case perpetratorunknown dna sample obtained scene particularly
+rape case stranger method onereliable technique identifying criminal always
+perfect example dna retrieved scenecontaminated dna several possible suspects
+
+dna computation
+
+dna play important role computer science bioinformaticscomputational biology motivating research problemmethod computation sequence profiling tool like
+sequerome assist researcher working sequence data linkingentire sequence alignment reportblast many third party
+serverssites provide highly specific service sequence
+manipulation restriction enzyme map open reading frame
+analysis nucleotide sequence secondary structure prediction
+
+research string searching algorithm find occurrencesequence letter inside larger sequence letter motivated
+part dna research used find specific sequencenucleotide large sequence application text
+editor even simple algorithm problem usually sufficedna sequence cause algorithm exhibit nearworstcase
+behaviour due small number distinct characters
+
+database theory influenced dna research poses
+special problem storing manipulating dna sequence databases
+specialized dna research called genomic database must
+address number unique technical challenge associatedoperation approximate matching sequence comparison finding
+repeating pattern homology searching
+
+inleonard adleman university southern california made
+headline discovered way solving directed hamiltonian
+path problem npcomplete problem using tool molecular
+biology particular dna new approach dubbed dna computingpractical advantage traditional computer power use space
+use efficiency due ability highly parallelizecomputation see parallel computing although labor worth
+mentioning involved retrieving answer numberproblem including simulation various abstract machineboolean satisfiability problem bounded version post
+correspondence problem since analyzed using dna computing
+
+due compactness dna also theoretical rolecryptography particular allows unbreakable onetime pads
+efficiently constructed used
+
+history anthropology
+
+dna collect mutation time passedparent offspring contains information processoccurred past becoming time ancient dna comparing
+different dna sequence geneticist attempt infer history
+organisms
+
+dna sequence different specie comparedresulting family tree phylogeny used study evolution
+specie field phylogenetics powerful toolevolutionary biology dna sequence within specie compared
+population geneticist glean information historyparticular population used study rangingecological genetics anthropology example dna evidence also
+used try identify ten lost tribe israel
+
+dna also used look fairly recent issue family
+relationship establishing manner familial
+relationship descendant sally heming familythomas jefferson usage closely related use dnacriminal investigation detailed indeed criminal
+investigation solved dna crime scenefortuitously matched relative guilty individual
+
+global variation copy number human genome
+
+report published inin nature researcher foundcopy number variation cnv dna sequence humanmammal considerable deletion insertion duplicationcomplex multisite variant collectively termed copy number variations
+cnvs copy number polymorphism cnps found humanmammal examined

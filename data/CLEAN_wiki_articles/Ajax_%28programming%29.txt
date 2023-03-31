@@ -1,0 +1,66 @@
+copyright
+
+ajax programming
+
+ school wikipedia selection related subject computer programming
+
+ajax shorthand asynchronous javascript xml web
+development technique creating interactive web applicationintent make web page feel responsive exchanging small
+amount data server behind scene entire
+web page doe reloaded time user makechange meant increase web page interactivity speed
+usability
+
+ajax technique combinationxhtml html marking styling information
+dom accessed clientside scripting language especially
+ecmascript implementation javascript jscriptdynamically display interact information presented
+xmlhttprequest object used exchange data asynchronously
+web server ajax framework certain
+situation iframe object used instead xmlhttprequest
+object exchange data web serverimplementation dynamically addedscript tag may used
+xml sometimes used format transferring dataserver client although format work including
+preformatted html plain text json even ebml file may
+created dynamically form serverside scripting
+
+like dhtml lamp spa ajax technologyterm refers use group technologies
+
+history
+
+first use term public jesse james garrettfebruarygarrett thought term showerrealized need shorthand term represent suitetechnology proposing client
+
+although term ajax coined inmost historytechnology enable ajax start decade earlier microsofts
+initiative developing remote scripting techniqueasynchronous loading content existing web page without
+requiring full reload date back far iframe element type
+introduced internet explorerinand layer element type
+introduced netscapeinabandoned early development
+mozilla element type src attribute could takeexternal url loading page containing javascriptmanipulated parent page ajaxlike effect could attainedset clientside technology usually grouped togethergeneric term dhtml macromedias flash could also version 
+load xml csv file remote server without requiring browser
+refresh
+
+microsofts remote scripting msrs introduced inactedelegant replacement technique data pulled
+java applet client side could communicate using
+javascript technique worked internet explorer version 
+netscape navigator versiononwards microsoft createdxmlhttprequest object internet explorer versionand first took
+advantage technique using xmlhttprequest outlook web
+access supplied microsoft exchange serverrelease
+
+web development community first collaborating viamicrosoftpublicscriptingremote newsgroup later blog
+aggregation subsequently developed range technique remote
+scripting order enable consistent result across different
+browser ina usercommunity modification microsoft remote
+scripting made replace java applet xmlhttprequest
+
+remote scripting framework arscif surfaced innot long
+microsoft introduced callback aspnet
+
+since xmlhttprequest implemented across majority browsers
+use alternative technique used infrequently howeverstill used compatibility older web site legacy
+application required
+
+addition world wide web consortium several recommendations
+also allow dynamic communication server user
+agent though well supported would include
+object element defined htmlfor embedding arbitrary
+content type document replaces inline frame xhtml
+
+document object model dom levelload save specification
+

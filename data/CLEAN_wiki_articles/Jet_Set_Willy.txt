@@ -1,0 +1,146 @@
+copyright
+
+jet set willy
+
+ school wikipedia selection related subject computervideo games
+
+jet set willy
+developerssoftware projects
+publisherssoftware projects
+designersmatthew smith
+seriesminer willy series
+release date 
+genresplatform game
+modessingle player
+platformszx spectrum amstrad cpc bbc micro acorn electron
+commodoreatari bit family msx
+mediacassette floppy disk
+inputkeyboard joystick
+
+jet set willy computer game spectrum home computerrelease inwas concurrent height spectrums
+popularity early
+wa written matthew smith hailed time gameswriting
+genius smith later moved netherlands since whereabouts
+widely unknown largely thought vanishedreturned late since appeared programmethumb candy discus early game attended
+several retrogaming conventions
+
+game sequel manic minerand second gameimmensely popular miner willy series significant
+development platform game genre home micropublished software projects
+
+plot
+
+tired miner willy tidy item left aroundhouse huge party done housekeeper mariaallow access bedroom willys mansion house boughtwealth obtained adventure manic miner muchremains unexplored appears full strange creatures
+possibly result previous missing owner experiment willy
+must explore enormous mansion ground including beach
+yacht fully tidyup house get muchneeded
+sleep
+
+gameplay
+
+miner willy cold store
+
+jet set willy similar game engine manic miner extremely
+simple play three control left right jump willy
+climb stair walking jumping avoid
+climb swinging rope pushing left right dependingdirection rope swinging play area consists
+offlickscreen room impressively large number timegame release containing patrolling monster everythingkiller jelly rolling giant egg enormous fly various
+platform collectable object collectable item glowdistinguish item room
+
+game become wellknown peculiarity example
+willy loses life fall far fall causeenter another screen dying game send willy backentered screen losing life willy therefore begins
+another fall sent back die repeatedlypossible escape life run another peculiaritygame ingame music change pitch tune
+every time willy loses life technically frequency note
+shifted rather scaled
+
+attic bug
+
+originally released game could completed due several
+bug notorious known attic bug player
+entered room attic various room would undergo corruptionsubsequent game play including monster disappearingchapel screen triggering instant death causederror path arrow attic resulting sprite
+travelling past end spectrum video memory overwriting
+crucial game data instead
+
+initially software project attempted pasintentional feature make game difficult claimingroom question filled poison gas however later
+rescinded claim issued set poke lowlevel
+memorywriting hack correct flaws
+
+must perform quirkafleeg
+
+one bizarrelynamed room game must performquirkafleeg prerelease name screen gaping
+pit characteristic matthew smith wall sense
+humour fact reference comic strip fat freddys
+cat spinoff fabulous furry freak brother original
+comic quirkafleeg obscure ritual foreign country
+required performed upon sight dead furry animals
+
+negotiate room player must first wait secondentering screen left jump arrow flyright pictured player chance getpit one piece jump right rope lowest pointswing right left keep moving right ropelet climb rope bitclimbing far rope
+result player entering another room enough avoid
+spike bottom pit jump right highest
+point swing player right birdleft present problem player safe passagenext screen
+
+trivia
+
+matthew smith suggested workingminer willy game possibly titled either megatree
+miner willy meet taxman however neither game yet
+appeared
+original ingame music taken fromif rich man
+musical fiddler roof title musicadapted first movement beethoven moonlight sonata
+ingame cheat mode involves typing phrase
+writetyper whilst standing stair hole floor
+first landing player travelroom game holding combination number key 
+
+software project announced competition original release
+jet set willy stating first person completegame would win case champagne helicopter ridelondon piloted tommy barton director software
+project competition two londoner ross holmancameron else pair opted cash place chopper ride
+get champagne rosscam hacked jet set willy
+realized couldnt completed stood
+ofmajor bug produced necessary fixbecame official software project poke completinggame phoned software project told willy went
+commune great white telephonetotal ofobjects
+ross holman consequently became writer magazinespectrum later changed name sinclair
+cameron else coded msx conversion game
+jibe imagine software motto namegame room nomen luni pun latin namegame nomen ludi aeroplane game zzoom crashedroof visible nomen luni roof
+game one first spectrum feature copy
+protection card containing grid colour code camecassette game loaded user asked type one
+code randomly selected game doneday colour reproduction hard solution work around
+protection scheme included simply copying grid
+additionally number poke devised bypass code
+system magazine computer video game published letter
+detailing one poke 
+
+thirdparty modifications
+
+original spectrum version jet set willy clear separation
+game engine data describing room rooms
+stored straightforward format compression
+therefore relatively easy create customised versiongame
+
+review jsw issueof spectrum included section
+entitled jswa hacker guide remark section implyauthor successfully deduced least data
+structure since able remove section wall master
+bedroom following year issuecontained program addedextra room april shower game issuedescribeddata format detail
+
+several thirdparty editing tool published betweenand 
+allowing player design room sprite sinceprogram used fan create many modified
+version jsw ranging relatively minor change rooms
+completely new game recent year windowsbased jsw editor
+ha created
+
+henry hoard released alternative software inwas basedmodified version jsw game engine apparently withoutknowledge software projects
+
+ports
+
+following port computer platform made
+jet set willy expanded version amstrad cpclater converted back spectrum
+original game jet set willy releasedbbc micro acorn electron msx commodoreand commodorethe
+original bbc micro release also contained bug madeimpossible complete gamethough bugspectrum version
+different expanded version jet set willy releaseddragonwithextra rooms
+port jet set willy atari bit family computerreleased tynesoft init received generally poor reviews
+ha since called lousiest version jsw ever
+however version feature completely different music rob
+hubbard generally held one stronger points
+like spectrum version impossible completedifferent reason legitimate item needed
+caused player lose life bottlelicence
+software project made port commodore amiga atari canceled released
+unofficial port exist acorn archimedes microsoft
+window playstation gameboy cambridge java platform
+

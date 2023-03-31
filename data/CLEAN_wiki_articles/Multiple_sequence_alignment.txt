@@ -1,0 +1,191 @@
+copyright
+
+multiple sequence alignment
+
+ school wikipedia selection related subject general biology
+
+firstpositions protein multiple sequence alignmentinstance acidic ribosomal protein le several
+organism generated clustalw
+enlarge
+firstpositions protein multiple sequence alignmentinstance acidic ribosomal protein le several
+organism generated clustalw
+
+multiple sequence alignment msa sequence alignment threebiological sequence generally protein dna rna general
+input set query sequence assumed evolutionary
+relationship share lineage descendedcommon ancestor resulting msa sequence homologyinferred phylogenetic analysis conducted asssequence shared evolutionary origin visual depictionalignment image right illustrate mutation eventpoint mutation single amino acid nucleotide change appear
+differing character single alignment column insertiondeletion mutation indels appear gap onesequence alignment multiple sequence alignment often
+used ass sequence conservation protein domain tertiarysecondary structure even individual amino acid nucleotides
+
+multiple sequence alignment also refers process aligningsequence set three sequence biologically
+relevant length nearly impossible align hand computational
+algorithm used produce analyze alignment msas require
+sophisticated methodology pairwise alignmentcomputationally complex produce multiple sequence
+alignment program use heuristic method rather global
+optimization identifying optimal alignmentsequence moderate length prohibitively
+computationally expensive
+
+dynamic programming computational complexity
+
+direct method producing msa dynamic
+programming technique identify globally optimal alignment
+solution protein method usually involves two setparameter gap penalty substitution matrix assigning scoreprobability alignment possible pair amino acids
+based similarity amino acid chemical propertyevolutionary probability mutation nucleotide sequencesubstitution matrix used since four possible
+standard character per sequence individual nucleotidetypically differ much substitution probability parameterdna rna sequence usually consist gap penalty positive
+score character match negative score mismatches
+
+n individual sequence method requires constructingndimensional equivalent matrix formed standard pairwise
+dynamic programming search space thus increase exponentiallyincreasing also strongly dependent sequence length find
+global optimum sequence way shownnpcomplete problem method reduce search space first
+performing pairwise dynamic programming pair sequencequery set searching solution space near results
+effectively finding intersection local path immediately
+surrounding pairwise optimum solution render dynamic
+programming technique efficient socalled sum pairs
+method implemented software package msastill impractical many msa application requiresimultaneous alignment dozen even hundred sequences
+dynamic programming method used extremely
+highquality alignment small number sequence neededbenchmarking standard evaluating new refined heuristic
+techniques
+
+progressive alignment construction
+
+one method performing heuristic alignment searchprogressive technique also known hierarchical tree method
+build final msa first performing series pairwise
+alignment successively closely related sequence methods
+begin aligning two closely related sequence firstsuccessively aligning next closely related sequencequery set alignment produced previous step initial
+related pair determined efficient clustering method
+neighbourjoining based simple heuristic searchquery set tool like fasta progressive technique therefore
+automatically construct phylogenetic tree well alignment
+
+one major limitation progressive method heavy dependence
+initial assignment relatedness qualityinitial alignment method thus sensitive welldistribution sequence query set performance improvesrelatedness among query sequence relatively smooth gradient
+rather distantly separated cluster performance also degrades
+significantly sequence set rather distantly
+related inaccuracy initial alignmentlikely modern progressive method modify scoring function
+secondary weighting function assigns scaling factorindividual member query set nonlinear fashion basedphylogenetic distance nearest neighbor judicious
+choice weighting aid evaluating relatedness mitigateeffect relatively poor initial alignment early progression
+
+progressive alignment method efficient enough implementlarge scale many sequence often run publicly accessible
+web server user need locally install applicationinterest popular progressive alignment method clustal
+family especially weighted variant clustalw accessprovided large number web portal including genomenet ebiembnet different portal implementation vary user interface
+make different parameter accessible user clustal used
+extensively phylogenetic tree construction input protein
+structure prediction homology modeling
+
+another common progressive alignment method called tcoffee slower
+clustal derivative generally produce accurate
+alignment distantly related sequence set tcoffee usoutput clustal well another local alignment program lalign
+find multiple reqions local alignment two sequences
+resulting alignment phylogenetic tree used guideproduce new accurate weighting factors
+
+progressive method heuristic guaranteedconverge global optimum alignment quality difficultevaluate true biological significance obscurerecent semiprogressive method improves alignment qualityuse lossy heuristic still running polynomial timeimplemented program psalign
+
+iterative methods
+
+set method produce msas reducing error inherentprogressive method classified iterative work
+similarly progressive method repeatedly realign initial
+sequence well adding new sequence growing msa one
+reason progressive method strongly dependent highquality
+initial alignment fact alignment always
+incorporated final resultthat sequence haaligned msa alignment consideredapproximation improves efficiency cost accuracy contrast
+iterative method return previously calculated pairwise
+alignment submsas incorporating subset query sequencemean optimizing general objective function findinghighquality alignment score
+
+variety subtly different iteration method implemented
+made available software package review comparisonuseful generally refrain choosing best techniquesoftware package prrnprrp hillclimbing algorithm optimize
+msa alignment score iteratively corrects alignment weights
+locally divergent gappy region growing msa prrp
+performs best refining alignment previously constructedfaster method alignment individual motif achievedmatrix representation similar dotmatrix plot pairwise
+alignment alternative method fast local alignmentanchor point seed slower globalalignment procedureimplemented chaosdialign suite
+
+third popular iterationbased method called muscle multiple sequence
+alignment logexpectation improves progressive methodaccurate distance measure ass relatedness two
+sequence distance measure updated iteration stages
+although original form muscle contained onlyiterations
+depending whether refinement enabled
+
+hidden markov models
+
+hidden markov model probabilistic model assign
+likelihood possible combination gap matchmismatch determine likely msa set possible msas
+hmms produce single highestscoring output also generate
+family possible alignment evaluatedbiological significance hmms probablisticsproduce solution every time run dataset
+thus cannot guaranteed converge optimal alignment
+hmms produce global local alignment although hmmbased
+method developed relatively recently offer significant
+improvement computational speed especially sequencecontain overlapping regions
+
+typical hmmbased method work representing msa formdirected acyclic graph known partialorder graph consists
+series node representing possible entry columnmsa representation column absolutely conservedsequence msa share particular characterparticular position coded single node many outgoing
+connection possible character next columnalignment term typical hidden markov model observed
+state individual alignment column hidden states
+represent presumed ancestral sequence sequencequery set hypothesized descended efficient search
+variant dynamic programming method known viterbi
+algorithm generally used successively align growing msanext sequence query set produce new msadistinct progressive alignment method alignmentprior sequence updated new sequence addition however like
+progressive method technique influenced ordersequence query set integrated alignment
+especially sequence distantly related
+
+several software program available variant hmmbased
+method implemented noted scalability
+efficiency although properly using hmm method complex
+using common progressive method simplest poa
+partialorder alignment similar generalized methodimplemented package sam sequence alignment modeling
+system sam used source alignment protein
+structure prediction participate casp structure prediction
+experiment develop database predicted protein yeast
+specie cerevisiae hmm method also used database search
+hmmer
+
+genetic algorithm simulated annealing
+
+standard optimization technique computer sciencebothinspired directly reproduce physical process 
+also used attempt efficiently produce quality
+msas technique genetic algorithm used msa
+production attempt broadly simulate hypothesized
+evolutionary process gave rise divergence query set
+method work breaking series possible msas fragments
+repeatedly rearranging fragment introductiongap varying position general objective function optimized
+simulation generally sum pair maximization
+function introduced dynamic programmingbased msa methodtechnique protein sequence implemented software
+program saga sequence alignment genetic algorithmequivalent rna called raga
+
+technique simulated annealing existing msa produced
+another method refined series rearrangement designedfind optimal region alignment space one input
+alignment already occupies like genetic algorithm method
+simulated annealing maximizes objective function likesumofpairs function simulated annealing metaphorical
+temperature factor determines rate rearrangements
+proceed likelihood rearrangement typical usage
+alternate period high rearrangement rate relatively low
+likelihood explore distant region alignment spaceperiod lower rate higher likelihood thoroughly
+explore local minimum near newly colonized region approach
+ha implemented program msasa multiple sequence alignment
+simulated annealing
+
+motif finding
+
+alignment seven drosophila caspase colored motifidentified meme motif position sequence alignmentgenerated independently often correlate well perfectly
+example
+enlarge
+alignment seven drosophila caspase colored motifidentified meme motif position sequence alignmentgenerated independently often correlate well perfectly
+example
+
+motif finding also known profile analysis method locating
+sequence motif global msas mean producingbetter msa mean producing scoring matrix usesearching sequence similar motif variety methodisolating motif developed basedidentifying short highly conserved pattern within larger alignment
+constructing matrix similar substitution matrixreflects amino acid nucleotide composition positionputative motif alignment refined usingmatrix standard profile analysis matrix includes entrypossible character well entry gap alternatively
+statistical patternfinding algorithm identify motifprecursor msa rather derivation many casequery set contains small number sequence containshighly related sequence pseudocounts added normalizedistribution reflected scoring matrix particularcorrects zeroprobability entry matrix valuesmall nonzero
+
+block analysis method motif finding restricts motifungapped region alignment block generated msa
+extracted unaligned sequence using precalculated
+set common motif previously generated known gene families
+block scoring generally relies spacing highfrequency
+character rather calculation explicit substitution
+matrix block server provides interactive method locatemotif unaligned sequences
+
+statistical patternmatching implemented usingexpectationmaximization algorithm gibbs sampler onecommon motiffinding tool known meme expectation
+maximization hidden markov method generate motifused search tool companion mast combined suite
+mememast
+
+retrieved 
+httpenwikipediaorgwikimultiplesequencealignment
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

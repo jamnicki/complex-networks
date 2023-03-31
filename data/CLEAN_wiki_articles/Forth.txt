@@ -1,0 +1,385 @@
+copyright
+
+forth
+
+ school wikipedia selection related subject computer programming
+
+caption forth
+
+charles moore inventor forth
+enlarge
+charles moore inventor forth
+paradigmprocedural stackoriented
+appeared ins
+designed bycharles moore
+typing disciplinetypeless
+major implementation forth inc gforth mpe open firmware
+dialectscolorforth fcode
+influenced byburroughs large system lisp apl
+influencedpostscript factor
+
+forth programming language programming environment initially
+developed charles moore national radio astronomy
+observatory early formalized inand
+standardized ansi inforth sometimes spelled capital
+letter following customary usage earlier years
+although name acronym
+
+procedural stackoriented reflective programming language
+without type checking forth feature interactive executioncommand making suitable shell system lackformal operating system ability compile sequencecommand later execution forth version especially early
+one compile threaded code many implementation today generate
+optimized machine code like language compilers
+
+forth named file holding interpreterlabeled forth next generation softwarebut operating
+system restricted file name tocharacters moore usephrase next generation software appears predate definition
+fourthgeneration programming language saw forth successor
+compilelinkgo thirdgeneration programming language software
+th generation hardware term comeused
+
+overview
+
+forth offer standalone programming environment consistingstackoriented interactive incremental interpreter compiler
+programming forth interactive iterative process forth
+system consists word term used forth subroutine new
+word defined term old word distinction
+made word define forth languageprogrammer creates typical forth package consistsprecompiled kernel core word programmer usdefine new word application completed applicationsaved image new word already compiled generally
+programmer extend initial core word usefultype application write save working
+foundation
+
+forth separate stack storage subroutine parametersubroutine activation record parameter data stack commonly
+referred stack used pas data word store
+result word return linkage return stack commonly
+referred rstack used store return address words
+nested equivalent subroutine call store local
+variable standard word move data stacks
+load store variable stack
+
+logical structure forth resembles virtual machine forth
+especially early version implement inner interpreter tracing
+indirectly threaded machine code giving compact fast highlevel
+code compiled rapidly many modern implementation generate
+optimized machine code like language compilers
+
+forth became popular well suitedsmall microcomputer time compact portable
+least one home computer british jupiter ace forthromresident forth still used today many embedded systems
+small computerized device portability efficient
+memory use short development time fast execution speedimplemented efficiently modern risc processor processors
+use forth machine language produced usforth include open firmware boot rom used apple ibm sun
+first stage boot controller freebsd operating system
+
+forth simple yet extensible language modularityextensibility permit writing highlevel program cad
+system however extensibility also help poor programmer write
+incomprehensible code given forth reputation 
+writeonly language forth used successfully large
+complex project application developed competent
+disciplined professional proven easily maintainedevolving hardware platform decade use
+
+programmer perspective
+
+forth relies heavily explicit use data stack reverse polish
+notation rpn postfix notation commonly used calculatorhewlettpackard rpn operator placed operandopposed common infix notation operator placed
+operand postfix notation make language easierparse extend forth doe use bnf grammar doemonolithic compiler extending compiler requires writing new
+word instead modifying grammar changing underlying
+implementation
+
+using rpn one could get result mathematical expression 
+way
+
+ 
+command line first put numbersandon implied
+stack
+
+wordmultiplies two number top stackreplaces product
+
+numberis placed stack
+
+wordadds previous product finally thecommand
+print result user terminal
+
+even forth structural feature stackbased example
+ floornndupif dropelsethen 
+
+code defines new word word term usedsubroutine called floor using following command dup duplicates
+number stackcompares two number stackreplaces trueorfalse value take trueorfalse
+value chooses execute command immediately skip
+else drop discard value stack endconditional text parenthesis comment advisingword expects number stack return possibly changed
+number net result performs similarly function writtenc programming language
+int floorint vreturn 
+facilities
+
+interpreter
+
+forth parsing simple explicit grammar interpreter
+read line input user input device parsed
+word using space delimiter system recognise
+additional whitespace character interpreter find wordtry look word dictionary word foundinterpreter executes code associated wordreturn parse left input stream word isnt
+found word assumed number attempt madeconvert number push stack successfulinterpreter continues parsing input stream otherwiselookup number conversion fails interpreter print word
+followed error message indicating word recognised
+flush input stream wait new user input
+
+compiler
+
+definition new word started wordcolonend wordsemicolon example
+ dup
+
+compile word executed typingx console
+print
+
+assembler
+
+forth system include specialized assembler produces
+executable word assembler special dialect compiler
+forth assembler often use reversepolish syntaxparameter instruction precede instruction usual design
+forth assembler construct instruction stackcopy memory last step register may referencedname used manufacturer numbered usedactual operation code named purpose forth system
+eg register used stack pointer
+
+operating system file multitasking
+
+classic forth system traditionally use operating system file
+system instead storing code file sourcecode stored disk
+block written physical disk address word block employed
+translate number ksized block disk spaceaddress buffer containing data managed automatically
+forth system implement contiguous disk file usingsystem disk access file located fixed disk block
+range usually implemented fixedlength binary records
+integer number record per disk block quick searchingachieved hashed access key data
+
+multitasking commonly cooperative roundrobin schedulingnormally available although multitasking word supportcovered ansi forth standard word pause used savecurrent task execution context locate next task restore
+execution context task stack private copycontrol variable scratch area swapping task simpleefficient result forth multitaskers available evensimple microcontrollers intelatmel avr msp
+
+contrast forth system run host operating systemmicrosoft window linux version unix use host
+operating system file system source data file ansi
+forth standard describes word used nonstandard
+facility include mechanism issuing call hostwindowing system many provide extension employscheduling provided operating system typicallylarger different set word standalone forth pause
+word task creation suspension destruction modificationpriority
+
+self compilation cross compilation
+
+fullfeatured forth system source code compiletechnique commonly called metacompilation forth programmers
+although term doesnt exactly match metacompilationnormally defined usual method redefine handful words
+place compiled bit memory compiler word use
+speciallynamed version fetch store redirectedbuffer area memory buffer area simulates access memory
+area beginning different address code buffercompiler define word access target computer memoryhost compiling computer memory
+
+fetch store operation redefined code space
+compiler assembler etc recompiled using new definitions
+fetch store effectively reuses codecompiler interpreter forth system code compiled
+version stored buffer buffer memorywritten disk way provided load temporarilymemory testing new version appears work written
+previous version
+
+numerous variation compiler different
+environment embedded system code may instead writtenanother computer technique known cross compilation serial
+port even single ttl bit keeping word namenonexecuting part dictionary original compiling
+computer minimum definition forth compilerword fetch store byte word command forth
+word executed often timeconsuming part writingremote port constructing initial program implement fetch
+store execute many modern microprocessor integrated
+debugging feature motorola cpu eliminatetask
+
+structure language
+
+basic data structure forth dictionary maps
+word executable code named data structure dictionarylaid memory linked list link proceedinglatest recently defined word oldest sentinel
+usually null pointer found
+
+defined word generally consists head body head
+consisting name field link field body
+consisting code field parameter field 
+head body dictionary entry treated separatelymay contiguous example forth program recompiled
+new platform head may remain compiling computer
+body new platform environmentembedded system head occupy memory unnecessarily howevercrosscompilers may put head target targetexpected support interactive forth
+
+dictionary entry
+
+exact format dictionary entry prescribedimplementation vary however certain component almost always
+present though exact size order may vary describedstructure dictionary entry might look way
+structure
+byteflagbit flagslength word name
+chararray namenames runtime length isnt known compile time
+addresspreviouslink field backward ptr previous word
+addresscodewordptr code execute word
+anyarrayparameterfieldunknown length data word opcodes
+endstructure forthword
+
+name field start prefix giving length words
+name typically tobytes several bit flagcharacter representation word name follows prefix
+depending particular implementation forth may one
+nulbytes alignment
+
+link field contains pointer previously defined wordpointer may relative displacement absolute addresspoint next oldest sibling
+
+code field pointer either address wordexecute code data parameter field beginning
+machine code processor execute directly colon
+defined word code field pointer point word save
+current forth instruction pointer return stackload new address continue executionword processor callreturn instructions
+
+structure compiler
+
+compiler consists forth word visible systemmonolithic program allows programmer change compilers
+word special purposes
+
+compile time flag name field set wordcompile time behaviour simple word execute code
+whether typed command line embedded codecompiling compiler simply place code threaded pointer
+word
+
+compiletime word actually executed compiler classic
+example compiletime word control structureforth control structure almostcompiler implemented compiletime words
+
+compilation state interpretation state
+
+wordcolon take name parameter creates dictionary
+entry colon definition enters compilation stateinterpreter continues read spacedelimited word user input
+device word found interpreter executes compilation
+semantics associated word instead interpretation
+semantics default compilation semantics word append
+interpretation semantics current definition
+
+wordsemicolon finish current definition returninterpretation state example word whose compilation
+semantics differ default interpretation semantics 
+semicolon several word undefined forth
+
+interpreter state changed manually word 
+leftbracket andrightbracket enter interpretation state
+compilation state respectively word usedword literal calculate value compilation insert
+calculated value current colon definition literal hacompilation semantics take object data stackappend semantics current colon definition place object
+data stack
+
+forth current state interpreter readflag state contains value true compilation statefalse otherwise allows implementation socalled
+statesmart word behaviour change according current
+state interpreter
+
+unnamed word execution tokens
+
+forth unnamed word defined word nonamecompiles following word nextsemicolon leaves
+execution token data stack execution token providesopaque handle compiled semantics similar function
+pointer programming language
+
+execution token stored variable word execute takeexecution token data stack performs associated
+semantics word compile compilecomma take execution token
+data stack appends associated semantics current
+definition
+
+wordtick take name word parameter returns
+execution token associated word data stackinterpretation staterandomword execute equivalentrandomword
+
+parsing word comments
+
+wordscolon postponetick noname exampleparsing word take argument user input device
+instead data stack another example wordparenread ignores following word including next
+right parenthesis used place comment colon definition
+similarly wordbackslash used comment continueend current line parsed correctlyparen 
+backslash must separated whitespace following comment
+text
+
+structure code
+
+forth system body code definition consists either
+machine language form threaded code traditionally
+indirectthreaded code used directthreaded subroutine
+threaded forth also popular fastest modern forth use
+subroutine threading insert simple word macro perform
+peephole optimization optimizing strategy make code
+smaller faster
+
+data objects
+
+word variable data object pointruntime code associated defining word createddefining word characteristic defining behavior creatingdictionary entry plus possibly allocating initializing data space
+also specifies behaviour instance class words
+constructed defining word example include
+
+variable
+name uninitialized onecell memory location instance
+behaviour variable return address stack
+
+constant
+name value specified argument constant instance
+behaviour return value
+
+create
+name location space may allocated locationset contain string initialized value
+instance behaviour return address beginningspace
+
+forth also provides facility programmer define new
+applicationspecific defining word specifying custom defining
+behavior instance behaviour example include circular
+buffer named bit port automaticallyindexed arrays
+
+data object defined similar word global scope
+function provided local variable language provided
+data stack forth forth programming style named
+data object compared language typically data objects
+used contain data used number word tasks
+multitasked implementation
+
+forth doe enforce consistency data type usageprogrammer responsibility use appropriate operator fetchstore value perform operation data
+
+programming
+
+word written forth compiled executable formclassical indirect threaded implementation compile listaddress word executed turn many modern system generate
+actual machine code including call external word code
+others expanded place system optimizing compilers
+generally speaking forth program saved memory imagecompiled program single command run executed
+compiled version loaded
+
+development programmer interpreter executetest little piece developed forth programmers
+therefore advocate loose topdown design bottomup development
+continuous testing integration
+
+topdown design usually separation programvocabulary used highlevel set tool write
+final program welldesigned forth program read like natural
+language implement single solution also settool attack related problems
+
+toolbox approach one reason forth difficult
+master learning syntax easy mastering tools
+delivered professional forth system take several months
+working fulltime task actually difficult rewriting
+one forth system scratch unfortunately rewrite also
+loses experience accumulated typical professional forth
+toolbox
+
+code examples
+
+hello world
+
+one possible implementation
+ hellocrhello world 
+hello
+
+word cause following output displayed new line
+parsing worddotquote read doublequote delimited string
+appends code current definition parsed string
+displayed execution space character separating word
+string hello world included part string
+needed parser recognizesas forth word
+
+standard forth system also interpreter outputobtained typing following code fragment forth
+console
+crhello world
+
+dotparen immediate word par parenthesisdelimited
+string display wordthe space character
+separatingfrom hello world part string
+
+word come text print convention forth
+interpreter doe start output new line also convention
+interpreter wait input end previous lineok prompt implied flushbuffer action forth sometimes programming languages
+
+mixing compilation state interpretation state
+
+definition word emitq executed emitssingle character  emitqthe ascii value character qemit 
+
+definition written use ascii value character
+directly text parenthesis commentignored compiler word emit take value data
+stack display corresponding character
+
+following redefinition emitq wordsleftbracket 
+rightbracket char literal temporarily switch interpreter
+state calculate ascii value character returncompilation state append calculated value current colon
+definition
+ emitqchar qliteralemit 
+
+parsing word char take spacedelimited word parameterplace value first character data stack word
+char immediate version char using char example
+definition emitq could rewritten like emitqchar qemitemit single character 
+definition usedbackslash describing comment
+
+char char predefined forth using immediatepostpone char could defined like charcharpostpone literalimmediate
+

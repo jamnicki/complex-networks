@@ -1,0 +1,254 @@
+copyright
+
+adenosine triphosphate
+
+ school wikipedia selection related subject chemical compounds
+
+adenosine triphosphate
+chemical structure atp
+chemical name
+aminopurinyldihydroxyoxolanyl
+methoxyhydroxyphosphoryl
+oxyhydroxyphosphory oxyphosphonic acid
+abbreviationsatp
+chemical formulachnop
+molecular massg mol
+melting point
+density
+pka
+ca number
+einecs
+pubchem
+
+adenosine triphosphate atp discovered inby karl lohmannmultifunctional nucleotide primarily known biochemistry 
+molecular currency intracellular energy transfer role atp
+transport chemical energy within cell produced energy
+source process photosynthesis cellular respiration
+structure molecule consists purine baseadenine
+attached thecarbon atom pentoseribose three phosphate
+group attached thecarbon atom pentose atp also
+one four monomersnucleotides required synthesisribonucleic acid furthermore signal transduction pathway atpused provide phosphate protein kinase reactions
+
+chemical properties
+
+atp consists adenosineitself composed adenine ringribose sugarand three phosphate group triphosphatephosphoryl group starting group closest ribosereferred alphabetaand gammaphosphatessystem atp water standard condition concentrationextremely rich chemical energy bond secondthird phosphate group loosely said particularly highenergy strictly speaking bond high energy like
+chemical bond requires energy break energy produced
+bond broken water allowed react two
+product thus energy produced new bond formedadp water phosphate water
+
+net change energy standard temperature pressuredecomposition atp hydrated adp hydrated inorganic phosphate
+iskcalmole vivo inside living cell andkcal 
+mole vitro laboratory condition large release energy
+make decomposition atp water extremely exergonic hence
+useful mean chemically storing energy energyactually released hydrolysis phosphatephosphate bondcarried
+energy used variety enzyme motor proteintransport protein carry work cell alsohydrolysis yield free inorganic adp brokenanother amp
+
+atp also broken amp directly formationppi last reaction advantage effectively
+irreversible process aqueous solution
+
+ionisation atp biological systems
+
+given reaction
+
+hatphatp
+
+acidity constant kaxgiving scriptstyle
+fracmathrmatpmathrmhatpfrac times
+mathrmhin biological system cytosol 
+phor extracellular fluid phatp dominant
+formof total atp 
+space filling image atp
+enlarge
+space filling image atp
+model atp
+enlarge
+model atp
+
+atp synthesis
+
+atp produced redox reaction using simple complex sugars
+carbohydrate lipid energy source atpsynthesised complex fuel first need brokenbasic component carbohydrate hydrolysed simple
+sugar glucose fructose fatstriglyceridesmetabolised give fatty acid glycerol
+
+overall process oxidizing glucose carbon dioxide knowncellular respiration produce tomolecules atpsingle molecule glucose atp produced number distinct
+cellular process three main pathway used generate energyeukaryotic organism glycolysis citric acid cycle oxidative
+phosphorylation betaoxidation majority atp
+production non photosynthetic aerobic eukaryote take placemitochondrion make nearlyof total volumetypical cell
+
+glycolysis
+
+glycolysis glucose glycerol metabolised pyruvatecytosol via glycolytic pathway generates net two molecules
+atp substrate phosphorylation catalyzed two enzyme pgk
+pyruvate kinase two molecule nadh also producedoxidized via electron transport chain resultgeneration additional atp atp synthase pyruvate generatedglycolysis function substrate krebs cycle
+
+citric acid cycle
+
+mitochondrion pyruvate oxidized pyruvate dehydrogenaseacetyl coa fully oxidized carbon dioxide citric
+acid cycle also known krebs cycle every turn citric
+acid cycle produce two molecule carbon dioxide one moleculeatp equivalent guanosine triphosphate gtp substratelevel
+phosphorylation catalyzed succinyl coa synthetase three molecules
+reduced coenzyme nadh one molecule reduced coenzyme
+fahd latter molecule recycled oxidized
+state nad fad respectively via electron transport chain
+generates additional atp oxidative phosphorylation coupledatp synthesis oxidation nadh molecule resultsynthesis aboutatp molecule oxidation one fadh
+yield aboutatp molecule majority cellular atp generated
+process although citric acid cycle doe involve
+molecular oxygen obligately aerobic processneeded recycle reduced nadh fadh oxidized
+state absence oxygen citric acid cycle ceasefunction due lack available nad fad
+
+generation atp mitochondrion cytosolic nadh relies
+malateaspartate shuttle lesser extentglycerolphosphate shuttle inner mitochondrial membraneimpermeable nadh nad instead transferring generated
+nadh malate dehydrogenase enzyme convert oxaloacetate malate
+translocated mitochondrial matrix another malate
+dehydrogenasecatalyzed reaction occurs opposite direction
+producing oxaloacetate nadh newly transported malatemitochondrion interior store nad transaminase converts
+oxaloacetate aspartate transport back across membrane
+intermembrane space
+
+passage electron pair nadh fadhelectron transport chain power pumping protonmitrochondrial matrix intermembrane space results
+proton motive force net effect gradientelectric potential gradient across inner mitochondrial membrane
+flow proton potential gradientthatintermembrane space matrixprovides driving force atp
+synthesis protein complex atp synthase contains unique
+rotor subunit physically rotates relative static portions
+protein atp synthesis
+
+atp synthesized mitochondrion usedcellular process cytosol thus must exportedsite synthesis mitochondrial matrix inner membrane
+contains antiporters integral membrane protein usedexchange newly synthesized atp matrix adpintermembrane space
+
+betaoxidation
+
+fatty acid also broken acetyl coa betaoxidationacyl coa molecule turn cycle reduces lengthacyl chain two carbon atom produce one nadh one fadh
+molecule used generate atp oxidative phosphorylation
+nadh fadh energyrich molecule dozen atp
+molecule generated betaoxidation single long acyl
+chain
+
+anaerobic respiration
+
+anaerobic respiration fermentation entail generation energy
+via process oxidation absence electron
+acceptor eukaryote glucose used energy store
+electron donor formula oxidation glucoselactic acid
+chochoatp
+
+atp replenishment nucleoside diphosphate kinases
+
+atp also synthesized several socalled replenishment
+reaction catalyzed enzyme family nucleoside diphosphate
+kinase ndks use nucleoside triphosphateshighenergy phosphate donor atpguanidophosphotransferase
+family creatine
+
+adpgtp atpgdp
+
+atp production photosynthesis
+
+plant atp synthesized thylakoid membrane chloroplast
+lightdependent reaction photosynthesisatp used power calvin cycle produce triose
+sugars
+
+atp recycling
+
+total quantity atp human body aboutmolemajority atp usually synthesised novo generated
+adp aforementioned process thus given timetotal amount atpadp remains fairly constant
+
+energy used human cell requires hydrolysis ofto 
+mole atp daily aroundtokg typically humanuse body weight atp course day means
+atp molecule recycledtotimes single
+dayatp cannot stored hence consumption
+followed closely synthesis
+
+regulation atp production
+
+atp production aerobic eukaryotic cell tightly regulatedallosteric mechanism feedback effect substrate
+concentration dependence individual enzyme within glycolysis
+oxidative phosphorylation pathway key control point occurenzymatic reaction energetically favorableeffectively irreversible physiological conditions
+
+glycolysis hexokinase directly inhibited product
+glucosephosphate pyruvate kinase inhibited atpmain control point glycolytic pathwayphosphofructokinase pfk allosterically inhibited high
+concentration atp activated high concentration ampinhibition pfk atp unusual since atp also substratereaction catalyzed pfk biologically active formenzyme tetramer exists two possible conformationone bind second substrate fructosephosphate fpprotein two binding site atpthe active site accessible
+either protein conformation atp binding inhibitor site
+stabilizes conformation bind poorly numbersmall molecule compensate atpinduced shift equilibrium
+conformation reactivate pfk including cyclic amp ammonium ions
+inorganic phosphate fructoseandbiphosphate
+
+citric acid cycle regulated mainly availability key
+substrate particularly ratio nad nadhconcentration calcium inorganic phosphate atp adp amp
+citratethe molecule give name cycleis feedback
+inhibitor citrate synthase also inhibits pfk providing direct
+link regulation citric acid cycle glycolysis
+
+oxidative phosphorylation key control point reaction
+catalyzed cytochrome oxidase regulatedavailability substrate reduced form cytochrome camount reduced cytochrome available directly relatedamount substrates
+
+fracnadhcytcoxadppi iff
+fracnadcytcredatp
+
+directly implies equation
+
+fraccytcredcytcox 
+leftfracnadhnadrightfracleftfrac
+adppiatprightkeq
+
+thus high ratio nadh nad low ratio adppi
+atp imply high amount reduced cytochrome high level
+cytochrome oxidase activity additional level regulationintroduced transport rate atp nadhmitochondrial matrix cytoplasm
+
+atp use cells
+
+atp main energy source majority cellular functions
+includes synthesis macromolecule including dna rnaprotein atp also play critical role transportmacromolecule across cell membrane exocytosis endocytosis
+
+atp critically involved maintaining cell structurefacilitating assembly disassembly element cytoskeleton
+related process atp required shortening actinmyosin filament crossbridges required muscle contractionlatter process one main energy requirement animalessential locomotion respiration
+
+cell signaling
+
+atp also signaling molecule atp adp adenosine recognised
+purinergic receptors
+
+human signaling role important centralperipheral nervous system activitydependent release atpsynapsis axon glia activates purinergic membrane receptor known
+p receptor metabotropic g proteincoupledmodulate mainly intracellular calcium sometimes cyclic amp levels
+fifteen member family reported pypy
+although related weak homology several py py function receptor raise cytosolic
+calcium ionotropic receptor subgroup comprises seven members
+pxpx ligandgated capermeable ion channelopen bound extracellular purine nucleotide contrastp receptor agonist order atpadpampado purinergic
+nucleotide like atp strong agonist receptorstrongly activated adenosine nucleoside adoampadp
+atp receptor ab subtypesremnant old nomenclature adenosine receptor proteincoupled receptor coupled gicoupled 
+deoxyribonucleotide synthesis
+
+known organism deoxyribonucleotides make dnasynthesized action ribonucleotide reductase rnr enzymecorresponding ribonucleotides enzyme reduces 
+hydroxyl group ribose sugar deoxyribose formingdeoxyribonucleotide denoted datp ribonucleotide reductase
+enzyme use common sulfhydryl radical mechanism reliant reactive
+cysteine residue oxidize form disulfide bond coursereaction rnr enzyme recycled reaction thioredoxinglutaredoxin
+
+regulation rnr related enzyme maintains balance dntps
+relative relative ntps cell low dntp
+concentration inhibits dna synthesis dna repair lethalcell abnormal ratio dntps mutagenic dueincreased likelihood misincorporating dntp dna synthesis
+regulation differential specificity rnr proposedmechanism alteration relative size intracellular dntp
+pool cellular stress hypoxia
+
+atp protein structure
+
+protein bind atp via characteristic protein fold
+known rossmann fold general nucleotidebinding motif
+also often bind cofactor nad common atpbinding
+protein known kinase share small number common foldprotein kinase largest kinase superfamily share common
+structural feature specialized atp binding phosphate transfer
+
+atp complex protein generally requires presencesolution divalent cation almost always magnesium aidstabilizing highly charged phosphate group presencemagnesium greatly decrease dissociation constant atpprotein binding partner without affecting ability kinasecatalyze reaction atp bound presence magnesium
+ion serve mechanism kinase regulation
+
+atp analogs
+
+biochemistry laboratory often use vitro study explore
+atpdependent molecular process enzyme inhibitor atpdependent
+enzyme kinase needed experimentally examinebinding site transition state involved atpdependent
+reaction atp analog also used xray crystallographydetermine protein structure complex atp often togethersubstrate useful atp analog cannot hydrolyzed atp
+would instead trap enzyme structure closely related
+atpbound state adenosine gammathiotriphosphateextremely common atp analog one gammaphosphate oxygens
+replaced sulfur atom molecule hydrolyzeddramatically slower rate atp function inhibitor
+atpdependent process crystallographic study hydrolysis
+transition state modeled bound vanadate ion however
+caution warranted interpreting result experiment using
+atp analog since enzyme hydrolyze appreciable rates
+high concentration

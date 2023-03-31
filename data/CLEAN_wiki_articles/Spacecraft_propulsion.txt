@@ -1,0 +1,457 @@
+copyright
+
+spacecraft propulsion
+
+ school wikipedia selection related subject general physic space
+transport
+
+remote camera capture closeup view space shuttle main engine
+test firing john stennis space center hancock
+county mississippi
+enlarge
+remote camera capture closeup view space shuttle main engine
+test firing john stennis space centre hancock
+county mississippi
+
+propulsion mean add speed acceleration objectengine similar device word propulsion usedmany word jet rocket spacecraft becomejet
+propulsion rocket propulsion space craft propulsion etc
+
+spacecraft propulsion used change velocity spacecraftartificial satellite many different method method
+ha drawback advantage spacecraft propulsion active
+area research spacecraft today propelled heatingreaction mass allowing eject backrearvehicle sort engine called rocket engine
+
+current spacecraft use chemical rocketsbipropellantsolidfuel launch though pegasus rocketspaceshipone used airbreathing engine first stage
+satellite simple reliable chemical rocket often
+monopropellant rocket resistojet rocket keep station
+although use momentum wheel attitude control newer
+geoorbiting spacecraft starting use electric propulsionnorthsouth stationkeeping interplanetary vehicle mostly use chemical
+rocket well although experimentally used ion thrusters
+form electric propulsion success
+
+necessity propulsion systems
+
+artificial satellite must launched orbitmust placed nominal orbit desired orbitoften need form attitude control correctly
+pointed respect earth sun possiblyastronomical object interest also subject dragthin atmosphere stay orbit long period time
+form propulsion occasionally necessary make small
+correctionsorbital stationkeeping many satellite need moved
+one orbit another time time also requires
+propulsion satellite exhausted ability adjustorbit useful life
+spacecraft designed travel also need propulsion methods
+need launched earth atmospheresatellite need leave orbit move around
+
+interplanetary travel spacecraft must use engine leave
+earth orbit done must somehow make waydestination current interplanetary spacecraft seriesshortterm orbital adjustment adjustmentspacecraft simply fall freely along orbit simplest
+fuelefficient mean move one circular orbit anotherhohmann transfer orbit spacecraft begin roughly circular
+orbit around sun short period thrust directionmotion accelerates decelerates spacecraft elliptical
+orbit around sun tangential previous orbit also
+orbit destination spacecraft fall freely alongelliptical orbit reach destination another short
+period thrust accelerates decelerates match orbitdestination special method aerobraking sometimes used
+final orbital adjustment
+artist conception solar sail
+enlarge
+artist conception solar sail
+
+spacecraft propulsion method solar sail provide low
+inexhaustible thrust interplanetary vehicle using onemethod would follow rather different trajectory either constantly
+thrusting direction motion order decreasedistance sun constantly thrusting along directionmotion increase distance sun
+
+spacecraft interstellar travel also need propulsion methodspacecraft yet built many designdiscussed since interstellar distance great tremendous
+velocity needed get spacecraft destinationreasonable amount time acquiring velocity launchgetting rid arrival formidable challengespacecraft designers
+
+effectiveness propulsion systems
+
+earth situated fairly deep gravity well takevelocity ofmetressecondescape velocity jumphabit living gravitational fieldgmsecond square ideal propulsion system would oneprovides continuous acceleration though human bodytolerate acceleration cases
+
+rocket spaceship propulsion system quickly
+compared time involved journey made existing rockets
+accelerate near speed light plus occupant free
+ill effect free fall nausea muscular
+weakness reduced sense taste leaching calciumbones
+
+space purpose propulsion system changevelocity spacecraft since difficultmassive spacecraft designer generally discus momentum mvamount change momentum called impulse goalpropulsion method space create impulse
+
+launching spacecraft earth propulsion method must
+overcome higher gravitational pull provide net positive
+acceleration orbit spacecraft tangential velocity providescentrifugal force counterweighs gravity pull given path
+actually orbit path additional impulse even
+tiny result change orbit path
+
+rate change velocity called acceleration ratechange momentum called force reach given velocity oneapply small acceleration long period time one apply
+large acceleration short time similarly one achievegiven impulse large force short time small force
+long time mean maneuvering spacepropulsion method produce tiny acceleration run long
+time produce impulse propulsion method produces
+large acceleration short time launching planet
+tiny acceleration cannot overcome planet gravitational pullcannot used
+
+law conservation momentum mean orderpropulsion method change momentum space craft must
+change momentum something else well design take
+advantage thing like magnetic field light pressure orderchange spacecraft momentum free space rocket must
+bring along mass accelerate away order pushforward mass called reaction mass
+
+order rocket work need two thing reaction massenergy impulse provided launching particle reaction mass
+mass velocity mv particle kinetic energy
+mv must come somewhere conventional solid
+liquid hybrid rocket fuel burned providing energyreaction product allowed flow back providingreaction mass ion thruster electricity used accelerate
+ion back source must provide electrical
+energy perhaps solar panel nuclear reactor ions
+provide reaction mass
+
+discussing efficiency propulsion system designer often
+focus effectively using reaction mass reaction mass mustcarried along rocket irretrievably consumed used
+one way measuring amount impulse obtainedfixed amount reaction mass specific impulse impulse per
+unit weightonearth typically designated isp unitvalue second since weight earth reaction massoften unimportant discussing vehicle space specific impulse
+also discussed term impulse per unit mass alternate
+form specific impulse unit velocity ms
+fact equal effective exhaust velocity engine
+typically designated confusingly value sometimes
+called specific impulse two value differ factor gacceleration due gravity earth surface ispgve
+
+rocket high exhaust velocity achieve impulsele reaction mass however energy required impulseproportional square exhaust velocitymassefficient engine require much energy problemengine provide large amount thrust generate large
+amount impulse per second must use large amount energy per
+second highly efficient engine require enormous amount energy
+per second produce high thrust result highefficiency
+engine design also provide low thrust
+
+calculations
+
+burning entire usable propellant spacecraftengine straight line free space would produce net velocity
+change vehicle number termeddeltav
+
+total vehicle calculated using rocket equation
+mass fuel rather mass propellant pmass payload including rocket structurevelocity rocket exhaust known tsiolkovsky
+rocket equation
+
+delta vve leftfracmppright
+
+historical reason discussed sometimes written
+
+veispgo
+
+isp specific impulse rocket measured seconds
+go gravitational acceleration sea level
+
+long voyage majority spacecraft mass mayreaction mass since rocket must carry reaction massfirst reaction mass towards accelerating reaction mass
+rather payload payload mass spacecraft
+need change velocity rocket engine exhaust
+velocity mass reaction mass neededcalculated using rocket equation formula isp
+
+mp leftedelta vveright
+
+v much smaller equation roughly linearlittle reaction mass needed comparableneed twice much fuel combined payload structure
+includes engine fuel tank beyondgrowth exponential speed much higher exhaust velocity
+require high ratio fuel mass payload structural mass
+
+order achieve amount energy must goaccelerating reaction mass every engine waste energy
+even assumingefficiency engine need energy
+amounting
+beginmatrix frac endmatrix mve
+
+comparing rocket equation show much energy endfinal vehicle equation show total energy
+required show even withengine efficiency certainlyenergy supplied end vehiclesome indeed usually
+end kinetic energy exhaust
+
+mission example launching landing planet
+effect gravitational attraction atmospheric drag must
+overcome using fuel typical combine effecteffect effective mission deltav example
+launch mission low earth orbit requires aboutkms deltav
+mission deltavs typically numerically integratedcomputer
+
+suppose want send akg space probe mar required
+v leo approximatelyms using hohmann transfer orbit
+manned probe would need take faster route use fuel
+sake argument let say following thruster may
+used
+engine effective exhaust velocity
+specific impulse
+fuel mass
+kg energy required
+gj energy per propellant minimum power
+per thrust
+solid rocket
+kjkw
+bipropellant rocket
+mjkw
+ion thrustergjkw
+
+observe fuelefficient engine use far fuelmass almost negligible relative mass payloadengine engine however note alsorequire large total amount energy earth launch engines
+require thrust weight ratio much unitywould supplied gigawatts powerequivalentmajor metropolitan generating station would need carried
+vehicle clearly impractical
+
+instead much smaller powerful generator may includedtake much longer generate total energy needed lower
+power sufficient accelerate tiny amount fuel per
+second long period velocity finally achieved
+example took smartmore year reach moon
+chemical rocket take day ion drive
+need much fuel total launched mass usually lowertypically result lower overall cost
+
+interestingly mission deltav fixed ispminimises overall energy used rocket comeexhaust velocity aboutof mission deltav see energy
+computed rocket equation drive specific impulsehigh fixed ion thruster exhaust velocities
+enormously higher ideal thus endpowersource limited give low thrust vehicle
+performance power limited solar power nuclear powerused case large maximum accelerationinversely proportional hence time reach required
+deltav proportional thus latterlarge
+
+hand exhaust velocity made varyinstant equal opposite vehicle velocityabsolute minimum energy usage achieved achieved
+exhaust stop spaceand kinetic energyenergy end vehicle principle drive would 
+efficient practice would thermal loss withindrive system residual heat exhaust however cases
+us impractical quantity propellant useful
+theoretical consideration
+
+drive vasimr actually significantly varyexhaust velocity help reduce propellant usage improve
+acceleration different stage flight however best
+energetic performance acceleration still obtainedexhaust velocity close vehicle speed proposed ion plasma
+drive usually exhaust velocity enormously higherideal case vasimr lowest quoted speed around 
+compared mission deltav high earth orbit marms
+
+propulsion methods
+
+propulsion method classified based meanaccelerating reaction mass also special methodlaunch planetary arrival landings
+
+rocket engines
+
+cold unignited rocket engine test nasa
+enlarge
+cold unignited rocket engine test nasa
+
+rocket engine internal combustion heat engine although non
+combusting form exist rocket engine generally produce high
+temperature reaction mass hot gas achieved combusting
+solid liquid gaseous fuel oxidiser within combustion
+chamber extremely hot gas allowed escapehighexpansion ratio nozzle bellshaped nozzle giverocket engine characteristic shape effect nozzledramatically accelerate mass converting thermal energy
+kinetic energy exhaust speed high astimes speedsound sea level uncommon
+
+rocket emitting plasma potentially carry reaction insidemagnetic bottle release plasma via magnetic nozzlesolid matter need come contact plasma coursemachinery complex research nuclear fusiondeveloped method used speculative
+propulsion systems
+
+see rocket engine listing various kind rocket engines
+using different heating method including chemical electrical solar
+nuclear
+
+airbreathing engine launch
+
+study generally show conventional airbreathing engineramjet turbojet basically heavy lowthrustweight ratio give significant performance improvement
+installed launch vehicle however air launched
+separate lift vehicle x pegasushand lightweight high speed engine proposed
+take advantage air ascent
+sabrea lightweight hydrogen fuelled turbojet precooler
+atrexa lightweight hydrogen fuelled turbojet precooler
+liquid air cycle enginea hydrogen fuelled jet engineliquifies air burning rocket engine
+scramjetjet engine use supersonic combustion
+
+electromagnetic acceleration reaction mass
+
+test engine accelerates ion using electrostatic forces
+enlarge
+test engine accelerates ion using electrostatic forces
+
+rather relying high temperature fluid dynamicaccelerate reaction mass high speed varietymethod use electrostatic electromagnetic force accelerate
+reaction mass directly usually reaction mass streamion engine requires electric power run high exhaust
+velocity require large amount energy
+
+drive turn reasonable approximation fuel
+use energetic efficiency thrust inversely proportionalexhaust velocity high exhaust velocity mean require
+huge amount energy thus practical powersources provide low
+thrust use hardly fuel
+
+mission solar energy may sufficient often
+used others nuclear energy necessary engines
+drawing power nuclear source called nuclear electric
+rockets
+
+current source power chemical nuclear solarmaximum amount power generated greatly limitmaximum amount thrust produced small value power
+generation also add significant mass spacecraft ultimately
+weight power source limit performance vehicle
+current nuclear power generator approximately half weightsolar panel per watt energy supplied terrestrial distancesun chemical power generator used due far lower
+total available energy beamed power spacecraft show potential
+
+dissipation waste heat powerplant may makepropulsion system requiring separate power source infeasibleinterstellar travel
+
+electromagnetic methods
+ion thruster
+electrostatic ion thruster
+field emission electric propulsion
+hall effect thruster
+helicon double layer thruster
+electrodeless plasma thruster acceleration electromagnetic
+force emits plasma
+pulsed inductive thruster
+magnetoplasmadynamic thruster
+variable specific impulse magnetoplasma rocket
+mass driver propulsion
+
+system without reaction mass carried within spacecraft
+
+nasa study solar sail sail would half kilometer wide
+enlarge
+nasa study solar sail sail would half kilometer wide
+
+law conservation momentum state engine uses
+reaction mass cannot move centre mass spaceship
+changing orientation hand possible spaceempty especially space inside solar systemgravitation field magnetic field solar wind solar radiation
+various propulsion method try take advantage however
+since phenomenon diffuse nature corresponding propulsion
+structure need proportionately large
+
+space drive need little reaction mass
+tether propulsion
+solar sails
+magnetic sails
+minimagnetospheric plasma propulsion
+
+changing orientation satellite space vehicle
+conservation angular momentum doe pose similar constraint
+thus many satellite use momentum wheel control orientations
+cannot system controlling satellite orientation
+angular momentum built due torque external forces
+solar magnetic tidal force eventually need bled
+using secondary system
+
+launch mechanisms
+
+artist conception electromagnetic catapult moon
+enlarge
+artist conception electromagnetic catapult moon
+
+high thrust vital importance earth launch thrust hagreater weight see also gravity drag many propulsion
+method give thrustweight ratio much thanandcannot used launch
+
+exhaust toxicity side effect also detrimental
+effect environment spacecraft launching rulingpropulsion method nuclear engine leastuse earth surface
+
+therefore current spacecraft use chemical rocket engine 
+bipropellant solidfuel launch
+
+one advantage spacecraft launch availabilityinfrastructure ground assist proposed groundassisted
+launch mechanism include
+space elevator
+orbital airship
+space fountain
+hypersonic skyhook
+electromagnetic catapultrailgun coilgun
+space gunproject harp ram accelerator
+laser propulsionlightcraft
+
+planetary arrival landing
+
+test version mar pathfinder airbag system
+enlarge
+test version mar pathfinder airbag system
+
+vehicle enter orbit around destination planetland must adjust velocity done usingmethod listed provided generate high enough
+thrust method take advantageplanetary atmosphere andor surfaces
+aerobraking allows spacecraft reduce high pointelliptical orbit repeated brush atmosphere low
+point orbit save considerable amount fuel
+since take much deltav enter elliptical orbit
+compared low circular orbit since braking donecourse many orbit heating comparatively minorheat shield required done several mars
+mission mar global surveyor mar odyssey mars
+reconnaissance orbiter least one venus mission magellan
+aerocapture much aggressive manoeuver convertingincoming hyperbolic orbit elliptical orbit one pasrequires heat shield much trickier navigation since must
+completed one pas atmosphere unlike
+aerobraking preview atmosphere possible intent
+remain orbit least one propulsive maneuver
+required aerocaptureotherwise low pointresulting orbit remain atmosphere resultingeventual reentry aerocapture yet triedplanetary mission reentry skip zondand zondupon
+lunar return aerocapture maneuver since turnedhyperbolic orbit elliptical orbit mission since
+wa attempt raise perigee aerocapture
+resulting orbit still intersected atmosphere reentry
+occurred next perigee
+parachute land probe planet atmosphere usually
+atmosphere scrubbed velocity usingheat shield
+airbags soften final landing
+lithobraking stopping simply smashing targetusually done accident however may done deliberatelyprobe expected survive see example deep space 
+sturdy probe low approach velocity required
+
+gravitational slingshot also used carry probe onwarddestinations
+
+method may require breaking law physics
+
+artist conception warp drive design
+enlarge
+artist conception warp drive design
+
+addition variety hypothetical propulsion techniqueconsidered would require entirely new principle physicrealize date method highly speculative include
+diametric drive
+pitch drive
+bias drive
+disjunction drive
+alcubierre drive warp drive
+differential sail
+wormholestheoretically possible impossible practicecurrent technology
+antigravityrequires concept antigravity theoretically
+impossible
+reactionless drivesbreaks law conservation momentum
+theoretically impossible
+emdriveagain break law conservation momentum
+theoretically impossible
+
+table method specific impulse
+
+summary popular proven technologies
+followed increasingly speculative methods
+
+three number shown first effective exhaust velocity
+equivalent speed propellant leaf vehiclenecessarily important characteristic propulsion
+method thrust power consumption factor however
+deltav much exhaust velocityexorbitant amount fuel necessary see sectioncalculationmuch deltav proportionallyenergy needed power limited solar energy
+mean journey take proportionally longer time
+
+second third typical amount thrust typical
+burn time method outside gravitational potential small
+amount thrust applied long period give effect
+large amount thrust short period result doeapply object significantly influenced gravity
+
+caption propulsion methods
+
+method effective exhaust velocity
+thrust
+n duration
+propulsion method current use
+solid rocketminutes
+hybrid rocketminutes
+monopropellant rocketmillisecondsminutes
+bipropellant rocketminutes
+tripropellant rocketminutes
+resistojet rocketminutes
+arcjet rocketminutes
+hall effect thruster hetmonths
+electrostatic ion thrustermonths
+field emission electric propulsion feep
+weeks
+magnetoplasmadynamic thruster mpdweeks
+pulsed plasma thruster ppt
+pulsed inductive thruster pitmonths
+nuclear electric rocket electric propulsion method used
+currently feasible propulsion methods
+solar sail naper atau indefinite
+tether propulsion naminutes
+mass driver propulsionmonths
+orion project near term nuclear pulse propulsion
+several days
+variable specific impulse magnetoplasma rocket vasimr
+daysmonths
+nuclear thermal rocketminutes
+solar thermal rocketweeks
+radioisotope rocketmonths
+airaugmented rocketsecondsminutes
+liquid air cycle enginesecondsminutes
+sabreminutes
+dual mode propulsion rocket
+technology requiring research
+magnetic sail indefinite indefinite
+minimagnetospheric plasma propulsionnkw months
+nuclear pulse propulsionproject daedalus drive
+half hour
+gas core reactor rocket
+antimatter catalyzed nuclear pulse propulsion
+daysweeks
+nuclear saltwater rockethalf hour
+beampowered propulsion propulsion method powered beam
+fission sail
+fissionfragment rocket 
+nuclear photonic rocketyearsdecades
+space elevator na days
+significantly beyond current engineering
+fusion rocket 
+bussard ramjet
+antimatter rocket 
+redshift rocket
+gravitoelectromagnetic toroidal launchers
+

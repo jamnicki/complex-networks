@@ -1,0 +1,219 @@
+copyright
+
+computational chemistry
+
+ school wikipedia selection related subject general chemistry
+
+computational chemistry branch chemistry results
+theoretical chemistry incorporated efficient computer programs
+calculate structure property molecule solids
+applying program real chemical problem exampleproperty structure expected positionconstituent atom energy interaction energy charge dipolehigher multipole moment vibrational frequency reactivityspectroscopic quantitities cross section collisionparticle term computational chemistry also sometimes usedcover area science overlap computer science
+chemistry electronic configuration theory largest
+subdiscipline computational chemistry
+
+introduction
+
+term theoretical chemistry may defined mathematical
+description chemistry whereas computational chemistry usually
+used mathematical method sufficiently well developedautomated implementation computer note words
+exact perfect appear aspect chemistry
+computed exactly almost every aspect chemistry howeverdescribed qualitative approximate quantitative computational
+scheme
+
+molecule consist nucleus electron method quantum
+mechanic apply computational chemist often attempt solvenonrelativistic schrdinger equation relativistic corrections
+added although progress made solving fully
+relativistic schrdinger equation principle possiblesolve schrdinger equation either timedependent formtimeindependent form appropriate problem handpractice possible except small system thereforegreat number approximate method strive achieve best
+tradeoff accuracy computational cost present
+computational chemistry routinely accurately calculateproperty molecule contain thanelectronstreatment larger molecule contain dozen electroncomputationally tractable approximate method density
+functional theory dft dispute within field whether
+latter method sufficient describe complex chemical
+reaction biochemistry large moleculestudied semiempirical approximate method even larger molecules
+treated classical mechanic method called molecular
+mechanics
+
+theoretical chemistry chemist physicist mathematicians
+develop algorithm computer program predict atomicmolecular property reaction path chemical reactions
+computational chemist contrast may simply apply existing computer
+program methodology specific chemical questiontwo different aspect computational chemistry
+computational study carried order findstarting point laboratory synthesis assistunderstanding experimental data position sourcespectroscopic peaks
+computational study used predict possibilityfar entirely unknown molecule explore reaction mechanisms
+readily studied experimental means
+
+thus computational chemistry assist experimental chemistchallenge experimental chemist find entirely new chemical
+objects
+
+several major area may distinguished within computational
+chemistry
+prediction molecular structure molecule use
+simulation force find stationary point energy
+hypersurface position nucleus varied
+storing searching data chemical entity see chemical
+databases
+identifying correlation chemical structure properties
+see qspr qsar
+computational approach help efficient synthesiscompounds
+computational approach design molecule interactspecific way molecule drug design
+
+molecular structure
+
+given molecular formula represent number molecular isomers
+isomer local minimum energy surface calledpotential energy surface created total energy electronic
+energy plus repulsion energy nucleus functioncoordinate nucleus stationary point geometryderivative energy respect displacementnucleus zero local energy minimum stationary point
+displacement lead increase energy local
+minimum lowest called global minimum correspondsstable isomer one particular coordinate change
+lead decrease total energy directionstationary point transition structure coordinatereaction coordinate process determining stationary pointcalled geometry optimisation
+
+determination molecular structure geometry optimisation
+became routine efficient method calculating first
+derivative energy respect atomic coordinate became
+available evaluation related second derivative allowsprediction vibrational frequency harmonic motion assumedway importantly allows characterisation stationary
+point frequency related eigenvalue matrixsecond derivative hessian matrix eigenvaluepositive frequency real stationary pointlocal minimum one eigenvalue negative imaginary
+frequency stationary point transition structureone eigenvalue negative stationary point complex
+one usually little interest found necessarymove search away looking local minimumtransition structures
+
+total energy determined approximate solutiontimedependent schrdinger equation usually relativistic terms
+included making use bornoppenheimer approximationbased much higher velocity electron comparisonnucleus allows separation electronic nuclear motions
+simplifies schrdinger equation lead evaluatingtotal energy sum electronic energy fixed nuclei
+position plus repulsion energy nucleus notable exception
+certain approach called direct quantum chemistry treat
+electron nucleus common footing density functional methods
+semiempirical method variant major themelarge system total energy determined using molecular mechanics
+way determing total energy predict molecular structures
+
+ab initio methods
+
+program used computational chemistry based many
+different quantumchemical method solve molecular schrdinger
+equation associated molecular hamiltonian methodinclude empirical semiempirical parameter equation 
+derived directly theoretical principle inclusion
+experimental dataare called initio method doeimply solution exact one approximate
+quantum mechanical calculation mean particular
+approximation rigorously defined first principle quantum
+theory solved within error margin qualitatively
+known beforehand numerical iterative method employed
+aim iterate full machine accuracy obtained best
+possible finite word length computer whithin
+mathematical andor physical approximation made
+diagram illustrating various initio electronic structure methodterm energy
+enlarge
+diagram illustrating various initio electronic structure methodterm energy
+
+simplest type initio electronic structure calculationhartreefock scheme coulombic electronelectron
+repulsion specifically taken account average
+effect included calculation basis set sizeincreased energy wave function tend limit calledhartreefock limit many type calculation knownposthartreefock method begin hartreefock calculationsubsequently correct electronelectron repulsion referred also
+electronic correlation method pushed limit
+approach exact solution nonrelativistic schrdinger
+equation order obtain exact agreement experimentnecessary include relativistic spin orbit termreally important heavy atom approaches
+addition choice method necessary chose basis
+set set function usually centred different atoms
+molecule used expand molecular orbitalslcao ansatz initio method need define level theory
+method basis set
+
+hartreefock wave function single configurationdeterminant case particularly bond breaking processes
+quite inadequate several configuration need used
+coefficient configuration coefficientbasis function optimised together
+
+total molecular energy evaluated functionmolecular geometry word potential energy surface
+
+example sih like acetylene 
+series initio study sih show clearly powerab initio computational chemistry back overyearsmain conclusion reached bythe method usedmostly posthartreefock particularly configuration interaction coupled cluster initially question whether sih
+structure ethyne acetylene slowlystarted geometry optimization widespread became
+clear linear sih transition structure two
+equivalent transbent structure rather high energy
+ground state predicted fourmembered ring bentbutterfly structure hydrogen atom bridged two
+silicon atom interest moved look whether structures
+equivalent vinylidenesisihexisted structurepredicted local minimum isomer sih lying
+higher energy ground state energytransbent isomer surprisingly new isomer predictedbrenda colegrove henry schaefer iii group predictionsurprising needed extensive calculation confirmrequires post hartreefock method obtain local minimumstructure doe exist hartreefock energy hypersurface
+new isomer planar structure one bridging hydrogen atom
+one terminal hydrogen atom bridging atom energyground state isomer similar
+result later obtained geh sigehmore
+interestingly similar result obtained alhgah algah two electron group 
+molecule difference fourmembered ring ground
+state planar bent cismonobridged vinylidenelike
+isomer present experimental work molecule easy
+matrix isolation spectroscopy product reactionhydrogen atom silicon aluminium surface found ground
+state ring structure cismonobridged structure sih
+alh theoretical prediction vibrational frequencies
+crucial understanding experimental observationspectrum mixture compound may appear obscure
+area chemistry difference carbon silicon
+chemistry always lively question differencegroupand groupmainly c difference silicongermanium compound subject journal chemical education
+article
+
+density functional methods
+
+density functional theory dft method often considered initio method determining molecular electronic structure even
+though many common functionals use parameter derivedempirical data complex calculation meancould also called semiempirical method best treatclass dft total energy expressed terms
+total electron density rather wave functiontype calculation approximate hamiltonianapproximate expression total electron density dft methodaccurate little computational cost drawbackunlike initio method systematic way improvemethod improving form functional
+
+semiempirical empirical methods
+
+semiempirical quantum chemistry method based hartreefock
+formalism make many approximation obtain parameterempirical data important computational chemistrytreating large molecule full hartreefock method withoutapproximation expensive use empirical parameters
+appears allow inclusion correlation effectmethods
+
+semiempirical method follow often called empirical methods
+twoelectron part hamiltonian explicitly
+included electron system hckel method proposed
+erich hckel valence electron system extended
+hckel method proposed roald hoffmann
+
+molecular mechanics
+
+many case large molecular system modelled successfully
+avoiding quantum mechanical calculation entirely molecular
+mechanic simulation example use single classical expression
+energy compound instance harmonic oscillatorconstant appearing equation must obtained beforehandexperimental data initio calculations
+
+database compound used parameterizationthe resulting
+set parameter function called force fieldis crucial
+success molecular mechanic calculation force field
+parameterized specific class molecule instance
+protein would expected relevance describing
+molecule class
+
+interpreting molecular wave functions
+
+atom molecule model developed richard bader developed
+order effectively link quantum mechanical picturemolecule electronic wavefunction chemically useful older
+model theory lewis pair valence bond model
+bader demonstrated empirically useful modelconnected topology quantum charge density method
+improves use mulliken charges
+
+computational chemical method solid state physics
+
+computational chemical method applied solid state physics
+problem electronic structure crystal general described
+band structure defines energy electron orbitals
+point brillouin zone initio semiempirical
+calculation yield orbital energy therefore appliedband structure calculation since timeconsuming calculate
+energy molecule even timeconsuming calculate
+entire list point brillouin zone
+
+chemical dynamics
+
+electronic nuclear variable separated withinbornoppenheimer representation timedependent approachwave packet corresponding nuclear degree freedompropagated via time evolution operator physic associatedtimedependent schrdinger equation full molecular
+hamiltonian complementary energydependent approachtimeindependent schrdinger equation solved using scattering
+theory formalism potential respresenting interatomic
+interaction given potential energy surface generalpotential energy surface coupled via vibronic coupling terms
+
+popular method propagating wave packet associatedmolecular geometrysplit operator technique
+multiconfiguration timedependent hartree method mctdh
+semiclassical method
+
+molecular dynamic examines using newton law motiontimedependent behaviour system including vibration brownian
+motion using classical mechanical description combineddensity functional theory lead carparrinello method
+
+software packages
+
+number selfsufficient software package include many
+quantumchemical method case molecular mechanics
+method following table illustrates capabilityversatile software package show entry two columns
+table separate list specialized programdensity functional theory programs
+semiempirical programs
+solid state system program periodic boundary conditions
+valence bond programs
+
+package molecular mechanic semiempirical hartreefock
+posthartreefock method density functional theory
+ace n cadpac ncolumbus n dalton ngaussiangame ngame njaguar nmolcasmolpro nmpqc nnwchem nplato n npqspsi n turbomole nqchem n

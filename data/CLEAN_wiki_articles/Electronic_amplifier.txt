@@ -1,0 +1,442 @@
+copyright
+
+electronic amplifier
+
+ school wikipedia selection related subject engineering
+
+
+featured article click information
+
+term amplifier used article mean either circuit
+stage using single active device complete systempackaged audio hifi amplifier
+
+electronic amplifier device increasing powersignal doe taking power power supplycontrolling output match input signal shapelarger amplitude idealized amplifier said piecewire gain output exact replica inputlarger
+
+classification amplifier stage systems
+
+different design amplifier used different typeapplication signal broadly divide amplifier three
+categories
+small signal amplifiers
+low frequency power amplifierradio frequency power amplifiers
+
+call slightly different design approach mainly
+physical limitation component used implement
+amplifier efficiency realised
+
+many alternative classification address different
+aspect amplifier design effectdesign parameter objective circuit amplifier designalways compromise numerous factor cost amount power
+consumed device realworld imperfection needmatch amplifier input signal well output load
+
+classification amplifier stage common terminal
+
+one set classification include term referring common
+terminal connection design described terminalactive device tied closest ground example include
+term common emitter common plate common drainname also reflect type active device used amplifysignal instance common emitter refers amplifierbipolar transistor active device common plate wouldvacuum tube amp common drain amp would signify use
+mosfet jfet device design exist almost terminalactive device held ground amplifier different
+reason reflected use see also common collector
+common base
+
+inverting noninverting
+
+another way classify amp phase relationship input
+signal output signal inverting amplifier produce output
+isdegrees phase input signal mirror image
+viewed oscilloscope noninverting amplifier maintains
+equal phase relationship input output waveformemitter follower type amplifier indicatingsignal emitter transistor following matching phases
+input signal
+
+description apply single stage complete system
+
+function
+
+amp may classified function output
+characteristic functional description usually applycomplete amplifier system subsystem rarely individual
+stages
+servo amp indicates integrated feedback loop actively
+control output desired level servo indicates use
+frequency level rapid fluctuationaudio signal occur often usedmechanical actuator device motor must
+maintain constant speed torque servo ampac motors
+
+linear amp denotes precise amplification factor
+wide range frequency often used boost
+signal relay communication system nonlinear ampmade amplify specific narrow tuned frequencyexclusion frequencies
+
+rf amp refers amp designed use radio frequency
+range electromagnetic spectrum often usedincrease sensitivity receiver output powertransmitter
+
+audio amp designed use reproducing audio frequencies
+special consideration made driving speaker often
+multiple amp grouped together separate bridgeable
+channel accommodate different audio reproduction requirements
+
+special type low power amp almost ideal characteristics
+used instrument signal processing among manyvaried known operational amplifier opamps
+type amplifier used circuitperform mathematical algorithmic function operationinput signal obtain specific type output signals
+
+voltage current power amplification
+
+amplifier designed increase signal voltage voltage amp
+current buffer amp power amp electronic signal
+electronic amplifier operate either single sided supplies
+eitherorvoltage rail bus ground doublesided
+balanced suppliesandsupply rail ground
+
+different method supplying power result many different
+method bias bias method active device set
+operate properly component output
+signal set midpoint maximum voltage available
+power supply amplifier use set devicematched specification except polarity called
+complementary pair class amplifier generally use one device
+unless power supply set provide positive negative
+supply case dual device symmetrical design may used
+class amp definition use single polarity supply
+
+amplifier also often designed multiple stage hookedseries increase gain stage design oftendifferent type amp suit need stage instance
+first stage might class stage feeding class pushpull
+second stage drive class final output stage taking
+advantage strength type minimizingweaknesses
+
+also exist special stacked transistor called darlington
+pair two specially matched transistor single case
+transistor active device also often hooked parallel
+strapped order multiply amount currentfinal output stage deliver load
+
+interstage coupling method
+
+audio amplifier sometimes classified coupling methodsignal input output stage different typeinclude
+rc coupled amplifier
+lc coupled amplifier
+transformer coupled amplifier
+direct coupled amplifier
+
+method advantage compromise also see multistage
+amplifiers
+
+accordance frequency range
+
+dc direct coupledcapable amplifying even zero frequency
+dc signals
+audio frequency afhz tokhz
+video amplifiersupto fewmhzmhz ultra high frequency uhfupto ghz
+
+accordance type load
+
+untuneda audio video
+tuned ampsused amplifying single radio frequencyband frequencies
+
+angle flow conduction angle
+
+letter system amplifier classification assigns letterdifferent design electronic amplifier designclassified according relationship input wave form
+output wave form well amount time active
+component used amplify signal conducting electricitytime measured degree duration sine wave test signal
+applied input amplifier withdegrees representing one
+full cycle
+
+implementation
+
+amplifier implemented using transistor various typevacuum tube valve exotic form amplifier also
+possible using different type device exotic amplifieroften used microwave extremely high frequency signals
+
+amplifier classes
+
+amplifier circuit classified ab analog designs
+class switching design analog classclass defines proportion input signal cycle calledangle flow used actually switch amplifying device
+
+classinput signal used conduction angle aor
+
+
+class thanbut thanis usedtoa 
+
+
+class applies tube transistor amplifier class grid base negatively biasedclass
+class applies tube transistor amplifier class grid base often negatively biased input signal often larger drive high enough
+make grid base positive grid base
+current increase possible depending levelsignal input amplifier move class ab
+
+class input signal used aor 
+
+class le thanis usedtoa
+
+easily understood using diagram section
+sake illustration bipolar junction transistorshown amplifying device practice could mosfet
+vacuum tube device analog amplifier signal appliedinput terminal device base gate grid causes
+proportional output drive current flow output terminal
+output drive current obtained power supply voltage
+signal shown thus larger version input hachanged sign inverted amplification arrangementamplifying device possible givencommon emitter common
+source common cathode easiest understand employpractice amplifying element linear outputfaithful copy input larger inverted practice
+transistor linear output approximateinput nonlinearity origin distortion within amplifier
+class amplifier ab depends amplifying
+device biasedin diagram bias circuit omittedclarity
+
+real amplifier imperfect realization ideal amplifier
+one important limitation real amplifier outputgenerate ultimately limited power available power
+supply amplifier saturate clip output input
+signal becomes large amplifier reproduce
+
+class
+class amplifier amplify whole input cycleoutput signal exact scaledup replica inputclipping class amplifier usual mean implementing
+smallsignal amplifier efficienta theoretical
+maximum ofis obtainable small signal wastepower still extremely small easily toleratedneed create output power appreciable level voltagecurrent doe class become problematic class circuitamplifying element biased device always conducting
+extent operated linear portioncharacteristic curve known transfer characteristictransconductance curve device always conducting even
+input power wasted reasoninefficiency
+
+imageelectronicamplifierclassapng
+
+class amplifier
+
+high output power needed class circuit power
+wastage become significant every watt delivered load
+amplifier best waste another watt large
+power call large power supply large heat sinkcarry away waste heat class design largely superseded
+audio power amplifier though audiophiles believe class
+give best sound quality due operated linearmanner possible addition aficionado prefer thermionic
+valve tube design transistor number reasons
+tube commonly used class designasymmetrical transfer function mean distortion sine
+wave creates odd evennumbered harmonic claimsound musical purely odd harmonic producedsymmetrical pushpull amplifier though good amplifier design avoid
+inducing harmonic pattern sound reproduction systemdifference harmonic content essential soundintentional electric guitar distortion another valve use many
+electron transistor statistical effects
+lead smoother approximation true waveformsee shot
+noise fieldeffect transistor similar
+characteristic valve found often high
+quality amplifier bipolar transistor historically valve
+amplifier often used class power amplifier simply valves
+large expensive many class design single device
+transistor much cheaper elaborate design give
+greater efficiency use part still cost effectiveclassic application pair class device longtailed
+pair exceptionally linear form basis manycomplex circuit including many audio amplifier almostopamps
+
+class ab
+
+class amplifier amplify half input wave cyclecreate large amount distortion efficiencygreatly improved much better class class ha maximum
+theoretical efficiency ofthis amplifying element
+switched altogether half time cannot dissipate
+power single class element rarely found practice thoughused power amplifier distortion unimportant
+however class commonly used
+imageelectronicamplifierclassbpng
+
+class amplifier
+
+practical circuit using class element complementary pairpushpull arrangement complementary device usedamplify opposite half input signalrecombined output arrangement give excellent efficiency
+suffer drawback small glitchjoin two half signal called crossover
+distortion solution bias device rather
+altogether use called class operation device operated nonlinear regionlinear half waveform still conduct small amounthalf circuit behaves class amplifier region
+device linear region however circuit cannot
+strictly called class signal pass outside region
+since beyond point one device remain linear
+region transient typical class operation occurresult two half combined crossovergreatly minimised eliminated altogether
+
+however important note efficiency class greater class class 
+imageelectronicamplifierpushpullpng
+
+class pushpull amplifier
+
+class ab pushpull circuit common form design
+found audio power amplifier class widely considered good
+compromise audio amplifier since much time musicquiet enough signal stay class regionreproduced good fidelity definition passingregion large enough distortion product typical class relatively small class ab amplifier sometimes usedrf linear amplifier well
+
+negative feedback
+
+feedback feed difference input part output back
+input way cancel part input main
+effect reduce overall gain system howeverunwanted signal introduced amplifier also fed back since
+part original input added inputopposite phase subtracting input
+
+careful design stage open loop nonfeedback amplifier
+achieve aboutdistortion negative feedbackis
+typical noise even crossover distortion practically
+eliminated feedback originally invented replacingburntout vacuum tube would change amplifier performance
+manufacturing reality require tube transistorpart number close identical gain negative
+feedback also compensates changing temperature degradingnonlinear component amplifying device treatedlinear portion characteristic curveinherently nonlinear physic dictate operate usingsquare law result nonlinearity distortion
+
+application dictate much distortion design toleratehifi audio application instrumentation amplifier like
+distortion must minimal often better 
+
+feedback seems like universal fix problemamplifier many believe negative feedback bad thing sinceus loop take finite time react input signalshort period amplifier control musical
+transient whose timing order periodgrossly distorted even though amplifier show incredibly good
+distortion performance steadystate signal essentiallyrationale existence transient intermodulation
+distortion amplifier exhaustively discussed debated
+late much sproponents feedback
+refute saying feedback delay short order
+represents frequency vastly outside bandwidthsystem effect inaudible even present
+amplifier respond high frequency signals
+
+argument caused controversy many year ledsort interesting designssuch feedforward amplifier digital signal many cellsite basestation transmitterprecompensated radio amplifier distortion fact remains
+majority modern amplifier use considerable amountfeedback though many highend audiophile design seekminimise
+whatever merit argument effect waveform
+distortion feedback also affect output impedance amplifier
+therefore damping factor roughly speaking damping factor
+measure ability amplifier control speaker
+thing equal greater amount feedbacklower output impedance higher damping factoreffect low frequency performance many speaker systems
+low damping factor lead irregular bass response
+
+concept feedback used operational amplifier precisely
+define gain bandwidth parameters
+
+practical circuit
+
+purpose illustration practical amplifier circuitdescribed could basis moderatepower audio amplifier
+feature typical though substantially simplified design found
+modern amplifier class pushpull output stage uses
+overall negative feedback bipolar transistor showndesign would also realisable fet valves
+
+imageamplifiercircuitsmallpng
+
+practical amplifier circuit
+
+input signal coupled capacitor basetransistor capacitor allows signal pas blocks
+dc bias voltage established resistor rpreceding circuit affected q form differential
+amplifier amplifier multiplies difference two
+input constant arrangement known longtailed
+pair arrangement used conveniently allow usenegative feedback fed output via r
+negative feedback difference amplifier allowsamplifier compare input actual output amplified
+signal directly fed second stage provides
+amplification signal bias output
+stage q provides load better design would
+probably use form active load constantcurrent
+sink far amplifier operating class output
+pair arranged class pushpull also called complementary
+pair provide majority current amplificationdirectly drive load connected via dcblocking capacitor cdiode provide small amount constant voltage biasoutput pair biasing conducting statecrossover distortion minimised design simple good
+basis practical design automatically stabilisesoperating point since feedback internally operates dcaudio range beyond circuit element would probablyfound real design would roll frequency responseneeded range prevent possibility unwanted oscillation
+also use fixed diode bias shown cause problemdiode electrically thermally matchedoutput transistorsif output transistor turn mucheasily overheat destroy full currentpower supply limited stage common solutionhelp stabilise output device include emitter resistors
+typically ohm calculating value circuits
+resistor capacitor done based component employedintended use amp
+
+basic radio frequency amplifers using valve see valved amplifiers
+
+class 
+class amplifier conduct thanof input signaldistortion output high efficiency tocanreached application tolerate distortionmegaphone much common application class amplifierrf transmitter distortion vastly reduced using
+tuned load amplifier stage input signal used roughly
+switch amplifying device cause pulse current
+flow tuned circuit tuned circuit resonate
+particular frequency unwanted frequencydramatically suppressed wanted full signal sine waveabstracted tuned load provided transmitter required
+operate wide band frequency arrangement works
+extremely well residual harmonic removed using filter
+
+imageelectronicamplifierclasscpng
+
+class amplifier
+
+class
+class amplifier power amplifier power deviceoperated onoff mode output stage used pulse
+generator example class amplifier mostly though term
+applies device intended reproduce signal bandwidth well
+switching frequency amplifier use pulse width
+modulation pulse density modulation sometimes referred pulse
+frequency modulation advanced form modulation sigma
+delta modulation see example analog device classd audio
+power amplifier input signal converted sequence pulses
+whose averaged value directly proportional amplitudesignal time frequency pulse typically tentime highest frequency interest input signaloutput amplifier contains unwanted spectral components
+ie pulse frequency harmonic must removedpassive filter resulting filtered signal amplified
+replica input
+
+main advantage class amplifier power efficiencyoutput pulse fixed amplitude switching elements
+usually mosfets valve bipolar transistor used
+switched either rather operated linear mode
+mean little power dissipated transistors
+except short interval states
+wasted power low instantaneous power dissipatedtransistor product voltage current onealmost always close zero lower loss permit use
+smaller heat sink power supply requirement lessened
+
+class amplifier controlled either analog digital
+circuit digital controller introduces additional distortion called
+quantisation error caused conversion input signaldigital value
+
+class amplifier widely used control motor almost
+exclusively small motor also used audio
+amplifier relative difficulty achieving good audio quality
+mean vast majority appear application qualityfactor miniature audio system dvdreceivers high
+quality class audio amplifier however starting appear
+market even outperform classical designs
+recently several manufacturer offering built module readyintegrated audio system early prolific area application
+highpowered highfidelity subwoofer amplifier carsubwoofer generally limited bandwidth higher 
+hz switch speed amplifier doe highfull range amplifier become inexpensive true
+kw power output usd retail
+efficiency thetorange
+
+doe stand digital
+
+letter used designate type amplifier simplynext letter doe stand digital class class
+e amplifier sometimes mistakenly described digitaloutput waveform superficially resembles pulsetrain digital
+symbol class amplifier merely convert input waveformcontinuously pulsewidth modulated square wave analog signaldigital waveform would pulsecode modulated
+
+specialty classes
+
+class 
+class amplifier highly efficient switching power
+amplifier typically used radio frequency main concept used
+amplifier model active switching devicetransistor mosfet linear combination two partsa
+theoretical perfect switching element anda complex networkparasitic element attached capacitor inductorresistor decomposition becomes trivial eliminate
+loss part
+
+perfect switching element switchedzerovoltage crossing switched zerocurrent
+crossing thus switching element either conduct currentnonzero voltage never timedissipated power equal current voltage becomes zero
+arranged adjusting phase capacitor bias
+resistor signal going transistor input
+
+imaginary part impedance parasitic elementtuned one one matching another passive elementcomplex conjugate impedance thus leaving real partcomplex impedance
+
+theory remaining loss real part impedanceparasitic element system cannot avoidedclass amplifier unique radio frequency rangeamplifier analysis usually done frequency domainvoltagecurrent domain class divided subclasses
+depending harmonic signal taken account
+zerovoltage switching zvs zerocurrent switching zcs
+name class efodd class still
+active area research new variant appear time time
+usually letter f somewhere class name
+
+figure show schematic classef amplifier uses
+principle achieve high efficiency
+
+imageclassejpg
+
+class amplifier
+
+switch periodically opened closed frequencyoperation usually always switching duty ratio 
+rf choke comparatively large inductance effectfunction constant current source passive device valuechosen following condition satisfied simultaneously
+voltage across switch instant closing zero
+time derivative voltage across switch zeroswitch turn moreover c form resonating filterfrequency operation
+
+practical implementation transistor substituted switch
+operated either saturation cutofftheoretical efficiency classe amplifier iswith ideal
+component however practical circuit exhibit numberweakness make thanefficient effects
+include finite switching speed finite onresistance nonzero
+saturation voltage transistor well lossy passive
+component high frequency typical efficiency aboutatoperating frequency ofghz
+
+amplifier class specially designed amplificationsquare wave used transmit data purely digital
+form square wave pulse special need duefrequency characteristic since require faithful reproduction
+high frequency present leading trailing
+edge without adding artifact ringing overshootamplification process consideration must made well lower
+frequency component introduced switching levelimpedance output load often formtransmission line
+
+class amplifier invented inby nathan sokal alan
+sokal detail first published insome earlier
+report operating class published russian
+
+class 
+class amplifier efficient version class amplifiers
+use rail switching decrease power consumption increase
+efficiency amplifier several power rail different
+voltage switch rail signal output approaches
+thus amp increase efficiency reducing wasted power
+output transistors
+
+class 
+classh amplifier mostly featuretiersalso known different
+supply voltage level rail vastly differentclassg classh amplifier rail actually switched
+finite time square shaped waveform usually known packet
+envelopein accordance pwm reference obtained analog
+signalfrom lower tier upper voltage level exceedsthreshold
+
+classes
+
+several audio amplifier manufacturer started inventing new
+class way differentiate class name usually
+reflect revolutionary amplification technique used
+mostly marketing purpose easily determinedfact class name trademarked copyrighted example
+crown itech series well several model utilise
+crown patented classi bca technology lab gruppen use formclass amplifier called class tracked class trackwaveform accurately amplify without drawbacktraditional class amplifiers
+
+class trademark tripath company manufacture audio
+amplifier new class revision common classamplifier change ensure fidelity full audio
+spectrum unlike traditional class design operatesfrequency khz proprietary modulator class ztrademark zetex semiconductor direct digital feedback
+technology
+

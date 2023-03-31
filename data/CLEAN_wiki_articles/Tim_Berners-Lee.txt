@@ -1,0 +1,95 @@
+copyright
+
+tim bernerslee
+
+ school wikipedia selection related subject computing people
+
+sir timothy john tim bernerslee kbe born junein london
+england inventor world wide web directorworld wide web consortium oversees continued development
+informally technical circle sometimes called timbltbl
+
+background early career
+
+bernerslee born london england son conway bernerslee
+mary lee wood parent mathematician employed
+together team built manchester mark oneearliest computer taught bernerslee use mathematics
+everywhere even dinner table bernerslee attended sheen mount
+primary school dedicated new hall honourmoving study olevels alevels emanuel schoolwandsworth learned computer science alumnusqueen college played tiddlywinks oxford rival
+cambridge oxford university dedicated computer roomhonour built computer soldering iron ttl
+gate processor old television oxfordwa caught hacking friend subsequently banned using
+university computer
+
+wa employed plessey control limited poole whose main
+business traffic light inas programmer met first
+wife jane oxford married soon started work
+poole jane also worked plessey telecommunication limitedpoole inhe worked nash limited also poolewrote typesetting software operating system
+
+world wide web
+
+nextcube used bernerslee cern became first web
+server
+enlarge
+nextcube used bernerslee cern became first web
+server
+
+independent contractor cern june december 
+bernerslee proposed project based concept hypertextfacilitate sharing updating information among researcherbuilt prototype system named enquire
+
+leaving cern work john pooles image computer
+system ltd returned inas fellow incern walargest internet node europe bernerslee saw opportunityjoin hypertext internet take hypertext
+idea connect tcp dns idea andtadathe world
+wide webhe wrote initial proposal march ofandhelp robert cailliau produced revisionaccepted manager mike sendall used similar ideaunderlying enquire system create world wide webdesigned built first web browser editor called
+worldwideweb developed nextstep first web server called
+httpd short hypertext transfer protocol daemon
+
+first web site built httpinfocernch first put
+online augustit provided explanationworld wide web one could browser set web
+server also world first web directory since bernerslee
+maintained list web site apart
+inbernerslee founded world wide web consortium wcmassachusetts institute technology comprised various companies
+willing create standard recommendation improve quality
+web decemberhe accepted chair computer scienceschool electronics computer science universitysouthampton working new projectthe
+semantic web
+
+bernerslee made idea available freely patentroyalty due world wide web consortium decidedstandard must based royaltyfree technologyeasily adopted anyone
+
+weaving web
+
+bernerslees book weaving web several recurring themeapparent
+important able edit web browse 
+wiki step direction although bernerslee considersmerely shadow wysiwyg functionality first browser
+computer used background task enable humanwork better groups
+every aspect internet function web ratherhierarchy notable current exception domain name system
+domain naming rule managed icann
+computer scientist moral responsibility welltechnical responsibility
+
+recognition
+
+university southampton first recognise
+bernerslees contribution developing world wide webhonorary degree inand currently hold chair computer
+science school electronics computer sciencefirst holder com founder chair mit alsosenior research scientist distinguished fellowbritish computer society honorary fellow institution
+electrical engineer member american academyart sciences
+inhe made officer order british empire
+became fellow royal society inand receivedjapan prize ininhe received principe asturias
+award category scientific technical researchshared prize lawrence robert robert kahn vinton
+cerf also inthe british public named among 
+greatest briton time according bbc poll spanningentire history nation
+aprilhe named first recipient finlands
+millennium technology prize inventing world wide webcash prize worth one million euro aboutor usd
+million awarded junein helsinki finland president
+republic finland tarja halonen
+wa given rank knight commander secondhighest rank
+order british empire queen elizabeth part
+new year honour july
+julyhe presented degree doctorsciencehonoris causa lancaster university
+januaryhe named greatest briton offorachievement well displaying key english characteristics
+diffidence determination sharp sense humouradaptability put david hemplemanadams panel member time
+magazine included bernerslee list themost
+influential people century published 
+
+works
+
+bernerslee tim mark fischettiweaving web origins
+future world wide web britain orion business isbn
+
+

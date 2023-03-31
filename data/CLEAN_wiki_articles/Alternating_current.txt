@@ -1,0 +1,215 @@
+copyright
+
+alternating current
+
+ school wikipedia selection related subject engineering
+
+city light viewed motion blurred exposure blinking causes
+line dotted rather continuous
+enlarge
+city light viewed motion blurred exposure blinking causes
+line dotted rather continuous
+
+alternating current electrical current whose magnitude
+direction vary cyclically opposed direct current whose
+direction remains constant usual waveform power circuit
+sine wave result efficient transmissionenergy however certain application different waveform used
+triangular square waves
+
+used generically refers form electricitydelivered business residence however audio radio
+signal carried electrical wire also example alternating
+current application important goal often recovery
+information encoded modulated onto signal
+
+history
+
+william stanley designed one first practical devicetransfer power efficiently isolated circuit using paircoil wound common iron core design called induction
+coil early precursor modern transformer system used
+today devised many contributor including nikola tesla george
+westinghouse lucien gaulard john dixon gibbs oliver shallenger
+fromtoac system overcame limitation direct
+current system used thomas edison distribute electricity
+
+first longdistance transmission alternating current took place
+innear telluride colorado followed month latergermany thomas edison strongly advocated use direct current
+dc many patent technology eventually
+alternating current came general use see war currents
+
+first modern commercial power plant using threephase alternating
+current mill creek hydroelectric plant near redlands
+california inits designer almirian decker brilliant young
+engineer decker innovative design incorporatedvolt three
+phase transmission established standard complete
+system generation transmission motor used todayuse alternating current charles proteus steinmetz general
+electric able solve many problem associatedelectricity generation transmission
+
+transmission distribution domestic power supply
+
+ac voltage stepped transformer different
+voltage modern highvoltage direct current electric power
+transmission system contrast common alternatingcurrent
+system mean bulk transmission electrical powerlong distance however tend expensive less
+efficient transformer exist edison
+westinghouse tesla designing power systems
+
+use higher voltage lead significantly efficient
+transmission power power loss conductor productsquare current resistance conductor
+described formula cdot rthis meantransmitting fixed power given wire current doubled
+power loss four time greater since power transmitted
+equal product current voltage cosinephase differencepivcos amount powertransmitted lower current increasing voltage therefore
+advantageous transmitting large amount powerdistribute power high voltage often hundred kilovolts
+however high voltage also disadvantage main oneincreased insulation required generally increased difficultysafe handling power plant power generatedconvenient voltage design generator steppedhigh voltage transmission near load transmission
+voltage stepped voltage used equipment consumer
+voltage vary depending country size load generally
+motor lighting built use hundred voltphases
+
+threephase electrical generation common three separate coils
+generator stator physically offset angle ofto
+three current waveform produced equalmagnitude andout phase
+load threephase system balanced equallyphase current flow neutral point evenworstcase unbalanced linear load neutral currentexceed highest phase current threephase low
+normal main voltage fourwire system normally usedstepping threephase transformer delta primarystar secondary often used need neutralsupply side
+
+smaller customer small varies country ageinstallation single phase neutral two phaseneutral taken property larger installation three
+phase neutral taken main distribution panelthreephase main panel single threephase circuit may
+lead
+threewire single phase system single centretapped
+transformer giving two live conductor common distribution scheme
+residential small commercial building north americasimilar method used different reason construction siteuk small power tool lighting supposed suppliedlocal centretapped transformer voltage vpower conductor earth significantly reduces riskelectric shock event one live conductor becomes
+exposed equipment fault whilst still allowing reasonable
+voltage running tools
+
+third wire often connected noncurrent carrying metal
+enclosure earth ground conductor provides protectionelectrical shock due accidental contact circuit conductorcase portable appliance tool
+
+ac power supply frequencies
+
+frequency electrical system varies country electric
+power generated eitherorhz see list countrymain power plug voltage frequency countrymixture ofhz andhz supply notably japan
+
+low frequency eas design low speed electric motors
+particularly hoisting crushing rolling applicationcommutatortype traction motor application railwayalso cause noticeable flicker incandescent lightingobjectionable flicker fluorescent lampshz power approxof
+main frequency still used european rail systemaustria germany norway sweden switzerland
+
+offshore textile industry marine computer mainframe aircraftspacecraft application sometimes usehz benefit reduced
+weight apparatus higher motor speeds
+
+effect high frequencies
+
+direct constant current flow uniformly throughoutcrosssection uniform wire carry alternating
+current frequency current forced towards outer
+surface wire away centre due fact
+electric charge accelerates casealternating current radiates electromagnetic wave materialhigh conductivity metal make wire allow
+propagation electromagnetic wave phenomenon called skin
+effect
+
+high frequency current longer flow wireeffectively flow surface wire within thicknessskin depth skin depth thickness current
+density reduced byeven relatively low frequency usedhigh power transmissionhz nonuniform distribution current
+still occurs sufficiently thick conductor example skin
+depth copper conductor approximatelymm athz high
+current conductor usually hollow reduce mass cost
+
+since current tends flow periphery conductoreffective crosssection conductor reduced increaseeffective resistance conductor since resistance inversely
+proportional crosssectional area current actually
+flow resistance often many time higher resistance causing much higher energy loss due ohmic heating
+also called loss
+
+technique reducing resistance
+
+low medium frequency conductor divided stranded
+wire insulated one individual strands
+specially arranged change relative position withinconductor bundle wire constructed using technique called litz
+wire measure help partially mitigate skin effect forcing
+equal current flow throughout total cross sectionstranded conductor litz wire used making high inductors
+reducing loss flexible conductor carrying high currentpower frequency winding device carrying higher radio
+frequency current hundred kilohertz switchmode
+power supply radio frequency transformers
+
+technique reducing radiation loss
+
+written alternating current made electric charge
+periodic acceleration cause radiation electromagnetic
+wave energy radiated represents loss dependingfrequency different technique used minimize loss dueradiation
+
+twisted pairs
+
+frequency aboutghz wire paired together cabling
+form twisted pair order reduce loss due electromagnetic
+radiation inductive coupling twisted pair must usedbalanced signalling system two wire carry equalopposite current result wire twisted pair
+radiates signal effectively cancelled wire
+resulting almost electromagnetic radiation
+
+coax cables
+
+frequency aboveghz unshielded wire practical dimensions
+lose much energy radiation coaxial cable used instead
+coaxial cable conductive wire inside conductive tubecurrent flowing inner conductor equal oppositecurrent flowing inner surface outer tube causeelectromagnetic field completely contained within tubeideally energy radiated coupled outside tube coaxial
+cable acceptably small loss frequency aboutghz
+microwave frequency greater thanghz dielectric losses
+due mainly dissipation factor dielectric layerseparate inner wire outer tube become large making
+waveguide efficient medium transmitting energy
+
+waveguides
+
+waveguide similar coax cable consist tubebiggest difference waveguide inner conductor
+waveguide arbitrary cross section rectangular cross
+section common waveguide energy longer
+carried electric current guided electromagnetic field
+waveguide dimension comparable wavelengthalternating current transmitted feasiblemicrowave frequencies
+
+fibre optics
+
+frequency greater thanghz waveguide dimension become
+impractically small ohmic loss waveguide walls
+become large instead fibre optic form dielectric
+waveguide used frequency concept voltages
+current longer used
+
+mathematics voltages
+
+sine wave one cyclethe dashed line represents root
+mean square rms value
+enlarge
+sine wave one cyclethe dashed line represents root
+mean square rms value
+
+alternating current accompanied alternating voltage voltage described mathematically function timefollowing equation
+
+vtvmathrmpeakcdotsinomega 
+
+vpeak peak voltage unit volt
+angular frequency unit radian per second
+angular frequency related physical frequency represents number oscilations per second unit 
+hertz equationpi 
+time unit second
+
+peaktopeak value voltage defined difference
+positive peak negative peak since maximum
+value sinx isand minimum value isan voltage swings
+vpeak vpeak peaktopeak voltage usually
+written vpp vpp therefore vpeakvpeak
+vpeak
+
+ac voltage usually expressed root mean square rms value
+written vrms sinusoidal voltage
+
+vmathrmrmsfracvmathrmpeaksqrt
+
+vrms useful calculating power consumed load voltage vdc delivers certain power given loadac voltage vpeak deliver average power pload vrmsvdc fact rms normal
+mean measuring voltage
+
+example
+
+illustrate concept consider ac main supplycalled rms value least nominallyvmean heating effect asv workpeak voltage amplitude modify equation
+vmathrmpeaksqrt vmathrmrms
+
+ourv peak voltage vpeak thereforev
+aboutv peaktopeak value vpp thev main even highervor aboutv
+
+note nonsinusoidal waveform different relationship
+peak magnitude effective rms valuepractical significance working nonlinear circuit elements
+produce harmonic current rectifiers
+
+european union including ha officially harmonizedsupply ofvhz however made tolerance band wide
+atsome country actually specify stricter standardexample specifiesvmost supply old
+standard therefore conform new one needchanged
+

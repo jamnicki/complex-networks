@@ -1,0 +1,579 @@
+copyright
+
+insulin
+
+ school wikipedia selection related subject health medicine
+
+insulin
+
+insulin crystals
+name insulin
+genetic data
+locus chrp
+gene code hugo code ins
+gene type protein coding
+protein structurefunction
+molecular weightda
+structure solution structure human proinsulin polypeptide
+protein type insulin family
+function glucose regulation
+domain domain
+motif motif
+taxon expressing homo sapiens homologs metazoan taxoninvertebrate mammals
+cell type pancreas beta cell islet langerhans
+subcellular localization extracellular fluids
+covalent modification glycation proteolytic cleavage
+pathway insulin signaling pathwaykegg type diabetes
+mellituskegg type diabetes mellituskegg maturity onset
+diabetes youngkegg regulation actin cytoskeletonkegg
+receptorligand data
+antagonist glucagon steroid stress hormomes
+medicalbiotechnological data
+disease familial hyperproinsulinemia diabetes mellitus
+pharmaceutical insulinhumulin novolin insulin lisprohumalog
+insulin aspartnovolog insulin detemirlevemir insulin glargine
+lantus etc
+database links
+code entrezgenemendelian inheritance man omim 
+uniprot refseq 
+insulin latin insula island produced islets
+langerhans pancreas polypeptide hormone regulates
+carbohydrate metabolism apart primary effectorcarbohydrate homeostasis effect fat metabolismchange liver ability release fat store insulins
+concentration extremely widespread effect throughout body
+
+insulin used medically form diabetes mellitus patients
+typediabetes mellitus depend exogenous insulin commonly
+injected subcutaneously survival absolute
+deficiency hormone patient typediabetes mellituseither relatively low insulin production insulin resistancenontrivial fraction typediabetics eventually require
+insulin administration medication become inadequatecontrolling blood glucose levels
+
+insulin molecular weight ofda molecular formula
+chnos
+
+insulin structure varies slightly specie animalcarbohydrate metabolism regulatory function strength human also
+varies porcine pig insulin particularly close humans
+
+discovery characterization
+
+inpaul langerhans medical student berlin studyingstructure pancreas microscope noticedpreviouslyunidentified cell scattered exocrine tissuefunction little heap cell later known isletlangerhans unknown edouard laguesse later arguedmay produce secretion play regulatory role digestion
+
+inthe polishgerman physician oscar minkowski collaboration
+joseph von mehring removed pancreas healthy dogdemonstrate assumed role digestion several daydog pancreas removed minkowski animal keeper noticed swarm
+fly feeding dog urine testing urine found
+wa sugar dog urine demonstrating first
+time relationship pancreas diabetes 
+another major step taken eugene opie clearly
+established link islet langerhans diabetes
+diabetes mellitus caused destruction isletlangerhans occurs body part wholly
+destroyed demonstration link pancreasdiabetes clear specific role islets
+structure insulin lefthand side spacefilling model
+insulin monomer believed biologically active carbongreen hydrogen white oxygen red nitrogen blue righthand
+side cartoon hexamer believed stored formmonomer unit highlighted chain blue chaincyan yellow denotes disulfide bond magenta sphere zinc
+ions
+enlarge
+structure insulin lefthand side spacefilling model
+insulin monomer believed biologically active carbongreen hydrogen white oxygen red nitrogen blue righthand
+side cartoon hexamer believed stored formmonomer unit highlighted chain blue chaincyan yellow denotes disulfide bond magenta sphere zinc
+ions
+
+next two decade several attempt made isolatesecretion islet potential treatment ingeorge ludwig
+zuelzer partially successful treating dog pancreatic extract
+wa unable continue work betweenandel scott
+university chicago used aqueous pancreatic extract noted
+slight diminution glycosuria unable convincedirector research shut israel kleiner demonstrated
+similar effect rockefeller university inbut workinterrupted world war unable return nicolae
+paulescu professor physiology romanian school medicine
+published similar work inthat carried francepatented romania argued ever sincerightful discoverer
+
+however nobel prize committee incredited practical
+extraction insulin team university torontooctoberfrederick banting reading one minkowski papers
+concluded digestive secretion minkowski
+originally studied breaking secretion thereby
+making impossible extract successfully jotted noteligate pancreatic duct dog keep dog alive till acini
+degenerate leaving islet try isolate internal secretionrelieve glycosurea
+
+travelled toronto meet jjr macleod waentirely impressed idea nevertheless supplied banting
+lab university assistant medical student charles
+best ten dog left vacation summermethod tying ligature string around pancreatic
+duct examined several week later pancreatic digestive
+cell died absorbed immune system leaving
+thousand islet isolated protein islets
+produce called isletin banting best ablekeep pancreatectomized dog alive summer
+computergenerated image insulin hexamers highlighting threefold
+symmetry zinc ion holding together histidine residues
+involved zinc binding enlarge
+computergenerated image insulin hexamers highlighting threefold
+symmetry zinc ion holding together histidine residues
+involved zinc binding
+
+macleod saw value research return europedemanded rerun prove method actually worked several weeks
+later clear second run also success helped
+publish result privately toronto november howeverneeded six week extract isletin dramatically slowing testing
+banting suggested try use fetal calf pancreasyet developed digestive gland relieved findmethod worked well supply problem solved next major
+effort purify protein decembermacleod invitedbiochemist james collip help task within monthfelt ready test
+
+januaryleonard thompson fourteenyearold diabetic
+wa given first injection insulin however extract waimpure suffered severe allergic reactioninjection canceled nextdays collip worked daynight improve extract second dose injected wa completely successful obvious
+sideeffects completely eliminating symptom diabetes
+however banting best never worked well collip regardingsomething interloper collip left soon
+spring ofbest managed improve techniquepoint large quantity insulin could extracted demand
+extract remained impure however approachedeli lilly company offer help shortly first
+publication inand took lilly offer aprilnovember lilly made major breakthrough able produce
+large quantity pure insulin insulin offered sale shortly
+thereafter
+
+nobel prizes
+
+macleod banting awarded nobel prize physiologymedicine infor discovery insulin banting insulted
+best mentioned shared prize bestmacleod immediately shared collip patent insulin
+wa sold university toronto one dollar
+exact sequence amino acid comprising insulin molecule
+socalled primary structure determined british
+molecular biologist frederick sanger first proteinstructure completely determined awardednobel prize chemistry 
+inafter decade work dorothy crowfoot hodgkin determined
+spatial conformation molecule mean xray
+diffraction study awarded nobel prizechemistry infor development crystallography
+rosalyn sussman yalow received thenobel prize medicinedevelopment radioimmunoassay insulin
+
+structure production
+
+insulin undergoes extensive posttranslational modification alongproduction pathway production secretion largely independent
+prepared insulin stored awaiting secretion cpeptidemature insulin biologically active cell component proteinimage scale
+enlarge
+insulin undergoes extensive posttranslational modification alongproduction pathway production secretion largely independent
+prepared insulin stored awaiting secretion cpeptidemature insulin biologically active cell component proteinimage scale
+
+insulin highly conserved across animal kingdomancient molecule elegans nematode worm insulinmuch way vertebrate within vertebrate simularityinsulin close bovine insulin differs human three
+amino acid residue porcine insulin one even insulinspecie fish similiar enough human effective humans
+
+mammal insulin synthesized pancreas within beta
+cell cell islet langerhans one three million
+islet langerhans pancreatic islet form endocrine partpancreas primarily exocrine gland endocrine portion
+account forof total mass pancreas withinislet langerhans beta cell constituteof cells
+
+beta cell insulin synthesized proinsulin precursor
+molecule action proteolytic enzyme known prohormone
+convertases pc well exoprotease carboxypeptidase
+e modification proinsulin remove centre portionmolecule cpeptide n terminal endproinsulin remaining polypeptidesamino acid totalb chain bound together disulfide bond confusingly
+primary sequence proinsulin order bca since chain identified basis mass peptide
+wa discovered others
+
+action cellular metabolic level
+
+effect insulin glucose uptake metabolism insulin bindreceptorwhich turn start many protein activation cascades
+include translocation glut transporter plasma
+membrane influx glucoseglycogen synthesisglycolysis
+fatty acid synthesis 
+enlarge
+effect insulin glucose uptake metabolism insulin bindreceptorwhich turn start many protein activation cascades
+include translocation glut transporter plasma
+membrane influx glucoseglycogen synthesisglycolysis
+fatty acid synthesis 
+
+action insulin global human metabolism level include
+control cellular intake certain substance prominently
+glucose muscle adipose tissue aboutof body cells
+increase dna replication protein synthesis via controlamino acid uptake
+modification activity numerous enzymesallosteric
+effect
+
+action insulin cell include
+increased glycogen synthesisinsulin force storage glucoseliver muscle cell form glycogen lowered levelinsulin cause liver cell convert glycogen glucoseexcrete blood clinical action insulin
+directly useful reducing high blood glucose leveldiabetes
+increased fatty acid synthesisinsulin force fat cell take
+blood lipid converted triglyceride lackinsulin cause reverse
+increased esterification fatty acidsforces adipose tissuemake fat triglyceride fatty acid ester lackinsulin cause reverse
+decreased proteinolysisforces reduction protein degradation
+lack insulin increase protein degradation
+decreased lipolysisforces reduction conversion fat cell
+lipid store blood fatty acid lack insulin causereverse
+decreased gluconeogenesisdecreases production glucosevarious substrate liver lack insulin cause glucose
+production assorted substrate liver elsewhere
+increased amino acid uptakeforces cell absorb circulating
+amino acid lack insulin inhibits absorption
+increased potassium uptakeforces cell absorb serum
+potassium lack insulin inhibits absorption
+arterial muscle toneforces arterial wall muscle relax
+increasing blood flow especially micro artery lackinsulin reduces flow allowing muscle contract
+
+regulatory action blood glucose
+
+despite long interval meal occasional consumptionmeal substantial carbohydrate load half birthday cake
+bag potato chip human blood glucose level normally remain
+within narrow range human varies aboutmgdl
+perhapsmgdltommollitre except shortlyeating blood glucose level rise temporarily homeostatic
+effect result many factor hormone regulationimportant
+
+usually surprise realize little glucose actually
+maintained blood body fluid control mechanism works
+small quantity healthy adult male ofkg blood
+volume oflitres blood glucose level ofmgdl ormmoll
+corresponds aboutgounce glucose bloodapproximatelygounces total body water obviously
+includes merely blood usually aboutoftotal body weight men familiar comparison may help
+gram glucose equivalent commercial sugar packetprovided many restaurant coffee tea
+
+two type mutually antagonistic metabolic hormones
+affecting blood glucose levels
+catabolic hormone glucagon growth hormonecatecholamine increase blood glucose
+one anabolic hormone insulin decrease blood glucose
+
+mechanism restore satisfactory blood glucose levelhypoglycemia must quick effective immediate
+serious consequence insufficient glucose extreme coma
+le immediately dangerously confusion unsteadiness amongst many
+effect least short term far
+dangerous little glucose blood much
+healthy individual mechanism indeed generally efficient
+symptomatic hypoglycemia generally found diabetic using
+insulin pharmacologic treatment hypoglycemic episodes
+vary greatly person time time severity
+swiftness onset severe case prompt medical assistanceessential damage brain tissue even deathresult sufficiently low blood glucose levels
+mechanism glucose dependent insulin release
+enlarge
+mechanism glucose dependent insulin release
+
+beta cell islet langerhans sensitive variationblood glucose level following mechanism see figureright
+glucose enters beta cell glucose transporter glut
+glucose glycolysis respiratory cyclemultiple highenergy atp molecule produced oxidation
+dependent blood glucose level hence atp level atp
+controlled potassium channel close cell membranes
+depolarize
+depolarisation voltage controlled calcium channel open
+calcium flow cells
+increased calcium level cause activation phospholipase cleaves membrane phospholipid phosphatidyl inositol
+bisphosphate inositol triphosphatediacylglycerol
+inositol triphosphate bind receptor proteinmembrane endoplasmic reticulum allows releaseca via gated channel raisecell concentration calcium
+significantly increased amount calcium cell causes
+release previously synthesised insulin storedsecretory vesicles
+calcium level also regulates expression insulin gene via
+calcium responsive element binding proteincreb
+
+main mechanism release insulin regulationinsulin synthesis addition insulin synthesis release takes
+place generally food intake glucose carbohydrate
+intake beta cell also somewhat influencedautonomic nervous system signalling mechanism controllingfully understood
+
+substance known stimulate insulin releaseacetylcholine released vagus nerve endingsparasympathetic
+nervous system cholecystokinin released enteroendocrine cellintestinal mucosa gastrointestinal inhibitory peptide gipfirst act similarly glucose phospholipase clast act mechanism adenylate cyclase
+
+sympathetic nervous system via adrenergic agonistnorepinephrine inhibits release insulin
+
+glucose level come usual physiologic value
+insulin release beta cell slows stop blood glucose
+level drop lower especially dangerously low levels
+release hyperglycemic hormone prominently glucagon islet
+langerhans alpha cell force release glucose blood
+cellular store primarily liver cell store glycogen release
+insulin strongly inhibited stress hormone norepinephrine
+noradrenaline lead increased blood glucose levelstress
+
+signal transduction
+
+special transporter protein cell membraneglucose blood enter cell transporterindirectly insulin control certain body cell type muscle cell low level circulating insulin absenceprevent glucose entering cell untreated type 
+diabetes however commonly decreasesensitivity cell insulin reduced insulin sensitivity
+characteristic typediabetes resulting decreased glucose
+absorption either case cell starvation weight loss
+sometimes extreme case defect releaseinsulin pancreas either way effectcharacteristically elevated blood glucose levels
+
+activation insulin receptor lead internal cellular mechanisms
+directly affect glucose uptake regulating numberoperation protein molecule cell membrane transport
+glucose cell gene specify protein make
+insulin receptor cell membrane identifiedstructure interior cell membrane section finally
+decade extramembrane structure receptor
+australian researcher announced work 
+
+two type tissue strongly influenced insulin farstimulation glucose uptake concerned muscle cell 
+myocytes fat cellsadipocytes former importantcentral role movement breathing circulation etclatter accumulate excess food energy future needs
+together account aboutof cell typical human
+body
+
+hypoglycemia
+
+although cell use fuel prominently
+fatty acid neuron depend glucose source energynonstarving human require insulin absorb glucose
+unlike muscle adipose tissue small internal
+store glycogen glycogen stored liver cell unlike glycogen
+stored muscle cell converted glucose releasedblood glucose digestion low absentglycerol backbone triglyceride also used produce blood
+glucose exhaustion source either temporarilysustained basis reducing blood glucose sufficiently low level
+first dramatically manifest impaired functioningcentral nervous systemdizziness speech problem even lossconsciousness unknown known hypoglycemiacase producing unconsciousness hypoglycemic coma formerly termed
+insulin shock common causative agent endogenous
+cause insulin excess insulinoma rareoverwhelming majority hypoglycemia case caused human action
+eg iatrogenic caused medicine usually accidental
+reported case murder attempted murdersuicide using insulin overdoses insulin shock appeardue mismanagement insulin didnt eat much anticipatedexercised expected mistake egunits insulin
+instead 
+
+possible cause hypoglycemia include
+oral hypoglycemic agent sulfonylureasimilar drug increase insulin release beta cellresponse particular blood glucose level
+external insulin usually injected subcutaneously
+ingestion lowcarbohydrate sugar substitute animal studies
+show trigger insulin release according reportdiscover magazine augustp
+
+disease syndromes
+
+several condition insulin disturbancepathologic
+diabetes mellitusgeneral term referring states
+characterized hyperglycemia
+typeautoimmunemediated destruction insulin producing
+beta cell pancreas resulting absolute insulin
+deficiency
+typemultifactoral syndrome combined influencegenetic susceptibility influence environmental factors
+best known obesity age physical inactivity
+resulting insulin resistance cell requiring insulinglucose absorption form diabetes strongly
+inherited
+type impaired glucose tolerance see diabetes
+article
+insulinoma reactive hypoglycemia
+metabolic syndromea precondition first called metabolic syndrome
+x gerald reaven sometimes called prediabetescharacterized elevated blood pressure dyslipidemia
+disturbance blood cholesterol form blood lipids
+increased waist circumference least population much
+developed world basic underlying cause insulin
+resistance diminished capacity insulin responsetissue muscle fat liver respond insulin untreated
+metabolic syndrome lead morbidity essential
+hypertension obesity typediabetes cardiovascular disease
+cvd
+polycystic ovary syndromea complex syndrome womanreproductive year anovulation androgen excess
+commonly displayed hirsutism many case pcos insulin
+resistance present
+
+medication
+
+principles
+
+insulin absolutely required animal including human life
+mechanism almost identical nematode worm c elegans
+fish mammal human insulin deprivation due removal
+destruction pancreas lead death day weeks
+insulin must administered patient lackhormone reason clinically called
+diabetes mellitus type 
+
+initial source insulin clinical use human cow
+horse pig fish pancreas insulin source effective
+human nearly identical human insulin three amino acid
+difference bovine insulin one amino acid difference porcine
+insulin obviously protein strongly conserved
+across evolutionary time difference suitability beef porkfish insulin preparation particular patient primarily
+result preparation purity allergic reaction assorted
+noninsulin substance remaining preparation purityimproved steadily since allergic reactions
+continued though slowly reducing severity insulin production
+animal pancreas widespread decadepatient today relying insulin sources
+
+human insulin manufactured widespread clinical use using
+genetic engineering technique significantly reduces impurity
+reaction problem eli lilly marketed first insulin humulin
+inhumulin first medication produced using modern genetic
+engineering technique actual human dna insertedhost cell coli case host cell allowedgrow reproduce normally due inserted human dnaproduce actual human insulin
+
+genentech developed technique lilly used produce humulin novo
+nordisk also developed genetically engineered insulin
+independently insulin used clinically produced wayavoid allergic reaction problem
+
+since januaryall insulin distributed ucountry human insulin analog special fda
+importation process required obtain beef pork insulin use
+u though may remaining stock pork insulin
+made lilly inor earlier
+
+mode administration
+
+unlike many medicine insulin cannot taken orally likeprotein gastrointestinal tract reduced amino acid
+component whereupon insulin activity lost research
+underway develop method protecting insulintaken orally none yet reached clinical use instead insulinusually taken subcutaneous injection singleuse syrinxneedle insulin pump repeateduse insulin pen needles
+
+several problem insulin clinical treatmentdiabetes
+mode administration
+selecting right dose timing
+selecting appropriate insulin preparation typically speed
+onset duration action grounds
+adjusting dosage timing fit food amount types
+adjusting dosage timing fit exercise undertaken
+adjusting dosage type timing fit conditioninstance increased stress illness
+dosage nonphysiological subcutaneous bolus dose
+insulin alone administered instead combination insulin
+cpeptide released gradually directly portal
+vein
+simply nuisance patient injectseveral time day
+may dangerous case mistake especiallymuch insulin
+
+attempt improve upon mode administering
+insulin many people find injection awkward painful one
+alternative jet injection also sometimes used vaccinations
+ha different insulin delivery peak duration comparedneedle injection diabetic find control possible jet
+injector hypodermic injection also insulin
+pump various type electrical injector attachedsemipermanently implanted needle catheter cannot
+achieve adequate glucose control conventional injectionsometimes jet injection able appropriate pump
+
+insulin pump reasonable solution howeverlimitationscost potential hypoglycemic episode catheter
+problem far approvable mean controlling insulin
+delivery field based current blood glucose levelmuch insulin delivered patient eats normalhypoglycemia hand little insulindelivered hyperglycemia leadlifethreatening condition addition indwelling catheter poserisk infection ulceration however risk minimized
+keeping catheter site clean thus far insulin pump require care
+effort use correctly however diabetic able keep
+glucose reasonable control pump
+
+researcher produced watchlike device test blood
+glucose level skin administers corrective dosinsulin pore skin electricity ultrasoundfound make skin temporarily porous insulin
+administration aspect remains experimental blood glucose test
+aspect wrist appliance commercially available
+
+another improvement would avoid periodic insulin administration
+selfregulating insulin source instance pancreatic beta
+cell transplantation transplantation entire pancreasindividual organ difficult common generallyperformed conjunction liver kidney transplant however
+transplantation pancreatic beta cell possibilityhighly experimental read prone failure many
+year researcher alberta canada developed
+technique high initial success rate aboutin one group
+beta cell transplant may become practical common near
+future additionally researcher explored possibilitytransplanting genetically engineered nonbeta cell secrete
+insulinclinically testable result far realization several
+nontransplant method automatic insulin deliverydeveloped research lab none close clinical approval
+
+inhaled insulin investigation several insulin
+administration technique currently inhalable insulin
+approved food drug administration exubera inhaled
+insulin shown similar efficacy injected insulin
+term controlling glucose level blood halflifepatient switched injected inhaled insulin significant
+difference found hbac level three month patient showed
+significant weight gain pulmonary function lengthtrial compared baseline however following commercial
+launch ininto ha julybeen
+recommended national institute health clinical excellence
+routine use except case proven injection
+phobia diagnosed psychiatrist psychologist several clinical
+study reported greater patient satisfaction comparedsubcutaneous insulin typeand typediabetes
+
+additional method administration insulin diabeticpulsatile insulin method insulin pulsed patient
+mimicking physiological secretion insulin pancreas
+
+dosage timing
+
+central problem requiring external insulin pickingright dose insulin right timing
+
+physiological regulation blood glucose nondiabetic
+would best increased blood glucose level mealstimulus prompt release insulin pancreas increased
+insulin level cause glucose absorption storage cell reducing
+glycogen glucose conversion reducing blood glucose levelreducing insulin release result blood glucose level
+rise somewhat eating within hour returnnormal fasting level even best diabetic treatment human
+insulin however administered fall short normal glucose controlnondiabetic
+
+complicating matter composition food eaten see
+glycemic index affect intestinal absorption rate glucosefood absorbed rapidly amountglucose food fat protein cause delayabsorption glucose carbohydrate eaten timewell exercise reduces need insulin even factors
+remain since working muscle ability takeglucose without help insulin
+
+principle impossible know certain much insulin
+type needed cover particular meal orderachieve reasonable blood glucose level within hour twoeating nondiabetics beta cell routinely automatically manage
+continual glucose level monitoring insulin releasedecision diabetic must based experience training
+ie direction physician placespecialist diabetic educator specifically basedindividual experience patient straightforwardnever done habit routine care done
+quite successfully practice
+
+example diabetic require insulin drinking skim
+milk taking equivalent amount fat protein
+carbohydrate fluid form particular reaction
+skimmed milk different diabetic amount
+whole milk likely cause still different reaction evenperson whole milk contains considerable fat skimmed milk
+ha much continual balancing act diabetics
+especially taking insulin
+
+insulin dependent diabetic require base level insulin basal
+insulin well extra short acting insulin cope meals
+bolus insulin maintaining basal rate bolus ratecontinuous balancing act insulin diabetic manageday normally achieved regular blood test although
+work undertaken continuous blood sugar testing
+equipment
+
+important notice diabetic generally need insulin
+usualnot lessduring physical stress like infectionsurgeries
+
+types
+
+medical preparation insulin major supplierseli lilly
+novo nordiskor never insulinwater clinical insulin specially prepared mixture insulin
+plus substance delay absorption insulin adjust
+ph solution reduce reaction injection site
+insulin molecule insulin analog slightly modifiedabsorbed rapidly enough mimic real beta cell insulin lillyslispro novo nordisks aspart
+steadily absorbed injection instead peak
+followed rapid decline insulin actionnovo
+nordisk version insulin detemir aventis version insulin
+glargine
+retaining insulin action human body
+
+management choosing insulin type dosagetimingdone experienced medical professional working diabetic
+
+allowing blood glucose level rise though level cause
+acute hyperglycemic symptom sensible choice several large
+well designed long term study conclusively shown diabetic
+complication decrease markedly linearly consistently blood
+glucose level approach normal pattern long period short
+diabetic closely control blood glucose level average
+day week avoiding high peak mealrate diabetic complication glucose levelclosely controlled rate even approach normal chronic
+diabetic complication include cerebrovascular accident cvastroke heart attack blindness proliferative diabetic
+retinopathy vascular damage nerve damage diabetic
+neuropathy kidney failure diabetic nephropathy studies
+demonstrated beyond doubt possible patient
+socalled intensive insulinotherapy superior conventional
+insulinotherapy however close control blood glucose levelintensive insulinotherapy doe require care considerable effort
+hypoglycemia dangerous fatal
+
+good measure long term diabetic control approximately 
+day people serum level glycosylated hemoglobin 
+hbac shorter term integrated measure two weeksocalled fructosamine level measure similarly
+glyclosylated protein chiefly albumin shorter half lifeblood commercial meter available measurelevel field
+
+commonly used type insulinquickacting insulin lisprobegins work withinto
+minute active fortohours
+
+shortacting regular insulinstarts working within 
+minute active abouttohours
+
+intermediateacting nph lente insulinstarts
+working intohours activetohours
+
+longacting ultralente insulinstarts working 
+hour activetohours insulin glargineinsulin detemirboth start working withintohourscontinue active without peak dip abouthours
+
+mixture nph regular insulinstarts working 
+minute activetohours several variations
+different proportion mixed insulins
+
+abuse
+
+report patient abuse insulin injecting larger
+dos lead mild hypoglycemic state extremely
+dangerous severe acute prolonged hypoglycemia result brain
+damage death
+
+julynews report claimed former spouseprominent international track athlete said among drugexspouse used insulin way energizing bodyintended implication would seem insulin effect similar
+alleged steroid eighty yearinsulin use given reason believe could respectperformance enhancer non diabetic improperly treated diabetics
+sure prone others exhaustion tiredness
+case proper administration insulin relievesymptom however insulin chemically clinically steroid
+use non diabetic dangerous always abuse outside
+wellequipped medical facility
+
+game shadow reporter mark fainaruwada lance williams
+includes allegation san francisco giant barry bond used
+insulin apparent belief would increase effectiveness
+growth hormone also alleged taking topnonprescribed insulin banned drug olympicsglobal competitions
+
+timeline
+
+banting best use bovine insulin extract human
+eli lilly produce commercial quantity bovine insulin
+hagedorn found nordisk insulinlaboratorium denmark 
+forerunner novo nordisk
+nordisk receives danish charter produce insulin non
+profit
+canadian scott fisher formulate zinc insulin
+mixture license novo
+hagedorn discovers adding protamine insulin prolongs
+effect insulin
+nordisk formulates isophane porcine insulin aka neutral
+protamine hagedorn nph insulin
+nordisk crystallizes protamine insulin mixture
+nordisk market nph insulin
+novo formulates lente porcine bovine insulin adding
+zinc longer lasting insulin
+purified monocomponent insulin introduced
+genentech produce human insulin escheria coli bacteria
+using recombinant dna
+novo nordisk chemically enzymatically convert bovinehuman insulin
+genentech human insulin approved
+eli lilly produce recombinant human insulin humulin
+axel ullrich sequence human insulin receptor
+novo nordisk produce recombinant human insulin
+lilly humalog lyspro insulin analogue approved
+aventis lantus glargine insulin analogue approvedclinical use
+novo nordisk levemir detemir approved clincal useus
+

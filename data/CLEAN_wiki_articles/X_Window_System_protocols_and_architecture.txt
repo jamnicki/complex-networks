@@ -1,0 +1,316 @@
+copyright
+
+x window system protocol architecture
+
+ school wikipedia selection related subject software
+
+x window system logo
+enlarge
+x window system logo
+
+computing window system commonly xnetworktransparent windowing system bitmap display article
+detail protocol technical structure 
+x clientserver model network transparency
+
+x based clientserver model server program runcomputer graphical display communicates various client
+program server accepts request graphical output windows
+sends back user input keyboard mouse
+
+x window server run user computer clients
+may run different machine reverse common
+configuration clientserver system client runuser computer server run remote computer reversal
+often confuses new user window terminology takeperspective program rather enduser hardware
+remote program connect server display runninglocal machine thus act client local display accepts
+incoming traffic thus act server
+example server take input keyboard mousedisplay screen web browser terminal emulator runuser workstation system updater run remote servercontrolled user machine note remote application
+run would locally
+example server take input keyboard mousedisplay screen web browser terminal emulator runuser workstation system updater run remote servercontrolled user machine note remote application
+run would locally
+
+communication protocol server client runs
+networktransparently client server may runmachine different one possibly different architectureoperating system client server communicate securelyinternet tunneling connection encrypted connection
+
+design principles
+
+bob scheifler jim gettys set early principle xfollows listed scheiflergettys 
+add new functionality unless implementor cannot complete
+real application withoutimportant decide system decideserve world need rather make system
+extensible additional need met upwardly
+compatible fashion
+thing worse generalizing one examplegeneralizing exampleproblem completely understood probably bestprovide solutiongetpercent desired effect forpercentwork use simpler solution see also worse better
+isolate complexity much possible
+provide mechanism rather policy particular place user
+interface policy client hands
+
+first principle modified design xadd new functionality unless know real applicationrequire ha largely kept principle sincereference implementation developed view extensionimprovement implementation whilst remaining almost entirely
+compatible originalprotocol
+
+x window core protocol
+
+communication server client done exchanging packets
+network channel connection established client
+sends first packet server answer sending backpacket stating acceptance refusal connectionrequest authentication connection accepted
+acceptance packet contains data client usesubsequent interaction server
+
+connection established four type packet exchangedclient server channel
+request client request information serverrequest perform action
+reply server responds request request generate
+replies
+event server sends event client keyboardmouse input window moved resized exposed
+error server sends error packet request invalid
+since request queued error packet generated request may
+sent immediately
+
+x server provides set basic service client programs
+realize complex functionality interacting server
+
+windows
+
+possible placement windowsis root windowcover whole screenandare toplevel windowsandare
+subwindows ofthe part window outside parentvisible
+possible placement windowsis root windowcover whole screenandare toplevel windowsandare
+subwindows ofthe part window outside parentvisible
+
+usually called window graphical user interfacetoplevel window window system term window also used
+window lie within another window subwindowsparent window graphical element button menu icon etc
+realized using windows
+
+window created subwindow parent windowmake window arranged tree hierarchyroot hierarchy called root windowautomatically created server toplevel window exactly
+direct subwindows root window visibly root windowlarge screen lie behind windows
+
+identifiers
+
+data window font etc stored server client
+know identifier objectsintegers use nameinteracting server example client wishes
+window created request server create windowgiven identifier server creates window associateidentifier identifier later used clientrequest example string drawn window
+
+identifier unique server clientexample two window identifier even createdtwo different client client access object givenidentifier even object created another client
+
+attribute properties
+
+every window predefined set attribute setproperty stored server accessible client via
+appropriate request attribute data windowsize position background colour etc property piece data
+attached window contrary attribute propertymeaning level window core protocol clientstore arbitrary data property window
+
+property characterized name type value properties
+similar variable imperative programming languageapplication create new property given namegiven type store value property associatedwindow two property name exist two different
+window different type values
+
+property mostly used interclient communication example
+property named wmname used storing name window
+window manager typically read property display namewindow top
+property window shown using xprop programparticular xprop root show property root windowinclude resource parameter programs
+
+events
+
+event packet sent server client communicatesomething client may interested happened clientrequest server send event another client usedcommunication client example client requesttext currently selected event sent clientcurrently handling window hold selection
+
+content window may destroyed conditionexample window covered whenever area destroyed
+content made visible server generates expose event notify
+client part window drawn
+
+event used notify client keyboard mouse inputcreation new window etc
+
+kind event always sent client kind event
+sent client previously stated interestclient may interested kind eventexample client may interested keyboardrelated eventmouserelated events
+
+colour modes
+
+way color handled window system sometimes confuse
+user historically several different mode supported
+modern application use truecolor bit colorbitsred green blue old specialist application may require
+different colour mode many commercial specialist application use
+pseudocolor
+
+x protocol actually single bit unsigned integerrepresenting single colour graphic operation calledpixelvalue transferring primary color intensity abits
+integer used colour component following
+representation color exist may supportedspecific device
+directcolor pixel value decomposed separate red green
+blue subfields subfield index separate colormap
+entry colormaps changed
+truecolor directcolor except colormap
+entry predefined hardware cannot changed
+typically red green blue colormaps provides
+near linear ramp intensity
+grayscale pixel value index single colormap contains
+monochrome intensity colormap entry changed
+staticgray grayscale except colormap
+entry predefined hardware cannot changed
+pseudocolorchunky pixel value index single colormapcontains colour intensity colormap entry changed
+staticcolor pseudocolor except colormap
+entry predefined hardware cannot changed
+
+xlib client libraries
+
+client program communicate server via xlib client
+library particular client use library xaw motif
+gtk turn use xlib interacting server
+
+interclient communication
+
+x window core protocol provides mechanism communication
+client window property event particularclienttoclient message event however doe specifyprotocol interaction protocol instead governedseparate set interclient communication conventions
+
+interclient communication convention manual specifiesprotocol exchange data via selection interactionapplication window manager specification haconsidered difficult confusing consistency application lookfeel communication typically addressed programming given
+desktop environment
+
+interclient exchange protocol ice specifies frameworkbuilding protocol interaction client specific
+protocol built top particular session
+management protocol xsmp protocol based ice mandates
+interaction application session manager
+program take care storing statusdesktop end interactive session recoveringanother session user started
+newer convention included freedesktop specifications
+including draganddrop convention xdnd used transferring data
+selecting dragging another window embedded
+application convention xembed detail applicationrun subwindow another application
+
+selection cut buffer draganddrop
+
+selection cut buffer draganddrop mechanism usedx window system allow user transfer data windowanother selection cut buffer used typically user
+selects text data window paste another one
+draganddrop used user selects something windowclick selection drag another window
+
+since two window may handled two different applications
+data transfer requires two different client connected server interact window core protocol includes typerequest event specific selection exchangetransfer mainly done using general clienttoclient event
+sending window property specific selection
+transfer
+
+data transferred client different typeusually text also pixmap number list objects
+etc
+
+selection draganddrop active mechanism textselected window client handling window must actively
+support protocol transferring data application
+requesting contrary cut buffer passive mechanism
+user selects text content transferred cut
+buffer remains even application handling window
+terminates window destroyed
+
+window manager
+
+window manager program control general appearancewindow graphical element graphical user interface
+difference look window system different installations
+mainly due use different window manager different
+configuration window manager
+
+window manager take care deciding position windows
+placing decorative border around handling icon handling
+mouse click outside window background handling certain
+keystroke example iconifying window altf pressed
+etc
+
+point view server window managerdifferent client initial positiondecorative border around window handled window manager
+using following requests
+application request server satisfy requestmapping showing subwindows given window sentevent instead
+application request changing parent window
+
+window manager first request intercept requestmapping toplevel window child root window whenever
+another application request mapping toplevel windowserver doe sends event window manager instead
+window manager reparents window create larger
+toplevel window called frame window reparent original
+window child graphically corresponds placingoriginal window inside frame window space frame window
+taken original window used decorative
+frame around window border title bar
+
+window manager manages mouse click frame windowallows example move resize window user clicks
+drag border title bar
+
+window manager also responsible handling iconrelated visual element graphical user interface iconexist level window core protocol implemented
+window manager example whenever window haiconified window manager fvwm unmaps window makingvisible creates window icon name possibly another
+window icon image meaning handling icontherefore completely decided window manager window
+manager implement icon
+session manager
+
+roughly state session state desktopgiven time set window current contentprecisely set application managing windowinformation allow application restore conditionmanaged window required session manager program
+save restore state sessions
+
+recognizable effect using session managerpossibility logging interactive session finding
+exactly window state loggingwork session manager program store namerunning application logout start login order
+state application restored wellneeded restore content window application mustable save state execution upon request session
+manager load back start
+x window system include default session manager called xsmsession manager developed specific desktop systemexample ksmserver default session manager kde
+
+x display manager
+
+x display manager program show graphical login
+prompt window system generally display manager runs
+one server local computer accepts incoming
+connection server running remote computer local
+server started display manager connectspresent user login screen remote server started
+independently display manager connectsituation display manager work like graphical telnet serverx server connect display manager start session
+program session run computer display
+manager input output computer server
+run computer front user
+
+xdm basic display manager supplied window system
+display manager include gdm gnome kdmkde wdm usingwing widget set used window maker entrance usingarchitecture used enlightenment 
+user interface elements
+
+early widget toolkits included xaw athena widget set olit
+open look intrinsics toolkit xview motif olit xview
+function base toolkits att sun open look gui
+
+motif provides base toolkit common desktop environment
+cde standard desktop environment used commercial
+unix system solaris hpux gnome offered solaris 
+standard future versions
+
+modern toolkits include used kde gtk used gnome
+wxwidgets fltk fox
+
+extensions
+
+x server designed simple extensible much
+functionality resides extension protocol following
+partial list extension developed sorted
+roughly recency introduction
+aiglx
+composite
+damage
+xfixes
+extendedvisualinformation evie
+dual multihead dmx
+xvmc video motion compensation
+glx
+xrender
+resize rotate randr
+xinerama
+display power management signaling dpms
+xprint
+low bandwidth extension lbx obsolete
+x keyboard extension
+doublebuffer
+record
+ximage extension obsolete
+mitshm
+sync
+xtest
+xinputextension
+bigrequests
+xcmisc
+x video extension also called confused program
+pex obsolete
+shape
+decxtrap
+mitscreensaver
+mitsundrynonstandard
+security
+togcup
+xresource
+xcappgroup
+xfreebigfont
+xfreedga
+xfreemisc
+xfreevidmodeextension
+
+protocol level every extension assigned new
+requesteventerror packet type access client applicationfunctionality provided extension facilitated client
+library coding extension current server
+implementation reportedly difficult due lack modularityserver design long term goal xcb projectautomate generating client server side extensionxml protocol descriptions
+
+retrieved 
+httpenwikipediaorgwikixwindowsystemprotocolsandarchitecture
+
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

@@ -1,0 +1,170 @@
+copyright
+
+control car rail
+
+ school wikipedia selection related subject railway transport
+
+rail transport
+operations
+stations
+trains
+locomotives
+rolling stock
+history
+terminology
+country
+disasters
+
+
+modelling
+
+control car generic term nonpowered railroad vehicleallows operation train end opposite positionlocomotive used diesel electric motive power
+allowing pushpull operation without use additional
+locomotive
+
+train operating locomotive one end control carrequire locomotive run around opposite end
+train reversing direction terminus
+
+generally driver control train timedivision
+multiplexer tdm connection addition driver compartment
+ha control gauge necessary remotely operating
+train locomotive control car horn whistle bellplow appropriate importantly lightwould normally locomotive control car carry passengers
+baggage mail combination thereof
+
+railroad vehicle function control car several different
+name throughout world
+north america
+
+cab car special sort passenger car used pushpull
+operation cab car indistinguishable regular
+passenger car full driver compartment built oneend car
+
+cab car come variety form similarregular railcar point including passageway cars
+could used middle passenger train likeregular car necessary commuter rail agency united
+state routinely use cab car place regular passenger carriages
+trains
+
+mid pushpull operation became commonunited state cabcars came criticism scrutinyproviding protection engine crew grade crossing
+accident addressed two way providing additional
+reinforcing cab car development cabbaggage cabbages
+amtrak cabbage essentially locomotive enginemotor removed large door cut side driver thus
+afforded protection cab unit additional space created
+baggage transportation
+
+coaster cab car san diego wwwtrainwebcom photo
+
+new jersey transit cab car west windsor 
+trirail cab car delray beach florida
+
+pacific surfliner cab car carlsbad 
+united kingdom
+
+driving brake standard open
+
+driving brake standard open dbso type control car usebritain previously specially converted passenger carexpected last dbsos withdrawn mainline service
+mid 
+
+dbsoat norwich
+
+dbso different livery
+
+driving van trailer
+
+driving van trailer dvt modern type control caruse britain purposebuilt model spacebaggage contain guard office dvt developeddbso originally designed used british rail markand coach dvts service gner mkvirgin
+train one anglia mkiarnrod eireann ireland hadesign dvt classified mkand built caf
+
+markdvt norwich station
+
+markdvt leeds station
+
+caf dvt republic ireland 
+
+continental europe
+
+german term steuerwagen translates control car another
+commonlyused translation driving trailer many examples
+type vehicle operation germany switzerlandelsewhere europe
+
+germany
+
+first german attempt use control car remote
+controlequipped steam locomotive second world wardeutsche reichsbahn drg driver control instructiontransmitted chadburntype machine telegraph similar engine
+order telegraph ship control car locomotive
+order acknowledged implemented automatic
+firebox controller immediately indirect control judgedunpractical sufficiently safe although driver
+controlled brake directly danger existed emergencylocomotive would continue supplying push power timepossibly derail train
+
+attempt use electric locomotive beginning converted 
+class model promising since engine driver could control
+locomotive directly test program could finishedsecond world war despite good success war would
+control car operation become generally accepted albeit slowlylocomotive car necessary equipment available
+
+length train consists pushpull operation originally
+limited tocars reason guidance dynamic speed limitkmh also imposed raised intokmhwa operational hindrance since pushpull train generally
+first used commuter train rarely longer six cars
+
+since middle longdistance trainconsist tocars travel speed tokmhoperated control car special circumstance icewhich
+may operate control car lead tokmhrecently built highspeed lines
+
+modern german intercity steuerwagen
+
+ice steuerwagen colognebonn airport
+
+different livery doubledecker german steuerwagen
+
+german interregio livery heidelberg
+
+another version german doubledecker steuerwagen remagen
+
+modern german version older livery
+
+frontal view german model
+
+german commuter train clearly showing locomotive drivingrear
+
+switzerland
+
+swiss control car operate many different configurationseveral model currently service sbahn network wellregional interregio intercity service operatedfederal railway systemsbb well various private railroads
+throughout country including narrow gauge line france
+germany austria liechtenstein italy
+
+among model used second class bdt second class 
+baggage abt firstsecond class baggage model
+also exists doubledeck version ictrainset
+
+oflocomotives used switzerland control cars
+include reand derivative including rethererererbeand rbdeand derivatives
+bls operates several locomotive control cars
+including aererereabdeand rbde 
+
+zentralbahn narrow gauge locomotive operation control cars
+include hgedeand deh 
+
+rhaetian railway rhb matterhorngotthardbahn mgb also use
+several different control car model locomotive fleets
+
+swiss regional train steuerwagen near wil
+
+swiss iv model zrich
+
+older swiss mthb steuerwagen konstanz
+
+doubledecker swiss icsteuerwagen
+
+steuerwagen narrowgauge mgb
+
+doubledecker version used swiss retrainset
+
+swiss npz steuerwagen biel
+
+older mgb example stalden valais
+
+bls iii control former swiss express
+
+modern narrowgauge steuerwagen rhb network
+
+austria
+
+austrian npz steuerwagen montafonerbahn schruns
+
+steuerwagen austrian cityshuttle lower austria

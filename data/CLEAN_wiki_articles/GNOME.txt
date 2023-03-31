@@ -1,0 +1,303 @@
+copyright
+
+gnome
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+caption gnome
+
+gnomescreenshot showing nautilus file manager gedit
+text editor
+developer gnome developers
+latest releasenovember 
+crossplatform
+available language multilingual 
+use desktop environment
+license gnu lesser general public license
+gnu general public license
+website httpwwwgnomeorg
+
+gnome project international effort create easytouse
+computing platform built entirely free software goal
+includes creating tool help developer write new standalone
+application software selecting application inclusionofficial product working known desktop
+environmentthe program manage application launching file
+handling window task management
+
+great deal software created hosted umbrellagnome project collected released gnome gnome
+used conjunction operating system linux sun
+microsystems solaris create fully functional computer system
+
+gnome official desktop gnu project official
+pronunciation name gnom hard although nom
+english wordgnome also common usage
+
+aims
+
+according gnome website
+
+
+gnome
+
+gnome project provides two thing gnome desktop environment
+intuitive attractive desktop user gnome
+development platform extensive framework building applications
+integrate rest desktop
+
+
+gnome
+
+gnome project put heavy emphasis simplicity usabilitymaking thing work aim projectfreedomto create desktop environment always free
+charge source code available reuse free
+software license
+accessibilityensuring desktop used anyone
+regardless technical skill physical disability
+internationalisation localisationmaking desktop
+available many languages
+developerfriendlinessensuring easy write softwareintegrates smoothly desktop allow developer free
+choice programming language
+organisationa regular release cycle disciplined community
+structure
+supportensuring backing institution beyond gnome
+community
+
+multilingual
+
+available language gnome 
+available language gnome 
+
+origin
+
+gnomedevelopment version using japanese languagetango desktop project prerelease icons
+enlarge
+gnomedevelopment version using japanese languagetango desktop project prerelease icons
+
+gnome project started augustby miguel icazafederico mena response licensing concern software usedkde free software desktop environment relies widget
+toolkit time use free software licensemember gnu project became concerned usetoolkit building free software desktop application two
+project started harmony toolkit create free
+replacement library gnome create new desktop
+without built entirely top free software
+
+place toolkit gtk chosen base gnome
+desktop gtk gnu lesser public license lgpl free
+software license allows software linkingapplication written gnome use much wider set licenses
+including proprietary software license gnome desktoplicensed lgpl library gpl applications
+part gnome project available
+term gpl freedom link proprietary software
+gtk freely make differ 
+name gnome proposed acronym gnu network object model
+environment elliot lee one author orbit object
+activation framework refers gnome original intentioncreating distributed object framework similar microsofts ole
+longer reflects core vision gnome projectfull expansion name considered obsoletemember project advocate dropping acronym renaming
+gnome gnome
+
+organization
+
+free software project gnome project loosely
+organised discussion chiefly occurs number public mailing
+lists
+
+augustthe gnome foundation set dealadministrative task press interest act contact pointcompany interested developing gnome software directly
+involved technical decision foundation doe coordinate
+release decide project part gnome membershipopen anyone made nontrivial contribution project
+member foundation elect board director every november
+candidate position must member
+developer user gnome gather annual meeting knownguadec order discus current state projectfuture direction
+
+platforms
+
+gnomescreenshot fedora coreshowing rhythmbox music
+player gthumb image manager gedit text editor nautilus
+file manager
+enlarge
+gnomescreenshot fedora coreshowing rhythmbox music
+player gthumb image manager gedit text editor nautilus
+file manager
+
+originally designed linux gnome run unixlike systems
+particular adopted sun microsystems part java
+desktop system replacing ageing common desktop environmentsolaris platform default desktop environment many
+modern desktop linux distribution including fedora core ubuntulist linux distribution include gnome maintainedgnome website
+
+official gnome livecd allows computer boot directlycompact disc without removing changing existing operating systems
+available download gnome website
+
+many gnome component ported cygwin allowing gnome
+application run microsoft windows
+
+architecture
+
+gnome built large number different projectmajor one listedbonoboa compound document technology
+gconffor storing application settings
+gnome vfsa virtual file system
+gnome keyringfor storing encryption key security
+information
+gnome translation projecttranslate documentationapplication different languages
+gtka widget toolkit used constructing graphical
+application use gtk base widget toolkit allows
+gnome benefit certain feature theming ability
+change look application smooth antialiased
+graphic subprojects gtk provide object oriented programming
+support gobjects extensive support international character
+set text layoutpango accessibilityatk gtk
+reduces amount work required port gnome applicationplatform window mac human interface guideline higresearch documentationbuilding easytouse gnome applications
+libxmlan xml library
+orbita corba orb software componentry
+
+number language binding available allowing applicationwritten variety programming language cgtkmm
+javajavagnome rubyrubygnome cgtk pythonpygtk
+perlgtkperl many others language currently usedapplication part official gnome desktop release c python
+
+look feel
+
+gnome designed around traditional computing desktop metaphor
+handling window application file similarcontemporary desktop operating system desktop launcher menu
+quick access installed program file location open windows
+may accessed task bar along bottom screentopright corner feature notification area program display
+notice running background
+
+appearance gnome changed use themeset consisting icon set window manager border gtk theme
+engine parameter popular gtk theme include bluecurveclearlooks current default theme
+
+gnome put emphasis easy everyone use hig helps
+guide developer producing application look behave
+similarly order provide cohesive gnome interface
+
+usability
+
+since gnome key focus project usabilitypart large effort put creating gnome human
+interface guideline hig hig extensive guide creating
+high quality consistent usable gui program covering everythinggui design recommended pixelbased layout widgets
+
+gnome hig introduction
+
+
+gnome
+
+document tell create application look right
+behave properly fit gnome user interface wholewritten interface designer graphic artist software
+developer creating software gnome environment
+specific advice making effective use interface elementphilosophy general design principle behind gnome interface
+covered
+
+
+gnome
+
+v rewrite many setting deemed crack
+setting little value majority userremoved instance preference section panelreduced sprawling dialog six large tab much simpler one
+two small tabs
+
+freedesktoporg gnome
+
+freedesktoporg project assist interoperability shared
+technology different window desktop gnome kde
+xfce although formal standard organization
+freedesktoporg defines certain basic feature desktop
+including drag drop application window manager
+specification menu layout recent file list copy pasting
+application shared mime type database amongthing following freedesktoporg specification allows gnome
+application appear integrated desktop vice
+versa encourages cooperation well competition
+
+example technology originated freedesktoporg form
+part gnome core technology set include
+cairoa sophisticated graphic library
+dbusinterprocess communication system
+gstreamera multimedia framework
+hala specification implementation hardware
+abstraction layer
+popplera pdf rendering library
+tango desktop project aim provide common visual
+standard across different platforms
+
+initiative aim allow user developer choosetechnology application like regardless desktop
+environment use
+
+applications
+
+along application bundled desktop large amount
+application developed use gnome see listgnome application complete list
+
+official applications
+
+selection application typically supplied partgnome release
+ekigaa phone video conferencing application using voiceip
+epiphanya web browser
+evincea document viewer pdf postscript documents
+evolutionan email groupware application
+eye gnomea simple image viewer
+file rolleran archive manager
+gedita text editor
+gnomedictionarya dict protocol client
+gnomepanela desktop panel launching applicationshowing applets
+gnome terminala terminal emulator
+metacitya window manager
+nautilusa file manager
+sound juicera ripping tool
+tomboya notetaking tool
+totema medium player
+
+applications
+
+selection application use technology gnome
+project likely used average gnome desktop
+abiworda word processor
+bansheea music player
+fspota digital photo organizer
+gaiman instant messaging client
+gimpan advanced bitmap graphic editor
+gnomebakera cddvd authoring application
+gnumerica spreadsheeting program
+gnucashdoubleentry bookkeeping software
+inkscapea vector graphic drawing application
+rhythmboxa musicmanagement application similar itunes
+
+stable releases
+
+part making gnome project version
+number release schedule however individual module maintainers
+coordinate effort create full gnome stable releaseroughly sixmonth schedule release listed tableclassed stable unstable release tester developerlisted bugfix release individual modules
+version date information
+augustgnome development announced
+marchfirst major gnome release
+octoberoctober
+maybongo
+apriltranquility
+junemajor upgrade based gtk introduction human
+interface guidelines
+februarymultimedia file manager improvements
+septemberepiphany accessibility support
+marchnautilus change spatial file manager new
+gtk file dialog introduced shortlived fork gnome gonemecreated response change version
+septemberimproved removable device support add evolution
+marchlower memory requirement performance improvements
+add new panel applet modem control drive mounter trashcan
+totem sound juicer applications
+septembernautilus improvement improvement cutpaste
+application freedesktoporg integration add evince pdf
+viewer new default theme clearlooks menu editor keyring manageradmin tool based gtkwith cairo support
+marchperformance improvement add ekiga video
+conferencing application deskbar search tool pessulus lockdown
+editor fast user switching sabayon system administration tool
+septemberperformance improvement add tomboy notetaking
+application baobab disk usage analyser orca screen reader
+improvement totem nautilus gnome power manager compositing
+support metacity new icon theme based gtkwith new print
+dialog
+
+future developments
+
+many subprojects umbrella gnome project
+currently included gnome releaseconsidered purely experimental concept testing ideaone day migrate stable gnome application others codepolished direct inclusion example include
+gnome storagedatabase filing system gnome comparenowdefunct winfs storage system
+project topazideas gnome version 
+project soylentmaking people interactions
+firstclass object within gnome framework
+project ridleyto consolidate several small undermaintained
+library gtk libgnome libgnomeprint
+use mozilla project xul gnome desktop
+
+considerable discussion including software written
+c java gnome gnomegtk binding gtk
+gnome mono added list dependencyc application tomboy also included release
+

@@ -1,0 +1,143 @@
+copyright
+
+electric charge
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+flavour particle physics
+flavour quantum numbers
+lepton number baryon number strangenesscharm bottomness topnessisospin izweak isospin electric charge 
+
+combinations
+hyperchargeyqiz
+ybscbt
+weak hypercharge ywqtz
+yw 
+
+related topics
+cpt symmetry
+ckm matrix
+cp symmetry
+chirality
+
+electric charge fundamental conserved property subatomic
+particle determines electromagnetic interaction
+electrically charged matter influenced produces
+electromagnetic field interaction moving chargeelectromagnetic field source electromagnetic forceone four fundamental forces
+
+electric charge characteristic subatomic particlequantized expressed multiple socalled elementary
+charge electron convention charge ofwhile protons
+opposite charge ofquarks fractional charge 
+orthe antiparticle equivalent opposite
+charge charged particles
+
+general samesign charged particle repel one anotherdifferentsign charged particle attract expressed
+quantitatively coulomb law state magnituderepelling force proportional product two chargeweakens proportionately square distance
+
+electric charge macroscopic object sum electric
+charge constituent particle often net electric chargezero since naturally number electron every atom equalnumber proton charge cancel situationnet charge nonzero often referred static
+electricity furthermore even net charge zerodistributed nonuniformly due external electric field
+material said polarized charge related
+polarization known bound charge excess charge
+brought outside called free charge ordered motioncharged particle particular direction metalelectron known electric current discrete natureelectric charge proposed michael faraday electrolysis
+experiment directly demonstrated robert millikanoildrop experiment
+
+si unit quantity electricity electric chargecoulomb represents approximatelyelementary charges
+charge single electron proton coulomb definedquantity charge passed crosssectionelectrical conductor carrying one ampere within one second symbol
+q often used denote quantity electricity chargequantity electric charge directly measuredelectrometer indirectly measured ballistic galvanometer
+
+formally measure charge multiple elementary
+charge charge quantized since average macroscopic
+quantity many order magnitude larger single elementary
+charge effectively take real value furthermorecontext meaningful speak fraction charge egcharging capacitor
+
+history
+
+coulomb torsion balance
+coulomb torsion balance
+
+reported ancient greek philosopher thales miletus around
+bc charge electricity could accumulated rubbing furvarious substance amber greek noted charged
+amber button could attract light object hair also noted
+rubbed amber long enough could even getspark jump property derives triboelectric effect
+
+inthe english scientist william gilbert returned subject
+de magnete coined new latin word electricus 
+elektron greek word amber soon gave riseenglish word electric electricity followed inby
+otto von guericke invented probably first
+electrostatic generator european pioneer robert boyleinstated electric attraction repulsion act acrossvacuum stephen gray inclassified material conductors
+insulator f fay proposed inthat electricity
+came two variety cancelled expressedterm twofluid theory glass rubbed silk fay
+said glass charged vitreous electricityamber rubbed fur amber said chargedresinous electricity inmichael faraday showed apparent
+division static electricity current electricitybioelectricity incorrect consequencebehaviour single kind electricity appearing opposite
+polarities
+
+one foremost expert electricity centurybenjamin franklin argued favour onefluid theoryelectricity franklin imagined electricity type invisible
+fluid present matter example believed waglass leyden jar held accumulated charge positedrubbing insulating surface together caused fluid change
+location flow fluid constitutes electric
+current also posited matter contained littlefluid negatively charged excesspositively charged arbitrarily reason warecorded identified term positive vitreous electricity
+negative resinous electricity william watson arrivedexplanation time
+
+know franklinwatson model close simple
+matter actually composed several kind electricity several
+kind electrically charged particle commonpositively charged proton negatively charged electron rather
+one possible electric current many flow electrons
+flow electron hole act like positive particleelectrolytic solution flow negative positive particles
+called ion moving opposite direction reduce complexity
+electrical worker still use franklin convention imagine
+electric current known conventional current flowexclusively positive particle conventional current simplifies
+electrical concept calculation ignores factwithin conductor electrolyte semiconductor plasma two
+specie electric charge flow opposite directionflow direction conventional current also backwards comparedactual electron drift taking place electric currentmetal typical conductor electricity true directionelectric current source confusion beginner electronics
+minority educator ignore standard instead assumemoving charge exclusively negative
+
+properties
+
+aside property described article electromagnetism
+charge relativistic invariant mean particleha charge matter fast always charge qproperty experimentally verified showing chargeone helium nucleus two proton two neutron bound togethernucleus moving around high speed two deuterium
+nucleus one proton one neutron bound together moving muchslowly would helium nucleus
+
+conservation charge
+
+total electric charge isolated system remains constant
+regardless change within system law inherentprocess known physic derived local formgauge invariance wave function conservation charge
+result chargecurrent continuity equation generallynet change charge densitywithin volume integration vequal area integral current density surfacearea turn equal net current
+fracpartialpartial intv rho mathrmdvints
+mathbfj cdot mathrmdmathbfsint costhetai
+
+thus conservation electric charge expressedcontinuity equation give result
+
+ifracdqdt
+
+net outward current closed surface qelectric charge contained within volume defined surface
+

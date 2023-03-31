@@ -1,0 +1,168 @@
+copyright
+
+euclidean geometry
+
+ school wikipedia selection related subject mathematics
+
+euclid
+enlarge
+euclid
+
+euclidean geometry mathematical wellknown system attributedgreek mathematician euclid alexandria euclid text elements
+wa first systematic discussion geometry oneinfluential book history much methodmathematical content method consists assuming small setintuitively appealing axiom proving many propositions
+theorem axiom although many euclid resultstated earlier greek mathematician euclid firstshow proposition could fitted togethercomprehensive deductive logical system
+
+element begin plane geometry still often taught secondary
+school first axiomatic system first example formal
+proof element solid geometry three dimensions
+euclidean geometry subsequently extended finite number
+dimension much element state resultcalled number theory proved using geometrical methods
+
+two thousand year adjective euclidean unnecessary
+sort geometry conceived euclid axioms
+seemed intuitively obvious theorem proveddeemed true absolute sense many consistent formal
+geometry known first one discovered early
+th century also longer taken granted euclidean
+geometry describes physical space implication einstein theory
+general relativity euclidean geometry good
+approximation property physical space gravitational
+field strong
+
+axiomatic approach
+
+following precedent set element euclidean geometry haexposited axiomatic system theorem true
+statement derived finite number axiom nearbeginning first book element euclid give five
+postulate axioms
+two point joined straight line
+straight line segment extended indefinitelystraight line
+given straight line segment circle drawnsegment radius one endpoint centre
+right angle congruent
+parallel postulate two line intersect third way
+sum inner angle one side two right
+angle two line inevitably must intersectside extended far enough
+
+axiom invoke following concept point straight line
+segment line side line circle radius centre right
+angle congruence inner right angle sum following verbs
+appear join extend draw intersect circle describedpostulateis tacitly unique postulatesandhold plane
+geometry three dimension postulatedefines sphere
+proof euclid element given line segmentequilateral triangle exists includes segment oneside proof construction equilateral triangleis
+made drawing circlesandcentered pointsandand
+taking one intersection circle third vertextriangle
+enlarge
+proof euclid element given line segmentequilateral triangle exists includes segment oneside proof construction equilateral triangleis
+made drawing circlesandcentered pointsandand
+taking one intersection circle third vertextriangle
+
+postulateleads geometry following statement
+known playfairs axiom also hold plane
+
+point given straight line one one
+line drawn never meet given line
+
+postulatesandassert existence uniquenesscertain geometric figure assertion constructive
+nature told certain thing existalso given method creating compass
+unmarked straightedge sense euclidean geometryconcrete many modern axiomatic system set theoryoften assert existence object without saying construct
+even assert existence object probably cannotconstructed within theory
+
+element also include following five common notions
+thing equal thing also equal one another
+equal added equal whole equal
+equal subtracted equal remainderequal
+thing coincide one another equal one another
+whole greater part
+
+euclid also invoked property pertaining magnitudesispart underlying logic euclid explicitly articulated 
+andare arithmetical principle note meaning add
+subtract purely geometric context taken given 
+throughoperationally define equality also takenpart underlying logic equivalence relation requiring
+like coincide careful prior definitionis principlemereology whole part remainder beg precise
+definitions
+
+th century realized euclid ten axiomcommon notion suffice prove theorem statedelement example euclid assumed implicitly line contains
+least two point assumption cannot provedaxiom therefore need axiom first
+geometric proof element shown figure rightline segment part triangle euclid constructusual way drawing circle around endpoint taking
+intersection third vertex axiom howeverguarantee circle actually intersectconsistent discrete rather continuous space startingmoritz pasch inmany improved axiom system geometryproposed best known hilbert george birkhoff
+tarski
+
+fair euclid first formal logic capable supportinggeometry fregesbegriffsschrift little readsee euclidean geometry embeddedfirstorder logic identity formal system first sethilbert wilhelm ackermannsprinciples theoretical logic
+formal mereology began inwith work lesniewskin whitehead tarski student major work foundations
+elementary geometry recently betweenand hisdeath
+
+parallel postulate
+
+ancient parallel postulate seemed obviousothers verifying physically would require inspect two lines
+check never intersected even distant point
+inspection could potentially take infinite amount time
+euclid seems considered qualitatively
+different others evidenced organizationelement firstpropositions presentproved without
+many geometer tried vain prove fifth postulatefirst four byat leastdifferent proof published
+found incorrect fact parallel postulate
+cannot proved four shown century construction alternativenoneuclidean systemgeometry axiom still true parallel
+postulate replaced conflicting axiom one distinguishing aspect
+system three angle triangle addhyperbolic geometry sum three angle always less
+thanand approach zero elliptic geometrygreater thanif parallel postulate dropped list
+axiom without replacement result general geometry
+called absolute geometry
+
+treatment using analytic geometry
+
+development analytic geometry provided alternative methodformalizing geometry approach point representedcartesian coordinate line represented equationth century fit david hilbert programreducing mathematics arithmetic provingconsistency arithmetic using finitistic reasoning euclids
+original approach pythagorean theorem follows euclids
+axiom cartesian approach axiom axiomalgebra equation expressing pythagorean theoremdefinition one term euclid axiomconsidered theorem equation
+
+pqsqrtprqs
+
+defining distance two point ppq qrsknown euclidean metric metric define
+noneuclidean geometries
+disproof euclidean geometry description physical spaceatest general theory relativity star markedline photographed solar eclipse ray starlight
+bent sun gravity way earthinterpreted evidence favor einstein prediction gravity
+would cause deviation euclidean geometry
+enlarge
+disproof euclidean geometry description physical spaceatest general theory relativity star markedline photographed solar eclipse ray starlight
+bent sun gravity way earthinterpreted evidence favour einstein prediction gravity
+would cause deviation euclidean geometry
+
+description physical reality
+
+euclid believed axiom selfevident statementphysical reality however einstein theory general relativity
+show true geometry spacetime noneuclideanexample triangle constructed three ray lightgeneral interior angle add todegrees duegravity relatively weak gravitational field earthsun represented metric approximatelyexactly euclidean century technology
+capable detecting deviation euclidean geometryeinstein predicted deviation would exist later
+verified observation observation slight bending
+starlight sun solar eclipse inand
+noneuclidean geometry example integral partsoftware run gps system possible objectnoneuclidean interpretation general relativity groundlight ray might improper physical model euclid linerelativity could rephrased avoid geometrical
+interpretation however one consequence einstein theory
+possible physical test betterbeam light model geometry thus logical
+possibility accept noneuclidean geometry physically real
+reject entire notion physical test axiomgeometry imagined formal system withoutintrinsic realworld meaning
+
+logical status
+
+euclidean geometry firstorder theory allows
+statement begin trianglesbut incapable
+forming statement set triangle 
+statement latter type deemed outside scopetheory
+
+owe much present understanding propertylogical metamathematical property euclidean geometrywork alfred tarski student beginning tarski
+used axiomatic formulation euclidean geometry proveconsistent also complete certain sense every propositioneuclidean geometry shown either true false gdels
+theorem showed futility hilbert program provingconsistency mathematics using finitistic reasoning tarskis
+finding violate gdels theorem euclidean geometry
+cannot describe sufficient amount arithmetic theoremapply although hilbert thought euclidean geometry could putfirmer foundation rewriting term arithmetic fact
+euclidean geometry complete consistent way godels
+theorem tell arithmetic never
+although complete formal sense used modern logicthing euclidean geometry cannot accomplish exampleproblem trisecting angle compass straightedge one
+naturally occurs within theory since axiom referconstructive operation carried tools
+however century effort failed find solutionproblem pierre wantzel published proof inthatconstruction impossible
+
+absolute geometry formed removing parallel postulate alsoconsistent theory noneuclidean geometry formed alterations
+parallel postulate noneuclidean geometry consistent
+euclidean model noneuclidean geometryexample geometry surface sphere modelelliptical geometry carried within selfcontained subsetthreedimensional euclidean space
+
+classical theorems
+
+cevas theorem
+heron formula
+ninepoint circle
+pythagorean theorem
+tartaglias formula
+

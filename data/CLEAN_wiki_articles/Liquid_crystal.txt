@@ -1,0 +1,289 @@
+copyright
+
+liquid crystal
+
+ school wikipedia selection related subject material science
+
+schlieren texture liquid crystal nematic phase
+enlarge
+schlieren texture liquid crystal nematic phase
+
+liquid crystal substance exhibit phase matterproperty conventional liquid solid
+crystal instance liquid crystal may flow like liquid
+molecule liquid arranged andor orientedcrystallike way many different type phasedistinguished based different optical propertybirefringence viewed microscope using polarized
+light source different liquid crystal phase appeardistinct texture patch texture corresponds domain
+lc molecule oriented different direction withindomain however molecule well ordered liquid crystal
+material may always phase water always
+liquid phase may also found solid gas phase
+liquid crystal divided thermotropic lyotropic lcs
+thermotropic lcs exhibit phase transition phasetemperature changed whereas lyotropic lcs exhibit phase transitions
+function concentration mesogen solvent typically
+water well temperature
+
+mesogens
+
+molecule exhibit liquid crystal phase called mesogensmolecule display phase must generally fairly rigidanisotropic longer one direction another mesogens
+fall rigidrod class calamitic mesogens orient
+based long axis disklike discotic mesogens also known
+orient direction short axis additionmolecule polymer colloidal suspension also form phases
+instance micrometresized object anisotropic colloids
+latex particle clay platelet even virustobacco mosaic virus organize liquid crystal phases
+exotic mesogens generally fall categorylyotropic liquid crystals
+
+liquid crystal phases
+
+various phase called mesophases characterizedtype ordering present one distinguish positional order
+whether molecule arranged sort ordered lattice
+orientational order whether molecule mostly pointing
+direction moreover order either shortrange
+molecule close longrange extending
+larger sometimes macroscopic dimension thermotropic lcs
+isotropic phase high temperature heatingeventually drive conventional liquid phase characterizedrandom isotropic molecular ordering little longrange
+order fluidlike flow behaviour conditioninstance lower temperature might inhabit one phases
+significant anisotropic orientational structure longrange
+orientational order still ability flow
+
+ordering liquid crystalline phase extensive molecular
+scale order extends entire domain size mayorder micrometres usually doe extendmacroscopic scale often occurs classical crystalline solids
+however technique use boundary applied
+electric field used enforce single ordered domainmacroscopic liquid crystal sample ordering liquid crystal
+might extend along one dimension materialessentially disordered two directions
+
+thermotropic liquid crystals
+
+thermotropic phase occur certain temperature
+range temperature raised high thermal motiondestroy delicate cooperative ordering phase pushingmaterial conventional isotropic liquid phase lowtemperature material form conventional though
+anisotropic crystal many thermotropic lcs exhibit variety phases
+temperature changed instance particular mesogen may
+exhibit various smectic nematic finally isotropic phasetemperature increased
+
+nematic phase
+
+one common phase nematic molecules
+positional order longrange orientational
+order thus molecule flow centre mass positionrandomly distributed liquid pointdirection within domain nematics uniaxialone axis longer preferred twoequivalent approximated cylinder liquid crystalbiaxial nematics meaning addition orienting long
+axis also orient along secondary axis
+
+liquid crystal phase matter whose order intermediate
+liquid crystal moleculetypically rodshaped organic moiety aboutangstroms 
+nanometer length ordering function temperature
+nematic phase example characterized orientational
+order constituent molecule molecular orientationhence material optical property controlled applied
+electric field nematics still commonly used phaseliquid crystal display lcd many device usingtwisted nematic geometry smectic phase found lower
+temperature nematic form welldefined layer slide
+one another like soap smectics thus positionally ordered
+along one direction smectic phase molecule oriented
+along layer normal smectic phase tilted
+away layer normal phase liquidlike within
+layer illustrated large numberdifferent smectic phase characterized different typedegree positional orientational order
+
+chiral phases
+
+chiral nematic phase exhibit chirality handedness phaseoften called cholesteric phase first observedcholesterol derivative chiral molecule lack
+inversion symmetry give rise phase phase exhibits
+twisting molecule along director molecular axis
+perpendicular director finite twist angle adjacent
+molecule due asymmetric packing resultlongerrange chiral order smectic phase molecules
+orient roughly along director finite tilt angletwist relative mesogens result spiral
+twisting molecular axis along director
+
+chiral pitch refers distance along directormesogens undergo fulltwist note structure
+repeat every halfpitch since positive negative
+direction along director equivalent pitch may varied
+adjusting temperature adding molecule fluidmany type liquid crystal pitch orderwavelength visible light cause system exhibit
+unique optical property selective reflectionproperty exploited number optical applications
+
+discotic phases
+
+diskshaped mesogens orient layerlike fashion
+known discotic nematic phase disk pack stackphase called discotic columnar column mayorganized rectangular hexagonal array chiral discotic phases
+similar chiral nematic phase also known
+
+lyotropic liquid crystals
+
+lyotropic liquid crystal consists two componentexhibit liquidcrystalline property certain concentration ranges
+lyotropic phase solvent molecule fill space aroundcompound provide fluidity system contrastthermotropic liquid crystal lyotropics another degreefreedom concentration enables induce varietydifferent phases
+
+compound two immiscible hydrophilic hydrophobic parts
+within molecule called amphiphilic molecule many
+amphiphilic molecule show lyotropic liquidcrystalline phase sequences
+depending volume balance hydrophilic parthydrophobic part structure formed microphase
+segregation two incompatible component nanometer scale soap
+everyday example lyotropic liquid crystal
+
+content water solvent molecule changeselfassembled structure low amphiphile concentrationmolecule dispersed randomly without ordering slightly
+higher still low concentration amphiphilic moleculespontaneously assemble micelle vesicle donehide hydrophobic tail amphiphile inside micelle core
+exposing hydrophilic watersoluble surface aqueous solution
+spherical object order solution however
+higher concentration assembly become ordered typical
+phase hexagonal columnar phase amphiphiles form long
+cylinder hydrophilic surface arrangeroughly hexagonal lattice called middle soap phase
+still higher concentration lamellar phase neat soap phase may
+form wherein extended sheet amphiphiles separated thin
+layer water system cubic also called viscous
+isotropic phase may exist hexagonal lamellar phases
+wherein sphere formed create dense cubic latticesphere may also connected one another forming bicontinuous
+cubic phase
+
+object created amphiphiles usually sphericalcase micelle may also disclike bicelles rodlikebiaxial three micelle distinct anisotropic
+selfassembled nanostructures order muchway liquid crystal forming largescale versionthermotropic phase nematic phase rodshaped micelles
+
+system high concentration inverse phase observed
+one may generate inverse hexagonal columnar phase columns
+water encapsulated amphiphiles inverse micellar phasebulk liquid crystal sample spherical water cavities
+
+generic progression phase going low high amphiphile
+concentrationdiscontinuous cubic phase micellar phase
+hexagonal columnar phase middle phase
+bicontinuous cubic phase
+lamellar phase
+bicontinuous cubic phase
+reverse hexagonal columnar phase
+inverse cubic phase inverse micellar phase
+
+even within phase selfassembled structuretunable concentration example lamellar phaselayer distance increase solvent volume since lyotropic
+liquid crystal rely subtle balance intermolecular
+interaction difficult analyze structureproperty thermotropic liquid crystals
+
+similar phase characteristic observed immiscible
+diblock copolymers
+
+metallotropic liquid crystals
+
+liquid crystal phase also based lowmelting inorganic phases
+like zncl structure formed linked tetrahedroneasily form glass addition long chain soaplike molecules
+lead series new phase show variety liquid
+crystalline behaviour function inorganicorganic
+composition ratio temperature class material hanamed metallotropic martin al
+
+biological liquid crystals
+
+lyotropic liquidcrystalline nanostructures abundant living
+system accordingly lyotropic liquid crystal attract particular
+attention field biomimetic chemistry particular
+biological membrane cell membrane form liquid crystal
+constituent rodlike molecule phospholipidorganized perpendicularly membrane surface yet membranefluid elastic constituent molecule flow inplane quite
+easily tend leave membrane flip one side
+membrane difficulty liquid crystal
+membrane phase also host important protein receptors
+freely floating inside partly outside membrane
+
+many biological structure exhibit behaviour instance
+concentrated protein solution extruded spidergenerate silk fact liquid crystal phase precise ordering
+molecule silk critical renowned strength dna many
+polypeptide also form phase since biological mesogensusually chiral chirality often play role phases
+
+theoretical treatment liquid crystals
+
+microscopic theoretical treatment fluid phase become quite
+involved owing high material density mean strong
+interaction hardcore repulsion manybody correlation cannot
+ignored case liquid crystal anisotropyinteraction complicate analysis number fairly
+simple theory however least predict general
+behaviour phase transition liquid crystal systems
+
+order parameter
+
+description liquid crystal involves analysis ordermake quantitative orientational order parameter usually
+defined based average second legendre polynomial
+
+slangle pcos theta rangleleft langle frac
+co theta right rangle
+
+whereis angle mesogen molecule axis local
+director preferred direction liquid crystal
+sample definition convenient since completely random
+isotropic sample whereas perfectly aligned sampletypical liquid crystal sample order ofto 
+generally decrease temperature raised particularsharp drop order parameter tois observed one undergoesphase transition phase isotropic phase order
+parameter measured experimentally number wayinstance diamagnetism birefringence raman scattering nmralso used determine
+one could also characterize order liquid crystal usingeven legendre polynomial odd polynomial average zero
+since director point either two antiparallel directions
+higherorder average difficult measureyield additional information molecular ordering
+
+onsager hardrod model
+
+simple model predicts lyotropic phase transitionhardrod model proposed lars onsager theory considersvolume excluded centerofmass one idealized cylinderapproach another specifically cylinder oriented
+parallel one another little volume excluded
+centerofmass approaching cylinder come quite
+close cylinder however cylinderangle one another large volume surroundingcylinder approaching cylinder centreofmass cannot enter
+due hardrod repulsion two idealized objects
+thus angular arrangement see decrease net positional
+entropy approaching cylinder fewer state available
+
+fundamental insight parallel arrangements
+anisotropic object lead decrease orientational entropy
+increase positional entropy thus case greater
+positional order entropically favorable theory thus
+predicts solution rodshaped object undergo phase
+transition sufficient concentration nematic phase recently
+theory used observe phase transition nematicsmectica high concentration also hanif al althoughmodel conceptually helpful mathematical formulation makes
+several assumption limit applicability real systems
+
+maiersaupe mean field theory
+
+statistical theory includes contribution attractive
+intermolecular potential anisotropic attraction stabilizes
+parallel alignment neighboring molecule theoryconsiders meanfield average interaction solved
+selfconsistently theory predicts thermotropic phase transitions
+consistent experiment
+
+elastic continuum theory
+
+formalism liquid crystal material treated continuum
+molecular detail entirely ignored rather theory considers
+perturbation presumed oriented sample one identify three
+type distortion could occur oriented sampletwists
+material neighboring molecule forced angled
+respect one another rather alignedsplaymaterial bending occurs perpendicular director 
+bend material distortion parallel director
+mesogen axis three type distortion incurenergy penalty defect often occur near domain wallboundary enclosing container response materialdecomposed term based elastic constants
+corresponding three type distortions
+
+effect chirality
+
+already described chiral mesogens usually give rise chiral
+mesophases molecular mesogens mean molecule must
+posse asymmetric carbon atom additional requirementsystem racemic mixture right lefthanded versions
+mesogen cancel chiral effect due cooperative
+nature liquid crystal ordering however small amount chiral
+dopant otherwise achiral mesophase often enough selectone domain handedness making system overall chiral
+
+chiral phase usually helical twisting mesogenspitch twist order wavelength visible light
+interesting optical interference effect observedchiral twisting occurs chiral phase also make system
+respond differently right lefthanded circularly polarized
+light material thus used polarization filters
+
+possible chiral mesogens produce essentially achiral
+mesophases instance certain range concentrationmolecular weight dna form achiral line hexatic phasecurious recent observation formation chiral mesophases
+achiral mesogens specifically bentcore molecule sometimes
+called banana liquid crystal shown form liquid crystal
+phase chiral particular sample various domainopposite handedness within given domain strong chiral
+ordering present appearance mechanism macroscopic
+chirality yet entirely clear appears molecules
+stack layer orient tilted fashion insidelayer liquid crystal phase ferroelectric anti
+ferroelectric interest applications
+
+application liquid crystals
+
+liquid crystal find wide use liquid crystal display relyoptical property certain liquid crystalline moleculepresence absence electric field typical device liquid
+crystal layer sits two polarizers crossed orientedone another liquid crystal chosen relaxed
+phase twisted one twisted phase reorients lightpassed first polarizer allowing transmitted
+second polarizer reflected back observerdevice thus appears clear electric field applied layer mesogens align longer twistingaligned state mesogens reorient light light
+polarized first polarizer absorbed second polarizer
+entire device appears dark way electric fieldused make pixel switch clear dark command color
+lcd system use technique colour filter usedgenerate red green blue pixel similar principle usedmake liquid crystal based optical devices
+
+thermotropic chiral lcs whose pitch varies strongly temperature
+used crude thermometer since color materialchange pitch changed liquid crystal color transitionused many aquarium pool thermometer liquid crystal
+material change colour stretched stressed thus liquid
+crystal sheet often used industry look hot spot map
+heat flow measure stress distribution pattern liquid
+crystal fluid form used detect electrically generated hot
+spot failure analysis semiconductor industry liquid
+crystal memory unit extensive capacity used space shuttle
+navigation equipment
+
+also worth noting many common fluid fact liquid
+crystal soap instance liquid crystal form variety
+lc phase depending concentration water
+

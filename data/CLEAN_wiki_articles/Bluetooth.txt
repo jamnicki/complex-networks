@@ -1,0 +1,393 @@
+copyright
+
+bluetooth
+
+ school wikipedia selection related subject electricityelectronics engineering
+
+bluetooth industrial specification wireless personal area
+network pan bluetooth provides way connect exchange
+information device mobile phone laptop pcs
+printer digital camera video game console secure
+globally unlicensed shortrange radio frequency bluetooth
+specification developed licensed bluetooth special
+interest group
+
+uses
+
+typical bluetooth mobile phone headset
+typical bluetooth mobile phone headset
+
+bluetooth radio standard communication protocol primarily
+designed low power consumption short range
+powerclassdependentmetermetersmeters basedlowcost transceiver microchip device
+
+bluetooth let device communicaterange device use radio communication systemline sight evenroom long received transmission powerful enough
+classmaximum permitted power
+mw dbmrange
+approximate
+classmwdbmmeters
+classmwdbmmeters
+classmwdbmmeter
+
+bluetooth profiles
+
+order use bluetooth device must compatible certain
+bluetooth profile define possible application uses
+
+list applications
+
+prevalent application bluetooth include
+wireless control communication cell phonehandsfree headset car kit one earliest
+application become popular
+wireless networking confined spacelittle bandwidth required
+wireless communication input output devicecommon mouse keyboard printer
+transfer file device obex
+transfer contact detail calendar appointment reminders
+device obex
+replacement traditional wired serial communication test
+equipment gps receiver medical equipment traffic control
+devices
+control infrared traditionally used
+sending small advertisement bluetooth enabled advertising
+hoarding discoverable bluetooth devices
+seventhgeneration game consolesnintendo wii sony playstation
+use bluetooth respective wireless controllers
+
+bluetooth wifi networking
+
+bluetooth wifi place today office homes
+move setting network printing transferring
+presentation file pda computers
+
+bluetooth
+
+bluetooth implemented variety new product phones
+printer modem headset bluetooth acceptable situations
+two device proximity dont
+require high bandwidth bluetooth commonly used phonehandheld computing device either using bluetooth headsettransferring file phonespdas computers
+
+bluetooth also simplifies discovery setup services
+bluetooth device advertise service provide makeutility service much accessible without needworry network address permissionconsideration typical networks
+
+wifi
+
+wifi analogous traditional ethernet networkrequires configuration set shared resource transmit file set
+audio link example headset handsfree device uses
+radio frequency bluetooth higher power output
+resulting stronger connection wifi sometimes rarely
+called wireless ethernet although description inaccurateprovides indication relative strength weakness wifi
+requires setup better suited operating fullscale
+network enables faster connection better rangebase station better security bluetooth
+
+one method comparing efficiency wireless transmission
+protocol bluetooth wifi spatial capacity bit per
+second per square meter
+
+computer requirements
+
+typical bluetooth usb dongle bcma shown next metric
+ruler
+typical bluetooth usb dongle bcma shown next metric
+ruler
+internal notebook bluetooth cardmm
+internal notebook bluetooth cardmm
+
+personal computer must bluetooth dongle order ablecommunicate bluetooth device mobile phone mice
+keyboard portable computer fewer desktop
+computer already contain internal bluetooth dongle computers
+require external usb bluetooth dongle unlike predecessor irda
+device requires separate dongle multiple bluetooth
+device communicate computer single dongle
+
+operating system support
+
+linux provides two bluetooth stack bluez stack includedlinux kernel originally developed qualcomm affix
+bluez support core bluetooth protocol layers
+
+microsoft window service packand later version windows
+native support bluetooth previous version required users
+install bluetooth dongle driver tended clash
+operating system microsofts bluetooth donglepackaged bluetooth computer device external
+driver thus require least window service pack 
+
+specification features
+
+bluetooth specification developed inby sven mattissonjaap haartsen working ericsson mobile platform lund
+sweden specification formalized bluetooth special
+interest groupsig sig formally announced may
+today overcompanies worldwide establishedericsson sony ericsson ibm intel toshiba nokia later
+joined many company bluetooth also known ieee
+
+
+bluetoothand 
+versionsand many problem manufacturerdifficulty making product interoperable versionsand also mandatory bluetooth hardware device address bdaddr
+transmission handshaking process rendering anonymity impossible
+protocol level major setback service plannedused bluetooth environment consumerium
+
+bluetooth 
+
+many error found specification fixed
+added support nonencrypted channels
+received signal strength indicatorrssi
+
+bluetooth 
+
+version backwardcompatible withand major enhancements
+include following
+faster connection discovery
+adaptive frequencyhopping spread spectrum afh improves
+resistance radio frequency interference avoiding usecrowded frequency hopping sequence
+higher transmission speed practice tokbps 
+extended synchronous connection esco improve voice
+quality audio link allowing retransmissions corrupted
+packets
+host controller interface hci support threewire uart
+
+bluetooth 
+
+version specified novemberis backwardcompatiblemain enhancement introduction enhanced data rate
+edr ofmbps following effects
+three time faster transmission speedup totimes certain
+case tombits
+lower power consumption reduced duty cycle
+simplification multilink scenario due available
+bandwidth
+improvedbit error rate performance
+
+bluetooth 
+
+bluetooth core specification versionedr fully
+backwardcompatible withand adopted bluetooth sig
+interoperability testing completed specification
+includes following features
+extended inquiry response provides informationinquiry procedure allow better filtering deviceconnection information includes name devicelist service device support well information
+like time day pairing information
+
+sniff subrating reduces power consumption devicesniff lowpower mode especially link asymmetric data
+flow human interface device hid expected benefitmouse keyboard device increasing battery life
+fromtotimes currently used
+
+encryption pause resume enables encryption key refreshed
+enabling much stronger encryption connection staylonger thanhours
+
+secure simple pairing radically improves pairing experience
+bluetooth device increasing use strengthsecurity expected feature significantly
+increase use bluetooth
+
+future bluetooth
+
+broadcast channel enables bluetooth information pointdrive adoption bluetooth cell phone enable
+advertising model based around user pulling informationinformation point based around intrusive object push
+model used limited way today
+
+topology management enables automatic configurationpiconet topology especially scatternet situationbecoming common today invisibleuser technology also making technologywork
+
+alternate mac phy enables use alternative mac phystransporting bluetooth profile data bluetooth radio still
+used device discovery initial connection profile
+configuration however lot data need sent high
+speed alternate mac phys used transport datamean proven low power connection model bluetoothused system idle low power per bit radioused lot data need sent
+
+qos improvement enable audio video data transmittedhigher quality especially best effort traffictransmitted piconet
+
+bluetooth technology already play part rising voice voip scene bluetooth headset used wireless extensions
+pc audio system voip becomes popular suitable
+general home office user wired phone line bluetooth may
+used cordless handset base station connectedinternet link
+
+next version bluetooth codenamed seattlecalled bluetoothhas many featurenotable plan adopt ultrawideband uwb radio technologyallow bluetooth use uwb radio enabling fast data
+transfer tombits synchronization file pushbuilding lowpower idle mode bluetooth combination
+radio using little power data transmitted high
+data rate radio transmit bulk data could start software
+radio bluetooth given worldwide regulatory approval lowpower
+operation robust data transmission capability providesexcellent signaling channel enable soft radio concept
+
+onmarchthe bluetooth special interest group announcedselection wimedia alliance multiband orthogonal frequency
+division multiplexing mbofdm version uwb integrationcurrent bluetooth wireless technology
+
+uwb integration create version bluetooth wireless technology
+highspeedhighdatarate option new version bluetooth
+technology meet highspeed demand synchronizingtransferring large amount data well enabling highquality
+video audio application portable device multimedia
+projector television set wireless voip
+
+time bluetooth technology continue cateringneed low power application mouse keyboard mono
+headset enabling device select appropriate physical
+radio application requirement thereby offering bestworlds
+
+bluetooth sig also announced looking include
+ultra low power use case bluetooth enabling whole new setuse case inculdes watch displaying caller information
+sport sensor monitoring heart rate exercise wellmedical device medical device working group also creatingmedical device profile associated protocol enable market
+
+draft high speed bluetooth specification availablebluetooth website
+
+technical information
+
+communication connection
+
+master bluetooth device communicate seven devices
+network group eight device called piconet
+
+piconet adhoc computer network using bluetooth technology
+protocol allow one master device interconnect seven
+active device tofurther device inactive parked
+master device bring active status time
+
+given time data transferred master one
+device however master switch rapidly deviceanother roundrobin fashion simultaneous transmissionmaster multiple device possible used much
+either device switch role become master time
+
+bluetooth specification allows connecting two piconets together
+form scatternet device acting bridgesimultaneously playing master role slave role one
+piconet device planned 
+
+setting connections
+
+bluetooth device transmit following set informationdemand
+device name
+device class
+list services
+technical information example device feature manufacturer
+bluetooth specification clock offset
+
+device may perform inquiry find deviceconnect device configured respond inquiries
+however device trying connect know addressdevice always responds direct connection request transmits
+information shown list requested use device
+service may require pairing acceptance ownerconnection started device held goes
+range device connected one devicetime connecting prevents connectingdevice appearing inquiry disconnectdevice
+
+every device unique bit address however addressgenerally shown inquiry instead friendly bluetooth nameused set user name appears another user
+scan device list paired devices
+
+phone bluetooth name set manufacturer model
+phone default phone laptop showbluetooth name special program required get
+additional information remote device confusingexample could several phone range named see
+bluejacking
+
+pairing
+
+pair device may establish trusted relationship learninguser input shared secret known passkey device wantcommunicate trusted device cryptographically
+authenticate identity device trusted device may also
+encrypt data exchange air onelisten encryption however turned passkeystored device file system bluetooth chipsince bluetooth address permanent pairing preserved even
+bluetooth name changed pair deleted timeeither device device generally require pairing prompt owner
+allow remote device use services
+device sony ericsson phone usually accept obex
+business card note without pairing prompts
+
+certain printer access point allow device use services
+default much like unsecured wifi network pairing algorithmsometimes manufacturerspecific transmitter receiver usedapplication music entertainment
+
+air interface
+
+protocol operates licensefree ism band atghzavoid interfering protocol use theghz bandbluetooth protocol divide band intochannels eachmhz wide
+change channel totimes per second implementationversionsandreach speed ofkbits version 
+implementation feature bluetooth enhanced data rate edr reach
+mbit technically versiondevices higher power
+consumption three time faster rate reduces transmission
+time effectively reducing power consumption half device assuming equal traffic load
+
+bluetooth differs wifi latter provides higher
+throughput cover greater distance requires expensive
+hardware higher power consumption use frequency
+range employ different multiplexing scheme bluetoothcable replacement variety application wifi cable
+replacement local area network access bluetooth often
+thought wireless usb whereas wifi wireless ethernetoperating much lower bandwidth cable systemtrying replace however analogy entirely accurate since
+bluetooth device theory host bluetooth
+devicesomething universal usb devices
+
+many usb bluetooth adapter available also include
+irda adapter older pre bluetooth adapter howeverlimited service offering bluetooth enumeratorlesspowerful bluetooth radio incarnation device link
+computer bluetooth offer much wayservice modern adapter
+security
+
+bluetooth implement authentication key derivation custom
+algorithm based safer block cipher initialization keymaster key generated algorithm stream cipher
+used encrypting packet make eavesdroppingbluetoothenabled device difficult
+
+social concerns
+
+security concerns
+
+
+novemberben adam laurie digital ltd discovered
+serious flaw bluetooth security may lead disclosurepersonal data noted however reported security
+problem concerned poor implementation bluetooth ratherprotocol
+subsequent experiment martin herfurt trifinitegroupable fieldtrial cebit fairground showingimportance problem world new attack called bluebugused experiment
+
+
+aprilsecurity consultant firm stake symantec revealed
+security flaw make possible crack conversationbluetooth based wireless headset reverse engineering pin
+
+one number concern raisedsecurity bluetooth communication inthe first purported virus
+using bluetooth spread among mobile phone appearedsymbian virus first described kaspersky lab requires
+user confirm installation unknown softwarepropagate
+
+virus written proofofconcept group virus writers
+known sent antivirus group thus regarded
+potential real security threat bluetooth symbian
+since virus never spread wild
+
+augusta worldrecordsetting experiment see also bluetooth
+sniping showed range classbluetooth radio couldextended tokmmile directional antenna posepotential security threat enables attacker access
+vulnerable bluetoothdevices distance beyond expectation
+however experiment work signal amplifierattacker must also able receive information victimset connection attack made bluetooth device
+unless attacker know bluetooth address channeltransmit
+
+aprilcambridge university security researcher published
+result actual implementation passive attackpinbased pairing commercial bluetooth device confirmingattack practicably fast bluetooth symmetric key
+establishment method vulnerable rectify vulnerability
+carried implementation showed stronger
+asymmetric key establishment feasible certain classdevice handphones
+
+juneyaniv shaked avishai wool published paper
+cracking bluetooth pin show passive active
+method obtaining pin bluetooth link passive attack
+allows suitably equipped attacker eavesdrop communicationspoof present time initial pairing active
+method make use specially constructed message mustinserted specific point protocol make masterslave repeat pairing process first methodused crack pin attack major weakness requires
+user device attack reenter pinattack device prompt also active attack
+probably requires custom hardware since commercially available
+bluetooth device capable timing necessary
+
+augustpolice cambridgeshire england issued warnings
+thief using bluetoothenabled phone track devices
+left car police advising user ensure mobile
+networking connection deactivated laptop devices
+left way
+
+
+aprilresearchers secure network fsecure publishedreport warns large number device left visible
+state issued statistic spread various bluetooth
+service ease spread eventual bluetooth worm
+
+octoberat luxemburgish hacklu security conference kevin
+finistere thierry zoller demonstrated released remote root
+shell bluetooth mac osxandthey also demonstrated
+first bluetooth pin linkkeys cracker basedresearch wool shaked
+
+health concerns
+
+bluetooth microwave radio frequency spectrum theghzghz range fact microwave oven use frequency
+may account public concern possible health
+hazard maximum power output bluetooth radio mwmw classclassand classdevices respectivelyput classat roughly level cell phonetwo class much lower accordingly classand classbluetooth
+device considered potential hazard cell phoneclassmay concern comparable cell phones
+
+origin name logo
+
+bluetooth named late king harald bluetooth kingdenmark norway known unification previously
+warring tribe denmark including scania presentday sweden
+bluetooth technology invented norway bluetooth
+likewise intended unify different technologycomputer mobile phones
+
+name may inspired historical haraldloose interpretation long ship frans gunnar
+bengtsson swedish vikinginspired novel
+
+bluetooth logo merges nordic rune analogous modern
+latin bhaglaz andberkanan forming bind rune
+
+bluetooth consortium
+
+inericsson ibm intel nokia formed consortiumadopted code name bluetooth proposed open specification
+decembercom lucent technology microsoft motorola
+joined initial founder promoter group since time
+lucent technology transferred membership spinoff agere
+system com left promoter group
+

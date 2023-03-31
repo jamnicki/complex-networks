@@ -1,0 +1,286 @@
+copyright
+
+dna repair
+
+ school wikipedia selection related subject general biology
+
+dna damage resulting multiple broken chromosomes
+dna damage resulting multiple broken chromosomes
+
+dna repair refers collection process cell
+identifies corrects damage dna molecule encodegenome human cell normal metabolic activityenvironmental factor light cause dna damage resulting
+many asmillion individual molecular lesion per cell per day
+many lesion cause structural damage dna moleculealter eliminate cell ability transcribe geneaffected dna encodes lesion induce potentially harmful
+mutation cell genome affect survivaldaughter cell undergoes mitosis consequently dna repair
+process must constantly active respond rapidlydamage dna structure
+
+rate dna repair dependent many factor including cell
+type age cell extracellular environment cell
+ha accumulated large amount dna damage onelonger effectively repair damage incurred dna enter onethree possible states
+irreversible state dormancy known senescence
+cell suicide also known apoptosis programmed cell death
+unregulated cell division lead formationtumor cancerous
+
+dna repair ability cell vital integritygenome thus normal functioning organism
+many gene initially shown influence lifespan turned
+involved dna damage repair protection failurecorrect molecular lesion cell form gamete introduce
+mutation genome offspring thus influence rate
+evolution
+
+dna damage
+
+dna damage due environmental factor normal metabolic processes
+inside cell occurs rate oftomolecular
+lesion per cell per day constitutes onlyofhuman genome approximatelybillion basesbillion base pairs
+unrepaired lesion critical gene tumor suppressor genes
+impede cell ability carry function appreciably
+increase likelihood tumor formation
+
+vast majority dna damage affect primary structuredouble helix base chemically modified
+modification turn disrupt molecule regular helical
+structure introducing nonnative chemical bond bulky adducts
+fit standard double helix unlike protein rna
+dna usually lack secondary structure therefore damagedisturbance doe occur level dna however supercoiled
+wound around packaging protein called histonesuperstructure vulnerable effect dna damage
+
+type damage
+
+four main type damage dna due endogenous cellular
+processes
+oxidation base oxodihydroguanine oxoggeneration dna strand interruption reactive oxygen
+species
+alkylation base usually methylation formationmethylguanine
+hydrolysis base deamination depurinationdepyrimidination
+mismatch base due dna replication wrong dna
+base stitched place newly forming dna strand
+
+damage caused exogenous agent come many form examples
+uv light cause crosslinking adjacent cytosine thymine
+base creating pyrimidine dimers
+ionizing radiation created radioactive decaycosmic ray cause break dna strands
+industrial chemical vinyl chloride hydrogen peroxide
+environmental chemical polycyclic hydrocarbon found
+smoke soot tar create huge diversity dna adducts
+ethenobases oxidized base alkylated phosphotriestersname
+nuclear versus mitochondrial dna damage
+
+human eukaryotic cell general dna found two cellular
+locationsinside nucleus inside mitochondrion nuclear dna
+ndna exists chromatin nonreplicative stage cell
+cycle condensed aggregate structure known chromosomes
+cell division either state dna highly compactedwound around beadlike protein called histone whenever cell
+need express genetic information encoded ndnarequired chromosomal region unravelled gene located thereinexpressed region condensed back resting
+conformation mitochondrial dna mtdna located inside mitochondria
+organelle exists multiple copy also tightly associated
+number protein form complex known nucleoid
+inside mitochondrion reactive oxygen specie free radicals
+byproduct constant production adenosine triphosphate atp
+via oxidative phosphorylation create highly oxidative environment
+known damage mtdna critical enzyme counteractingtoxicity specie superoxide dismutase presentmitochondrion cytoplasm eukaryotic cells
+
+senescence apoptosis
+
+senescence irreversible state cell longer divide 
+mitosis protective response shortening chromosome
+endstelomeres telomere long region repetitive
+noncoding dna cap chromosome undergo partial degradationtime cell undergoes division see hayflick limit contrast
+quiescence reversible state cellular dormancy unrelated
+genome damage see cell cycle senescence cell may servefunctional alternative apoptosis case physical
+presence cell spatial reason required organism
+serf last resort mechanism prevent celldamaged dna replicating inappropriately absenceprogrowth cellular signaling unregulated cell division leadformation tumor see cancer potentially lethalorganism therefore induction senescence apoptosisconsidered part strategy protection cancer
+
+dna repair mechanisms
+
+cell cannot function dna damage corrupts integrityaccessibility essential information genome cell remain
+superficially functional socalled nonessential genemissing damaged depending type damage inflicteddna double helical structure variety repair strategyevolved restore lost information possible cell useunmodified complementary strand dna sister chromatidtemplate losslessly recover original information without access
+template cell use errorprone recovery mechanism knowntranslesion synthesis last resort
+
+damage dna alters spatial configuration helixalteration detected cell damage localized
+specific dna repair molecule summoned bind nearsite damage inducing molecule bind form complex
+enables actual repair take place type molecules
+involved mechanism repair mobilized dependtype damage occurred phase cell cyclecellsingle strand double strand dna damage
+single strand double strand dna damage
+
+direct reversal
+
+cell known eliminate three type damage dnachemically reversing mechanism require template
+since type damage counteract occur onefour base direct reversal mechanism specific typedamage incurred formation thymine dimer common typecyclobutyl dimer upon irradiation light result abnormal
+covalent bond adjacent thymidine base photoreactivation
+process bacteria directly revers damage actionenzyme photolyase energy absorbed light promote
+catalysis another type damage methylation guanine basedirectly reversed protein methyl guanine methyl transferase
+mgmt expensive process mgmt moleculeused reaction stoichiometric rathercatalytic generalized response methylating agent bacteriaknown adaptive response confers level resistancealkylating agent upon sustained exposurethe third type dna damage
+reversed cell certain methylation base cytosineadenine
+
+single strand damage
+
+one two strand double helix defectstrand used template guide correctiondamaged strand order repair damage one two paired
+molecule dna exist number excision repair mechanisms
+remove damaged nucleotide replace undamaged
+nucleotide complementary found undamaged dna strand
+base excision repair ber repair damage due single
+nucleotide caused oxidation alkylation hydrolysisdeamination
+nucleotide excision repair ner repair damage affecting
+longer strand ofbases process recognizes bulky
+helixdistorting change thymine dimer wellsinglestrand break repaired enzyme uvrabc
+endonuclease specialized form ner knowntranscriptioncoupled repair tcr deploys highpriority ner repair
+enzyme gene actively transcribed
+mismatch repair mmr corrects error dna replicationrecombination result mispaired nucleotide following dna
+replication
+
+double strand breaks
+
+type dna damage particularly hazardous dividing cellbreak strand doublehelix two mechanism existrepair damage generally known nonhomologous
+endjoining nhej recombinational repair also knowntemplateassisted repair homologous recombination repair
+
+nhej pathway operates cell yet replicatedregion dna lesion occurred process directly
+join two end broken dna strand without template losing
+sequence information process thus repair mechanismnecessarily mutagenic however cell dividing hareplicated dna nhej pathway cell option nhej
+relies chance pairing microhomologiessinglestranded tail two dna fragment joinedmultiple independent failsafe pathway nhej higher eukaryotes
+
+recombinational repair requires presence identical nearly
+identical sequence used template repair break
+enzymatic machinery responsible repair process nearly
+identical machinery responsible chromosomal crossovermeiosis pathway allows damaged chromosome repaired using
+newly created sister chromatid template identical
+copy also linked damaged region via centromere
+doublestranded break repaired mechanism usually causedreplication machinery attempting synthesize acrosssinglestrand break unrepaired lesion resultcollapse replication fork
+
+noted topoisomerases sometimes introduce single
+double strand break course changing dna statesupercoiling especially common region near open
+replication fork break considered dna damageserve biochemical purpose immediately repairedenzyme created
+team french researcher bombarded deinococcus radiodurans study
+mechanism doublestrand break dna repair organismleast two copy genome random dna break form dna
+fragment annealing partially overlapping fragmentused synthesis homologous region moving dloopcontinue extension find complementary partner strands
+final step crossover mean recadependent
+homologous recombination
+
+translesion synthesis
+
+translesion synthesis errorprone almost errorguaranteeing
+lastresort method repairing dna lesion repaired
+mechanism dna replication machinery cannot continue
+replicating past site dna damage advancing replication
+fork stall encountering damaged base translesion
+synthesis pathway mediated specific dna polymerase insert
+extra base site damage thus allow replication bypass
+damaged base continue chromosome duplicationcell perspective better introduce mutation aroundsingle site continue cell cycle incompletely
+replicated chromosome base inserted translesion synthesis
+machinery templateindependent arbitrary example one
+human polymerase insert adenine base synthesizing past thymine
+dimer
+
+dna repair aging
+
+poor dna repair induces pathology
+
+dna repair rate important determinant cell pathology
+dna repair rate important determinant cell pathology
+
+experimental animal genetic deficiency dna repair often show
+decreased lifespan increased cancer incidence example mice
+deficient dominant nhej pathway telomere maintenance
+mechanism get lymphoma infection often consequently
+shorter lifespan wildtype mouse similarly mouse deficient
+key repair transcription protein unwinds dna helixpremature onset agingrelated disease consequent shorteninglifespan however every dna repair deficiency creates exactlypredicted effect mouse deficient ner pathway exhibited
+shortened lifespan without correspondingly higher rate mutation
+
+rate dna damage exceeds capacity cell repair
+accumulation error overwhelm cell resultearly senescence apoptosis cancer inherited disease associated
+faulty dna repair functioning result premature aging increased
+sensitivity carcinogen correspondingly increased cancer risk
+see hand organism enhanced dna repair
+system deinococcus radiodurans radiationresistant
+known organism exhibit remarkable resistance double strand
+breakinducing effect radioactivity likely due enhanced
+efficiency dna repair especially nhej noteworthyworker suggest dna damage event occurs self
+repair process combination two event exerteffect greater sum individual event occurred
+long time delay basis second
+event theory favoured busbythe low level radiation campaign
+
+longevity caloric restriction
+
+lifespan influencing gene affect rate dna damage
+lifespan influencing gene affect rate dna damage
+
+number individual gene identified influencing
+variation lifespan within population organism effectgene strongly dependent environment particularlyorganism diet caloric restriction reproducibly resultextended lifespan variety organism likely via nutrient
+sensing pathway decreased metabolic rate molecular mechanisms
+restriction result lengthened lifespan yet
+unclear see discussion however behaviour many genes
+known involved dna repair altered conditioncaloric restriction
+
+example increasing gene dosage gene sirregulates dna packaging nematode worm caenorhabditis elegans
+significantly extend lifespan mammalian homolog sirknown induce downstream dna repair factor involved nhejactivity especially promoted condition caloric
+restriction caloric restriction closely linked ratebase excision repair nuclear dna rodent although similar
+effect observed mitochondrial dna
+
+interestingly elegans gene age upstream effector dna
+repair pathway confers dramatically extended lifespanfreefeeding condition lead decrease reproductive fitness
+condition caloric restriction observation supportpleiotropy theory biological origin aging suggests
+gene conferring large survival advantage early lifeselected even carry corresponding disadvantage latelife
+
+medicine dna repair modulation
+
+hereditary dna repair disorders
+
+defect ner mechanism responsible several genetic
+disorder including
+xeroderma pigmentosum hypersensitivity sunlightuv resulting
+increased skin cancer incidence premature aging
+cockayne syndrome hypersensitivity chemical agents
+trichothiodystrophy sensitive skin brittle hair nails
+
+mental retardation often accompanies latter two disorders
+suggesting increased vulnerability developmental neurons
+
+dna repair disorder include
+werners syndrome premature aging retarded growth
+bloom syndrome sunlight hypersensitivity high incidencemalignancy especially leukemias
+ataxia telangiectasia sensitivity ionizing radiationchemical agents
+
+disease often called segmental progerias
+accelerated aging disease victim appear elderlysuffer agingrelated disease abnormally young age
+
+disease associated reduced dna repair function include
+fanconis anaemia hereditary breast cancer hereditary colon
+cancer
+
+dna repair cancer
+
+inherited mutation affect dna repair gene strongly
+associated high cancer risk human hereditary nonpolyposis
+colorectal cancer hnpcc strongly associated specific
+mutation dna mismatch repair pathway brca brca two
+famous mutation conferring hugely increased risk breast cancercarrier associated large number dna repair
+pathway especially nhej homologous recombination
+
+cancer therapy procedure chemotherapy radiotherapy workoverwhelming capacity cell repair dna damage resulting
+cell death cell rapidly dividingmost typically
+cancer cellsare preferentially affected side effectnoncancerous rapidly dividing cell stem cellbone marrow also affected modern cancer treatment attemptlocalize dna damage cell tissue associatedcancer either physical mean concentrating therapeutic agent
+region tumor biochemical mean exploitingfeature unique cancer cell body
+
+dna repair evolution
+
+ancient conserved mechanism
+
+basic process dna repair highly conserved amongprokaryote eukaryote even among bacteriophage virusinfect bacteria however complex organism complex
+genome correspondingly complex repair mechanismability large number protein structural motif catalyze
+relevant chemical reaction played significant roleelaboration repair mechanism evolution extremely
+detailed review hypothesis relating evolution dna repair
+see 
+
+fossil record indicates single celled life beganproliferate planet point precambrian period
+although exactly recognizably modern life first emergedunclear nucleic acid became sole universal mean encoding
+genetic information requiring dna repair mechanismbasic form inherited extant life formcommon ancestor emergence earth oxygenrich atmosphere known
+theoxygen catastrophe due photosynthetic organism well
+presence potentially damaging free radical cell due
+oxidative phosphorylation necessitated evolution dna repair
+mechanism act specifically counter type damage induced
+oxidative stress
+
+evolutionary rate function dna repair rate
+
+dna damage repaired properly repairederrorprone mechanism mutation introduced genomecell progeny occurs germ line celleventually produce gamete mutation passed affected
+organism offspring rate evolution particular species
+narrowly particular gene function ratemutation thus accuracy rate dna repair
+pathway factor influence

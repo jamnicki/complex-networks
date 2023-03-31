@@ -1,0 +1,68 @@
+copyright
+
+mathematical analysis
+
+ school wikipedia selection related subject mathematics
+
+article branch mathematics words
+mathematical analysis also used mean processresult modeling analyzing phenomenon using mathematical
+technique general
+
+analysis branch mathematics depends upon conceptlimit convergence study closely related topiccontinuity integration differentiability transcendental
+function topic often studied context real
+number complex number function however also
+defined studied space mathematical objectequipped definition nearness topological spacespecifically distance metric space mathematical analysis habeginning rigorous formulation calculus
+
+history
+
+greek mathematician eudoxus archimedes made informal use
+concept limit convergence used methodexhaustion compute area volume region solids
+
+india century mathematician bhaskara conceiveddifferential calculus gave example derivativedifferential coefficient along statement known
+rolles theorem century mathematical analysis
+originated madhava south india developed fundamental
+idea infinite series expansion function power series
+taylor series rational approximation infinite
+series developed taylor series trigonometric functions
+sine cosine tangent arctangent estimated magnitudeerror term created truncating series also developed
+infinite continued fraction term term integration taylor
+series approximation sine cosine power seriesradius diameter circumferenceand anglehis followerkerala school expanded work century
+
+europe latter half century newtonleibniz developed calculus grew stimulus applied
+work continued century analysis topiccalculus variation ordinary partial differential
+equation fourier analysis generating functionperiod calculus technique applied approximate discrete
+problem continuous ones
+
+th century euler introduced concept functionbecame subject debate among mathematician century
+cauchy first put calculus firm logical foundationintroducing concept cauchy sequence also startedformal theory complex analysis poisson liouville fourierothers studied partial differential equation harmonic analysis
+
+middle century riemann introduced theoryintegration last third century saw arithmetization
+analysis weierstrass thought geometric reasoninginherently misleading introduced epsilondelta definitionlimit mathematician started worrying assuming
+existence continuum real number without proof dedekind
+constructed real number dedekind cut around time
+attempt refine theorem riemann integration ledstudy size set discontinuity real functions
+
+alsomonstersnowhere continuous function continuousnowhere differentiable function spacefilling curve begancreated context jordan developed theory measure
+cantor developed called naive set theory baire proved
+baire category theorem early century calculusformalized using axiomatic set theory lebesgue solved problemmeasure hilbert introduced hilbert space solve integral
+equation idea normed vector space airbanach created functional analysis
+
+subdivisions
+
+mathematical analysis includes following subfields
+real analysis rigorous study derivative integralfunction real variable includes study sequences
+limit series measures
+functional analysis study space function introduces
+concept banach space hilbert spaces
+harmonic analysis deal fourier series abstractions
+complex analysis study function complex planecomplex plane complex differentiable
+padic analysis study analysis within context padic
+number differs interesting surprising wayreal complex counterparts
+nonstandard analysis investigates hyperreal numberfunction give rigorous treatment infinitesimals
+infinitely large number normally classed model
+theory
+numerical analysis study algorithm approximatingproblem continuous mathematics
+
+classical analysis would normally understood work using
+functional analysis technique sometimes also called hard
+analysis also naturally refers traditional topicstudy differential equation shared fielddynamical system though overlap straight analysislarge

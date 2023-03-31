@@ -1,0 +1,245 @@
+copyright
+
+open source
+
+ school wikipedia selection related subject website internet
+
+open source describes practice production developmentpromote access end product source materialstypicallysource code consider philosophy others considerpragmatic methodology open source became widely adopted
+developer producer used variety phrase describeconcept term open source gained popularity riseinternet enabling diverse production model communication
+path interactive community subsequently open source software
+became prominent face open source practices
+
+open source model allow concurrent use different
+agenda approach production contrast centralized
+model development typically used commercial
+software company open source applied culture definesculture fixation made generally available participants
+culture able modify product redistribute
+back community
+
+history
+
+open source label came strategy session held palo
+alto california reaction netscape januaryannouncement
+source code release navigator group individualsession included christine peterson suggested open sourcealso included todd anderson larry augustin jon hall sam ockmaneric raymond used opportunity releasenavigator source code free ideologicalconfrontational connotation term free software netscape
+listened released code open source namemozilla
+
+term given big boost event organized aprilby
+technology publisher tim oreilly originally titled freeware
+summit later known open source summit event brought
+together leader many important free open source
+project including linus torvalds larry wall brian behlendorf eric
+allman guido van rossum michael tiemann paul vixie jamie zawinski
+netscape eric raymond meeting confusion causedname free software brought tiemann arguedsourceware new term raymond argued open sourceassembled developer took vote winner announcedpress conference evening
+
+milestone may commonly seen birth open source
+movement however earlier researcher access advanced
+research project agency network arpanet used process called
+request comment similar open standard develop
+telecommunication network protocol characterized contemporary open
+source work collaborative process led birthinternet inan early use open source waibm distributed operating system source format share user
+group formed facilitate exchange source code
+
+open source initiative formed februaryby eric raymond
+bruce perens aboutyears evidence case histories
+closed development versus open development already providedinternet osi continued present open source casecommercial business sought bring higher profilepractical benefit freely available source code wantedbring major software business hightech industryopen source bruce perens adapted debians free software guidelinemake open source definition
+
+critic said term open source foster ambiguitydifferent kind confuses mere availability source
+freedom use modify redistribute developerused term freeopensource softwarefossfreelibreopensource softwarefloss consequently describe
+opensource software freely available free charge
+
+markets
+
+software field affected open source many fieldstudy social political view affected growth
+concept open source advocate one field often
+support expansion open source field including linus
+torvalds quoted saying future open source
+everything
+
+eric raymond founder open source movementsometimes publicly tried put brake speculationapplication outside software arguing strong argumentsoftware openness weakened overreaching areas
+story compelling broader impact open
+source movement extent role development new
+information sharing procedure remains seen
+
+open source movement inspiration increased
+transparency liberty field including releasebiotechnology research cambium wikipedia projectopensource concept also applied medium computer
+program creative common also constitutes exampleuser innovation see example book democratizing innovation
+often open source expression simply mean system
+available wish work
+economist would agree open source candidate public
+good aspect general suggests original work
+involves great deal time money effort however costreproducing work low additional user may added
+zero near zero costthis referred marginal costproduct point necessary consider copyrightidea copyright work authorship protect incentive
+making original work copyright restriction creates
+access cost consumer value original makingadditional copy value original price thuspay access cost difference access cost also pose
+problem author wish create something based another work
+yet willing pay copyright holder rightcopyrighted work second type cost incurred copyright
+system cost administration enforcement copyright
+
+idea open source eliminate access costconsumer creator reducing restriction copyright
+lead creation additional work build upon
+previous work add greater social benefit additionallyproponent argue open source also relief societyadministration enforcement cost copyright organizationcreative common website individual filealternative license level restriction works
+selfmade protection free general society costpolicing copyright infringement thus several frontefficiency argument made behalf open sourced goods
+
+others argue society loses open sourced goodloss monetary incentive creation new goods
+argue new product created argument seems
+apply particularly business model extensive research
+development done pharmaceutical however others argue
+visual art work authorship freeproponent extensive open source ideal arguemonetary incentive artists
+
+agriculture
+
+beverages
+opencolaan idea inspired open source movement soft
+drink giant like coke pepsi hold formulaclosely guarded secret volunteer posted recipe
+similar cola drink internet taste saidcomparable standard beverages
+beera beer recipe called vores beer createdstudent ituniversity copenhagen togethersuperflex copenhagenbased artist collective illustrate
+open source concept might applied outside digital
+world concept expands upon statement found free
+software definition free software matter liberty
+price understand concept thinkfree free speech free beer following
+release article wired magazine commentedopen source spread beyond software online encyclopedias
+like wikipedia biological research matter
+time somebody created opensource beer
+ina beer company australia
+brewtopia started open source brewery invitedgeneral population involved developmentownership brewery asking votedevelopment every aspect beer blowflyroad market return feedback inputreceived share company publicly traded
+one stock exchange australia companyalways adhered open source root beer
+company world allows public design
+customise develop beer online
+coffeeit pointed capsulebased beverage
+system nestle nespresso krups tassimo turn
+homebrewed coffee inherently opensource beverage
+product limited specific range capsule made
+available system manufacturers
+
+content
+
+open source sometimes used describe contentarguable open source license used rather open content
+license used content properly called open content
+free content applicable
+
+health science
+
+medicine
+pharmaceuticalsthere several proposalopensource pharmaceutical development ledestablishment tropical disease initiativealso number notforprofit virtual pharmainstitute one world health drug neglected
+disease initiative
+science
+researchthe science common created alternative
+expensive legal cost sharing reusing scientific
+work journal etc
+
+technology
+
+mediawiki logo
+enlarge
+mediawiki logo
+computer software
+open source softwaresoftware whose source code published
+made available public enabling anyone copy
+modify redistribute source code without paying
+royalty fee open source code evolves community
+cooperation community composed individual
+programmer well large company exampleopensource software productlinux kerneloperating system based unix
+eclipsesoftware framework richclient
+applications
+apachehttp web server
+tomcat web serverweb container
+blenderd graphic application
+moodlecourse management system
+mozilla firefoxweb browser
+mozilla thunderbirdemail client
+openofficeorgoffice suite
+opensolarisunix operating system sun microsystems
+mediawikiwiki server software software runs
+wikipedia
+drupalcontent management system
+gnu compiler collectionprogramming language compiler
+c java languages
+
+computer hardware
+open source hardwarehardware whose initial specification
+usually software format published made available
+public enabling anyone copy modifyredistribute hardware source code without paying
+royalty fee open source hardware evolvescommunity cooperation community composedindividual hardwaresoftware developer hobbyist welllarge company example open source hardware
+initiativesun microsystems opensparc multicore processor sun
+ha released gpl
+arduino microcontroller platform hobbyists
+artist designers
+
+open designwhich involves applying open source methodologydesign artifact system physical worldnascent huge potential
+
+teachingwhich involves applying concept open sourceinstruction using shared web space platform improve upon
+learning organizational management challenge exampleopen source courseware java educationdevelopment
+initiative jedi
+
+open source principle also applied technical areacomputer software digital communication protocoldata storage format instance indian development simputer
+
+society culture
+
+open source applied culture defines culture fixations
+made generally available participant open source
+culture able modify product needed redistribute
+back community organizations
+
+government
+
+open source governmentprimarily refers use open source
+software technology traditional government organizationgovernment operation voting
+open source politicsis term used describe political
+process internet technology blog emailpolling provide rapid feedback mechanism political
+organization supporter also alternative
+conception term relates development public
+policy set rule process similar open
+source software movement
+open source governanceis similar open source politicsapplies democratic process promotes freedominformation
+
+education
+
+within academic community discussion expandingcould called intellectual common analogous creative
+common proponent view hailed opencourseware
+project mit eugene thackers article onopen source dnaopen source cultural database openwebschool wikipediaexample applying open source outside realm computer
+software
+
+open source curriculum instructional resource whose digital source
+freely used distributed modified typically classroom
+educator open source curriculum development process invitefeedback participation community educational practitioners
+working create course unit study development
+community form adhoc within subject area aroundcommon student need allow variety editing workflow
+structure openeducator nonprofit organization launched march
+using open source drupal aim support open source
+curriculum development community educator another project
+open source learning project open source curriculum project
+initiated oak institute technology career development
+public safety servicesthis project focused curriculumtraining material emergency service developing resourceemergency service related research
+
+innovation communities
+
+principle sharing predates open source movementexample free sharing information institutionalizedscientific enterprise since least century open source
+principle always part scientific communitysociologist robert merton described four basic elementcommunityuniversalism international perspective communism
+sharing information disinterestedness removing one personal views
+scientific inquiry organized skepticism requirementproof review accurately describe scientific community
+today principle part complemented law focusprotecting expression method ideaalso tradition publishing research result scientific
+community instead keeping knowledge proprietary onerecent initiative scientific publishing open accessthe
+idea research published way free
+available public currently many open access
+journal information available free online however
+journal charge fee either user libraryaccess budapest open access initiative international effort
+goal making research article available freeinternet national institute health recently proposedpolicy enhanced public access nih research informationpolicy would provide free searchable resource nihfunded results
+public international repository six months
+initial publication nih move important one
+significant amount public funding scientific
+research many question yet answeredthe balancing
+profit public access ensuring desirable standardincentive diminish shift open access
+
+benjamin franklin early contributor donating inventions
+including franklin stove bifocals lightning rodpublic domain
+
+bootstrap austin open source community entrepreneur provide
+negotiated productsservices cost group entrepreneur
+benefit gaining reputation community experienceimproved product community customer evangelist
+productservice entrepreneur monetizes productservice outside bootstrap community
+
+art recreation
+
+copyright protection used performing art evenathletic activity group attempted protect practices
+fettered copyright
+

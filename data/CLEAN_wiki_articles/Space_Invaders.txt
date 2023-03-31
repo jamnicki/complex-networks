@@ -1,0 +1,221 @@
+copyright
+
+space invaders
+
+ school wikipedia selection related subject computervideo games
+
+space invaders
+space invader screenshot
+developer taito corporation
+publisher midway
+designer toshihiro nishikadogame designer
+david yuhprogrammer
+release date 
+genre fixed shooter
+mode single player
+platform arcade
+input two motion button one fire button two start buttons
+arcade cabinet upright
+arcade cpu intelmhz
+arcade sound system texas instrument arcade display monochrome raster vertical orientation
+
+space invader arcade video game designed toshihiro nishikado
+init originally manufactured taito licensedproduction midway division bally releasedfirst native japan init rank oneinfluential video game ever created though simplistic todays
+standard one forerunner modern video gaming
+
+description
+
+inspired taitos earlier electromechanical machine space monsters
+toshiros interpretation alien description warworld game resembled adaptation twovideo game version game player controlled motionmovable laser cannon moved back forth across bottomvideo screen row row video alien marched back forth
+across screen slowly advancing top bottomscreen alien successfully landed bottomscreen game would end player laser cannonunlimited supply ammunition shoot alien destroyhit bottom screen
+
+meanwhile alien would shoot back player raining deadly
+ray bomb player would dodge lest cannondestroyed player cannon could destroyed three timeplayer three life game would end player last
+life lost occasionally bonus spaceship would fly across top
+screen player could shoot extra points
+
+player destroyed increasing number alien aliens
+began marching faster faster lone remaining alien zooming
+rapidly across screen shooting last alien formation
+rewarded player new screen alien beganmarch one row lower previous round
+
+implementation
+
+mirrored holographic display cardboard background midway space
+invader deluxe arcade cabinet note monitor bottom
+mirrored holographic display cardboard background midway space
+invader deluxe arcade cabinet note monitor bottom
+
+one key feature space invader factalien shot remaining alien would move fasterfaster change speed minor beginning wavedramatic near end action originally unintentional
+result way game writtenas program move
+fewer fewer alien could update display fasterbutdevelopment team decided retain feature ratherimplementing busy waiting invader screen
+
+space invader used intelas processor running atmhz
+graphic implemented abpp frame buffer mappedmain cpu address space sound effect implemented individually
+discrete electronics
+japanese version space invader arcade cabinet note
+joystick
+japanese version space invader arcade cabinet note
+joystick
+
+upright version actual output game displayed
+mirrorimage black white monitor sat recessedgame cabinet image reflected plastic panelplayer saw behind reflective panel lunar landscapegave game impressive background setting interestingnote two major upright original taito
+upright utilized joystick control people americafamiliar midway licensed version used directional
+button arguably inferior artwork bezel side artmoon backgrounds
+
+since actual video game console monochrome video
+image taito added colour coating reflective screen colored
+band noted however first versiongame japan table top space invader cocktail
+table purely black white graphic colour overlay
+wa also version game graphicconverted actual rgb colour
+
+space invader hardware generation random numberseemingly random point value awarded ufo actually utilized
+hash function based number shot player fired
+current invasion wave take long experimenterdetermine maximum point value could achieved every time
+player shot wave first ufo shotsubsequent ufo shot interval thereafter later revisiongame removed bug
+
+another important tactical element arcade gameimpossible player spaceship harmed invader firing
+missile lowest line screen invader lands
+
+graphic design
+
+octobernishikado commented interview english based
+video game magazine edge look alien baseddescription alien invader g well classic science
+fiction story war world story alien looked
+like octopus drew bitmap image based ideacreated several alien look like sea creature squid
+crab nishikado also noted original intention designing
+shooting game make enemy airplanetechnically difficult render opposeddepicting enemy human wouldtechnically easier believed idea depicting shooting
+human morally wrong
+
+legacy
+
+popular response
+
+enormous blockbuster success space invader madeentertainment industry sit take notice within first yearrelease game generated revenue ranging hundredmillion dollarswith majority coming teenager school
+child pumped million coin game frenzied
+pace japan space invader caused coin shortage yen
+supply quadrupled 
+
+space invader became popular part due new style game
+play release video game timed clockplayer time plus possible bonus time game endedspace invader game ended player exhaustedthree allotted life invader landed bottomscreen person could therefore play long skill level
+allowed
+
+highest score
+
+according book stratford video gaming recordspremiere
+edition pgat canadian national exhibition heldaugustand septemberthe following record setcontinuous play game
+
+st place new record
+
+set eric furrer male agetoronto ontario canada
+score 
+play timehoursminutes
+particular total ofbasesscore rolls
+pausesmin excluded play time
+prizedollarsstratford tshirt video gaming
+trophy
+
+nd place new record
+
+set cory graham male agegreen bay wisconsin united
+states
+score 
+play timehoursminutes
+particular total ofbasesscore rolls
+pause none
+prizedollarsstratford tshirt video gaming
+trophy
+
+rd placerecord
+
+set gail henshaw female agebuffalo new york united
+states
+score 
+play timeminutes
+particular total ofbasesscore rolls
+pause none
+prizedollarsstratford tshirt
+
+later releases
+
+home version space invader atariwas huge
+success offereddifferent version game variations
+included invisible invader invisible missile subtle
+alteration first video arcade adaptation atari
+system early game thewere adaptationearly atari video arcade game breakout pong night driver
+etc first officially licensed arcade game home
+conversion one company another case taito atari
+home console company would make conversion space
+invader example included space armada intellivision alien
+invadersplus odysseyand invader tia
+atari owned right use title space invaders
+console released inbut sale 
+skyrocketed theholiday shopping season millionfamily bought atari system could play space
+invader marked beginning home video adaptationpopular arcade games
+
+space invader spawned large number imitator video game
+manufacturer sought cash successful formula released
+many arcade game featuring variation theme attacking
+alien outer space one example game called pepsi
+invader made atari request cocacola atlanta
+employee taito released several sequel space invaderarcade years
+space invader part iispace invader deluxe 
+return invader 
+majestic twelve space invader part ivsuper space invaders
+
+
+
+space invader 
+akkanvadersspace invadersthe attack lunar
+loony 
+
+release pacman inbroke mold alien invader games
+opened way creativity originality video
+gaming industry legacy space invader lifeactionbased science fiction game continue pay homageoriginal shootemup video game
+
+enemy based space invader also appeared bubble bobble games
+top bubble symphony featured giant space invader
+guarded alien move like space invader boscameo appearance player controlled spaceship companionmain characters
+
+super space invader space invader clone range systems
+including amiga master system super nintendo entertainment
+system featuring greatly upgraded graphic sound alongaddition game play powerups advanced formalien despite given average review best sold
+poorly
+
+space raider space invader invasion day europe releasedversion space invader rather laserbottom shooting player human shooting forward alienstreet
+
+space invader space invader part return invaderrereleased octoberas part taito legendplaystationxbox three arcade invader games
+space invader super space invadersand space invader 
+attack lunar loony scheduled rerelease fallpart taito legendsfor platforms
+
+aprilspace invader trilogy includes arcade versionspace invader space invader part return invaderreleased pocket smartphone
+
+street art
+
+invader mosaic seen avignon
+invader mosaic seen avignon
+
+space invader also inspired form street art french
+artist known pseudonyminvader using ceramic tiles
+invader cement together mosaic image inspired traditional space
+invader alien bonus spaceship variation themes
+sometimes including character pacman series super mario
+series video game mosaic tile smallothers large mural mosaic cemented onto building
+wall lamp post base structure form spread
+throughout world since among thancities 
+continent invader still activity thousandindividual invader documented photograph invaders
+website
+
+human space invaders
+
+inat belluard bollwerk internationalfestival fribourg
+switzerland guillaume reymond notsonoisy created aminute video
+recreation space invader using human pixel partlarger project called gameover project also includes human
+pong
+
+easter egg
+
+atariversion game single player obtain
+double bullet turning game holding game
+reset switch choosing single playerbullets firedpress button dramatically change naturegame allows player obtain much higher score
+

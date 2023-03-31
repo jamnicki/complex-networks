@@ -1,0 +1,227 @@
+copyright
+
+set
+
+ school wikipedia selection related subject mathematics
+
+mathematics set thought collection distinct
+object considered whole although appears simple
+idea set one important fundamental conceptmodern mathematics study structure possible set set
+theory rich ongoing
+
+invented end century set theoryubiquitous part mathematics education introducedprimary school many country set theory viewedfoundation upon nearly mathematics derived
+
+naive set theory
+
+beginning work beitrge zur begrndung der transfiniten
+mengenlehre georg cantor principal creator set theory made
+following definition set
+
+set understand collection definite distinct objects
+perception thought calledelement whole
+
+object set also called member element set
+anything number people letter alphabet sets
+set conventionally denoted capital letterinstance c two set said equal every
+member also member crucially every member balso member written 
+set unlike multiset cannot contain two identical
+element set operation preserve property elementset unique similarly order element set
+listed irrelevant unlike sequence tuple
+
+axiomatic set theory
+
+although initially naive set theory defines set merelywelldefined collection well accepted soon ranseveral obstacle found definition spawned several
+paradox notably
+russels paradoxit show set setcontain set leftx xmbox set
+xnotin rightis welldefined
+cantor paradoxit show set set cannot
+exist
+
+reason phrase welldefined welldefinedwa important free set theory paradox since entire
+mathematics redefined term set theory attempt
+avoid paradox set theory axiomatized basedfirstorder logic thus axiomatic set theory born
+
+purpose however naive set theory still useful
+
+applications
+
+set theory seen foundation virtuallymathematics derived example structure abstract
+algebra group field ring set closed oneoperations
+
+description set
+
+set precise description may arbitrary
+collection expressible inclusion criteria
+
+set may described words
+
+set whose member first four positive whole
+numbers
+b set whose member color french flag
+
+convention set defined explicitly listing elements
+brace sometimes called curly bracket curly braces
+
+c
+dred white blue
+
+two different description may define set usingexample identical since preciselymember shorthand used express equality
+
+set described set builder notation doe depend order
+element listed whether repetitions
+list example
+
+
+
+notationmerely indicates set
+described includes element listed element listed
+two element transposed effect
+resulting set
+
+set many element abbreviated list sometimes used
+first one thousand positive whole number described using
+symbolic shorthand
+
+
+
+ellipsisindicates list continues way
+ellipsis may also used set extend infinity setpositive even number described
+
+set particularly complex one use different notationset whose member first twenty number four less
+square integer described
+
+fnn integer andn
+
+description colonmeans description
+interpreted set number form n whole number range fromtoinclusive
+sometimes pipe notationis used instead colon
+
+membership
+
+something element particular setsymbolised notin respectively respect sets
+defined
+andin sincebut
+notin mathrmgreen notin 
+
+cardinality
+
+set described definite number memberexample set four member set ha three members
+denoted respectively
+
+set zero member set called empty setnull set denoted symbolletting setthreesided square zero member thus alikenumber zero though seemingly trivial empty set turnquite important mathematics
+
+set infinite number member example setnatural number infinite infinite set larger cardinality
+others real number natural numbersense cardinality
+
+subsets
+
+every member set also member set saidsubset written subseteq also pronounced contained
+b equivalently write supseteq aread bsuperset includes contains relationshipset established subseteq called inclusion containment
+
+subset equal called proper
+subset written subset proper subset b
+supset proper superset however literature
+symbol read subseteq supseteqsoexplicit symbol subsetneq supsetneq often usedproper subset supersets
+subset 
+subset 
+example
+
+set men proper subset setpeople
+subset 
+subseteq 
+
+empty set subset every set every set subset
+emptyset subseteqsubseteq
+power set
+
+power set set defined set subsetincludes subset formed member empty
+set finite set cardinality power setcardinality infinite either countable uncountable
+set power set always uncountable power setwritten
+special sets
+
+set hold great mathematical importancereferred regularity acquired special names
+notational convention identify one empty
+set many set represented using blackboard bold typeface
+special set number include
+mathbbpdenoting set primes
+mathbbndenoting set natural numbersay mathbbnor sometimes mathbbn
+
+mathbbzdenoting set integer whether positive
+negative zero mathbbz
+mathbbqdenoting set rational numberset proper improper fraction mathbbqleft
+beginmatrixfracab endmatrix mathbbz neq
+rightfor example beginmatrix frac endmatrix
+mathbbq beginmatrixfrac endmatrixmathbbqall integer set since every integerexpressed fraction beginmatrix fraca
+endmatrix 
+mathbbrdenoting set real number set
+includes rational number together irrational numbers
+number cannot rewritten fractione 
+mathbbcdenoting set complex numbers
+
+set number infinite number elementmathbbp subset mathbbn subset mathbbz subset mathbbq
+subset mathbbr subset mathbbcthe prime used less
+frequently others outside number theory related fields
+
+basic operations
+
+unions
+
+way construct new set existing one two setadded together union denoted b set
+thing member either union 
+union 
+examples
+
+u red whitered white
+green red white greenred white
+green
+u
+
+basic property union
+u uaa b
+u ua
+
+intersections
+
+new set also constructed determining member two sets
+common intersection denoted abset thing member ab
+b said disjoint
+intersect 
+intersection 
+examples
+
+red white
+greenred white greengreen
+
+
+basic property intersections
+
+abba
+aba
+aaa
+
+complements
+
+two set also subtracted relative complement also called set theoretic difference denotedba set element member member note valid subtract memberset set removing green fromdoing
+ha effect
+
+certain setting set discussion consideredsubset given universal set case calledabsolute complement simply complement denotedb minus
+relative complement
+b
+
+complement
+
+complement 
+examples
+
+red white
+greenred white green
+
+u set integer set even integers
+set odd integer complement eu equivalently 
+basic property complements
+
+u aa
+aa
+aa
+abab
+

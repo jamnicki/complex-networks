@@ -1,0 +1,390 @@
+copyright
+
+redshift
+
+ school wikipedia selection related subject general physic space
+astronomy
+
+redshift spectral line optical spectrum superclusterdistant galaxy right compared sun left
+wavelength increase towards red beyond frequency
+decreases
+enlarge
+redshift spectral line optical spectrum superclusterdistant galaxy right compared sun left
+wavelength increase towards red beyond frequency
+decreases
+
+physic astronomy redshift occurs visible lightobject shifted towards red end spectrumgenerally redshift defined increase wavelengthelectromagnetic radiation received detector comparedwavelength emitted source increase wavelength
+corresponds decrease frequency electromagnetic
+radiation conversely decrease wavelength called blueshift
+
+increase wavelength called redshift even occurselectromagnetic radiation nonoptical wavelength gamma
+ray xrays ultraviolet nomenclature might confusing
+since wavelength longer red infrared microwaveradio wave redshift shift radiation away red
+wavelengths
+
+redshift occur light source move away observer
+corresponding doppler shift change frequency sound
+wave although observing redshift several terrestrial
+application doppler radar radar gun spectroscopic
+astrophysics doppler redshift determine movementdistant astronomical object doppler redshift phenomenonfirst predicted observed nineteenth century scientists
+began consider dynamical implication wavenaturelight
+
+another redshift mechanism account famous observationspectral redshift distant galaxy quasar intergalactic gas
+cloud observed increase proportionally distanceobserver relation accounted model predictuniverse expanding seen example big bang model yetthird type redshift gravitational redshift also knowneinstein effect result time dilation occurs general
+relativity near massive objects
+
+history
+
+hippolyte fizeau first described doppler redshift
+enlarge
+hippolyte fizeau first described doppler redshift
+
+history subject begin developmentnineteenth century wave mechanic exploration phenomena
+associated doppler effect effect named christian
+andreas doppler offered first known physical explanationphenomenon inthe hypothesis tested confirmedsound wave dutch scientist christoph hendrik diederik buys
+ballot indoppler correctly predicted phenomenonapply wave particular suggested varying colors
+star could attributed motion respect earth
+attribution turned incorrect stellar colorindicator star temperature motion doppler would latervindicated verified redshift observations
+
+first doppler redshift described french physicist
+armandhippolytelouis fizeau inwho pointed shiftspectral line seen star due doppler effecteffect sometimes called dopplerfizeau effect 
+british astronomer william huggins first determinevelocity star moving away earth method
+
+inoptical redshift confirmed phenomenon observed
+fraunhofer line using solar rotation aboutin redaristarkh belopolsky verified optical redshift laboratory
+using system rotating mirrors
+
+earliest occurrence term redshift printhyphenated form appears american astronomer walter adams
+inwhere mention two method investigating naturenebular redshift word doesnt appear unhyphenated perhaps
+indicating common usage german equivalent
+rotverschiebung aboutby willem sitter
+
+beginning observation investo slipher discoveredspiral nebula considerable redshift subsequently edwin hubble
+discovered approximate relationship redshiftnebula known galaxy rightdistance formulation eponymous hubble law
+observation today considered strong evidenceexpanding universe big bang theory
+
+measurement characterization interpretation
+
+redshift measured looking spectrum lightcome single source see idealized spectrum illustration
+topright feature spectrum absorption
+line emission line variation light intensityredshift principle calculated requires comparingobserved spectrum known spectrum similar featureexample atomic element hydrogen exposed light hadefinite signature spectrum show feature regular intervals
+pattern interval seen observed spectrum
+occurring shifted wavelength redshift measuredobject determining redshift object therefore requiresfrequency wavelengthrange redshift cannot calculatedlooking isolated feature spectrum featurelesswhite noise random fluctuation spectrum
+
+redshift blueshift may characterized relative
+difference observed emitted wavelength frequency
+object astronomy customary refer change
+using dimensionless quantity called ifrepresents wavelengthf represents frequency note c speed light
+z defined equations
+
+caption measurement redshift 
+based wavelength based frequency
+zfraclambdamathrmobserved 
+lambdamathrmemittedlambdamathrmemitted 
+fracfmathrmemitted 
+fmathrmobservedfmathrmobserved
+zfraclambdamathrmobservedlambdamathrmemitted
+zfracfmathrmemittedfmathrmobserved
+
+z measured distinction redshift blueshiftsimply matter whether positive negative accordingmechanism section basic interpretationfollow either redshift blueshift observed example
+doppler effect blueshifts zare associated objects
+approaching moving closer observer light shiftinggreater energy conversely doppler effect redshift zare
+associated object receding moving away observerlight shifting lower energy likewise einstein effect
+blueshifts associated light entering strong gravitational
+field einstein effect redshift imply light leaving field
+
+mechanisms
+
+single photon propagated vacuum redshift several
+distinct way mechanism produce dopplerlike
+redshift meaning independent wavelength mechanisms
+described galilean lorentz general relativistic
+transformation one frame reference another
+
+caption redshift summary
+
+redshift type transformation frame example metric definition
+doppler redshift galilean transformation euclidean metric 
+fracvc
+relativistic doppler lorentz transformation minkowski metric 
+leftfracvcright gamma
+cosmological redshift general relativistic frw metric 
+fracamathrmnowamathrmthen
+gravitational redshift general relativistic schwarzschild metric
+zfracsqrtleftfracgmrcright
+
+doppler effect
+
+source light moving away observer redshift
+zoccurs source move towards observerblueshift zoccurs true electromagnetic waves
+explained doppler effect consequently typeredshift called doppler redshift source move awayobserver velocity ignoring relativistic effectredshift given
+z approx fracvcsince gamma approxsee
+c speed light classical doppler effectfrequency source modified recessional motion
+cause illusion lower frequency
+
+relativistic doppler effect
+
+complete treatment doppler redshift requires considering
+relativistic effect associated motion source closespeed light complete derivation effect foundarticle relativistic doppler effect brief object moving
+close speed light experience deviationformula due time dilation special relativitycorrected introducing lorentz factorinto classical
+doppler formula follows
+
+zleftfracvcright gamma
+
+phenomenon first observed aexperiment performedherbert ives stilwell called ivesstilwell experiment
+
+since lorentz factor dependent magnitudevelocity cause redshift associated relativistic
+correction independent orientation source movement
+contrast classical part formula dependentprojection movement source line sightyield different result different orientation consequentlyobject moving angleto observer zero angle directly
+away observer full form relativistic doppler
+effect becomes
+
+zfracv thetacsqrtvc
+
+motion solely line sightthis equation
+reduces
+zsqrtfracfracvcfracvc
+
+special case source moving right angles
+detector relativistic redshift knowntransverse redshift redshift measured even though object
+moving away observer even source moving
+towards observer transverse component motion
+speed dilation cancelexpected blueshift higher speed approaching sourceredshifted
+
+expansion space
+
+early part twentieth century slipher hubble others
+made first measurement redshift blueshifts galaxies
+beyond milky way initially interpreted redshiftblueshifts due solely doppler effect later hubble
+discovered rough correlation increasing redshiftincreasing distance galaxy theorist almost immediately realized
+observation could explained different mechanismproducing redshift hubble law correlation redshifts
+distance required model cosmology derived general
+relativity metric expansion space result photons
+propagating expanding space stretched creatingcosmological redshift differs doppler effect redshifts
+described velocity boost lorentz
+transformation source observer due classical
+momentum energy transfer instead photon increasewavelength redshift space traveling
+expands effect prescribed current cosmological modelobservable manifestation timedependent cosmic scale factor
+following way
+
+zfracamathrmnowamathrmthen
+
+type redshift called cosmological redshift hubble
+redshift universe contracting instead expandingwould see distant galaxy blueshifted amount proportionaldistance instead redshifted
+
+galaxy receding simply mean physical velocity
+direction away observer instead intervening space
+stretching account largescale isotropyeffect demanded cosmological principle cosmological
+redshift zthe effect spacetime expansion minimalobserved redshift dominated peculiar motion galaxies
+relative one another cause additional doppler redshiftblueshifts difference physical velocity space
+expansion clearly illustrated expanding rubber sheet
+universe common cosmological analogy used describe expansion
+space two object represented ball bearing spacetime
+stretching rubber sheet doppler effect caused rolling
+ball across sheet create peculiar motion cosmological
+redshift occurs ball bearing stuck sheetsheet stretched obviously dimensional problemmodel ball bearing sheet cosmological
+redshift produce higher velocity doppler distance
+two object far enough
+
+spite distinction redshift caused velocityobject redshift associated expanding universe
+astronomer especially professional one sometimes referrecession velocity context redshifting distant
+galaxy expansion universe even thoughapparent recession consequence popular literature often usexpression doppler redshift instead cosmological redshiftdescribe motion galaxy dominated expansionspacetime despite fact cosmological recessional speed
+calculated equal velocity relativistic doppler
+equation particular doppler redshift bound special
+relativity thus impossible contrast vcpossible cosmological redshift space separates
+object quasar earth expand fasterspeed light mathematically viewpoint distant
+galaxy receding viewpoint spacegalaxy expanding related changing coordinate systems
+expressing precisely requires working mathematicsrobertsonwalker metric
+
+gravitational redshift
+
+graphical representation gravitational redshift dueneutron star
+enlarge
+graphical representation gravitational redshift dueneutron star
+
+theory general relativity time dilation withingravitational well known gravitational redshifteinstein shift theoretical derivation effect followsschwarzschild solution einstein equation yieldfollowing formula redshift associated photon travelinggravitational field uncharged nonrotating spherically
+symmetric mass
+
+zfracsqrtleftfracgmrcright 
+
+g gravitational constant
+mass object creating gravitational field
+r radial coordinate observer analogousclassical distance centre objectactually schwarzschild coordinatec speed light
+
+gravitational redshift result derived assumptions
+special relativity equivalence principle full theorygeneral relativity required
+
+effect small measurable earth using mossbauer
+effect first observed poundrebka experiment however
+significant near black hole object approachevent horizon red shift becomes infinite also dominant
+cause large angularscale temperature fluctuation cosmic
+microwave background radiation see sachswolfe effect
+
+observation astronomy
+
+redshift observed astronomy measured emission
+absorption spectrum atom distinctive well known
+calibrated spectroscopic experiment laboratory earth
+redshift various absorption emission linesingle astronomical object measured found remarkably
+constant see fine structure constant really constant
+although distant object may slightly blurred line broadened
+explained thermal mechanical motion
+source reason others consensus among
+astronomer redshift observe duecombination three established form dopplerlike redshifts
+alternative hypothesis generally considered plausible
+
+spectroscopy measurement considerably difficultsimple photometry measure brightness astronomical objects
+certain filter photometric data available
+example hubble deep field hubble ultra deep field
+astronomer rely technique measuring photometric redshifts
+due filter sensitive range wavelengthtechnique relying making many assumption naturespectrum lightsource error sort measurements
+range zand much reliable spectroscopic
+determination however photometry doe allow leastqualitative characterization redshift example sunlike
+spectrum redshift zit would brightest infrared
+rather yellowgreen colour associated peakblackbody spectrum light intensity reducedfilter factor two see correction detailphotometric consequence redshift
+
+local observations
+
+nearby object within milky way galaxy observed redshiftalmost always related line sight velocity associatedobject observed observation redshiftblueshifts enabled astronomer measure velocityparametrize mass orbiting star spectroscopic binaries
+method first employed inby british astronomer william huggins
+similarly small redshift blueshifts detected spectroscopic
+measurement individual star one way astronomer able
+diagnose measure presence characteristic planetary
+system around star measurement redshift fine detail
+used helioseismology determine precise movementphotosphere sun redshift also used make first
+measurement rotation rate planet velocityinterstellar cloud rotation galaxy dynamicaccretion onto neutron star black hole exhibit doppler
+gravitational redshift additionally temperature various
+emitting absorbing object obtained measuring doppler
+broadeningeffectively redshift blueshifts single
+emission absorption line measuring broadening shiftcentimeter hydrogen line different direction astronomers
+able measure recessional velocity interstellar
+gas turn reveals rotation curve milky way similar
+measurement performed galaxy andromeda
+diagnostic tool redshift measurement oneimportant spectroscopic measurement made astronomy
+
+extragalactic observations
+
+physical cosmology
+
+age universe
+big bang
+blueshift
+comoving distance
+cosmic microwave background
+dark energy
+dark matter
+flrw metric
+friedmann equations
+galaxy formation
+hubble law
+inflation
+largescale structure
+lambdacdm model
+metric expansion space
+nucleosynthesis
+observable universe
+redshift
+shape universe
+structure formation
+timeline big bang
+timeline cosmology
+ultimate fate universe
+universe
+
+related topics
+astrophysics
+general relativity
+particle physics
+quantum gravity
+
+
+distant object exhibit larger redshift correspondinghubble flow universe largest observed redshift
+corresponding greatest distance furthest back timecosmic microwave background radiation numerical value
+redshift zzcorresponds present time
+show state universe aboutbillion year ago
+andyears initial moment big bang
+
+luminous pointlike core quasar first highredshift
+zobjects discovered improvement telescopes
+allowed discovery highredshift galaxy currently
+highest measured quasar redshift zwith highest
+confirmed galaxy redshift zwhile asyet unconfirmed
+report gravitational lens observed distant galaxy cluster
+may indicate galaxy redshift 
+galaxy distant local group nearby virgo
+cluster within thousand megaparsecs redshiftapproximately proportional galaxy distance correlation
+wa first observed edwin hubble come known hubbles
+law vesto slipher first discover galactic redshiftyearwhile hubble correlated sliphers measurements
+distance measured mean formulate lawwidely accepted cosmological model based general relativity
+redshift mainly result expansion space meanfarther away galaxy space expanded
+time since light left galaxy lightstretched redshifted light fasterappears moving away hubble law follows partcopernican principle usually known luminous
+object measuring redshift easier direct distance
+measurement redshift sometimes practice converted crude
+distance measurement using hubble law
+
+gravitational interaction galaxy clusters
+cause significant scatter normal plot hubble diagram
+peculiar velocity associated galaxy superimpose rough
+trace mass virialized object universe effect
+lead phenomenon nearby galaxy andromeda
+galaxy exhibiting blueshifts fall towards common barycenter
+redshift map cluster showing finger god effect duescatter peculiar velocity roughly spherical distribution
+added component give cosmologist chance measure masses
+object independent mass light ratio ratiogalaxy mass solar mass brightness solar luminosities
+important tool measuring dark matter
+
+distant galaxy relationship current distance
+observed redshift becomes complex one see distant
+galaxy one seeing galaxy sometime pastexpansion rate universe differentearly time expect difference expansion rateleast two reasons
+gravitational attraction galaxy actingslow expansion universe sincepossible existence cosmological constant quintessence
+may changing expansion rate universe
+
+recent observation suggested expansion universeslowing expected first point acceleratingwidely though quite universally believedform dark energy dominating evolutionuniverse cosmological constant implies ultimate fate
+universe big crunch instead continue exist
+foreseeably though physical process within universestill come eventual end
+
+expanding universe central prediction big bang theory
+extrapolated back time theory predicts singularitypoint time universe infinite density theorygeneral relativity big bang theory based breakpoint believed yet unknown theory quantum
+gravity would take density becomes infinite
+
+redshift surveys
+
+rendering dfgrs data
+enlarge
+rendering dfgrs data
+
+advent automated telescope improvementspectroscope number collaboration made mapuniverse redshift space combining redshift angular position
+data redshift survey map distribution matter withinfield sky observation used measure propertylargescale structure universe great wall vast
+supercluster galaxy overmillion lightyears wide providesdramatic example largescale structure redshift surveydetect
+
+first redshift survey cfa redshift survey started 
+initial data collection completed inmore recentlydf galaxy redshift survey determined largescale structure one
+section universe measuring zvalues overgalaxies
+data collection completed inand final data setreleasedjunein addition mapping largescale patterngalaxy established upper limit neutrino mass another
+notable investigation sloan digital sky survey ongoing
+ofand aim obtain measurement aroundmillion
+object ha recorded redshift galaxy high asand
+ha involved detection quasar beyond zthe deep
+redshift survey keck telescope new deimos
+spectrograph followup pilot program deep deep designed
+measure faint galaxy redshiftsandtherefore planned provide complement df
+
+effect due physical optic radiative transfer
+
+interaction phenomenon summarized subject radiative
+transfer physical optic result shift wavelengthfrequency electromagnetic radiation case shifts
+correspond physical energy transfer matter photons
+rather due transformation reference frames
+shift due coherence effect see wolf effect due
+scattering electromagnetic radiation whether charged
+elementary particle particulate fluctuationdielectric medium phenomenon sometimes referredredshift blueshifts physical interactionelectromagnetic radiation field intervening matter
+distinguishes phenomenon referenceframe effectastrophysics lightmatter interaction result energy shiftradiation field generally referred reddening rather
+redshifting term normally reservedeffect discussed
+many circumstance scattering cause radiation reddenentropy result predominance many low energy photonhigh energy one conserving total energy except possiblycarefully controlled condition scattering doe producerelative change wavelength across whole spectrumcalculated generally function wavelength furthermore
+scattering random medium generally occurs many angle zfunction scattering angle multiple scattering occursscattering particle relative motion generally
+distortion spectral line well
+
+interstellar astronomy visible spectrum appear redder duescattering process phenomenon referred interstellar
+reddeningsimilarly rayleigh scattering cause atmospheric
+reddening sun seen sunrise sunset cause rest
+sky blue colour phenomenon distinctredshifting spectroscopic line shiftedwavelength reddened object additional dimmingdistortion associated phenomenon due photonscattered line sight

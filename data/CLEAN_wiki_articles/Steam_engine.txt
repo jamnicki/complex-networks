@@ -1,0 +1,501 @@
+copyright
+
+steam engine
+
+ school wikipedia selection related subject engineering
+
+term steam engine may also refer entire railroad steam
+locomotive
+
+steam engine external combustion heat engine make usethermal energy exists steam converting mechanical
+work
+
+steam engine used prime mover pump locomotive steam
+ship traction engine steam lorry road vehicleessential industrial revolution steam turbines
+technically type steam engine still widely usedgenerating electricity older type almost entirely
+replaced internal combustion engine electric motors
+
+steam engine action animation
+enlarge
+steam engine action animation
+
+steam engine requires boiler boil water produce steamexpansionor contractionof steam exerts force upon piston turbine
+blade whose motion harnessed work turning wheeldriving machinery one advantage steam engineheat source used raise steam boilercommon fire fueled wood coal oil utilisationheat energy generated nuclear reactor
+
+invention development
+
+aeolipile
+enlarge
+aeolipile
+
+first recorded steam device aeolipile invented heroalexandria greek century used toyedward somerset marquess worcester published designmay installed steampowered engine pumping watervauxhall house
+first piston steam engine developed denis papin 
+enlarge
+first piston steam engine developed denis papin 
+
+aboutthe french physicist denis papin helpgottfried leibniz built steam digester softening bone ieinvented world firstever pressure cooker later designs
+implemented steamrelease valve keep device explodingwatching valve rhythmically move papin conceivedidea piston cylinder engine papin wrote designdevice pictured adjacent however never built actual
+steam engine english engineer thomas savery later used papins
+design build world first operational steam engine
+
+papin also designed paddle boat also credited numbersignificant device safety valve sir samuel morland also
+developed idea steam engine period builtnumber steamengine pump king louis xiv france
+early industrial steam engine designed thomas saveryfireenginebut thomas newcomenatmosphericengine ofthat demonstrated first operational
+practical industrial engine together newcomen savery
+developed beam engine worked atmospheric vacuum
+principle first industrial application vacuum enginepumping water deep mineshaft mineshaft pumpreciprocating beam connected operating rod descendedshaft pump chamber oscillation operating rodtransferred pump piston move water check
+valve top shaft early newcomen engine operatedslowly valve manually opened closed attendant
+improvement replacement manual operation valves
+operation derived motion enginelength rope known potter cord legend wa first
+done inby boy humphrey potter charged openingvalve grew bored wanted play children
+set rope automate process
+
+humphrey gainsborough produced model condensing steam engineshowed richard lovell edgeworth memberlunar society injames watt another member lunar society
+patented first significant improvement newcomen type vacuum
+engine made much fuel efficient watt leap waseparate condensing phase vacuum engine separate
+chamber keeping piston cylinder temperaturesteam gainsborough believed watt used ideainvention proof
+watt together business partner matthew boulton developed
+patent watt steam engine birmingham englandincreased efficiency watt engine finally led general
+acceptance use steam power industry additionally unlikenewcomen engine watt engine operated smoothly enoughconnected drive shaftvia sun planet gearsto provide rotary
+power early steam engine piston usually connectedbalanced beam rather directly connecting rodengine therefore known beam engines
+richard trevithick noengine built hazeldine bridgnorth aboutthis singleacting stationary high
+pressure engine operated working pressure ofpsi 
+kpa
+enlarge
+richard trevithick noengine built hazeldine bridgnorth aboutthis singleacting stationary high
+pressure engine operated working pressure ofpsi 
+kpa
+
+next improvement efficiency came american oliver evans
+briton richard trevithick use high pressure steam
+trevithick built successful industrial high pressure singleacting
+engine known cornish engine however increased pressure came
+much danger engine boiler likely fail mechanically
+violent outwards explosion many early disasters
+important refinement high pressure engine point
+wa safety valve release excess pressure reliable safe
+operation came great deal experience codificationconstruction operating maintenance procedures
+
+nicolasjoseph cugnot demonstrated first functional selfpropelled
+steam vehicle fardier steam wagon inarguablyfirst automobile generally successfultransportation device selfpropelled steam tractor proveduseful self mobile power source drive farm machinerygrain thresher hay balers inwilliam symington builtfirst practical steamboat inrobert fulton used watt
+steam engine power first commercially successful steamboatfebruaryat penydarren ironwork merthyr tydfilsouth wale first selfpropelled railway steam engine steam
+locomotive built richard trevithick demonstrated
+
+reciprocating engines
+
+animated schematic illustrating difference operationvacuum high pressure type steam engine high pressure steamred low pressure steam yellow condensate blue topcylinder vacuum cylinder must open allow atmospheric
+pressure act piston vacuum piston returnedstart position top counterweight high pressure piston
+starting low angular momentum flywheel
+animated schematic illustrating difference operationvacuum high pressure type steam engine high pressure steamred low pressure steam yellow condensate blue topcylinder vacuum cylinder must open allow atmospheric
+pressure act piston vacuum piston returnedstart position top counterweight high pressure piston
+starting low angular momentum flywheel
+
+reciprocating engine use action steam move pistonsealed chamber reciprocal action piston translated
+via mechanical linkage rotary work
+
+vacuum engines
+
+early steam engine newcomens atmospheric watts
+condensing engine worked vacuum principle thus known
+vacuum engine engine operate admitting low pressure steam
+operating chamber closing inlet valve steamcooled resultant water vapor condensing smaller volume
+steam creating vacuum chamber atmospheric pressure
+operating opposite side piston push pistonbottom chamber piston connected large beamcounterweight weight return piston topchamber low pressure steam insufficient move piston
+upwards alone reciprocating action beam harnessedmechanical work newcomen engine cooling water sprayed
+directly working chamber watt engineseparate condensing chamber connected working chambervalve inefficiency newcomen engine lay repeatedwasteful heating cooling working chamber removingcondensing phase action separate chamber greatly
+reduced efficiency engine greatly increased
+
+vacuum engine severely limited efficiencyrelatively safe since steam low pressure structural
+failure engine inward collapse rather outward
+explosion power limited ambient air pressuredisplacement working chamber combustion evaporation
+rate andwhere presentthe condenser capacity maximum theoretical
+efficiency limited relatively low boiling point waternear atmospheric pressurecf
+
+high pressure engines
+
+labeled schematic diagram typical single cylinder simple
+expansion doubleacting high pressure steam engine power takeoffengine way beltpistonpiston rodcrosshead
+bearingconnecting rodcrankeccentric valve motion
+flywheelsliding valvecentrifugal governor
+enlarge
+labeled schematic diagram typical single cylinder simple
+expansion doubleacting high pressure steam engine power takeoffengine way belt
+piston
+piston rod
+crosshead bearing
+connecting rod
+crank
+eccentric valve motion
+flywheel
+sliding valve
+centrifugal governor
+
+high pressure engine steam raised boiler high
+pressure temperature admitted working chamber
+expands act upon piston although trevithick original
+cornish engine used steam pressure alone raise cylinderpiston consequently reciprocates much like vacuum engineimportance raising steam pressure thermodynamic
+standpoint attains higher temperature thus engine
+using steam operates higher temperature differentialpossible low pressure vacuum engine displacing vacuum
+engine high pressure engine became basisdevelopment reciprocating steam technology high pressure steam also
+ha advantage engine much compactsignificance engine could developed small enough
+powerful enough propel useful work steam
+power transportation became practicality
+
+doubleacting pistons
+
+next major advance high pressure steam engine usedoubleacting piston simpleacting high pressure enginecylinder vertical piston return startor
+bottomof stroke gravity doubleacting piston steamadmitted alternately side pistonexhausting requires inlet exhaust port either endcylinder see animated expansion engine steam flow
+controlled valve system increase speedsmoothness reciprocation allows cylinder mounted
+horizontally angle power transmitted pistonsliding rodsealed cylinder prevent escape steamwhich
+turn drive connecting rod via sliding crosshead bearingconvert reciprocating motion rotary motion inletexhaust valve motion derived rotary motion wayadditional crank mounted eccentrically centredrive shaft valve gear may include reversing mechanism allow
+reversal rotary motion
+
+reciprocating engine use technology notable examples
+including steam locomotive marine triple expansion enginepair double acting cylinder instance steam
+locomotive connected common driveshaft crank phasingoffset angle ofdegrees called quartering ensures
+engine always operate matter position crank
+engine used single doubleacting piston
+driving paddlewheel side connection overhead rocker
+arm shutting engine important piston
+away either extreme range travel couldreadily restarted second quartered piston prevent
+
+compounding
+
+imagesteam machine compoundpng
+schematic diagram cross compound steam engine
+high pressure cylinder
+high pressure crank
+flywheel
+low pressure crank quartered
+low pressure cylinder
+imagesteam machine tandempng
+schematic diagram tandem compound steam engine 
+low pressure cylinder
+high pressure cylinder
+connecting rod
+driveshaftflywheel
+
+high pressure engine mentioned use simple
+expansionthe steam enters cylinder expands exhauststeam expands temperature drop known adiabatic
+expansion result steam entering cylinder high
+temperature leaving low temperature cause cycleheating cooling cylinder every stroke source
+inefficiency
+
+method lessen magnitude heating coolinginvented inby british engineer arthur woolf patentedwoolf high pressure compound engine inin compound engine
+high pressure steam boiler expands high pressure cylinder
+enters one subsequent lower pressure cylindercomplete expansion steam occurs across multiple cylinders
+le expansion occurs cylinder heat lost
+steam reduces magnitude cylinder heating
+cooling increasing efficiency engine derive equal
+work lower pressure steam requires larger cylinder volumesteam occupies greater volume therefore bore oftenstroke increased low pressure cylinder resulting larger
+cylinder space premium steam locomotive
+two cylinder smaller volume often substituted
+
+first compound engine hadcylinders often called double
+compound later type compound engine using triple even
+quadruple expansion see difference inletexhaust temperature steam cylinder double compound
+roughly half simple expansion engine pistons
+designed produce half work engine
+
+arrangement cylinder double compound engine usedbasis classification
+cross compoundthe cylinder side side drivecrank
+tandem compoundthe cylinder end end driving common
+connecting rod
+steeple enginea vertical tandem compound engine
+angle compoundthe cylinder arranged vee drivecommon crank
+
+cross angle compound piston connected crank
+phase quartered derive smooth motion
+lock new power stroke every quarter turn
+
+compound engine increase efficiency steam engine adds
+great deal complexity system adoption almost
+universal industrial marine engine markedrailway locomotive partly due harsh railway operating
+environment limited space afforded loading gauge
+particularly britain compounding common locomotive
+compounding commonly drove two different set driving wheels
+better distribute power engine lessen effecthammer blow peculiar steam locomotive compound steam
+locomotive simpling valve fed high pressure steamcylinder help start heavy train
+
+multiple expansion
+
+animation simplified triple expansion engine high pressure
+steam red enters boiler pass engine
+exhausting low pressure steam blue condenser
+enlarge
+animation simplified triple expansion engine high pressure
+steam red enters boiler pass engine
+exhausting low pressure steam blue condenser
+
+logical extension compound engine splitexpansion yet stage increase efficiency resultmultiple expansion engine engine use either three four
+expansion stage known triple quadruple expansion
+engine respectively engine use series doubleacting
+cylinder progressively increasing diameter andor stroke hence
+volume cylinder designed divide work threefour appropriate equal portion expansion stagedouble compound engine space premium two smaller
+cylinder large sum volume may used low pressure stage
+multiple expansion engine typically cylinder arranged inline
+various formation used
+
+image right show model animation triple
+expansion engine steam travel engine leftright valve chest cylinder leftcorresponding cylinder
+model triple expansion engine
+enlarge
+model triple expansion engine
+
+development type engine important usesteamship exhausting condenser water reclaimed
+feed boiler unable use seawater landbased steam
+engine could exhaust much steam feed water usually
+readily available prior world war expansion
+engine dominated marine application high vessel speed waessential however superseded steam turbine speed
+wa required instance warship ocean liner hms
+dreadnought ofwas first major warship replace proven
+technology reciprocating engine novel steam
+turbine
+
+uniflow engines
+
+schematic animation uniflow steam engine poppet valvecontrolled rotating camshaft top high pressure steam
+enters red exhaust yellow
+enlarge
+schematic animation uniflow steam engine poppet valvecontrolled rotating camshaft top high pressure steam
+enters red exhaust yellow
+
+another type steam engine uniflow type name deriving
+fact steam flowed one direction halfcylinder thermal efficiency increased compoundmultiple expansion type separating expansion step separate
+cylinder uniflow design thermal efficiency achievedtemperature gradient along cylinder steam always enters
+hot end cylinder exhaust portcooler centre mean relative heating coolingcylinder wall reduced
+
+steam entry usually controlled poppet valve act similarly
+used internal combustion engine operatedcamshaft inlet valve open admit steam minimum expansion
+volume reached start stroke periodcrank cycle steam admitted poppet inlet closed
+allowing continued expansion steam stroke driving
+piston near end stroke piston expose ringexhaust port mounted radially around centre cylinderport connected manifold piping condenser lowering
+pressure chamber atmosphere causing
+rapid exhausting continued rotation crank move piston
+animation feature uniflow engine seenlarge piston almost half length cylinder poppet inlet
+valve either end camshaft whose motion deriveddriveshaft central ring exhaust ports
+
+beauty uniflow engine potentially allowed great
+expansion single cylinder without relatively cool exhaust
+steam flowing across hot end working cylinder steam
+port conventional counterflow steam engine exhaust
+stroke condition allows high thermal efficiency exhaust
+port open short period stroke thereforeexpanded steam able exhaust remaining steamcompressed returning piston thermodynamically desirable
+preheated hot end cylinder admissionsteam however risk excessive compression often resultedsmall auxiliary exhaust port included cylinder heads
+design may called semiuniflow engine
+
+practice uniflow engine number operational
+shortcoming large expansion ratio requires large cylinder
+volume gain maximum potential work high
+reciprocation rate required typicallyfasterdoubleacting engine caused opening time inlet valves
+short putting great strain delicate mechanical part
+order withstand huge mechanical force encountered engines
+heavily built large flywheel required smoothvariation torque steam pressure rapidly rose fellcylinder additionally thermal gradient acrosscylinder metal wall expanded different extentrequired precise boring cylinder barrel wider cool
+centre hot end cylinder heated correctly
+water entered delicate balance could upset causing
+seizure midstroke potentially destruction
+
+engine type usually multiple cylinder inline
+arrangement may single double acting particular advantage
+type valve may operated effectmultiple camshaft changing relative phasecamshaft amount steam admitted may increased high
+torque low speed may decreased cruising speed economy
+operation changing absolute phase engine direction
+rotation may changed uniflow design also maintainsconstant temperature gradient cylinder avoiding passing
+hot cold steam end cylinder
+
+uniflow engine first used britain inby jacob perkins
+wa patented inby leaonard jennett todd popularised
+german engineer johann stumpf inwith first commercial
+stationary engine produced year previously 
+
+uniflow principle mainly used industrial power
+generation also tried railway locomotive england
+ner uniflow locomotive noofthe ner uniflow
+locomotive noofand midland railway paget locomotive
+experiment also made usa russia caseresult encouraging enough development undertaken
+
+final commercial evolution uniflow engine occurredusa late skinner engine companydevelopment compound unaflow marine steam engineengine operated steeple compound configuration provided
+efficiency approaching contemporary diesel many bulk carrierferry great lake equipped several still
+operating
+
+small size abouthorsepowerreciprocating steam
+engine much efficient steam turbine whitecliffs
+solar steam power plant three cylinder uniflow enginegenerate aboutkw electric output
+
+turbine engines
+
+steam turbine consists alternating series rotating discs
+mounted drive shaft rotor static disc fixed turbine
+casing stator rotor propellorlike arrangement blades
+outer edge steam act upon blade producing rotary
+motion stator consists similar fixed series blades
+serve redirect steam flow onto next rotor stagesteam turbine exhaust condenser provides vacuumstage steam turbine typically arranged extract maximum
+potential work specific velocity pressure steam giving
+rise series variably sized high low pressure stages
+turbine rotate high speed therefore usually connectedreduction gearing drive another mechanism ships
+propeller lower speed turbine rotor also capableproviding power rotating one direction thereforereversing stage gearbox usually required power required
+opposite direction
+
+main use steam turbine electricity generation 
+world electric production use steam turbinesandlesser extent marine prime mover former high speedrotation advantage case relative bulkdisadvantage virtually nuclear power plant nuclear
+submarine generate electricity heating water provide steamdrive turbine connected electrical generator main
+propulsion limited number steam turbine railroad locomotivemanufacturedwhile met success long haul freight
+operation sweden elsewhere steam turbine ideally
+suited railroad environment turbine locomotive persist
+railway world replaced diesel locomotives
+
+steam turbine provide direct rotational force thereforerequire linkage mechanism convert reciprocating rotary motion
+thus produce smoother rotational force output shaftcontributes lower maintenance requirement wearmachinery power comparable reciprocating engine
+
+engines
+
+type steam engine produced proposednearly widely adopted reciprocating turbine engines
+
+rotary steam engines
+
+possible use mechanism based pistonless rotary engine
+wankel engine place cylinder valve gearconventional reciprocating steam engine many enginedesigned time james watt present dayrelatively actually built even fewer went quantity
+production see link bottom article detail major
+problem difficulty sealing rotor makesteamtight face wear thermal expansion resulting
+leakage made inefficient lack expansive workingmean control cutoff also serious problem manydesign clear concept inherent
+problem rotary engine treated derisiontechnical press however arrival electricity sceneobvious advantage driving dynamo directly highspeed
+engine led something revival interestdesign limited success
+
+design manufactured quantityhult brother rotary steam engine company stockholm swedenspherical engine beauchamp tower notable tower engineused great eastern railway drive lighting dynamolocomotive admiralty driving dynamo boardship royal navy eventually replaced niche
+application steam turbines
+
+jet type
+
+invented australian engineer alan burn developed britainengineer pursuit dynamic underwater jet engine high
+pressure steam draw water intake frontexpel high speed rear steam condenses water
+shock wave created focused chamber blast water
+back improve engine efficiency engine draws
+air vent ahead steam jet creates air bubbles
+change way steam mix water
+
+unlike conventional steam engine moving part wear
+exhaust water several degree warmer testengine also serve pump mixer type systemreferred pdx technology pursuit dynamics
+
+rocket type
+
+aeolipile represents use steam reaction principle
+although direct propulsion
+
+modern time limited use steamrocketryparticularly rocket car technique simpleconcept simply fill pressure vessel hot water high pressure
+open valve leading suitable nozzle drop pressure
+immediately boil water steam leafnozzle giving significant propulsive force
+
+might expected water pressure vesselhigh pressure practice pressure vessel considerable
+mass reduces acceleration vehicle therefore much
+lower pressure used permit lighter pressure vesselturn give highest final speed
+
+even speculative plan interplanetary use although steam
+rocket relatively inefficient use propellantwell may matter solar system believedextremely large store water ice used propellant
+extracting water using interplanetary rocket requires
+several order magnitude equipment breakinghydrogen oxygen conventional rocketry
+
+applications
+
+steam engine classified application
+
+stationary engines
+
+stationary steam engine classified two main types
+winding engine rolling mill engine marine engine similar
+application need frequently stop reverse
+engine providing power stop rarely needreverse include engine used thermal power stationused mill factory power cable
+railway cable tramway widespread use electric
+power low power engine used power model shipspeciality application steam clock
+
+vehicle engines
+
+steam engine used power wide array type vehicle
+steamboat steamship
+land vehicles
+steam locomotive
+steam car
+steam lorry
+steam roller
+steam shovel
+traction engine
+
+advantages
+
+strength steam engine modern purpose ability
+convert heat almost source mechanical work unlikeinternal combustion engine steam engine particularsource heat notably without use steam engine
+nuclear energy could harnessed useful work nuclear
+reactor doe directly generate either mechanical work electrical
+energythe reactor simply heat boil water steam
+engine convert heat energy useful work steam may also
+produced without combustion fuel solar concentratorsdemonstration power plant built using central heat
+collecting tower large number solar tracking mirror called
+heliostats see whitecliffs project
+
+similar advantage found different type external combustion
+engine stirling engine offer efficient power compact
+engine
+
+steam locomotive especially advantageous high elevationadversely affected lower atmospheric pressurewa inadvertently discovered steam engine operated high
+altitude mountain south america replaceddieselelectric engine equivalent sea level powerquickly replaced much powerful locomotive capable producing
+sufficient power high altitude
+
+switzerland brienz rothhorn austria schafberg bahn new rack
+steam locomotive proved successful designed based
+design swiss locomotive machine work slmtoday possible improvement like roller bearing heat
+insulation lightoil firing improved inner streamlining
+onemandriving resulted inpercent lower fuel
+consumption per passenger massively reduced cost maintenance
+handling economics similar betteradvanced diesel electric system also steam train similar
+speed capacity ispercent lighter electric diesel
+train thus especially rack railway significantly reducing wear
+tear track also new steam engine paddle steam ship
+lake geneva montreux designed built worlds
+first ship steam engine electronic remote control steam
+group slm increated whollyowned company called dlmdesign modern steam engine steam locomotives
+
+efficiency
+
+get efficiency engine divide number joulemechanical work engine produce number jouleenergy input engine burning fuel general restenergy dumped environment heat pure heat engine
+efficient carnot cycle heat moved
+high temperature reservoir one low temperatureefficiency depends temperature difference hence steam engines
+ideally operated highest steam temperature possible
+release waste heat lowest temperature possible
+
+practice steam engine exhausting steam atmosphereefficiency including boiler oftobutaddition condenser efficiency may greatly improved power
+station steam reheat etc achievetoefficiency
+combined cycle burning material first used drivegas turbine producetoefficiency also possiblecapture waste heat using cogeneration residual steam
+used heating therefore possible use aboutofenergy produced burning fuelonlyof energy producedcombustion fuel wasted atmosphere
+
+one source inefficiency condenser cause losssomewhat hotter outside world although mitigated
+condensing steam heat exchanger using recovered
+heat example preheat air used burnerexternal combustion engine
+
+operation engine portion alone dependent upon steam
+pressurised gas may used compressed air sometimes usedtest demonstrate small model steam engines
+
+festival museums
+
+antique gassteam engine museumbiannual show vista specializing farm equipment engine machinery
+great dorset steam fairannual show englandspecialisesshowing engine used original context heavy
+haulage threshing sawing road making etc
+annual steam show america north american model engineering
+society names
+annual steamup america new england wireless steam museum
+newcomen engine house dartmouth devon england steam era milton ontario
+ontario agricultural museum milton ontario
+missouri river valley steam engine association back farm
+reunion central missouri usa steamonly
+festival always good showing running steam
+engines
+hamilton museum steam technology hamilton ontarioold municipal pumphouse dating towith original two woolf
+compound rotative beam engine one still operates
+kempton park steam engines
+kew bridge steam museum
+crofton beam engines
+bancroft mill enginebarnoldswick movie engine operatingbuckley old engine show northwest michigan enginethresher club
+annual showyears showing steam engine equipment antique
+gas oil engine antique agricultural equipment mills
+blacksmithing foundry show includes steam building
+seminars
+hollycombe steam fair
+

@@ -1,0 +1,227 @@
+copyright
+
+philosophiae naturalis principia mathematica
+
+ school wikipedia selection related subject british history 
+
+newton copy principia handwritten correctionsecond edition
+enlarge
+newton copy principia handwritten correctionsecond edition
+
+philosophiae naturalis principia mathematica latin mathematical
+principle natural philosophy often principia principia
+mathematica short threevolume work isaac newton published
+julyit contains statement newton law motion
+forming foundation classical mechanic well lawuniversal gravitation derives kepler law motionplanet first obtained empirically
+
+formulating physical theory newton developed fieldmathematics known calculus however language calculuslargely left principia instead newton recast majority
+proof geometric arguments
+
+principia newton expressed famous hypothesis non
+fingo feign hypotheses
+
+historical context
+
+beginning scientific revolution
+
+nicolaus copernicus firmly moved earth away centreuniverse heliocentric theory presented
+evidence book revolutionibus orbium coelestiumrevolution heavenly sphere published inthe structure
+wa completed johannes kepler wrote book astronomia novanew astronomy insetting evidence planet moveelliptical orbit sun one focus planetmove constant speed along orbit rather speed varies
+line joining center sun planet sweepequal area equal time two law added third decade
+later otherwise forgettable book harmonices mundi harmonyworld law set proportionality third power
+characteristic distance planet sun square
+length year
+
+foundation modern dynamic set galileo book
+dialogo sopra due massimi sistemi del mondo dialogue two main
+world system notion inertia implicit usedaddition galileo experiment inclined plane yielded
+precise mathematical relation elapsed time acceleration
+velocity distance uniform uniformly accelerated motionbodies
+
+descartes book ofprincipia philosophiae principlephilosophy stated body actcontact principle induced people amonghypothesize universal medium carrier interactionlight gravitythe aether another mistake treatmentcircular motion fruitful led othersidentify circular motion problem raised principleinertia christiaan huygens solved problempublished much later
+
+newton role
+
+newton studied book case secondary sources
+based taken note entitled quaestiones quadem
+philosophicae question philosophy dayundergraduate periodhe created basiscalculus performed first experiment optic colour
+addition took two crucial step dynamic first course
+analysis impact two body deduced correctly
+centre mass remains uniform motion second madefirst mistaken analysis circular motion assumingmust exist repulsive centrifugal force time central
+notion inertia still remained outside understandingsummarized work note called lawes motion
+preserved cambridge university library additional 
+
+following year published experiment lightresulting theory colour overwhelmingly favourable responseinevitable scientific dispute robert hooke others
+forced sharpen idea point composed
+section later book opticks already wrotebit piece calculus various paper letters
+including two leibniz became fellow royal societysecond lucasian professor mathematics succeeding isaac barrow
+trinity college cambridge
+
+plague year ofnewton already experienced famous
+revelation apple tree woolesthorpe ledconclude strength gravity fall inverse square
+distance substituting kepler third law derivation
+centrifugal force muddled wamisunderstanding nature circular motion lawesmotion
+
+hooke inwrote newton letter later published ininbook lectiones cutlerianes newton first understoodrole inertia problem circular motiontendency body fly straight lineattractive force must keep moving circle reply newton drew
+described fancied trajectory body initiallytangential velocity falling towards centre attractionspiral hooke noted error corrected sayinginverse square force law correct path would ellipse made
+exchange public reading newton letter correction
+royal society innewton tried rearguard action giving
+orbit various kind central potential another
+letter hooke thus showing mastery method inin
+conversation christopher wren newton realized wrenalso arrived inverse square law exactly method
+reflection deduced common sense aspectcircular motion brought concept absolute spaceprincipia newton present example rotating bucket showeveryday life readily discerned rotating motion
+another factor besides motion relative objectinvolved
+
+newton still completed step constructionprincipia bywhen comet observed turn around sun
+astronomer royal john flamsteed recognised motionwhereas scientist believed two comet onedisappeared behind sun another appeared laterdirection correspondence flamsteed newton showed
+latter appreciated universality lawgravity
+
+wa state affair edmund halley visited newtoncambridge augusthaving rediscovered inversesquare lawsubstituting kepler law huygens formula centrifugal
+force january year halley wren hookeconversation hooke claimed derivedinversesquare law also law planetary motion wrenunconvinced halley failed derivationresolved ask newton newton said already madederivation could find paper matching accountmeeting come halley abraham moivre newton confided
+
+writing publication
+
+novemberhalley received treatise nine page newton
+called motu corporum gyrum motion body orbit
+derived three law kepler assuming inverse square lawforce generalized answer conic section extendedmethodology dynamic adding solution problemmotion body resisting medium another visitnewton halley reported result royal society december
+julian calendar newton also communicated resultflamsteed insisted revising manuscript crucial
+revision especially concerning notion inertia slowly
+developed next yearandahalf principia flamsteeds
+collaboration supplying regular observational data planets
+wa helpful period
+
+text first three book presented royal
+society close aprilhookes priority claim caused
+delay acceptance samuel pepys presidentauthorised onjune licence publication unfortunatelysociety spent book budget history fishinitial cost publication borne edmund halley third book
+wa finally completed year later apriland publishedsummer
+
+content book
+
+preface principia newton wrote
+
+rational mechanic science motion resultingforce whatsoever force required producemotionand therefore offer work mathematical
+principle philosophy whole burden philosophy seems
+consist thisfrom phenomenon motion investigate
+force nature force demonstratephenomenon 
+
+wa perhaps force principia explained many
+different thing natural world economy caused
+method become synonymous physic even practised
+almost three half century beginning today two
+aspect newton outlined would called analysis synthesis
+
+principia consists three books
+de motu corporum motion body mathematical
+exposition calculus followed statement basic dynamical
+definition primary deduction based also
+contains proposition proof littledynamic demonstrate kind problem solved
+using calculus
+first book divided second volumelength contains sundry application motionresistive medium derivation shape least resistancederivation speed sound account experimental tests
+result
+de mundi systemate system world essayuniversal gravitation build upon propositionprevious book applies motion observedsolar systemthe regularity irregularity orbit
+moon derivation kepler law applicationmotion jupiter moon comet tide much data
+came john flamsteed also considers harmonic
+oscillator three dimension motion arbitrary force laws
+
+sequence definition used setting dynamicprincipia exactly textbook today newton first
+set definition mass
+
+quantity matter arises conjointlydensity magnitude body twice dense double spacequadruple quantity quantity designate name body
+mass
+
+wa used define quantity motion today called
+momentum principle inertia mass replacesprevious cartesian notion intrinsic force set stage
+introduction force change momentumbody curiously today reader exposition looks
+dimensionally incorrect since newton doe introduce dimension
+time rate change quantities
+
+defined space time well known instead
+defined true time space absolute explained
+
+must observe vulgar conceive quantitynotion relation bear perceptible
+object convenient distinguish absolute
+relative true apparent mathematical common 
+instead absolute place motion use relative onewithout inconvenience common affairphilosophical discussion ought step back senses
+consider thing distinctperceptible measure
+interesting several dynamical quantity usedbook angular momentum given name dynamics
+first two book selfevidently consistentimmediately accepted example locke asked huygens whether could
+trust mathematical proof assured correctness
+
+however concept attractive force acting distance
+received cooler response note newton wrote inverse
+square law arose naturally due structure matter howeverretracted sentence published version statedmotion planet consistent inverse square lawrefused speculate origin law huygens leibniz
+noted law incompatible notion aethercartesian point view therefore faulty theory
+newton defence adopted since many famous physicistshe
+pointed mathematical form theory correct
+since explained data refused speculatebasic nature gravity sheer mass phenomenon couldorganised theory impressive younger philosophers
+soon adopted method language principia
+
+mathematical language
+
+reason newton use euclidean geometry mathematical
+language choice principia puzzling two respect first
+trouble today physicist trained modern analytical
+method face following argument mathematical language
+reportedly baffled richard feynman extent tried work
+alternative euclidean proof satisfactionchandrasekhar one last major effort translatedprincipia modern mathematical language physicist today
+read appreciate book founded modern physics
+
+second puzzle historical newton revert euclidean
+method seventeenth century mathematics increasingly used
+descartes analytical geometry transaction newtonwritten earlier tract using language even earlier
+communication calculus differential referred new
+language fluxion invented fact early notebooks
+suggest strongly learnt cartesian geometry long came
+euclid commentator suggested newton usedmathematical language euclid order make rhetorical point
+method followed easily greek tradition
+however piece rhetoric unnecessary contemporaries
+knew well general nature newton mathematical
+discoveries
+
+location copies
+
+page principia
+enlarge
+page principia
+
+several national rarebook collection contain original copynewton principia mathematica including
+wren library trinity college cambridge newtoncopy first edition handwritten note second
+edition
+whipple museum history science cambridge hafirstedition copy belonged robert hooke
+fisher library university sydney firstedition
+copy annotated mathematician uncertain identitycorresponding note newtonpepys library magdalene college cambridge samuel
+pepys copy third edition
+martin bodmer library keep copy original editionwa owned leibniz see handwritten noteleibniz particular concerning controversy invented
+calculus although published later newton argueddeveloped earlier interesting side note copy shows
+clear sign leibniz avid smoker
+first edition also located archive librarygeorgia institute technology georgia tech libraryalso home second third edition
+
+facsimile edition published inby alexandre koyrbernard cohen cambridge university pressisbn 
+
+two edition published newton lifetime
+
+second edition
+
+richard bentley master trinity college influenced roger cotes
+plumian professor astronomy trinity undertake editorship
+second edition newton intend start rewriteprincipia untilunder weight cote effortimpeded priority dispute newton leibniztrouble mint cote able announce publicationnewton onjunebentley sent newton six presentation
+copy cote unpaid newton omitted acknowledgement cotes
+
+among gave newton correction second editionfirmin abauzit
+roger cotes
+david gregory
+
+however newton omitted acknowledgementpriority dispute john flamsteed astronomer royal sufferedespecially
+
+third edition
+
+third edition publishedmarchunder stewardshiphenry pemberton man greatest skill matters
+pemberton later said recognition worthtwo hundred guinea award newton
+
+retrieved 
+httpenwikipediaorgwikiphilosophiaenaturalisprincipiamathemati
+ca
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

@@ -1,0 +1,110 @@
+copyright
+
+work thermodynamics
+
+ school wikipedia selection related subject general physics
+
+thermodynamic potentials
+internal energyusv
+helmholtz free energyatvuts
+enthalpyhspupv
+gibbs free energy gtpupvts
+
+thermodynamics thermodynamic work quantity energy
+transferred one system another generalizationconcept mechanical work mechanic systemmeasurement work measured joule symbol ratework performed power
+
+history
+
+joule apparatus measuring mechanical equivalent heat
+enlarge
+joule apparatus measuring mechanical equivalent heat
+
+
+
+modernday definition work weight liftedheight originally defined inby thermodynamicist sadi carnot
+famous paper reflection motive power fire
+specifically according carnot
+
+
+work thermodynamics
+
+use motive power work express useful effectmotor capable producing effect always likenedelevation weight certain height knowmeasure product weight multiplied heightraised
+
+
+work thermodynamics
+
+
+
+inthe english physicist james joule read papermechanical equivalent heat british association meetingcambridge work reported bestknown experimentwork released action weight fallingheight used turn paddlewheel insulated barrelwater
+
+experiment friction agitation actionpaddlewheel body water caused heat generatedturn increased temperature water temperaturechange water height fall weight mgrecorded using value joule able determinemechanical equivalent heat joule estimated mechanical equivalent
+heat beftlbfbtujcal modern day definitions
+heat work temperature energy connectionexperiment
+
+overview
+
+according first law thermodynamics useful separate
+change internal energy thermodynamic system two sorts
+energy transfer work refers form energy transferaccounted term change macroscopic physical
+variable system example energy expanding
+volume system external pressure say drivingpistonhead cylinder external forcedistinction heat energy carried systemform transfer microscopic thermal motion particles
+
+concept thermodynamic work little generalmechanical work also includes energy transfer example electrical work movement charge external
+electrical field charge battery say may maynecessarily thought strictly mechanical nature
+
+mathematical definition
+
+stipulated first law thermodynamics net increaseinternal energy thermodynamic system must fully accounted
+term heat entering system work donesystem
+
+dudelta qdelta 
+roman letter indicates internal energy propertystate system change internal energy exact
+differentialsthey depend original state final
+state path taken contrast greek equation
+reflect fact heat transfer work transferproperty final state system given initial
+state final state system one saytotal change internal energy much energy went
+heat much work summarised saying
+heat work state function system
+
+pressurevolume work
+
+chemical thermodynamics study work occurs volume
+fluid change work represented following
+differential equation
+
+dwp 
+
+wwork done system
+pexternal pressure
+vvolume
+
+therefore
+wintvivf pdv
+
+like work function work pathdependent pathquestion curve euclidean space specified fluids
+pressure volume infinitely many curve possible
+thermodynamic perspective fact implies workstate function mean differential inexact
+differential rigorous written line
+
+mathematical point view say exact
+oneform line merely flag warn uactually functionform potential dwindeed function able use stokes
+theorem evaluate putative function potential dwboundary path initial final pointtherefore work would state function impossibilityconsistent fact doe make sense referwork point work presupposes path
+
+pv work often measured nonsi unit litreatmospheres
+wherelatmj
+
+free energy exergy
+
+amount useful work extracted thermodynamic
+system discussed article second law thermodynamicsmany practical situation represented thermodynamic
+availability exergy function two important case thermodynamic
+system temperature volume held constantmeasure useful work attainable reduces helmholtz free
+energy function system temperature pressureheld constant measure useful work attainable reduces
+gibbs free energy
+
+retrieved 
+httpenwikipediaorgwikiworkthermodynamics
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

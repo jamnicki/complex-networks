@@ -1,0 +1,335 @@
+copyright
+
+mozilla firefox
+
+ school wikipedia selection related subject software
+
+mozilla firefox
+mozilla firefox running window displaying english wikipedia
+main page
+developer mozilla foundationmozilla corporation
+stable release
+
+date yyyymmdd isoupdate click
+preview release
+
+date yyyymmdd isoupdate click
+crossplatform
+available language multilingual
+use web browser
+license mpl mpl gpl lgpl trilicense
+website wwwmozillacomfirefox
+
+mozilla firefox free open source crossplatform graphical web
+browser developed mozilla corporation hundredvolunteer started fork browser component navigatormozilla application suite firefox replaced mozilla suite
+mozilla foundation flagship product firefox often
+abbreviated officially 
+firefox gained acclaim numerous medium outlet including
+forbes wall street journal even itsreleasenovemberwith overmillion downloads thedaysinitialrelease firefox became one downloaded free
+open source application especially among home user firefox 
+wa released octoberand downloaded overmillion times
+withinhours
+
+septemberfirefoxs usage share aroundof overall
+browser usage see market adoption highest usagegermany aboutas july 
+
+history
+
+dave hyatt blake ross began working firefox projectexperimental branch mozilla project believedcommercial requirement netscape sponsorship developerdriven
+feature creep compromised utility mozilla browser combat
+saw mozilla suite software bloat createdpareddown browser intended replace mozilla
+suite aprilthe mozilla foundation announcedplanned change focus mozilla suite firefoxthunderbird
+
+firefox project gone many name changehistory originally titled phoenix renamedtrademark issue phoenix technology replacement name
+firebird provoked intense response firebird free database
+software project response mozilla foundation statedbrowser always bear name mozilla firebird order avoid
+confusion database software however continuing pressuredatabase server development community forced another changefebruarymozilla firebird became mozilla firefoxfirefox short
+
+firefox project went many version beforewas released
+novemberaside stability security fixmozilla foundation released one major update firefoxversion
+novemberbefore debut firefox 
+
+octobermozilla released firefoxthis version includes
+change tabbed browsing environment enhancementextension manager enhancement gui includingglossylooking default theme improvement find searchsoftware update engine greater level accessibility sessiondownload restore new antiphishing feature firefoxusers
+automatically updated firefoxbecause automatic
+update security stability release firefoxusers
+notified update firefoxa weekrelease firefox 
+
+future development
+
+according roadmap future firefox development include
+versiondevelopment versionwhich based gecko
+occurs simultaneously mozilla trunk newer versionfirefox use cairo rendering layer instead gdi
+
+version 
+
+mozilla firefox codename minefield version prealpha running
+window enlarge
+mozilla firefox codename minefield version aprealpha
+running window 
+development name mozilla firefoxis gran paradisoprecursory release currently codenamed minefieldname trunk build gran paradiso like firefox
+development name actual placegran paradiso namenational park italy firefoxbranches adoptgran paradiso codename release timeframe firefoxis may
+
+
+largest change firefoxwill implementation gecko
+updated layout engine correctly big change reflow
+code migration nstextframe thebe infrastructure
+firefoxwill also include several new featurebumped firefoxsuch overhauled place system storing
+bookmark history sqlite backend due microsofts decision
+end support windowsand window julyand
+cairo doe support windowswindowswindowswindow ntfirefoxwill run operating systems
+unlike previous version firefoxon mac use native cocoa
+widgets
+
+development team also asking firefox user submit feature
+request wish included firefox 
+
+version 
+
+octoberbrendan eich mozillas chief technology officer
+wrote plan mozillathe platform firefox 
+likely based change include improving removing
+xpcom apis switching standard feature justintime
+compilation javascriptknown tamarin projecttooltime runtime security checks
+
+features
+
+developer firefox aim produce browser works
+casual user usercreated extension pluginsinstalled integrate firefox giving wide range choiceenduser main feature included firefox tabbed
+browsing incremental find live bookmarking customizable download
+manager builtin search toolbar user customizeversion firefox downloadable extension variety different
+theme skin many hidden preference easily
+accessible advanced user
+
+mozilla firefox claim support many software standard including
+restricted html xml xhtml ecmascriptjavascript
+dom mathml dtd xsl svg xpath png image variable
+transparency firefox release build yet pas acid
+standardscompliance test however developmental versionfirefox currently pas acid test firefoxis expected
+pas acid
+
+mozilla firefox multiplatform browser providing supportvarious version microsoft window includingse 
+xp serverit also run mac xlinuxbased operating system using window system althoughofficially released certain operating system freely available
+source code work many operating system includingrestricted freebsdos solaris skyos beos recently
+window professional edition
+
+firefox also provides environment web developer use
+built tool extension include javascript consoledom inspector venkman javascript debugger integrated
+development toolkit called web developer 
+
+fact firefox fewer severe publicly known
+unpatched security vulnerability internet explorer see
+comparison web browser often cited reason switchinternet explorer firefox improved security asymantec
+study showed firefox surpassed internet explorer number
+vendorconfirmed vulnerability year september
+though patched quickly vulnerability foundbrowser symantec later clarified statement sayingfirefox still fewer security vulnerability countedsecurity researchers
+
+firefox ssltls protect communication web server using
+strong cryptography also support smartcards secure loginweb server sandbox security model developer usebug bounty scheme finding fix security feature
+additions
+
+performance
+
+internet week ran article many reader reported high memory
+usage firefoxmozilla developer said higher memory usefirefoxis sometimes least partially effect new fast
+backwards forward fastback feature known cause memory
+problem misbehaving extension google toolbar adblock
+plugins older version adobe acrobat reader however
+pc magazine compared memory usage firefox opera internet
+explorer found firefox seemed use much
+memory browser test performed world zimbra
+indicate firefoxuses memory internet explorer 
+
+softpedia note firefox take longer startbrowser browser speed test confirm case also
+launch slightly faster firefox microsoft window since many
+component built window loaded system
+startup
+
+licensing
+
+firefox opensource application trilicensed mozilla
+public license mpl gnu general public license gpl gnu
+lesser general public license lgpl license permit anyoneview source code well modifying redistributingthough trademark restriction netscape flock examples
+software based firefox code
+
+past firefox licensed solely mpl free
+software foundation fsf criticizes mpl weak copyleft
+license permit limited way proprietary derivative works
+code mpl also cannot legally linked codegpl lgpl address concern mozilla trilicensed
+firefox mpl gpl lgpl permit developer use
+whichever license wish creating derivative work effecttrilicensing developer legally link firefox codegpl lgpl code still allows create proprietary
+derivative work though
+fsf considers official firefox binary released mozillafree software include proprietary crash
+reporter talkback trademark restriction firefox nameartwork force user accept clickwrap agreement latter
+applies window version google mozilla developerworking airbag opensource replacement talkbackallow official firefox build entirely free proprietary
+software
+
+septembermozilla requested debian use official
+firefox name patched version mozilla requiresdistribution build called firefox include official artwork
+change made firefox code required approvalmozilla since official artwork trademarked copyrighted
+thus going debian free software guideline since
+debian didnt want mozilla make change debian
+decided fork firefox iceweasel
+
+market adoption
+
+usage share mozilla firefox time
+enlarge
+usage share mozilla firefox time
+graph firefox x cumulative downloads millions
+enlarge
+graph firefox x cumulative downloads millions
+
+usage share
+
+statistic reference usage share web browsers
+
+websurfers adopted firefox rapidly despite dominanceinternet explorer browser market internet explorer seensteady decline usage share since firefoxs release accordingseveral source listed statistic reference july 
+firefox aroundof global usage share
+
+europe according study released firm xitigenerally higher percentage firefox use average
+
+download count
+
+downloads continued steady rate since firefoxwas
+released novemberno mozilla foundation productexperienced growth
+
+caption downloads firefox x since november
+
+datenumber day downloads millions
+november
+february
+april
+july
+october
+march
+july
+november
+
+number include downloads using software updatethirdparty website represent user count one
+download may installed many machine one person may download
+software multiple time mozilla vice president products
+christopher beard estimate firefox currently hasmillion 
+million user october 
+
+spread firefox campaigns
+
+rapid adoption firefox apparently accelerated partseries aggressive marketing campaign sincefor example
+blake ross asa dotzler organized series event dubbed
+marketing week
+
+septembera marketing portal dubbed spread firefox sfx
+debuted along firefox preview release creating centralized
+space discussion various marketing technique portal
+enhanced get firefox button program giving user referrer
+point incentive site list topreferrerstime time sfx team sfx member launch marketing events
+organized spread firefox website
+
+world firefox day 
+
+world firefox day campaign started julywhichanniversary founding mozilla foundation ranseptemberparticipants registered friendwebsite nomination name displayed firefox
+friend wall digital wall displayed headquarters
+mozilla foundation email sent nominated friend
+provides hyperlink download mozilla firefox friend
+downloads program link nomination acceptedname also appear website link website found
+looking credit current version mozilla firefox
+firefoxthe firefox wall friend also found world
+firefox day website
+
+industry adoption
+
+since pre stage several wellknown website web
+application including gmail supported cases
+required use firefox since marchthe google search
+engine utilized link prefetching feature firefox faster
+searching google inc also recommends firefox browserbloggercom weblog service mayebay announced supportfirefox ebay picture manager inmicrosoft releasedfirefoxcompatible window genuine advantage browser plugin
+
+search engine company including google yahoo acom also
+offer firefox extension accessing service additionoriginal internet explorer addons google released four
+extension firefox affirming company interestfirefox
+
+decemberthe inquirer reported dell would start
+shipping firefox browser preinstalled neither
+dell mozilla confirmed
+institutional adoption
+
+fosdemconference tristan nitot president mozilla
+europe noted firefox success consumer market
+institution also theorized pressure microsoft
+caused institution adopted firefox remain silent
+
+mozilla firefox
+
+know company deploying firefox thunderbirdarent talking dont want see increasemicrosoft office licence price
+
+
+mozilla firefox
+
+observer serdar yegulalp techtarget jim rapooza
+eweek note firefox doe provide tool make
+institutional deployment easier client customization kit
+mozilla since released microsoft installer msi
+package furthermore note firefox doe supporttechnology sometimes used institutional environments
+activex active directory
+
+institution may actively deploying firefox large
+number allowing employee install firefox
+according jupiterresearch found inof companies
+thanemployees allowed firefox employees
+system compared within 
+
+version build forks
+
+firefox
+mozilla firefox
+
+community customization
+spread firefox
+extensionsmain category
+
+custom distribution forks
+flock
+iceweasel
+madfox
+mozilla firefoxportable edition
+netscape
+swiftfox
+torpark
+
+portable versions
+
+mozilla firefoxportable edition also known firefox portablerepackaged version firefox designed run usb flash drive
+ipod external hard drive portable medium newest version
+run live arose mozillazine thread june
+john haller released first packaged version led
+development includes specialized launcheradjusts extension theme work moved different
+computer also portable version firefox availablemacintosh computer called portable firefox 
+full list firefox portable app form
+firefox portable microsoft window wine linuxunix
+portable firefox mac crossplatform portable firefox mac microsoft windows
+firefox smart drives
+xfirefox part winpenpack italiantorpark portable firefox tor built
+response competition
+
+despite firefoxs apparent gain internet explorer microsofts head
+australian operation steve vamos stated see
+firefox threat significant demandfeatureset firefox among microsofts user vamos statednever used former microsoft chairman bill gateused firefox commented much software get downloaded
+time people actually use
+however microsoft sec filing juneacknowledgedbrowser mozilla competitive threat internet explorer
+competitor mozilla offer software competesinternet explorer web browsing capability window operating
+system products
+
+augustmicrosoft made offer mozilla help integrate
+firefox forthcoming window vista mozilla accepted
+upon release firefoxthe internet explorerdevelopment team
+shipped cake mozilla sign appreciation
+
+gallery
+
+firefoxin microsoft window 
+firefoxin microsoft window medium centre
+
+firefoxrunning gnome ubuntu
+
+firefoxrunning apple mac v
+

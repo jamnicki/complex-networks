@@ -1,0 +1,115 @@
+copyright
+
+new moon
+
+ school wikipedia selection related subject space astronomy
+
+lunar phase depends moon position orbit around earth
+diagram look north pole
+enlarge
+lunar phase depends moon position orbit around earth
+diagram look north pole
+
+new moon lunar phase occurs moonmonthly orbital motion around earth lie earth sun
+therefore conjunction sun seen earthtime illuminated half moon face directly towardsun dark unilluminated portion moon face directly
+toward earth moon invisible seen earth
+
+new moon often considered occur time appearancefirst visible crescent moon conjunction sun
+take place western horizon brief periodsunset moonset therefore precise time even dateappearance new moon definition influencedgeographical location observer astronomical new moon
+sometimes known dark moon avoid confusion occursdefinition moment conjunction ecliptic longitudesun moon invisible earth moment unique
+doe depend location certain circumstance may
+coincident solar eclipse
+
+new moon beginning month lunar calendarmuslim calendar lunisolar calendar hebrew
+calendar hindu calendar buddhist calendar chinese calendar
+
+approximate formula
+
+approximate formula average time new moon conjunction
+
+dtimes ntimes
+time 
+
+number day fraction since
+tt integer
+
+note numberis synodic month
+
+obtain moment expressed universal time world clock time
+future event apply following approximate correction
+
+time time days
+
+periodic perturbation change time true conjunctionmean value new moon betweenandthe maximum
+difference isdayshm either direction
+
+duration lunation new moon next new moon varies
+period betweenanddays dhm
+shorter dhm longer average range smaller
+difference mean true conjunctionlunation periodic term cannot change maximum
+opposite value
+
+see paper full moon cycle fairly simple methodcompute moment new moon accurately
+
+longterm error formula approximately cycy secondtt cycy second cy century sincesee
+section explanation formula details
+
+explanation formulae
+
+moment mean conjunction easily computedexpression average ecliptic longitude moon minusaverage ecliptic longitude sun delauney parameterexpression given based paper chapront alwithfollowing corrections
+
+constant term
+applied constant term aberration obtain apparent
+difference ecliptic longitudes
+
+sun 
+
+moon 
+
+correction conjunctiondays
+
+ut atjant hence correctionclock time conjunction
+days
+
+quadratic term
+elp seed quadratic termexpressed lunation yield correctionen day time conjunction term includes
+tidal contribution ofcy current
+estimate lunar laser ranging see
+cy therefore tidal correction quadratic termpolynomial provided chapront al ref 
+provides value translates correctionen day quadratic term
+en days
+
+ut analysis historical observation show halongterm increase ofscy converted day lunations
+correction ut becomes
+
+en days
+
+theoretical tidal contribution aboutscysmaller observed value due change shape earthuncertainty prediction rotation angle earth may
+large difference valuesscyerror position moon maybecy 
+scy time conjunction sun
+
+religious use
+
+islamic calendar retained observational definitionnew moon marking new month first crescent moonactually seen making impossible certain advancespecific month begin particular exact dateramadan begin known advance saudi arabiaweather cloudy new moon expected observer sent
+airplane iran special committee receives observationevery new moon determine beginning month committee
+us one hundred group observers
+
+new moon beginning month chinese calendar
+buddhist chinese keep vegetarian diet new moon full
+moon month
+
+trivia
+
+anime manga inuyasha time hany
+inuyasha loses ykai power temperarily turn full human
+night
+
+literature
+
+mchapronttouz jchapront elp semianalytical lunar
+ephemeris adequate historical time astronastrophys 
+
+jchapront mchapronttouz gfrancoua new determinationlunar orbital parameter precession content tidal
+acceleration llr measurement astronomyastrophysics 
+
+

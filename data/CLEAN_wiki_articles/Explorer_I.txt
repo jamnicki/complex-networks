@@ -1,0 +1,94 @@
+copyright
+
+explorer
+ school wikipedia selection related subject space transport
+
+caption explorer
+explorer 
+organization army ballistic missile agency
+major contractorsjet propulsion laboratory
+mission typeearth science
+satellite ofearth
+launch februaryatutc
+launch vehiclejunodecaymarch
+mission durationdays
+masskg
+nssdc ida
+webpagenasa
+orbital elements
+semimajor axiskm
+eccentricity
+inclination
+orbital periodminutes
+apogeekm
+perigeekm
+orbits
+instruments
+geigermueller detectordetection cosmic rays
+wire grid arraymicrometeorite detection
+acoustic detectormicrometeorite detection
+
+exploreri officially satellitealpha sometimes referredexplorerwas first earth satellite united states
+launched est januaryonfebruary
+gmtas part united state programinternational geophysical year satellite launched cape canaveral air force station florida onboard juno rocket
+
+mission
+
+following launch soviet satellite sputnik october 
+wa frenzied effort united state launchsatellite beginning space race exploreri designed
+built jet propulsion laboratory jpl jupiterc
+rocket modified army ballistic missile agency abmaaccommodate satellite payload resulting rocket becoming knownjuno working closely together abma jpl completed jobmodifying jupiterc building exploreri indayswork completed however soviet union launched second
+satellite sputnikon november
+
+launch vehicle
+
+exploreris launch vehicle juno origin united
+state army project orbiter inthe project canceledhowever decision made proceed project
+vanguard jupiterc used launch alreadyflighttested nose cone reentry test jupiter irbm
+
+spacecraft design
+
+exploreri designed built jet propulsion laboratorycalifornia institute technology direction william pickering satellite instrumentation exploreridesigned built james van allen university iowa
+
+exploreri second satellite carry mission payload sputnik
+ii first notably equipped geiger counter
+purpose detecting cosmic ray sometimesinstrumentation would report expected cosmicray countcounts
+per second sometimes would show peculiarcounts per second
+iowa group van allen noted thecounts per
+second report altitude ofkm south america
+pass atkm would show expected level cosmic rays
+explorer iii decided original geiger counteroverwhelmed strong radiation coming belt charged
+particle trapped space earth magnetic field knownvan allen radiation belt
+
+mission results
+
+discovery van allen belt explorer satelliteconsidered one outstanding discoveryinternational geophysical year
+
+exploreri placed orbit perigee ofkilometers 
+mile apogee ofkilometersmiles periodminute total weight waskilogramslbkilogramslb instrumentation instrument sectionfront end satellite empty scaleddown fourthstage
+rocket casing orbited single unit spinning around long axis
+atrevolutions per minute
+
+instrumentation consisted cosmicray detection packageinternal temperature sensor three external temperature sensornosecone temperature sensor micrometeorite impact microphonering micrometeorite erosion gauge data instrumenttransmitted ground milliwatt transmitter operatingmegahertz amilliwatt transmitter operating 
+mhz
+
+transmitting antenna consisted two fibreglass slot antennabody satellite four flexible whip formingturnstile antenna rotation satellite long axis
+kept flexible whip extended
+
+external skin instrument section painted alternate
+strip white dark green provide passive temperature control
+satellite proportion light dark stripdetermined study shadowsunlight interval based firing
+time trajectory orbit inclination
+
+electrical power provided nickelcadmium chemical batterymade approximatelypercent payload weight provided
+power operated high power transmitter fordayslowpower transmitter fordays
+
+limited space available requirement low
+weight exploreri instrumentation designed builtsimplicity high reliability mind completely successful
+
+explorer stopped transmission data maywhenbattery died remained orbit thanyears madefiery reentry pacific ocean marchexplorerfirst longrunning explorer program november
+ha launchedexplorer probes
+
+identicallyconstructed flight backup explorer currently
+located smithsonian institution national air space museum
+milestone flight gallery

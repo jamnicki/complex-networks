@@ -1,0 +1,63 @@
+copyright
+
+applied mathematics
+
+ school wikipedia selection related subject mathematics
+
+applied mathematics branch mathematics concernmathematical technique typically used applicationmathematical knowledge domains
+
+division applied mathematics
+
+traditionally applied mathematics consisted three major areas
+approximation theory including representation theory computational
+method differential equation especially partial differential
+equation applied probability one could even socalled
+theoretical applied mathematics area performing
+research fundamental subjects
+
+many statistician contend statistic separate discipline
+mathematics practice subject often taughtmath department engineering mathematics mathematical physics
+describe physical process almost indistinguishabletheoretical physic traditionally classical mechanic often
+taught applied math department american university ratherphysic departments
+
+today term applied mathematics often used much broader
+sense mathematician generally consider incorrect conflate
+applied mathematics subset mathematics applicationmathematics actual act applying mathematics realworld
+problem scientist social scientist utilize mathematics
+work usually make distinction
+
+example may serve sharpen somewhat fuzzy line separating
+traditional applied mathematics pure mathematicsdistinguishing applicable mathematics usemathematics tool smooth function cosxrepresented taylor series containing countably infinite number
+term pure mathematics concerned problem proving
+taylor series exists closely associated problems
+determining coefficient circle convergencedomain valid applied mathematics addresspractical problem series may best calculated many
+term must included achieve desired level precisionbest tabulate resulting value perhaps encapsulatetaylor series within computer algorithm finally surveyorconsults tabulated computerized value cosx making
+trigonometric calculation really mathematicshesimply using result mathematician derived completesurveying project
+
+branch mathematicsdifferential equation ode pdes
+matrix theory continuous modelling probability statisticsare
+widely applicable many field science technology others 
+numerical analysis scientific computing information theory
+cryptography graph theory applied network analysistheoretical computer sciencehave fueled rapid proliferationdigital computer problem associated computer technologyturn provided motivation mathematical advancefield increasing power speed computers
+opened new possibility computational topologycomputational geometry
+
+physic engineering specialized mathematical
+dialect including control theory advance life sciencestimulated development mathematical biology recently
+generated entirely new field bioinformatics economics finance
+insurance spawned several related discipline mightcharacterized commercial mathematics certain special economic
+problem gave initial impetus game theory additional problems
+business commerce driven mathematical researchoptimization technique including widely employed methodoperation research linear programming time passoptimization method finding new application widening circle
+disciplines
+
+segregation within universities
+
+university host department applied mathematicstheoretical physic much common separate
+department pure applied mathematics school separate
+applied mathematics department range brown universitywellknown large division applied mathematics offers
+degree doctorate santa clara university offers
+applied mathematics many research university divide
+mathematics department pure applied section mit
+
+fundamental applied mathematics taught secondlevelcountry ireland minority option leaving
+certificate
+

@@ -1,0 +1,336 @@
+copyright
+
+richard stallman
+
+ school wikipedia selection related subject computing people
+
+caption richard stallman
+
+richard stallman thefosdem brussels
+bornmarch
+manhattan new york
+occupation president free software foundation unpaid volunteer
+websitehttpstallmanorg
+
+richard matthew stallman nickname rms born marchisacclaimed software freedom activist software developerfounded gnu project create free unixlike operating
+system project lead architect organizer also
+founded free software movement free
+software foundation cofounded league programming freedom
+stallman pioneered concept copyleft main authorseveral copyleft license including gnu general public licensewidely used free software license since mids stallman
+ha spent time political campaigner advocatingfree software well campaigning patenting software
+expansion copyright law stallmans renowned software
+accomplishment include developing original emacs gnu emacsgnu compiler collection gnu debugger
+
+early years
+
+stallman born manhattan new york alice lippman daniel
+stallman first access computer came senior yearhigh school inhired ibm new york scientific centre
+stallman used summer highschool graduation writingfirst program preprocessor pli programming languageibmi first wrote pli started assembly
+language pli program big fit computerlater said
+
+time stallman also volunteer laboratory assistantbiology department rockefeller university althoughalready moving toward career mathematics physic teaching
+professor rockefeller thought would future biologist
+
+juneas first year student harvard university stallman
+became programmer laboratory mit becameregular hacker community usually knowninitial rms name computer accountfirst edition hacker dictionary wrote richard stallman
+mundane name call rms stallman graduated
+harvard magna cum laude earning physic inheenrolled mit graduate student abandoned pursuitgraduate degree remaining programmer mit laboratory
+installman published truth maintenance system called
+dependencydirected backtracking paper coauthored gerald
+jay sussman joke computer avoid
+exploding ask selfcontradictory question
+
+hacker mit laboratory stallman worked software
+project like teco emacs lisp machine operating systemwould become ardent critic restricted computer access lab
+mit laboratory computer science lcs installed password
+control system installman cracked password system reset
+password null string sent user message informingremoval password system although stallman boastedsuccess campaign many year afterward password ultimately
+triumphed
+
+decline mit hacker culture
+
+hacker community stallman lived beganfragment prevent software used competitors
+computer manufacturer stopped distributing source codebegan using copyright restrictive software license limitprohibit copying redistribution proprietary softwareexisted became apparent would become norm
+
+brian reid inplaced time bomb scribe restrict
+unlicensed access software stallman proclaimedprospect charging money software crime humanity
+
+installman hacker lab given
+source code software xeroxlaser printer
+codenamed dover industry first hacker modifiedsoftware printer electronically messaged user
+job printed message loggedin userprinter jammed able add feature dover
+printer major inconvenience printer different
+floor user one experience convinced stallmanethical need require free software time became
+clear wanted people discard proprietary software
+
+inrichard greenblatt fellow lab hacker founded lisp
+machine inc lmi market lisp machine tom knight
+designed lab greenblatt rejected outside investment believing
+proceeds construction sale machines
+could profitably reinvested growth companycontrast hacker felt venture capitalfunded
+approach better agreement could reached founded
+symbolics aid rus noftsker lab administrator
+symbolics recruited remaining hacker including notable
+hacker bill gosper left lab symbolics forced
+greenblatt also resign citing mit policy companies
+delivered proprietary software stallman believed lmi unlike
+symbolics tried avoid hurting lab two year 
+end ofstallman singlehandedly duplicated effortsymbolics programmer order prevent gainingmonopoly lab computers
+
+however last generation hacker labrejected future would sign nondisclosure agreements
+would agree share source code technical
+information software developer perform actions
+considered betrayal principle chose instead share
+work others regarded classical spiritcollaboration stallman participate counterculture
+wa inspired rejection pursuit wealth
+primary goal living
+
+stallman argues software user freedom share
+neighbour able study make changesoftware use repeatedly said attemptproprietary software vendor prohibit act antisocial
+unethical phrase software want free often
+incorrectly attributed stallman arguesmisstatement philosophy argues freedom vitalsake user society moral value merelypragmatic reason may lead improved softwarejanuaryhe quit job mit work full time gnu
+project announced septemberhe complete
+phd awarded four honorary degree see list
+gnu project
+
+stallman announced plan gnu operating system september
+several arpanet mailing list usenet
+
+installman published gnu manifesto outlinedmotivation creating free operating system called gnu would
+compatible unix name gnu recursive acronym gnus
+unix soon started nonprofit corporation calledfree software foundation fsf employ free software programmerprovide legal infrastructure free software movement fsf
+incorporated commonwealth massachusetts taxexempt
+c internal revenue code allows donorfile federal income tax return get deduction taxes
+donation stallman unsalaried president free
+software foundation
+
+installman invented popularized concept copyleftlegal mechanism protect modification redistribution rights
+free software first implemented gnu emacs general
+public license inthe first programindependent gnu general
+public license gpl released much gnu systemcompleted stallman responsible contributing many
+necessary tool including text editor compiler debuggerbuild automator notable exception kernel inmembers
+gnu project began kernel called gnu hurd yetachieve widespread usage
+
+producing software tool needed write software publishinggeneralized license gpl could applied software
+project stallman helped make easier others write free
+software independent gnu project inone independent
+project produced linux kernel could combined gnu
+system make complete operating system people use name
+linux refer combination linux kernel plus
+gnu system stallman claim unfairly disparages valuegnu project discussed gnulinux
+
+stallmans influence hacker culture include name posixemacs editor unix system gnu emacss popularity rivaledanother editor spawning editor war stallmans humorous takewa jokingly canonize ignuciusst
+ignucius church emacs
+
+number developer view stallman difficult workpolitical interpersonal technical standpoint around 
+developer lucid inc work emacs clashedstallman ultimately forked software creating whats known
+xemacs email archive published jamie zawinski documentcriticism stallmans response ulrich drepper published complaints
+stallman release note glibcwhere accuses
+rms attempting hostile takeover project referringcontrol freak raging manic eric raymond sometimes
+speaks part open source movement written many pieces
+laying movement disagreement stallman free
+software movement often term sharply critical stallman
+
+activism
+
+richard stallman giving speech copyright communitywikimania 
+enlarge
+richard stallman giving speech copyright communitywikimania 
+
+stallman written many essay software freedom voiceaction free software movement since early stallman
+ha spent time political campaigner speeches
+reflect often speaks three topics
+gnu project free software movement
+danger software patents
+copyright community age computer networks
+
+induring yearlong public consultation draftingversionof gnu general public license added fourth topic
+explaining proposed changes
+
+stallmans staunch advocacy free software inspired virtual richard
+stallman vrms software analyzes package currently
+installed debian gnulinux system reportnonfree tree stallman would disagree part debians
+definition free software instead stallman endorsesdistributions
+gnulinux people use including ututo blag linux gnu
+dynebolic gnustep musix agnula
+
+installman called development free online encyclopedia
+mean inviting public contribute article see
+gnupedia
+
+venezuela stallman delivered public speech promotedadoption free software state oil companypdvsamunicipal government nation millitary installman
+attended speech venezuela president hugo chavezconference artist intellectual defense humanityencounter chavez stallman questioned recent law passedtelevision broadcasting challenged free speech right stallmanadvisory council telesur latin american television
+station
+
+augustat meeting government indian state
+kerala persuaded official discard proprietary softwaremicrosofts staterun school resulted landmark
+decision switch school computer inhigh schoolwindow free software operating system
+
+personal life
+
+account including stallman devoted bulklife energy political software activism professingcare little material wealth explains always lived
+cheaply like student basically like means
+money telling
+stallman maintains permanent residence outside office mits
+csail lab describing asquatter campus owns
+neither automobile common pedestrianfriendly cambridgecell phone stated refusal device proprietary
+software research affiliate position mit unpaid
+support financially speaker fee prize moneyaward ha
+accomplishment notwithstanding stallman frequentlytarget criticism ridicule eccentric behavioursupposedly inadequate personal hygiene even within free software
+community acknowledged certain stallmans habitpicking knot hair tossing soupeating might seem crazy outsider worry unusual
+behavior might impair adoption free open source software
+one forbes magazine article columnist daniel lyon expressed
+concern stallmans peculiarity would harm linux reputationassociation
+
+asked influence replied admires mahatma
+gandhi martin luther king nelson mandela aung san suu kyi
+ralph nader dennis kucinich also commented admire
+franklin roosevelt winston churchill even though criticize
+thing
+stallmans personal website includes descriptionguise personal reputedly intelligent atheistsweetheart according interview stated march
+wa relationship
+
+hobby interests
+
+young adult stallman counted folk dance among passionthough since given due knee injury still performs
+small dance step matter spontaneous habit enjoys wide
+range musical style conlon nancarrow folk performed
+renaissance balinese gamelan music recorder bestknown
+original composition free software song attracted praiseadmirer well derision consider emblematic
+inflexible tonedeaf personality
+
+stallman science fiction fan occasionally science
+fiction convention written scifi story notablythe
+right read native english speaker stallman also moderately
+fluent french spanish claim somewhat flawed commandindonesian
+
+terminology
+
+stallman place great importance word label groupingtopic people use talk world including relationship
+software freedom particular untiringly asks people
+say free software gnulinux avoid term 
+intellectual property request people use certain termongoing effort convince people importanceterminology source regular misunderstanding friction
+part free open source software community
+
+one criterion giving interview journalistjournalist agree use terminology throughout article
+sometimes even required journalist read part gnu
+philosophy interview efficiency sake haknown turn speaking request terminology issues
+
+free software
+
+stallman accepts term software libre floss unfettered
+software prefers term free software since lot energy
+ha invested term similar reason arguestermproprietary software rather closed source softwarereferring software free software
+
+english language term free software however mean
+either unrestricted software zerocost softwareyear people tried come intuitive less
+ambiguous term stallman strongly object term open sourcereplace term free since say hide goal freedomdecline interview story would label work open
+source claiming would misrepresent views
+
+gnulinux
+
+fsf artwork gnu gnu mascot penguin tux linux kernel
+mascot representing viewpoint gnulinux
+enlarge
+fsf artwork gnu gnu mascot penguin tux linux kernel
+mascot representing viewpoint gnulinux
+
+often closely associated gnulinux stallmans relationship
+occasionally controversial notably insisted
+term gnulinux pronounces gnu slash linuxused refer operating system created combining gnu
+system linux kernel stallman refers operating system
+variant gnu gnu project principal developer
+claim connection gnu project philosophysoftware broken people refer combination merely
+linux starting aroundhe began also using term
+gnulinux pronounces gnu plus linux insistencecome intense heated criticism
+
+copyright patent trademarks
+
+stallman argues term intellectual property designedconfuse people used prevent intelligent discussionspecific copyright patent trademark law respectivelylumping together area law dissimilar similaralso argues referring law property lawterm bias discussion thinking treatissues
+
+law originated separately evolved differently cover
+different activity different rule raise different
+public policy issue copyright law designed promote
+authorship art cover detail work authorship
+art patent law intended encourage publication ideas
+price finite monopoly ideasa price may
+worth paying field others trademark lawintended promote business activity simply enable
+buyer know buying
+
+terminology issues
+
+stallman recommends avoiding certain term considers misleadingadvocate using term instead
+
+example stallman cautioning others avoid common misleading
+loaded terminology also offering suggestion possible
+alternative paragraph email stallman public
+mailing list
+
+think author please let callcreator god ask money copywork please let devalue work callingcontent order gain income term compensation falsely
+implies matter making kind damages
+
+see word avoid essay gnu websiteexamples
+software idea patent rather commonsoftware
+patent arguing latter give wrong impressionpatent cover entire piece software
+ufo uniform fee replacement rand reasonable
+non discriminatory licensing arguing mandatory royalty
+amount discriminates free softwaredistributor free software cannot count number copyexistence concern shared much free softwareopen source community stallmans term widely used
+avoidingpiracy act copying information arguingpiracy always designated act robbery plundersea term misused corporation lend greater
+importance act copying software intangible
+things
+corrupt disc fake describe digital audio compact
+disc employ copy control similar technologyprevent copying arguing break red book standardnoting recently disc printed without compact
+disc logo
+treacherous computing rather thantrusted computinglimit freedom user denying ability control
+computers
+stallman refers digital right management drm digital
+restriction management drm designed limituser grant user right also suggests
+calling handcuffware term caughtnote free software foundation started defectivedesign campaign spread word inform worldissues
+
+recognition
+
+stallman received much recognition work including
+
+awards
+
+macarthur fellowship
+association computing machinery grace murray hopper
+award pioneering work development extensible
+editor emacs editing macros
+electronic frontier foundation pioneer award
+yuri rubinsky memorial award
+takeda technoentrepreneurship award socialeconomic
+wellbeing 
+
+honours
+
+honorary doctorate sweden royal institutetechnology
+second honorary doctorate university glasgow
+united state national academy engineering membership
+third honorary doctorate vrije universiteit brussel
+fourth honorary doctorate universidad nacional salta
+honorary professorship universidad nacional ingeniera del per
+
+publications
+
+stallman richard msussman gerald november 
+heuristic technique computeraided circuit analysis published
+ieee transaction circuit system vol 
+stallman richard msussman gerald jforward reasoning
+dependencydirected backtracking system computeraided
+circuit analysis published artificial intelligencepp
+stallman richard memacs extensible customizable
+selfdocumenting display editor cambridge massachusetts mit mit
+artificial intelligence laboratory publication aima also
+available web html pdf formats
+stallman richard mgnu emacs manual fifteenth edition
+gnu emacs versionboston massachusetts gnu press isbn
+x also available web different formats
+gay joshua edfree software free society selected
+essay richard stallman boston massachusetts gnu press
+isbnalso available web pdf texinfo
+postscript formats
+stallman richard mcgrath rolandsmith paul dgnu
+make program directed compilation boston massachusetts
+gnu press isbnalso available webdifferent formats
+

@@ -1,0 +1,281 @@
+copyright
+
+water purification
+
+ school wikipedia selection related subject drink
+
+environmental science
+environmental technology
+air pollution control
+alternative energy
+biofuel
+composting
+conservation biology
+conservation ethic
+ecoforestry
+energy conservation
+energy development
+environmental design
+future energy development
+green building
+hydrogen technologies
+recycling
+renewable energy
+remediation
+solid waste treatment
+sustainable energy
+waste water treatment
+water purification
+waste management
+
+water purification removal contaminant raw waterproduce drinking water pure enough human consumptionindustrial use substance removed process include
+parasitessuch giardia cryptosporidiumbacteria algae
+virus fungi mineral including toxic metal lead copper
+etc manmade chemical pollutant many contaminantdangerousbut depending quality standard others removedimprove water smell taste appearance small amountdisinfectant usually intentionally left water endtreatment process reduce risk recontaminationdistribution system
+
+many environmental cost consideration affect locationdesign water purification plant groundwater cheaper treat
+aquifer usually limited output take thousandyear recharge surface water source carefully monitored
+presence unusual type level microbialdisease
+causing contaminant treatment plant must kept secure
+vandalism terrorism
+
+possible tell whether water safe drinklooking simple procedure boiling usehousehold charcoal filter sufficient treating waterunknown source even natural spring waterconsidered safepractical purpose smust tested determining
+kind treatment needed
+
+stage typical municipal water treatment
+
+three principal stage water purification
+primary treatmentcollecting screening including pumpingriver initial storage
+secondary treatmentremoval fine solid majoritycontaminant using filter coagulation flocculation membranes
+tertiary treatmentpolishing adjustment carbon treatmentremove taste smell disinfection temporary storageallow disinfecting agent work
+
+primary treatment
+
+pumping containmentthe majority water must pumpedsource directed pipe holding tank avoid adding
+contaminant water physical infrastructure mustmade appropriate material constructed accidental
+contamination doe occur
+screening see also screen filterthe first step purifying
+surface water remove large debris stick leaves
+trash large particle may interfere subsequent
+purification step deep groundwater doe need screening
+purification steps
+storagewater river may also stored bankside
+reservoir period day many month allow
+natural biological purification take place especially
+important treatment slow sand filter storage reservoirs
+also provide buffer short period drought allow
+water supply maintained transitory pollution incidents
+source river
+preconditioningmany water rich hardness salt treated
+sodaashsodium carbonateto precipitate calcium carbonate
+utilising common ion effect
+prechlorinationin many plant incoming waterchlorinated minimise growth fouling organismpipework tank potential adverse quality
+effect see chlorine largely discontinued
+
+secondary treatment
+
+wide range technique used removefine solid microorganism dissolved inorganic organic
+material choice method depend quality water
+treated cost treatment process quality
+standard expected processed water
+ph adjustmentif water acidic lime soda ash added
+raise lime common two additives
+cheaper also add resulting water
+hardness making water slightly alkaline ensurescoagulation flocculation process work effectively also
+help minimise risk lead dissolved lead pipes
+lead solder pipe fittings
+coagulation flocculationtogether coagulationflocculation purification method work using chemicals
+effectively glue small suspended particle togethersettle water stick sandgranule granular medium filter many suspended water
+particle negative electrical charge charge keeps
+particle suspended repel similar particles
+coagulation work eliminating natural electrical chargesuspended particle attract stickjoining particle form larger
+settleable particle called flocculation larger formed
+particle called floc coagulation chemical addedtank often called rapid mix tank flash mixertypically rotating paddle treatment plantmixture remains tank fortoseconds ensure full
+mixing amount coagulant added water varies
+widely due different source water quality
+one common coagulant used aluminium sulfate
+sometimes called filter alum aluminium sulfate reacts water
+form floc aluminium hydroxide
+coagulation aluminium compound may leave residuealuminium finished water normally aboutto 
+mgl established aluminium toxic humans
+high concentrations
+ironii sulfate iron iii chloride common
+coagulant ironiii coagulant work larger rangealuminium sulfate effective many source waters
+benefit ironiii lower cost cases
+slightly better removal natural organic contaminantwater coagulation iron compound typically leaf residue
+iron finished water may impart slight tastewater may cause brownish stain porcelain fixturetrace level iron harmful human indeed provide
+needed trace mineral taste stain may leadcustomer complaint aluminium tends favoured ironcoagulation
+cationic polymer also used often called
+coagulant aid used conjunction inorganic coagulants
+long chain positively charged polymer helpstrengthen floc making larger faster settling easierfilter main advantage polymer coagulant aidneed water alkaline workproduce settled waste coagulantreduce operating cost drawback polymerexpensive blind sand filter oftennarrow range effective doses
+flocculationin flocculation coagulant usedresultant floc settled rather filtered sand
+filter chosen coagulant raw water slowly mixedlarge tank called flocculation basin unlike rapid mix tank
+flocculation paddle turn slowly minimise turbulence
+principle involved allow many particle contact
+particle possible generating large robust floc
+particle generally retention time flocculation basinleastminutes speed betweenfeet andfeet per
+minutetocmminute flow rate thanftmian
+cause undesirable floc settlement within basin
+sedimentation water exiting flocculation basin enterssedimentation basin also called clarifier settling basinlarge tank slow flow allowing floc settlebottom sedimentation basin best located closeflocculation basin transit doe permit
+settlement floc break sedimentation basinshape rectangle water flow end endcircular flow centre outward sedimentation basin
+outflow typically weir thin top layerfurthest
+sedimentexitsthe amount floc settlewater dependent time water spends basindepth basin retention time water must
+therefore balanced cost larger basinminimum clarifier retention time normallyhours deep basin
+allow floc settle shallow basinlarge particle settle faster smaller one large
+particle bump integrate smaller particle settle
+effect large particle sweep vertically though basinclean smaller particle way bottom
+particle settle bottom basin layer sludgeformed floor tank layer sludge mustremoved treated amount sludge generatedsignificant oftenof total volume watertreated cost treating disposing sludgesignificant part operating cost water treatment plant
+tank may equipped mechanical cleaning devicecontinually clean bottom tank tank taken
+service bottom need cleaned
+increasingly popular method floc removal dissolved air
+flotation proportion clarified water typicalof
+throughput recycled air dissolved pressure
+injected bottom clarifier tank tiny
+air bubble formed attach floc
+particle float surface sludge blanket formed
+periodically removed using mechanical scrapermethod efficient floc removal reduces loadingfilter however unsuitable water source high
+concentration sediment
+filtrationafter separating floc water filteredfinal step remove remaining suspended particleunsettled floc common type filter rapid sand
+filter water move vertically sand often layer
+activated carbon anthracite coal sand top
+layer remove organic compound including taste odourspace sand particle larger smallest suspended
+particle simple filtration enough particle pass
+surface layer trapped pore space adheresand particle effective filtration extends depthfilter property filter key operationtop layer sand block particle filter would
+quickly clog
+clean filter water passed quickly upwardfilter opposite normal direction called backflushingbackwashing remove embedded particle priorcompressed air may blown bottom filterbreak compacted filter medium aid backwashing process
+known air scouring contaminated waterdisposed along sludge sedimentation basinrecycled mixing raw water entering plant
+water treatment plant employ pressure filter workprinciple rapid gravity filter differingfilter medium enclosed steel vessel water forced
+pressure
+slow sand filter may used sufficient landspace rely biological treatment processaction rather physical filtration slow sand filtercarefully constructed using graded layer sand coarsest
+base finest top drain base convey
+treated water away disinfection filtration dependsdevelopment thin biological layer surfacefilter effective slow sand filter may remain servicemany week even month pretreatment well designedproduce excellent quality water physical methodtreatment rarely achieve
+ultrafiltration membrane relatively new developmentuse polymer film chemically formed microscopic poreused place granular medium filter water effectively
+without coagulant type membrane medium determines much
+pressure needed drive water sizemicroorganism filtered
+tertiary treatment
+
+disinfection normally last step purifying drinking water
+water disinfected destroy pathogen passedfilter possible pathogen include virus bacteria including
+escherichia coli campylobacter shigella protozoan including
+g lamblia cryptosporidia developed countries
+public water supply required maintain residual disinfecting
+agent throughout distribution system water may remainday reaching consumer following introductionchemical disinfecting agent water usually held temporary
+storageoften called contact tank clear well allowdisinfecting action complete
+chlorine common disinfection method formchlorine compound chloramine chlorine dioxide
+chlorine strong oxidant kill many microorganisms
+chlorine toxic gas danger release
+associated use problem avoided usesodium hypochlorite relatively inexpensive solidrelease free chlorine dissolved water handling solid
+however requires greater routine human contact opening
+bag pouring use gas cylindereasily automated disinfectant widely used despiterespective drawback major drawback using chlorine gassodium hypochlorite react organic compoundwater form potentially harmful level chemical
+byproduct trihalomethanes thm haloacetic acidcarcinogenic regulated environmental
+protection agency epa formation thm haloacetic acids
+minimised effective removal many organicwater possible disinfection although chlorineeffective killing bacteria limited effectivenessprotozoan form cyst water giardia lambliacryptosporidium pathogenic
+chlorine dioxide another fastacting disinfectanthowever rarely used may create excessive amountchlorate chlorite regulated low allowable
+level chlorine dioxide also pose extreme risk handlinggas toxic may spontaneously detonate upon
+release atmosphere accident
+chloramine another chlorinebased disinfectant although
+chloramine effective disinfectant comparedchlorine gas sodium hypochlorite prone form
+thm haloacetic acid possible convert chlorinechloramine adding ammonia water along chlorine
+chlorine ammonia react form chloramine water
+distribution system disinfected chloramine may experience
+nitrification wherein ammonia used nitrogen sourcebacterial growth nitrate generated byproduct
+ozone relatively unstable molecule oxygenreadily give one atom oxygen providing powerful oxidising
+agent toxic water borne organismstrong broad spectrum disinfectant widely used europe
+effective method inactivate harmful protozoanform cyst also work well almost pathogens
+ozone made passing oxygen ultraviolet lightcold electrical discharge use ozone disinfectantmust created site added water bubble contact
+advantage ozone include productionrelatively fewer dangerous byproduct comparisonchlorination lack taste odour producedozonation although fewer byproduct formed ozonationha discovered use ozone produce small amount
+suspected carcinogen bromate another one main
+disadvantage ozone leaf disinfectant residual
+water ozone used drinking water plant since
+first industrial ozonation plant built nice
+france food drug administration accepted ozonesafe applied antimicrobiological agenttreatment storage processing foods
+uv radiation effective inactivating cyst longwater low level colour paswithout absorbed main drawback use radiation like ozone treatment leaf residual
+disinfectant water
+neither ozone radiation leaf residual
+disinfectant water sometimes necessary addresidual disinfectant used often done
+addition chloramine discussed primary
+disinfectant used manner chloramine provideeffective residual disinfectant little negative
+aspect chlorination
+
+additional treatment options
+
+fluoridation many area fluoride added waterpurpose preventing tooth decay process referredwater fluoridation fluoride usually addeddisinfection process united state fluoridation usually
+accomplished addition dihydrogen hexafluorosilicate
+decomposes water yielding fluoride ions
+water conditioning method reducing effecthard water hardness salt deposited water system subject
+heating decomposition bicarbonate ion creates
+carbonate ion crystalise saturated solutioncalcium magnesium carbonate water high concentrationhardness salt treated soda ashsodium carbonate
+precipitate excess salt common ion
+effect calcium carbonate high purity preciptated
+calcium carbonate traditionally sold manufacturertoothpaste several method industrial residential
+water treatment claimed without general scientific acceptance
+include use magnetic orand electrical field reducing
+effect hard water
+plumbosolvency reduction area naturally acidic waterlow conductivity surface rainfall upland mountainigneous rock water capable dissolving leadlead pipe carried addition small quantities
+phosphate ion increasing slightly assistgreatly reducing plumbosolvency creating insoluble lead salts
+inner surface pipes
+radium removal groundwater source contain radiumradioactive chemical element including many groundwater sources
+north illinois river illinois radium removedion exchange water conditioning back flush sludge
+produced however lowlevel radioactive waste
+fluoride removal although fluoride added water many
+area area world excessive level natural
+fluoride source water excessive level toxic one
+method reducing fluoride level treatmentactivated alumina
+
+water purification techniques
+
+popular method purifying water especially local private
+supply listed country methodalso used large scale municipal supply particularly important
+distillation desalination seawater reverse osmosis
+boiling water heated hot enough long enough inactivate
+kill microorganism normally live water room
+temperature near sea level vigorous rolling boil least
+one minute sufficient high altitude greater two
+kilometer orfeet three minute recommended epa
+emergency disinfection recomendations area waterhard containing significant dissolved calcium salts
+boiling decomposes bicarbonate ion resulting partial
+precipitation calcium carbonate fur builds
+kettle element etc hard water areaexception calcium boiling doe remove solute higher
+boiling point water fact increase concentration
+due water lost vapour boiling doe leaveresidual disinfectant water therefore water haboiled stored length time may acquired new
+pathogens
+carbon filtering charcoal form carbon high surface
+area absorbs many compound including toxic compound water
+passing activated charcoal common household water
+filter fish tank household filter drinking water
+sometimes contain silver release silver ionbactericidal effect
+distillation involves boiling water produce water vapour
+vapour contact cool surface condenses liquid
+solute normally vaporised remainboiling solution even distillation doe completely purify
+water contaminant similar boiling pointdroplet unvaporised liquid carried steam however
+pure water obtained distillation distillationconfer residual disinfectant distillation apparatus
+may ideal place harbour legionnaire disease
+reverse osmosis mechanical pressure applied impure
+solution force pure water semipermeable membrane
+reverse osmosis theoretically thorough method large
+scale water purification available although perfect semipermeable
+membrane difficult create unless membranewellmaintained algae life form colonisemembranes
+ion exchange common ion exchange system use zeolite resin
+bed replace unwanted mg ion benign soap
+friendly k ion common water softener
+electrodeionization water passed positive electrode
+negative electrode ion selective membrane allowpositive ion separate water toward negative
+electrode negative ion toward positive electrode high
+purity deionized water result water usually passedreverse osmosis unit first remove nonionic organic
+contaminants
+
+portable water purification
+
+portable technique purifying water used hiking camping
+etc use rural area emergency situation common
+technique include boiling disinfection tabletultrafiltration using small hand pump
+
+water purification hydrogen production
+
+small scale production hydrogen water purifier installedprevent formation mineral surface electroderemove organic chlorine utility water first water passes
+amicrometre interferencemesh screen filter filterremove sand dust particle second charcoal filteractivated
+carbon remove organic chlorine third stage deionizing
+filter remove metallic ion test donefilter proper functioning barium calcium potassium magnesium
+sodium silicon
+
+another used method reverse osmosis

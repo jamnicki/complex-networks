@@ -1,0 +1,119 @@
+copyright
+
+phosphoryl chloride
+
+ school wikipedia selection related subject chemical compounds
+
+phosphoryl chloride
+phosphoryl chloride
+general
+systematic namephosphoryl chloridephosphorus oxide trichloride
+namesphosphorus oxychloride
+phosphoric trichloride
+molecular formulapocl
+molar massgmol
+appearanceclear colourless liquid
+fume moist air
+ca number
+properties
+density phasegcm liquid
+solubility waterreacts
+melting pointck
+boiling pointck
+viscosityc atc
+structure
+molecular shapetetrahedral
+dipole momentd
+hazards
+msdsexternal msds
+main hazardshighly corrosive
+lachrymator toxic
+r statementr 
+rtecs numberth
+supplementary data page
+structurepropertiesn etc
+thermodynamic dataphase behaviour
+solid liquid gas
+spectral datauv nmr related compounds
+related compound thiophosphoryl chloride
+
+phosphorus oxybromide
+phosphorus trichloride
+phosphorus pentachloride
+except noted otherwise data givenmaterial standard state ckpa
+infobox disclaimer references
+
+phosphoryl chloride commonly called phosphorus oxychloridecolourless liquid formula pocl hydrolyses moist air
+phosphoric acid release choking fume hydrogen chloridemanufactured industrially large scale phosphorus trichloride
+oxygen phosphorus pentoxide mainly used make phosphate
+ester tricresyl phosphate
+
+structure
+
+like phosphate phosphoryl chloride tetrahedral shapefeature three pcl bond one strong double bondestimated bond dissociation energy ofkjmol basisbond length electronegativity schomakerstevenson rule
+suggests double bond form dominant contrastpof bond doe resemble thebond carbonyl group
+ketone appropriate description interactionmatter long discussion older textbook favour descriptioninvokes participation dorbitals phosphorusdorbitals project toward atom overlapping porbitalsoxygen modern text seem favour description 
+bonding involves sigma component pcl bonddescription consider role dorbitals
+
+pmpicometers
+
+chemical properties
+
+pocl reacts water alcohol give phosphoric acidphosphate ester respectively example
+
+opclhoopohhcl
+
+water replaced alcohol trialkyl phosphate esters
+result reaction often performed presence hcl
+acceptor pyridine amine pocl heatedexcess phenolaroh presence lewis acid catalyst
+magnesium chloride triaryl phosphate ester formedexample
+
+chohopclopochhcl
+
+pocl also act lewis base forming adduct varietylewis acid titanium tetrachloride
+
+clpoticlclpoticl
+
+aluminium chloride adduct poclalcl quite stablepocl used remove alcl completely reaction mixtures
+end friedelcrafts reaction pocl reacts hydrogen
+bromide presence alcl produce pobr
+
+preparation
+
+phosphoryl chloride prepared reaction phosphorus
+trichloride oxygen atc air ineffective
+
+pcloopcl
+
+alternative synthesis involves reaction phosphorus
+pentachloride phosphorus pentoxide since compoundsolid convenient way performing reaction chlorinatemixture pcl generates pcl situpcl consumed pocl becomes reaction solvent
+
+pclclpcl
+
+pclpopocl
+
+phosphorus pentachloride also form pocl reaction waterreaction easily controlled reaction
+
+uses
+
+important use phosphoryl chloride manufacturetriarylphosphate ester described triphenyl
+phosphate tricresyl phosphate ester used many
+year flame retardant plasticiser pvc meanwhile trialkyl
+ester tributyl phosphate made similarly butanolused liquidliquid extraction solvent nuclear reprocessingelsewhere
+
+laboratory pocl widely used dehydrating agentexample conversion amide nitrile similarly certain cyclic
+amide cyclised dihydro isoquinoline derivative usingbischlernapieralski reaction
+two phosphorus oxychloride organic chemistry
+
+reaction believed via imidoyl chloride certain
+case stable imidoyl chloride final product
+example pyridones pyrimidones converted chloro
+derivative pyridine pyrimidine important
+intermediate pharmaceutical industry likewise barbituric acid
+converted trichloropyrimidine reaction poclc
+
+related chemistry use pocl acylationactivated aromatic ring via vilsmeierhaack reaction produce
+aryl aldehyde ketone reaction often formamide
+dmf nphenylnmethylformamide produce iminium
+salt easily hydrolysed aldehyde upon workupexample anthracene give anthraldehyde
+vilsmeierhaack formylation anthracene

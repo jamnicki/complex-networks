@@ -1,0 +1,216 @@
+copyright
+
+gnu
+
+ school wikipedia selection related subject website internet
+
+caption gnu
+
+screenshot gnubased screenshot gnubased websitewwwgnuorg
+company
+developergnu project
+familyunixlike
+source modelfree software
+kernel typemicrokernel
+licensemostly gpl lgpl
+working state functional unfinished
+
+gnupronounced gnuis free operating system consistingkernel library system utility compiler enduser
+application name recursive acronym gnu unix
+wa chosen design unixlike differs unix
+free software containing unix code plan
+gnu operating system announced septemberby richard
+stallman software development work began januaryasgnu actively developed project develop gnuknown gnu project program released auspexgnu project called gnu package gnu programs
+
+ofa complete gnu system released official
+kernel gnu hurd however hurd yet finished gnu
+user use thirdparty linux kernel linux haofficially adopted kernel gnu gnu doe officially include
+third party software xorg windowing systemtex typesetting system
+
+system basic component include gnu compiler collection
+gcc gnu binary utility binutils bash shell gnu library glibc coreutils gnu thirdparty package xorg
+tex foundation graphical user interfacetypesetting system respectively gnu software work yetgnu hurd kernel
+
+version gnu using linux kernel often called linuxkernel gnu project asks people call systems
+gnulinux see gnulinux naming controversy
+
+many gnu program also ported numerous operating
+system window bsd solaris mac 
+gnu general public license gpl gnu lesser general public
+license lgpl gnu free documentation license gfdlwritten gnu also used many unrelated projects
+
+history
+
+gnu project announced publicly septemberonnetunixwizards netusoft newsgroups software development began
+januarywhen stallman quit job massachusetts
+institute technology could claim ownershipinterfere distributing gnu free software accordingstallman name inspired various play word including
+song gnu
+
+goal bring wholly free software operating systemexistence stallman wanted computer user freefree study source code softwareuse free modify behaviour software free publish
+modified version software philosophy published
+marchas gnu manifesto
+
+much needed software written scratchexisting compatible free software component used two examples
+tex typesetting system window system gnu
+ha written volunteer spare time paidcompany educational institution nonprofit
+organization octoberstallman set free software
+foundation fsf late fsf hired software
+developer write software needed gnu peak 
+people staff fsf also hold copyright gnu
+software package gnu package licensed gnu general
+public license gnu gpl use gnu lesser general public
+license gnu lgpl still smaller amount use free software
+licenses
+
+would convenient people switch gnudecided gnu would mostly compatible unix time
+unix popular proprietary operating system design unixproven solid modular could reimplemented
+piece piece
+
+gnu gained prominence interested business began contributingdevelopment selling gnu software technical supportprominent successful cygnus solution part red
+hat
+
+licensing
+
+order ensure gnu software remains free project released
+first version gnu general public license gnu gpl 
+license used gnu program well large
+number free software program part gnu project
+commonly used free software license giverecipient program right run copy modify distribute
+forbidding imposing restrictioncopy distribute idea referred copyleft
+
+inthe gnu lesser general public license written certain
+libraries
+
+inthe gnu free documentation license written technical
+manuals
+
+design implementation
+
+initial plan gnu mostly unixcompatible adding
+enhancement useful design kernel gnus
+largest departure traditional unix gnu kernel wamultiserver microkernel
+
+gnu hurd run microkernel currently mach consistsset program called server offer functionalitytraditional unix kernel linux
+
+gnu using hurd tried using live see distributiongnu
+
+bythe gnu system extensible text editor emacssuccessful optimizing compilergcc core libraries
+utility standard unix distribution main component still
+missing kernel gnu manifesto stallman mentioned
+initial kernel exists many feature neededemulate unix referring trix remote procedure call kernel
+developed massachusetts institute technology whose authordecided distribute free compatible versionunix
+decemberwork started modifying kernel however
+developer eventually decided unusable starting point
+primarily ran obscure expensiveboxwould therefore ported architecturecould used bythe mach messagepassing kernel developed
+carnegie mellon university considered instead although
+release free software delayed untilwhiledeveloper worked remove code owned att
+
+since mach microkernel design provided lowlevel
+kernel functionality gnu project develop higherlevel
+part kernel collection user program initiallycollection called alix developer michael thomas
+bushnell later preferred name hurd alix name movedsubsystem eventually dropped completely eventually developmenthurd stalled due technical reason personality conflicts
+
+inlinus torvalds wrote unixcompatible linux kernel
+although original license linux restriction commercial
+distribution hence software free speech
+torvalds quickly changed license gnu gpl ininlater termed best decision ever made linux wadeveloped various programmer internet initcombined gnu system resulting functional free operating
+system gnu system commonly encountered form
+usually referred alinux distribution see naming
+controversy section ofhurd slow development
+official kernel gnu system alsoproject working porting gnu system kernel freebsdnetbsd
+
+naming
+
+gnu gnu hurd gnuhurd
+
+gnuhurd refers gnu distribution gnu hurdcore gnu hurd set program server running topmicrokernel provides service traditional
+monolithic unix kernel gnu currently gnu mach microkernel
+effort port hurd microkernel currently ongoing
+gnu gnu hurd indicates part gnu project
+gnuhurd distinguishes one two currently available
+gnu systemshurdbased gnu systemsgnuhurd linuxbased gnu
+systemsgnulinux gnu refers gnuhurd
+
+gnulinux naming controversy
+
+system linux kernel mostly gnu userland usually
+referred linux system however fsf insists gnu
+project made biggest contribution ought get least equal
+mention
+
+gnulinux pronounced gnuslashlinux often gnu
+linux however fsf contest gnu linux ruleenglish language refers distribution kernel linuxgnu project gnu project version itgnulinux say
+make clear person referring combinationlinux kernel gnu userland binary forming complete gnu linus torvalds original author linux doe approve term
+gnulinux prefers gnu linux gnu project wantdistribution
+
+gnu software
+
+prominent component gnu system include gnu compiler
+collection gcc gnu library glibc gnu emacs text editor
+gnome desktop environment
+
+many gnu program ported operating systemoften installed proprietary unix system replace proprietary
+utility gnu program contested case testedshow reliable proprietary unix counterpartsthe
+reputation gnu software especially good among linux usersoftware development toolswhich sometimes collectively
+called gnu toolset making small fraction gnu
+system whole gnu version posix compliantpopularity gnulinux system many developer install gnu
+toolset system compatibility capture uniform
+behaviour across platform many gnu program also portedmicrosoft window mac various proprietary platforms
+however often hot topic among enthusiast motivedeveloping program replace system free
+software enhance
+list package well known free software community
+includes
+system software
+bisonparser generator intended replace yacc
+bashunix shell
+bfdobject file library
+classpathlibraries java
+coreutilsbasic unix utility cat rm
+emacsextensible selfdocumenting text editor
+gnu librarystandard posix library plus additional
+functionality
+gzipa library program data compression
+gnu toolchain software development
+gnu binary utilitiesassembler linker related
+tools
+gnu build systemautoconf automake libtool
+gccoptimizing compiler many programming languages
+including c fortran ada java
+gdbdebugger
+screena terminal multiplexer
+texinfodocumentation system producing onlineprinted manuals
+wgetadvanced file retrieval network internet
+gnunetdecentralized peertopeer communication network
+designed resistant censorship
+gnu hurda microkernelbased set server performfunction unix kernel
+application software
+gimpgnu image manipulation program
+gnashplayer movie adobe flash format
+gmparbitrary precision numerical calculation programming
+library
+gnomegraphical desktop environment
+gnu lilypondsheet music engraving program
+gnu octaveprogram numerical computation similarmatlab
+gnu privacy guard gnupgfree encryption toolreplace pgp
+gnu robotssmall addictive game computer programmers
+gnu scientific library
+gnustepimplementation openstep standard setlibrary development tool graphical applications
+gnu guileembeddable scheme interpreter
+
+januarythere total ofgnu package hostedgnu hosting siteothers hosted elsewhere
+
+distribution gnu
+
+bee gnuhurd
+debian gnuhurd
+gnuab
+superunprivilegedorgs hurd livecd
+unofficial gentoohurd project
+
+operating system based gnu using hurd
+
+gnukfreebsd
+gnulinux far popular variant gnu
+gnunetbsd
+gnusolaris
+

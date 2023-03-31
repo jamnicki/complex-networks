@@ -1,0 +1,276 @@
+copyright
+
+computer science
+
+ school wikipedia selection related subject computer programming
+
+computer science computing science study theoretical
+foundation information computation implementationapplication computer system computer science many subfields
+emphasize computation specific result computer
+graphic others computational complexity theory
+relate property computational problem still others focuschallenge implementing computation example programming
+language theory study approach describing computationcomputer programming applies specific programming language solve
+specific computational problems
+
+history
+
+history computer science predates invention modern
+digital computer many year machine calculating fixed
+numerical task existed since antiquity abacus
+wilhelm schickard built first mechanical calculator 
+charles babbage designed difference engine victorian timearoundthe ibm corporation sold punchcard machine howevermachine constrained perform single taskbest subset possible tasks
+
+prior term computer referred human clerkperformed calculation early researcher came called
+computer science kurt gdel alonzo church alan turing
+interested question computability thingcomputed human clerk simply follows list instructions
+paper pencil long necessary without ingenuity
+insight part motivation work desiredevelop computing machine could automate often tediouserrorprone work human computer key insight waconstruct universal computing system capable theory performing
+possible computable task thus generalising previous
+dedicatedtask machine single notion universal
+computer creation concept universal computer marked
+birth modern computer science
+
+newer powerful computing machinedeveloped term computer came refer machine ratherhuman predecessor became clear computer couldused mathematical calculation fieldcomputer science broadened study computation general computer
+science began established distinct academic disciplinecreation first computer science departments
+degree program since practical computer became available many
+application computing become distinct area studyright
+
+major achievements
+
+despite relatively short history formal academic discipline
+computer science made number fundamental contributionscience society include
+formal definition computation computability proof
+computationally unsolvable intractable problems
+concept programming language tool precise
+expression methodological information various levelabstraction
+
+theory practice compiler translatingprogramming languages
+practical application internet search engines
+scientific computing
+
+relationship fields
+
+despite name much computer science doe involve study
+computer fact renowned computer scientist
+edsger dijkstra often quoted saying computer sciencecomputer astronomy telescope designdeployment computer computer system generally considered
+province discipline computer science example
+study computer hardware usually considered part computer
+engineering study commercial computer systemdeployment often called information technology information
+system computer science sometimes criticizedinsufficiently scientific view espoused statement sciencecomputer science hydrodynamics plumbing credited stan
+kellybootle others however much
+crossfertilization idea various computerrelated
+discipline computer science research also often crosseddiscipline artificial intelligence cognitive science
+physic see quantum computing linguistics
+
+computer science considered much closer
+relationship mathematics many scientific discipline early
+computer science strongly influenced work mathematicians
+kurt gdel alan turing continues useful
+interchange idea two field areamathematical logic category theory domain theory algebra
+
+relationship computer science software engineeringcontentious issue muddied disputeterm software engineering mean computer science defined
+people believe software engineering subset computer
+science others taking cue relationshipengineering science discipline believe principle focus
+computer science studying property computationgeneral principle focus software engineeringdesign specific computation achieve practical goal makingdifferent discipline view promulgated among others david
+parnas still others maintain software cannot engineered
+field computer science
+
+computer science search concept proof explaindescribe computational system interest sciencegiven system interest performs analysis seek general
+principal explain system science theories
+utilised synthesize practical engineering applications
+turn may suggest new system studied analysed
+
+mathematical foundations
+
+mathematical logic
+boolean logic way modeling logical queryus limitation formal proof methods
+
+number theory
+theory proof heuristic finding proof simple
+domain integer used cryptography well test
+domain artificial intelligence
+
+graph theory
+foundation data structure searching algorithms
+
+type theory
+formal analysis type data use types
+understand property programsespecially program
+safety
+
+theory computation
+
+automaton theory
+different logical structure solving problems
+
+computability theory
+calculable current model computer proofs
+developed alan turing others provide insightpossibility may computed may
+computational complexity theory
+fundamental bound especially time storage spaceclass computations
+
+quantum computing theory
+
+algorithm data structures
+
+analysis algorithms
+time space complexity algorithms
+
+algorithms
+formal logical process used computationefficiency processes
+
+data structures
+organization rule manipulation data
+
+programming language compilers
+
+compilers
+way translating computer program usually higher level
+language lower level ones
+
+programming languages
+formal language paradigm expressing algorithmproperty language problem suited
+solve
+
+concurrent parallel distributed systems
+
+concurrency
+theory practice simultaneous computation data safety
+multitasking multithreaded environment
+
+distributed computing
+computing using multiple computing device networkaccomplish common objective task reducinglatency involved single processor contribution task
+
+parallel computing
+computing using multiple concurrent thread execution
+
+software engineering
+
+formal methods
+mathematical approach describing reasoningsoftware designs
+
+software engineering
+principle practice designing developingtesting program well proper engineering practices
+
+reverse engineering
+application scientific method understandingarbitrary existing software
+
+algorithm design
+using idea algorithm theory creatively design solutions
+real tasks
+
+computer programming
+practice using programming language implement
+algorithms
+
+computer architecture
+
+computer architecture
+design organization optimization verificationcomputer system mostly cpu memory subsystembus connecting
+operating systems
+system managing computer program providing basis
+useable system
+
+communications
+
+game theory
+recently game theory drawn attention computer
+scientist use artificial intelligencecybernetics
+
+networking
+algorithm protocol reliably communicating data across
+different shared dedicated medium often including error
+correction
+
+cryptography
+applies result complexity probability number theory
+invent break codes
+
+databases
+
+relational databases
+data mining
+study algorithm searching processing informationdocument database closely related information
+retrieval
+
+artificial intelligence
+
+artificial intelligence
+implementation study system exhibitautonomous intelligence behaviour
+automated reasoning
+solving engine used prolog produce stepresult given query fact rule database
+
+robotics
+algorithm controlling behaviour robots
+
+computer vision
+algorithm identifying three dimensional object two
+dimensional picture
+
+machine learning
+automated creation set rule axiom based input
+
+soft computing
+
+collective term technique used solving specific problem see
+main article
+
+computer graphics
+
+computer graphics
+algorithm generating visual image syntheticallyintegrating altering visual spatial information
+sampled real world
+
+image processing
+determining information image computation
+
+human computer interaction
+study design computer interface people use
+
+scientific computing
+
+numerical algorithms
+numerical solution mathematical problemrootfinding integration solution ordinary differential
+equation approximation special functions
+
+symbolic mathematics
+manipulation solution expression symbolic form also
+known computer algebra
+
+computational physics
+numerical simulation large nonanalytic systems
+
+computational chemistry
+computational modelling theoretical chemistry orderdetermine chemical structure properties
+
+bioinformatics
+use computer science maintain analyse store
+biological data assist solving biological problems
+protein folding function prediction phylogeny
+
+computational neuroscience
+computational modelling real brains
+
+cognitive science
+computational modelling real minds
+
+computer science education
+
+university teach computer science theoretical studycomputation algorithmic reasoning program often featuretheory computation analysis algorithm formal methods
+concurrency theory database computer graphic system analysis
+among others typically also teach computer programming treat
+vessel support field computer science
+rather central focus highlevel study
+
+college university well secondary schoolvocational program teach computer science emphasize practice
+advanced computer programming rather theory algorithms
+computation computer science curriculum curricula
+tend focus skill important worker entering
+software industry practical aspect computer programming
+often referred software engineering however lot
+disagreement term software engineering actually
+mean whether thing programming
+
+see peter denning great principle computing curricula
+technical symposium computer science education 
+

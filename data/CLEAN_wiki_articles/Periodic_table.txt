@@ -1,0 +1,363 @@
+copyright
+
+periodic table
+
+ school wikipedia selection related subject general chemistry
+
+periodic table chemical element tabular methoddisplaying chemical element first devised inby russian
+chemist dmitri mendeleev mendeleev intended table illustrate
+recurring periodic trend property elementlayout table refined extended time many
+new element discovered since mendeleev time new
+theoretical model developed explain chemical behavior
+various layout possible emphasize different aspectbehaviour common form however still quite similarmendeleev original design
+
+periodic table ubiquitous within academic disciplinechemistry providing extremely useful framework classify
+systematize compare many different form chemical
+behaviour table also found wide application physics
+biology engineering industry current standard table contains
+confirmed element octoberwhile elementhas
+synthesized elementhas
+method displaying periodic table
+
+standard periodic table
+
+group
+period
+
+h
+
+
+li 
+
+b
+c
+n
+f
+ne
+
+na 
+mg
+
+al
+si
+p
+cl
+ar
+
+k
+ca 
+sc 
+ti 
+v
+cr 
+mn 
+fe 
+co 
+ni 
+cu 
+zn
+ga
+ge
+se
+br
+kr
+
+rb 
+sr 
+zr 
+nb 
+mo 
+tc 
+ru 
+rh 
+pd 
+ag 
+cd
+sn
+sb
+te
+xe
+
+c 
+ba 
+
+hf 
+ta 
+w
+
+
+ir 
+pt 
+au 
+hg
+tl
+pb
+bi
+po
+rn
+
+fr 
+ra 
+
+rf 
+db 
+sg 
+bh 
+h 
+mt 
+
+rg 
+uub 
+uut 
+uuq 
+uup 
+uuh 
+uus 
+uuo
+lanthanides
+la 
+ce 
+pr 
+nd 
+pm 
+sm 
+eu 
+gd 
+tb
+dy
+ho
+er
+tm
+yb
+lu
+actinides
+ac 
+th 
+pa 
+u
+np 
+pu 
+
+cm 
+bk
+cf
+es
+fm
+md
+lr
+
+notes
+lanthanide also known asrare earth element deprecated
+term regarding group membership element seealkali metal alkaline earth metal transition metal actinides
+lanthanide poor metal collectively knownmetals
+halogen noble gas also nonmetals
+
+
+caption chemical series periodic table
+
+alkali metal alkaline earth metal lanthanide actinide transition
+metals
+poor metalsmetalloidsnonmetalshalogensnoble gases
+
+caption state standard temperature pressurec andatm
+
+gas liquid solids
+
+caption natural occurrence
+
+undiscovered synthetic decay primordial
+
+depictions
+
+standard table provides basics
+vertical table improved readability web browsers
+big table provides basic full element names
+huge table provides basic plus full element nameatomic masses
+table inline fblock insert lanthanideactinide correct place table
+electron configurations
+metal nonmetals
+periodic table filled blocks
+table chinese
+list element name
+list element symbol
+list element atomic number
+list element boiling point
+list element melting point
+list element density
+list element atomic mass
+list element electronegativity
+
+alternative periodic table exist well
+
+arrangement
+
+earlier attempt list element show relationshipusually involved putting order atomic mass
+mendeleev key insight devising periodic table layelement illustrate recurring periodic chemical properties
+even meant mass order leave
+gap missing element mendeleev used table predictproperty missing element many indeed
+discovered fit prediction well
+
+development theory atomic structure instancehenry moseley became apparent mendeleev listedelement order increasing atomic number numberproton atomic nucleus sequence nearly identicalresulting ascending atomic mass
+
+order illustrate recurring property mendeleev began new rows
+table element similar property fellvertical column groups
+
+development modern quantum mechanical theory electron
+configuration within atom became apparent horizontal row
+period table corresponded filling quantum shell
+electron mendeleev original table period walength modern table progressively longer periodtable group element fblocksreflect understanding electron configuration
+
+printed table element usually listed element
+symbol atomic number many version table also listelement atomic mass information abbreviated
+electron configuration electronegativity common valence
+number ofthe table containschemical element whose
+discovery confirmed ninety found naturally earth
+rest synthetic element produced
+artificially particle accelerator elementstechnetium 
+promethium although lower atomic number naturally
+occurring elementuranium synthetic elementsneptunium
+andplutonium listed synthetic elementfound trace amount earth
+
+periodicity chemical properties
+
+main value periodic table ability predictchemical property element based location table
+noted property vary differently moving
+vertically along column table moving
+horizontally along rows
+
+group periods
+
+group also known family vertical columnperiodic table elements
+
+group considered important method classifyingelement group element similar propertyexhibit clear trend property groupthese group tend
+given trivial nonscientific name alkali metals
+alkaline earth metal halogen noble gas groupperiodic table display fewer similarity andor vertical trends
+example groupsandand trivial namereferred simply group number modern quantum mechanical
+theory atomic structure explain group trend proposingelement within group electron configurationvalence shell important factor accounting
+similar properties
+period horizontal row periodic table elements
+
+although group common way classifying elementregion periodic table horizontal trendsimilarity property significant vertical group
+trend true dblock ortransition metalespecially fblock lanthanide actinide form
+two substantial horizontal series elements
+
+examples
+
+noble gases
+
+element groupthe noble gas full valence
+shell mean need react elementattain full shell therefore much reactivegroup helium inert element among noble gas since
+reactivity group increase period possible
+make heavy noble gas react since much larger electron
+shell however reactivity remains low absolute terms
+
+halogens
+
+groupknown halogen element missing one
+electron fill shell therefore chemical reactions
+tend acquire electron tendency acquire electroncalled electronegativity property evident fluorine
+electronegative element whole tablediminishes increasing period
+
+result halogen form acid hydrogenhydrofluoric acid hydrochloric acid hydrobromic acid hydroiodic
+acid form acidity increase higher period
+example regard iodine fluorine since large ion
+stable solution small le volumedisperse charge
+
+transition metals
+
+transition metal groupstothe difference groups
+usually dramatic reaction involve coordinated
+specie however still possible make useful predictions
+
+lanthanide actinides
+
+chemical property lanthanide elementsandactinide elementsare even similartransition metal separating mixturedifficult important chemical purification uranium
+concerning nuclear power
+
+nonmetals
+
+nonmetal distinguished metal metalloid basisionization chemical bonding property nonmetalelectronegative meaning accept valence electronatom readily give arenaturally
+occurring nonmetal including halogen noble gas general
+nonmetal able conduct electricity heat well 
+graphite allotrope carbon exception unlike metalsolid nonmetallic element brittle cannot rolledwire pounded sheet many nonmetal gas room
+temperature atmospheric pressure example oxygen bromine
+one two element periodic table liquidcondition metal mercury nonmetals
+metallic luster reflect light oxidation
+number ofand 
+
+structure periodic table
+
+primary determinant element chemical propertyelectron configuration particularly valence shell electroninstance atom four valence electron occupying orbitals
+exhibit similarity type orbital atoms
+outermost electron reside determines block belongs
+number valence shell electron determines family group
+element belongs
+
+total number electron shell atom determines period
+belongs shell divided different subshells
+atomic number increase filled roughly orderaufbau principle
+subshell sgfdp
+period
+sp
+sp
+sd sd sf sf g p
+
+hence structure table since outermost electrons
+determine chemical property number valence
+electron grouped together
+
+progressing group lightest element heaviest element
+outershell electron readily accessibleparticipation chemical reaction typeorbital similar shape increasingly higher energyaverage distance nucleus instance outershellvalence electron first group headed hydrogenone electron orbital hydrogen orbitallowest possible energy state atom firstshell orbitalrepresented hydrogen position first period table
+francium heaviest element group outershell
+electron seventhshell orbital significantlyaverage nucleus electron filling shells
+energy another example carbon lead four
+electron outer shell orbitals
+
+note atomic number charge atomic nucleus
+increase lead greater spinorbit couplingnucleus electron reducing validity quantum
+mechanical orbital approximation model considers atomic
+orbital separate entity
+
+importance outermost shell different regions
+periodic table sometimes referred periodic table
+block named according subshell last electron
+resides sblock pblock dblock etc
+
+history
+
+ancient greece believed four element air
+fire earth water element could reactedcreate another one earth fire combined form lava
+however theory dismissed real chemical elements
+started discovered scientist needed easily accessible well
+organized database element could recordedaccessed known periodic table
+
+original table created discovery subatomic
+particle formulation current quantum mechanical theoryatomic structure one order element atomic massplot certain property atomic mass one seeundulation periodicity property function atomic
+mass first recognize regularity german chemist
+johann wolfgang dbereiner innoticed number triadsimilar elements
+
+caption triads
+
+elementmolar mass
+gmoldensity
+gcmquotient
+cmmol
+chlorine
+bromine
+iodine
+
+calcium
+strontium
+barium
+
+wa followed english chemist john newlands noticedelement similar type recurred interval eight
+likened octave music though law octaveridiculed contemporary finally inthe russian chemistry
+professor dmitri ivanovich mendeleev four month later german
+julius lothar meyer independently developed first periodic table
+arranging element mass however mendeleev plottedelement strict mass sequence order make better matchproperty neighbor table corrected mistakevalue several atomic mass predicted existenceproperty new element empty cell table
+mendeleev later vindicated discovery electronic
+structure element late early century
+
+glenn seaborg identified transuranic lanthanides
+actinide may placed within tableshown elementseaborgium elementnamed living person seaborg since died
+

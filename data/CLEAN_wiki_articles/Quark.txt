@@ -1,0 +1,203 @@
+copyright
+
+quark
+
+ school wikipedia selection related subject general physics
+
+thequarks likely decay mode mass
+decrease moving right left
+enlarge
+thequarks likely decay mode mass
+decrease moving right left
+
+particle physic quark one two basic constituentmatter standard model fermion leptons
+
+antiparticle quark called antiquark quarkfundamental particle interact four fundamental
+force word borrowed murray gellmann book
+finnegans wake james joyce seabird give three quark akin
+three cheer probably onomatopoetically imitating seabird call
+like quack ducks
+
+name quark flavoursup strange charm bottomtop also chosen arbitrarily based need namesomething could easily remembered used
+
+important property quark called confinement states
+individual quark seen always confined
+inside subatomic particle called hadron proton neutrons
+exception top quark decay quickly doehadronize therefore observed directly via decay
+product confinement began experimental observationexpected follow modern theory strong interactions
+called quantum chromodynamics qcd although mathematical
+derivation confinement qcd easy show using lattice
+gauge theory
+
+free quarks
+
+discovery photograph possible charmed baryon identified
+c
+enlarge
+discovery photograph possible charmed baryon identified
+c
+
+search free quark fractional electric charge returned
+convincing evidence absence free quark thereforeincorporated notion confinement believedtheory quark must posse however may possible change
+volume confinement creating dense hot quark matternew phase qcd matter predicted theoreticallyexperimental search started
+
+confinement quark properties
+
+every subatomic particle completely described small setobservables mass quantum number spin jparity usually property directly determinedexperiment however confinement make impossible measureproperty quark instead must inferred measurable
+property composite particle made quarkinference usually easily made certain additive quantum
+number called flavours
+
+composite particle made quark antiquark hadrons
+include meson get quantum number quark
+antiquark baryon get three quarks
+quark antiquark impart quantum number hadroncalled valence quark apart hadron may containindefinite number virtual quark antiquark gluontogether contribute nothing quantum number virtual
+quark called sea quarks
+
+flavour
+
+quark assigned baryon number band vanishing
+lepton number lthey fractional electric charge either
+qor qthe former called uptype quarklatter downtype quark quark assigned weak isospin uptype quark tzfor downtype quark
+doublet weak isospin defines generation quarkthree generation hence six flavour quarksthe uptype quark
+flavour charm top downtype quark flavourstrange bottom list order increasing mass
+
+number generation quark lepton equalstandard model number generation lepton light
+neutrino strongly constrained experiment lep cernobservation abundance helium universe precision
+measurement lifetime boson lep constrains number
+light neutrino generation three astronomical observationhelium abundance give consistent result result direct searches
+fourth generation give limit mass lightest
+possible fourth generation quark stringent limit comeanalysis result tevatron collider fermilab shows
+mass fourthgeneration quark must greater 
+gev additional limit extra quark generation comemeasurement quark mixing performed experiment bellebabar
+
+flavour defines quantum number conservedstrong interaction weak interaction magnitudeflavour changing weak interaction encoded structure
+called ckm matrix also encodes violation allowedstandard model flavour quantum number described detail
+article flavour
+
+spin
+
+quantum number corresponding nonabelian symmetry like rotations
+require care extraction since additivequark model one build meson quark antiquark whereas
+baryon built three quark since meson bosoninteger spin baryon fermion halfinteger spins
+quark model implies quark fermion fact
+lightest baryon spin implies quarkspin jthe spin excited meson baryoncompletely consistent assignment
+
+colour
+
+since quark fermion pauli exclusion principle impliesthree valence quark must antisymmetric combinationbaryon however charge qbaryonwhich one four
+isospin izbaryons made three quarkparallel spin since configuration symmetric interchange
+quark implies exists another internal quantum
+number would make combination antisymmetricgiven namecolour although nothingperception frequency wavelength lightusual meaning colour quantum number charge involvedgauge theory called quantum chromodynamics qcd
+
+coloured particle gluon gauge boson
+qcd like nonabelian gauge theory unlike quantum
+electrodynamics gauge boson interact one anotherforce affect quarks
+
+colour gauged symmetry quark placed fundamental
+representationand hence come three colour red greenblue gluon placed adjoint representationand hence
+come eight variety see article colour
+charge
+
+quark masses
+
+although one speaks quark mass way massparticle notion mass quark complicatedfact quark cannot found free nature resultnotion quark mass theoretical construct make sense
+one specifies exactly procedure used define
+current quark mass
+
+approximate chiral symmetry qcd example allows onedefine ratio various strange quark masses
+combination mass pseudoscalar meson octetquark model chiral perturbation theory giving
+
+fracmumdqquadrm
+andqquadfracmsmd
+
+fact muis important since would strong
+cp problem vanish absolute value masses
+currently determined qcd sum rule also called spectral
+function sum rule lattice qcd mass determined manner
+called current quark mass connection different
+definition current quark mass need full machineryrenormalization specification
+
+valence quark mass
+
+another older method specifying quark mass usegellmannnishijima mass formula quark model connect
+hadron mass quark mass mass determined called
+constituent quark mass significantly differentcurrent quark mass defined constituent massdynamical meaning
+
+heavy quark masses
+
+mass heavy charm bottom quark obtainedmass hadron containing single heavy quark one light
+antiquark two light quark analysis quarkonia
+lattice qcd computation using heavy quark effective theory hqet
+nonrelativistic quantum chromodynamics nrqcd currently used
+determine quark masses
+
+top quark sufficiently heavy perturbative qcd used
+determine mass discovery inthe best
+theoretical estimate top quark mass obtained global
+analysis precision test standard model top quark
+however unique amongst quark decaychance hadronize thus mass directly measuredresulting decay product done tevatronparticle accelerator energetic enough produce top quarks
+abundance
+
+property quarks
+
+following table summarizes key property six known
+quarks
+
+generationweak
+isospinflavournamesymbol chargee massmev iz uputo 
+iz downdto 
+sstrange sto 
+ccharmcto 
+bbottombto 
+ttopt
+
+top quark mass tevatron electroweak working group
+quark mass particle data group mass given
+msbar scheme
+quantum number top bottom quark sometimes
+known truth beauty respectively alternativetopness bottomness
+
+antiquarks
+
+additive quantum number antiquark equal magnitudeopposite sign quark cpt symmetry forcespin mass corresponding quark test cpt
+symmetry cannot performed directly quark antiquark dueconfinement performed hadron notation antiquarks
+follows antimatter general quark denotedmathrmuand antiup quark denoted barmathrmu 
+
+substructure
+
+extension standard model begin assumptionquark lepton substructure word models
+assume elementary particle standard model fact
+composite particle made elementary constituentassumption open experimental test theoryseverely constrained data present evidencesubstructure detail see article preons
+
+history
+
+notion quark evolved classification hadrons
+developed independently inby murray gellmann kazuhiko
+nishijima nowadays name quark modelscheme grouped together particle isospin strangeness usingunitary symmetry derived current algebra today recognise
+part approximate chiral symmetry qcd global
+flavour symmetry confused gauge
+symmetry qcd
+
+scheme lightest meson spin baryon spingrouped together octetsof flavour symmetry classification
+spin baryon representationyielded prediction
+new particlethe discovery inled wide
+acceptance model missing representationwas identified
+quarks
+
+scheme called eightfold way gellmann clever
+conflation octet model eightfold waybuddhism also chose name quark attributedsentence three quark muster mark james joyce finnegans wake
+negative result quark search experiment caused gellmannhold quark mathematical fiction
+
+analysis certain property high energy reaction hadron led
+richard feynman postulate substructure hadron called
+partons since form part hadron scaling deep inelastic
+scattering cross section derived current algebra james bjorken
+received explanation term partons bjorken scalingverified experiment init immediately realizedpartons quark could thing proofasymptotic freedom qcd inby david gross frank wilczekdavid politzer connection firmly established
+
+charm quark postulated sheldon glashow iliopoulosmaiani prevent unphysical flavour change weak decays
+would otherwise occur standard model discoverymeson came called ledrecognition made charm quark antiquark
+
+existence third generation quark predictedkobayashi maskawa realized observed violation symmetry neutral kaon could accommodated standard
+model two generation quark bottom quark discovered
+inand top quark inat tevatron collider fermilab
+

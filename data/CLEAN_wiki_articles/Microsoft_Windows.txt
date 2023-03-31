@@ -1,0 +1,218 @@
+copyright
+
+microsoft windows
+
+ school wikipedia selection related subject software
+
+caption microsoft windows
+
+window logo
+screenshot window vista newest release microsoft windows
+company developer microsoft corporation
+family msdosbased window window window source model closed source
+stable release window vista
+ntnovember
+preview release window server longhorn
+augustctp
+ntseptember
+
+license eula
+working state current
+website microsoft windows
+
+microsoft window family operating system microsoftrun several type platform server embedded devices
+typically personal computer microsoft first introduced
+operating environment named window novemberas addonmsdos response growing trend graphical user interfaces
+gui popularized macintosh microsoft window eventually came
+dominate world personal computer market theidc
+direction conference idc vice president avneesh saxena statedwindow approximatelyof client operating system market
+
+versions
+
+term window collectively describes several
+generation microsoft operating system productproduct generally categorized follows
+
+bit operating environments
+
+early version window often thought graphical
+user interface desktop mostly startedmsdos used file system service however even earliest
+bit window version already assumed many typical operating system
+function notably executable file formatproviding device driver timer graphic printer mouse
+keyboard sound application unlike msdos window allowed
+user execute multiple graphical application time
+cooperative multitasking finally window implementedelaborate segmentbased software virtual memory scheme allowed
+run application larger available memory code segmentresource swapped thrown away memory became scarce
+data segment moved memory given applicationrelinquished processor control typically waiting user input
+example include windowsand windowsandclose relative windows
+
+hybrid bit operating environments
+
+window introduced bit protected mode kernel virtual
+machine monitor duration window session created one
+virtualenvironments provided device virtualization
+video card keyboard mouse timer interrupt controller
+inside uservisible consequence became
+possible preemptively multitask multiple msdos environmentseparate window graphical application required switching window
+full screen mode window application still multitasked
+cooperatively inside one realmode environments
+
+windowsand windowsimproved design mostly
+thanks virtual memory loadable virtual device driversvxds
+allowed share arbitrary device multitasked dos
+window window application could run bit
+protected mode window running standard orenhanced
+mode gave access several megabyte memoryremoved obligation participate software virtual memory
+scheme still ran inside address spacesegmented memory provided degree protection multitasked
+cooperatively windowsmicrosoft also rewrote critical
+operation assembly making release faster less
+memoryhungry predecessors
+
+hybrid bit operating systems
+
+introduction bit file access window workgroups
+window could finally stop relying file management
+leveraging windowsintroduced long file name reducingrole boot loader msdos bundledwindow notably made partially aware long file nameutility run within window angeredcompetition important novelty possibility running
+bit multithreaded preemptively multitasked graphical programs
+however necessity keeping compatibility bit programs
+meant gui component still bit fully
+reentrant resulted reduced performance stability
+
+three release windowsthe first inthen
+subsequent bugfix version inandonly released oems
+added extra feature fat support microsofts next wa windowsthere two version first inand
+second named windowssecond edition inin 
+microsoft released window standing millennium edition
+used core windowsbut adopted visual
+appearance windowsas well new feature called system
+restore allowing user set computer setting backearlier date well received implementation many
+user problem occurred window considered stopgap day
+product line would seamlessly merged microsoft left little
+time window become popular announcing next
+version window would called window 
+bit operating systems
+
+family window system designed marketedhigherreliability business use unencumbered microsoft
+heritage first release window ntnumbered
+match window version oneup osibms
+flagship codeveloped microsoft window main competitor
+time followed ntntand
+ntthe latter implemented windowsuser interface
+microsoft moved combine consumer business operating
+system first attempt windowsfailed meet goals
+wa released business system home consumer editionwindowscodenamedwindows neptune ceased developmentmicrosoft released window place eventually neptunemerged new project whistler later became window since new business system window serverhas expanded
+top end range forthcoming window vistacomplete window microsofts offering mobileembedded market also true bit operating system
+
+bit operating systems
+
+window included support several different platformxbased personal computer became dominant professional world
+version fromtosupported dec alpha mips bit processor although operating system treated
+bit processors
+
+introduction iaitanium architecture later
+amd emt microsoft terminology architectures
+microsoft released new version contemporary operating
+system support modern bit window family comprises
+window bit edition system window professional
+x edition amdemt system window serverinia edition version window professionalserverwere released aprilwhile versions
+released time mainstream bit
+counterpart window vista first enduser versionwindow microsoft plan release simultaneously bitx editions
+
+history
+
+microsoft taken two parallel route operating system one route
+ha home user professional user
+dual route generally led home version eye
+candy functionality networking securityprofessional version eye candy better networkingsecurity
+
+first independent version microsoft window version 
+released novemberlacked degree functionalityachieved little popularity windowsdid provide complete
+operating system rather extended msdos microsoft window version
+wa released novemberand slightly popularpredecessor windowsrelease date januaryhad changed
+tiled window overlapping window resultchange led apple computer filing suit microsoft alleging
+infringement apple copyrights
+
+microsoft window versionreleased inwas first
+microsoft window version achieve broad commercial success selling
+million copy first six month featured improvementuser interface multitasking capability august 
+microsoft released windowswhich made change user
+interface first window version utilize multitasking
+
+julymicrosoft released window based new kernel wa considered professional windows
+nonprofessional line would later fused together create windows
+xp
+
+next line microsoft windowsreleased june 
+substantially criticized slowness compared window 
+many basic problem later rectified releasewindowssecond edition 
+
+part professional line microsoft released windowsin
+februarythe consumer version following windowswas windowwindow millennium edition released septemberwindowsattempted implement number new technology microsoftnotably publicized wasuniversal plug play howeversubstantially criticized lack compatibility stability
+
+octobermicrosoft released window version builtwindow kernel also retained consumeroriented usabilitywindowsand successor new version widely praisedcomputer magazine shipped two distinct edition homeprofessional former lacking many superior securitynetworking feature professional edition additionallymedium centre edition released inwith emphasissupport dvd functionality including program recordingremote control
+
+aprilwindows serverwas introduced replacingwindowsline server product number new featurestrong focus security followed decemberby
+window serverr
+
+window vista successor window due releasedjanuarywindows server successor windows
+server longhorn planned release date second half
+
+security
+
+security hot topic window many year even
+microsoft victim security breach duepart widespread usage window personal computer well
+number technical reason reportedly fivefold
+greater amount malware window operating systemgnu linux unix mac freebsd window originally
+designed easeofuse singleuser without network
+connection security feature builtoutset window successor designed security
+including network multiuser wa designedinternet security mind much since first developed
+internet le important combined occasionally flawed code
+buffer overflow window frequent target wormvirus writer furthermore window servermost versioneven window shipped important security feature disabled
+default vulnerable albeit useful system service enableddefault junebruce schneiers counterpane internet security
+reported seen overnew virus wormprevious six months
+
+microsoft publicly admitted ongoing security problem shortly
+turn century claim regard securitynumber one priority muchneeded automatic update came first
+window result service packfor window wellwindow serverwas installed user quickly might
+microsoft release security patch windows
+update service approximately month usually second tuesday
+month although critical update made available shorter
+interval necessary windowssp later window window serverupdates automatically downloadedinstalled user selects
+window defender
+
+onjanuarymicrosoft released beta version windows
+antispyware based upon previously released giant antispywarefebruarywindows antispyware became window defenderrelease betawindows defender freeware program designedprotect spyware unwanted software
+
+paul thurrotts supersite window gave defender betaa stellar
+review received middling review publicationpc magazine cnet windowsand window user freely
+download program microsofts web site microsoftstated window defender ship part window vista
+
+thirdparty analysis
+
+study conducted kevin mitnick marketing communication firm
+avantgarde found unprotected unpatched window system
+lasted onlyminutes internet compromisedaol national cyber security alliance online safety study october
+determined thatof window user infected least one
+spyware adware product much documentation available describingincrease security microsoft window product typical
+suggestion include deploying microsoft window behind hardwaresoftware firewall running antivirus antispyware softwareinstalling patch become available window update
+
+emulation software
+
+emulation allows use window application without using
+microsoft window include
+winewine emulator almost complete free software
+opensource software implementation window api allowing
+one run window application unixbased platforms
+including gnulinux
+crossover officea commercially packaged wine licensed
+font developer regular contributor wine focus
+wine running officially supported applications
+cedega formerly known winextransgaming technologies
+proprietary fork wine designed specificallyrunning game written microsoft window gnu linux
+reactosopensource operating system aimed compatibleexisting window application drivers
+project davidambitious controversial project fully
+emulate window program run oss
+parallel workstationby parallel inc
+virtual pcvirtual mac emulation suitevirtual window virtualization suite softwareoriginally written connectix subsequently acquiredmicrosoft virtual mac emulates cpu thereforealso support ha specific support windows
+darwinethis project intends port develop wine wellsupporting tool allow darwin mac userrun microsoft window application provide win api
+compatibility application source code level
+

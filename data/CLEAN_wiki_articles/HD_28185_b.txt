@@ -1,0 +1,66 @@
+copyright
+
+hdb
+
+ school wikipedia selection related subject space astronomy
+
+caption hdb
+
+extrasolar planetlists extrasolar planets
+parent star
+starhd 
+constellationeridanus
+right ascensionhdeclination
+spectral typegv
+orbital elements
+semimajor axisaau
+eccentricitye
+orbital periodpd
+inclinationi
+longitudeperiastron
+time periastronjd
+physical characteristics
+massmmj
+radiusrrj
+densitykgtemperaturetk
+discovery information
+discovery date
+discovererssantos al
+detection methodradial velocity
+discovery statusconfirmed
+
+hdb extrasolar planet orbiting sunlike star 
+planet located nearcircular orbit star habitable
+zone hdb discovered inas part coralie survey
+southern extrasolar planets
+
+discovery
+
+like majority known extrasolar planet hdbdiscovered detecting small periodic variation radial
+velocity parent star caused gravitational attractionplanet achieved measuring doppler shiftstar spectrum init announced hdexhibitedwobble along line sight period ofdaysamplitude indicating masstimes jupiter
+
+orbit mass
+
+hdb takesyears orbit parent star unlike known
+long period planet orbit hdb low eccentricity
+comparable mar solar system orbit lie entirely
+within star habitable zone
+
+amplitude radial velocity oscillation mean planet
+ha mass leasttimes jupiter solar system
+however radial velocity method yield minimum valueplanet mass depending orbital inclination linesight therefore true mass planet may much greaterlower limit
+
+characteristics
+
+given planet high mass likely gas giantsolid surface since planet detected indirectly
+observation star property radius
+composition temperature unknown
+
+since hdb orbit star habitable zonespeculated possibility life world hdsystem
+unknown whether gas giant support life simulationtidal interaction suggest hdb could harbour earthmass
+satellite orbit around many billion year moons
+exist may able provide habitable environment though
+unclear whether satellite would form first place
+additionally small planet one gas giant trojan points
+could survive habitable orbit long periods
+

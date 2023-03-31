@@ -1,0 +1,337 @@
+copyright
+
+basic
+
+ school wikipedia selection related subject computer programming
+
+computer programming basic acronym beginner allpurpose
+symbolic instruction code refers family highlevel programming
+language originally designed inby john george kemeny
+thomas eugene kurtz dartmouth college provide accessnonscience student computer time nearly computer use
+required writing custom software something scientists
+mathematician tended language one variantanother became widespread home microcomputerremains popular day handful heavily evolved dialects
+
+history
+
+prior mids computer extremely expensive tool used
+specialpurpose task simple batch processing arrangement
+ran single job time one anotherhowever faster affordable computer became availableextra processing power computer would sometimes sit idle
+without job run
+
+programming language batch programming era tendeddesigned like machine ran specific purposes
+scientific formula calculation business data processingeventually text editing since even newer expensive
+machine still major investment strong tendencyconsider efficiency execution speedimportant feature language general specialized
+language difficult use widely disparate syntax
+
+price decreased possibility sharing computer access began
+move research lab commercial use newer computer systems
+supported timesharing system allows multiple userprocess use cpu memory system operating
+system alternate running process giving one running
+time cpu switching another machine become
+fast enough user could feel machinetheory timesharing reduced cost computing
+tremendously single machine could shared amonghundred users
+
+early yearsthe mini computer era
+
+original basic language designed inby john kemenythomas kurtz implemented team dartmouth studentdirection basic designed allow student write programs
+dartmouth timesharing system intended addresscomplexity issue older language new language design
+specifically new class user timesharing system allowed 
+le technical user mathematical
+background traditional user interestedacquiring able use computer support teachingresearch quite attractive enough following yeardialect basic appeared kemeny kurtz original basic dialect
+became known dartmouth basic
+
+eight design principle basiceasy beginner use
+generalpurpose programming language
+allow advanced feature added expert keepinglanguage simple beginners
+interactive
+provide clear friendly error messages
+respond quickly small programs
+require understanding computer hardware
+shield user operating system
+
+language based partly fortran partly algol 
+addition make suitable timesharing featuretimesharing system joss corc lesser
+extent lisp also considered precededteachinglanguage experiment dartmouth darsimco 
+dopeimplementations sap dartwhich wasimplified fortran initially basic concentrated supporting
+straightforward mathematical work matrix arithmetic supportinitial implementation batch language full string
+functionality added bybasic first implementedge mainframe supported multiple terminal contrarypopular belief compiled language timeintroduction also quite efficient beating fortran algol
+implementation theat several fairly computationally
+intensive programming problem maximization simpson rule
+
+designer language decided make compiler available
+without charge language would become widespread also
+made available high school dartmouth area putconsiderable amount effort promoting language result
+knowledge basic became relatively widespread computer
+language basic implemented number manufacturers
+becoming fairly popular newer minicomputer like dec pdp series
+data general nova instance language tendedimplemented interpreter instead additioncompiler
+
+several year release highlyrespected computer
+professional notably edsger dijkstra expressed opinions
+use goto statement existed many languages
+including basic promoted poor programming practice also
+derided basic slow interpreted version slowerequivalent compiled version simple many version especially
+small computer left important feature capabilities
+
+explosive growththe home computer era
+
+notwithstanding language use several minicomputer waintroduction mit altairmicrocomputer inthat
+provided basic path universality programming languages
+required memory andor disk space availablesmall computer user could afford slow memory access
+tape provided lack suitable text editor language
+like basic could satisfy constraint attractive basic
+also advantage fairly well known young
+designer took interest microcomputer kemeny kurtzs
+earlier proselytizing paid respect one firstappear themachines like altair tiny basic simple
+basic implementation originally written lichen wangported onto altair dennis allison request bob albrecht
+later founded dobbs journal tiny basic designfull source code published inin ddj
+
+inmits released altair basic developed bill gate paul
+allen microsoft first altair version cowritten gates
+allen monte davidoff version microsoft basic soon started
+appearing platform license million copyvariant soon use became one standard languageapple based quite differentmpu 
+microsoft talking several microcomputer vendor including
+ibm licensing basic interpreter computer version
+wa included ibm rom chip without floppy disks
+automatically booted basic like many small computers
+
+newer company attempted follow success mit imsai north
+star apple thus creating home computer industry meanwhile
+basic became standard feature home computers
+came basic interpreter rom thus avoidingunavailable expensive disk problem soon many
+million machine running basic variant around world likelyfar greater number user language put
+together
+
+dialect basicprogramming language home computerromresident basic interpreter
+
+bbc published bbc basic developed acorn computer ltd
+incorporating many extra structuring keywords well comprehensive
+versatile direct access operating system also featuredfully integrated assembler bbc basic wellregarded dialect
+made transition original bbc micro computerthanother platforms
+
+growth time basic many magazine publishedcreative magazine included complete source code games
+utility program given basic straightforward naturewa considered simple matter type code magazine
+execute program different magazine published featuring
+program specific computer though basic programuniversal could input basicusing machine
+
+maturitythe personal computer era
+
+many newer basic version created period microsoft
+sold several version basic msdos pcdos including basica
+gwbasic basicacompatible version need ibms romquickbasic turbo pascalpublisher borland published turbo basicin
+successor version still marketed original
+author name powerbasic
+
+language introduced many extension original home
+computer basic improved string manipulation graphics
+support access file system additional data typeimportant facility structured programming including
+additional control structure proper subroutine supporting local
+variables
+
+however latter half newer computer farcapable resource time computer progressed
+hobbyist interest tool used primarily applications
+written others programming became importantuser basic started recede importance though numerous versions
+remained available compiled basic cbasic still used many ibm
+point sale systems
+
+basic fortune reversed introduction visual
+basic microsoft somewhat difficult consider language
+basic major shift orientation towardsobjectoriented eventdriven perspective couldconsidered evolution language distinctive
+feature early dartmouth basic line number input
+keyword remain
+
+many basic dialect also sprung last years
+including bywater basic true basic direct successordartmouth basic company controlled kurtz recentlyremaining community using microsofts previsual basic productbegun switch wholesale freebasic gpled compilermoved basic onto gcc backend many basic variantadaptation written hobbyist equipment developerothers relatively simple language develop translators
+example open source interpreter written cminibasic
+
+ubiquity basic interpreter personal computer watextbook included simple try basic exerciseencouraged student experiment mathematical computational
+concept classroom home computer futurist scifi writer
+david brin mourns loss ubiquitous basic recent salon
+article johnny cant code
+
+language
+
+syntax
+
+basic statement terminated line ending unless line
+continuation character minimal basic syntax need let
+print goto commands
+
+line number distinctive aspect classic home computer
+basic due limitation static line numbering basic
+interpreter later introduced builtin renumber command allowed
+interactive programming modern basic
+dialect abandoned line number altogether favour line
+label support advanced control structure data declaration
+construct available language pascal note also
+version basic used line number implementedconstruct well
+loops
+loops
+switch statements
+subroutine functions
+
+recent variant visual basic introduced featureeachloop construct looping collectionarray vba visual basicand later even objectoriented
+programming inheritance latest version memory management
+easier many procedural programming languagecommonly included garbage collector
+
+wealth variant show language user developer
+community active basic may seen subculture
+dealing computer programming rather fixed setsyntactic rule applies well old computer languages
+like cobol fortran although basic movement farlargest may explained large number professionals
+learned program basic home computer era
+procedure flow control
+
+basic use external library common operation like
+language instead interpreter compiler
+contains extensive builtin library intrinsic procedure rather
+like pascal procedure include toolprogrammer need learn programming write simple applications
+including function math string console inputoutput graphics
+file manipulation
+
+basic dialect provide builtin structuring facilities
+procedure construct programmer must writeprogram using gosub statement hoc argument transmissionemulate structure done expert produces
+poorlystructured unmaintainable program commonly referredspaghetti code gosub statement branch simple kind subroutines
+without though sometimes parameter local variablemodern version basic microsoft quickbasic added
+support full subroutine function basic like fortran
+algol pascal make distinction procedure returnvalue called function procedure doe calledsubroutine
+
+function larger sense subroutine returning values
+latecomer basic dialect many early system supporteddefinition oneline mathematical function def define
+function original dartmouth basic also supported algollike
+function subroutine late basic
+variant 
+
+data types
+
+basic known good string manipulation function early dialects
+already set fundamental function left mid rightstring operation string often used everyday
+application considerable convenience advantage many
+language time introduction
+
+original dartmouth basic supported numeric string data
+type integer type leaving numeric variablefloating point string dynamic could change length
+array number string supported well simple
+matrix two dimensional arrays
+
+every modern basic dialect least numeric string data
+type data type usually distinguished sigil suffixed
+character typically string identifier end withwhereas integer
+numerics usually end dialect variable mustdeclared using dim statement first usage dialects
+require optionally enforce ittypically usingdirective option explicit visual basic default
+turned using option explicit many dialect also
+support additional type asand bit integerfloatingpoint number polynomial complex listspecialized type designed support particular end user needs
+additionally allow userdefined type manner similarpascalrecords structs
+
+basic dialect beyond primitive also support arraynumerics type array must predeclared allocated dim statement used supporttwo higherdimensional array well array nonnumeric
+type common advanced basics
+dim myintarray integersome version allow dim myintarray
+
+dim mystringarray stringsome version allow dim mystringar
+ray
+
+depending dialect basic array based first
+element subscriptwhile others based first element
+subscriptedso command like firstexample define element array integer elementtoothers may define element array integerelement fromtoor rarely fromtoit may alsopossible set default beginning element number thanor 
+additional command option base microsoft basic
+example create array element numbered fromto
+
+
+working string command like second may allocateelement array variablelength string may allocate single
+string ofcharacters note also subject basing
+difference mentioned
+nonstandard intuitive dimensioning
+example often confuse novice even advanced programmer
+newer dialect offer specific dimensioning dim myintarray 
+toas integer would element array elements
+numbered fromto 
+
+relational logical operators
+
+equalless equalnotlogical negation
+equalgreater equalandlogical conjunction
+le thanorlogical disjunction
+greater
+note lexical distinction assignment
+operator equality operator basic single equal signused however method available programmer
+visible difference two wanted optional let
+keyword allows assignment clearly unambiguously
+distinguished use equality operator example let
+also note operator actually bitwise
+arithmetic operation also used logical operations
+basic dialect represent boolean value bytrue
+andfalse however resemble bitwise arithmetic
+operatorsandrespectively logical operators
+andfor example always evaluateargument shortcircuiting operators
+
+examples
+
+first program
+
+new basic programmer home computer might start simple
+program similar hello world program made famous kernighanritchie generally involves simple use language print
+statement display message programmer namescreen often infinite loop used fill displaymessage
+
+classic basic
+
+note example actually well structured demonstratinguse goto statement need necessarily lead unstructured
+program
+input nameu
+print hellou
+rem
+input many star wantn
+ito ss
+nextprintrem
+input want starsa
+lenathen goto 
+alefta 
+ay goto 
+print goodbye 
+ito 
+print nextprint
+
+modern basic
+
+modern structured basic example quickbasic freebasic
+purebasic blitzmax powerbasic truebasic support classic
+command goto statement varying degree adding many
+modern keywords
+
+previous example quickbasic
+input name username
+print hellousername
+input many star want numstars
+stars
+starsrepeat numstarsansi basic
+starsstringnumstarsmsbasic
+print stars
+input want starsanswer
+loop answer
+answerleftanswer 
+loop whileucaseanswery
+print goodbye 
+ito 
+print username
+nextprint
+
+comparison program modern purebasic
+openconsole
+printwhat name 
+usernameinput
+printnhellousername
+repeat
+printhow many star want 
+numstarsvalinput
+starsrset numstars 
+printnstars
+repeat
+printdo want star 
+answerinput
+answer
+answerleftanswer 
+ucaseanswery
+printgoodbye 
+ito 
+printusername
+nextprintn
+closeconsole
+

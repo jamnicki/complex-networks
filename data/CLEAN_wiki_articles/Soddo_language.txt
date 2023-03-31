@@ -1,0 +1,251 @@
+copyright
+
+soddo language
+
+ school wikipedia selection related subject languages
+
+soddo
+kstane
+spoken ethiopia
+region gurage zone southern region
+total speaker 
+language family afroasiatic
+semitic
+south
+ethiopic
+south
+outer
+soddo
+language codes
+isonone
+isosem
+isofdisgru
+note page may contain ipa phonetic symbol unicode see ipa
+chart english englishbased pronunciation key
+
+soddo autonym kstane christian formerly called aymlll western
+source particular dialect gurage language spoken
+aboutpeople southeastern ethiopia south
+ethiopian semitic language northern gurage subfamily
+
+grammar
+
+noun
+
+ethiopian language noun qualifier generally precedenoun
+
+definite article expressed suffix go boy 
+goi boy tit sistertiti sister bayyo children
+bayyoi noun end orit normally loses vowel
+suffixed angaa catangai cat noun ending
+usually stay abi father proprietor noun
+ending u add suffix housegeihouse wllho neighbourwllhoi neighbour noun
+ha qualifier article used first element malk big housemalki big house yumi houseofficial lit ofofficialthe house ymtti man
+came lit whocamethe man
+
+real indefinite article though indefinitenessexpressed preposing word att kuna meaning one
+
+noun two gender masculine feminine affect verb
+concord
+
+noun definite objectsdirect indirect marked
+prefix eg ygei saw house
+yzmmihan abnnt gave brother lit tohisbrother
+hegavehim direct object may additionally marked addingobject suffix pronoun verb yabiddi takkunnt askedfather lit myfatherobj iaskedhim
+
+possessed noun marked prefix possessor
+precedes possessed yumi house official lit
+ofofficialthe house possessed noun preposition
+prefixed omitted babiddi frz ratherbyabiddi frz father horse
+
+pronoun
+
+personal pronoun
+
+english standalone form possessive suffix consonantfinal nouns
+possessive suffix vowelfinal nouns
+di ddi ddi
+sg dhf sgka kan han
+ka hi
+pl dhm dhm dhm
+f dhma dhma dhma
+knnm knnm hnnm
+f knnma knnm hnnm
+
+possessive also formed simply adding standalone
+pronoun ydhm clan
+
+reflexive pronoun formed gubba kum pluspossessive suffix di rasddi mtafi tafkunntwrote book
+
+demonstrative pronoun
+
+proximal zini one zi man mt woman sbo men
+
+distal one one zani oneeg tza goy mttahi came man
+
+interrogative pronoun
+
+man copula man mtta came
+yma whose
+mn ymnyitta yittat yitta bayy mttam child came
+yittani one
+
+indefinite pronoun
+
+yhon someone somebody
+mannm anyone one negative verb
+attm one nothing negative verb attmuone pronoun
+lela sbykirr lit remaining thing
+att certain
+lyyu different
+kuna zam zblo blit soandso
+zihom
+kullmall placed noun kullmu bmollaw 
+whole ytomaonly alone every expressed noun
+reduplication
+
+copula existential verbs
+
+copula positive negative irregular present tense
+englishbenotamnwhdbukk
+sg nhdbkk
+f ndb
+n consonant dbll
+isnadblla
+arenndblln
+pl nhmdbkkm
+f nhmadbkkma
+arenmdbllm
+f arenmadbma
+
+example zmmidi brother
+
+past tense etc expressed verb nbbr
+conjugated regularly perfect etc annbr
+future tense expressed imperfect hono yhonuetc negative future tense likewise expressed tihonpresent copula subordinate clause expressed subordinate
+perfect hon dffr yhon tdigoy yalfu courageous
+go
+etc expressed adding element ttpronoun copula kattn
+existential verb exist presentenglishbe atthere atthere
+amyinhiyellhu
+sg yinhoyellh
+f yininyell
+isyinoyell
+isyinttiyellt
+areyinnoyelln
+pl yinhmunyellhm
+f yinhmanyellhma
+areyinmunyellm
+f areyinmanyellma
+
+past future expressed like copulanbbr hon subordinate clause present expressedconjugated perfect negative lell bmeda yallmi
+sbo ara people field farmers
+
+possessive verb etc expressed existential
+verb yino agreeing object possessed plus object
+suffix pronoun etc
+
+verbs
+
+soddo verb may anywhere one four consonant maycompound balo say bkk balo appear former case
+fall threeconjugations differing vowelgemination imperfect illustrated threeconsonant verb
+sbbro imperfect ysbru break
+tikklo imperfect ytikklu
+affro imperfect yaffru
+
+derived stem formed several ways
+reduplicative gddlo killgdaddlo form wide
+variety meaning mostly intensifying verb way
+passivereflexive intransitive prefix kfflo pay 
+tkfflo paid reciprocal action expressedprefix attached transitive verb vowelfirst radical reduplicative form tgddlmuntgdaddlmun killedcausative transitive intransitive verb skkrodrunkaskkro get someone drunk ndddo burn intr 
+andddo burn causative transitive passive verb ati kddno
+coveratkiddno cause cover cause covered
+added form express reciprocity adjutative
+helping atgaddlo cause kill one help kill
+verb formed initial tn derived
+stem stem replacingor nkrttto bentankrttto bend
+
+two tense perfect past imperfect nonpastdistinct form main versus subordinate clause positive versus
+negative also distinct jussive imperative impersonal
+forms
+
+conjugations
+
+perfect
+
+english main clause subordinate clause relative clause subordinatemeasured sffrki sffrk ysffrki sffrkum
+sg measured sffrko sffrk ysffrki sffrkm
+f measured sffrin sffr ysffri sffrm
+measured sffro sffr ysffri sffrm
+measured sffrtti sffrt ysffrtti sffrttm
+measured sffrno sffrn ysffrni sffrnm
+pl measured sffrmun sffrkmu ysffrkmi
+sffrkmum
+f measured sffrkman sffrkma ysffrkmayi
+sffrkmam
+measured sffrmun sffrm ysffrmi sffrmum
+f measured sffrman sffrma ysffrmayi sffrmam
+
+form suffixed used subordinate clause connect
+verb otherwise connected way analogous japanese tetranslated gerund resultativeperfect followed nbbr form pluperfect
+
+negative perfect formed prefixing vowel changeconjugation mentioned resulting form alsfr
+altkkl alafr
+
+example aro built house bantw awnnam bmida
+tonnaw put butter top head sat outside
+
+imperfect
+
+englishmain clause subordinate clause
+advancebdrubdr
+sg advance tbdrutbdr
+f advance tbdritbedr
+advancesybdruybdr
+advancestbdritbdr
+advancennbdru nnbdr
+pl advance tbdrmuntbdrm
+f advance tbdrmantbdrma
+advanceybdrmunybdrm
+f advanceybdrmanybdrma
+
+like perfect subordinate form take suffixexpress series nonpast action combined nbbr
+express habitual past action
+
+example aho gbya nalfu today shall market ygdl
+ms man kill tnsam yibara wawta tkrsipick sleeping mat begin remove dung
+
+augmented obvious change meaning
+englishnegative main clause negative subordinate clause
+begintkrsannkrs
+sg begin tttkrsattkrs
+f begin tttkerattker
+doe begintikrsaykrs
+doe begintttkrsattkrs
+begintnnkrsannkrs
+pl begintttkrsmattkrsm
+f advancetttkrsmaattkrsma
+advancetikrsmaykrsm
+f advancetikrsmaaykrsma
+
+example aho ymta timsl doe seem come
+today dahan taykfl allfo left without paying debt
+
+jussive imperative
+
+personconjugation aconjugation conjugation st sgnsfrnkktngalb
+nd sfrkktgalb
+nd sg sferkkigalib
+rd yesfr ysfr yekktyegalb
+rd sg tesfrtekkttegalb
+st plnnsfrnkktngalb
+nd sfrmkktmgalbm
+nd pl sfrmakktmagalbma
+rd yesfrmyekktmyegalbm
+rd pl yesfrmayekktmayegalbma
+
+negated prefix aysfr aykkt aygalb person form change conform others attsfr attsfer
+attsfrm attsfrma
+
+eg ywzlawanhom yewsd let take according work ysb
+waga attlgd dont touch someone property rfm tona restsit sit quietly

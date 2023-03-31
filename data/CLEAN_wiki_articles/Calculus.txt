@@ -1,0 +1,192 @@
+copyright
+
+calculus
+
+ school wikipedia selection related subject mathematics
+
+calculus important branch mathematics word stemancient greek use pebble arranged pattern study arithmetic
+geometry latin word forpebble calculus two
+complementary discipline comprise calculus relyconcept limit first differential calculusconcerned instantaneous opposed average rate change
+quantity illustrated slope functions
+graph particular point second integral calculusstudy accumulation infinitely small quantity summingarea curve linear distance travelled volume displaced
+two process act inversely shownfundamental theorem calculus
+
+differential calculus typically provides way deriveacceleration velocity body particular momentintegral calculus problem used compute area volumefind amount liquid pumped pump set power inputvarying condition pumping loss pressure findamount parking lot plowed snowplow given power varying
+rate snowfall
+
+europe fundamental advance calculus th
+century deep impact ensuing development physic today
+calculus used every branch physical science computer
+science statistic engineering economics businessmedicine general method whenever goal optimal
+solution problem given mathematical form
+
+history
+
+historian generally regard integral calculus going backtime ancient greek circabc modern sources
+generally credit hellenic mathematician eudoxus methodexhaustion made possible compute area regionvolume solid archimedes developed ideainventing heuristic resemble integral calculusdevelopment calculus advance appreciably overyears
+
+india mathematicianastronomer aryabhata inused
+infinitesimal expressed astronomical problem formbasic differential equation manjula century elaborated
+differential equation commentary equation eventually
+led bhaskara century develop independently numberfundamental idea calculus perhaps including early formtheorem known asrolles theorem also firstdefine notion derivative limit century
+madhava along mathematicianastronomers kerala
+school studied infinite series power series taylor series
+differentiation integration mean value theorem yuktibhasa
+consider first text calculus summarizesresult development would duplicated europemuch later
+sir isaac newton
+enlarge
+sir isaac newton
+gottfried wilhelm leibniz
+enlarge
+gottfried wilhelm leibniz
+
+calculus started making great stride europe towards endearly modern period first year eighteenth century
+wa time major innovation europe calculus provided new
+method mathematical physic solve longstanding problem several
+mathematician contributed breakthrough notably john wallis
+isaac barrow james gregory proved special case second
+fundamental theorem calculus inin japan around time
+seki kowa expanded upon eudoxuss method exhaustion
+
+leibniz newton pulled idea together coherent whole
+usually credited probably independent nearly
+simultaneous invention calculus newton first apply
+calculus general physic leibniz developed much notation
+used calculus today often spent day determining appropriate
+symbol concept fundamental insight newtonleibniz fundamental theorem calculus virtuallymodern method symbolic integration follow theoremproved indispensable development modern mathematicsphysic example see integration part integrationsubstitution
+
+newton leibniz first published result whether
+leibniz work independent newton somewhat controversial
+newton derived result year leibniz newton
+published time leibniz published inlater newton
+would claim leibniz got idea newton notesubject however examination paper leibniz newton show
+arrived result independently leibniz starting
+first integration newton differentiationcontroversy leibniz newton divided englishspeaking
+mathematician europe many year sloweddevelopment mathematical analysis today newton leibniz
+given credit developing calculus independently leibniz
+however credited giving new discipline nameknown today calculus newton name sciencefluxion others contributed important idea descartes
+barrow fermat huygens wallis
+
+since time leibniz newton many mathematiciancontributed continuing development calculus century calculus put much rigorous footing cauchy
+riemann weierstrass others also time period
+idea calculus generalized euclidean spacecomplex plane calculus continues generalizeddevelopment lebesgue integral 
+
+derivative differentiation
+
+derivative measure sensitivity one variable small
+change another variable consider formula
+
+mathrmspeedfracmathrmdistancemathrmtime
+
+object moving constant speed speed car measured
+speedometer derivative car distance traveledfunction time calculus mathematical tool dealingcomplex natural familiar situation
+derivative curve defined function thought
+slope angle secant two pointcurve xh letting separation shrink
+zero
+enlarge
+derivative curve defined function thought
+slope angle secant two pointcurve xh letting separation shrink
+zero
+
+differential calculus used determine instantaneous speed
+given instant formula speeddistance dividedtime give average speed cannot applied instant
+time give undefined quotient zero dividedzero calculus avoids division zero using conceptlimit roughly speaking method controlling otherwise
+uncontrollable output division zero multiplicationinfinity formally differential calculus definesinstantaneous rate change derivative mathematical
+function value respect change variablederivative defined limit difference quotient
+
+derivative function exists give informationgraph useful finding optimum solution problem called
+maximum minimum function proved mathematicallyoptimum solution exist either tangent graph flat
+slope zero graph sharp turncusp
+derivative doe exist endpoint graph
+another application differential calculus newton methodpowerful equation solving algorithm differential calculus haapplied many question first formulated areas
+business medicine
+
+derivative lie heart physical science newtons
+second law motion expressly term rate changederivative rate change momentum body equalresultant force acting body direction
+even common expression newton second lawforcemassacceleration involves differential calculusacceleration derivative velocity see differential
+equation maxwell theory electromagnetism einstein theory
+general relativity also expressed languagedifferential calculus basic theory electrical circuits
+much engineering also applied problem biology
+economics many areas
+
+derivative function yfx respect usually
+expressed either yread yprime read fprime using leibniz notation write
+
+fracddxy
+
+commonly shortened
+fracdydx
+
+integral integration
+
+two type integral calculus indefinitedefinite indefinite integral simply antiderivativef antiderivative f derivative use
+capital letter lower case letter common calculuslower case letter represents derivative capital letter
+
+definite integral evaluates cumulative effect many small
+change quantity simplest instance formula
+
+mathrmdistancemathrmspeed cdot mathrmtime
+
+calculating distance car move period timetraveling constant speed distance moved cumulative
+effect small distance moved instant calculus also
+able deal natural situation car movechanging speed
+integration thought measuring area curve
+defined two point subdividingarea eversmaller slice addingenlarge
+integration thought measuring area curve
+defined two point subdividingarea eversmaller slice adding
+integral calculus determines exact distance traveledinterval time creating series better better
+approximation called riemann sum approach exact distance
+limit formally say definite integralfunction interval limit riemann sum approximations
+
+application integral calculus arise whenever problemcompute number principle approximately equal sum
+large number small quantity classic geometric
+application area computation principle area region
+approximated chopping many piece typically
+rectangle polar coordinate circular sectoradding area piece length arc areasurface volume solid also expressed definite
+integral probability basis statistic provides another
+important application integral calculus
+
+symbol integration isa stretched stand sum
+precise meaning expression involving integral foundmain article integral definite integral written
+intab dx
+
+read integral fofx 
+foundations
+
+one rigorous approach foundation calculus
+usual one via concept limit defined continuumreal number alternative nonstandard analysis real
+number system augmented infinitesimal infinite numbertool calculus include technique associated elementary
+algebra mathematical induction foundation calculusincluded field real analysis contains full
+definition proof theorem calculus wellgeneralisation measure theory distribution theory
+
+fundamental theorem
+
+fundamental theorem calculus state differentiationintegration certain sense inverse operationprecisely one defines one function integral another
+continuous function differentiating newly defined function
+return function started furthermore want find
+value definite integral usually evaluatingantiderivative
+
+mathematical formulation fundamental theoremcalculus function continuous interval f
+function whose derivative interval b
+intab fxdxfbfa
+
+also every interval 
+fracddxintax dtfx
+
+realization made newton leibniz keymassive proliferation analytic result work became
+known fundamental theorem provides algebraic methodcomputing many definite integralswithout performing limit processesby
+finding formula antiderivatives also prototype solution
+differential equation differential equation relate unknown
+function derivative ubiquitous sciences
+
+applications
+
+development use calculus wide reaching effectarea modern living underlies nearly sciences
+especially physic virtually modern development building
+technique aviation technology make fundamental usecalculus many algebraic formula used ballistics heatingcooling practical science worked use
+calculus handbook algebraic formula based calculus
+method may applied without knowing origin successcalculus extended time differential equation vector
+calculus calculus variation complex analysis differential
+topology calculus used broad field subject even
+linguistics
+

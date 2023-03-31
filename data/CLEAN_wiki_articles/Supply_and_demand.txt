@@ -1,0 +1,348 @@
+copyright
+
+supply demand
+
+ school wikipedia selection related subject economics
+
+
+featured article click information
+
+supply demand also name album amos lee
+
+theory supply demand describes price vary result
+balance product availability price supplydesire purchasing power price demandgraph depicts increase demand alongconsequent increase price quantity required reach new
+marketclearing equilibrium point supply curve supply curvecurve schedule showing total quantity good sellers
+want sell prices
+enlarge
+theory supply demand describes price vary result
+balance product availability price supplydesire purchasing power price demandgraph depicts increase demand alongconsequent increase price quantity required reach new
+marketclearing equilibrium point supply curve supply curvecurve schedule showing total quantity good sellers
+want sell prices
+
+microeconomic theory partial equilibrium supply demand
+economic model originally developed antoine augustin cournot
+published book inand thirty year later broadly publicized
+alfred marshall attempt describe explain predict changes
+price quantity good sold competitive marketmodel first approximation describing imperfectly
+competitive market formalizes theory used economists
+marshall one fundamental modelmodern economic school widely used basic building blockwide range detailed economic model theory theorysupply demand important economic school understanding
+market economy explanation mechanismmany resource allocation decision made however unlike
+general equilibrium model supply schedule partial
+equilibrium model fixed unexplained forces
+
+supply
+
+supply amount output available market ieplan expressing quantity product producer willingsell given price example potato grower may willingsellmillion potato price isper lbsubstantially market price isper main
+determinant supply market price goodcost producing supply curve given firm derived
+directly marginal cost curve price greaterequal minimum cost average variable cost curve supply
+curve traditionally represented upwardslopinglaw diminishing marginal return need case
+however described
+special case supply curve
+
+described general form supply curve upward
+sloping case however supply curve slope
+upwards well known example supply curve labor
+backward bending supply curve labour person wage increases
+willing supply greater number hour workingwage reach extremely high amount say wage ofper
+hour amount labor supplied actually decrease another example
+nontraditional supply curve generally supply curveutility production company large portion total
+cost form fixed cost marginal cost supply curve
+firm often depicted constant
+
+demand
+
+demand economic want backed purchasing power ieplan relationship expressing different amount product buyers
+willing able buy possible price assumingnonprice factor remain example consumer maywilling purchaselb potato price isper however consumer may willing purchase onlylbprice isper demand schedule constructed shows
+quantity demanded given price representedgraph line curve plotting quantity demandedprice also described mathematically demand equation
+main determinant quantity one willing purchasetypically price good one level income personal
+taste price substitute good price complementary
+goods
+
+shape aggregated demand curve convex concave
+possibly depending income distribution
+
+capacity buy sometimes used characterise demandmerely alternate form supply
+
+special case demand curve
+
+described general form demand curvedownward sloping demand curve good conforms
+principle may rare example good upward
+sloping demand curve good whose demand curve upward slopeknown giffen good
+
+existence giffen good cannot explained conspicuous
+consumption since increase stature associated buyingexpensive product mean price variable fact
+actual existence giffen good debatable exampleconspicuous consumption clearly subjective might includebugatti veyron social phenomenon often referred asblingalso thought way consumes demand supply
+without error
+
+simple supply demand curves
+
+mainstream economic theory center creating series supplydemand relationship describing equation adjusting
+factor produce stickiness supply demand
+analysis done see trade offs mademarket negotiation seller buyer analysis
+done point ability seller sell becomes less
+useful opportunity related marginal costs
+price produce last unit sold profitably
+versus chance using effort engageactivity
+graph simple supply demand curves
+enlarge
+graph simple supply demand curves
+
+slope demand curve downward right indicatesgreater quantity demanded price lowerhand slope supply curve upward right tell uprice producer willing produce goodpoint curve intersect equilibrium pointprice producer willing supply unit per periodtime buyer demand quantity exampleequilibrating price equates supply demand
+
+figure straight line drawn instead general
+curve typical analysis looking simplified
+relationship supply demand shape curve
+doe change general relationship lesson supplydemand theory shape curve far away equilibrium
+point likely important affectmarket clearing price affect unless large shiftsupply demand occur straight line supply demandproper slope convey information modeloffer case exact shape curve easydetermine given market general shape curve
+especially slope near equilibrium point doe howeverimpact market adjust change demand supply see
+section elasticity
+
+noted supply demand curve drawnfunction price neither represented functionrather two function interact manner representativemarket outcome curve also imply somewhat neutral meanmeasuring price practice currency commodity used measure
+price also subject supply demand
+
+demand curve shifts
+
+people want something quantity demanded prices
+tend increase referred increasedemand increase demand could also come changing tastes
+consumer desire goodpreviously increased demand represented graphcurve shifted right price point greater
+quantity demanded example would people suddenly
+wanting coffee cause demand curve shiftinitial curve new curve raise equilibrium price
+p higher raise equilibrium quantity higher situation say haincrease demand caused extension supply
+
+conversely demand decrease opposite happensdemand start decrease price decrease
+quantity demanded decreasea contraction supply notice
+purely effect demand changing quantity supplied
+price demand shift qq reason equilibrium quantity price different
+demand different
+
+supply curve shifts
+
+supplier cost change supply curve shiftexample assume someone invents better way growing wheatamount wheat grown given costincrease producer willing supply wheat every price
+shift supply curve right san increasesupply cause equilibrium price decrease p
+equilibrium quantity increase q quantity
+demanded increase new lower price notice casesupply curve shift price quantity move opposite
+directions
+
+conversely quantity supplied decrease opposite happens
+supply curve start shift equilibrium
+price increase quantity decrease noticepurely effect supply changing quantity demandedprice supply shift qreason equilibrium quantity price differentsupply different
+
+onlypossible movement demandsupply curve diagram
+demand curve move left right supply curve
+also move left right movestay middle already
+see also induced demand
+
+market clearance
+
+market clear point supply demandgiven price balanced amount commodity available
+given price equal amount buyer willing purchase
+price assumed process result
+market reaching point exactly processreal situation ongoing subject research marketclear react way either change priceamount produced amount demanded graphically situation
+represented two curve one showing pricequantity
+combination buyer pay demand curve one showing
+combination seller sell supply curve market
+clear two equilibrium curves
+intersect general equilibrium model market goods
+clear simultaneously price described entirely terms
+tradeoff good century economist believed
+say law state market whole would always clear
+thus balance
+
+traditional economics market clearing price containsmaximization basis result disequilibrium excess demandexcess supply matter graphical exercise economists
+regarded demand curve could represented diminishing
+marginal use value curve schedule consumer maximum willing
+pay different quantity endowment framework people
+buy market price low enough sellprice high enough market clearing condition market
+price implies marginal use value participantequalized word mutual gain exchange exhaustedcome basis maximization concept market equilibrium
+
+elasticity
+
+important concept understanding supply demand theoryelasticity context refers supply demand change
+response various stimulus one way defining elasticitypercentage change one variable divided percentage changeanother variable known arch elasticity calculateselasticity range value contrast point elasticity
+us differential calculus determine elasticityspecific point thus measure relative changes
+
+often useful know quantity supplied demandedchange price change known price elasticitydemand price elasticity supply monopolist decidesincrease price product affect sales
+revenue increased unit price offset likely decreasesale volume government imposes tax good thereby
+increasing effective price affect quantity
+demanded
+
+wish calculate elasticity simpler techniquelook slope curve unfortunately unitmeasurement quantity monetary unit example liter per
+euro battleship per million yen convenient
+measure use purpose example wantedcompare effect price change gasoline europe versusunited state complicated conversion gallon per
+dollar liter per euro one reason economists
+often use relative change percentage elasticity another
+reason elasticity slope function
+slope function coordinate space line
+constant slope different elasticity various points
+
+let example calculation said one waycalculating elasticity percentage change quantitypercentage change price price move fromto 
+quantity supplied frompens topens slopeorpens per dollar since elasticity dependspercentage quantity pen increased byand price
+increased byso price elasticity supply isor 
+
+since change percentage changing unit measurement
+currency affect elasticity quantity
+demanded supplied change lot price change littlesaid elastic quantity change little prices
+change lot said inelastic example perfectly
+inelastic supply zero elasticity represented vertical
+supply curve see section
+elasticity relation variable price alsoconsidered one common consider income woulddemand good change income increased decreasedknown income elasticity demand example much would
+demand luxury car increase average income increasedpositive increase demand would representedgraph positive shift demand curve price
+level greater quantity luxury car would demanded
+
+another elasticity sometimes considered cross elasticity
+demand measure responsiveness quantity demanded
+good change price another good often
+considered looking relative change demand studying
+complement substitute good complement good goodtypically utilized together one consumed usuallyalso substitute good one substituted
+price one good rise one may purchase
+le instead purchase substitute
+
+cross elasticity demand measured percentage changedemand first good occurs response percentage
+change price second good example complement
+good response aincrease price fuelquantity new car demanded decreased bythe cross elasticitydemand would beor 
+
+vertical supply curve
+
+sometimes case supply curve verticalquantity supplied fixed matter market priceexample amount land world considered fixedcase matter much someone would willing paypiece land extra cannot created also even one wanted
+land still would exist land considered way
+warrant vertical supply curve giving zero elasticity
+ie matter large change price quantity supplied
+change hand supply useful landincreased response demandby irrigation landotherwise would sea level kept dry systemdike might also regarded response demand evencase vertical line bit simplification
+
+short run near vertical supply curve commonexample super bowl next week increasing number seats
+stadium almost impossible supply ticket game
+considered vertical case organizerevent underestimated demand may well caseprice set equilibrium price caselikely people paid lower price valueticket price people could get ticket even though
+would willing pay people valueticket sell people willing pay scalp ticket effective price riseequilibrium price
+
+graph illustrates vertical supply curve demand 
+effect price demandis occurringprice notice value quantity since
+supply fixed shift demand affect price
+
+diagram vertical supply curve
+
+market forms
+
+situation many buyer single monopoly
+supplier adjust supply price goodmonopolist adjust price profit maximized given
+amount demanded price price higher
+competitive market similar analysis using supplydemand applied good single buyer monopsonymany sellers
+
+buyer seller theory supply
+demand cannot applied decision buyerseller interdependentchanges supply affect demand vice
+versa game theory used analyze kind situation see
+also oligopoly
+
+supply curve doe linear however supplyprofitmaximizing firm proven supply curvedownward sloping price increase quantity
+supplied decrease supply curve profitmaximizing firms
+vertical horizontal upward sloping possibleindustry supply curve downward sloping supply curveindividual firm never downward sloping
+
+standard microeconomic assumption cannot used provedemand curve downward sloping however despite year searching
+generally agreed upon example good upwardsloping
+demand curve found also known giffen good
+noneconomists sometimes think certain good wouldcurve example people buy luxury carexpensive case good demanded actually prestigecar price luxury car decrease actually
+changing amount prestige demand decreasing since
+different good see veblen good even downwardsloping
+demand curve possible increase income may leaddecrease demand particular good probably due existence
+attractive alternative become affordable goodproperty known inferior good
+
+example supply demand person economy
+
+supply demand thought term individual people
+interacting market suppose following six people participate
+simplified economy
+alice willing payfor sack potatoes
+bob willing payfor sack potatoes
+cathy willing payfor sack potatoes
+
+dan willing sell sack potato 
+emily willing sell sack potato 
+fred willing sell sack potato 
+
+many possible trade would mutually agreeablepeople happen example cathy fred
+would interested trading priceandif price abovecathy interested since
+price high price belowfredinterested since price low however market cathy
+discover seller willing sell well
+belowso trade fred efficient
+market seller get high price possiblebuyer get low price possible
+
+imagine cathy fred bartering price fred offers
+sack potato cathy agree emily offer sack
+potato forfred willing sell atso drops
+point dan offer sell foremily wont sellamount look like deal might point
+bob step offersnow two people willing pay 
+sack potato cathy bob one person dan
+willing sell forcathy notice doesnt want losegood deal offer danfor potato emily also
+offer sell forso two buyer two sellerprice note could settled price betweenand
+bartering stop fred alice well
+fred alice willing trade since alicewilling payand fred sell amountalice cant outbid cathy bob purchase dan alice
+able get trade fred cant underbid danemily able get trade cathyword stable equilibrium reached
+graph discrete example
+
+supply demand graph could also drawn demand
+wouldperson willing paycathy
+people willing paycathy bob
+people willing paycathy bob alice
+
+supply wouldperson willing sell fordan
+people willing sell fordan emily
+people willing sell fordan emily fred
+
+supply demand match quantity traded two sackprice betweenandwhether dan sell cathy emilybob way round precisely price agreed
+cannot determined limitation simple model
+considering full assumption perfect competition price
+would fully determined since would enough participantdetermine price example last trade wasomeone willing sell atand someone willing pay 
+price could determined penny participants
+enter likely close bracketingequilibrium price
+
+important note example violates assumptionperfect competition limited number market
+participant however simplification show equilibrium
+price quantity determined easily understood situation
+result similar unlimited market participantassumption perfect competition considered
+
+history supply demand
+
+attempt determine supply demand interact began adam
+smith wealth nation first published inin book
+mostly assumed supply price fixed demand
+would increase decrease price decreased increased david
+ricardo inpublished book principle political economytaxation first idea economic model proposedrigorously laid idea assumptionused build idea supply demand
+
+late century marginalist school thought emerged
+field mainly started stanley jevons carl menger lon
+walras key idea price set expensive
+price price margin substantial change
+adam smith thought determining supply price
+
+finally basic modern school theory supplydemand finalized alfred marshall lon walrascombined idea supply idea demand began
+looking equilibrium point two curve crossedalso began looking effect market sincelate century theory supply demand mainlyunchanged work examining exceptionmodel like oligarchy transaction cost nonrationality
+
+criticism marshall theory supply demand
+
+marshall theory supply demand run counter ideaeconomist adam smith david ricardo creationmarginalist school thought although marshall theorydominant university today economist disagreedone theory counter marshall price already knowncommodity reach market negating ideaabstract market conveying price information thingmarket communicates whether object exchangeablecase would change object commoditywould mean producer creates good without alreadycustomersblindly producing hoping someone buy buy
+meaning exchange money commodity modern producer often
+market study prepared well advance production decisions
+however misallocation factor production still occur
+
+keynesian economics also run counter theory supplydemand keynesian theory price become sticky resistantchange especially case price decrease leadmarket failure modern supporter keynes paul krugmannoted recent history boston housing market
+dried early neither buyer seller willingexchange price equilibrium
+
+gregory mankiws work irrationality actor markets
+also undermines marshall simplistic view force involvedsupply demand
+
+empirical estimation
+
+demand supply relation market statistically
+estimated price quantity data using simultaneous system
+estimation structural estimation method econometricsalternative structural estimation reduced form estimation
+parameter identification problem common issue structural
+estimation typically data exogenous variable variables
+price quantity endogenous variables
+needed perform estimation
+
+application macroeconomics
+
+application supply demand concept macroeconomicssomewhat complicated fact supply demand analytical
+concept often predicated notion stable unit account
+via price observed macroeconomics assumption
+cannot taken granted currency subjectdynamic supply demand force influence quantity prices
+currency

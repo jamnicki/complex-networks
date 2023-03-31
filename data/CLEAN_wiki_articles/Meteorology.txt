@@ -1,0 +1,264 @@
+copyright
+
+meteorology
+
+ school wikipedia selection related subject climate weather
+
+atmospheric science cat
+meteorology cat
+
+weather cat
+tropical cyclone cat
+
+climatology cat
+
+climate cat
+climate change cat
+
+
+portal atmospheric sciences
+portal weather
+
+satellite image hurricane hugo polar low visible top
+image
+enlarge
+satellite image hurricane hugo polar low visible top
+image
+aristotle
+enlarge
+aristotle
+
+meteorology interdisciplinary scientific study atmosphere
+focus weather process forecasting meteorological
+phenomenon observable weather event illuminateexplained science meteorology event boundvariable exist earth atmosphere temperature
+pressure water vapor gradient interactionvariable change time majority earth observed
+weather located troposphere
+
+meteorology climatology atmospheric physic atmospheric
+chemistry subdisciplines atmospheric science meteorology
+hydrology comprise interdiscplinary field hydrometeorology
+
+interaction atmosphere ocean part coupled
+oceanatmosphere study meteorology application many diverse
+field military energy production farming shippingconstruction
+
+history meteorology
+
+early achievement meteorology
+
+bc
+
+term meteorology come aristotle meteorology
+
+although term meteorology used today describe subdiscipline
+atmospheric science aristotle work general work
+touch upon much known earth sciencewords
+
+affection may call common air waterkind part earth affection parts
+
+one impressive achievement meteorologydescription known hydrologic cycle
+
+sun moving doe set process changebecoming decay agency finest sweetest water
+every day carried dissolved vapour riseupper region condensed coldreturn earth
+
+
+
+galileo galilei construct thermoscope device
+measure temperature represented paradigm shiftpoint heat cold believed quality aristotles
+element fire water air earth note controversy
+actually built first thermoscope evidence
+device independently built several different times
+era first recorded meteorological observationwa standard measurement little usework daniel gabriel fahrenheit anders celsius century
+
+
+evangelista torricelli contemporary onetime assistantgalileo creates first manmade sustained vacuum inandprocess creates first barometer change height mercury
+toricelli tube lead discovery atmospheric pressure
+change time
+
+
+blaise pascal discovers atmospheric pressure decreaseheight deduces vacuum atmosphere
+
+
+robert hooke build anemometer measure windspeed
+
+
+edmund halley map trade wind deduces atmospheric changes
+driven solar heat confirms discovery pascalatmospheric pressure
+
+
+george hadley first take rotation earthaccount explain behaviour trade wind althoughmechanism hadley described incorrect predicting trade wind half
+strong actual wind circulating cell hadley
+described later become known hadley cells
+benjamin franklin
+enlarge
+benjamin franklin
+
+
+benjamin franklin observes weather system north america move
+west east demonstrates lightning electricity
+publishes first scientific chart gulf stream linkvolcanic eruption weather speculates effectdeforestation climate
+
+
+horace saussure construct hair hygrometer measure humidity
+
+
+luke howard writes modification cloud assigns
+cloud type latin names
+
+
+francis beaufort introduces system classifying wind speeds
+
+
+controversial law storm work william reidwhich splits
+meteorological establishment two camp regard low pressure
+system would take ten year debate finally comeconsensus behaviour low pressure systems
+
+
+elia loomis first person known attempt devise theoryfrontal zone idea catch expanded uponnorwegian year following world war
+observation network weather forecasting
+
+arrival electrical telegraph inafforded first
+time practical method gathering quickly information surface
+weather condition wide area data could usedproduce map state atmosphere region nearearth surface study state evolved timemake frequent weather forecast based data required reliable
+network observation untilthat smithsonian
+institute began establish observation network across united
+state leadership joseph henrysimilar observation
+network established europe time inthe united
+kingdom gorvernment appointed robert fitzroy new officemeteorological statist board trade role gathering
+weather observation sea fitzroys office become united kingdom
+meteorological office inthe first national meteorological
+service world first daily weather forecast madefitzroys office published time newspaper inthe
+following year system introduced hoisting storm warning cones
+principal port gale expected
+
+nextyears many country established national
+meteorological service finnish meteorological central office 
+wa formed part magnetic observatory helsinki university
+india meteorological departmentestablished following tropical
+cyclone monsoon related famine previous decade united
+state weather bureauwas established departmentagriculture australian bureau meteorologyestablishedmeteorology act unify existing state meteorological services
+
+coriolis effect
+
+understanding kinematics exactly rotation earth
+affect airflow partial first late century full
+extent large scale interaction pressure gradient forcedeflecting force end cause air mass move along
+isobar understood early century deflecting force
+wa named coriolis effect gaspardgustave coriolispublished inon energy yield machine rotating parts
+waterwheel inwilliam ferrel proposed existencecirculation cell midlatitudes air deflectedcoriolis force create prevailing westerly winds
+
+numerical weather prediction
+
+meteorologist console ibmin joint numerical
+weather prediction unit 
+enlarge
+meteorologist console ibmin joint numerical
+weather prediction unit 
+
+inthe norwegian scientist vilhelm bjerknes first postulatedprognostication weather possible calculation based upon
+natural laws
+
+early century advance understanding atmospheric
+physic led foundation modern numerical weather prediction
+inlewis fry richardson published weather predictionnumerical process described small term fluid
+dynamic equation governing atmospheric flow could neglectedallow numerical solution found however sheer numbercalculation required large completed advent
+computers
+
+time norway group meteorologist led vilhelm
+bjerknes developed model explains generation
+intensification ultimate decay life cycle midlatitude
+cyclone introducing idea front sharply defined
+boundary air mass group included carlgustaf rossby
+wa first explain large scale atmospheric flow terms
+fluid dynamic tor bergeron first determined mechanismrain form jacob bjerknes
+
+starting numerical experiment computer became
+feasible first weather forecast derived way used barotropic
+mean singleverticallevel model could successfully
+predict largescale movement midlatitude rossby wavepattern atmospheric low highs
+
+chaotic nature atmosphere first observed
+understood edward lorenz founding field chaos theory
+advance led current use ensemble forecastingmajor forecasting center take account uncertainty
+arising due chaotic nature atmosphere
+
+satellite observation
+
+inthe launch tiro first successful weather satellite
+marked beginning age weather information available
+globally weather satellite along generalpurpose
+earthobserving satellite circling earth various altitudebecome indispensable tool studying wide range phenomena
+forest fire nio
+
+recent year climate model developed featureresolution comparable older weather prediction model climate
+model used investigate longterm climate shifteffect might caused human emission greenhouse gases
+
+weather forecasting
+
+meteorogist work storm prediction center norman enlarge
+meteorogist work storm prediction centre norman 
+although meteorologist rely heavily computer model numerical
+weather prediction still relatively common use techniques
+conceptual model developed computerpowerful enough make prediction accurately efficiently
+generally speaking prior aroundmany methodused determine much skill forecaster added forecast
+example much better persistence climatologyforecast similarly could also used determine much
+skill industry whole gained emerging technologytechniques
+persistence method
+
+persistence method assumes condition change often
+summarised tomorrow equal today method work bestshort period time stagnant weather regimes
+extrapolation method
+
+assumes system atmosphere propogate similar
+speed seen past distance futuremethod work best short period time work besttake diurnal change pressure precipitation patternaccount
+numerical forecasting method
+
+numerical weather prediction nwp method computer take
+account large number variable creates computer model
+atmosphere successful used methods
+model bias relative skill taken account
+general ecmwf model outperforms ncep ensemble meanoutperforms ukmetgfs model afterhours outperformnam model time frame performance change tropical
+cyclone taken account ecmwfmodel ensemble
+methodsmodel consensusgfsukmetnogaps perform exceedingly well
+nam canadian gem exhibiting lower accuracy
+consensusensemble method forecasting
+
+statistically difficult beat mean solutionconsensus ensemble method forecasting take advantagesituation favoring model greatest supportensemble mean piece global model guidance local
+hydrometeorological prediction centre study showed usingmethod alone verifiesof time
+trend method
+
+trend method involves determining change front high
+low pressure center model run various lengthtime trend seen long enough time framehoursmeaningful forecast model knownovertrend however use method verifiesthe timesurface pattern aloft
+climatologyanalog method
+
+climatology analog method involves using historical weather
+data collected long period time year predict conditions
+given date variation theme useteleconnections rely upon date expected positionpositive negativehpa height anomaly give someoneimpression overall pattern would look likeanomaly place significant help model trend
+since verifies roughlypercent time used properly
+stable anomaly centre another variation usestandard deviation climatology various meteorological fields
+pattern deviate thansigmas climatologybecomes improbable solution
+
+meteorology climatology
+
+development powerful new supercomputer like earth
+simulator japan mathematical modeling atmosphere reach
+unprecedented accuracy due enhanced spatial
+temporal resolution grid employed alsopowerful machine model earth integrated climate
+system atmosphere ocean vegetation manmade influences
+depend realistically goal global meteorological
+modeling termed earth system modeling growing numbermodel various process coupled predictionglobal effect like global warming nio expected benefit
+substantially advancements
+
+regional model attracting interest resolutionglobal model increase regional weather disasterelbe flooding inand european heat wave indecision
+maker expect model accurate assessment possible
+increase natural hazard specific region countermeasures
+dike intentional flooding might effective preventing
+least attenuating natural hazards
+
+model scale increased model resolution mean less
+reliance parameterizations empirically derived
+expression process cannot resolved model grid
+example mesoscale model individual cloud resolved
+removing need formulation average grid boxglobal modeling atmospheric wave gravity wave short
+temporal spatial scale represented without resortingoften overly simplified parameterizations
+

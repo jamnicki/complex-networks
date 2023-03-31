@@ -1,0 +1,294 @@
+copyright
+
+introduction special relativity
+
+ school wikipedia selection related subject general physics
+
+beginning
+
+everything started michelsonmorley experiment determine
+absolute speed earth theorised luminiferous
+aether experiment failure show somethingspeed light independent speed observer means
+two person follow light ray different speeds
+measure relative speed ray
+
+several article einstein trying explaincould happen important written lorentzpostulated light travel speed etherobject move ether compresseddirection motion time slows stillmind absolute movement thinking moving observer would
+measure correct speed light compensation errorreference frame moving along light speed light
+relative slower contraction lengthinstrument slowdown time exactly enoughmeasure speed light 
+einstein explained effect simpler way usingrelativity principle imagined ray light bouncing two
+mirror observer static mirror take given
+time observer moving respect take longer
+speed light spacecalculated equation transforming time
+
+later using previous equation discovered simultaneitypossible inertial system synchronize several clocks
+frame look desynchronized frame different
+speed
+
+finally used previous result obtain equationlorentz space contraction
+
+lot people including tried find
+inconsistency system lot supposed inconsistencies
+paradox proposed took job lookingexplanation one one another scientist named
+hermann minkowski showed whole system special
+relativity selfconsistent therefore real paradox appear
+
+minkowski space
+
+also modern approach theory depends upon conceptfourdimensional universe first proposed minkowski 
+developed result contribution emmy noether
+approach concept invariance explore typecoordinate system required provide full physical
+description location extent things
+
+modern theory special relativity begin concept 
+length everyday experience seems length objects
+remains matter rotated moved placeplace think simple length thing isinvariant
+however shown illustration actually
+suggesting length seems invariant threedimensional
+coordinate system
+
+imagecoordbgif
+
+length thing twodimensional coordinate system given
+pythagoras theorem
+
+hxy 
+
+twodimensional length invariant thing tiltedtwodimensional plane everyday life threedimensional
+coordinate system seems describe length fully lengthgiven threedimensional version pythagoras theorem
+
+kxyz 
+
+derivation formula shown illustration
+imagecoordgif
+
+seems provided direction thingtilted arranged represented within coordinate systemcoordinate system fully represent length thing however
+clear thing may also changed period timemust think time another dimension move forward
+shown following diagram
+
+imagecoordgif
+
+path taken thing space time knownspacetime interval
+
+minkowski realised inthat thing could rearranged time
+universe might fourdimensional boldly suggestedeinstein recently published theory special relativity waconsequence fourdimensional universe proposedspacetime interval might related space time pythagoras
+theorem four dimensions
+
+sxyzict 
+
+imaginary unit defined one solutionxc speed light constant time
+interval spanned spacetime interval equationsecond usually unit time becomes another unit length
+way centimetre inch unit length
+related centimetresconversion factorinches metre seconds
+related metresconversion factorseconds conversion
+factor ha value approximatelymeters per second
+equal tothe spacetime interval represented
+
+sxyzct 
+
+modern formulation formula interval known metric
+tensor minkowski space signatureor equivalently
+particular importance form one term
+ha sign different rest direct contrastabovementioned example euclidean space termsign signature ofit difference metric
+signature cause principal difference geometryfourdimensional euclidean space geometry fourdimensional
+minkowski space spacetime interval still given
+sxyzct 
+
+alternately
+
+sctxyz 
+
+spacetime interval difficult imagine extend one
+place time another place time velocity thing
+travel along interval already determined given
+observer attempt visualisation made graphingdisplacement particle onedimensional motion constrainedstraight line time imagined world linetwo space dimension suppressed
+
+universe fourdimensional spacetime intervalinvariant rather spatial length whoever measure particular
+spacetime interval get value matter fasttravelling invariance spacetime interval hadramatic consequences
+
+first consequence prediction thing travelling
+velocity metre per second observer matterfast travelling measure velocity thing
+velocity universal constant explained
+object travelling space time interval zero
+
+spacetime interval sxyzct 
+
+distance travelled object moving velocity vsecond
+xvt 
+
+svtct 
+
+velocity equal 
+sctct 
+
+hence space time interval
+spacetime interval zero occurs velocity cparticular value zero interval unique sensevalue spacetime interval vone one value show velocitylight constant velocity constant thereforeassuming particular form minowski metric postulatinginvariance spacetime interval alternate approacheinstein special relativity einstein take postulate
+speed light constant observer observe something
+spacetime interval zero observevelocity matter fast moving
+universal constant known historical reasonspeed light first decade two formulationminkowski approach many physicist although supporting special
+relativity expected light might travel exactly cmight travel nearly physicist believe
+light wave doe propagate 
+second consequence invariance spacetime intervalclock appear slower object moving
+relative suppose two people bill johnseparate planet moving away john drawgraph bill motion space time shownillustration
+imagecoordgif
+
+clock delay rod contractions
+
+planet bill john think stationarymoving time john spot bill movingjohn call space well time bill think moving
+time alone bill would also draw conclusionjohn motion john bill time axis leaningdirection travel bill john time axis leans
+
+john calculates length bill spacetime interval
+svtct 
+
+whereas bill doesnt think traveled space writes
+
+sct 
+
+spacetime interval invariant valueobserver matter measure movingstraight line bill equal john
+ctvtct 
+
+
+ctvtct 
+
+hence
+
+tfractsqrtfracvc
+
+john see bill measure time interval ofsecondtwo tick clock rest bill frame modeled
+condition xjohn find clock measures
+tick interval called coordinate timegreater one second said clock motion slowrelative observer rest known relativistic
+time dilation moving clock time measured rest
+frame clock bill frame called proper timeclock
+
+john also observe measuring rod rest bill planetshorter measuring rod direction motionprediction known relativistic length contraction moving
+rod length rod rest bill planet xcall quantity proper length rod length xrod measured john planet called coordinate lengthgiven
+xx sqrtfracvc
+
+clock desynchronization
+
+last consequence clock appear phasealong length moving object mean one
+observer set line clock synchronisedread time another observer moving along line
+high speed see clock reading different timemean observer moving relative see
+different event simultaneous effect known relativistic
+phase relativity simultaneity relativistic phase often
+overlooked student special relativity understood
+phenomenon twin paradox easier understand
+
+net effect fourdimensional universe observermotion relative seem time coordinate lean
+direction motion consider thing simultaneous
+simultaneous spatial length directiontravel shortened tip upwards downwards relative
+time axis direction travel akin rotationthreedimensional space
+
+imagecoordgif
+
+great care needed interpreting spacetime diagram diagrams
+present data two dimension cannot show faithfullyinstance zero length spacetime interval appears
+
+imagecoordgif
+
+common misconceptions
+
+common misconception special relativity appliesobject moving quickly entirely untrue main
+page shown kinetic energy object speedrelativistic quantity kinetic energy relativisticalthough relativistic change mass tiny ordinary unitresult large change energy ordinary unit due emc
+c aboutms newtonian physics
+describes interplay kinetic potential energy without
+explaining origin kinetic energy inertia assumes
+thing whereas special relativity explains deeper
+level
+
+pointed however minkowski partly motivated
+proposal fourdimensional universe franz taurinus
+discovery euclidean geometry exception fifth
+postulate applies surface sphere radius measured
+imaginary unit cannot assumed fundamental geometry
+universe see noneuclidean geometry walter
+
+caveat warnings
+
+discussion given confined known flat
+spacetime general differential form spacetime interval
+given article special relativity modern descriptionuniverse term rather show timelike spatial dimension corresponds differenceeuclidean metric minowski metric mentioned
+earlier
+
+time dilation equation
+
+ttsqrtvc 
+
+valid clock rest bill frame measuring proper
+time equation valid two tick eventclock happen place bill frame word two
+event satisfying 
+length contraction equation
+
+xx sqrtvc 
+
+valid rod rest bill frame proper length
+x rod measured john frame john must make
+sure measure end point rod timeframe must use two event satisfying
+tempting combine equation time dilationlength contraction kind invariant spacetime area xtxt
+kind velocity transforms like xtxt taking account combining lorentz
+transformation equation immediately reduce trivial case
+quantity zero xtxtin casearea equation reduces toand quantity xtdefined sense combined equation would validrod zero length also clock doe tick
+
+also made clear length contraction resultapplies rod aligned direction motion right angledirection motion contraction
+
+might also noted special relativity form given
+stepping stone general relativity special
+relativity spacetime absolute appears backgroundevent occur whereas general relativity spacetimeconstrued dynamic product gravitational fieldminkowski metric longer applies general instead every situation
+demand metric solution famous einstein field
+equations
+
+measurement unit simplification lorentz equations
+
+equation specify unit measurementtime distance following discussion howeverfocus section lorentz equation suppose choosearbitrary time unit arbitrary distance unitequation still valid provided constant speed
+light measured respect unit example unit
+time second unit distance metervalue exactlymeters per second
+
+side note thefigure exact following
+reason past second defined subdivisionday time successive solar noon meterdefined independently time fraction distance
+equator north pole standardizedlength ruler kept paris yet advent atomic
+clock discovery invariance speedlight definition second meter alteredsecond defined respect vibrationperiodscertain atom certain energy state meter defined
+asth distance beam light travels
+one second rather estimate speed lightfunction length physical object imprecise
+use absolute constant speed lightdefinition second presumably based highly invariant
+physical entity define mean meter
+
+suppose rather use meter measure distance letunit measurement distance light travel one secondcalled lightsecond term meter one light secondexactly defined asmeters one beneficial result using
+unit measurement value nowinequation abovesince light travel exactly one lightsecond every
+secondso removed thing remember
+distance term lightsecondsmeter note also nothing special using seconds
+unit time long unit distance distance
+traveled beam light one unit time example time
+measured year distance measured lightyears
+
+simplified equation
+tgamma lefttv right
+xgamma xvyy
+zz
+
+gammafracsqrtv
+
+spacetime physic taylor wheeler present another waylook think variable equationwritten way unit cthe variable ckept normal speed light vvariable defined
+vvconvc
+
+vconv conventional velocity appearsoriginal nonsimplified equation depending problemsituation hand one chooseeither measure express time unit conventional distance
+eg meter define tvariable
+tctconv
+
+measure express distance unit conventional time
+eg second year define spatial variable z
+
+xxconvc qquad yyconvc qquad zzconvc
+
+
+similar definition used variable like
+energy
+
+eeconvc
+
+etc way speed light effectively disappearsequations
+
+retrieved 
+httpenwikipediaorgwikiintroductiontospecialrelativity
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

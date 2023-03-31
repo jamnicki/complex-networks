@@ -1,0 +1,87 @@
+copyright
+
+list african countries
+
+ school wikipedia selection related subject african geography
+
+alphabetical list african country dependencies
+flag algeriaalgeria
+flag angolaangola
+flag beninbenin
+flag botswanabotswana
+flag burkina fasoburkina faso
+flag burundiburundi
+flag camerooncameroon
+flag cape verdecape verde
+flag central african republiccentral african republic
+flag chadchad
+flag comoroscomoros
+republic congo congobrazzaville
+democratic republic congo congokinshasa
+flag cte divoirecte divoire
+flag djiboutidjibouti
+flag egyptegypt
+flag equatorial guineaequatorial guinea
+flag eritreaeritrea
+flag ethiopiaethiopia flag gabongabon
+flag gambiathe gambia
+flag ghanaghana
+flag guineaguinea
+flag guineabissauguineabissau
+flag kenyakenya
+flag lesotholesotho
+flag liberialiberia
+flag libyalibya
+flag madagascarmadagascar
+flag malawimalawi
+flag malimali
+flag mauritaniamauritania
+flag mauritiusmauritius
+flag mayottemayotte
+flag moroccomorocco
+flag mozambiquemozambique
+flag namibianamibia
+flag nigerniger flag nigerianigeria
+flag runionrunion
+flag rwandarwanda
+flag saint helenasaint helena
+flag tom prncipeso tom prncipe
+flag senegalsenegal
+flag seychellesseychelles
+flag sierra leonesierra leone
+flag somaliasomalia
+flag south africasouth africa
+flag sudansudan
+flag swazilandswaziland
+flag tanzaniatanzania
+flag togotogo
+flag tunisiatunisia
+flag ugandauganda
+sahrawi arab democratic republic western saharasadr
+flag zambiazambia
+flag zimbabwezimbabwe
+
+lists
+
+african countries
+
+gdp
+gdp per capita
+gdp ppp
+population
+population density
+
+country continent
+
+asia
+europe
+north america
+oceania
+south america
+
+retrieved 
+httpenwikipediaorgwikilistofafricancountries
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

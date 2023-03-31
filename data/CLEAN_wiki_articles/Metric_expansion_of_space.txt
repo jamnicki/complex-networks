@@ -1,0 +1,236 @@
+copyright
+
+metric expansion space
+
+ school wikipedia selection related subject space astronomy
+
+physical cosmology
+
+age universe
+big bang
+comoving distance
+cosmic microwave background
+dark energy
+dark matter
+flrw metric
+friedmann equations
+galaxy formation
+hubble law
+inflation
+largescale structure
+lambdacdm model
+metric expansion space
+nucleosynthesis
+observable universe
+redshift
+shape universe
+structure formation
+timeline big bang
+timeline cosmology
+ultimate fate universe
+universe
+
+related topics
+astrophysics
+general relativity
+particle physics
+quantum gravity
+
+
+metric expansion space key part science current
+understanding universe whereby spacetime describedmetric change time way spatial
+dimension appear grow stretch universe get olderexplains universe expands big bang model featureuniverse supported cosmological experiment astrophysics
+calculation measurement date
+
+expansion space conceptually different kindexpansion explosion seen nature understandingfabric universespacetime requires see
+normally space time anddistance absolutedetermined metric change metric expansionspace rather object fixed space moving apartemptiness space contains objectchanging without object moving spacesomehow growing
+metric defining distance changing ratherobject moving space expansion resultant movement
+apart object restricted speed light upper bound
+result special relativity
+
+theory observation suggest early historyuniverse inflationary phase metric changed
+rapidly remaining timedependence metricobserve socalled hubble expansion moving apartgravitationally unbound object universe expanding
+universe therefore fundamental feature universeinhabita universe fundamentally different static universe
+albert einstein first considered developed gravitational
+theory
+
+overview
+
+metric defines distance measured two nearby
+point space term coordinate pointcoordinate system locates point space whatever numberdimension assigning unique number known coordinatepoint metric formula convert coordinate two
+point distances
+
+example consider surface earth simple
+familiar example noneuclidean geometry surfaceearth twodimensional point surface earthspecified two coordinatesfor example latitudelongitude specification metric requires one first specify
+coordinate used simple example surfaceearth could chose kind coordinate system wishexample latitude longitude xyz cartesian coordinatechoose metric used calculate distancenearby point term difference coordinateprinciple choose one multitude metricpractice choose metric seems fit purpose bestexample local mapmaking often ignores curvature whereas airline
+flight distance based upon great circle since earthflat distance two point london new
+york may differs depending measured metric
+utilized measuring small distance earththeory always effect due curvature practiceearth curvature small almost unnoticable short
+distances
+
+metric space appears current observation euclidean
+large scale cannot said metric spacetime
+however surface earth specified point giving two
+coordinate spacetime four dimensional must specify
+point spacetime giving four coordinate convenient
+coordinate use cosmology called comoving coordinates
+space appears euclidean large scale onespecify spatial coordinate term z coordinates
+though choice spherical coordinate also commonly
+used fourth required coordinate time specifiedcomoving coordinate cosmological time noneuclidean naturespacetime manifest fact distancepoint constant coordinate grows time rather remaining
+constant
+
+technically metric expansion space feature many
+solution einstein field equation general relativityparticular cosmological principle assumedtimevarying universe simplest solution allows distancespace change evolving scale factor theoretical
+explanation provides clean explanation observed hubble law
+indicates galaxy distant appearreceding faster galaxy closer spaceexpand metric change time way cause distanceappear larger later time big bang universe observe
+phenomenon associated metric expansion space livedspace contracted big crunch universe would observe
+phenomenon associated metric contraction space instead
+
+first general relativistic model predicted universewa dynamical contained ordinary gravitational matter would
+contract rather expand einstein first proposal solution
+problem involved adding cosmological constanttheory balance contraction order obtain static
+universe solution wasnt observation edwin hubbleconfirmed distant galaxy apparently moving away
+u scientist accepted universe expandingtheoretical development one explanationwa case development model cosmic
+inflation expansion universe became general feature
+resulting vacuum decay accordingly questionuniverse expanding answered understanding detailinflation decay process occurred firstseconds
+existence universe suggested timemetric grew exponentially causing space change smalleratom aroundmillion light year across
+expansion universe proceeds direction determined
+hubble constant today however hubble constant change
+past future dependent observed valuedensity parametersbefore discovery dark energybelieved universe matter dominated soon graph
+corresponds ratio matter density critical density
+enlarge
+expansion universe proceeds direction determined
+hubble constant today however hubble constant change
+past future dependent observed valuedensity parametersbefore discovery dark energybelieved universe matter dominated soon graph
+corresponds ratio matter density critical density
+
+measuring distances
+
+expanding space distance dynamical quantity changetime several different way defining distancecosmology known distance measure common comoving
+distance
+
+metric defines distance nearby point orderdefine distance arbitrarily distant point one must
+specify point specific curve connectingdistance point found finding lengthconnecting curve comoving distance defines connecting curve
+curve constant cosmological time operationally comoving
+distance cannot directly measured single earthbound observer
+determine distance distant object astronomer generally
+measure luminosity standard candle redshift factor zdistant galaxy convert measurement distances
+based particular model spacetime lambdacdm
+model
+
+observational evidence
+
+wa yearthat scientist finallypiece direct observational evidence necessary confirm metric
+expansion universe however evidencediscovered theoretical cosmologist considered metric expansionspace likely feature universe basedconsidered small number reasonable assumption modeling
+universe chief amongcosmological principle demand universe looks
+way directionsisotropic roughlysmooth mixture materialhomogeneous
+copernican principle demand placeuniverse preferred universe starting
+point
+
+varying degree observational cosmologist discovered evidence
+supporting assumption addition direct observationspace expanding today metric expansion space consideredcosmologist observed feature basis althoughcannot see directly property universe scientists
+tested observed provide compelling confirmation
+source confirmation include
+edwin hubble presented first observational evidence expanding
+universe
+enlarge
+edwin hubble presented first observational evidence expanding
+universe
+edwin hubble demonstrated galaxy distant
+astronomical object moving away hubble lawpredicted universal expansion using redshiftelectromagnetic spectrum determine distance speedremote object space showed object moving away
+u speed proportional distancefeature metric expansion study since shownexpansion extremely isotropic homogenousdoe seem special point centre appears
+universal independent fixed central point
+study largescale structure cosmos takenredshift survey socalledend greatness discoveredlargest scale universe scalesurveyed universe appeared lumpy clump galaxy
+cluster superclusters filament anythingisotropic homogeneous lumpiness disappears smooth
+distribution galaxy largest scale much way
+jackson pollock painting look lumpy closeup regular
+whole
+isotropic distribution across sky distant gammaray
+burst supernova another confirmation cosmological
+principle
+copernican principle truly tested cosmological
+scale measurement effect cosmic microwave
+background radiation dynamic distant astrophysical
+system reported group astronomer european
+southern observatory radiation pervades universedemonstrably warmer earlier time uniform cooling cosmic
+microwave background billion year explainableuniverse experiencing metric expansion
+
+taken together theory coherently explainsphenomenon relies space expanding change metric
+interestingly discovery yearof
+direct observational evidence changing temperaturecosmic microwave background bizarre construction couldruled time based purely assumptionuniverse behave one milky way sittingmiddle fixedmetric universal explosion galaxydirection seen example early model proposed milne
+
+additionally scientist confident theory relymetric expansion space correct passedrigorous standard scientific method particularphysic calculation performed based upon current theories
+including metric expansion appear give resultprediction general agree extremely closelyastrophysical particle physic observation spatialtemporal universality physical law recently takenfundamental philosophical assumption testedobservational limit time space evidence takenseriously level detail sheer quantitymeasurement theory predict shown preciselyaccurately match visible reality level precision difficult
+quantify order precision seen physical
+constant govern physic universe
+
+model analogies
+
+metric expansion seen physical scale humans
+concept may difficult grasp three analogyantonaballoon analogy expanding rubber sheet analogyraisin bread analogy developed aid conceptual
+understanding analogy conceptual benefit drawbacks
+
+ant balloon model
+
+ant balloon model twodimensional analogthreedimensional metric expansion ant imaginedconstrained move surface huge balloon ants
+understanding total extent space see article flatlandconsequence twodimensional constraint early stage
+balloonuniverse ant measure distance separate
+point balloon serf standard scale
+factor measured balloon inflateddistance point measured determinedlarger proportional factor surface balloon still
+appears flat yet point appeared recedeant indeed every point surface balloon proportionally
+farther ant earlier life balloon universe
+explains expanding universe result points
+receding simultaneously point seen get
+closer together
+
+limit ant tiny balloon enormous ant
+also cannot detect curvature associated geometrysurface roughly elliptical geometry outside
+surface curving balloon ant balloon appearsplane extending direction mimic socalled 
+flatness seen observable universe appears evenlargest scale follow geometrical law associated flat
+geometry like ant enormous balloon may unable
+detect curvature larger unobservable scale mayresidual curvature shape universe observe drivenflat matter starting condition universecosmic inflation caused universe begin expandingfirst place
+
+analogy two dimension balloon expandanything since surface balloon admits infinite pathdirection time possibility confusionanalogy since balloon seen external observerexpanding third dimension radial directionfeature metric expansion rather resultarbitrary choice balloon happens manifold
+embedded third dimension third dimensionmathematically necessary twodimensional metric expansion occur
+ant confined surface balloon way
+determining whether third dimension exists mayuseful visualize third dimension fact expansiontheoretically require dimension existquestion universe expanding poorly phrased
+metric expansion doe proceed anything universe
+inhabit doe expand distance get larger doemean larger space expanding
+
+expanding rubber sheet model
+
+similar ant balloon model expanding rubber sheet
+universe ersu given model represents expansionignoring third dimension instead relying balloon expanding
+three dimension ersu model describes infinite rubber
+sheet stretched direction heavy object placedsheet create dip dent local curvature much way
+massive galaxy curve spacetime gravitational welluniverse object appear recedingunless get caught others gravitational well process
+called virialization infinite rubber sheet stay infinite two
+dimensional distance point sheet steadily
+increase expansion model advantageballoon model macroscopically twodimensional flat geometrycorresponds well measured threedimensional lack curvature
+observable universe
+
+raisin bread model
+
+animation expanding raisin bread model bread doublesize distance raisin also double
+enlarge
+animation expanding raisin bread model bread doublesize distance raisin also double
+
+raisin bread model imago galaxy raisin raisin bread
+dough rise expand cooked expansion
+occurs raisin get farther raisins
+raisin stay size doughraisin model act space galaxyraisin bound object subject expansion model
+useful explaining standard rulerdetermined measuring expansion empty universe space
+serf ruler ruler expand space would
+way distinguish expanding universe static
+universe universe object bound
+expand ruler independent expansion
+metric expansion measured
+
+like ant balloon model model also suffersproblem raisin bread expanding pan makeanalogy universe necessary imagine raisin breadha observable edge expansion would still occur question
+raisin bread expanding would meaningless
+retrieved 
+httpenwikipediaorgwikimetricexpansionofspace
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

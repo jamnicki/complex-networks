@@ -1,0 +1,301 @@
+copyright
+
+magnetism
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+magnetic line force bar magnet shown iron filing paper
+magnetic line force bar magnet shown iron filing paper
+
+physic magnetism one phenomenon material exert
+attractive repulsive force material well known
+material exhibit easily detectable magnetic propertynickel iron steel mineral magnetite howevermaterial influenced greater lesser degree presencemagnetic field
+
+history
+
+china earliest literary reference magnetism lie century book called book devil valley masterthe
+lodestone make iron come attracts earliest mentionattraction needle appears work composed betweenand
+ad louenheng lodestone attracts needle century chinese known use lodestone compassnavigation far earlier magnetotactic bacteria evolved build
+miniature magnet inside use establishorientation relative earth magnetic field 
+
+physic magnetism
+
+magnetic force force arise movement electrical
+charge maxwell equation biotsavart law describe origin
+behaviour field govern force thus magnetism
+seen whenever electrically charged particle motionarise either movement electron electric current
+resulting inelectromagnetism quantummechanical spin
+orbital motion electron resulting known 
+permanent magnet electron spin dominant effect within atoms
+socalled orbital motion electron around nucleussecondary effect slightly modifies magnetic field createdspin
+
+magnetic force actually due finite speed speedlight disturbance electric field give riseforce appear acting along line right anglecharge effect magnetic force portion electric
+force directed charge used reason
+magnetism considered basically electric forcedirect consequence relativity
+
+charged particle magnetic field
+
+charged particle move magnetic field feelforce given cross product
+
+vecfq vecv time vecb
+
+q electric charge particle vecvisvelocity vector particle vecbis magnetic field
+
+cross product force perpendicularmotion particle magnetic field followsmagnetic force doe work particle may changedirection particle movement cannot cause speed
+slow
+one tool determining direction velocity vectormoving charge magnetic field force exerted labeling
+index finger middle finger thumb fright hand making gunlike configuration middle
+finger crossing index finger finger representvelocity vector magnetic field vector force vector respectively
+see also right hand rule
+
+magnetic dipoles
+
+normally magnetic field seen dipole asouth pole
+anorth pole term dating back use magnetcompass interacting earth magnetic field indicate
+north south globe since opposite end magnetattracted north magnetic pole earth must magnetically
+south
+
+magnetic field contains energy physical system stabilizeconfiguration lowest energy therefore placedmagnetic field magnetic dipole tends align opposed
+polarity field thereby canceling net field strengthmuch possible lowering energy stored fieldminimum instance two identical bar magnet normally line north
+south resulting net magnetic field resist attemptreorient point direction energy requiredreorient configuration stored resulting
+magnetic field double strength fieldindividual magnet course magnet used compass
+interacts earth magnetic field indicate north south
+
+magnetic monopoles
+
+modern understanding magnetism posit magnetic effects
+actually due relativistic effect caused relative motion
+observer charged particle since magnetismcaused moving charge magnet fact electromagnets
+
+even atom tiny field planetary model atomelectron orbit nucleus thus change motion giving
+rise magnetic field permanent magnet measurable magnetic
+field atom molecule arranged wayindividual tiny field align add
+model lack single pole make intuitive sense cutting
+bar magnet half doe nothing arrangement molecules
+within end two bar arrangementthus field also explains heating simply hittingmagnet made soft material degauss molecules
+within moved
+since known form magnetic phenomenon involve motionelectrically charged particle since theory suggestspole context thing rather convenient fiction
+may well nothing could called magnetic monopole
+exists ever could
+
+contrary normal experience theoretical physic model predict
+existence magnetic monopoles paul dirac observed inthat
+electricity magnetism show certain symmetryquantum theory predicts individual positive negative electric
+charge observed without opposing charge isolated southnorth magnetic pole observable practice however
+although charged particle like proton electron easily
+isolated individual electrical charge magnetic south north
+pole never found isolation using quantum theory dirac
+showed magnetic monopoles exist one could explainobserved elementary particle carry charge multiplecharge electron
+
+modern elementary particle theory quantization chargerealized spontaneous breakdown non abelian gauge symmetry
+monopoles predicted certain grand unified theory differone originally thought dirac monopoles unlike elementary
+particle soliton localized energy packetexist contradict cosmological observation solutionmonopole problem cosmology gave risecurrentlyinteresting idea inflation
+
+atomic magnetic dipoles
+
+physical cause magnetism object distinctelectrical current atomic magnetic dipole magnetic dipoles
+magnetic moment result atomic scale two kindmovement electron first orbital motion electron
+around nucleus motion considered current loop
+resulting orbital dipole magnetic moment along axisnucleus second much stronger source electronic magnetic
+moment due quantum mechanical property called spin dipole
+magnetic moment although current quantum mechanical theory stateelectron neither physically spin orbit nucleus
+dipole moment bar magnet
+dipole moment bar magnet
+
+overall magnetic moment atom net summagnetic moment individual electron tendency
+magnetic dipole oppose reduce net energyatom opposing magnetic moment pair electron cancel
+orbital motion spin magnetic moment thus
+case atom completely filled electron shellsubshell magnetic moment normally completely cancelatom partiallyfilled electron shellmagnetic moment whose strength depends number unpaired
+electrons
+
+difference configuration electron various elements
+thus determine nature magnitude atomic magnetic moments
+turn determine differing magnetic property various
+material several form magnetic behaviour observeddifferent material including
+diamagnetism
+paramagnetism
+molecular magnet
+ferromagnetism
+antiferromagnetism
+ferrimagnetism
+metamagnetism
+spin glass
+superparamagnetism
+
+magnetars star extremely powerful magnetic field also
+known exist
+
+type magnets
+
+electromagnets
+
+electromagnet useful case magnet must switchedinstance large crane lift junked automobiles
+
+case electric current moving wire resulting
+field directed according right hand rule right hand
+used model thumb right hand point alongwire positive towards negative side conventional current
+reverse direction actual movement electronmagnetic field wrap around wire direction indicatedfinger right hand seen geometrically loop
+helix wire formed current travelingcircle field line centre loopdirected direction resulting magnetic dipole whose
+strength depends current around loop currenthelix multiplied number turn wire caseloop finger right hand directed directionconventional current flow positive negative opposite
+direction actual flow electron thumb pointdirection corresponding north pole dipole
+
+permanent temporary magnets
+
+permanent temporary magnet alike require
+another influence create magnetic field rely magnetic
+pole always two pole north south even cutting
+magnet numerous piece get magnetic monopoleget many abated magnet helpful way think think
+line pencil facing way sharp enderaser end north south end diverse linetwo line line still sharp side eraser sidepermanent magnet differs temporary magnet temporary
+magnet simply temporary stroking metal onto magnetized material
+magnetite naturally magnetized mineral would turn metal
+ferromagnetic material permanent magnet containmaterial strong magnet difficult magnetize
+tend keep magnetism greater period permanent magnets
+may metal steel iron natural mineralmagnetite even plastic magnet although called permanent
+comprehensively permanent dropped heated struck
+hard object fast speed magnetic domain withinmagnet may shift alignment causing magnet become
+debilitated two type rareearth magnets
+neodymium magnetsmade sintered neodymium iron small
+amount boron powerful affordable
+
+samariumcobalt magnet smco common neodymium
+magnet strong expensivehigher curie point making applicable situationintense heat
+
+magnetic metallic elements
+
+many material unpaired electron spin majoritymaterial paramagnetic spin interactway spin align spontaneously material called
+ferromagnetic often loosely termed magnetic dueway regular crystalline atomic structure cause spininteract metal ferromagnetic found natural
+state ore include iron oremagnetite lodestone
+cobalt zinc nickel well rare earth metal gadoliniumdysprosium low temperature naturally occurring
+ferromagnets used first experiment magnetism
+technology since expanded availability magnetic materialinclude various manmade product based however naturally
+magnetic elements
+
+composites
+
+ceramic ferrite
+
+ceramic ferrite magnet made sintered compositepowdered iron oxide bariumstrontium carbonate ceramic duelow cost material manufacturing method inexpensive
+magnet nonmagnetized ferromagnetic core use electronic
+component radio antenna example various shapeeasily mass produced resulting magnet noncorrodingbrittle must treated like ceramics
+
+alnico
+
+alnico magnet made casting sintering combinationaluminium nickel cobalt iron small amountelement added enhance property magnet sintering
+offer superior mechanical characteristic whereas casting delivers
+higher magnetic field allows design intricate shapes
+alnico magnet resist corrosion physical propertyforgiving ferrite quite desirable metal
+
+injection molded
+
+injection molded magnet composite various type resinmagnetic powder allowing part complex shape manufactured
+injection molding physical magnetic propertyproduct depend raw material generally lowermagnetic strength resemble plastic physical properties
+
+flexible
+
+flexible magnet similar injection molded magnet usingflexible resin binder vinyl produced flat stripsheet magnet lower magnetic strengthflexible depending binder used
+
+rare earth magnets
+
+rare earthlanthanoid element partially occupied electron shell accommodate toelectrons spinelectron aligned resulting strong magnetic
+field therefore element used compact highstrength
+magnet higher price factor
+
+samariumcobalt
+
+samariumcobalt magnet highly resistant oxidation higher
+magnetic strength temperature resistance alnico ceramic
+material sintered samariumcobalt magnet brittle pronechipping cracking may fracture subjected thermal shock
+
+neodymiumironboron nib
+
+neodymium magnet formally referred neodymiumironboron
+ndfeb magnet highest magnetic field strengthinferior samarium cobalt resistance oxidation temperature
+type magnet traditionally expensive duecost raw material licensing patent involved high
+cost limited use application high strengthcompact magnet critical use protective surface treatmentgold nickel zinc tin plating epoxy resin coatingprovide corrosion protection required beginningnib magnet increasingly become expensive popularapplication controversial childrens magnetic building
+toy even tiny neodymium magnet powerful important
+safety considerations
+
+singlemolecule magnet smms singlechain magnet scms
+
+wa discovered certain molecule containing
+paramagnetic metal ion capable storing magnetic momentlow temperature different conventional
+magnet store information domain level theoretically
+could provide far denser storage medium conventional magnetdirection research monolayers smms currently way
+briefly two main attribute smmlarge ground state spin value providedferromagnetic ferrimagnetic coupling paramagnetic
+metal centres
+negative value anisotropy zero field splitting
+smms contain manganese also found vanadium
+iron nickel cobalt cluster recently foundchain system also display magnetization persistslong time relatively higher temperature systemcalled singlechain magnets
+
+nanostructured magnets
+
+nanostructured material exhibit energy wave called magnonscoalesce common ground state manner boseeinstein
+condensate
+
+see result nist published aprilor
+
+unit electromagnetism
+
+si unit related magnetism
+
+si electromagnetism units
+symbol name quantity derived unit unit base units
+magnitude current amperesi base unit awvcs
+q electric charge quantity electricity coulomb cv potential difference electromotive force volt jc 
+kgmsa
+r x resistance impedance reactance ohmvakgmsa
+resistivity ohm metre kgmsa
+p power electrical watt vakgms
+c capacitance farad cvkgmas
+elastance reciprocal farad vckgmas
+permittivity farad per metre kgmas
+e electric susceptibility dimensionless
+g conductance admittance susceptance siemenskgmsa
+conductivity siemens per metre kgmsa
+h magnetic field magnetic field intensity ampere per metremagnetic flux weber vskgmsa
+b magnetic flux density magnetic induction magnetic field strength
+tesla wbmkgsanam
+reluctance ampereturn per weber awb kgmsa
+l inductance henry wbavsakgmsa
+permeability henry per metre kgmsa
+magnetic susceptibility dimensionless
+andelectric magnetic hertzian vector potential na
+
+units
+
+gaussthe gauss abbreviated cgs unit magnetic flux
+density magnetic induction oerstedthe oersted cgs unit magnetic field strength
+maxwellis cgs unit magnetic flux
+common symbol permeability free space nampereturn
+

@@ -1,0 +1,65 @@
+copyright
+
+aggregator
+
+ school wikipedia selection related subject website internet
+
+aggregator news aggregator feed reader client softwareus web feed retrieve syndicated web content weblogs
+podcasts vlogs mainstream mass medium website casesearch aggregator customized set search results
+
+functions
+
+aggregator reduce time effort needed regularly check
+website update creating unique information space personal
+newspaper subscribed feed aggregator able check
+new content userdetermined interval retrieve update
+content sometimes described pulled subscriber
+opposed pushed email unlike recipientpushed information aggregator user easily unsubscribefeed
+
+aggregator feature built portal site yahoo
+google modern web browser email program like mozilla
+thunderbird apple itunes serf podcast aggregatorapplication device mobile phone tivo video
+recorder already aggregating television program also incorporate
+xml aggregators
+
+aggregator provides consolidated view content single
+browser display desktop application application also
+referred reader feed reader feed aggregator news
+reader search aggregators
+
+syndicated content aggregator retrieve interpretusually supplied form xmlformatted datardfxml atom
+
+clouds
+
+small number news aggregator ability registercloud web service notifies aggregator updatefeed eliminating need periodic pulling approach attempts
+produce efficient use bandwidth though overhead
+associated registering cloud mean net saving also
+introduces issue scalability single point failure among
+others time since cloud concept introduced 
+source implemented
+categories
+
+online version
+
+online version type software website sellingproviding aggregation service free site typically
+provided isps internet portal feed allow usercheck recently changed version comparison previous updateallows fresh data viewed reducing bandwidth demandprovider hardware user aggregator onlineaccessed anywhere user connected internet
+advanced way integrating feed provided ajax desktops
+allow user aggregate opml file email service documents
+google docsspreadsheets well feed single interface
+
+lately large number online news aggregator made wayinternet search result success technology come two
+perspectives
+firsta large amount online content put togethershort period time search enginelike
+secondthe advertising capability enormous content delivered targeted second
+
+computer version
+
+desktop version type software designed satisfytask controlling subscription supervising feeduser selected gui type software normallythreepanel compositionlike communication software like instance
+email client browser version availablenormally runlan publication made webservers global accesspossible additional facility may integrated aggregatoraudio player blog editor internet browser email clients
+
+oemmeta news feeds
+
+service headline news ahn moreover provide
+aggregate content news portal search engine necessarily
+direct end user usually integrate feed html pagecombination javascript xmlajax technology used
+

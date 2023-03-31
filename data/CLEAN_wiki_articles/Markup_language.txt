@@ -1,0 +1,232 @@
+copyright
+
+markup language
+
+ school wikipedia selection related subject computer programming
+
+specialized markup language using sgml used writeelectronic version oxford english dictionary enables
+sophisticated query performed well easy translationhtml
+specialized markup language using sgml used writeelectronic version oxford english dictionary enables
+sophisticated query performed well easy translationhtml
+
+markup language combine text extra information text
+extra information example text structurepresentation expressed using markup intermingledprimary text bestknown markup language modern use html 
+hypertext markup language one foundation world wide
+web historically markup used publishing industry
+communication printed work author editorprinters
+
+class markup languages
+
+markup language often divided three class presentational
+procedural descriptive
+
+presentational markup
+
+presentational markup attempt infer document structurecue encoding example text file titledocument might preceded several newlines andor space thus
+suggesting leading spacing centering wordprocessing desktop
+publishing product sometimes attempt deduce structureconvention enormous variety wiki plaintext
+convention prove yet unresolved problem
+
+procedural markup
+
+procedural markup typically also focused presentationtext usually visible user editing text fileexpected interpreted software orderappears format title succession formatting directive would
+inserted file immediately title text
+instructing software switch centered display mode enlarge
+embolden typeface title text would followeddirective reverse effect advanced system macrostack model make tedious case procedural
+markup capability comprise turingcomplete programming language
+example proceduralmarkup system include nroff troff tex lout
+postscript procedural markup widely used professional
+publishing application professional typographerexpected learn language required
+
+descriptive markup
+
+descriptive markup semantic markup applies label fragmenttext without necessarily mandating particular displayprocessing semantics example atom syndication language
+provides markup label updated timestampassertion publisher item informationlast changed atom specification discus meaningupdated timestamp specifies markup used identifymake assertion whether might presenteduser software might put markup variety including
+many foreseen designer atom language sgml xml
+system explicitly designed support design descriptive
+markup languages
+
+practice class markup usually cooccur given
+system example html contains markup element purely
+procedural example bold others purely
+descriptive blockquote href attribute html also
+includes pre element encloses area presentational markup
+laid exactly typed
+
+set markup element rule use commonly developed
+standard body support kind document usedparticular industry community one earliestcals used military technical manual industrylargescale documentation requirement soon followed suit developing
+tagsets aircraft telecommunication automotive computer
+hardware manual led delivering many manual solelyelectronic form company able produce printed online
+cdbased manual single descriptive markup sourcenotable example sun microsystems jon bosak later
+founded xml committee decided sgml multitarget
+documentation delivery achieving considerable cost savings
+
+markup language abound among widely known docbook
+mathml svg open ebook tei xbrl many various kindtext document specialized language used manydomains
+
+generic markup another term descriptive markup modern
+descriptive markup system structure document tree also
+providing mean embedding crossreferencesdocument readily treated database database
+system aware structure notblobs paststrict schema relational database however
+commonly calledsemistructured databases
+
+third millennium great interest arisen document
+structure tree example ancient sacred
+literature commonly rhetorical prose structure stories
+pericopes paragraph well reference structure
+book chapter verse line since boundary units
+often cross cannot readily encoded using treestructured
+markup system among document modeling system supportstructure mecs developed encoding work wittgenstein
+aspect tei guideline lmnl clix
+
+primary virtue descriptive markup consideredflexibility fragment text labeledopposed displayed software may written
+process fragment useful way anticipateddesigner language example html hyperlink originally
+designed activation human following link also widely
+used web search engine discovering new material index
+estimating popularity web resources
+
+descriptive markup also facilitates simpler task reformattingdocument needed format specification intertwined
+content example italic might used emphasis
+indicate foreign word however merely tagged
+presentationally procedurally italic ambiguity cannot
+readily sorted decision later made italicize
+foreign word nothing review italic
+portion sort one one however two casedescriptively generically tagged differently begin either
+reformatted without interfering
+history
+
+term markup derived traditional publishing practice
+marking manuscript adding symbolic printers
+instruction margin paper manuscript centurytask done specialist known markup men proofreadermarked text indicate typeface style sizeapplied part handed manuscript someone
+else tedious task typesetting hand familiar examplemanual markup symbol still use proofreader marksubset larger vocabulary handwritten markup symbols
+
+gencode
+
+idea markup language apparently first presentedpublishing executive william tunnicliffe conference 
+although preferred call generic coding tunnicliffe would
+later lead development standard called gencodepublishing industry book designer stanley fish also published
+speculation along similar line late brian reiddissertation carnegie mellon university developed theory
+working implementation descriptive markup actual use
+however ibm researcher charles goldfarb commonly seen todayfather markup language work ibm gmlchair international organization standardization
+committee developed sgml first widely used descriptive markup
+system goldfarb hit upon basic idea working early
+project help newspaper computerize workflow althoughpublished record doe clarify later became familiarwork tunnicliffe fish heard early talk reidsparked interest
+
+must noted detail early history descriptive
+markup language hotly debated however clearnotion independently discovered several time throughoutpossibly late became important practicelate
+early example markup language available outsidepublishing industry found typesetting tool unix systems
+troff nroff system formatting commandinserted document text typesetting software could
+format text according editor specification watrial error iterative process get document printed correctly
+availability wysiwyg see get publishing
+software supplanted much use language among casual users
+though serious publishing work still markup specifynonvisual structure texts
+
+tex
+
+another major publishing standard tex created continuously
+refined donald knuth tex concentrateddetailed layout text font description order typeset
+mathematical book professional quality required knuthspend considerable time investigating art typesetting however
+tex requires considerable skill user mainly
+used academia defacto standard many scientific
+discipline tex macro package known latex provides descriptive
+markup system top tex widely used
+
+sgml
+
+first language make clear clean distinctionstructure presentation certainly scribe developed brian
+reid described doctoral thesis inscriberevolutionary number way least introducedidea style separated marked document grammar
+controlling usage descriptive element scribe influenceddevelopment generalized markup language later sgml direct
+ancestor html latex
+
+early idea markup focusedstructural aspect document leave visual presentationstructure interpreter led creation sgmllanguage developed committee chaired goldfarbincorporated idea many different source including tunnicliffes
+project gencode sharon adler anders berglund james mason
+also key member sgml committee
+
+sgml specified syntax including markup document well
+one separately describing tag alloweddocument type definitiondtd schema allowed authorcreate use markup wished selecting tag madesense named natural language thus
+sgml properly metalanguage many particular markup languages
+derived late substantial new markup
+language based sgml system including example teidocbook sgml promulgated international standardinternational organization standardization isoin 
+
+sgml found wide acceptance use field largescale
+documentation requirement however generally foundcumbersome difficult learn side effect attemptingmuch flexible example sgml made end tagstarttags even optional certain contextthought markup would done manually overworked support staff
+would appreciate saving keystrokes
+
+html
+
+byit appeared many sgml would limited commercial
+databased application wysiwyg tool stored documents
+proprietary binary format would suffice document
+processing applications
+
+situation changed sir tim bernerslee learning sgmlcoworker anders berglund others cern used sgml syntaxcreate html html resembles sgmlbased tag language althoughbegan simpler formal dtd developedlater derose argues html use descriptive markup sgmlparticular major factor success webflexibility extensibility enabled factors
+include notion url free distribution browser html
+quite likely used markup language world today
+
+however html status markup language disputedcomputer scientist argument html restrictsplacement tag requiring either fully nested insidetag root tag documentscientist would suggest instead html container language
+following hierarchical model
+
+xml
+
+another newer markup language widely used xml
+extensible markup language xml developed world wide web
+consortium committee created chaired jon bosak main
+purpose xml simplify sgml focusing particular problem
+document internet xml remains metalanguage like sgml
+allowing user create tag needed hence extensibledescribing tag permitted uses
+
+xml adoption helped every xml document also sgml
+document existing sgml user software could switch xml
+fairly easily however xml eliminated many complex
+feature sgml easing learning implementation increasing
+markup size reducing readability improvement rectified
+sgml problem international setting made possibleparse interpret document hierarchy even schema available
+
+xml designed primarily semistructured environmentdocument publication however appeared hit sweet spot
+simplicity flexibility rapidly adopted many
+us xml widely used communicating dataapplications
+
+xhtml
+
+since januaryall recommendation html basedxml rather sgml using abbrebiation xhtml extensible
+hypertext markup language language specification requiresxhtml web document must wellformed xml documentsthis allows
+rigorous robust document using tag familiarhtml
+
+one noticeable difference html xhtmlrule tag must closed empty html tag must
+either closed regular endtag replaced special
+form brnote must space theon end
+tag otherwise tag valid sgml anotherattribute value tag must quoted
+
+xmlbased applications
+
+many xmlbased application exist including rdf xforms docbook
+soap web ontology language owl partial listsee list xml markup languages
+
+features
+
+common feature many markup language intermixtext document markup instruction data streamfile example small section text marked html
+h anatidae p
+family ianatidaei includes duck goose swans
+emnotem closelyrelated screamers
+p
+
+code enclosed anglebrackets like markup
+instruction known tag text instructions
+actual text document code p emexample structural markup describe intended
+purpose meaning text include specifically means
+firstlevel heading mean paragraphem mean emphasized word device readingstructural markup may apply rule style presentingusing larger type boldface indentation whatever style prefers
+instruction example presentational markupspecifies exact appearance text case useitalic typeface without specifying reason appearance
+
+text encoding initiative tei published extensive guidelines
+encode text interest humanity social
+science developed year international cooperative work
+guideline used countless project encoding historical
+document work particular scholar period genre
+alternative usage
+
+idea markup language originated text documentincreasing usage markup language area like vector
+graphic web service content syndication user interfacexml application clean wellformatted
+extensible language use xml also led possibility
+combining multiple markup language single profile like
+xhtmlsmil xhtmlmathmlsvg 
+

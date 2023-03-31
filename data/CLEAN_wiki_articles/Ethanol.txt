@@ -1,0 +1,561 @@
+copyright
+
+ethanol
+
+ school wikipedia selection related subject chemical compounds
+
+ethanol
+ethanol ethanol
+general
+systematic nameethanol
+namesethyl alcohol
+grain alcohol
+hydroxyethane
+etoh
+molecular formulacho
+smilescco
+molar massgmol
+appearancecolourless clear liquid
+ca number
+properties
+density phasegcm liquid
+solubility waterfully miscible
+melting pointck
+boiling pointck
+acidity pkah group
+viscosityc atc
+dipole momentd gas
+hazards
+msdsexternal msds
+eu classificationflammable nfpa 
+
+
+
+
+
+rphrasesr
+sphrasessflash pointcf
+rtecs numberkq
+supplementary data page
+structureproperties r etc
+thermodynamic dataphase behaviour
+solid liquid gas
+spectral datauv nmr related compounds
+related alcoholsmethanol propanol
+heteroatomsethylamine ethyl chloride
+ethyl bromide ethanethiol
+substituted ethanolsethylene glycol ethanolamine
+chloroethanol
+compoundsacetaldehyde acetic acid
+except noted otherwise data givenmaterial standard state ckpa
+infobox disclaimer references
+
+ethanol also known ethyl alcohol grain alcohol flammable
+colorless mildly toxic chemical compound distinctive
+perfumelike odour alcohol found alcoholic beveragecommon usage often referred simply alcohol molecular
+formula variously represented etoh chohempirical formula cho
+
+history
+
+ethanol used human since prehistory intoxicating
+ingredient alcoholic beverage dried residue yearold
+pottery found northern mainland china imply use alcoholic
+beverage even among neolithic people isolation relatively
+pure compound first achieved persian alchemist developed
+art distillation abbasid caliphate notable
+wa alrazi writing attributed jabir ibn hayyan
+gebermention flammable vapor boiled wine alkind
+unambiguously described distillation wine
+distillation ethanol water yield productethanol ethanol form azeotrope water absolute
+ethanol first obtained inby johann tobias lowitzfiltering distilled ethanol charcoal
+
+antoine lavoisier described ethanol compound carbon hydrogen
+oxygen innicolasthodore saussure determined
+ethanol chemical formula fifty year later inarchibald
+scott couper published structural formula ethanol places
+ethanol among first chemical compound chemical
+structure determined
+
+ethanol first prepared synthetically inthroughindependent effort henry hennel great britain srullas
+france michael faraday prepared ethanol acidcatalysed
+hydration ethylene inin process similar usedindustrial ethanol synthesis today
+
+ethanol served lamp fuel precivil war united state helped
+power early model automobile fuel couldnt competelow cost availability petroleum ethanol fadedpublic eye recent rise oil price spurred renewed interest
+
+physical properties
+
+ethanol hydroxyl group able participate hydrogen bondingmolecular level liquid ethanol consists hydrogenbonded pairs
+ethanol molecule phenomenon render ethanol viscousle volatile polar organic compound similar molecular
+weight vapor phase little hydrogen bonding ethanol
+vapor consists individual ethanol molecules
+
+ethanol refractive index 
+
+ethanol versatile solvent miscible waterorganic liquid including nonpolar liquid aliphatic
+hydrocarbon organic solid low molecular weight usually
+soluble ethanol among ionic compound many monovalent saltleast somewhat soluble ethanol salt large polarizable
+ion soluble salt smaller ion saltpolyvalent ion practically insoluble ethanol
+
+furthermore ethanol used solvent dissolving medicine food
+flavouring colouring dissolve easily waternonpolar material dissolved ethanol water added
+prepare solution mostly water ethanol molecule hawaterlovinghydrophilic group help dissolve polar
+molecule ionic substance short waterfearinghydrophobic
+hydrocarbon chain chch attract nonpolar molecule thus
+ethanol dissolve polar nonpolar substances
+
+several unusual phenomenon associated mixture ethanolwater ethanolwater mixture volume individual
+component mixture equal volume ethanol water 
+volume equal part ethanol water unmixed addition
+even percent ethanol water sharply reduces surface
+tension water property partially explains tear wine
+phenomenon wine swirled inside glass ethanol evaporates
+quickly thin film wine wall glassethanol content decrease surface tension increase thin
+film bead run glass channel rathersmooth sheet
+
+chemistry
+
+chemical formula ethanol carbon dash single bond hydrogen oxygen
+enlarge
+chemical formula ethanol carbon dash single bond hydrogen oxygen
+
+chemistry ethanol largely hydroxyl group
+
+acidbase chemistry
+
+ethanol hydroxyl proton weakly acidic even weaker
+acid water ethanol quantitatively convertedconjugate base ethoxide ion chcho reactionalkali metal sodium reaction evolves hydrogen gas
+
+chchohnachchonah
+
+nucleophilic substitution
+
+aprotic solvent ethanol reacts hydrogen halide produce
+ethyl halide ethyl chloride ethyl bromide via nucleophilic
+substitution
+
+chchohhclchchclho
+
+chchohhbrchchbrho
+
+ethyl halide also produced reacting ethanolspecialized halogenating agent thionyl chloride preparing
+ethyl chloride phosphorus tribromide preparing ethyl bromide
+
+esterification
+
+acidcatalysed condition ethanol reacts carboxylic acids
+produce ethyl ester water
+
+rcoohhochchrcoochchho
+
+reverse reaction hydrolysis resulting ester back ethanol
+carboxylic acid limit extent reaction high yields
+unusual unless water removed reaction mixtureformed esterification also carried using reactive
+derivative carboxylic acid acyl chloride acid
+anhydride
+
+ethanol also form ester inorganic acid diethyl sulfatetriethyl phosphate prepared reacting ethanol sulfuricphosphoric acid respectively useful ethylating agentorganic synthesis ethyl nitrite prepared reaction ethanol
+sodium nitrite sulfuric acid formerly widelyused
+diuretic
+
+dehydration
+
+strong acid sulfuric acid catalyse ethanol dehydration
+form either diethyl ether ethylene
+
+chchohchchochchho
+
+chchohhcchho
+
+product diethyl ether ethylene predominates dependsprecise reaction conditions
+
+oxidation
+
+ethanol oxidized acetaldehyde oxidized acetic
+acid human body oxidation reaction catalysedenzyme laboratory aqueous solution strong oxidizing
+agent chromic acid potassium permanganate oxidize ethanol
+acetic acid difficult stop reactionacetaldehyde high yield ethanol oxidized acetaldehyde
+without overoxidation acetic acid reacting pyridinium
+chromic chloride
+
+combustion
+
+ethanol combusting confines evaporating dish
+enlarge
+ethanol combusting confines evaporating dish
+
+combustion ethanol form carbon dioxide water
+
+chohocoho
+
+production
+
+denatured ethanol sold bottle household use
+enlarge
+denatured ethanol sold bottle household use
+
+ethanol produced petrochemical hydrationethylene biologically fermenting sugar yeast
+
+ethylene hydration
+
+ethanol use industrial feedstock often madepetrochemical feedstock typically acid catalyzed hydrationethene represented chemical equation
+
+chhochchoh
+
+catalyst commonly phosphoric acid adsorbed onto porous
+support diatomaceous earth charcoal catalyst first
+used largescale ethanol production shell oil companysolid catalyst mostly various metal oxide alsomentioned chemical literature
+
+older process first practiced industrial scale inby
+union carbide almost entirely obsolete ethene hydrated
+indirectly reacting concentrated sulfuric acid product
+ethyl sulfate hydrolysed yield ethanolregenerate sulfuric acid
+
+chhsochchsoh
+
+chchsohhochchohhso
+
+fermentation
+
+ethanol use alcoholic beverage vast majorityethanol use fuel produced fermentation certain
+specie yeast importantly saccharomyces cerevisiae
+metabolize sugar absence oxygen produce ethanolcarbon dioxide overall chemical reaction conducted yeast
+may represented chemical equation
+
+chochchohco
+
+process culturing yeast condition produce alcoholreferred brewing brewing produce relatively dilute
+concentration ethanol water concentrated ethanol solutiontoxic yeast ethanoltolerant strain yeast survive
+aboutethanol volume
+
+fermentation process important prevent oxygen
+getting ethanol since otherwise ethanol would oxidised
+acetic acid vinegar also presence oxygen yeast
+would undergo aerobic respiration produce carbon dioxidewater without producing ethanol
+
+order produce ethanol starchy material cereal
+grain starch must first broken sugar brewing
+beer traditionally accomplished allowing graingerminate malt process germination seed produces
+enzyme break starch sugar fuel ethanolhydrolysis starch glucose accomplished rapidlytreatment dilute sulfuric acid fungal amylase enzymecombination two
+
+petroleum price like prevailed muchethylene hydration decidedly economical processfermentation producing purified ethanol recent increasepetroleum price coupled perennial uncertainty agricultural
+price make forecasting relative production cost fermented
+versus petrochemical ethanol difficult present time
+
+purification
+
+near infrared spectrum liquid ethanol
+enlarge
+near infrared spectrum liquid ethanol
+
+product either ethylene hydration brewing ethanolwater
+mixture industrial fuel ethanol mustpurified fractional distillation concentrate ethanol 
+volume mixture ofethanol andwater percentageweight azeotrope boiling point ofc cannotpurified distillation thereforeethanol waterfairly common solvent
+
+distillation ethanol purified drying using
+lime salt limecalcium oxide mixed waterethanol form calcium hydroxide separated dry
+salt dissolve water content ethanolpass leaving purer alcohol
+
+several approach used produce absolute ethanolethanolwater azeotrope broken addition small
+quantity benzene benzene ethanol water form ternary
+azeotrope boiling point ofc since azeotropevolatile ethanolwater azeotrope fractionally
+distilled ethanolwater mixture extracting essentiallywater process bottom distillationanhydrous ethanol several part per million residual benzene
+benzene toxic human cyclohexane largely supplanted
+benzene role entrainer process
+
+alternatively molecular sieve used selectively absorbwater theethanol solution synthetic zeolite pellet form
+used well variety plantderived absorbents
+including cornmeal straw sawdust zeolite bedregenerated essentially unlimited number time dryingblast hot carbon dioxide cornmeal plantderived
+absorbent cannot readily regenerated ethanol made
+grain often available low cost absolute ethanol
+produced way residual benzene used fueldiluted even used fortify port sherrytraditional winery operations
+
+pressure atmospheric pressure compositionethanolwater azeotrope shift ethanolrich mixturepressure thantorrkpathere azeotropepossible distill absolute ethanol ethanolwater mixture
+vacuum distillation ethanol presently economical
+pressureswing distillation topic current researchtechnique reducedpressure distillation first yieldethanolwater mixture thanethanol fractional
+distillation mixture atmospheric pressure distillsazeotrope leaving anhydrous ethanol bottoms
+
+prospective technologies
+
+glucose fermentation ethanol also obtainedcellulose recently however cost cellulase enzymes
+could hydrolyse cellulose prohibitive canadian firm
+iogen brought first cellulosebased ethanol plant onstreamprimary consumer thus far canadian government
+along united state government particularlydepartment energy national renewable energy laboratoryinvested million dollar assisting commercializationcellulosic ethanol realization technology would turn number
+cellulosecontaining agricultural byproduct corncobs
+straw sawdust renewable energy resources
+
+cellulosic material typically contain addition cellulosepolysaccharide including hemicellulose hydrolysed
+hemicellulose break mostly fivecarbon sugarxylose cerevisiae yeast commonly used ethanol
+production cannot metabolize xylose yeast bacteriainvestigation metabolize xylose improve ethanol
+yield cellulosic material
+
+anaerobic bacterium clostridium ljungdahlii recently discoveredcommercial chicken waste produce ethanol singlecarbon
+source including synthesis gas mixture carbon monoxidehydrogen generated partial combustion either
+fossil fuel biomass use bacteria produce ethanolsynthesis gas progressed pilot plant stage bri energy
+facility fayetteville arkansas bri process heat
+released gasification used coproduce electricityethanol
+
+another prospective technology closedloop ethanol plant
+ethanol produced corn number critic suggestprimarily recycled fossil fuel energy required
+grow grain convert ethanol however closedloop
+ethanol plant attempt address criticism closedloop
+plant energy distillation come fermented manure
+produced cattle fed byproductdistillation leftover manure used fertilize soil
+used grow grain process expected much lower
+fossil fuel requirement
+
+ethanol
+
+denatured alcohol
+
+jurisdiction sale ethanol pure substanceform alcoholic beverage heavily taxed order relieve
+nonbeverage industry tax burden government specify
+formulation denatured alcohol consists ethanol blended
+various additive render unfit human consumptionadditive called denaturant generally either toxicmethanol unpleasant taste odour denatonium
+benzoate
+
+specialty denatured alcohol denatured alcohol formulations
+intended particular industrial use containing denaturant chosen
+interfere use taxed
+purchaser specialty denatured alcohol mustgovernmentissued permit particular formulation usemust comply regulations
+
+completely denatured alcohol formulation purchased
+legal purpose without permit bond regulatory
+compliance intended difficult isolate product
+fit human consumption completely denatured alcoholexample completely denatured alcohol formulation usedunited kingdom contains volumeethanolmethanol
+pyridinenaphtha dyed purple methyl violet
+
+hydrous anhydrous ethanol
+
+hydrous anhydrous ethanol term used describe ethanoltype process used covert biomass fuel different
+price anhydrous hydrous ethanol depending market
+demands
+
+term hydrous pyrolysis sometimes used encompass thermolysis
+presence water steam cracking oilgenerally hydrous pyrolysis example latter thermal
+depolymerization organic waste light crude oil
+
+anhydrous without water pyrolysis used produce liquid fuel
+similar diesel solid biomass common technique uses
+low residence timesseconds high heating rate usingtemperature betweenc called either fast flash
+pyrolysis
+
+anhydrous alcohol also produced hydrous alcohol
+using drying agent like molecular sieve azeotropic
+distillation extractive distillation techniques
+
+absolute ethanol
+
+absolute anhydrous alcohol generally refers purified ethanol
+containing one percent water
+
+possible obtain absolute alcohol simple fractional
+distillation mixture containing aroundalcoholwater becomes constant boiling mixture azeotropic mixture
+one common industrial method obtainpure alcohol small
+quantity benzene added rectified spirit mixturedistilled absolute alcohol obtained third fractiondistills atck
+
+small amount benzene used remains solution
+absolute alcohol produced method suitableconsumption benzene carcinogenic
+
+also absolute alcohol production process desiccation
+using glycerol alcohol produced method knownspectroscopic alcoholso called absence benzene makes
+suitable solvent spectroscopy
+
+currently popular method purification pastpuritydesiccation using adsorbent starch zeolite adsorb
+water preferentially
+
+feedstocks
+
+currently main feedstock united state productionethanol corn see renewable fuel association list ethanol complete list feedstock utilized approximately 
+gallon ethanol produced one bushel corn muchcorn turn ethanol corn also yield byproducts
+ddgs distiller dried grain solubles used
+fullfill portion diet livestock bushel corn
+produce aboutpounds ddgs 
+
+trial new crop switchgrass showing much greater yields
+
+dominant ethanol feedstock warmer region sugarcane
+
+part europe particularly france italy wine usedfeedstock due massive oversupply
+
+use
+
+fuel
+
+largest single use ethanol motor fuel fuel additive
+largest national fuel ethanol industry exist brazil fuel
+sold brazil contains leastethanol one method production
+fermentation sugar ethanol creates little pollution
+burnedhowever production process actuallydetrimental environment million acre land needed
+ethanol used replace gasoline pure ethanol lower
+energy content gasoline aboutless energy per unit volume
+gas station ethanol contained mix ethanol gasoline
+otherwise known gasohol united state color yellow
+symbolizing colour corn become associated fuel
+commonly used fuel pump labels
+
+according renewable fuel association november
+grain ethanol biorefineries united state capacityproducebillion gallon ethanol additionalconstruction
+project underway addbillion gallon new
+capacity nextmonths time beleivedmaterial portion thebillion gallon per year marketgasoline begin replaced fuel ethanol growth fuel
+ethanol united state largely driven financial
+incentive naturally exist oil price certain
+level ethanol typically cost underper gallon manufacture
+course sensitive corn price exemptper gallon federal gasoline tax however united state rfs
+renewable fuel standard requires thatbillion gallon renewable
+fuel used inand requirement grow tobillion
+gallon per annum
+alcoholic beverages
+
+alcoholic beverage vary considerably ethanol contentfoodstuff produced alcoholic beverages
+broadly classified fermented beverage beverage madeaction yeast sugary foodstuff distilled beverages
+beverage whose preparation involves concentrating ethanolfermented beverage distillation ethanol content beverage
+usually measured term volume fraction ethanolbeverage expressed either percentage alcoholic proof units
+
+fermented beverage broadly classified foodstufffermented beer made cereal grainstarchy material wine cider fruit juice meadhoney culture around world made fermented beveragenumerous foodstuff local national name various
+fermented beverage abound fermented beverage may containethanol volume upper limit set yeasts
+tolerance ethanol amount sugar starting
+material
+
+distilled beverage made distilling fermented beverage broad
+category distilled beverage include whisky distilledfermented cereal grain brandy distilled fermented fruit
+juice rum distilled fermented molasses sugarcane juice
+vodka similar neutral grain spirit distilledfermented material grain potato common spirits
+thoroughly distilled taste particular starting
+material remain numerous spirit liqueur preparedinfusing flavour fruit herb spice distilled
+spirit traditional example gin infusion juniper berries
+neutral grain alcohol
+
+beverage ethanol concentrated meandistillation applejack traditionally made freeze distillation
+water frozen fermented apple cider leavingethanolrich liquid behind fortified wine prepared adding
+brandy distilled spirit partiallyfermented winekill yeast conserve sugar grape juicebeverage ethanolrich also sweeterwines
+
+chemical derived ethanol
+
+ethyl esters
+
+presence acid catalyst typically sulfuric acid ethanol
+reacts carboxylic acid produce ethyl esters
+
+chchohrcoohrcoochchho
+
+two largestvolume ethyl ester ethyl acrylate ethanol
+acrylic acid ethyl acetate ethanol acetic acid
+ethyl acrylate monomer used prepare acrylate polymer use
+coating adhesive ethyl acetate common solvent usedpaint coating pharmaceutical industry familiar
+application household solvent nail polish variety
+ethyl ester used much smaller volume artificial
+fruit flavorings
+
+vinegar
+
+vinegar dilute solution acetic acid prepared actionacetobacter bacteria ethanol solution although traditionally
+prepared alcoholic beverage including wine apple ciderunhopped beer vinegar also made solution industrial
+ethanol vinegar made distilled ethanol called distilled
+vinegar commonly used food pickling condiment
+
+ethylamines
+
+heated toc silica aluminasupported nickel
+catalyst ethanol ammonia react produce ethylaminereaction lead diethylamine triethylamine
+
+chchohnhchchnhho
+chchohchchnhchchnhho
+chchohchchnhchchnho
+
+ethylamines find use synthesis pharmaceuticals
+agricultural chemical surfactants
+
+chemicals
+
+ethanol past used commercially synthesize dozenhighvolume chemical commodity present hasupplanted many application costly petrochemical
+feedstock however market abundant agricultural products
+le developed petrochemical infrastructure peoples
+republic china pakistan india brazil ethanol usedproduce chemical would produced petroleum west
+including ethylene butadiene
+
+uses
+
+ethanol easily soluble water proportion slight
+overall decrease volume two mixed absolute ethanolethanol good solvent somewhat polarwater used perfume paint tincture proportionethanol water solvent also used solvent
+alcoholic drink large variety taste various flavor
+compound dissolved brewing ethanol producedmixing beverage neutral grain spirit
+
+ethanol used medical wipe common antibacterial hand
+sanitizer gel concentration aboutpercentage weight
+volume antiseptic peak disinfecting power occurs
+aroundethanol stronger weaker solution ethanollessened ability disinfect solution strength often
+used laboratory disinfecting work surface ethanol kills
+organism denaturing protein dissolving lipideffective bacteria fungi many virusineffective bacterial spore alcohol doe act likeantibiotic effective infection ingestion
+ethanol low concentration typically found alcoholic
+beverage doe useful disinfectant antiseptic properties
+internally externally
+
+wine thanethanol cannot protect bacteria
+port often fortified ethanol least 
+ethanol volume halt fermentation retaining sweetnesspreparation aging point becomes possible prevent
+invasion bacteria port store port long
+period time wooden container breathe thereby
+permitting port age safely without spoilingethanol disinfectant property alcoholic beverage ofethanolvolume safely stored long time
+
+metabolism toxicology
+
+pure ethanol tasteless liquid strong distinctive odour
+produce characteristic heatlike sensation broughtcontact tongue mucous membrane applied open
+wound disinfection produce strong stinging sensation
+pure highly concentrated ethanol may permanently damage living
+tissue contact ethanol applied unbroken skin cool skin
+rapidly evaporation
+
+human body ethanol first oxidized acetaldehydeacetic acid first step catalysed enzyme alcohol
+dehydrogenase second acetaldehyde dehydrogenaseindividual effective form one enzymes
+experience severe symptom ethanol consumptionothers conversely acquired ethanol tolerancegreater quantity enzyme metabolize ethanol rapidly
+
+bac mgdlsymptoms
+euphoria talkativeness relaxation
+central nervous system depression impaired motor sensory
+function impaired cognition
+decreased blood flow brain
+stupefaction possible unconsciousness
+possible death
+death highly likely
+
+amount ethanol body typically quanitified blood
+alcohol content bac milligram ethanol permillilitersblood table right summarizes symptom ethanol
+consumption small dos ethanol generally produce euphoriarelaxation people experiencing symptom tend become talkative
+le inhibited may exhibit poor judgment higher dosages
+bacethanol act central nervous system depressant
+producing progressively higher dosage impaired sensory motor
+function slowed cognition stupefaction unconsciousness possible
+death
+
+initial product ethanol metabolism acetaldehyde toxic
+ethanol body quickly detoxify acetaldehydereaction glutathione similar thiolcontaining biomolecules
+acetaldehyde produced beyond capacity bodys
+glutathione supply detoxify accumulates bloodstream
+oxidized acetic acid headache nauseamalaise associated alcohol hangover stem combinationdehydration acetaldehyde poisoning many health conditions
+associated chronic ethanol abuse including liver cirrhosis
+alcoholism form cancer linked acetaldehyde
+judicial system united state number jurisdictions
+promoted use disulfiram known antabuse persons
+convicted driving alcohol intoxicated disulfuram interferes
+hepatic acetaldehyde metabolism exacerbating discomforts
+noted numerous death said related disulfuram use led
+elimination courtbased program medications
+including paracetamolacetaminophen well exposureorganochlorides deplete body glutathione supply enhancing
+acute longterm risk even moderate ethanol
+consumption frequent use alcoholic beverage also shownmajor contributing factor case elevated blood leveltriglycerides
+
+ethanol shown increase growth acinetobacter
+baumannii bacterium responsible pneumonia meningitisurinary tract infection finding may contradict common
+misconception drinking alcohol could kill budding infection
+smith snyder 
+
+hazards
+
+ethanolwater solution greater aboutethanol volume
+flammable easily ignited ethanolwater solution 
+ethanol volume may also flammable solutionvaporized heating cooking method call wine
+added hot pan causing flash boil vapor
+ignited burn excessive alcohol
+

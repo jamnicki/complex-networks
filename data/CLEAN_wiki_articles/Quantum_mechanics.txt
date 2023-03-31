@@ -1,0 +1,383 @@
+copyright
+
+quantum mechanics
+
+ school wikipedia selection related subject general physics
+
+figthe wavefunctions electron hydrogen atom possessing
+definite energy increasing downward angular momentum
+increasing across brighter area correspond higher
+probability density position measurement wavefunctions like
+directly comparable chladnis figure acoustic modevibration classical physic indeed mode oscillationwell posse sharp energy thus sharp frequencyangular momentum energy quantized take discrete
+value like shown case resonant frequencyacoustics
+enlarge
+figthe wavefunctions electron hydrogen atom possessing
+definite energy increasing downward angular momentum
+increasing across brighter area correspond higher
+probability density position measurement wavefunctions like
+directly comparable chladnis figure acoustic modevibration classical physic indeed mode oscillationwell posse sharp energy thus sharp frequencyangular momentum energy quantized take discrete
+value like shown case resonant frequencyacoustics
+
+quantum mechanic fundamental branch theoretical physicreplaces classical mechanic classical electromagnetismatomic subatomic level underlying mathematical
+framework many field physic chemistry including condensed
+matter physic atomic physic molecular physic computational
+chemistry quantum chemistry particle physic nuclear physics
+along general relativity quantum mechanic one pillars
+modern physics
+
+introduction
+
+term quantum latin much refers discrete unittheory assigns certain physical quantity energyatom rest see figureat right discovery wave could
+measured particlelike small packet energy called quantum led
+branch physic deal atomic subatomic systems
+today call quantum mechanic foundation quantum
+mechanic established first half twentieth
+century werner heisenberg max planck louis broglie niels bohr
+erwin schrdinger max born john von neumann paul dirac albert
+einstein wolfgang pauli others fundamental aspecttheory still actively studied
+
+quantum mechanic fundamental theory newtonian mechanics
+classical electromagnetism sense provides accurate
+precise description many phenomenon classical
+theory simply cannot explain atomic subatomic levelnecessary use quantum mechanic understand behavioursystem atomic length scale smaller example newtonian
+mechanic governed working atom electron would rapidly
+travel towards collide nucleus however natural
+world electron normally remains stable orbit around nucleus
+seemingly defying classical electromagnetism
+
+quantum mechanic initially developed explain atom
+especially spectrum light emitted different atomic species
+quantum theory atom developed explanationelectron staying orbital could explainednewton law motion classical electromagnetism
+
+formalism quantum mechanic state system given
+time described complex wave function sometimes referredorbitals case atomic electron generally elements
+complex vector space abstract mathematical object allowscalculation probability outcome concrete experiments
+example allows one compute probability findingelectron particular region around nucleus particular
+time contrary classical mechanic one cannot ever make
+simultaneous prediction conjugate variable positionmomentum arbitrary accuracy instance electron mayconsidered located somewhere within region spaceexact position unknown contour constant probability
+often referred cloud may drawn around nucleusatom conceptualise electron might locatedprobability stressed electronspread cloud region either particular region
+space heisenberg uncertainty principle quantifies
+inability precisely locate particle
+
+exemplar led quantum mechanic studyelectromagnetic wave light found inby max
+planck energy wave could described consistingsmall packet quantum albert einstein exploited idea show
+electromagnetic wave light could describedparticle called photon discrete energy dependentfrequency led theory unity subatomic particles
+electromagnetic wave called waveparticle dualityparticle wave neither one certain
+property quantum mechanic describes worldsmall also needed explain certainmacroscopic quantum
+system superconductors superfluids
+
+broadly speaking quantum mechanic incorporates four classphenomenon classical physic cannot accountquantization discretization certain physical quantity waveparticle duality iii uncertainty principle quantum entanglement phenomenon describedgreater detail subsequent sections
+
+since early day quantum theory physicist made many
+attempt combine highly successful theorytwentieth century albert einstein general theory relativity
+quantum mechanic entirely consistent special relativity
+serious problem emerge one try join quantum lawgeneral relativity elaborate description spacetimeincorporates gravitation resolving inconsistency hamajor goal twentieth twentyfirstcentury physic despiteproposal many novel idea unification quantum
+mechanicswhich reign domain smalland general
+relativitya superb description largeremains tantalizing
+future possibility see quantum gravity string theory
+
+everything composed quantummechanical particlelaw classical physic must approximate law quantum
+mechanic appropriate limit often expressed saying
+case large quantum number quantum mechanic reducesclassical mechanic classical electromagnetism requirementcalled correspondence classical limit
+
+theory
+
+numerous mathematically equivalent formulation quantum
+mechanic one oldest commonly used formulationtransformation theory invented cambridge theoretical physicist paul
+dirac unifies generalizes two earliest formulationquantum mechanic matrix mechanic invented werner heisenbergwave mechanic invented erwin schrdinger
+
+formulation instantaneous state quantum system
+encodes probability measurable property 
+observables example observables include energy position
+momentum angular momentum observables either continuous
+eg position particle discrete energyelectron bound hydrogen atom
+
+generally quantum mechanic doe assign definite valueobservables instead make prediction probability
+distribution probability obtainingpossible outcome measuring observable naturallyprobability depend quantum state instantmeasurement however certain state associated
+definite value particular observable knowneigenstates observable eigen meaning germaneveryday world natural intuitive think everything
+eigenstate every observable everything appearsdefinite position definite momentum definite timeoccurrence however quantum mechanic doe pinpoint exact
+value position momentum certain particle given
+space finite time rather provides rangeprobability particle might therefore became
+necessary use different word state somethinguncertainty relation state definite valuelatter called eigenstate property measured
+
+concrete example useful let consider free
+particle quantum mechanic waveparticle dualityproperty particle described wave thereforequantum state represented wave arbitrary shapeextending space called wavefunction positionmomentum particle observables uncertainty principlequantum mechanic state position momentum cannot
+simultaneously known infinite precision time
+however measure position alone moving free
+particle creating eigenstate position wavefunctionlarge particular position zero everywhere elseperform position measurement wavefunction obtain
+result withprobability word knowposition free particle called eigenstateposition particle eigenstate positionmomentum completely unknown eigenstate momentumhand form plane wave shown wavelength
+equal h planck constant momentumeigenstate particle eigenstate momentumposition completely blurred
+usually system eigenstate whatever observable
+interested however measure observablewavefunction instantaneously eigenstate observable
+process known wavefunction collapse involves expanding
+system study include measurement devicedetailed quantum calculation would longer feasibleclassical description must used know wavefunctioninstant measurement able computeprobability collapsing possible eigenstatesexample free particle previous example usuallywavefunction wave packet centered around mean position
+x neither eigenstate position momentummeasure position particle impossible upredict certainty result obtain probable
+certain near amplitudewavefunction large perform measurement obtainingresult wavefunction collapse position eigenstate
+centered 
+wave function change time progress equation knownschrdinger equation describes wave function change timerole similar newton second law classical mechanicschrdinger equation applied free particle predictscentre wave packet move space constant velocity
+like classical particle force acting howeverwave packet also spread time progress meanposition becomes uncertain also effectturning position eigenstates thought infinitely
+sharp wave packet broadened wave packet longer
+position eigenstates
+
+wave function produce probability distribution constant
+time many system treated dynamically classical
+mechanic described static wave function examplesingle electron unexcited atom pictured classicallyparticle moving circular trajectory around atomic nucleus
+whereas quantum mechanic described static spherically
+symmetric wavefunction surrounding nucleus fignotelowest angular momentum state labeled spherically
+symmetric
+
+time evolution wave function deterministic sense
+given wavefunction initial time make definite
+prediction wavefunction later timemeasurement change wavefunction another onedeterministic rather unpredictable random
+
+probabilistic nature quantum mechanic thus stem act
+measurement one difficult aspect quantum
+system understand central topic famous
+bohreinstein debate two scientist attempted clarify
+fundamental principle way thought experimentdecade formulation quantum mechanic questionconstitutes measurement extensively studied
+interpretation quantum mechanic formulated away
+concept wavefunction collapse see examplerelative state interpretation basic idea quantum
+system interacts measuring apparatus respective
+wavefunctions become entangled original quantum system
+cease exist independent entity detail see article
+measurement quantum mechanics
+
+mathematical formulation
+
+mathematically rigorous formulation quantum mechanics
+developed paul dirac john von neumann possible statequantum mechanical system represented unit vector called
+state vector residing complex separable hilbert space
+variously called state space associated hilbert space
+system well defined complex number normthe phase
+factor word possible state pointprojectivization hilbert space exact nature hilbert
+space dependent system example state spaceposition momentum state space squareintegrable
+function state space spin single protonproduct two complex plane observable represented
+densely defined hermitian selfadjoint linear operator acting
+state space eigenstate observable correspondseigenvector operator associated eigenvalue corresponds
+value observable eigenstate operators
+spectrum discrete observable attain discrete
+eigenvalues
+
+time evolution quantum state described schrdinger
+equation hamiltonian operator correspondingtotal energy system generates time evolution
+
+inner product two state vector complex number known
+probability amplitude measurement probabilitysystem collapse given initial state particular
+eigenstate given square absolute valueprobability amplitude initial final statepossible result measurement eigenvalue operator 
+explains choice hermitian operatoreigenvalue real find probability distributionobservable given state computing spectral decompositioncorresponding operator heisenberg uncertainty principlerepresented statement operator correspondingcertain observables commute
+
+schrdinger equation act entire probability amplitudemerely absolute value whereas absolute valueprobability amplitude encodes information probabilityphase encodes information interference quantum
+state give rise wavelike behaviour quantum states
+
+turn analytic solution schrdingers equationavailable small number model hamiltoniansquantum harmonic oscillator particle boxhydrogenmolecular ion hydrogen atom important
+representative even helium atom contains oneelectron hydrogen defies attempt fully analytic
+treatment exist several technique generating approximate
+solution instance method known perturbation theory one
+us analytic result simple quantum mechanical modelgenerate result complicated model related simple
+model example addition weak potential energy another
+method semiclassical equation motion approachapplies system quantum mechanic produce weak deviations
+classical behaviour deviation calculated basedclassical motion approach important field quantum
+chaos
+
+alternative formulation quantum mechanic feynman path
+integral formulation quantummechanical amplitudeconsidered sum history initial final states
+quantummechanical counterpart action principleclassical mechanics
+
+interaction scientific theories
+
+fundamental rule quantum mechanic broad state
+state space system hilbert space observables
+hermitian operator acting space tell uhilbert space operator must chosen appropriatelyorder obtain quantitative description quantum systemimportant guide making choice correspondence
+principle state prediction quantum mechanics
+reduce classical physic system move higher
+energy equivalently larger quantum number high energy
+limit known classical correspondence limit onetherefore start established classical model particular
+system attempt guess underlying quantum model gives
+rise classical model correspondence limit
+unsolved problem physic correspondence limit quantum
+mechanic preferred interpretation quantum mechanics
+doe quantum description reality includes elements
+superposition state wavefunction collapse give
+rise reality perceive
+
+quantum mechanic originally formulated appliedmodel whose correspondence limit nonrelativistic classical
+mechanic instance wellknown model quantum harmonic
+oscillator explicitly nonrelativistic expressionkinetic energy oscillator thus quantum versionclassical harmonic oscillator
+
+early attempt merge quantum mechanic special relativity
+involved replacement schrdinger equation covariant
+equation kleingordon equation dirac equationtheory successful explaining many experimental results
+certain unsatisfactory quality stemming neglect
+relativistic creation annihilation particle fully
+relativistic quantum theory required development quantum field
+theory applies quantization field rather fixed set
+particle first complete quantum field theory quantum
+electrodynamics provides fully quantum descriptionelectromagnetic interaction
+
+full apparatus quantum field theory often unnecessarydescribing electrodynamic system simpler approach one employed
+since inception quantum mechanic treat charged particles
+quantum mechanical object acted classical
+electromagnetic field example elementary quantum modelhydrogen atom describes electric field hydrogen atom usingclassical frace epsilonfracr coulomb
+potential semiclassical approach fails quantum fluctuations
+electromagnetic field play important roleemission photon charged particles
+
+quantum field theory strong nuclear force weak
+nuclear force developed quantum field theorystrong nuclear force called quantum chromodynamics describes
+interaction subnuclear particle quark gluonweak nuclear force electromagnetic force unifiedquantized form single quantum field theory knownelectroweak theory
+
+ha proven difficult construct quantum model gravityremaining fundamental force semiclassical approximationworkable led prediction hawking radiation
+however formulation complete theory quantum gravityhindered apparent incompatibility general relativityaccurate theory gravity currently knownfundamental assumption quantum theory resolutionincompatibility area active research theorystring theory among possible candidate future theoryquantum gravity
+
+applications
+
+quantum mechanic enormous success explaining manyfeature world individual behaviour subatomic
+particle make form matterelectrons protons
+neutron photon forthcan often satisfactorily
+described using quantum mechanic quantum mechanic strongly
+influenced string theory candidate theory everything see
+reductionism also related statistical mechanics
+
+quantum mechanic important understanding individual atoms
+combine covalently form chemical molecule applicationquantum mechanic chemistry known quantum chemistry
+relativistic quantum mechanic principle mathematically
+describe chemistry quantum mechanic provide quantitative
+insight ionic covalent bonding process explicitly showing
+molecule energetically favorable othersapproximately much calculation performedcomputational chemistry rely quantum mechanics
+
+much modern technology operates scale quantum effectsignificant example include laser transistor electron
+microscope magnetic resonance imaging study semiconductors
+led invention diode transistorindispensable modern electronics
+
+researcher currently seeking robust method directly
+manipulating quantum state effort made develop quantum
+cryptography allow guaranteed secure transmissioninformation distant goal development quantum
+computer expected perform certain computational tasks
+exponentially faster classical computer another active research
+topic quantum teleportation deal technique transmit
+quantum state arbitrary distances
+
+philosophical consequences
+
+since inception many counterintuitive result quantum
+mechanic provoked strong philosophical debate many
+interpretation even fundamental issue max born basic rules
+concerning probability amplitude probability distribution took
+decade appreciated
+
+copenhagen interpretation due largely danish theoretical
+physicist niels bohr interpretation quantum mechanicwidely accepted amongst physicist according probabilistic
+nature quantum mechanic prediction cannot explained termdeterministic theory doe simply reflectlimited knowledge quantum mechanic provides probabilistic results
+physical universe probabilistic ratherdeterministic
+
+albert einstein one founder quantum theory
+disliked loss determinism measurement hence famous
+quote god doe play dice universe heldlocal hidden variable theory underlying quantum mechanics
+consequently present theory incomplete producedseries objection theory famous become
+known epr paradox john bell showed epr paradox ledexperimentally testable difference quantum mechanic local
+hidden variable theory experiment taken confirming
+quantum mechanic correct real world cannotdescribed term hidden variablespotential loopholeexperiment however mean question still quite
+settled
+
+writer lewis viewed incomplete notionindeterminism agree religious belief lewisprofessor english opinion heisenberg
+uncertainty principle epistemic limitationindication ontological indeterminacy respect believed
+similarly many advocate hidden variable theorybohreinstein debate provide vibrant critique copenhagen
+interpretation epistemological point view
+
+everett manyworlds interpretation formulated inholdspossibility described quantum theory simultaneously occur
+amultiverse composed mostly independent parallel universes
+accomplished introducing new axiom quantum
+mechanic contrary removing axiom collapsewave packet possible consistent state measured
+system measuring apparatus including observer present
+real physical formally mathematicalinterpretation quantum superposition superpositionconsistent state combination different system calledentangled state multiverse deterministic perceive
+nondeterministic behaviour governed probabilityobserve universe consistent state contributionmentioned superposition inhabit everetts interpretationperfectly consistent john bell experiment makeintuitively understandable however according theory quantum
+decoherence parallel universe never accessible making physically meaningless inaccessiblityunderstood follows measurement done measured system
+becomes entangled physicist measured huge
+number particle photon flying away
+towards end universe order prove wave
+function collapse one would bring particles
+back measure together system measured
+originally completely impractical even onetheoretically would destroy evidence original
+measurement took place including physicist memory
+
+history
+
+inthe german physicist max planck introduced ideaenergy quantized order derive formula observed
+frequency dependence energy emitted black body 
+einstein explained photoelectric effect postulating light
+energy come quantum called photon idea photonconsist energy term quantum remarkable achievementeffectively removed possibility black body radiation attaining
+infinite energy explained term wave forminbohr explained spectral line hydrogen atomusing quantization paper julyon constitutionatom molecule inthe french physicist louis broglie put
+forward theory matter wave stating particleexhibit wave characteristic vice versa
+
+theory though successful strictly phenomenological
+wa rigorous justification quantization aside perhaps
+henri poincars discussion planck theory hispaper
+sur thorie quantum collectively known old
+quantum theory
+
+phrase quantum physic first used johnston plancks
+universe light modern physics
+
+modern quantum mechanic born inwhen german physicist
+heisenberg developed matrix mechanic austrian physicist
+schrdinger invented wave mechanic nonrelativistic
+schrdinger equation schrdinger subsequently showed two
+approach equivalent
+
+heisenberg formulated uncertainty principle inandcopenhagen interpretation took shape time starting
+aroundpaul dirac began process unifying quantum mechanics
+special relativity proposing dirac equationelectron also pioneered use operator theory includinginfluential braket notation described famoustextbook
+period hungarian polymath john von neumann formulated
+rigorous mathematical basis quantum mechanic theorylinear operator hilbert space described likewise famous
+textbook like many work founding period
+still stand remain widely used
+
+field quantum chemistry pioneered physicist walter
+heitler fritz london published study covalent bondhydrogen molecule inquantum chemistry subsequently
+developed large number worker including american
+theoretical chemist linus pauling cal tech john slatervarious theory molecular orbital theory valence theory
+
+beginning inattempts made apply quantum mechanicfield rather single particle resulting knownquantum field theory early worker area included dirac
+pauli weisskopf jordan area research culminatedformulation quantum electrodynamics feynman dyson schwinger
+tomonaga quantum electrodynamics quantum
+theory electron positron electromagnetic fieldserved role model subsequent quantum field theories
+
+theory quantum chromodynamics formulated beginningearly theory know today formulated politzer
+gross wilzcek inbuilding pioneering work schwinger
+higgs goldstone glashow weinberg salam independently showedweak nuclear force quantum electrodynamics could mergedsingle electroweak force
+
+founding experiments
+
+thomas young doubleslit experiment demonstrating wave nature
+light henri becquerel discovers radioactivity 
+joseph john thomson cathode ray tube experiment discoverselectron negative charge 
+study black body radiation betweenandwhich
+could explained without quantum concepts
+photoelectric effect einstein explained inand
+later received nobel prize using concept photons
+particle light quantized energy
+robert millikan oildrop experiment showed electric
+charge occurs quantum whole unit 
+ernest rutherford gold foil experiment disproved plum pudding
+model atom suggested mass positive charge
+atom almost uniformly distributed 
+otto stern walther gerlach conduct sterngerlach
+experiment demonstrates quantized nature particle
+spin 
+clinton davisson lester germer demonstrate wave natureelectron electron diffraction experiment 
+clyde cowan frederick reines confirm existenceneutrino neutrino experiment 
+claus jnssons doubleslit experiment electron 
+quantum hall effect discovered inby klaus von klitzing
+quantized version hall effect alloweddefinition new practical standard electrical resistance
+extremely precise independent determination fine
+structure constant
+
+footnote
+
+especially since werner heisenberg awarded nobel prizephysic infor creation quantum mechanic rolemax born obfuscated abiography born detailrole creator matrix formulation quantum mechanics
+wa recognized paper heisenberg inhonoring max
+planck see nancy thorndike greenspan end certain
+world life science max born basic bookspp
+
+davissongermer experiment demonstrates wave
+nature electron
+

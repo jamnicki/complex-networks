@@ -1,0 +1,232 @@
+copyright
+
+list particles
+
+ school wikipedia selection related subject general physics
+
+list particle particle physic including currently
+known hypothetical elementary particle well composite
+particle built
+chronological listing subatomic particle discovery
+date see timeline particle discoveries
+
+new particle discovered first detection positron
+occurred inin cloud chamber built carl andersontrack positron seen going top bottom curving
+right
+enlarge
+new particle discovered first detection positron
+occurred inin cloud chamber built carl andersontrack positron seen going top bottom curving
+right
+
+elementary particles
+
+elementary particle particle measurable internal
+structure composite particlefundamental object quantum field theory elementary particles
+classified according spin fermionhalfinteger spin boson integer spin
+
+standard model
+
+standard model particle physic current understandingphysic elementary particle standard model particles
+except higgs boson observed
+
+fermion halfinteger spin
+
+quark structure protonup quark anddown quark
+enlarge
+quark structure protonup quark anddown quark
+
+fermion halfinteger spin known elementary fermioniseach fermion distinct antiparticle fermionbasic building block matter classified accordingwhether interact via colour force accordingstandard model areflavours elementary fermion six
+quark six leptons
+quark interact via colour force respective
+antiparticle known antiquark quark exist six
+flavours
+
+generation nameflavor electric chargee massmev antiquark
+utoantiup quark overlineu
+dtoantidown quark overlined
+strange stoantistrange quark overlines
+charm ctoanticharm quark overlinec
+bottom btoantibottom quark overlineb
+top tantitop quark overlinet
+
+lepton interact via colour force respective
+antiparticle known antilepton although antiparticle
+electron called positron historical reasons
+lepton also exist six flavours
+
+charged leptonantiparticle neutrinoantineutrino
+name symbol electric chargee massmev name symbol electric
+chargee massmev
+electronpositron eeelectron neutrino 
+electron antineutrino nueoverlinenue
+muon mumumuon neutrinomuon
+antineutrino numuoverlinenumu
+tau lepton tautautau neutrinotau
+antineutrino nutauoverlinenutau
+
+note neutrino mass known nonzeroneutrino oscillation mass sufficiently lightmeasured directly 
+
+boson integer spin
+
+boson whole number spin fundamental force naturemediated gauge boson mass hypothesized createdhiggs boson according standard model elementary boson
+namechargee spin massgevforce mediated
+photonelectromagnetism
+wweak nuclear
+zweak nuclear
+gluonstrong nuclear
+higgssee
+higgs boson spin predicted electroweak theorystandard model particle yet observed higgs mechanism
+standard model massive higgs boson createdspontaneous symmetry breaking higgs field intrinsic masses
+elementary particle particularly massive z
+boson would explained interaction field many
+physicist expect higgs discovered large hadron
+collider lhc particle accelerator construction cern
+
+hypothetical particles
+
+supersymmetric theory predict existence particle none
+confirmed experimentally 
+neutralino spin superposition superpartnersseveral neutral standard model particle leading candidate
+dark matter partner charged boson called
+charginos
+photino spin superpartner photon
+gravitino spin superpartner graviton
+boson supergravity theories
+sleptons squark spin supersymmetric partnerstandard model fermion stop squark superpartnertop quark thought low mass often subject
+experimental searches
+
+theory predict existence additional bosons
+graviton spin proposed mediate gravitytheory quantum gravity
+graviscalar spin graviphoton spin
+axion spin pseudoscalar particle introducedpecceiquinn theory solve strongcp problem
+saxion spin scalar parity axino spin parityform together axion supermultipletsupersymmetric extension pecceiquinn theory
+x boson boson predicted gut theoryheavier equivalent z
+magnetic photon
+sterile neutrino introduced many extension standard
+model may needed explain lsnd results
+mirror particle predicted theory restore parity
+symmetry
+
+magnetic monopole generic name particle nonzero
+magnetic charge predicted gut theories
+
+tachyon generic name hypothetical particle travel faster
+speed light imaginary rest mass
+
+preon suggested substructure quark leptonmodern collider experiment disproven existence
+
+composite particles
+
+hadrons
+
+hadron defined strongly interacting composite particles
+hadron either
+fermion case called baryons
+boson case called mesons
+
+quark model first proposed inindependently murray gellmann
+george zweig called quark ace describe known hadrons
+composed valence quark andor antiquark tightly boundcolour force mediated gluon sea virtual
+quarkantiquark pair also present hadron
+
+baryon fermions
+
+combination three squark total spin ofform
+socalled baryon decuplet
+enlarge
+combination three squark total spin ofform
+socalled baryon decuplet
+
+ordinary baryonsfermions contain three valence quark three
+valence antiquarknucleon fermionic constituent normal atomic nuclei
+protons
+neutrons
+hyperon theandparticles contain onestrange quark shortlived heavier nucleons
+although normally present atomic nucleus appearshortlived hypernuclei
+number charmed bottom baryon also observed
+
+hint existence exotic baryon found recently
+however negative result also reported existenceuncertain
+pentaquarks consist four valence quark one valence
+antiquark
+
+meson bosons
+
+meson spinform nonet
+enlarge
+meson spinform nonet
+
+ordinary mesonsbosons contain valence quark valence
+antiquark include pion kaon many typemeson quantum hadrodynamic model strong forcenucleon mediated mesons
+
+exotic meson may also exist positive signature reported
+particle time existence still
+somewhat uncertain
+tetraquarks consist two valence quark two valence
+antiquarks
+glueballs bound state gluon valence quarks
+hybrid consist one valence quarkantiquark pairone real gluons
+
+atomic nuclei
+
+atomic nucleus consist proton neutron type nucleus
+contains specific number proton specific numberneutron called nuclide isotope nuclear reactionchange one nuclide another see isotope table completelist isotopes
+
+atoms
+
+atom smallest neutral particle matterdivided chemical reaction atom consists small heavy
+nucleus surrounded relatively large light cloud electrons
+type atom corresponds specific chemical elementofficially named refer periodic tableoverview
+
+molecules
+
+molecule smallest particle nonelemental
+substance divided maintaining physical propertysubstance type molecule corresponds specific chemical
+compound molecule composite one atom see listcompound list molecules
+
+condensed matter
+
+field equation condensed matter physic remarkably similar
+high energy particle physic result muchtheory particle physic applies condensed matter physic well
+particular selection field excitation called
+quasiparticle created explored include
+phonons vibrational mode crystal lattice
+excitons bound state electron hole
+plasmons coherent excitation plasma
+polaritons mixture photon quasiparticles
+polarons moving charged quasi particle surrounded
+ion material
+magnons coherent excitation electron spin material
+
+
+wimp weakly interacting massive particle one number
+particle might explain dark matter neutralino
+axion
+pomeron used explain elastic scattering hadronlocation regge pole regge theory
+skyrmion topological soliton pion field usedmodel lowenergy property nucleon axial
+vector current coupling mass
+goldstone boson massless excitation field haspontaneously broken pion quasigoldstone boson quasi
+exactly massless broken chiral isospin
+symmetry quantum chromodynamics
+goldstino goldstone fermion produced spontaneous
+breaking supersymmetry
+instanton field configuration local minimumeuclidean action instantons used nonperturbative
+calculation tunneling rates
+dyon hypothetical particle electric magnetic
+charges
+geon electromagnetic gravitational wave held
+together confined region gravitational attractionfield energy
+ohmygod particle ultrahigh energy cosmic ray probably
+proton falling well beyond gzk cutoff energy limit
+beyond virtually cosmic ray detected
+spurion name given particle inserted mathematically
+isospinviolating decay order analyze thoughconserved isospin
+
+classification speed
+
+tardyon bradyon travel slower light nonzero
+rest mass
+luxon travel speed light rest mass
+tachyon mentioned hypothetical particle travels
+faster speed light imaginary rest mass
+

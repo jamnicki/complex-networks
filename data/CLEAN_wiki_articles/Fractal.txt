@@ -1,0 +1,206 @@
+copyright
+
+fractal
+
+ school wikipedia selection related subject mathematics
+
+boundary mandelbrot set famous example fractal
+enlarge
+boundary mandelbrot set famous example fractal
+another view mandelbrot set
+enlarge
+another view mandelbrot set
+
+colloquial usage fractal rough fragmented geometric
+shape subdivided part least
+approximately reducedsize copy whole term coined
+benot mandelbrot inand derived latin fractus
+meaning broken fractured
+
+fractal geometric object generally following features
+fine structure arbitrarily small scales
+irregular easily described traditional euclidean
+geometric language
+selfsimilar least approximatively stochastically
+ha hausdorff dimension greater topological
+dimension although requirement met spacefilling
+curve hilbert curve
+ha simple recursive definition
+
+due appearing similar level magnification fractals
+often considered infinitely complex obvious examples
+include cloud mountain range lightning bolt howeverselfsimilar object fractalsfor example real linestraight euclidean line formally selfsimilar failsfractal characteristics
+
+history
+
+koch snowflake limit infinite construction starts
+triangle recursively replaces line segmentseries four line segment form triangular bump time
+new triangle added iteration perimeter shape
+grows factor ofand thus diverges infinity number
+iteration length koch snowflake boundary therefore
+infinite area remains finite reason koch
+snowflake similar construction sometimes called monster
+curves
+enlarge
+koch snowflake limit infinite construction starts
+triangle recursively replaces line segmentseries four line segment form triangular bump time
+new triangle added iteration perimeter shape
+grows factor ofand thus diverges infinity number
+iteration length koch snowflake boundary therefore
+infinite area remains finite reason koch
+snowflake similar construction sometimes called monster
+curves
+
+object described fractal discovereddescribed century ago ethnomathematics like ron eglashs african
+fractalsisbndescribes pervasive fractal geometryindigenous african craft work inthe german artist albrecht
+drer published painter manual one section tile
+pattern formed pentagon drers pentagon largely resembled
+sierpinski carpet based pentagon instead squares
+
+idea recursive selfsimilarity originally developedphilosopher leibniz even worked many detailkarl weierstrass found example functionnonintuitive property everywhere continuous nowhere
+differentiablethe graph function would calledfractal inhelge von koch dissatisfied weierstrasssabstract analytic definition gave geometric definitionsimilar function called koch snowflake 
+waclaw sierpinski constructed triangle one year latercarpet actually fractal described curvehard realize wellknown modern construction ideaselfsimilar curve taken paul pierre lvypaper plane space curve surface consisting parts
+similar whole described new fractal curve lvy curve
+
+georg cantor gave example subset real line unusual
+propertiesthese cantor set also recognized fractals
+iterated function complex plane investigatedlate early century henri poincar felix klein
+pierre fatou gaston julia however without aid modern
+computer graphic lacked mean visualize beauty many
+object discovered
+
+benot mandelbrot started investigating selfsimilaritypaper long coast britain statistical
+selfsimilarity fractional dimension built earlier worklewis fry richardson inmandelbrot coined word fractaldenote object whose hausdorffbesicovitch dimension greatertopological dimension illustrated mathematical definition
+striking computerconstructed visualization images
+captured popular imagination many based recursion
+leading popular meaning term fractal
+
+examples
+
+julia set fractal related mandelbrot set
+enlarge
+julia set fractal related mandelbrot set
+
+relatively simple class example given cantor sets
+sierpinski triangle carpet menger sponge dragon curve
+spacefilling curve koch curve additional example fractals
+include lyapunov fractal limit set kleinian groups
+fractal deterministic stochasticnondeterministic example trajectory brownian motion
+plane hausdorff dimension 
+
+chaotic dynamical system sometimes associated fractals
+object phase space dynamical system fractal see
+attractor object parameter space family system may
+fractal well interesting example mandelbrot setset contains whole disc hausdorff dimension equaltopological dimension ofbut truly surprisingboundary mandelbrot set also hausdorff dimensiontopological dimension ofa result provedshishikura ina closely related fractal julia set
+
+selfsimilarity dimension
+
+selfsimilarity dimension simplification hausdorff
+dimension applied exactly selfsimilar objects
+
+following analysis koch snowflake suggestsselfsimilarity used analyze fractal properties
+
+total length number small step product applied boundary koch snowflake give boundless
+length approach zero distinction satisfactory
+different koch snowflake different size solutionmeasure meter square meterpower meter nlxnlx three times
+shorter steplength requires four time many step seenfigure solving equation give xlog log
+unit measurement boundary koch snowflakeapproximately
+generally suppose fractal consists identical parts
+similar entire fractal scale factor lintersection part lebesgue measurethen
+hausdorff dimension fractal fraclog nlog 
+example hausdorff dimensioncantor set fraclog log approx
+sierpinski gasket fraclog log approx
+sierpinski carpet fraclog log approx
+
+even generally one may assume partsimilar fractal different scale factor lihausdorff dimension calculated solving following
+equation variable
+sumin lis
+
+generating fractals
+
+whole mandelbrot set
+mandelbrot zoomed mandelbrot zoomed mandelbrot zoomed eventimes magnification mandelbrot
+set uncovers fine detail resembling full set
+
+three common technique generating fractal
+escapetime fractalsthese defined recurrence
+relation point space complex plane
+example type mandelbrot set julia setburning ship fractal lyapunov fractal
+iterated function systemsthese fixed geometric
+replacement rule cantor set sierpinski carpet sierpinski
+gasket peano curve koch snowflake harterheighway dragon
+curve tsquare menger sponge examplefractals
+random fractalsgenerated stochastic ratherdeterministic process example trajectorybrownian motion lvy flight fractal landscapebrownian tree latter yield socalled mass dendritic
+fractal example diffusionlimited aggregationreactionlimited aggregation clusters
+
+classification fractals
+
+fractal also classified according selfsimilarity
+three type selfsimilarity found fractals
+
+exact selfsimilaritythis strongest typeselfsimilarity fractal appears identical different
+scale fractal defined iterated function system often
+display exact selfsimilarity
+quasiselfsimilaritythis loose formselfsimilarity fractal appears approximatelyexactly identical different scale quasiselfsimilar
+fractal contain small copy entire fractaldistorted degenerate form fractal defined recurrence
+relation usually quasiselfsimilar exactly
+selfsimilar
+statistical selfsimilaritythis weakest typeselfsimilarity fractal numerical statistical
+measure preserved across scale reasonable
+definition fractal trivially imply formstatistical selfsimilarity fractal dimensionnumerical measure preserved across scale random
+fractal example fractal statistically
+selfsimilar neither exactly quasiselfsimilar
+
+fractal nature
+
+fractal fern computed using iterated function system
+enlarge
+fractal fern computed using iterated function system
+
+approximate fractal easily found nature object display
+selfsimilar structure extended finite scale range
+example include cloud snow flake mountain river networks
+cauliflower broccoli system blood vessels
+
+tree fern fractal nature modeled computer
+using recursive algorithm recursive nature obviousexamplesa branch tree frond fernminiature replica whole identical similar nature
+
+surface mountain modeled computer usingfractal start triangle space connect central
+point side line segment resulting intrianglescentral point randomly moved within defined
+range procedure repeated decreasing iterationrange half recursive nature algorithm guaranteewhole statistically similar detail
+
+fractal pattern found painting american artist
+jackson pollock pollock painting appear composedchaotic dripping splattering computer analysis found fractal
+pattern work
+
+fractal formed pulling apart two gluecovered acrylic sheets
+
+high voltage breakdown within ablock acrylic creates fractal
+lichtenberg figure
+
+fractal branching occurs microwaveirradiated dvd
+
+romanesco broccoli showing fine natural fractals
+
+dla cluster grown copper sulfate solutionelectrodeposition cell
+
+applications
+
+described random fractal used describe many highly
+irregular realworld object application fractal include
+classification histopathology slide medicine
+generation new music
+generation various art forms
+signal image compression
+seismology
+computer video game design especially computer graphicorganic environment part procedural generation
+fractography fracture mechanics
+fractal antennassmall size antenna using fractal shapes
+neohippies tshirts fashion
+generation pattern camouflage marpat
+digital sundial
+
+fractal model surface mountain animation
+enlarge
+fractal model surface mountain animation
+

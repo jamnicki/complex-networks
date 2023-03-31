@@ -1,0 +1,302 @@
+copyright
+
+gmail
+
+ school wikipedia selection related subject website internet
+
+gmail
+gmails beta logo
+gmail screenshot
+gmail inbox
+developer google
+oscrossplatform webbased application
+usepop email webmail
+websitehttpsmailgooglecom httpwwwgmailcom
+
+gmail officially google mail united kingdom germanyfree webmail pop email service provided google knownabundant storage advanced interface gmail competes mainly aim
+mail window live mail previously known msn hotmail yahoo
+mail
+
+released aprilgmail rapidly reached wide range users
+quickly evolving response feedback twohalf year gmail officially still beta
+
+access service limited invitationexisting account holder blogger mobile
+phone google stated invitation system intendedreduce amount abuse spammer unable make large
+number account something services
+like hotmail yahoo mail whose registration completely open
+
+google made account available without invitation google
+sm anyone australia new zealand since augustand
+japan since august
+
+overview
+
+gmail entirely open general public yet gmail
+user many invite spare google give user anything 
+tofree invitation frequently replenishes reward
+user frequently check gmail accountsit possible
+someone australia new zealand japan sign withoutinvitation someone also sign one mobile phoneindonesia malaysia singapore thailand turkey philippineunited state via signup edu email addressaccredited institution one find free gmail invite various
+web site even sale online auction despite googles
+prohibition selling gmail addresses
+
+service notable providing overgigabytesasnovemberof storage space increased original limit 
+gb change announced apriland madeoneyear anniversary gmail announcement accompaniedstatement google would keep giving people space forever
+google say keep increasingsecond long enough space server although
+gmails storage space continuously google increasing
+inbox capacity nominal four byte per second ofoctober
+growth rate faster announcement first made
+present growth rate continues unchanged storage capacityreachgigabytes middle 
+
+gmail also integrated calendar namedgoogle calendarlaunched april
+
+gmail make intensive use ajax specifically ajaxslt
+framework employing modern browser feature javascriptkeyboard access key allowing rich user experienceretaining benefit web application importantlyservice available computer supported browser internet
+explorermozilla application suitefirefoxsafari
+netscapeoperagmail also offer basic html view
+allow user access gmail message almost computer
+running browser fully support advanced features
+internet explorernetscapeor operaor users
+javascript disabled gmails help centre provides list fully
+supported browser gmail recently also become availabledownloadable application mobile phone well wapenabled
+mobile phone also work psp nintendo opera browser
+web browser fully supported
+
+ha criticism gmails information privacy
+policy much stem phrase gmails privacy policystate gmail keep email time evendeleted account terminated gmail disclose
+personal information including actual text email hagood faith belief disclosure necessary various
+reason protect right property safety ofthe
+public similarly privacy advocate criticize lackdisclosed data retention correlation policy thanprivacy
+civil right organization urged google suspend gmail
+service issue resolved
+
+features
+
+conversation views
+
+major innovation gmail introduced method categorizing
+email google call conversation view contrastemail service gmail keep track individual conversationoriginal message along reply messagegrouping together allows user easily viewemail related specific message keep inboxorganized gmails algorithm determining conversation fit
+together perfect however single conversation sometimes become
+fragmented especially replier change email subject
+line unrelated conversation occasionally become attached
+together also conversation approximately 
+message split two separate storage section sometimes
+resulting inorchunks making whole conversation
+
+label instead folders
+
+gmail allows user categorize email label labels
+give user flexible method categorizing email since email
+may number label contrast systememail may belong one folder user display emails
+particular label use label search criterion
+gmail also allows user set filter label incoming email
+automatically
+
+auto save enhancement
+
+google added auto save feature gmail system avoiding
+loss data case browser crash error composing
+email draft copy message attachment saved
+automatically although message begin saved minute
+saving time vary depending size message
+
+keyboard shortcuts
+
+gmail allows user navigate interface using keyboardaccessible alternative mouse norm site
+navigation feature enabled default although
+instruction enable provided
+
+optional dots
+
+gmail usernames must betweenandcharacters inclusivemade letter number dot use dot however
+optional gmail ignores dot resolving addresses
+google state gmail doesnt recognize dotsas characters
+within username way add remove dotusername desired address variation instance account
+googlegmailcom receives mail sent googlegmailcom
+googlegmailcom etc likewise account googlegmailcom
+receives mail sent googlegmailcom useful setting
+filter incoming mail however signing necessaryinclude dot used creation account
+
+plusaddressing
+
+gmail also support plusaddressing email message sent
+address form usernameextratextgmailcom extratext
+string plusaddressing allows user signdifferent service different alias easily filteremail service however significant number services
+support email address containing plus signs
+
+talk integration
+
+gmails talk feature allow user chat peopleonline gmail account interacts jabber network
+synchronised google talk jabber clients
+including gizmo project psi miranda ichat howevertextbased chat take place within internet browser limit
+four chat voice calling therefore one google talks
+advantages
+
+added latewas voicemail feature allows userleave voice message contact online voicemail
+system also reached user doe answer call gmail keepindex voicemail received gmail featureaccessible user opted install google talk another
+feature added time ability make callgmail page however work google talk
+downloaded placing call webpage insteadgoogle talk software
+
+gmail chat also allows user keep archive chatgmail accountalthough disabled either userconversation object called record mode google however
+record mode doe guarantee anonymity sinceuser could using thirdparty client logging ability
+gaim user could also copy paste conversation
+text editor save
+gmail also recently introduced contact picture introduced sound
+gmail chat user receive auditory notification receiving
+instant message gmail chat
+
+gmail offer standard without chat view regular
+standard view without chat functionality operasupports
+standard without chat view although doe support standard
+viewunless opera set mask internet explorer
+
+move away email therefore name gmail
+google changed logo gmail includestalk
+logo also glossier finish compared predecessor
+
+calendar integration
+
+aprilgoogle rolled google calendar allows users
+create multiple calendar hold appointmentshared user private address completely public
+web
+
+fully integrated gmail event added whilst
+writing message get stored main calendar interface
+recipient use gmail receive invitation event
+accept decline furthermore gmail attemptrecognise event date location within email give useroption add event calendar
+
+awards
+
+gmail ranked second world thebest product 
+behind mozilla firefox gmail also honorable mentionbottom line design awardsgmail drawn many favorable reviews
+user available space unique organization
+
+criticisms
+
+absent features
+
+conversation view group related message linear stackexpanded collapsed innovative offer optiondifferentiate message branch original threadoccur mail sent multiple recipient respond
+individually someone change subject line messageresponding
+feature present several desktop email applicationmissing gmail sorting attachment warning automatic
+bounceback unwanted mail imitating maildaemon messageabsent feature offered webmail applications
+sometimes price also lack imap supportcommon complaint according wanted gmail features
+
+nonus interfaces
+
+google located primarily united state nonus
+interface may experience delay receiving upgrade features
+google calendar available nonus gmail interfaces
+however nonus user change language english uaccess service support entering bidirectional textcurrently available arabic hebrew interfaces
+
+privacy
+
+ha criticism regarding gmails privacy policy many
+believed clause residual copy email may remainsystem time even deleted messagemailbox termination account meant google may
+intentionally archive copy deleted mail forever google continues
+reply criticism pointing gmail using mostly
+industrywide practice google later stated make
+reasonable effort remove deleted information systemquickly practical
+
+criticism however google plan add
+contextsensitive advertisement email automatically scanning
+privacy advocate raised concern plan involved scanning
+personal assumed private email security
+problem allowing email content read even computeradvertising purpose raise risk expectation privacy
+email reduced furthermore nonsubscribers emailscanned gmail well sender email agreegmails term service privacy policy also taken accountfact google change privacy policy unilaterallygoogle technically able crossreference cooky acrossinformationrich product line make dossier individual however
+practice standard across email systemsitway spam mail checker work
+
+opponent view state one email checked see
+spam scanned process human
+reading message say problem
+
+privacy advocate also consider another problem lackdisclosed data retention correlation policy possiblegoogle combine information contained person emailinformation internet search known long
+information would kept could used oneconcern could interest law enforcement agencies
+thanprivacy civil right organization urged google
+suspend gmail service issue resolved
+
+development history
+
+gmail project begun google developer paul buchheit years
+wa ever announced public several yearsoftware available internally email client google
+employees
+
+gmail finally announced public inamid flurryrumor owing april fool day however company press release
+wa greeted skepticism technology world especially since
+google already known make april fool jokepigeonrank however explained real jokepress release saying would take offshoring extremeputting employee agoogle copernicus centre moon
+jonathan rosenberg google vicepresident product quotedbbc news saying serious gmail
+
+gmail also initially received lot criticism statementmade original term use refusing guaranteeemail gmail would deleted upon request user google
+later clarified referring backup copy emails
+promised deleted mail would eventually expunged
+completely server along featureadvertisement would generated softwarebased scanning emails
+order better target gave rise controversy web
+privacy see bbc news article defense seethe fuss gmail
+privacy nine reason bogus
+
+acquired google gmailcom domain name usedfree email service offered garfieldcom online homecomic strip garfield free email service movedegarfieldcom
+
+junegmails canonical uri changedhttpmailgooglecommail instead httpgmailgooglecomgmail
+
+novembergoogle began offering mobileapplication based
+version gmail product mobile phone capable running java
+applicationsthose interested using application download
+gmailcomapp directly mobile phone addition
+sprint announced separately would make application
+available vision power vision homepagepreloaded onto new sprint phone application give gmailcustom menu system much easier navigatewebbased application would cell phone gmails message
+threading also show clearly site display attachments
+like photo word document application
+
+gmail domain
+
+februarygoogle introduced gmail domainservice currently beta testing allows organization offer
+email service gmail using domain google may
+eventually open service domain owner microsoft hawindow live custom domain service
+
+google mail
+
+julygoogle announced gmail deutschland wouldrebranded google mail point forward visitors
+originating address determined germany wouldforwarded googlemailcom could obtain email
+address containing new domain german user wantgmailcom address must sign account proxy
+german user already registered allowed keepold addresses
+octoberthe united kingdom version gmailconverted google mail gmail trademarked another
+company however bypassed using proxy
+user registered switch googlemail faceproblem whatsoeverthey keep gmail address althoughlogo topleft page appears google mail
+even user signed google mail email sentgmailcom version email address still received
+also way around
+
+competition
+
+gmails initial announcement development many existing web
+mail service quickly increased storage capacity example
+hotmail went giving user mb afterdays
+andgb hotmail plus account yahoo mail went mbmb andgb yahoo mail plus account yahoo mail storage
+proceeded finally late april ofto seen move stop existing user switchinggmail capitalize newly rekindled public interest web
+mail service desire catch especially visible msn
+hotmail upgraded email storage erratically frommbnew window live mail beta includesgb storagenumber month august ofaol started providing aim
+screen name email account withgb storage
+another example competition came gig offering 
+gigabyte storage also invite offer free
+account anyone
+
+every account inactive formonths labeled dormant 
+month later total ofmonths get deactivated gmailstored message get deleted account get recycledmean account name used user afterwardswebmail service like yahoo mail hotmail different often
+shorter time marking account inactive yahoo mail
+deactivates dormant account four month hotmail
+deactivates free account one month
+
+general increase storage limit alsoimprovement email interface yahoo mail hotmail
+launch gmail gmails ability attachment size
+mb also matched yahoo mail hotmail 
+following footstep gmail yahoo launched yahoo mail beta
+service microsoft launched window live mailincorporating ajax interfaces
+
+help gmail
+
+user first sign gmail prompted take gmail
+tour teach basic feature make gmail
+different also help page teaching new gmail userimport contact previous webmail account using csv
+however offer personalized help yahoo mail hotmail
+ha also reported recentlycreated gmail accountreceive welcome email link switching guide clicking
+help top right hand corner gmail take user gmail
+help centre gmail help centre doe answer questionuser contact gmail alternatively user also ask users
+help gmail help discussion google group user givereceive help concerning gmail
+

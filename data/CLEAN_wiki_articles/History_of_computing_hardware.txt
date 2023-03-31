@@ -1,0 +1,489 @@
+copyright
+
+history computing hardware
+
+ school wikipedia selection related subject computing hardwareinfrastructure recent history
+
+
+featured article click information
+history computing
+hardware 
+hardware present
+hardware soviet bloc countries
+operating systems
+software engineering
+programming languages
+graphical user interface
+internet
+world wide web
+computer video games
+timeline computing
+timeline computingbc
+
+
+
+timelines
+
+
+computing hardware important component processcalculation data storage since became useful numerical
+value processed shared earliest computing hardwareprobably form tally stick later record keeping aid include
+phoenician clay shape represented count item probably
+livestock grain container something similar found early
+minoan excavation seem used merchants
+accountant government official time
+
+device aid computation changed simple recordingcounting device abacus slide rule analog computerrecent electronic computer even today experienced abacus
+user using device hundred year old sometimes complete basic
+calculation quickly unskilled person using electronic
+calculatorthough complex calculation computers
+outperform even skilled human
+
+article cover major development history computing
+hardware attempt put context detailed timeline
+event see computing timeline article history computing
+article related overview treat method intended penpaper without aid tables
+
+earliest devices
+
+chinese others frustrated counting finger invented
+abacus
+chinese others frustrated counting finger invented
+abacus
+
+humanity used device aid computation millennia
+unbalanced scale showing inequality
+enlarge
+unbalanced scale showing inequality
+
+one example device establishing equality weightclassic scale another simple enumeration checkered clothcounting house served simple data structure enumerating
+stack coin weight arithmeticoriented machineabacus one earliest machine type chinese
+abacus
+
+gear heart mechanical device like curta calculator
+enlarge
+gear heart mechanical device like curta calculator
+
+inwilhelm schickard built first mechanical calculatorthus became father computing era since machine used
+technique cog gear first developed clockalso called calculating clock put practical usefriend johannes kepler revolutionized astronomy
+
+machine blaise pascal pascalineand gottfried wilhelm
+von leibnizfollowed aroundcharles xavier thomas created
+first successful massproduced mechanical calculator thomas
+arithmometer could add subtract multiply dividemainly based leibniz work mechanical calculator likebaseten addiator comptometer monroe curtaaddox remained usemechanical calculator 
+enlarge
+mechanical calculator 
+
+leibniz also described binary numeral system central ingredient
+modern computer however many subsequent
+design including charles babbages machine even
+eniac ofwere based hardertoimplement decimal system
+slide rule basic mechanical calculator facilitates
+multiplication division
+enlarge
+slide rule basic mechanical calculator facilitates
+multiplication division
+
+john napier noted multiplication division numberperformed addition subtraction respectively logarithmnumber since real number represented distances
+interval line slide rule allowed multiplicationdivision operation carried significantly fasterpreviously possible slide rule used generation engineers
+mathematically inclined professional workerinvention pocket calculator engineer apollo program
+send man moon made many calculation slide
+rule accurate toorsignificant figures
+
+producing first logarithmic table napier needed perform
+many multiplication point designed napiers
+bones
+
+ punched card technology
+
+punch card system music machine also referred book musiconestop european medium organs
+enlarge
+punch card system music machine also referred book musiconestop european medium organs
+punch card system century loom
+enlarge
+punch card system century loom
+
+early asbasile bouchon used perforated paper loop loom
+establish pattern reproduced cloth inhis
+coworker jeanbaptiste falcon improved design using
+perforated paper card attached one another made easierchange program quickly bouchonfalcon loom semiautomatic
+required manual feed program
+
+injosephmarie jacquard developed loom pattern
+woven controlled punched card series card could
+changed without changing mechanical design loomlandmark point programmability
+herman hollerith invented tabulating machine using punch cardherman hollerith invented tabulating machine using punch card
+incharles babbage moved developing difference engine
+developing complete design analytical enginewould draw directly jacquard punch card programming 
+
+inthe united state census bureau used punch card sorting
+machine designed herman hollerith handle flood datadecennial census mandated constitution hollerith company
+eventually became core ibm ibm developed punch card technology
+powerful tool business dataprocessing producedextensive line specialized unit record equipment bythe ibm
+card become ubiquitous industry government warning
+printed card intended circulation document checks
+example fold spindle mutilate became mottopostworld war era
+
+leslie comries article punch card method eckerts
+publication punched card method scientific computation 
+described technique sufficiently advanced solve
+differential equation perform multiplication division using
+floating point representation punched card unit record
+machine thomas watson astronomical computing bureau columbia
+university performed astronomical calculation representing state
+art computing
+
+many computer installation punched card usedend example science engineering
+student many university around world would submitprogramming assignment local computer centre formstack card one card per program line waitprogram queued processing compiled executed due
+course printout result marked submitters
+identification would placed output tray outside computer
+centre many case result would comprise solely printouterror message regarding program syntax etc necessitating another
+editcompilerun cycle
+
+punched card still used manufactured current century
+distinctive dimension column capacity stillrecognized form record program around world
+
+first programmable machines
+
+defining feature auniversal computer programmability
+allows computer emulate calculating machinechanging stored sequence instructions
+
+incharles babbage described analytical engine waplan generalpurpose programmable computer employing punch cards
+input steam engine power one crucial invention wause gear function served bead abacus real
+sense computer contain automatic abacus technically calledalu floatingpoint unit
+
+initial idea use punchcards control machine could
+calculate print logarithmic table huge precision specific
+purpose machine babbages idea soon developed generalpurpose
+programmable computer analytical engine
+
+design sound plan probably correctleast debuggable project slowed various problem babbage
+wa difficult man work argued anyone didnt
+respect idea part machine madehand small error item sometimes sum large
+discrepancy machine thousand part required
+part much better usual tolerance neededtime project dissolved dispute artisan built
+part ended depletion government funding
+
+ada lovelace lord byron daughter translated added notesketch analytical engine federico luigi conte menabrea
+ha become closely associated babbage claimworld first computer programmer however claim valuecontribution disputed many
+
+reconstruction difference engine earlier limited
+design operational sinceat london science museum
+trivial change work babbage designed shows
+babbage right theory
+
+museum used computeroperated machine tool constructnecessary part following tolerance machinist period
+would able achieve feel technologytime unable produce part sufficient precision thoughappears false failure babbage complete enginechiefly attributed difficulty related politicsfinancing also desire develop increasingly
+sophisticated computer today many computer field termsort obsession creeping featuritis
+
+following footstep babbage although unaware earlier
+work percy ludgate accountant dublin irelandindependently designed programmable mechanical computerdescribed work published 
+
+desktop calculators
+
+earlier mechanical calculator cash register accounting
+machine redesigned use electric motor gear
+position representation state variable companies
+like friden marchant monroe made desktop mechanical calculators
+could add subtract multiply divide word
+computer job title assigned people usedcalculator perform mathematical calculation manhattan
+project future nobel laureate richard feynman supervisorroomful human computer many woman mathematicianunderstood differential equation solvedwar effort even renowned stanisaw ulam pressed service
+translate mathematics computable approximationhydrogen bomb war
+
+inthe curta introduced small portable
+mechanical calculator size pepper grindertime variety different brandmechanical calculator appeared market
+
+first allelectronic desktop calculator british anita
+mkvii used nixie tube display andsubminiature thyratron
+tube junefriden introduced fourfunction ecalltransistor design digit capacity inch crtintroduced reverse polish notationrpn calculator marketprice ofthe model added square root reciprocal
+function inwang laboratory produced locus digit
+transistorized desktop calculator used nixie tube displaycould compute logarithms
+
+development integrated circuit microprocessorexpensive large calculator replaced smaller electronic
+devices
+
+pre analog computers
+
+world war mechanical electrical analog computerconsidered state art many thoughtfuture computing analog computer use continuously varying amounts
+physical quantity voltage current rotational
+speed shaft represent quantity processedingenious example machine water integrator builtunlike modern digital computer analog computerflexible need reconfigured reprogrammed manuallyswitch working one problem another analog computers
+advantage early digital computer couldused solve complex problem earliest attempt digital
+computer quite limited digital computer become
+faster used larger memory ram internal storealmost entirely displaced analog computer computer programming
+coding arisen another human profession
+
+since computer rare era solution often
+hardcoded paper form graph nomogram could
+allow analog solution problem distributionpressure temperature heating system
+
+widely deployed analog computer included deviceaiming weapon norden bombsight artilleryaiming
+computer battleship stayed use decades
+wwii
+
+art analog computing reached zenith differential
+analyzer invented vannevar bush infewer dozendevice ever built powerful constructeduniversity pennsylvania moore school electrical engineering
+eniac built digital electronic computer like eniac
+spelled end analog computing machine hybrid analog
+computer controlled digital electronics remained substantial
+use later specialized
+applications
+
+early digital computers
+
+era modern computing began flurry developmentworld war electronic circuit relay capacitorvacuum tube replaced mechanical equivalent digital calculations
+replaced analog calculation computer designed constructed
+sometimes called first generation computer first
+generation computer atanasoffberry computer zcolossus eniac built hand using circuit containing relays
+valve vacuum tube often used punched card punched paper
+tape input main nonvolatile storage medium
+
+later system temporary working storage providedacoustic delay line use propagation time soundmedium liquid mercury wire briefly store datawilliams tube use ability television picture tubestore retrieve data bymagnetic core memory rapidly
+displacing form temporary storage dominatedfield mids
+
+era number different machine produced steadily
+advancing capability beginning period nothing
+remotely resembling modern computer existed except longlost
+plan charles babbage mathematical musing alan turing
+others end era device like edsacbuilt universally agreed digital computer definingsingle point series first computer miss many
+subtleties
+
+alan turingspaper proved enormously influential computing
+computer science two way main purpose elegant proof
+problem namely halting problem couldsolved mechanical process computer however
+turing provided definition universal computerconstruct called turing machine purely theoretical device
+invented formalize notion algorithm execution replacing kurt
+gdels cumbersome universal language based arithmetic modern
+computer turingcomplete equivalent algorithm execution
+capability universal turing machine except finite
+memory limited type turing completeness sometimes viewedthreshold capability separating generalpurpose computerspecialpurpose predecessors
+
+however seen theoretical turingcompleteness long way
+practical universal computing device practical
+generalpurpose computer must convenient way input
+new program computer punched tape full
+versatility von neumann architecture memorystore program data virtually contemporary computer usearchitecture variant finally theoretically
+possible implement full computer entirely mechanicallybabbages design showed electronics made possible speed later
+miniaturization characterizes modern computers
+
+three parallel stream computer development world
+war era two either largely ignored deliberately
+kept secret first german work konrad zuse second
+wa secret development colossus computer neither
+much influence various computing projectunited state war british american computing
+researcher cooperated important step towardspractical computing device
+
+konrad zseries
+
+reproduction z computer
+enlarge
+reproduction z computer
+
+working isolation germany konrad zuse started constructionfirst zseries calculator featuring memory initially
+limited programmability purely mechanical already binary
+z finished innever worked reliably due problemprecision parts
+
+zu subsequent machine wa finished init based
+telephone relay work satisfactorily thus becamefirst functional programcontrolled computer many way quite
+similar modern machine pioneering numerous advancefloating point number replacement hardtoimplement decimal
+system used charles babbages earlier design simpler binary
+system meant machine easier build potentially
+reliable given technology available timesometimes viewed main reason zuse succeeded babbage
+failed
+
+program fed punched film conditional jumpmissing since proved theoretically wa still universal computer ignoring physical storage size
+limitation twopatent application konrad zuse also
+anticipated machine instruction could storedstorage used datathe key insight became known von
+neumann architecture first implemented later british
+edsac designzuse also claimed designed first
+higherlevel programming languageplankalkl inalthoughwa never formally published untiland implementedfirst time inby free university berlinfive yearzuse died
+
+zuse suffered setback world war machines
+destroyed course allied bombing campaign apparently
+work remained largely unknown engineer umuch later although least ibm aware financedpostwar startup company inin return option zuses
+patents
+
+american developments
+
+inclaude shannon produced master thesis mitimplemented boolean algebra using electronic relay switchfirst time history entitled symbolic analysis relayswitching circuit shannon thesis essentially founded practical
+digital circuit design
+
+november ofgeorge stibitz working bell labs
+completed relaybased computer dubbed model kkitchen assembled calculated using binary
+addition bell lab authorized full research program late 
+stibitz helm complex number calculator completed
+januarywas able calculate complex numberdemonstration american mathematical society conferencedartmouth college septemberstibitz able sendcomplex number calculator remote command telephone lineteletype first computing machine ever used remotelycase phone line participant conferencewitnessed demonstration john von neumann john mauchlynorbert wiener wrote memoirs
+
+injohn vincent atanasoff clifford berry iowa state
+university developed atanasoffberry computer abc special
+purpose electronic computer solving system linear equations
+original goal solvesimultaneous equation 
+unknown due error card puncher mechanismcompleted machine could solve equation design used
+overvacuum tube high speed employed capacitor fixedmechanically rotating drum memory though abc machine waprogrammable first modern computer severalrespect including first use binary math electronic
+circuit eniac coinventor john mauchly visited abcstill construction juneand influence design
+later eniac machine matter contention among computer
+historian abc largely forgotten became focuslawsuit honeywell sperry rand ruling invalidated
+eniac patent several others among many reasonanticipated iowa work
+
+indevelopment began ibms endicott laboratoryharvard mark known officially automatic sequence controlled
+calculator mark general purpose electromechanical
+computer built ibm financing assistance ibm
+personnel direction harvard mathematician howard aiken
+design influenced babbages analytical engine using decimal
+arithmetic storage wheel rotary switch additionelectromagnetic relay programmable via punched paper tapecontained several calculation unit working parallel later versions
+contained several paper tape reader machine could switch
+reader based condition nevertheless machine waquite turingcomplete mark moved harvard universitybegan operation may 
+
+colossus
+
+colossus used break german cipher world war enlarge
+colossus used break german cipher world war 
+world war british bletchley park achieved numbersuccess breaking encrypted german military communicationgerman encryption machine enigma attacked helpelectromechanical machine called bombes bombe designed alan
+turing gordon welchman polish cryptographic bomba
+ruled possible enigma setting performing chainlogical deduction implemented electrically possibility ledcontradiction remaining could tested hand
+
+german also developed series teleprinter encryption systems
+quite different enigma lorenz szmachine usedhighlevel army communication termedtunny britishfirst intercept lorenz message began inas part attack
+tunny professor max newman colleague helped specifycolossus colossus built inmonths tommy flowercolleague post office research station dollis hilllondon shipped bletchley park
+
+colossus first totally electronic computing devicecolossus used large number valve vacuum tubepapertape input capable configured performvariety boolean logical operation data waturingcomplete nine ii colossus built wa converted
+mk making ten machine total detail existence
+design use kept secret well winston churchill
+personally issued order destruction piece larger
+man hand due secrecy colossus includedmany history computing reconstructed copy onecolossus machine display bletchley park
+
+eniac
+
+eniac performed ballistics trajectory calculation withkwpower
+enlarge
+eniac performed ballistics trajectory calculation withkwpower
+
+usbuilt eniac electronic numerical integrator computer
+often called first electronic generalpurpose computer publicly
+validated use electronics largescale computingcrucial development modern computing initiallyenormous speed advantage ultimately potential
+miniaturization built direction john mauchly presper eckert wastimes faster contemporaries
+eniacs development construction lasted fromto full operation
+end ofwhen design proposed many researchers
+believed thousand delicate valve vacuum tubes
+would burn often enough eniac would frequentlyrepair useless however capablethousand operation per second hour time valve
+failures
+
+eniac unambiguously turingcomplete device programeniac however defined state patch cableswitch far cry stored program electronic machineevolved time however unaided calculation seenenough triumph view solution single problemobject program improvement completed inmade possible
+execute stored program set function table memory made
+programming oneoff effort systematic
+
+adapting idea developed eckert mauchly recognizinglimitation eniac john von neumann wrote widelycirculated report
+describing computer design edvac design programs
+working data stored single unified storebasic design became known von neumann architecture would
+serve basis development first really flexible
+generalpurpose digital computers
+
+summary
+
+caption defining characteristic five first operative digital
+computers
+
+computer nation shown working binary electronic programmable turing
+complete
+zuse germany mayyes punched film stock yes
+atanasoffberry computer usa summeryes yescolossus computer ukyes yes partially rewiringharvard mark iibm ascc usano punched paper tapeeniac usano yes partially rewiring yes
+yes function table rom yes
+
+first generation von neumann machine works
+
+baby museum science industry manchester msim
+england
+enlarge
+baby museum science industry manchester msim
+england
+
+first working von neumann machine manchester babysmallscale experimental machine built university manchester
+init followed inby manchester mark computer
+functioned complete system using williams tubemagnetic drum memory also introduced index registercontender title first digital stored program computer
+edsac designed constructed universitycambridge operational one year manchester baby
+wa also capable tackling real problem edsac actually
+inspired plan edvac electronic discrete variable automatic
+computer successor eniac plan already placetime eniac successfully operational unlike eniac used
+parallel processing edvac used single processing unit design
+wa simpler first implemented succeeding wave
+miniaturization increased reliability view manchester
+mark iedsacedvac eve nearly current
+computer derive architecture
+
+first universal programmable computer continental europecreated team scientist direction sergei alekseyevich
+lebedev kiev institute electrotechnology soviet unionukraine computer mesmsmall electronic calculating
+machine became operational init aboutvacuum tubes
+consumedkw power could perform approximately 
+operation per second another early machine csirac australian
+design ran first test program 
+
+octoberthe director lyonscompany british
+catering company famous teashop strong interestnew office management technique decided take active rolepromoting commercial development computer bythe leocomputer operational ran world first regular routine
+office computer job
+
+manchester university machine became prototype ferranti
+mark first ferranti mark machine delivereduniversity februaryand least nine others sold
+
+junethe univac universal automatic computer delivered
+u census bureau although manufactured remington randmachine often mistakenly referred ibm univac remington
+rand eventually soldmachines thanmillion univac
+wa first mass produced computer predecessoroneoff unit usedvacuum tube consumedkwpower used mercury delay line capable storingwordsdecimal digit plus sign bit word memory unlike ibm
+machine equipped punch card reader style
+metal magnetic tape input making incompatible existing
+commercial data store high speed punched paper tape modernstyle
+magnetic tape used inputoutput computerera
+
+novemberthe lyon company began weekly operationbakery valuation job leo lyon electronic officefirst business application live stored program computer
+
+inibm publicly announced ibmelectronic data processing
+machine first successfulseries first ibm
+mainframe computer ibmintroduced inused magnetic core
+memory became standard large machine first
+implemented highlevel general purpose programming language fortran
+wa also developed ibm theduringandand
+released earlykonrad zusesdesign highlevel
+language plankalkl implemented time
+
+ibm introduced smaller affordable computer inthat proved
+popular ibmweighed overkg attached power
+supply weighed aroundkg held separate cabinets
+roughlymeters bymeters bymeters costor
+could leased forum month drum memory originallytendigit word required arcane programming efficient
+computing memory limitation dominate programming
+decade afterward evolution programming modelwa sympathetic software development
+
+inmaurice wilkes invented microprogramming later
+widely used cpu floatingpoint unit mainframecomputer ibmseries microprogramming allows base
+instruction set defined extended builtin programsometimes called firmware microcode millicode
+
+inibm sold first magnetic disk system ramac random access
+method accounting control usedinch metal disktrack per side could storemegabytes data cost
+per megabyte ofmagnetic storage formhard disk cost one tenth cent per megabyte
+
+post third generation beyond
+
+main article history computing hardware spresent
+
+explosion use computer began third generation
+computer relied jack clair kilbys robert noyces
+independent invention integrated circuit microchiplater led invention microprocessor ted hofffederico faggin intel
+
+wa considerable overlap secondthird generation technology late assperry univac continued
+manufacture secondgeneration machine univac 
+
+microprocessor led development microcomputer small
+lowcost computer could owned individual small
+business microcomputer first appearedbecame ubiquitous beyond steve wozniak cofounderapple computer credited developing first massmarket home
+computer however first computer apple came time
+kim altairand first apple computergraphic sound capability came well commodore pet
+computing evolved microcomputer architecture features
+added larger brother dominant market segments
+
+indication rapidity development fieldinferred burk goldstein von neuman seminal article
+documented datamation septemberoctoberissuewritten preliminary versionyears earlier see references
+time anyone time write anythingobsolete
+
+retrieved 
+httpenwikipediaorgwikihistoryofcomputinghardware
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

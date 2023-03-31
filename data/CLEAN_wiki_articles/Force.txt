@@ -1,0 +1,226 @@
+copyright
+
+force
+
+ school wikipedia selection related subject general physics
+
+physic force influence may cause body accelerate
+may experienced lift push pull magnitude
+direction actual acceleration body determinedvector sum force acting known net forceresultant force extended body may also cause rotationdeformation body rotational effect deformationdetermined respectively torque stress forces
+create
+
+force vector quantity defined rate changemomentum body would induced force acting alone
+since momentum vector force direction associated
+history
+
+force first described archimedes
+galileo galilei used rolling ball disprove aristotelian
+theory motion
+isaac newton credited giving first mathematical
+definition force
+charles coulomb credited experimental discoveryinverse square law interaction electric charge using
+torsion balance
+henry cavendish inmeasured force gravity two
+mass torsion balance experiment
+development quantum electrodynamics midcentury
+wa realised force strictly macroscopic concept
+arises conservation momentum interacting
+elementary particle thus currently known fundamental forcecalled force butfundamental interactions
+
+aristotle others believed natural state objects
+earth motionless tended toward state
+eventually settling inertness left alone wacommon experience human ordinary condition friction
+wa involved newton idea force naturally produce constant
+increase velocity obvious one frictional force acting
+opposition kind force historically tended hidecorrect mathematical relationship simple unopposed forcemotion
+
+correct behaviour object accelerated constant forcefirst discovered galileo working gravity dropping stones
+rolling cannonball incline although wanewton gravity seen force newton generalizedbehavior constant acceleration constant momentum gain forces
+gravity asserted second law motionbehaviour constant momentum increase characteristicforce including force ordinary experience tension
+stress produced pushing object finger fact
+defined force mass time acceleration accuratelyrate change momentum
+
+examples
+
+heavy object table pulled attracted downward towardfloor force gravity weight time
+table resists downward force equal upward force
+called normal force resulting zero net forceacceleration object person actually feelnormal force actingheavy object table gently pushed sideways direction
+finger however fails accelerate sidewaysforce finger object opposed new forcestatic friction generated object table
+surface newly generated force exactly balance force
+exerted object finger acceleration
+occurs static friction increase decrease automatically
+force finger increased pointopposing sideways force static friction increase exactlypoint perfect opposition
+heavy object table pushed finger hard enoughstatic friction cannot generate sufficient force match force
+exerted finger object start sliding acrosssurface finger moved constant velocity needs
+apply force exactly cancel force kinetic friction
+surface table object moveconstant velocity seems naive observerapplication force produce velocity ratheracceleration however velocity constantforce finger kinetic friction cancelwithout friction object would continually accelerateresponse constant force
+heavy object reach edge table fallobject subjected constant force weight freednormal force friction force table gainvelocity direct proportion time fall thusreach velocity air resistance force becomes
+significant compared gravity force rate gainmomentum velocity constant fact first
+discovered galileo
+
+quantitative definition
+
+force defined rate change momentum time
+
+mathbffdmathbfp 
+
+quantity mathbfpm mathbfv massmathbfv velocity called momentumdefinition force known physic first proposed newton
+mass constant time newton second law
+derived definition
+
+mathbfffracdmathbfpdt fracdmmathbfvdt 
+mfracdmathbfvdtmmathbfa
+
+mathbf mathbf dt acceleration
+
+form newton second law usually taught introductory
+physic course order avoid calculus notation
+
+known force nature defined via newtonian
+definition force example weight force gravity defined
+mass time acceleration free fall wmg spring balance force
+defined force equilibrating certain gravitational force say
+weight ofkg mass near earth surface result reaction forcespring equivalent ton etc calibration spring balancevarious kind using either gravitational force motion known
+acceleration important starting procedure measuring manyforce friction force reaction force electric forces
+magnetic force etc various physic labs
+
+always case independent examplemass rocket decrease propellant ejectedcircumstance equationmathbffmmathbfais
+incorrect original form newton second law must used
+
+momentum vector force time derivativealso vectorit magnitude direction fourforcefourvector relativity vector thus force added together
+component two force act object resulting
+force resultant vector sum original forcecalled principle superposition magnitude resultant
+varies difference magnitude two forcesum depending angle line actionvector addition result parallelogram rule additiontwo vector represented side parallelogram giveequivalent resultant vector equal magnitude direction
+transversal parallelogram two force equalmagnitude opposite direction resultant zerocondition called static equilibrium result object
+remains constant velocity could zero static
+equilibrium mathematically equivalent motion expectedequal oppositely directed acceleration coursemotion acceleration
+
+well added force also broken resolved
+example horizontal force pointing northeast splittwo force one pointing north one pointing east summingcomponent force using vector addition yield original force force
+vector also threedimensional third vertical
+component rightangles two horizontal components
+
+explanation mechanic force usually definedimplicitly term equation workphysicist philosopher mathematician ernst mach
+clifford truesdell walter noll found problematicsought explicit definition force
+
+force special relativity
+
+special theory relativity mass energy equivalentseen calculating work required accelerate body
+object velocity increase doe energy hencemass equivalent inertia thus requires greater forceaccelerate amount lower velocitydefinition mathbffdmathbfpdt remains valid momentum
+given
+mathbfpfracmvsqrtvc
+
+
+v velocity
+c speed light
+
+relativistic expression relating force accelerationparticle nonzero rest mass moving direction
+fxgamma 
+
+fygamma 
+
+fzgamma 
+
+lorentz factor
+
+gammafracsqrtvc
+
+constant force doe produce constant accelerationever decreasing acceleration object approach speedlight note thatis undefined object non zero rest mass
+speed light theory yield predictionspeed
+
+one however restore form
+fmumamu 
+
+use relativity use fourvectors relationcorrect relativity fourforce invariant
+mass fouracceleration
+
+force potential
+
+instead force mathematically equivalent conceptpotential energy field used convenience instancegravitational force acting upon body seen actiongravitational field present body location restating
+mathematically definition energy via definition workpotential field defined field whose gradient equal
+opposite force produced every point
+
+textbffnabla 
+force classified conservative nonconservative
+conservative force equivalent gradient potentialinclude gravity electromagnetic force spring force
+nonconservative force include friction drag howeversufficiently detailed description force conservative
+
+type force
+
+many force exist coulomb force electrical charges
+gravitational force mass magnetic force frictional
+force centrifugal force rotating reference frame spring
+force magnetic force tension chemical bonding contact forcename
+four fundamental force nature known strong forceelectromagnetic force weak force gravitational forceforce reduced fundamental interactions
+
+modern quantum mechanical view first three fundamental
+force except gravity particle matterfermionsdirectly interact rather exchange virtual
+particlesbosons example virtual photon caseinteraction electric charges
+
+general relativity gravitation strictly viewed force
+rather object moving free gravitational field say basket
+ball simply undergo inertial motion along straight linecurved spacetime straight line curved spacetime definedshortest spacetime path two point called
+geodesic straight line spacetime curved line space
+call theballistic trajectory object example
+would parabola basketball moving uniform gravitational
+field time derivative changing momentum bodylabel gravitational forceweight
+
+light mass energy momentum containedelectromagnetic field also propagates gravitational field alongstraight spacetime path geodesic
+
+unit measurement
+
+si unit used measure force newton symbol nequivalent kgms earlier cgs unit dynerelationship fma used either imperial
+engineering unit measured inpounds force lbffoot per second squared must measured slugs
+similarly mass measured pound mass foot per second
+squared force must measured poundal unit slugpoundal specifically designed avoid constantproportionality equation
+
+general form fkma needed consistent unit used
+constant conversion factor dependent upon units
+used
+
+standard acceleration ofms useddefine pound force mass pound numerically equalweight pound force however even sea level earth actual
+acceleration free fall quite variable overmorepole equator thus mass oflb sea levelequator exerts force due gravity oflbf whereas mass
+oflb sea level pole exerts force due gravitylbf normal average sea level acceleration earth world
+gravity formulaisms average sea levelearthlb exerts force oflbf
+
+equivalencelbkg always true definition
+anywhere universe use standard official
+defining kilogram force define pound force wellrelationship hold poundsforce kilogramsforce
+old nonsi unit still used different value useddefine pound force relationship kilogram forceslightly differentbut case relationship alsoconstant anywhere universe constant throughoutuniverse amount force term poundsforceforce unit whichlb exert due gravity
+
+analogy slug rarely used unit mass called
+metric slug mass accelerates one metre per
+second squared pushed force one kgf item mass
+ofkg mass ofmetric slugskg dividedkg per metric slug unit also known variousname hyl tme german acronym mugmetric slug
+
+another unit force called poundal pdl defined force
+accelerateslbm atfoot per second squared given thatlbf 
+lb time one foot per second squared havelbf
+pdl kilogramforce unit force used various
+field science technology inthe cgpm improveddefinition kilogramforce adopting standard accelerationgravity purpose making kilogramforce equalforce exerted mass ofkg accelerated bymskilogramforce part modern system still used
+applicationthrust jet rocket engines
+spoke tension bicycles
+draw weight bows
+torque wrench unit meter kilogram kilogram
+centimetre kilogram rarely identified unitforce
+engine torque output kgfm expressed various word orders
+spelling symbols
+pressure gauge kgcm kgfcm
+
+colloquial nonscientific usage kilogram used weight
+almost always proper unit purpose units
+mass unit force
+
+symbol kgm kilogram also sometimes encounteredmight occasionally attempt distinguish kilogram unitmass kgf symbol unit force might alsoused symbol obsolete torque unit kilogramforce
+metre mentioned used without properly separating unitkilogram metre either space centered dot
+
+conversions
+
+several conversion factor various measurementforce
+dynenewtons
+kgf kilopond kpnewtons
+metric slugkg
+lbfpoundals
+sluglb
+kgflbf
+

@@ -1,0 +1,535 @@
+copyright
+
+manifold
+
+ school wikipedia selection related subject mathematics
+
+sphere sum angle triangle equal 
+sphere euclidean space locally laweuclidean geometry good approximation small triangleface earth sum angle nearlya sphere
+represented collection two dimensional map thereforesphere manifold
+enlarge
+sphere sum angle triangle equal 
+sphere euclidean space locally laweuclidean geometry good approximation small triangleface earth sum angle nearlya sphere
+represented collection two dimensional map thereforesphere manifold
+
+manifold abstract mathematical space every point haneighbourhood resembles euclidean space global
+structure may complicated discussing manifold ideadimension important example line onedimensionalplane twodimensional
+
+onedimensional manifold onemanifold every point haneighbourhood look like segment line exampleonemanifolds include line circle two separate circletwomanifold every point neighbourhood look like disk
+example include plane surface sphere surfacetorus
+
+manifold important object mathematics physicallow complicated structure expressed understoodterm relatively wellunderstood property simpler spaces
+
+additional structure often defined manifold examplemanifold additional structure include differentiable manifoldone calculus riemannian manifold distanceangle defined symplectic manifold serve phase
+space classical mechanic fourdimensional
+pseudoriemannian manifold model spacetime general
+relativity
+
+technical mathematical definition manifold givenfully understand mathematics behind manifold necessaryknow elementary concept regarding set function helpfulworking knowledge calculus topology
+
+motivational examples
+
+circle
+
+figurethe four chart map part circle open
+interval together cover whole circle origin understood
+center circle
+enlarge
+figurethe four chart map part circle open
+interval together cover whole circle origin understood
+centre circle
+
+circle simplest example topological manifoldline topology ignores bending small piece circle exactly
+small piece line consider instance top
+half unit circle xywhere ycoordinatepositive indicated yellow arc figureany pointsemicircle uniquely described xcoordinateprojecting onto first coordinate one obtains continuous mapping
+semicircle open interval
+
+chimathrmtopxyx 
+
+function called chart similarly chartbottom red left blue right green part circle
+together part cover whole circle four chart form
+atlas circle
+
+top right chart overlap intersection liequarter circle ycoordinatespositive two chart top right map part
+bijectively intervalthus function fromto
+constructed first inverts yellow chartreach circle follows green chart back interval
+let number inthen
+
+ta 
+chimathrmrightleftchimathrmtoparight 
+chimathrmrightlefta sqrtaright 
+sqrta
+
+function called transition map
+figurea circle manifold chart based slope covering one
+point circle
+enlarge
+figurea circle manifold chart based slope covering one
+point circle
+
+top bottom left right chart show circlemanifold form possible atlas chart needgeometric projection number chart matterchoice consider charts
+
+chimathrmminusxysyoverx
+
+
+chimathrmplusxytyoverx
+
+slope line point coordinate fixed pivot pointt mirror image pivot
+pointthe inverse mapping given
+xsoversqquad ysovers
+
+easily confirmed xyfor value slope
+two chart provide second atlas circle
+tover
+chart omits single point eitherfor orforneither chart alone sufficient cover whole circlepossible cover full circle single chart sincecircle doubly connected line simply connected note
+possible construct circle gluing together single
+piece line doe produce chart since portioncircle mapped glued region
+curves
+
+four manifold algebraic curvescirclesparabola
+hyperbolacubic
+enlarge
+four manifold algebraic curvescirclesparabola
+hyperbolacubic
+
+manifold need connected one piece thus pairseparate circle also manifold need closed thusline segment without end manifold needfinite thus parabola manifold putting freedom together
+two example manifold hyperbola two open infinite pieces
+locus point cubic curve yxx closed loop
+piece open infinite piece
+
+however exclude example like two touching circle sharepoint form figure shared point cannot createsatisfactory chart even bending allowed topologyvicinity shared point look like anot line
+
+enriched circle
+
+viewed using calculus circle transition function simplyfunction open interval give meaning statement
+differentiable transition map othersdifferentiable ontherefore atlas circledifferentiable manifold also smooth analytictransition function property well
+
+circle property allow meet requirementspecialized type manifold example circle notiondistance two point arclength point hence
+riemannian manifold
+
+history
+
+study manifold combine many important area mathematicsgeneralizes concept curve surface well idealinear algebra topology certain special class manifold also
+additional algebraic structure may behave like groupinstance
+
+prehistory
+
+modern concept manifold several important
+results
+
+carl friedrich gauss may first consider abstract
+space mathematical object right theorema
+egregium give method computing curvature surface
+without considering ambient space surface liesurface would modern terminology called manifoldmodern term theorem proved curvature surfaceintrinsic property manifold theory come focus exclusivelyintrinsic property invariant largely ignoringextrinsic property ambient space
+
+another topological example intrinsic propertymanifold euler characteristic nonintersecting grapheuclidean dimensional space vertex corner edges
+f face counting exterior euler showed vefthus 
+called euler characteristic euclidean dimensional spacecontrast euler characteristic torus issincecomplete graph seven point embedded toruseuler characteristic dimensional space useful
+topological invariant extended higher dimension using
+betti numbers
+
+noneuclidean geometry considers space euclid parallel
+postulate fails saccheri first studied inlobachevsky
+bolyai riemann developed themyears later research
+uncovered two type space whose geometric structure differclassical euclidean space gave rise hyperbolic
+geometry elliptic geometry modern theory manifolds
+notion correspond manifold constant negativepositive curvature respectively
+
+synthesis
+
+bernhard riemann first extensive work generalizingidea surface higher dimension name manifold comeriemann original german term mannigfaltigkeit william kingdon
+clifford translated manifoldness gttingen inaugural
+lecture riemann described set possible value variable
+certain constraint mannigfaltigkeit variable
+many value distinguishes stetige mannigfaltigkeit
+diskrete mannigfaltigkeit continuous manifoldnessdiscontinuous manifoldness depending whether value changes
+continuously continuous example riemann referscolor location object space also possible
+shape spatial figure using induction riemann constructnfach ausgedehnte mannigfaltigkeit time extended manifoldnessndimensional manifoldness continuous stack dimensional
+manifoldnesses riemann intuitive notion mannigfaltigkeit
+evolved today formalized manifold riemannian
+manifold riemann surface named bernhard riemann
+
+study complex variable process analytic continuation
+lead construction manifolds
+
+abelian variety already implicitly known riemann timecomplex manifold lagrangian mechanic hamiltonian mechanicconsidered geometrically also naturally manifold theoryuse notion several characteristic dimensions
+known generalized coordinate latter two casedimension lie along physical dimension width height
+breadth
+
+henri poincar studied threedimensional manifold raisedquestion today known poincar conjecture ofa
+consensus among expert recent work grigori perelman may
+answered question nearly century effort many
+mathematicians
+
+hermann weyl gave intrinsic definition differentiable manifolds
+induring hassler whitney others clarifiedfoundational aspect subject thus intuition dating backlatter half century became precise developed
+differential geometry lie group theory
+
+mathematical definition
+
+topology nmanifold second countable hausdorff spaceevery point neighbourhood homeomorphic open euclidean
+nball
+
+mathbfbnx xxnxx
+xn
+
+unless otherwise stated manifold nmanifold positive
+integer perhaps additional structure however authors
+admit manifold nmanifolds sense allow
+different connected component different topological dimension
+
+second countable condition excludes space long line
+hausdorff condition avoids space one formedidentifying two real line every point except origin
+
+ra 
+equivalence relation
+
+xa sim x neq 
+
+ha single point nonzero real number plus two points
+b space neighbourhood intersectneighbourhood 
+many different kind manifold manifoldtopological manifold locally topologyeuclidean space additional structure structuremap must consistent overlapping map differentiable
+manifold homeomorphisms overlapping neighborhoods
+diffeomorphic manifold welldefined
+set function differentiable neighbourhooddifferentiable manifold whole
+
+chart atlas transition maps
+
+spherical earth navigated using flat map chart collected
+atlas similarly differentiable manifold described
+using mathematical map called coordinate chart collectedmathematical atlas generally possible describe manifold
+one chart global structure manifolddifferent simple structure chart examplesingle flat map properly represent entire earthmanifold constructed multiple overlapping chart regions
+overlap carry information essential understandingglobal structure
+
+charts
+
+coordinate map coordinate chart simply chart manifold
+invertible map subset manifold simple
+space map inverse preserve desired
+structure topological manifold simple spaceeuclidean space interest focus topological structure
+structure preserved homeomorphisms invertible mapcontinuous directions
+
+case differentiable manifold set chart calledatlas allows calculus manifold polar coordinateexample form chart plane minus positive xaxisorigin another example chart map top mentionedsection chart circle
+
+atlases
+
+description manifold requires one chartsingle chart adequate simplest manifold specific
+collection chart cover manifold called atlasatlas unique manifold covered multiple way using
+different combination charts
+
+atlas containing possible chart consistent given atlas
+called maximal atlas unlike ordinary atlas maximal
+atlas given atlas unique though useful definitions
+abstract object used directly egcalculations
+
+transition maps
+
+chart atlas may overlap single point manifold mayrepresented several chart two chart overlap partrepresent region manifold map europemap asia may contain moscow given two overlapping charttransition function defined open ball manifold back another perhaps open
+ball resultant map like map circle example
+called change coordinate coordinate transformation
+transition function transition map
+
+additional structure
+
+atlas also used define additional structuremanifold structure first defined chart separatelytransition map compatible structurestructure transfer manifold
+
+standard way differentiable manifold definedtransition function atlas topological manifold preserve
+natural differential structure rndiffeomorphisms differential structure transfer manifold
+turn differentiable manifold
+
+general structure manifold depends atlassometimes different atlas give rise structureatlas called compatible
+
+construction
+
+single manifold constructed different way stressing
+different aspect manifold thereby leading slightly
+different viewpoint
+
+charts
+
+chart map part sphere positive coordinatedisc
+enlarge
+chart map part sphere positive coordinatedisc
+
+perhaps simplest way construct manifold one usedexample circle first subset identifiedatlas covering subset constructed conceptmanifold grew historically construction likeanother example applying method construction sphere
+
+sphere charts
+
+sphere treated almost way circlemathematics sphere surface solid interior
+defined subset 
+sxyz mathbfrxyz
+
+sphere twodimensional chart map partsphere open subset consider northern hemisphere
+part positive coordinate coloured redpicture right functiondefined
+xyzxy
+
+map northern hemisphere open unit disc projectingx plane similar chart exists southern hemisphere
+together two chart projecting z plane two charts
+projecting plane atlas six chart obtained
+cover entire sphere
+
+easily generalized higherdimensional spheres
+
+patchwork
+
+manifold constructed gluing together piece consistent
+manner making overlapping chart constructionpossible manifold hence often usedcharacterisation especially differentiable riemannian
+manifold focus atlas patch naturally provide
+chart since exterior space involved leadintrinsic view manifold
+
+manifold constructed specifying atlasdefined transition map point manifold thereforeequivalence class point mappedtransition map chart map equivalence class point single
+patch usually strong demand consistencytransition map topological manifold requiredhomeomorphisms also diffeomorphisms resulting
+manifold differentiable manifold
+
+illustrated transition mapsecond half circle example start two copy line
+use coordinate first copy second copy
+glue copy together identifying point second
+copy point first copy point tiidentified point first copy give circle
+
+intrinsic extrinsic view
+
+first construction construction similarrepresent rather different point view first construction
+manifold seen embedded euclidean spaceextrinsic view manifold viewed way easyuse intuition euclidean space define additional structureexample euclidean space always clear whether vectorpoint tangential normal surface point
+
+patchwork construction doe use embedding simply views
+manifold topological space abstract pointview called intrinsic view make harder imagine
+tangent vector might
+nsphere patchwork
+
+nsphere generalisation idea circle sphere
+sphere sphere higher dimension nsphere snconstructed gluing together two copy transition map
+defined
+mathbfrn setminusto mathbfrn setminusx
+mapsto 
+function inverse thus useddirection transition map smooth function atlas
+defines smooth manifold case nthe example simplifiescircle example given earlier
+
+identifying point manifold
+
+possible define different point manifoldvisualized gluing point together single
+point forming quotient space however reason expect
+quotient space manifold among possible quotient
+space necessarily manifold orbifolds complexes
+considered relatively wellbehaved
+
+one method identifying point gluing togetherright left action group act manifold two
+point identified one moved onto group
+element manifold group resulting
+quotient space denoted gm
+
+manifold constructed identifying point include tori
+real projective space starting plane sphere
+respectively
+
+cartesian products
+
+cartesian product manifold also manifold every
+manifold written product
+
+dimension product manifold sum dimensionfactor topology product topology cartesian
+product chart chart product manifold thus atlas
+product manifold constructed using atlasfactor atlas define differential structurefactor corresponding atlas defines differential structureproduct manifold true structure defined
+factor one factor boundary product
+manifold also boundary cartesian product may usedconstruct torus finite cylinder examplesrespectively
+finite cylinder manifold boundary
+enlarge
+finite cylinder manifold boundary
+
+manifold boundary
+
+manifold boundary manifold edge examplesheet paper rounded corner manifolddimensional boundary edge nmanifold nmanifold
+disk circle plus interior manifold boundaryboundary circle manifold ball sphere plus interiormanifold boundary boundary sphere manifold see
+also boundary topology
+
+technical language manifold boundary space containing
+interior point boundary point every interior point haneighbourhood homeomorphic open nball xxn 
+xievery boundary point neighbourhood homeomorphichalf nball xxnxiand homeomorphism must send boundary point point 
+
+
+gluing along boundaries
+
+two manifold boundary glued together along boundary
+done right way result also manifold
+similarly two boundary single manifold glued together
+
+formally gluing defined bijection two
+boundary two point identified mapped ontotopological manifold bijectionhomeomorphism otherwise result topological manifold
+similarly differentiable manifold diffeomorphism
+manifold structure preserved
+
+finite cylinder may constructed manifold startingstrip rand gluing pair opposite edge boundarysuitable diffeomorphism projective plane may obtained gluing
+sphere hole mbius strip along respective
+circular boundaries
+
+class manifolds
+
+topological manifolds
+
+simplest kind manifold define topological manifold
+look locally like ordinary euclidean space formally
+topological manifold topological space locally homeomorphiceuclidean space mean every point neighbourhoodexists homeomorphism bijective continuous function
+whose inverse also continuous mapping neighbourhood homeomorphisms chart manifold
+
+usually additional technical assumption topological spacemade exclude pathological case customary requirespace hausdorff second countable
+
+dimension manifold certain point dimensioneuclidean space chart point map number ndefinition point connected manifolddimension author require chart topological
+manifold map euclidean space case every
+topological manifold topological invariant dimensionauthor allow disjoint union topological manifold differing
+dimension called manifolds
+
+differentiable manifolds
+
+application special kind topological manifolddifferentiable manifold used local chart manifoldcompatible certain sense one define direction tangent
+space differentiable function manifold particularpossible use calculus differentiable manifold pointndimensional differentiable manifold tangent spacendimensional euclidean space consisting tangent vectorcurve point
+
+two important class differentiable manifold smoothanalytic manifold smooth manifold transition mapsmooth infinitely differentiable analytic manifoldsmooth manifold additional condition transition maps
+analytic technical definition loosely mean taylors
+theorem hold sphere given analytic structurefamiliar curve surfaces
+
+rectifiable set generalizes idea piecewise smoothrectifiable curve higher dimension however rectifiable setgeneral manifolds
+
+riemannian manifolds
+
+measure distance angle manifold manifold mustriemannian riemannian manifold analytic manifoldtangent space equipped inner productin mannervaries smoothly point point given two tangent vector v
+inner product give real number dot scalar
+product typical example inner product allows onedefine various notion length angle area volumes
+curvature gradient function divergence vector fields
+
+familiar curve surface including nspheres euclidean
+space given structure riemannian manifold
+
+finsler manifolds
+
+finsler manifold allows definition distance angle
+analytic manifold tangent space equippednormin manner varies smoothly point point
+norm extended metric defining length curve
+cannot general used define inner product
+
+riemannian manifold finsler manifold
+
+lie groups
+
+lie group particularly important class manifoldnamed sophus lie last name pronounced lee wellinner product also structure topological group
+allowing notion multiplication point manifoldcompact lie group given riemannian manifold structurecircle given structure lie groupthe circle group
+group structure multiplicative group complex
+number modulus 
+
+euclidean vector space group operation vector additionexample noncompact lie group example lie groups
+include special group matrix subgroupgeneral linear group group n matrix nonzero
+determinant matrix entry real numberndimensional disconnected manifold orthogonal groupsymmetry group sphere hyperspheres dimensional manifold dimension sphere
+example found table lie groups
+
+type manifolds
+
+complex manifold manifold modeled holomorphic
+transition function chart overlap manifoldbasic object study complex geometryonecomplexdimensional manifold called riemann surface note
+ndimensional complex manifold dimension ndifferentiable manifold
+infinite dimensional manifold allow infinite dimensions
+one may consider banach manifold locally homeomorphicbanach space similarly frchet manifold locally
+homeomorphic frchet spaces
+symplectic manifold kind manifold usedrepresent phase space classical mechanic endowed
+form defines poisson bracket closely related
+type manifold contact manifold
+
+invariant properties
+
+unlike curve surface higher dimensional manifold cannotunderstood mean visual intuition indeed difficulteven impossible decide whether two different descriptionhigherdimensional manifold refer object reason
+useful develop concept criterion describe intrinsic
+geometric topological aspect mathematical objectcriterion commonly referred invariantrelative possible description particular
+manifold thus possible distinguish two manifolddisagree respect invariant property naively one could
+hope develop arsenal invariant criterion would
+definitively classify manifold isomorphism unfortunately
+known manifold dimensionand higher single
+decision procedure used decide whether two manifoldtopological configuration
+
+invariant property local serve characterize
+manifold smallest scale invariant propertyglobal take account manifold overall spatial structure
+many invariant property relevant manifold theory come point
+set topology separability point hausdorff property one
+invariant dimension see another compactness
+connectedness paracompactness important global properties
+however many mathematician consider separability pointparacompactness essential includedefinition manifold
+
+algebraic topology source number important global
+invariant property key criterion include simply connected
+property orientability see indeed several branchmathematics homology homotopy theory theorycharacteristic class founded order study invariant
+property manifolds
+
+often said aside dimension differential manifold
+ha local invariant however manifold endowedgeometric information riemannian structure invariant local
+property may arise example include notion flatnessconstant curvature riemannian manifold absence torsion
+manifold equipped affine connection
+
+orientability
+
+dimension two higher simple important invariant
+criterion question whether manifold admits meaningful
+orientation consider topological manifold chart mappingrn given ordered basis chart cause piecemanifold acquire sense ordering dimensions
+viewed either righthanded lefthanded overlapping charts
+required agree sense ordering gives
+manifold important freedom manifold like sphere
+chart chosen overlapping region agreehandedness orientable manifold othersimpossible latter possibility easy overlookclosed surface embedded without selfintersectionthreedimensional space orientable
+
+illustrative example nonorientable manifold includethe
+mbius strip manifold boundarythe klein bottle
+must intersect space andthe real projective
+plane arises naturally geometry
+mbius strip
+enlarge
+mbius strip
+
+mbius strip
+
+begin infinite circular cylinder standing verticallymanifold without boundary slice across high low produce two
+circular boundary cylindrical striporientable manifold boundary upon surgeryperformed slice strip open could unroll becomerectangle keep grasp cut end twist one endmaking
+inner surface face glue end back together seamlessly
+result strip permanent halftwist mbius strip
+boundary longer pair circle topologicallysingle circle inside mergedoutside single side
+
+klein bottle
+
+klein bottle immersed threedimensional space
+enlarge
+klein bottle immersed threedimensional space
+
+take two mbius strip single loop boundary
+straighten loop circle let strip distort
+crosscaps gluing circle together produce new closed
+manifold without boundary klein bottle closing surfacenothing improve lack orientability merely removeboundary thus klein bottle closed surfacedistinction inside outside note threedimensional
+space klein bottle surface must pas buildingklein bottle selfintersecting requires fourdimension space
+
+real projective plane
+
+begin sphere centered origin every lineorigin pierce sphere two opposite point called antipodes
+although way physically possiblemathematically merge antipode pair single point closed
+surface produced real projective plane yet another
+nonorientable surface number equivalent descriptionconstruction route explains name pointgiven line origin project pointplane
+
+genus euler characteristic
+
+two dimensional manifold key invariant property genusnumber handle present surface torus sphereone handle double torus sphere two handleindeed possible fully characterize compact twodimensional
+manifold basis genus orientabilityhigherdimensional manifold genus replaced notion euler
+characteristic
+
+dimension
+
+dimensionality built right definition nmanifold
+dimension local invariant doe change one moves
+inside manifold however setting convenient allow
+single manifold consist several disconnected piecedimension
+
+generalization manifolds
+
+orbifolds orbifold generalization manifold allowingcertain kind ofsingularities topology roughly
+speaking space locally look like quotientsimple space euclidean space action various
+finite group singularity correspond fixed pointgroup action action must compatible certain
+sense
+algebraic variety scheme algebraic variety glued
+together affine algebraic variety zero setpolynomial algebraically closed field scheme likewise
+glued together affine scheme generalizationalgebraic variety related manifoldconstructed using sheaf instead atlas singular
+point one cannot assume variety manifold even though
+linguistically french varit german mannigfaltigkeitenglish manifold much thing
+cwcomplexes complex topological space formed gluing
+object different dimensionality together reasongenerally manifold however central interest
+algebraic topology especially homotopy theorydimensional defect acceptable
+

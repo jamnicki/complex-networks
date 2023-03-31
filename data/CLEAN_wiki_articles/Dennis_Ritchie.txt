@@ -1,0 +1,73 @@
+copyright
+
+dennis ritchie
+
+ school wikipedia selection related subject computing people
+
+dennis macalistair ritchie born septemberis computer
+scientist notable influence altran bcpl multicsunix received turing award inand national medaltechnology inritchie currently head lucent
+technology system software research department
+
+background
+
+born bronxville new york ritchie graduated harvarddegree physic applied mathematics inhe began working
+bell lab computing science research centre
+
+c unix
+
+ritchie best known creator programming languagekey developer unix operating system coauthordefinitive book c programming language book commonly
+referred reference author kernighan ritchie
+ken thompson left dennis ritchie right
+ken thompson left dennis ritchie right
+
+ritchies invention role development unix
+alongside ken thompson placed important pioneermodern computing language still widely used todayapplication operating system development influence seen
+modern programming language c unix alsoinfluential establishing concept principlewellestablished precept computing popular gnulinux operating
+system tool descendant ritchies work windows
+operating system include unix compatibility tool compilerdevelopers
+
+ritchie said creating language looked like good thing
+anyone else place time would
+done thing though bell lab colleague bjarne stroustrup
+developer said dennis decided spend decade
+esoteric math unix would stillborn
+
+following success unix ritchie continued researchoperating system programming language contributionplanand inferno operating system limbo programming
+language
+
+awards
+
+thompson ritchie clinton
+enlarge
+thompson ritchie clinton
+
+turing award
+
+inritchie ken thompson jointly received turing awarddevelopment generic operating system theory specifically
+implementation unix operating system ritchies turing
+award lecture titled reflection software research
+
+national medal technology
+
+aprilthompson ritchie jointly received 
+national medal technology president bill clintoncoinventing unix operating system programming language
+together led enormous advance computer hardware
+software networking system stimulated growth entire
+industry thereby enhancing american leadership information age
+
+nicknames
+
+dennis ritchie often referred dmr bell lab email
+address various usenet newsgroups complangc
+
+writing ritchie
+
+c programming languagewith brian kernighan see unix programmer manual
+
+quotes
+
+ever member demigodic
+party
+usenet strange place
+unix basically simple operating systemgenius understand simplicity
+

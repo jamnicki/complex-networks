@@ -1,0 +1,430 @@
+copyright
+
+cryptography
+
+ school wikipedia selection related subject cryptography
+
+german lorenz cipher machine used world war encryption
+highlevel general staff messages
+enlarge
+german lorenz cipher machine used world war encryption
+highlevel general staff messages
+
+cryptography cryptology derived greekkrypts
+hidden verbgrfo write study message
+secrecy modern time become branch information theory
+mathematical study information especiallytransmission place place noted cryptographer ron rivest
+ha observed cryptography communication presence
+adversary central contributor several fields
+information security related issue particularly authentication
+access control one cryptography primary purpose hiding
+meaning message usually existence messages
+cryptography also contributes computer science centraltechnique used computer network security thingaccess control information confidentiality cryptography also
+used many application encountered everyday life securityatm card computer password electronic commerce dependcryptography
+
+terminology
+
+term often used refer field wholecryptology study secret study circumventconfidentiality sought using encryption called cryptanalysisloosely codebreaking field rich source jargon
+humorous
+
+modern time cryptography referred almost exclusivelyencryption process converting ordinary informationplaintext
+something unintelligible ciphertext decryptionreverse moving unintelligible ciphertext plaintext cipher
+cypher pair algorithm perform encryptionreversing decryption detailed operation ciphercontrolled algorithm instance keysecret parameter known communicant cipher
+algorithm key important cipher without variable keytrivially breakable rather useful historically
+cipher often used directly encryption decryption without
+additional procedures
+
+colloquial use termcode often used mean methodencryption concealment meaning however within cryptography
+code specific meaning mean replacement unitplaintext meaningful word phrase code wordexample apple pie replaces attack dawn code longer used
+serious cryptographyexcept incidentally thing unit
+designation bronco flightsince properly chosen cipherpractical secure even best codebetter adapted computer well
+
+use english term cryptography cryptology interchangeably
+others use cryptography refer use practicecryptographic technique cryptology refer subjectfield study respect english usage tolerantoverlapping meaning several european languages
+
+history cryptography cryptanalysis
+
+ancient greek scytale probably much like modern
+reconstruction may one earliest device usedimplement cipher
+enlarge
+ancient greek scytale probably much like modern
+reconstruction may one earliest device usedimplement cipher
+
+modern era cryptography concerned solely message
+confidentiality encryptionconversion messagecomprehensible form incomprehensible one backend rendering unreadable interceptor eavesdroppers
+without secret knowledge namely key needed decryptionrecent decade field expanded beyond confidentiality concerns
+include technique authentication message integritysenderreceiver identity digital signature interactive proofsecure computation
+
+earliest form secret writing required little penpaper main classical cipher type transposition cipherrearrange order letter message help becomes
+ehpl trivially simple rearrangement scheme substitution
+cipher systematically replace letter group letterletter group letter fly becomes gmz podf replacing letter one followingalphabet simple version either offered little confidentiality
+still dont early substitution cipher caesar cipherletter plaintext replaced letter fixed
+number position alphabet namedjulius caesar reported used shift ofto
+communicate general military campaigns
+
+encryption attempt ensure secrecy communicationspy military leader diplomat alsoreligious application instance early christian used
+cryptography obfuscate aspect religious writingavoid near certain persecution would facedle obscured famouslythe number beastchristian new testament book revelation sometimes thoughtciphertext referring roman emperor nero one whose policies
+wa persecution christian record several even
+earlier hebrew cipher well cryptography recommendedkama sutra way lover communicate without inconvenient
+discovery steganography hiding even existence message
+keep confidential also first developed ancient
+time early example herodotus concealed messagea tattoo
+slave shaved headby regrown hair modern examplesteganography include use invisible ink microdot digital
+watermark conceal information 
+
+ciphertexts produced classical cipher always reveal statistical
+information plaintext often used breakarab discovery frequency analysis around year 
+nearly cipher became readily breakableinformed attacker classical cipher still enjoy popularity today
+though mostly puzzle see cryptogram essentially ciphers
+remained vulnerable cryptanalysis using techniqueinvention polyalphabetic cipher leon battista alberti around
+yearalbertis innovation use different cipher substitution alphabet various part message oftensuccessive plaintext letter also invented probablyfirst automatic cipher device wheel implemented partial
+realization invention polyalphabetic vigenre cipher
+encryption key word control letter substitution
+depending letter key word used despiteimprovement polyalphabetic cipher type remained partially
+vulnerable frequency analysis technique thoughundiscovered mid babbage
+enigma machine used several variant german military
+late end world war implementedcomplex electromechanical polyalphabetic cipher protect sensitive
+communication breaking enigma cipher biuro szyfrwsubsequent largescale decryption enigma traffic bletchley
+park important factor contributing allied victorywwii
+enlarge
+enigma machine used several variant german military
+late end world war implementedcomplex electromechanical polyalphabetic cipher protect sensitive
+communication breaking enigma cipher biuro szyfrwsubsequent largescale decryption enigma traffic bletchley
+park important factor contributing allied victorywwii
+
+although frequency analysis powerful general technique
+encryption still often effective practice many wouldbe
+cryptanalyst unaware technique breaking message without
+frequency analysis essentially required knowledge cipher used
+thus encouraging espionage bribery burglary defection etcdiscover finally recognized century secrecy
+cipher algorithm sensible practical safeguardfact adequate cryptographic scheme including cipherremain secure even adversary know cipher algorithmsecrecy key alone sufficient confidentialityattackfor good cipher fundamental principle first
+explicitly stated inby auguste kerckhoffs called
+kerckhoffs principle alternatively bluntly restated
+claude shannon shannon maximthe enemy know system
+
+various physical device aid used assistcipher one earliest may scytale ancient
+greece rod supposedly used spartan aidtransposition cipher medieval time aid inventedcipher grille also used kind steganographyinvention polyalphabetic cipher came sophisticated aidalberti cipher disk johannes trithemius tabula rectum scheme
+thomas jefferson multicylinder invented independentlybazeries aroundearly century several mechanical
+encryptiondecryption device invented many patented
+including rotor machinesmost famously enigma machine usedgermany world war cipher implemented betterdesign brought substantial increase cryptanalytic
+difficulty
+
+development digital computer electronics wwii made
+possible much complex cipher furthermore computer allowedencryption kind data represented computerbinary unlike classical cipher encrypted written text
+dissolving need linguistic approach cryptanalysis many
+computer cipher characterised operation binary bits
+sometimes group block unlike classical mechanical
+scheme generally manipulate traditional character letter digit however computer also assisted
+cryptanalysis compensated extent increased
+cipher complexity nonetheless good modern cipher stayed ahead
+cryptanalysis usually case use quality cipher
+efficient breaking requires effort many ordermagnitude larger making cryptanalysis inefficient impractical
+effectively impossible
+
+extensive open academic research cryptography relatively recent
+began mids public specification des
+data encryption standard diffiehellman paper
+public release rsa algorithm since cryptography
+ha become widely used tool communication computer networkcomputer security generally security many modern cryptographic
+technique based difficulty certain computational
+problem integer factorisation problem discrete
+logarithm problem many case proof cryptographic
+technique secure certain computational problem cannotsolved efficiently one notable exceptionthe onetime pad 
+contingent thus definitive proof best
+available cryptographic algorithm protocols
+
+well aware cryptographic history cryptographic
+algorithm system designer must also sensibly consider probable
+future development design instance continued
+improvement computer processing power increased scopebruteforce attack specifying key length potential effects
+quantum computing already considered cryptographic
+system designers
+
+essentially prior early century cryptography chiefly
+concerned linguistic pattern since emphasisshifted cryptography make extensive use mathematics
+including aspect information theory computational complexity
+statistic combinatorics abstract algebra number theory
+cryptography also branch engineering unusual onedeal active intelligent malevolent opposition see
+cryptographic engineering security engineering kindengineering need deal neutral natural force also
+active research examining relationship cryptographic
+problem quantum physic see quantum cryptography quantum
+computing
+
+modern cryptography
+
+modern field cryptography divided several areastudy primary one discussed see topic cryptography
+
+symmetrickey cryptography
+
+symmetrickey cryptography refers encryption methodsender receiver share key commonlykey different related easily computable way
+wa kind encryption publicly known 
+one round ofof patented idea cipher usedversion pgp highspeed encryption instance email
+enlarge
+one round ofof patented idea cipher usedversion pgp highspeed encryption instance email
+
+modern study symmetrickey cipher relates mainly study
+block cipher stream cipher application block
+cipher sense modern embodiment alberti polyalphabetic
+cipher block cipher take input block plaintext keyoutput block ciphertext size since messagealmost always longer single block method knitting
+together successive block required several developed
+better security one aspect another othersmode operation must carefully considered using
+block cipher cryptosystem
+
+de aes block cipher designated cryptography
+standard government though des designation finally
+withdrawn aes adopted despite deprecationofficial standard especially stillapproved muchsecure tripledes variant remains quite popular used acrosswide range application atm encryption email privacysecure remote access many block cipher designedreleased considerable variation quality manythoroughly broken see categoryblock ciphers
+
+stream cipher contrast block type create arbitrarily
+long stream key material combined plaintext
+bitby bit characterbycharacter somewhat like onetime pad
+stream cipher output stream created based internal
+state change cipher operates state changecontrolled key stream cipher plaintext
+stream well example wellknown stream cipher see
+categorystream ciphers
+
+cryptographic hash function often called message digest functionuse key related important class cryptographic
+algorithm take input data often entire message output
+short fixed length hash oneway function good
+one collision two plaintexts produce hashextremely difficult find
+
+message authentication code mac much like cryptographic hash
+function except secret key used authenticate hash
+value receipt
+
+publickey cryptography
+
+symmetrickey cryptosystems typically use key encryption
+decryption significant disadvantage symmetric cipherkey management necessary use securely distinct paircommunicating party mustideally share different key number
+key required increase square number network
+member quickly requires complex key management schemekeep straight secret difficulty establishingsecret key two communicating party secure channel
+doesnt already exist also present chickenandegg
+problem considerable practical obstacle cryptography
+user real world
+whitfield diffie martin hellman inventor publickey
+cryptography
+enlarge
+whitfield diffie martin hellman inventor publickey
+cryptography
+
+groundbreakingpaper whitfield diffie martin hellman
+proposed notion publickey also generally called
+asymmetric key cryptography two different mathematically
+related key useda public key private key public key
+system constructed calculation private keycomputationally infeasible public key even thoughnecessarily related instead key generated secretlyinterrelated pair historian david kahn described publickey
+cryptography revolutionary new concept field since
+polyalphabetic substitution emerged renaissance
+
+publickey cryptosystems public key may freely distributed
+paired private key must remain secret public keytypically used encryption private secret key used
+decryption diffie hellman showed publickey cryptography
+wa possible presenting diffiehellman key exchange protocolronald rivest adi shamir len adleman invented rsa another
+publickey system init finally became publicly knownasymmetric key cryptography invented james elligchq british intelligence organization earlydiffiehellman rsa algorithm previously
+developed malcolm williamson clifford cock respectively
+
+diffiehellman rsa addition first publicly known
+example high quality publickey cryptosystems amongwidely used others include cramershoup cryptosystem elgamal
+encryption various elliptic curve technique see
+categoryasymmetrickey cryptosystems
+padlock icon firefox web browser meant indicate pagesent ssl tlsencrypted protected form however icon
+guarantee security subverted browser might misleaduser displaying proper icon transmission actually
+protected ssl tls
+enlarge
+padlock icon firefox web browser meant indicate pagesent ssl tlsencrypted protected form however icon
+guarantee security subverted browser might misleaduser displaying proper icon transmission actually
+protected ssl tls
+
+addition encryption publickey cryptography usedimplement digital signature scheme digital signature reminiscent
+ordinary signature characteristiceasy user produce difficult anyone else forge
+digital signature also permanently tied contentmessage signed cannot moved one documentanother attempt detectable digital signature
+scheme two algorithm one signing secret
+key used process message hash messageone verification matching public key usedmessage check validity signature rsa dsa two
+popular digital signature scheme digital signaturecentral operation public key infrastructure many
+network security schemesssltls many vpns etc
+
+publickey algorithm often based computational
+complexity hard problem often number theory hardness
+rsa related integer factorization problemdiffiehellman dsa related discrete logarithm problem
+recently elliptic curve cryptography developedsecurity based number theoretic problem involving elliptic
+curve complexity underlying problempublickey algorithm involve operation modular multiplication
+exponentiation much computationally expensivetechnique used block cipher especially typical key
+size result publickey cryptosystems commonly hybrid
+system fast symmetrickey encryption algorithm usedmessage relevant symmetric key sentmessage encrypted using publickey algorithm similarly hybrid
+signature scheme often used cryptographic hash
+function computed resulting hash digitally signed
+
+cryptanalysis
+
+goal cryptanalysis find weakness insecuritycryptographic scheme thus permitting subversion evasion
+cryptanalysis might undertaken malicious attacker attempting
+subvert system system designer others attempting
+evaluate whether system vulnerabilityinherently hostile act modern practice however cryptographic
+algorithm protocol must carefully examined tested
+offer confidence system quality least clear
+hopefully reasonableassumptions without examination
+confidence cryptosystems quality justifiedproof security cryptography cryptanalysis
+
+commonly held misconception every encryption methodbroken connection wwii work bell lab claude shannon
+proved onetime pad cipher unbreakable provided key
+material truly random never reused kept secret possible
+attacker equal greater length messagecipher apart onetime pad broken enough
+computational effort brute force attack amount effort
+needed may exponentially dependent key size comparedeffort needed use cipher case effective security
+could achieved proven effort work factorshannon term beyond ability adversary meanmust proven efficient method opposedinefficient brute force method found break ciphertoday onetimepad remains theoretically unbreakable
+cipher
+
+wide variety cryptanalytic attackclassified several way common distinction turnattacker know capability availableciphertextonly attack cryptanalyst accessciphertext good modern cryptosystems usually effectively immuneciphertextonly attack knownplaintext attack cryptanalyst
+ha access ciphertext corresponding plaintext many
+pair chosenplaintext attack cryptanalyst may choose
+plaintext learn corresponding ciphertext perhaps many
+time example gardening used british wwii
+finally chosenciphertext attack cryptanalyst may choose
+ciphertexts learn corresponding plaintexts also important
+often overwhelmingly mistake generally design use
+one protocol involved see cryptanalysis enigmahistorical example
+cryptanalysis symmetrickey cipher typically involves lookingattack block cipher stream cipherefficient attack could perfect cipherexample simple brute force attack requires one known
+plaintext anddecryptions trying approximately halfpossible key reach point chance better even
+key sought found may enough assurancelinear cryptanalysis attack requiresknown plaintexts
+approximatelydes operation considerable
+improvement brute force attacks
+
+publickey algorithm based computational difficultyvarious problem famous integer factorization
+rsa cryptosystem based problem related factoringdiscrete logarithm problem also important much publickey
+cryptanalysis concern numerical algorithm solvingcomputational problem efficiently instancebest known algorithm solving elliptic curvebased versiondiscrete logarithm much timeconsuming best known
+algorithm factoring least problem equivalent size
+thus thing equal achieve equivalent strengthattack resistance factoringbased encryption technique must use
+larger key elliptic curve technique reason publickey
+cryptosystems based elliptic curve become popular sinceinvention mids
+
+pure cryptanalysis weakness algorithmattack cryptosystems based actual usealgorithm real device known sidechannel attackcryptanalyst access say amount time device tookencrypt number plaintexts report error password pin
+character may able use timing attack break cipherotherwise resistant analysis attacker might also studypattern length message derive valuable informationknown traffic analysis quite useful alert
+adversary course social engineering attacks
+personnel work cryptosystems messagehandle bribery extortion blackmail espionagemayproductive attack
+cryptographic primitives
+
+unsolved problem computer science oneway function functions
+easy compute hard invert oneway functionproved exist
+
+much theoretical work cryptography concern cryptographic
+primitivesalgorithms basic cryptographic propertiesandrelationship cryptographic problem example oneway
+function function intended easy compute hardinvert general sense cryptographic applicationsecure based computational feasibility assumptions
+oneway function must exist however oneway function existimplies pnp since versus problem currently
+unsolved dont know oneway function exist instanceoneway function exist secure pseudorandom generator secure
+pseudorandom function exist
+
+currently known cryptographic primitive provide basic
+functionality usually noted confidentiality message
+integrity authentication nonrepudiation functionality
+must built combination algorithm assorted
+protocol combination called crypto systemuser encounter example include pgp variant ssh
+ssl pkis digital signature etc
+
+cryptographic primitive include cipher algorithmoneway permutation trapdoor permutation etc
+
+cryptographic protocols
+
+many case cryptographic technique involve back forth
+communication among two party space home
+office branch office across time cryptographically
+protected backup data term cryptographic protocol capturegeneral idea
+
+cryptographic protocol developed wide rangeproblem including relatively simple one like interactive proofs
+secret sharing zeroknowledge much complex one like
+electronic cash secure multiparty computation
+
+security good cryptographic system fails rarevulnerabilty leading breach quality
+cryptographic primitive instead weakness often mistakeprotocol design often due inadequate design procedure less
+thoroughly informed designer implementation egsoftware bug failure assumption designbased proper training using systemhuman error many cryptographic protocol designed
+analyzed using hoc method rarely proofsecurity method formally analyzing security protocols
+based technique mathematical logic see example ban
+logic recently concrete security principlesubject research past decade unfortunatelydate tool cumbersome widely usedcomplex designs
+
+study best implement integrate cryptographyapplication distinct field see cryptographic engineering
+security engineering
+
+legal issue involving cryptography
+
+prohibitions
+
+potential assist malicious schemes
+cryptography long interest intelligence gathering
+agency law enforcement agency facilitationprivacy diminution privacy attendant prohibition
+cryptography also considerable interest civil rights
+supporter accordingly history controversial
+legal issue surrounding cryptography especially since adventinexpensive computer made possible widespread access high
+quality cryptography
+
+country even domestic use cryptographyrestricted untilfrance significantly restricted use
+cryptography domestically china license still requireduse cryptography many country tight restriction usecryptography among restrictive law belarus china
+kazakhstan mongolia pakistan russia singapore tunisia venezuela
+vietnam
+
+united state cryptography legal domestic useha much conflict legal issue related cryptography one
+particularly important issue export cryptographycryptographic software hardware importancecryptanalysis world war expectation cryptography
+would continue important national security many western
+government point strictly regulated exportcryptography world war wa illegal selldistribute encryption technology overseas fact encryptionclassified munition like tank nuclear weaponadvent personal computer internet waespecially problematic good cryptography indistinguishable bad
+cryptography nearly user casecryptographic technique generally available slow error prone
+whether good bad however internet grew computer became
+widely available high quality encryption technique became
+wellknown around globe result export control cameseen impediment commerce research
+
+export controls
+
+several challenge export regulationcryptography one involved philip zimmermanns pretty good privacy
+pgp encryption program released togethersource code found way onto internet june ofafter
+complaint rsa security called rsa data security incrsadsi zimmermann criminally investigated custom service
+fbi several year charge ever filed however
+also daniel bernstein graduate student berkeley brought
+lawsuit government challenging aspectrestriction based free speech ground thecase bernstein united state ultimately resulted adecision printed
+source code cryptographic algorithm system protectedfree speech united state constitution
+
+inthirtynine country signed wassenaar arrangementarm control treaty deal export arm dualuse
+technology cryptography treaty stipulated use
+cryptography short keylengths bit symmetric
+encryption bit rsa would longer exportcontrolled
+cryptography export much strictly regulated
+past consequence major relaxation inthere
+longer many restriction key size exported
+massmarket software practice today since relaxation export restriction almost every personal computer
+connected internet everywhere world includes ussourced
+web browser mozilla firefox microsoft internet explorer
+almost every internet user worldwide strong cryptography using long key browser transport layer security ssl
+stack mozilla thunderbird microsoft outlook email client
+program similarly connect imap pop server via tlsend receive email encrypted smime many internet user dont
+realize basic application software contains extensive
+cryptography system browser email programubiquitous even government whose intent regulate civilian
+use cryptography generally dont find practical muchcontrol distribution use cryptography quality even
+law force actual enforcement often effectively
+impossible
+
+nsa involvement
+
+another contentious issue connected cryptography united
+state influence national security agency cipher
+development policy nsa involved design dedevelopment ibm consideration national bureaustandard possible federal standard cryptography dedesigned secure differential cryptanalysis powerful
+general cryptanalytic technique known nsa ibm became
+publicly known rediscovered lateaccording steven levy ibm rediscovered differential cryptanalysis
+kept technique secret nsa request technique became
+publicly known biham shamir rerediscovered years
+later entire affair illustrates difficulty determiningresource knowledge attacker might actually
+another instance nsa involvement theclipper chip affair
+encryption microchip intended part capstone
+cryptographycontrol initiative clipper widely criticizedcryptographer two reason cipher algorithm classified
+cipher called skipjack declassified inlongclipper initiative lapsed caused concern nsadeliberately made cipher weak order assist intelligence
+effort whole initiative also criticized basedviolation kerckhoffs principle scheme included special
+escrow key held government use law enforcementexample wiretaps
+
+digital right management
+
+cryptography central digital right management drm grouptechnique technologically controlling use copyrighted material
+widely implemented deployed behest copyright
+holder inbill clinton signed digital millennium copyright
+act dmca criminalized production dissemination use
+certain cryptanalytic technique technology specificallycould used circumvent drm technological schemeserious potential impact cryptography research community
+since argument made cryptanalytic research violated
+might violate dmca fbi justice departmentenforced dmca rigorously fearedlaw nonetheless remains controversial one one wellrespected
+cryptography researcher niels ferguson publicly statedrelease research intel security design fear
+prosecution dmca alan cox longtime numberin
+linux kernel development professor edward feltenstudent princeton encountered problem related act
+dmitry sklyarov arrested visit jailedmonth alleged violation dmca occurredrussia work arrested charged legal
+similar statute since enacted several country seeinstance copyright directive
+

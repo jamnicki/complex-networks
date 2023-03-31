@@ -1,0 +1,124 @@
+copyright
+
+sound
+
+ school wikipedia selection related subject general physics
+
+sound disturbance mechanical energy propagatesmatter wave sound characterized property sound
+wave frequency wavelength period amplitude velocity
+speed
+
+explanation
+
+human perceive sound sense hearing sound commonly
+mean vibration travel air heard humans
+however scientist engineer use wider definition soundincludes low high frequency vibration air cannot heard
+human vibration travel form matter
+gas liquid solid matter support sound called
+medium sound propagates wave alternating pressure causing
+local region compression rarefaction particle medium
+displaced wave oscillate scientific study sound
+called acoustics
+
+noise sound often mean thing noise often usedrefer unwanted sound science engineering noiseundesirable component obscures signal
+
+perception sound
+
+schematic representation hearing blue sound wave red
+eardrum yellow cochlea green auditory receptor cell purple
+frequency spectrum hearing response orange nerve impulse
+enlarge
+schematic representation hearing blue sound wave red
+eardrum yellow cochlea green auditory receptor cell purple
+frequency spectrum hearing response orange nerve impulse
+
+sound perceived sense hearing human many
+animal use ear hear sound loud sound lowfrequency
+sound perceived part body sensetouch vibration sound used several way notablycommunication speech music also usedacquire information property surrounding environment
+spatial characteristic presence animalobject example bat use echolocation ship submarine use
+sonar human determine spatial information wayperceive sounds
+
+human generally hear sound frequency betweenhz 
+khz although range varies significantly age occupational
+hearing damage gender majority people longer hear
+hz time teenager progressively loseability hear higher frequency get older human speech
+communication take place betweenandhz human earsensitive frequency aroundhz soundhearing range known ultrasound hearing range
+infrasound
+
+amplitude soundwave specified term pressurehuman ear detect sound wide range amplitudelogarithmic decibel amplitude scale used quietest soundhuman hear amplitude approximatelypa 
+micropascals sound pressure level spl ofdb repa often
+incorrectly abbreviated asdb spl prolonged exposure sound
+pressure level exceedingdb permanently damage ear
+resulting tinnitus hearing impairment sound level excessdb human ear safely withstand result
+serious pain permanent damage high amplitudes
+soundwaves exhibit nonlinear effect including shock
+
+speed sound
+
+speed sound travel depends mediumwave passing often quoted fundamental propertymaterial general speed sound proportionalsquare root ratio stiffness mediumdensity physical property speed sound changeambient condition example speed sound airgas depends temperature air speed soundapproximatelyms waterms bar steel 
+speed sound also slightly sensitive second ordersound amplitude resulting nonlinear propagation effectweak production harmonic mixing tone see
+parametric array
+
+sound pressure
+
+sound pressure pressure deviation local ambient
+pressure caused sound wave sound pressure measured usingmicrophone air hydrophone water unit sound
+pressure pascal symbol instantaneous sound pressure
+deviation local ambient pressure caused sound wave
+given location given instant time effective sound
+pressure root mean square instantaneous sound pressure
+given interval time soundwave complementary
+variable sound pressure acoustic particle velocity small
+amplitude sound pressure particle velocity linearly related
+ratio acoustic impedance acoustic impedance
+depends characteristic wave mediumlocal instantaneous sound intensity product sound
+pressure acoustic particle velocity therefore vector
+quantity time
+
+sound pressure level
+
+human ear detect sound wide rangeamplitude sound pressure often measured levellogarithmic decibel scale
+
+sound pressure level spl defined
+lmathrmp logleftfracppright
+logleftfracpprightmbox p rootmeansquare sound pressure preference sound pressure using sound pressure levelmay important quote reference sound pressure used
+commonly used reference sound pressure defined standard
+ansi arepa air andpa water
+
+since human ear doe flat spectral response sound
+pressure level often frequency weighted measured level
+match perceived level closely international
+electrotechnical commission iec defined several weighting
+scheme aweighting attempt match response human earnoise aweighted sound pressure level labeled dba cweighting
+used measure peak levels
+
+example sound pressure sound pressure levels
+
+source soundsound pressuresound pressure level
+pascaldb repa
+threshold pain
+hearing damage shortterm effectapprox 
+jetm distant
+jack hammerm distantdiscothequeapprox 
+hearing damage longterm effectapprox 
+major roadm distant
+passenger carm distant
+tv set home levelm distantca 
+normal talkingm distant
+calm room
+leaf noise calm breathing
+auditory threshold atkhz
+
+measurement sound
+
+decibel sone mel phon
+sound pressure level
+particle velocity acoustic velocity sound velocity
+particle displacement particle amplitude particle acceleration
+sound power acoustic power sound power level
+sound intensity acoustic intensity sound intensity level
+acoustic impedance sound impedance characteristic impedance
+speed sound amplitude
+sound energy flux
+see also templatesound measurements
+

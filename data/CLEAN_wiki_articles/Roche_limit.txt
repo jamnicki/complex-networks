@@ -1,0 +1,289 @@
+copyright
+
+roche limit
+
+ school wikipedia selection related subject space astronomy
+
+consider orbiting mass fluid held together gravityviewed orbital plane far roche limit mass
+practically spherical
+consider orbiting mass fluid held together gravityviewed orbital plane far roche limit mass
+practically spherical
+
+closer roche limit body deformed tidal forces
+closer roche limit body deformed tidal forces
+
+within roche limit mass gravity longer withstand
+tidal force body disintegrates
+within roche limit mass gravity longer withstand
+tidal force body disintegrates
+
+particle closer primary move quickly particles
+farther away represented red arrows
+particle closer primary move quickly particles
+farther away represented red arrows
+
+varying orbital speed material eventually cause form
+ring
+varying orbital speed material eventually cause form
+ring
+
+roche limit sometimes referred roche radiusdistance within celestial body held togethergravity disintegrate due second celestial body tidal forces
+exceeding first body gravitational selfattraction insideroche limit orbiting material tend disperse form rings
+outside limit material tend coalesce termnamed douard roche french astronomer first calculated
+theoretical limit 
+
+typically roche limit applies satellite disintegrating duetidal force induced primary body orbits
+real satellite natural artificial orbit within
+roche limit held together forcegravitation jupiter moon metis saturn moon pan examplesatellite hold together tensile strength
+extreme case object resting surface satellite
+could actually lifted away tidal force weaker satellitecomet could broken pass within roche limit
+
+since tidal force overwhelm gravity within roche limit large
+satellite coalesce smaller particle within limit
+indeed almost known planetary ring located within roche
+limit saturn ering notable exception could eitherremnant planet protoplanetary accretion disc failed
+coalesce moonlets conversely formed moon passed
+within roche limit broke apart
+
+note roche limit confused conceptroche lobe roche sphere also named douard
+roche roche lobe describes limit objectorbit around two object captured oneroche sphere approximates gravitational sphere influenceone astronomical body face perturbation another heavier
+body around orbits
+
+determining roche limit
+
+roche limit depends rigidity satellite one
+extreme completely rigid satellite maintain shapetidal force break apart extreme highly fluid
+satellite gradually deforms leading increased tidal force causing
+satellite elongate compounding tidal forcecausing break apart readily real satellitesomewhere two extreme internal friction
+viscosity tensile strength rendering satellite neither
+perfectly rigid perfectly fluid
+
+rigid satellites
+
+calculate rigid body roche limit spherical satellitecause rigidity neglected body assumed maintain
+spherical shape held togetherselfgravity effect also neglected tidal
+deformation primary rotation satelliteirregular shape somewhat unrealistic assumption greatly
+simplify roche limit calculation
+
+roche limit rigid spherical satellite orbitingspherical primary
+drleft frac rhom rhom rightfrac
+
+r radius primary densityprimary density satellite
+
+notice satellite twice dense primary
+easily case rocky moon orbiting gas giantroche limit inside primary hence relevant
+
+derivation formula
+
+order determine roche limit consider small mass usurface satellite closest primary two
+force mass gravitational pull towards satellitegravitational pull towards primary since satellitealready orbital free fall around primary tidal forcerelevant term gravitational attraction primary
+derivation roche limit
+
+gravitational pull mass towards satellitemass radius expressed according newton lawgravitation
+
+fgfracgmur
+
+tidal force mass towards primary radius distance center two body expressed
+
+ftfracgmurd
+
+roche limit reached gravitational pull tidal
+force cancel
+fgft 
+
+
+fracgmurfracgmurd
+
+quickly give roche limit
+dr leftmm rightfrac
+
+however dont really want radius satellite appearexpression limit rewrite termdensities
+
+sphere mass written
+mfracpirhom r radiusprimary
+
+likewise
+
+mfracpirhom r radiussatellite
+
+substituting mass equation roche limitcancelling outgives
+
+dr left fracrhom rrhom rright
+
+simplified roche limit
+
+drleft frac rhom rhom rightfrac
+
+fluid satellites
+
+accurate approach calculating roche limit takedeformation satellite account extreme example wouldtidally locked liquid satellite orbiting planet force
+acting upon satellite would deform prolate spheroid
+
+calculation complex result cannot representedalgebraic formula historically roche derived following
+numerical solution roche limit
+
+approx rleft frac rhom rhom right
+
+however better approximation take account primarys
+oblateness satellite mass
+approxrleft frac rhom rhom right
+left
+fracfracmmfraccrfracmmcr
+right
+
+cr oblateness primary numerical factorcalculated aid computer
+
+fluid solution appropriate body loosely held
+together comet instance comet shoemakerlevydecaying orbit around jupiter passed within roche limit july
+causing fragment number smaller piecenext approach inthe fragment crashed planet
+shoemakerlevywas first observed inbut orbit indicated
+captured jupiter decade prior
+
+derivation formula
+
+fluid satellite case delicate rigid onesatellite described simplifying assumption first assume
+object consists incompressible fluid constant density
+volume depend external internal forces
+
+second assume satellite move circular orbit remains
+synchronous rotation mean angular speedatrotates around centre mass angular speed
+move around overall system barycenter
+
+angular speedis given kepler third law
+
+omegagfracmmd
+
+synchronous rotation implies liquid doe moveproblem regarded static one therefore viscosityfriction liquid model play role sincequantity would play role moving fluid
+
+given assumption following force takenaccount
+force gravitation due main body
+centrifugal force rotary reference systemselfgravitation field satellite
+
+since force conservative expressedmean potential moreover surface satelliteequipotential one otherwise difference potential would give
+rise force movement part liquid surface
+contradicts static model assumption given distancemain body problem determine form surfacesatisfies equipotential condition
+radial distance one point surface ellipsoidcenter mass
+enlarge
+radial distance one point surface ellipsoidcentre mass
+
+orbit assumed circular know total
+gravitational force centrifugal force acting main body
+cancel therefore force affect particle liquid
+tidal force depends position respectcenter mass already considered rigid model small
+body distance liquid particle centrebody small relation distance main body thustidal force linearized resulting formula given force rigid model dependsradius satellite fluid case need considerpoint surface tidal force depends distance
+centre mass given particle projected line
+joining satellite main body call radial distance
+see picture since tidal force linear related
+potential proportional square variable mll
+vtfrac mddelta 
+
+want determine shape satellite sumselfgravitation potential constant surfacebody general problem difficult solveparticular case solved skillful guess duesquare dependence tidal potential radial distance
+since potential change one direction iedirection main body satellite expected takeaxially symmetric form precisely may assume takeform solid revolution selfpotential surfacesolid revolution depend radial distancecentre mass indeed intersection satelliteplane perpendicular line joining body disc whose
+boundary assumption circle constant potentialdifference selfgravitation potential vtconstant potential must depend wayword selfpotential proportional squareshown equipotential solution ellipsoidrevolution given constant density volume selfpotentialbody depends eccentricityof ellipsoid
+
+vsvsg rhom cdot epsilon cdot delta
+
+v constant selfpotential intersectioncircular edge body central symmetry plane givenequation
+dimensionless function determined accurate
+solution potential ellipsoid
+
+fepsilonfracepsilonepsilon cdot left
+leftepsilon right cdot mathrmarsinh
+leftfracepsilonsqrtepsilon rightepsilon
+right
+
+surprisingly enough doe depend volumesatellite
+graph dimensionless function indicatesstrength tidal potential depends eccentricityofellipsoid
+enlarge
+graph dimensionless function indicatesstrength tidal potential depends eccentricityofellipsoid
+
+although explicit form function look complicatedclear may choose value ofso potential
+vt equal plus constant independent variableinspection occurs
+frac pi rhom rdg rhom fepsilon
+
+equation easily solved numerically graph indicates
+two solution thus smaller one representsstable equilibrium form ellipsoid smaller eccentricity
+solution determines eccentricity tidal ellipsoidfunction distance main body derivativefunction ha zero maximal eccentricity attainedcorresponds roche limit
+derivative determines maximal eccentricity giveroche limit
+enlarge
+derivative determines maximal eccentricity giveroche limit
+
+precisely roche limit determined factfunction regarded nonlinear measure force
+squeezing ellipsoid towards spherical shape boundedeccentricity contracting force becomes
+maximal since tidal force increase satellite approaches
+main body clear critical distanceellipsoid torn
+maximal eccentricity calculated numerically zeroderivative see diagram one obtains
+
+epsilontextrmmaxapprox 
+
+corresponds ratio ellipsoid axesinserting
+formula function one determine minimal
+distance ellipsoid exists roche limit
+
+approxcdot cdot sqrt frac rhom
+rhom
+
+roche limit selected examples
+
+table show mean density equatorial radiusselected object solar system
+primary density kgm radiussun
+jupiter
+earth
+moon
+saturn
+uranus
+neptune
+
+using data roche limit rigid fluid bodyeasily calculated average density comet takenaroundkgm
+
+table give roche limit expressed metreprimary radius true roche limit satellite dependsdensity rigidity
+body satellite roche limit rigid roche limit fluid
+distance r distance r
+earth moon
+earth average comet
+sun earth
+sun jupiter
+sun moon
+sun average comet
+
+primary half dense satelliterigidbody roche limit primary radius two
+body may collide roche limit reached
+
+close solar system moon roche limit table
+give inner satellite orbital radius dividedroche radius rigid fluid body calculation given note
+pan naiad particular may quite close actual
+breakup points
+
+practice density inner satellite giant
+planet known case shown italic likely values
+assumed actual roche limit vary value
+shown
+primary satelliteorbital radius roche limit
+rigidfluid
+sunmercury
+earthmoon
+marsphobos
+deimos
+jupiter metis
+adrastea
+amalthea
+thebe
+saturnpan
+atlas
+prometheus
+pandora
+epimetheus
+janus
+uranuscordelia
+ophelia
+bianca
+cressida
+desdemona
+juliet
+neptune naiad
+thalassa
+despina
+galatea
+larissa
+plutocharon
+

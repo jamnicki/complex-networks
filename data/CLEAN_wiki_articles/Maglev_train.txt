@@ -1,0 +1,384 @@
+copyright
+
+maglev train
+
+ school wikipedia selection related subject railway transport
+
+transrapid emsland test facility germany
+enlarge
+transrapid emsland test facility germany
+maglev shanghai
+enlarge
+maglev shanghai
+inside shanghai maglev
+enlarge
+inside shanghai maglev
+inside shanghai maglev vip section
+enlarge
+inside shanghai maglev vip section
+
+magnetic levitation transport maglev form transportation
+suspends guide propels vehicle via electromagnetic force
+method faster comfortable wheeled mass
+transit system maglev could potentially reach velocity comparable
+turboprop jet aircrafttokmh since muchmaglev propulsion system track rather vehicle
+maglev train lighter ascend steeper slopeconventional train supported lightweight elevated
+track maglev operated commercially sincehowever
+scientific economic limitation hindered proliferationtechnology
+
+maglev technology minimal overlap wheeled train technologycompatible conventional railroad trackcannot share existing infrastructure maglev must designedcomplete transportation system term maglev refersvehicle vehicleguideway interactionunique design element specifically tailored createprecisely control magnetic levitation propulsion
+
+world first commercial application highspeed maglev lineio initial operating segment demonstration line shanghaitransport peoplekmmiles airport justminutes
+second top speed ofkmh ormph average speedkmhmph maglev project worldwide studiedfeasibility
+
+technology
+
+two primary type maglev technology
+electromagnetic suspension us attractive magnetic force
+magnet beneath rail lift trainelectrodynamic suspension us repulsive force two
+magnetic field push train away rail
+
+electromagnetic suspension
+
+current system train levitates steel railelectromagnet attached train oriented toward rail
+electromagnet use feedback control maintain train
+constant distance track
+
+electrodynamic suspension
+
+electrodynamic suspension rail train exertmagnetic field train levitated repusive force
+magnetic field magnetic field trainproduced either superconducting electromagnet jrmaglevarray permanent magnet inductrack repulsive
+force track created induced magnetic field wireconducting strip track
+
+slow speed current induced coil resultant
+magnetic flux large enough support weight train
+reason train must wheel formlanding gear support train reach speedsustain levitation
+
+propulsion coil guideway used exert forcemagnet train make train move forward propulsion
+coil exert force train effectively linear motor
+alternating current flowing coil generatescontinuously varying magnetic field move forward along track
+magnet train line field train moves
+
+pro con different technologies
+
+implementation magnetic levitation principle traintype
+travel involves advantage disadvantage time tellprinciple whose implementation win commercially
+
+
+technologyproscons
+
+
+em electromagnetic magnetic field inside outside vehicle
+insignificant proven commercially available technologyattain high speedskmh wheel secondary propulsion
+system needed separation vehicle guideway must
+constantly monitored corrected computer system avoid
+collision due unstable nature electromagnetic attraction
+
+
+superconducting electrodynamic powerful onboard superconducting
+magnet large margin rail train enable highest recorded
+train speedskmh heavy load capacity recently
+demonstrated decsuccessful operation using high temperature
+superconductorshts onboard magnet cooled inexpensive
+liquid nitrogen strong magnetic field onboard train make train
+inaccessible passenger pacemaker magnetic data storage
+medium hard drive credit card vehicle must wheeledtravel low speed system per mile cost still considered
+prohibitive system yet prototype phase
+
+
+inductrack system permanent magnet failsafe suspensionno power
+required activate magnet magnetic field localizedcar generate enough force low speed aroundkmhlevitate maglev train case power failure car slowsafe steady predictable manner coming stop
+halbach array permanent magnet may prove costeffectiveelectromagnet requires either wheel track segment movevehicle stopped new technology stilldevelopmentas ofand yet commercial version full
+scale system prototype
+
+
+neither inductrack superconducting able levitate
+vehicle standstill although inductrack provides levitationmuch lower speed wheel required system ems
+system wheelless
+
+german transrapid japanese hsst linimo korean rotem maglevs
+levitate standstill electricity extracted guideway
+using power rail latter two wirelessly transrapidguideway power lost move transrapid still ablegenerate levitation tokmh speed using power onboard
+battery case hsst rotem systems
+
+propulsion
+
+em system provide levitation propulsion usingonboard linear motor system levitate train usingmagnet onboard propel forward vehicle needtechnology propulsion linear motor propulsion coils
+mounted track one solution long distancecost propulsion coil could prohibitive propeller jet
+engine could used
+
+stability
+
+static magnetic bearing using electromagnet permagnetsunstable explained earnshaws theorem systemmoving system earnshaws theorem doe apply systems
+rely active electronic stabilization system constantly
+measure bearing distance adjust electromagnet current
+accordingly
+
+pro con maglev conventional trains
+
+due lack physical contact track vehicle
+friction experienced maglev train due air
+resistance although maglev train also experience electromagnetic
+drag relatively small high speed power consumption
+per passengerkm transrapid maglev train atkmh isless
+ice atkmhwh per seatkm compared towh per
+seatkm
+
+maglev train run rail speed limited
+tolerance track design system proposedoperate tokmhmph far fasterpractical conventional rail transport high maximum speed
+potential maglev make potential competitor airline routes
+ofkilometersmiles less
+
+weight large electromagnet ed designmajor design issue strong magnetic field requiredlevitate massive train reason one research path using
+superconductors improve efficiency electromagnets
+
+aprila peerreviewed article journal acoustical
+society america stated noise highspeed maglev trains
+considerably disturbing standard steel steel intercity
+train noise approximately disturbing road trafficdifference equal disturbance level maglev traditional
+train db aboutnoisier maglev characterized high
+noise level brief duration may startle underneathtrack type noise maglev emits similar jet aircraft
+due speed shape maglev train
+
+economics
+
+highspeed maglev expensive build comparablecapital cost building traditional highspeed rail systemscratch highway system system airport importantly
+maglev significantly expensive operate maintaintraditional highspeed train plane intercity bus data
+coming shanghai maglev demonstration project indicatesoperation maintenance cost quite low indeed covered
+current relatively low volume ofpassengers per day
+passenger volume pudong international airport line expected
+rise dramatically line extended longyang road metro
+station way shanghai downtown train depot
+
+shanghai maglev cost billion build per passenger
+andpassengers per day would take overyearsrepay capital cost including cost financing accounting
+track maintenance salary electricity see solar powerthis
+computes million per mile totalbillion includes
+infrastructure capital cost manufacturing construction
+facility operational training part calculated
+permile cost short track predicted permile
+cost extension hangzhou significantly lower
+
+proposed shinkansen line estimated cost approximately
+usbillion build
+
+however one considers cost airport construction hong kong airport cost billion build inand eightlane
+interstate highway system cost around million per milebecomes immediately apparent maglev cost competitive
+especially considering handle much higher volumepassenger per hour airport eightlane highwaywithout introducing air pollution along right way
+
+lowspeed maglevkmh currently operationaljapanese linimo hsst cost approximately millionkm build
+besides offering improved cost transit systemlowspeed maglev provide ultrahigh level operational reliability
+introduce little noise zero air pollution dense urban
+settings
+
+maglev system deployed around world expert expect
+construction cost drop new construction method perfected
+
+existing maglev systems
+
+jrmaglev yamanashi
+enlarge
+jrmaglev yamanashi
+
+birmingham 
+
+world first commercial automated system lowspeed maglev
+shuttle ran airport terminal birmingham international
+airport nearby birmingham international railway station
+fromtobased experimental work commissionedbritish government british rail research division laboratoryderby length track wasm train flewaltitude ofmm operation nearly eleven yearobsolescence problem electronic system made unreliablelater year replaced cabledrawn system
+
+berlin 
+
+west berlin mbahn built late wadriverless maglev system akm track connecting three stations
+testing passenger traffic started augustand regular
+operation started julyalthough line largely followednew elevated alignment terminated ubahn station
+gleisdreieck took platform longeruse line formerly ran east berlinfall berlin wall plan set motion reconnectline today deconstruction mbahn line began two
+month regular service began completed february 
+
+emsland germany
+
+transrapid german maglev company test track emslandtotal length ofkm
+
+jrmaglev
+
+japan test track yamanashi prefecture test trains
+jrmaglev mlx reachedkmhmph faster wheeled
+train train use superconducting magnet allowlarger gap repulsivetype electrodynamic suspension edcomparison transrapid conventional electromagnetattractivetype electromagnetic suspension emsuperconducting maglev shinkansen developed central japan
+railway jr central kawasaki heavy industry currently
+fastest train world achieving record speed ofkmh
+december
+
+linimo tobu kyuryo line
+
+linimo train approaching banpaku kinen koen towards fujigaoka station
+enlarge
+linimo train approaching banpaku kinen koen towards fujigaoka station
+
+world first commercial automatedurban maglev system commenced
+operation marchin aichi japan ninestation 
+km long tobukyuryo line otherwise known linimo line haminimum operating radius ofm maximum gradient ofthe
+linearmotor magneticlevitated train top speed ofkmhline serf local community well expofair sitetrain designed chbu hsst development corporationalso operates test track nagoya urbantype maglev patterned
+hsst constructed demonstrated koreakorean commercial version rotem construction daejeon
+projected operation april 
+
+ftas umtd program
+
+u federal transit administration fta urban maglev
+technology demonstration program funded design several
+lowspeed urban maglev demonstration project assessed hsstmaryland department transportation maglev technologycolorado department transportation fta also funded workgeneral atomics california university pennsylvania demonstrate
+new maglev design magnemotion maglev florida
+superconducting system urban maglev demonstration
+project note levx washington statemassachusettsbased magplane
+
+southwest jiaotong university china
+
+decemberthe first crewed hightemperature superconducting
+maglev tested successfully southwest jiaotong university
+chengdu china system based principle bulk
+hightemperature superconductors levitated suspended stably
+permanent magnet load overkglevitation gap overmm system liquid nitrogencheap cool superconductor
+
+first german patent 
+
+first patent magnetic levitation train propelled linear
+motor german patentissued junethe patent
+date octoberwas linear motor propelled trainmotor steel track carriedweight traininventor alfred zehden frankfurtammain 
+
+construction
+
+old dominion university
+
+track mile length constructed old
+dominion university norfolk virginia systemoperational research currently ongoing resolvestability issue system system smart train dumb
+track involves sensor magnet computation
+occurring train rather track system cost
+le build per mile existing system principleinvolved construction second prototype system powder
+spring georgia american maglev technology inc setdeployment fall 
+
+proposals
+
+europe
+
+munich
+
+transrapid connection bavarian capital munichinternational airportkm planned would reducecurrent connection time via sbahn german city railroad systemaboutminutes tominutes
+
+berlinhamburg
+
+akm transrapid line linking berlin hamburg hacancelled due lack fund instead existing railway lineupgraded tokmh ice train sets
+
+londonedinburgh andor glasgow
+
+maglev line recently proposed united kingdomlondon edinburgh andor glasgow several route optionmidland northwest northeast reportedfavourable consideration government high speed link
+also investigated option glasgow edinburgh
+though settled technology concept yet maglevhi speed electric etc
+
+asia
+
+tokyoosaka
+
+proposed shinkansen built connecting tokyo osakamaglev existing test track yamanashi prefecture would part
+line
+
+shanghaihangzhou
+
+china decided build second transrapid maglev raillength ofkm shanghai hangzhoushanghaihangzhou maglev
+line talk germany transrapid konsortium details
+construction contract started marchthe
+chinese minister transportation quoted several chinesewestern newspaper saying line approved constructionprobably start towards end ofand scheduled completed
+time theshanghai expo becoming first intercity
+maglev rail line commercial service world lineextension shanghai airport maglev line
+
+johor malaysia
+
+malaysia decided use maglev technology link important
+landmark across city boost business compete
+neighbouring city singapore
+
+usa
+
+los angeles southern californialas vegas
+
+highspeed maglev line major city southern californiala vega also studied via californianevada interstate
+maglev project plan originally supposed partexpansion plan federal government ruled mustseparated interstate work projects
+
+since federal government decision private group nevadaproposed line running vega los angeles stopprimm nevada baker california point throughout riverside
+county los angeles
+
+southern california politician receptiveproposal many concerned high speed rail line state
+would drive dollar would spent state railnevada
+
+baltimorewashington 
+akm project linking camden yard baltimorebaltimorewashington international bwi airport union stationwashington demand area due current
+trafficcongestion problem project contentionfederal grant pittsburgh project
+
+florida high speed rail
+
+history high speed rail florida started inwith
+feasibility study service daytona beach petersburg
+november ofthe florida voter approved amendmentstate constitution mandating construction high speed
+transportation system link five largest urban area florida
+construction mandated begin november
+
+octoberthe authority issued request proposal design
+build operate maintain finance dbomf first phaseproject tampa orlando based fluor bombardier proposal
+first global rail consortium grc proposal costinitial phase approximatelybillion
+
+earlygovernor jeb bush endorsed effort repeal 
+amendment mandated construction high speed rail system
+wa approved voter resulting removalconstitutional mandate
+
+florida high speed rail authority act still remains effect
+pending action florida legislature fiscal year
+state fund appropriated authorityoperated surplus fund previous years
+
+honolulu
+
+city honolulu hawaii said planning linimo class
+urban maglev main mass transit train
+
+san diego
+
+san diego considering highspeed maglev line servepassenger transportation node remote airport siteconsideration cost estimate approximatelybillion uthekmmile run including costconstruction airport
+
+cascadia maglev
+
+longproposed official drawing board would maglev
+line along interstatecorridor core component portland
+oregon vancouver british columbia eventual extensioneugene oregon south whistler british columbianorth initial phase project would link tacoma seattle
+mirroring old interurban line two cityidea resurfaced conventional highspeed rail proposal
+although extension british columbia largely blocked
+opposition part city white rock british columbia
+would sit astride line
+
+vactrain
+
+exotic proposal include maglev line vacuumfilled
+tunnel see vactrain absence air resistance would allow
+extremely high speed tokmhmph according
+source theoretically tunnel could built deep
+enough pas ocean use gravity assist trains
+acceleration would likely prohibitively costly without major
+advance tunnelling technology alternative elevated
+concrete tube partial vacuum proposed reducecost train topped aroundkmhmphkm trip london new york would take shortminutes
+effectively supplanting aircraft world fastest mode public
+transportation
+
+unimodal
+
+unimodal personal rapid transit idea proposes use
+inductrack suspension achieve speed ofkmhmph
+
+significant accident incidents
+
+augustfire
+
+augusta fire broke shanghai commercial
+transrapid shortly leaving terminal longyang
+
+septembercrash
+
+septemberan elevated transrapid train collidedmaintenance vehicle test run lathen lower saxony 
+northwestern germany twenty five people killed ten people
+injured first fatality resulting maglev
+train accident

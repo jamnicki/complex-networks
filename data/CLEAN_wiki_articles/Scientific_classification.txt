@@ -1,0 +1,208 @@
+copyright
+
+scientific classification
+
+ school wikipedia selection related subject evolutionreproduction general biology
+
+scientific classification biological classification methodbiologist group categorize specie organism scientific
+classification also called scientific taxonomydistinguished folk taxonomy lack scientific basis modern
+classification root work carolus linnaeusgrouped specie according shared physical characteristicgrouping since revised improve consistencydarwinian principle common descent molecular systematicsus dna sequence data driven many recent revisionlikely continue scientific classification belongsscience taxonomy biological systematics
+
+early systems
+
+known system classifying form life come greek
+philosopher aristotle classified living organism knowntime either plant animal classified animals
+based mean transportation air land water
+
+inibn rushdaverroes judgeqadi seville
+translated abridged aristotle book animaon soularabic original commentary lost translationlatin michael scot survives
+
+important advance made swiss professor conrad von gesner
+gesner work critical compilation life knowntime
+
+exploration part new world produced large numbers
+new plant animal needed description classification
+old system made difficult study locate new
+specimen within collection often plant animalgiven different name number specimen largememorize system needed could group specimen together
+could found binomial system developed basedmorphology group similar appearance latter part
+th century beginning careful studyanimal commenced directed first familiar kindgradually extended formed sufficient body knowledgeserve anatomical basis classification advance usingknowledge classify living bear debt researchmedical anatomist fabriciuspetrus severinus
+william harveyand edward tyson 
+advance classification due work entomologistfirst microscopist due research people like marcello
+malpighijan swammerdamand robert hooke
+lord monboddowas one early abstract
+thinker whose work illustrate knowledge specie relationshipforeshadowed theory evolution successive developmenthistory insect classification may followed websiteclicking succeeding work chronological order
+
+early methodists
+
+since late century number author become
+concerned called methodus method methodmeant arrangement mineral plant animal accordingprinciple logical division term methodist coinedcarolus linnaeus bibliotheca botanica denote authorcare principle classification contrast mere
+collector concerned primarily description plants
+paying little attention arrangement genus etc
+important early methodist italian philosopher physicianbotanist andrea caesalpino english naturalist john ray german
+physician botanist augustus quirinus rivinus french
+physician botanist traveller joseph pitton tournefort
+
+andrea caesalpinoin plantis libri xvi
+proposed first methodical arrangement plant basisstructure trunk fructification divided plantfifteen higher genera
+
+john raywas english naturalist published
+important work plant animal natural theology approach
+took classification plant historia plantarumimportant step towards modern taxonomy ray rejected systemdichotomous division specie classified accordingpreconceived eitheror type system instead classified plants
+according similarity difference emergedobservation
+
+caesalpino ray used traditional plant name thus name
+plant reflect taxonomic position even thoughapple peach belonged different higher genus john rays
+methodus retained traditional name malus malus persica
+respectively step taken rivinus pitton tournefort made genus distinct rank within taxonomic hierarchy
+introduced practice naming plant accordinggenera
+
+augustus quirinus rivinusin classificationplant based character flower introduced category
+order corresponding higher genus john ray andrea
+caesalpino first abolish ancient division plants
+herb tree insisted true method division
+based part fructification alone rivinus
+extensively used dichotomous key define order genusmethod naming plant specie resembled joseph pitton tournefort name plant belonging genusbegin word generic name genus containingone specie first specie named generic namesecond etc named combination generic name
+modifier differentia specifica
+
+joseph pitton tournefortintroduced evensophisticated hierarchy class section genus speciefirst use consistently uniformly composed specie names
+consisted generic name manyworded diagnostic phrase
+differentia specifica unlike rivinus used differentiaspecie polytypic genera
+
+linnaeus
+
+two year john ray death carolus linnaeuswas
+born great work systema naturae ran twelve editions
+lifetime edin work nature divided
+three kingdom mineral vegetable animal linnaeus used five
+rank class order genus specie variety
+
+abandoned long descriptive name class order twoword
+generic name g bursa pastoris still used immediate
+predecessor rivinus pitton tournefort replacedsingleword name provided genus detailed diagnosis characteres
+naturales reduced numerous variety specie thus
+saving botany chaos new form producedhorticulturalists
+
+linnaeus best known introduction method still usedformulate scientific name every specie linnaeus long
+manyworded name composed generic name differentia
+specifica used name gave descriptionspecie fixed philosophia botanica 
+linnaeus took every effort improve composition reducelength manyworded name abolishing unnecessary rhetorics
+introducing new descriptive term defining meaningunprecedented precision late linnaeus began useparallel system naming specie nomina trivialia nomen
+triviale trivial name single twoword epithet placedmargin page next manyworded scientific namerule linnaeus applied trivial nameshort unique within given genuschanged linnaeus consistently applied nomina trivialia species
+plant specie plantarum ednand specieanimal edition systema naturae 
+
+consistently using specific epithet linnaeus separated
+nomenclature taxonomy even though parallel use nomina
+trivialia manyworded descriptive name continued lateeighteenth century gradually replaced practice using
+shorter proper name combined generic name trivial name
+specie nineteenth century new practicecodified first rule law nomenclature edn
+specie plantarum edn systema naturae chosen
+starting point botanical zoological nomenclature
+respectively convention naming specie referredbinomial nomenclature
+
+today nomenclature regulated nomenclature code allows
+name divided rank see rank botany rank zoology
+
+modern developments
+
+whereas linnaeus classified ease identificationgenerally accepted classification reflect darwinian
+principle common descent
+
+since trend called cladistic taxonomy cladisticscladism emerged arranging taxon evolutionary treetaxon includes descendant ancestral form called
+monophyletic opposed paraphyletic group called
+polyphyletic
+
+new formal code nomenclature phylocode currentlydevelopment intended deal clade rather taxonunclear implemented different codecoexist
+
+domain relatively new grouping threedomain systemfirst invented inbut generally accepted latermajority biologist accept domain system large
+minority use fivekingdom method one main characteristicthreedomain method separation archaea bacteria
+previously grouped single kingdom bacteria sometimes monera
+small minority scientist add archaea sixth kingdomaccept domain method
+
+examples
+
+usual classification five specie follow fruit flyfamiliar genetics laboratory drosophila melanogaster humans
+homo sapiens pea used gregor mendel discoverygenetics pisum sativum fly agaric mushroom amanita muscaria
+bacterium escherichia coli eight major rank givenbold selection minor rank given well
+rank fruit fly human pea fly agaric coli
+domain eukaryota eukaryota eukaryota eukaryota bacteria
+kingdom animalia animalia plantae fungi
+phylum division arthropoda chordata magnoliophyta basidiomycota
+proteobacteria
+subphylum subdivision hexapoda vertebrata magnoliophytina
+hymenomycotina
+class insecta mammalia magnoliopsida homobasidiomycetae proteobacteria
+subclass pterygota eutheria magnoliidae hymenomycetes
+gammaproteobacteria
+order diptera primate fabales agaricales enterobacteriales
+suborder brachycera haplorrhini fabineae agaricineae
+family drosophilidae hominidae fabaceae amanitaceae enterobacteriaceae
+subfamily drosophilinae homininae faboideae amanitoideae
+genus drosophila homo pisum amanita escherichia
+specie melanogaster sapiens sativum muscaria coli
+
+notes
+higher taxon especially intermediate taxon prone revision
+new information relationship discovered example
+traditional classification primate class mammalia 
+subclass theriainfraclass eutheriaorder primatechallenged new classification mckenna bell class
+mammaliasubclass theriformesinfraclass holotheriaorder
+primate see mammal classification discussiondifference arise small number ranks
+available large number branching point fossil
+record
+
+within specie unit may recognised animal mayclassified subspecies example homo sapiens sapiens
+modern human morphs example corvus corax varius morpha
+leucophaeus pied raven plant may classifiedsubspecies example pisum sativum subsp sativum garden
+pea variety example pisum sativum var macrocarpon
+snow pea cultivated plant getting cultivar nameexample pisum sativum var macrocarpon snowbird bacteria may
+classified strain example escherichia coli ohstrain cause food poisoning
+
+mnemonic remembering order taxon koalas
+prefer chocolate fruit generally speaking mnemonicavailable 
+
+termination names
+
+taxon genus level often given name based type
+genus standard termination termination used forming
+name depend kingdom sometimes phylum class
+set tablerankplantsalgaefungianimals bacteria
+divisionphylumphytamycota
+subdivisionsubphylumphytinamycotina
+classopsida phyceaemycetesia
+subclassidaephycidae mycetidaeidae
+superorderanae
+orderalesales
+suborderineaeineae
+infraorderaria
+superfamilyaceaoidea
+epifamilyoidae
+familyaceaeidaeaceae
+subfamilyoideaeinaeoideae
+infrafamilyodd
+tribeeaeinieae
+subtribeinaeinainae
+infratribead
+
+notes
+botany mycology name rank familybased name genus sometimes called type genustaxon standard ending example rose family
+rosaceae named genus rosa standard ending
+aceae family name rank family formed
+family name descriptive like gymnospermaefungi
+
+animal standard suffix taxonrank superfamily iczn article 
+
+forming name based generic name may straightforward
+example latin homo genitive hominis thusgenus homo human hominidae homidae
+
+rank epifamily infrafamily infratribe animalused complexity phyletic branching require
+finerthanusual distinction although fall ranksuperfamily regulated international codezoological nomenclature hence formal standard
+ending regular informal suffix listedsupplied eugene gaffneypeter meylana
+phylogeny turtle benton phylogenyclassification tetrapod volumeamphibians reptiles
+birdsoxford clarendon press
+
+retrieved 
+httpenwikipediaorgwikiscientificclassification
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

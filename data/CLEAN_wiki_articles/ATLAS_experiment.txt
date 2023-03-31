@@ -1,0 +1,259 @@
+copyright
+
+atlas experiment
+
+ school wikipedia selection related subject general physics
+
+atlas toroidal lhc apparatus one five particle detector
+experimentsalice atlas totem lhcb constructedlarge hadron collider new particle accelerator cernswitzerland bemetres long andmetres diameterweigh abouttonnes project involves roughly 
+scientist engineer atinstitutions incountriesconstruction scheduled completed inthe experimentexpected measure phenomenon involve highly massive particles
+measurable using earlier lowerenergy acceleratormight shed light new theory particle physic beyondstandard model
+
+atlas collaboration group physicist building detector
+wa formed inwhen proposed eagle experiment accurate
+gamma lepton energy measurement ascot apparatus super
+conducting toroid collaboration merged effort buildingsingle generalpurpose particle detector large hadron
+collider design combination two previous designs
+well detector research development donesuperconducting supercollider atlas experiment proposedcurrent form inand officially funded cern member
+country beginning inadditional country universitylaboratory joined subsequent year institutionphysicist continue join collaboration even today workconstruction began individual institution detector components
+shipped cern assembled atlas experimental pit beginning
+
+
+atlas designed generalpurpose detector proton beams
+produced large hadron collider interact centredetector variety different particle broad rangeenergy may produced rather focusing particular physical
+process atlas designed measure broadest possible rangesignal intended ensure whatever form new
+physical process particle might take atlas abledetect measure property experiment earlier
+collider tevatron large electronpositron collider
+designed based similar philosophy however unique
+challenge large hadron colliderits unprecedented energyextremely high rate collisionsrequire atlas largercomplex detector ever built
+
+background
+
+atlas experiment detector construction octoberinexperimental pit current status construction seennote people background comparison
+enlarge
+atlas experiment detector construction octoberinexperimental pit current status construction seennote people background comparison
+
+first cyclotron early type particle accelerator built
+ernest lawrence inwith radius centimetres
+particle energy ofmev since accelerator grown
+enormously quest produce new particle greater greater
+mass accelerator grown list known
+particle might used investigatecomprehensive model particle interaction available today known
+standard model except higgs boson particles
+model discovered standard model break
+energy beyond current energy frontier one tev
+set tevatron theory beyondthestandardmodel physics
+identical standard model energy thus far probed
+expected describe particle physic higher energytheory feature new highermass particle large hadron
+collider lhckilometres circumference collide two beams
+proton energy seven million time first
+accelerator able frequently produce particleenergy ten time massive particle known
+today particle exist
+
+particle produced accelerator must also observedtask particle detector beginningdetector designed similarly onion completely
+surrounding interaction pointwhere particle beamaccelerator collidewith layer detector different typedifferent feature particle leave layer detector
+allow effective particle identification accurate measurements
+energy momentum role layer detectordiscussed energy particle producedaccelerator increase detector attached must groweffectively measure stop higherenergy particle thus atlaslargest detector ever built particle collider capability
+measure property highly massive particle producedlhc
+
+physic programme
+
+schematic called feynman diagram two virtual gluoncolliding lhc proton interacting produce hypothetical higgs
+boson top quark antitop quark turn decayspecific combination quark lepton difficultfake process collecting sufficient evidence signal like
+one may eventually allow atlas collaboration member discover
+higgs boson
+enlarge
+schematic called feynman diagram two virtual gluoncolliding lhc proton interacting produce hypothetical higgs
+boson top quark antitop quark turn decayspecific combination quark lepton difficultfake process collecting sufficient evidence signal like
+one may eventually allow atlas collaboration member discover
+higgs boson
+
+atlas intended investigate many different type physicmight become detectable energetic collision lhcconfirmation improved measurement standard model
+many others search new physical theories
+
+one important goal atlas investigate final
+missing piece standard model higgs boson higgs
+mechanism includes higgs boson invoked give masselementary particle giving rise difference weak
+force electromagnetism giving z boson massleaving photon massless higgs boson discoveredatlas expected another mechanism electroweak symmetry
+breaking explains phenomenon technicolourdiscovered standard model simply mathematically
+consistent energy lhc without mechanismhiggs boson would detected particle decayeasiest observe two photon two bottom quark four leptons
+sometimes decay definitively identifiedoriginating higgs boson associatedadditional particle example see diagram right
+
+asymmetry behaviour matter antimatter knowncp violation also investigated current cpviolation
+experiment babar belle yet detected sufficient
+cp violation standard model explain lack detectable
+antimatter universe possible new model physics
+introduce additional violation shedding light problem
+model might either detected directly production new
+particle indirectly measurement made property mesonslhcb lhc experiment dedicated bmesons likelybetter suited latter
+
+top quark discovered fermilab inhas thus farproperty measured approximately much greater energygreater collision rate lhc produce tremendous number top
+quark allowing atlas make much precise measurementmass interaction particle measurementprovide indirect information detail standard model
+perhaps revealing inconsistency point new physic similar
+precision measurement made known particleexample atlas may eventually measure mass boson twiceaccurately previously achieved
+
+perhaps exciting line investigation searching
+directly new model physic one theory subjectmuch current research broken supersymmetry theory popular
+could potentially solve number problem theoretical
+physic present almost model string theory modelsupersymmetry involve new highly massive particle many cases
+decay highenergy quark stable heavy particleunlikely interact ordinary matter stable particles
+would escape detector leaving signal one highenergy
+quark jet large amount missing momentum hypothetical
+massive particle like kaluzaklein theory might leavesimilar signature discovery would certainly indicatewa kind physic beyond standard model
+
+one remote possibility universe contains large extra
+dimension microscopic black hole might producedlhc would decay immediately mean hawking radiation
+producing particle standard model equal numberleaving unequivocal signature atlas detector factoccurs primary study higgs boson top quark would
+conducted produced black holes
+
+components
+
+atlas detector consists series everlarger concentric
+cylinder around interaction point proton beamlhc collide divided four major part inner
+detector calorimeter muon spectrometer magnet
+system turn made multiple layerdetector complementary inner detector track particles
+precisely calorimeter measure energy easily stopped
+particle muon system make additional measurement highly
+penetrating muon two magnet system bend charged particleinner detector muon spectrometer allowing momentummeasured
+
+stable particle cannot detected directlyneutrino presence inferred noticing momentum imbalance
+among detected particle work detector must 
+hermetic detect nonneutrinos produced blind spots
+maintaining detector performance high radiation areas
+immediately surrounding proton beam significant engineering
+challenge
+
+inner detector
+
+atlas trt central section outermost part inner
+detector septemberassembled surface taking
+data cosmic rays
+enlarge
+atlas trt central section outermost part inner
+detector septemberassembled surface taking
+data cosmic rays
+
+inner detector begin centimetre proton beam axis
+extends radius ofmetres seven metre length along
+beam pipe basic function track charged particledetecting interaction material discrete point revealing
+detailed information type particle momentummagnetic field surrounding entire inner detector cause charged
+particle curve direction curve reveals particles
+charge degree curvature reveals momentum starting
+point track yield useful information identifying
+particle example group track seem originatepoint original protonproton collision maysign particle came decay bottom quark see
+btagging inner detector three part explained
+
+pixel detector innermost part detector contains three
+layer three disk endcap total ofmodules
+measuring two centimetre six centimetre detecting
+material ism thick silicon module containsreadout chips
+electronic component smallest unit readpixel eachbymicrometres roughly 
+pixel per module minute pixel size designed extremely
+precise tracking close interaction point totalpixel detector overmillion readout channelaboutof total readout channel large count createddesign engineering challenge another challenge radiation
+pixel detector exposed proximityinteraction point requiring component radiation hardened
+order continue operating significant exposures
+
+semiconductor tracker sct middle component inner
+detector similar concept function pixel detector
+long narrow strip rather small pixel making coverage
+larger area practical strip measuresmicrometres 
+centimetre sct critical part inner detector
+basic tracking plane perpendicular beam sincemeasure particle much larger area pixel detector
+sampled point roughly equal albeit one dimensional
+accuracy composed four double layer silicon striphasmillion readout channel total area ofsquare meters
+
+transition radiation tracker trt outermost componentinner detector combination straw tracker transition
+radiation detector contains many small straw four
+millimetre diameter tocentimetres long givemuch coarser resolution two detector necessary
+sacrifice covering larger volume different
+complementary design straw filled gas becomes
+ionized charged particle pass ion producecurrent highvoltage wire running straw creatingpattern signal many straw allow path particle
+determined also contains alternating materialdifferent index refraction causing charged particle produce
+transition radiation leave much stronger signal straw
+since amount transition radiation produced greatest highly
+relativistic particle speed near speed light
+particle particular energy higher speed lighter
+particle path many strong signalidentified lightest charged particle electron trtaboutstraws total
+
+calorimeters
+
+septemberthe main barrel section atlas hadronic
+calorimeter waiting moved inside toroid magnets
+enlarge
+septemberthe main barrel section atlas hadronic
+calorimeter waiting moved inside toroid magnets
+one section extension hadronic calorimeter
+waiting inserted late february 
+enlarge
+one section extension hadronic calorimeter
+waiting inserted late february 
+
+calorimeter situated outside solenoidal magnetsurround inner detector purpose measure energy
+particle absorbing two basic calorimeter
+system inner electromagnetic calorimeter outer hadronic
+calorimeter sampling calorimeter absorb
+energy highdensity steel periodically sample shaperesulting particle shower inferring energy original
+particle measurement
+
+electromagnetic calorimeter absorbs energy particleinteract electromagnetically include charged particlephoton high precision amount energy absorbed
+precise location energy deposited angleparticle trajectory detector beam axisprecisely pseudorapidity angle within perpendicular
+plane measured within roughlyradiansenergyabsorbing material lead stainless steel liquid
+argon sampling material cryostat required aroundem calorimeter keep sufficiently cool
+
+hadron calorimeter absorbs energy particle pasem calorimeter interact via strong forceparticle primarily hadron precise energy
+magnitude localization within aboutradiansenergyabsorbing material steel scintillating tilesample energy deposited many feature calorimeter
+chosen costeffectiveness instrument largecomprises huge amount construction material main partcalorimeterthe tile calorimeteris eight metre diameter covers
+metre along beam axis farforward section hadronic
+calorimeter contained within calorimeter cryostat use
+liquid argon
+muon spectrometer
+
+muon spectrometer extremely large straw tracker extending
+calorimeter full diameter detectortremendous size required accurately measure momentummuon penetrate element detector effortvital one muon key element numberinteresting physical process total energyparticle event could measured accuratelyignored function similarly inner detector muons
+curving momentum measured albeit different
+magnetic field configuration lower spatial precision much
+larger volume also serf function simply identifying
+muonsvery particle type expected pascalorimeter subsequently leave signal muon
+spectrometer roughly one million readout channellayer detector total area ofsquare meters
+
+magnet system
+
+end four eight atlas toroid magnet seen surface
+aboutmetres september 
+enlarge
+end four eight atlas toroid magnet seen surface
+aboutmetres september 
+
+atlas detector two large magnet system bend charged
+particle momentum measured bending duelorentz force proportional velocity sinceparticle produced lhcs proton collision travelingclose speed light force particle different
+momentum equal theory relativity momentumproportional velocity speed thus highmomentum particles
+curve little lowmomentum particle curve
+significantly amount curvature quantifiedparticle momentum determined value
+
+inner solenoid produce two tesla magnetic field surroundinginner detector strong field allows even energetic particles
+curve enough momentum determined nearly
+uniform direction strength allow measurement madeprecisely particle momentum roughlymev curved
+strongly loop repeatedly field likely
+measured however energy small comparedseveral tev energy released proton collision
+
+outer toroidal magnetic field produced eight large
+aircore superconducting barrel loop two endcaps situated
+outside calorimeter within muon system magnetic
+field ismetres long andmetres diameter store 
+gigajoules energy magnetic field uniformsolenoid magnet sufficient size would prohibitively expensivebuild fortunately measurement need much precisemeasure momentum accurately large volume muon system
+
+data system analysis
+
+trigger system simple information identify real time
+interesting event themillion beam crossingoccur every second centre detector three
+trigger level first based electronics detectortwo primarily run large computer cluster near detector
+firstlevel trigger aboutevents per secondselected thirdlevel trigger hundred events
+remain stored analysis amount datarequire overmegabytes disk space per secondat least petabyte
+year
+
+offline event reconstruction performed permanently
+stored event turning pattern signal detectorphysic object jet photon lepton grid computing
+extensively used event reconstruction allowingparallel use university laboratory computer network throughout
+world cpuintensive task reducing large quantityraw data form suitable physic analysis softwaretask development many yearcontinue refined experiment running
+
+individual group within collaboration writecode perform analysis object searchingpattern detected particle particular physical modelhypothetical particle study already developedtested detailed simulation particle interactiondetector simulation give physicist good sensenew particle detected long take confirmsufficient statistical certainty

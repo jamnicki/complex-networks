@@ -1,0 +1,311 @@
+copyright
+
+gas metal arc welding
+
+ school wikipedia selection related subject engineering
+
+
+featured article click information
+gas metal arc welding
+enlarge
+gas metal arc welding
+
+gas metal arc welding gmaw sometimes referred subtypes
+metal inert gas mig welding metal active gas mag weldingsemiautomatic automatic arc welding process continuous
+consumable wire electrode shielding gas fedwelding gun constant voltage direct current power sourcecommonly used gmaw constant current system wellalternating current used four primary methodmetal transfer gmaw called globular shortcircuiting spraypulsedspray distinct property corresponding
+advantage limitations
+
+originally developed welding aluminium nonferrous
+material gmaw soon applied steelallowed lower welding time compared welding processcost inert gas limited use steel several year later
+use semiinert gas carbon dioxide became common
+development gave processversatility result became highly used industrial
+process today gmaw commonly used industryautomobile industry preferred versatilityspeed unlike welding process employ shielding gas
+shielded metal arc welding rarely used outdoorsarea air volatility related process flux cored arc
+welding often doe utilize shielding gas instead employinghollow electrode wire filled flux inside
+
+development
+
+principle gas metal arc welding began developed around
+turn century humphry davy discoveryelectric arc inat first carbon electrode usedlate metal electrode invented slavianoffc coffin inan early predecessor gmaw invented nobel general electric used bare electrode wire direct
+current used arc voltage regulate feed rate use
+shielding gas protect weld development welding
+atmosphere take place later decade inanother
+forerunner gmaw released suitable practical
+use
+
+wa untilthat gmaw finally developed batelle
+memorial institute used smaller diameter electrode constant
+voltage power source developed e kennedyoffered high deposition rate high cost inert gas limited
+use nonferrous material cost saving obtaineduse carbon dioxide welding atmosphere developed
+quickly gained popularity gmaw since made welding steel
+economical inandthe shortarc variation gmawreleased increased welding versatility made weldingthin material possible relying smaller electrode wireadvanced power supply quickly became popular gmaw
+variation sprayarc transfer variation developed early
+experimenter added small amount oxygen inert gases
+recently pulsed current applied giving rise new
+method called pulsed sprayarc variation
+
+today gmaw one popular welding method especiallyindustrial environment used extensively sheet metal
+industry extension automobile industry method
+often used arc spot welding thereby replacing rivetingresistance spot welding also popular robot weldingrobot handle workpiece welding gun quickenmanufacturing process generally unsuitable welding
+outdoors movement surrounding atmosphere cause
+dissipation shielding gas thus make weldingdifficult also decreasing quality weld problem
+alleviated extent increasing shielding gas
+output expensive general processshielded metal arc welding flux cored arc welding preferredwelding outdoors making use gmaw construction industry
+rather limited furthermore use shielding gas make gmawunpopular underwater welding process reasonrarely used space applications
+
+equipment
+
+perform gas metal arc welding basic necessary equipmentwelding gun wire feed unit welding power supply electrode
+wire shielding gas supply
+
+welding gun wire feed unit
+
+gmaw torch nozzle cutaway imagetorch handlemolded phenolic
+dielectric shown white threaded metal nut insert yellow 
+shielding gas nozzlecontact tipnozzle output face
+enlarge
+gmaw torch nozzle cutaway imagetorch handlemolded phenolic
+dielectric shown white threaded metal nut insert yellow 
+shielding gas nozzlecontact tipnozzle output face
+gmaw wire feed unit
+enlarge
+gmaw wire feed unit
+
+typical gmaw welding gun number key partsa control
+switch contact tip power cable gas nozzle electrode
+conduit liner gas hose control switch triggerpressed operator initiate wire feed electric powershielding gas flow causing electric arc struckcontact tip normally made copper sometimes chemically treated
+reduce spatter connected welding power sourcepower cable transmits electrical energy electrodedirecting weld area must firmly secured properly
+sized since must allow passage electrodemaintaining electrical contact arriving contact tip
+wire protected guided electrode conduit liner
+help prevent buckling maintain uninterrupted wire feed
+gas nozzle used evenly direct shielding gaswelding zoneif flow inconsistent may provide adequate
+protection weld area larger nozzle provide greater shielding
+gas flow useful high current welding operationsize molten weld pool increased gas suppliednozzle gas hose connected tankshielding gas sometimes water hose also built welding
+gun cooling gun high heat operations
+
+wire feed unit supply electrode work drivingconduit contact tip model providewire constant feed rate advanced machine varyfeed rate response arc length voltage wire feeders
+reach feed rate high asmmininmin feed
+rate semiautomatic gmaw typically range fromtommin
+inmin
+
+power supply
+
+application gas metal arc welding use constant voltage power
+supply result change arc length directly
+related voltage result large change heat inputcurrent shorter arc length cause much greater heat input
+make wire electrode melt quickly thereby
+restore original arc length help operator keep arc
+length consistent even manually welding handheld welding
+gun achieve similar effect sometimes constant current power
+source used combination arc voltagecontrolled wire feed
+unit case change arc length make wire feed rate
+adjust order maintain relatively constant arc length rare
+circumstance constant current power source constant wire feed
+rate unit might coupled especially welding metalhigh thermal conductivity aluminium grantoperator additional control heat input weldrequires significant skill perform successfully
+
+alternating current rarely used gmaw instead direct current
+employed electrode generally positively charged since
+anode tends greater heat concentration resultfaster melting feed wire increase weld penetrationwelding speed polarity reversed special
+emissivecoated electrode wire used sincepopular negatively charged electrode rarely employed
+
+electrode
+
+selection electrode used gmaw complicated
+decision depends process variation usedcomposition metal welded joint designmaterial surface condition choice electrode strongly
+influence mechanical property weld area making key
+factor weld quality general desirable welded
+metal mechanical property similar base material
+discontinuity porosity withinweld achieve goal different material using different
+gmaw variation wide variety electrode exist contain
+deoxidizing metal silicon manganese titanium aluminium
+small percentage help prevent oxygen porosity contain
+denitriding metal titanium zirconium avoid nitrogen
+porosity depending process variation base materialused diameter electrode used gmaw typically rangetommin large asmmin
+smallest electrode associated shortcircuiting metal
+transfer pulsed spray mode generally electrodeleastmmin
+gmaw circuit diagramwelding torchworkpiecepower
+sourcewire feed unitelectrode sourceshielding gas
+supply
+enlarge
+gmaw circuit diagramwelding torchworkpiecepower
+sourcewire feed unitelectrode sourceshielding gas
+supply
+
+shielding gas
+
+shielding gas necessary gas metal arc welding protectwelding area atmospheric gas nitrogen oxygencause fusion defect porosity weld metal embrittlementcome contact electrode arc welding metal
+problem common arc welding process insteadshielding gas many arc welding method utilize flux materialdisintegrates protective gas heated welding
+temperature gmaw however electrode wire doe flux
+coating separate shielding gas employed protect weld
+eliminates slag hard residue flux buildwelding must chipped reveal completed weld
+
+choice shielding gas depends several factorimportantly type material welded process variation
+used pure inert gas argon helium usednonferrous welding steel cause erratic arc encourage
+spatter helium provide adequate weld penetration
+argon pure carbon dioxide hand allows deep
+penetration weld encourages oxide formation adversely
+affect mechanical property weld low cost makeattractive choice violence arc spatterunavoidable welding thin material difficult result argon
+carbon dioxide frequently mixed aor 
+mixture reduces spatter make possible weld thin steel
+workpieces
+
+argon also commonly mixed gas oxygen helium
+hydrogen nitrogen addition tooxygen encourages
+spray transfer critical sprayarc pulsed sprayarc
+gmaw however oxygen make shielding gas oxidizeelectrode lead porosity deposit electrode
+doe contain sufficient deoxidizers argonhelium mixturecompletely inert used nonferrous material helium
+concentration ofraises voltage increase heatarc making helpful welding thicker workpiece higher
+percentage helium also improve weld quality speed using
+alternating current welding aluminum hydrogen addedargon small concentration aboutfor welding nickelthick stainless steel workpiece higher concentration 
+hydrogen useful welding conductive materialcopper however used steel aluminium magnesium
+risk hydrogen porosity additionally nitrogensometimes added argon concentration offor welding
+copper use nitrogen especially north americalimited mixture carbon dioxide oxygen similarly rarely
+used north america common europe japan
+
+recent advance shielding gas mixture use three gasgain improved weld quality mixture ofargoncarbon dioxide
+andoxygen gaining popularity welding steelmixture add small amount helium argonoxygen combination
+resulting higher arc voltage welding speed helium also
+sometimes used base gas smaller amount argoncarbon dioxide added additionally specialized often
+proprietary gas mixture claim offer even greater benefitspecific applications
+
+desirable rate gas flow depends primarily weld geometry
+speed current type gas metal transfer modeutilized welding flat surface requires higher flow welding
+grooved material since gas dispersed quickly faster
+welding speed mean gas must supplied provide adequate
+coverage additionally higher current requires greater flowgenerally helium required provide adequate coverageargon perhaps importantly four primary variation gmaw
+differing shielding gas flow requirementsfor small weld pools
+short circuiting pulsed spray mode aboutlmin 
+ft generally suitable globular transfer around
+lminfth preferred spray transfer variation normally
+requires higher heat input thus larger weld
+pool along line oflminfth
+
+operation
+
+gmaw weld areadirection travelcontact tube 
+electrodeshielding gasmolten weld metalsolidified
+weld metalworkpiece
+enlarge
+gmaw weld areadirection travelcontact tube 
+electrodeshielding gasmolten weld metalsolidified
+weld metalworkpiece
+
+application gas metal arc welding fairly simple
+welding process learn requiring several day master
+basic welding technique even welding performed welltrained
+operator however weld quality fluctuate since dependsnumber external factor gmaw dangerous though perhaps
+le welding method shielded metal arc
+welding
+
+technique
+
+basic technique gmaw quite simple since electrodefed automatically torch gas tungsten arc weldingwelder must handle welding torch one hand separate filler
+wire shielded metal arc welding operator must
+frequently chip slag change welding electrode gmawhand requires operator guide welding gunproper position orientation along area welded keepingconsistent contact tiptowork distance stickout distanceimportant long stickout distance cause electrodeoverheat also waste shielding gas orientation gun
+also importantit held bisect angleworkpiece atdegrees fillet weld anddegrees
+welding flat surface travel angle lead angle angle
+torch respect direction travelgenerally remain approximately vertical however desirable angle
+change somewhat depending type shielding gas usedwith pure
+inert gas bottom torch often slightly frontupper section opposite true welding
+atmosphere carbon dioxide
+
+quality
+
+two prevalent quality problem gmaw drossporosity controlled lead weaker ductile
+weld dross especially common problem aluminum gmaw welds
+normally coming particle aluminum oxide aluminium nitride
+present electrode base material electrode workpieces
+must brushed wire brush chemically treated remove
+oxide surface oxygen contact weld pool
+whether atmosphere shielding gas cause dross well
+result sufficient flow inert shielding gas necessarywelding volatile air avoided
+
+gmaw primary cause porosity gas entrapment weld
+pool occurs metal solidifies gas escapes
+gas come impurity shielding gasworkpiece well excessively long violent arc
+generally amount gas entrapped directly relatedcooling rate weld pool higher thermal
+conductivity aluminium weld especially susceptible greater
+cooling rate thus additional porosity reduce workpiece
+electrode clean welding speed diminishedcurrent set high enough provide sufficient heat input stable
+metal transfer low enough arc remains steady preheating
+also help reduce cooling rate case reducingtemperature gradient weld area base material
+
+safety
+
+gas metal arc welding dangerous proper precautiontaken since gmaw employ electric arc welder wear protective
+clothing including heavy leather glove protective long sleeve
+jacket avoid exposure extreme heat flame additionbrightness electric arc cause arc eye ultraviolet
+light cause inflammation cornea burn retinaeye helmet dark face plate worn preventexposure recent year new helmet model produced
+feature liquid crystaltype face plate selfdarkens upon
+exposure high amount light transparent welding curtains
+made polyvinyl chloride plastic film often used shield
+nearby worker bystander exposure lightelectric arc
+
+welder also often exposed dangerous gas particulate
+matter gmaw produce smoke containing particle various typeoxide size particle question tends influence
+toxicity fume smaller particle presenting greater
+danger additionally carbon dioxide ozone gas prove
+dangerous ventilation inadequate furthermore usecompressed gas gmaw pose explosion fire risk common
+precaution include limiting amount oxygen airkeeping combustible material away workplace
+
+metal transfer modes
+
+globular
+
+gmaw globular metal transfer often consideredundesirable four major gmaw variation tendency
+produce high heat poor weld surface spatter methodoriginally developed cost efficient way weld steel using gmaw
+variation carbon dioxide expensive shielding
+gas argon adding economic advantage high
+deposition rate allowing welding speed tomms
+inmin weld made ball molten metalelectrode tends build end electrode oftenirregular shape larger diameter electrodedroplet finally detaches either gravity short circuitingfall workpiece leaving uneven surface often causing
+spatter result large molten droplet processgenerally limited flat horizontal welding position high
+amount heat generated also downside forcewelder use larger electrode wire increase size weld
+pool cause greater residual stress distortion weld
+area
+
+shortcircuiting
+
+development welding steel gmaw led variation
+known shortcircuiting shortarc gmaw carbon dioxide
+shield weld electrode wire smaller currentlower globular method result lower current
+heat input shortarc variation reduced makingpossible weld thinner material decreasing amountdistortion residual stress weld area globular
+welding molten droplet form tip electrode instead
+dropping weld pool bridge gap electrode
+weld pool result greater wire feed ratecause short circuit extinguishes arc quickly
+reignited surface tension weld pool pull molten
+metal bead electrode tip process repeated 
+time per second making arc appear constant human eyetype metal transfer provides better weld quality spatter
+globular variation allows weldingposition generally process much slower globular gmaw
+another difficulty maintaining stable arc dependsachieving consistent high shortcircuiting frequencyaccomplished good power source suitable welding
+condition significant welder skill like globular variation
+used ferrous metals
+
+spray
+
+spray transfer gmaw first metal transfer method used gmaw
+best suited welding aluminium stainless steel employing
+inert shielding gas relatively thick electrodevariation molten metal droplet diameter smallerelectrode diameter rapidly passed along stable electric arc
+electrode workpiece essentially eliminating spatter
+resulting highquality weld finish however high amountvoltage current necessary mean process
+involves high heat input large weld area heataffected zone
+result generally used workpiece thicknesses
+aboutmmin large weld pool often
+limited flat horizontal welding position smaller
+electrode used conjunction lower heat input versatility
+increase maximum deposition rate spray arc gmaw relatively
+high aboutmmsinmin
+
+pulsedspray
+
+recently developed method pulsespray metal transfer mode
+based principle spray transfer pulsing current
+melt filler wire allow one small molten droplet fallpulse pulse allow average current lower
+decreasing overall heat input thereby decreasing sizeweld pool heataffected zone making possible weld
+thin workpiece pulse provides stable arc spatter since
+shortcircuiting take place also make process suitable
+nearly metal thicker electrode wire used well
+smaller weld pool give variation greater versatility making
+possible weld position comparison short arc
+gmaw method somewhat slower maximum speedmmsinmin number appear wrong number citedspray lower cited uncited please correctprocess also requires shielding gas primarily argon
+low carbon dioxide concentration additionally requiresspecial power source capable providing current pulsefrequency betweenandpulses per second however methodgained popularity since requires lower heat input used
+weld thin workpiece well nonferrous materials

@@ -1,0 +1,426 @@
+copyright
+
+itunes
+
+ school wikipedia selection related subject engineering
+
+correct title article itunes initial letter
+shown capitalized due technical restrictions
+
+itunes
+itunesicon
+itunesunder mac developerapple computer
+latest releaseoctober
+osmac windowsand window usemedia player
+licenseproprietary
+websiteapplecomitunes
+
+itunes digital medium player application introduced apple
+computer januaryat macworld expo san franciscoplaying organizing digital music video file programalso interface manage content apple popular ipod
+digital medium player additionally itunes connect itunes
+store formerly known itunes music store itms orderdownload purchased digital music music video television show ipod
+game feature length film itunes gained maintainedreputation easy use still providing many features
+obtaining organizing playing medium program available
+free download apple website bundled mac
+computer ipod supplied mac also
+offered part apple ilife suite multimedia applications
+
+itunes unlike program ilife suite supportedcomputer running mac windowsor greater applealso developed version run mobile phonemotorola rokr motorola razr motorola slvr although october
+version hasnt updated play song purchaseditunesthe program initially developed mac osbut
+support classic mac discontinued releaseitunesthere success running itunes crossover
+office linux wine variant
+
+itunes originally brushed metal interface version 
+introduced new thinner interface commonly referred plastic
+light metal opposed heavier brushed metal dark
+unified based unified look mac v darker
+
+features
+
+user able organize music playlist edit file
+information record compact disc copy file digital audio
+player purchase music video builtin music store
+download podcasts back song onto dvd run visualizerdisplay graphical effect time music encode musicnumber different audio formats
+
+playlists
+
+addition static playlist support itunes support smart
+playlist smart playlist playlist setautomatically update live updating like database query basedcustomized list selection criterion different criterionentered control many aspect playlist
+
+playlist played randomly sequentially randomnessshuffle algorithm biased playing multiple
+track album artist sequence new featureitunesparty shuffle also biased towards selecting tracks
+higher star rating bias enabled star rating
+increase preference particular song aboutoveronestarless rated song unrated song least likelyplayed interstar rating stored itunes affectfeature range zero one star
+
+party shuffle playlist intended simple djing aiddefault selects track randomly playlistlibrary user override automatic selection deleting tracks
+itunes choose new one replace addingvia draganddrop contextual menu allows mixturepreselected random track metaplaylist playlist
+party shuffle draw changed fly causerandomly chosen track disappear replaced
+
+music library
+
+itunes keep track song creating virtual library allowing
+user access edit song attribute attribute known
+metadata stored two library files
+
+first binary file called itunes library itunes music
+library previous version music library format
+cache information artist genre audio
+format tag capability example tag store itunes
+specific information play count ratingone two file itunes reads
+
+second file called itunes music libraryxml refreshed whenever
+information itunes changed xml format allowing
+developer easily write application access library
+information including play count last played date ratingstandard field idv format apple idvd
+imovie iphoto freshly squeezed software rock starexample application access library
+
+mp file itunes writes tag unicode idv defaultconverting idv idv possible via advanced 
+convert tag toolbar menu idvx idvx tagfile itunes ignores idvx tag aac apple lossless
+file support unicode metadata stored tags
+
+printing
+
+compensate lack physical itunes print
+custommade jewel case insert well song list album lists
+burning playlist one select playlistclicking fileprint bring dialogue box several print
+option user choose print either single album coverpurchased itunes album compilation cover usercreated
+playlist itunes automatically set template artone side track title
+imix
+
+imix usercreated playlist published itunes store
+imixes first introduced itunes versionanyone create
+imix free charge imixes limited tosongs support
+music downloaded music store well musicimported provided available itunes store
+imixes public searchable itunes user user may also
+rate imix using fivestar system imixes active one year
+original published date user publish itunes imix
+blog profile page website
+
+internet radio
+
+itunescame support kerbango internet radio tuner
+service giving itunes user selection popular
+online radio stream available kerbango went businessapple created web radio service use itunes 
+later februarythe itunes radio service features
+arounddistinct radio station total 
+stream allowing multiple bit rate mostly streaming
+format programming cover many genre music talk including
+stream online staple radio paradise radioio
+rautemusik digitally imported flashback alternative somafmwell terrestrial station kkjz wfmu wmvy wrct itunes
+also support pls stream file format used winamp
+enabling itunes access almost stream using format
+
+apple longer promotes internet radio feature mentionappears itunes website however remains quicktime
+itunes eula used itunes 
+
+file format support
+
+itunescan currently read write convert aiff wav
+ogg vorbis mpeg aac apple lossless
+
+conversion done changing import format preference 
+advancedimport using dialog box change settingfile format need convert file formatadvancedconvert dialog box
+
+also play anything quicktime play even video formats
+including protected aac file itunes store audiblecom
+audio book order play format oggcontained
+vorbis speex codecs itunes requires xiph quicktime components
+installed itunes currently play back heaacaacplus
+audio stream correctly heaacaacplus format file play backkhz aac file effectively high end overkhz
+
+ha criticism quality apple encoder
+regard variable bit rate encoding january 
+doubleblind public listening test six encoders encoding 
+kbit conducted roberto amorim itunes vbr encoder came
+last author later acknowledged serious issues
+itunes tested
+
+window version itunes automatically convert unprotected wma
+including versionfiles audio format doesupport direct playback encoding wma format
+
+sound processing
+
+itunes includes sound processing feature equalizationsound enhancement sound improvement languagealso feature called sound check automatically adjustsplayback volume song level like sound
+enhancement turned playback sectionitunes preferences
+
+music sharing
+
+itunes library song shared local network usingclosed proprietary digital audio access protocol daap createdapple purpose daap relies bonjour network service
+discovery frameworkapples implementation zeroconf open
+network standard daap specification publishedapple protocol reverseengineered usedstream playlist nonapple software mainly linux
+platform
+
+daap allows shared list song within subnetautomatically detected song shared itunes streamsong wont save local hard drive order prevent
+unauthorized copying song protected aac format alsoaccessed authentication required maximum five user may
+connect single user everyhours
+
+originally itunesusers could freely access shared music
+anywhere internet addition one subnetspecifying address remote shared song library apple quickly
+removed feature versionclaiming userviolating end user license agreement
+
+video
+
+mayvideo support introduced itunes release
+itunesusers drag drop movie clip computer
+itunes library cataloging organizationviewed small frame main itunes display separate
+window fullscreen versionprovided separate librarymedium type video distinguished audio library
+small icon resembling screen grouped musiclibrary organized musical category albumcomposer itunes relies quicktime therefore incompatible
+common video format including wmv
+
+octoberapple introduced ituneswhich added support
+purchasing viewing video content itunes music
+store itunes music store initially offered selection several
+thousand music video five show including notably abc
+network lost desperate housewife disney channel showalso offeredthe suite life zack cody thats raven 
+hour airing well episode pack past season since
+time collection expanded content numerous
+television network itunes music store also give abilityview apple large collection movie trailers
+
+septemberthe newlyrenamed itunes store offertelevision show download including recently additions
+discovery channel comedy central mtv fox additionallycatalog offeaturelength movie disneyowned studiointroduced
+
+octobermovies show available customer video content available nonus customers
+music video pixars short films
+
+video content available store used encoded askbits
+protected mpeg videoh approximatelykbits aac
+audio track many video video podcasts currently requirelatest version quicktime quicktimewhich incompatibleolder version macos later supported
+starting septemberthe resolution video content solditunes store increased xqvga xvga
+higher resolution video content encoded asmbits protected
+mpeg videoh approximatelykbits aac audio track
+
+plugins
+
+itunes support visualizer plugins device plugins visualizer
+plugins allow developer create musicdriven visual display itunes
+includes default visualizer gforce licensed soundspectrum
+visualizer plugin software development kit mac windows
+downloaded free apple device plugins allow supportadditional music player device apple license apis
+bona fide oems sign nondisclosure agreement
+
+podcasting
+
+versionof itunes released juneadded builtin
+support podcasting allows user subscribe podcastsitunes music store entering feed url subscribed
+podcast downloaded automatically user chooseupdate podcasts weekly daily hourly manually
+
+user select podcasts listen podcast directoryanyone submit podcast placement directory
+apple maintains four official podcasts podfinder adam curry
+street official real talk interview hiphop artist itunes new
+music tuesday apple quarterly earnings call front pagedirectory also display highprofile podcasts commercial
+broadcaster independent podcasters also allows user browse
+podcasts category popularity
+
+addition podcasting functionality mainstream audio
+application like itunes greatly helped bring podcasting much wider
+audience within day ituneswas released podcastersreporting number downloads audio filetripled sometimes even quadrupled
+
+video podcasting
+
+versionof itunes introduced official support video podcasting
+although video support already unofficiallyversionusers subscribe feed itunes music
+store entering feed url video podcasts contain
+downloadable video file mov mv mpg format also
+streaming source even iptv downloadable file synchronized
+videocapable ipod downloadable file streamshown apple new front row medium centre application
+
+synchronizing ipod players
+
+itunes automatically synchronize music video libraryipod every time connected version itunesalso synchronize number digital music playerwindow version support ipod new song playlists
+automatically copied ipod song deleted
+library computer also deleted ipod
+rating awarded song ipod sync back itunes
+library audiobooks remember current playback position
+
+automatic synchronization turned favour manually
+copying individual song complete playlist however itunes
+support copying music ipodinspired third party software latter purpose also
+possible copy ipod using ordinary unix command line tools
+simply enabling show hidden file folder optionfolder option copying music ipod drive local
+disk backup
+
+ipod connected doe contain enough free spacesync entire itunes music library playlist createdgiven name matching connected ipod playlistmodified user preference song selection fillavailable space
+
+itunes support number popular portable music playerlimitation notably inability play music purchased
+itunes music store supported player include numbernomad player creative lab player rio audioarchos nakamichi soundspacedevice manufacturer may
+also offer integration way device plugin number third
+party program created help user itunessynchronize song music player mountedexternal drive
+
+though itunes official method synchronizingipod program available allow ipod sync
+software players
+
+itunespurchased music copied ipod ontocomputer computer must authorized itunes account
+itunes currently allows tocomputers authorized one
+account doe allow transfer imported music filecomputer may necessary back song transfer songnew computer restore music disk failure using ipodbackup source number shareware freeware application exist
+complement itunes
+
+itunes store
+
+versionof itunes introduced itunes music store itunes
+user buy download song use limited numbercomputer unlimited number ipod song purchaseditunes store copy protected apple fairplay digital rights
+management drm system februaryoverbillion songs
+downloaded since service first launched april 
+
+
+use operating system mac microsoft
+window linux cannot use music purchased itunes store
+since linux version itunes available resulteddevelopment number alternative player software wellpublished hack workarounds allow customer itunes store
+use audio software operating system software choice
+notable hack pymusique apple made
+several unsuccessful attempt blocking software hymnsoundtaxi also developed decrypt purchased musicallow played shared program howeversoftware illegal countries
+
+ipod owner market taken onetime page withinitunes store first connecting computer page
+currently offer free album sampler lava atlantic records
+either whole album individual track downloadedalbum sampler universal record previously available may
+still accessed via special link web
+
+currently itunes store available united states
+united kingdom france germany austria belgium finland greece
+ireland italy luxembourg netherlands portugal spain canada
+denmark norway sweden switzerland japan australia
+
+ina controversy erupted french draft law aimedreinforcing protection work art piracy illegal
+copying clause law could possibly used request
+apple provide information fairplay system manufacturers
+competitor players
+
+ministore feature added itunes versionit addsmall window bottom main window turneduser selects item library information
+particular item sent itunes storeministore show related song video initially ministore
+caused controversy people feared could used spyware
+apple clarified ministore didnt collect informationuser later made optin
+
+itunes versionintegrated cover flow technology allowed
+shopper view album art rollover interface
+originally created steelskiescom mac companyacquired apple computer 
+
+septemberthe store began offering movie game
+downloads reflect change emphasizeonline music store itunes music store renamed itunes
+store apple announced day itunes become first
+digital music store topsellers music ucurrently place
+
+gracenote
+
+itunes gracenote interactive audio database provide
+track name listing audio service activates automatically
+cd inserted computer itunes applicationopen internet connection available track name albums
+imported itunes connected internet obtained
+later connected manual procedure album loadeditunes existing gracenote track listinguser choose submit track name data gracenote
+
+integration applications
+
+macintosh itunes tightly integrated apple iwork suite
+application rest application ilifeapplication access itunes library directly allowing accessplaylist song stored within including encrypted music
+purchased itunes music store music file itunesembedded directly page document supply scoreidvd imovie keynote production itunes also integratedfront row front row read info itunes iphotoaddition song exported garageband apple musicmaking
+program automatically added user itunes music library
+itunes artworksaver screen saver included mac osthat
+display album artwork screen saver ituneswidget dashboard
+widget control itunes development senuti mac allows itunes integrated ipod itunes transfer
+song moreover itunes scripted using
+applescript mac using appleprovided sdk ituneswindow via visual basic javascript 
+recent version history
+
+itunes developed soundjam popular commercial application distributed macintosh software company casady 
+greene apple purchased right soundjam softwarehired three programmer created soundjam first releaseitunes similar soundjam addition burning
+makeover user interface well removal soundjams
+recording ability capacity using skin apple added number
+significant feature subsequent version itunes
+september
+refined look compact
+lcd display top display artist song together
+ability group playlist folders
+search search bar refining search resultduplicate spotlight bar mac xfinder
+search music audiobooks podcasts video etc
+search artist album songs
+automatically sync calendar contact microsoft
+outlook outlook express contactsmart shuffle adjustable randomness
+support playback creation variable bitrate aac
+files
+parental control limit childrens access podcastsitunes music store sharing features
+lyric tab track info box
+song option remember playback positionskip shuffle mode
+september
+bug fixes
+bonjour window removed installer bundle dns
+conflict problems
+october
+video added source list
+support purchase video content itunes music
+store
+transfer video file fifthgeneration ipods
+purchasing music withand version itunes
+music store account upgraded blocking hymn drm removal
+utility
+october
+bug fixes
+january
+bug fixes
+ministore library mini view related product itunes
+store
+convert home movie ipod compatible file itunes
+airtunes enhancement allow three separate audio streams
+february
+bug fixes
+performance improvements
+march
+address stability performance issue related front
+row
+march
+fix problem user playlistversion 
+june
+add support syncing nikeipod workout datanikepluscom easily track progress set training goals
+challenge others new nike sport music area itunes
+music store download workout mix athlete inspiration
+playlist nike podcasts
+
+september
+support movie downloaded itunes store
+higher video resolution selectable user interface track listings
+cover flow view album art
+download manager
+missing album art available download itunes
+store
+improved full screen video playback onscreen
+controls
+ipod manager ipod updater builtin insteadseparate software
+updated user interface
+improved rating parental controls
+multiple library library backup commands
+gapless playback
+transfer purchased content ipod computer
+ipod games
+improved search
+new data field album artist skip count last
+skipped
+september
+stability performance improvement cover flow importing ipod syncingresolved compatibility issue remote desktop
+protocol
+resolved compatibility window live messengercomputer call pcs
+october
+added support generation ipod shuffle
+fixed various stability performance issue found itunes
+
+
+interface screenshots
+
+itunesmac 
+
+itunesmac 
+itunesmac 
+
+itunesmac 
+itunesmac 
+itunesmac
+
+ituneswindows
+
+itunesmac
+
+itunesmac
+
+ituneswindows
+
+itunesmac 
+ituneswindows
+
+ituneswindows
+

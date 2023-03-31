@@ -1,0 +1,447 @@
+copyright
+
+x window core protocol
+
+ school wikipedia selection related subject software
+
+
+featured article click information
+x window system logo
+enlarge
+x window system logo
+
+x window core protocol base protocol window system
+networked windowing system bitmap display used build
+graphical user interface unix unixlike operating
+system window system based clientserver modelsingle server control inputoutput hardware screen
+keyboard mouse application program act clients
+interacting user client via server
+interaction regulated window core protocolprotocol related window system exist built top
+x window core protocol separate protocols
+
+x window core protocol four kind packet sent
+asynchronously network request reply eventerror request sent client server askperform operation example create new window send
+back data hold reply sent server providedata event sent server notify client user activity
+occurrence interested error packet sentserver notify client error occurred processingrequest request may generate reply event errorprotocol doe mandate specific orderpacket sent network extension core protocol
+exist one request reply event errors
+
+x window originated mit inits current release appearedseptemberits designer bob scheifler jim gettys setearly principle core protocol create mechanismpolicy result core protocol doe specifyinteraction client client userinteraction subject separate specificationicccm freedesktoporg specification typically
+enforced automatically using given widget set
+
+overview
+
+communication server client done exchanging packets
+channel connection established client client
+also sends first packet containing byte order usedinformation version protocol kindauthentication client expects server use server answers
+sending back packet stating acceptance refusalconnection request authenticationconnection accepted acceptance packet contains dataclient use subsequent interaction server
+example interaction client server
+enlarge
+example interaction client server
+
+connection established four type packet exchanged
+client server channel
+request client request information serverrequest perform action
+reply server responds request request generate
+replies
+event server informs client event keyboard
+mouse input window moved resized exposed etc
+error server sends error packet request invalid
+since request queued error packet generated request may
+sent immediately
+
+request reply packet varying length event error
+packet fixed length ofbytes
+
+request packet numbered sequentially server soonreceives first request client numberedthe
+secondetc least significantbits sequential number
+request included reply error packet generatedrequest also included event packetindicate sequential number request servercurrently processing finished processing
+
+windows
+
+usually called window graphical user interfacecalled toplevel window window system term windowalso used denote window lay within another windowsubwindows parent window graphical element buttons
+menu icon etc realized using subwindows
+possible placement windowsis root windowcover whole screenandare toplevel windowsandare
+subwindows ofthe part window outside parentvisible
+possible placement windowsis root windowcover whole screenandare toplevel windowsandare
+subwindows ofthe part window outside parentvisible
+
+client request creation window preciselyrequest creation subwindow existing window result
+window created client arranged tree hierarchy
+root tree root window special window
+created automatically server startup windowdirectly indirectly subwindows root window toplevel
+window direct subwindows root window visibly root
+window large screen lay behind windows
+
+content window always guaranteed preservedtime particular window content may destroyedwindow moved resized covered window general made
+totally partly nonvisible particular content lost server maintaining backing store window contentclient request backing store window maintainedobligation server therefore clients
+cannot assume backing store maintained visible partwindow unspecified content event sent notifyclient window content drawn
+every window associated set attribute geometry
+window size position background image whether
+backing store requested etc protocol includes
+request client inspect change attribute window
+
+window inputoutput inputonly window shownscreen used drawing first kind second kind
+window never shown screen used receive
+input
+
+decorative frame title bar possibly including buttonusually seen around window created window managerclient creates window window manager also handles
+input related element resizing windowuser click drag window frame client usually operatewindow created disregarding change operated window
+manager change take account reparenting
+window manager almost modern window manager change
+parent toplevel window window rootpoint view core protocol window manager client
+different applications
+
+data window obtained running xwininfo program
+passing tree commandline argument program show tree
+subwindows window along identifier geometry
+data
+
+pixmaps drawables
+
+pixmap region memory used drawing contrary
+window content pixmaps automatically shownscreen however content pixmap parttransferred window vice versa allows exampleimplement double buffering graphical operationdone window also done pixmaps
+
+window pixmaps collectively named drawables content
+data resides server client however request contentdrawable transferred server client vice
+versa
+
+graphic context fonts
+
+client request number graphic operation clearingarea copying area another drawing point line rectangles
+text beside clearing operation possibledrawables window pixmaps
+
+request graphic operation include graphic contextstructure contains parameter graphic operations
+graphic context includes foreground color background colour
+font text graphic parameter requestinggraphic operation client includes graphic context clearlyparameter graphic context affect operationexample font doe affect drawing line
+
+core protocol specifies use serverside font fonts
+stored file server access either directly via
+local filesystem via network another program called
+font server client request list font availableserver request font loaded already unloaded
+used client server client request
+general information font example font ascentspace specific string take drawn specific font
+
+name font arbitrary string level window core protocol logical font description conventions
+specify font named according attributeconvention also specify value optional propertyattached fonts
+
+xlsfonts program print list font stored serverxfontsel program show glyph font allow userselect name font pasting another window
+
+use serverside font currently considered deprecatedfavour clientside font font rendered clientserver support xft cairo libraryxrender extension specification clientside font givencore protocol
+
+events
+
+event packet sent server client communicatesomething client may interested happened exampleevent sent user press key click mouse button
+event used input example event sentindicate creation new subwindows given window
+
+every event relative window example user clicks
+pointer window event relativewindow event packet contains identifier window
+
+client request server send event another client
+used communication client eventexample generated client request text currently
+selected event sent client currently handling
+window hold selection
+
+expose event sent area window destroyed content
+made visible content window may destroyedcondition example window covered servermaintaining backing store server generates expose eventnotify client part window drawn
+example event key pressed window eventgenerated sent client depending window event mask
+client change
+enlarge
+example event key pressed window eventgenerated sent client depending window event mask
+client change
+
+kind event sent client previously statedinterest client may interestedkind event example client may interestedkeyboardrelated event mouserelated event kindevent however sent client even specifically
+requested
+client specify kind event want sent setting
+attribute window example order redraw windowcontent destroyed client must receive expose
+event inform window need drawnclient however sent expose event clientpreviously stated interest event doneappropriately setting event mask attribute window
+
+different client request event window even
+set different event mask window example client may
+request keyboard event window another client requests
+mouse event window possibleserver window maintains separate event maskclient however kind eventselected one client time window particularevent report mouse button click change related window
+management
+
+xev program show event relative window particular
+xev wid request possible event relative windowidentifier wid print
+example
+
+following possible example interaction serverprogram creates window black box exitkeypress example server doe send replyclient request generate reply request could
+generate errors
+client open connection server sendsinitial packet specifying byte order using
+server accepts connection authorization involvedexample sending appropriate packet contains
+information identifier root window xb identifier client create
+client request creation default graphic contextidentifier request like requestexample doe generate reply server
+client request server create toplevel windowspecifies parent root window xbidentifier size positionetc
+client request change attribute window
+x specifying interested receiving exposekeypress events
+client request window mapped shownscreen
+window made visible content drawn
+server sends client expose event
+response event client request box drawnsending polyfillrectangle request window xgraphic context 
+window covered another window uncoveredassuming backing store maintained
+server sends another expose event tell clientwindow drawnclient redraws window sending polyfillrectangle
+request
+
+key pressed
+server sends keypress event client notifyuser pressed key
+client reacts appropriately case terminates
+
+colors
+
+protocol level colour represented bit unsigned
+integer called pixelvalue following element affectrepresentation colors
+colour depth
+colormap table containing red green blue
+intensity values
+visual type specifies table used represent
+colors
+
+easiest case colormap table containing rgb triplerow pixelvalue represents colour contained xth
+row table client change entry colormap
+representation identified pseudocolor visual classvisual class staticcolor similar client cannot changeentry colormap
+
+total six possible visual class one identifying
+different way representing rgb triple pixelvalue
+pseudocolor staticcolor two grayscale staticgraytwo differing shade gray used
+
+two remaining visual class differ onebreak pixelvalues three part use three separate tablered green blue intensity according colour
+representation pixelvalue converted rgb triplefollows
+pixelvalue seen sequence bits
+sequence broken three parts
+three chunk bit seen integer used
+index find value three separate tables
+
+mechanism requires colormap composed three separate
+table one primary colour result conversionstill triple intensity value visual class usingrepresentation directcolor truecolor one differingwhether client change colormaps
+six mechanism representing color pixelvaluesrequire additional parameter work parametercollected visual type contains visual classparameter representation color server fixed set
+visualtypes one associated numerical identifieridentifier bit unsigned integer necessarily
+different identifier resource atoms
+
+connection client accepted acceptance packet
+sent server contains sequence block one containing
+information single screen screen relative block
+contains list block one relative specific colour
+depth supported screen supported depthlist contains list visualtypes result screenassociated number possible depth depth screen
+associated number possible visual type given visual type
+used screen different depths
+
+visual type acceptance packet containsidentifier actual parameter contains visual class etc
+client store information cannot request afterwards
+moreover client cannot change create new visual type requests
+creation new window include depth identifiervisual type use representing color window
+
+colormaps used regardless whether hardware controllingscreen graphic card palette tablealso used representing color server use colormaps evenhardware using palette whenever hardware palettes
+limited number colormaps installed particularcolormap installed hardware show color accordingclient request server install colormap however may
+require uninstalling another colormap effectwindow using uninstalled colormap shown correct
+colour effect dubbed colour flashing technicolor problem
+solved using standard colormaps colormapspredictable association pixelvalues color thanksproperty standard colormaps used different applications
+
+creation colormaps regulated icccm convention
+standard colormaps regulated icccm xlib
+specification
+
+atoms
+
+atom bit integer representing string protocol designers
+introduced atom represent string short fixed
+size string may arbitrarily long atom alwaysbit integer atom short exploited mandatinguse kind packet likely sent many timestring result efficient use network
+atom fixed size exploited specifying fixed sizeevent namelybytes fixedsize packet contain atomcannot contain long strings
+
+precisely atom identifier string stored serversimilar identifier resource window pixmaps etc
+differ two way first identifier atomchosen server client word client
+request creation new atom sends serverstring stored identifier identifier chosenserver sent back reply client second important
+difference resource atom atom associated
+client created atom survives server quitsreset default behaviour resources
+
+atom identifier therefore unique however atomresource identifier coincide string associated atomcalled atom name name atom cannot changedcreation two atom name resultname atom commonly used indicate atom atom abcd
+mean precisely atom whose associated string abcdatom whose name abcd client request creationnew atom request atom identifier given
+string atom predefined created server given
+identifier string
+
+atom used number purpose mostly relatedcommunication different client connected server
+particular used association propertywindow described
+list atom residing server printed usingprogram xlsatoms particular program print atomidentifier number name associated string
+
+properties
+
+every window predefined set attribute setproperty stored server accessible client via
+appropriate request attribute data windowsize position background colour etc property arbitrary pieces
+data attached window contrary attribute propertymeaning level window core protocol clientstore arbitrary data property window
+
+property characterized name type value properties
+similar variable imperative programming languageclient create new property given name type storevalue property associated window two propertyname exist two different window different
+type values
+
+name type value property string precisely
+atom string stored server accessibleclient via identifier client application access given
+property using identifier atom containing nameproperty
+
+property mostly used interclient communication example
+property named wmname property named atom whose
+associated string wmname used storing namewindow window manager typically read property displayname window title bar
+
+type interclient communication use property root
+window example according freedesktop window manager
+specificationwindow manager store identifiercurrently active window property named netactivewindowroot window resource contain parameter programalso stored property root window way clientaccess even running different computers
+
+xprop program print property given window xprop root
+print name type value property root window
+
+mappings
+
+key always generates keycode symbolsand 
+associated three different keysyms
+key always generates keycode symbolsand 
+associated three different keysyms
+
+x window system every individual physical key associatednumber rangecalled keycode keycodeidentifies key particular character term pageamong one may printed key onecharacter term instead identified keysym keycode
+depends actual key pressed keysym may depend
+example whether shift key another modifier also
+pressed
+
+key pressed released server sends event type
+keypress keyrelease appropriate client events
+contain
+keycode pressed key
+current state modifier shift control etc mouse
+buttons
+
+keycode translated keysym
+enlarge
+keycode translated keysym
+
+server therefore sends keycode modifier state without
+attempting translate specific characterresponsibility client conversion exampleclient may receive event stating given key pressed
+shift modifier key would normally generate
+character client server associateevent character
+translation keycodes keysysms done client
+table represents association maintained server
+storing table centralized place make accessibleclient typical client request mapping usedecoding keycode modifier field key event keysym
+however client also change mapping
+modifier key pressed change interpretationkey common modifier shift key keynormally produce lowercase pressed together shiftproduce uppercase common modifier control alt
+meta
+
+x server work eight modifier however modifier
+associated one key necessarymany keyboard duplicated key modifier example
+many keyboard two shift key one left oneright two key produce two different keycodes pressedx server associate shift modifier
+
+eight modifier server maintains listkeycodes consider modifier examplelist first modifier shift modifier contains keycode
+x key produce keycode considered shift
+key server
+
+list modifier mapping maintained serverchanged every client example client request thef
+key added list shift modifier pointkey behaves like another shift modifier however keycode
+corresponding still generated key pressedresult operates example help window mayopened pressed also operates like shift key
+pressing text editor add current
+text
+
+x server maintains modifier mapping mouse
+button however button permuted mostly
+useful exchanging leftmost rightmost button lefthanded
+users
+
+xmodmap program show change key modifier mouse
+button mappings
+
+grabs
+
+grab condition keyboard mouse event sentsingle client client request grab keyboardmouse request fulfilled serverkeyboardmouse event sent grabbing client grabreleased client receive events
+
+requesting grab client specifies grab window events
+sent grabbing client relative grab
+window however client receive event evenselected grab window two kind grabs
+
+active
+grab take place immediately
+
+passive
+grab take place previously specified keymouse button pressed terminates released
+
+pointer keyboard frozen event generateblocked queue grabbed event reroutedgrabbing client instead window normally receivespointer event discarded depending event mask
+enlarge
+pointer keyboard frozen event generateblocked queue grabbed event reroutedgrabbing client instead window normally receivespointer event discarded depending event mask
+
+client estabilish grab keyboard pointerrequest grabbing include request freezing keyboard
+pointer difference grabbing freezinggrabbing change recipient event freezing stopdelivery altogether device frozen event generates
+stored queue delivered usual freeze
+pointer event additional parameter affect deliveryevent event mask specifies type eventdelivered one discarded
+
+request grabbing include field specifying happens
+event would sent grabbing client evenestablished grab particular client requestsent usual according grab two conditionmay appear example client would normally
+receive keyboard event first window may request keyboard
+grabbed second window event would normally sentfirst window may may redirected grab window
+depending parameter grab request
+
+client also request grab entire server case
+request processed server except one cominggrabbing client
+
+
+request event core protocol exist first kindrequest relative parent relationship windowclient request change parent window request
+information parenthood window requestrelative selection however mostly governedprotocol request input focus shapecursor client also request owner resource window
+pixmap etc killed cause server terminateconnection finally client send nooperation request
+server
+
+extensions
+
+x window core protocol designed extensible core
+protocol specifies mechanism querying available extensions
+extension request event error packet made
+
+particular client request list available
+extension data relative specific extension packetextension similar packet core protocol core
+protocol specifies request event error packet containinteger indicating type example request creatingnew window numbereda range integer reservedextensions
+
+authorization
+
+client initially establishes connection serverserver reply either accepting connection refusingrequesting authentication authentication request contains name
+authentication method use core protocol doe specify
+authentication process depends kind authentication
+used end server either sending acceptance
+refusal packet
+
+regular interaction client serverrequest related authentication hostbased access
+method particular client request method enabled
+request reading changing list hostsclientsauthorized connect typical application userequest used xhost program give user script
+access host access list hostbased access methodconsidered insecure
+
+xlib client libraries
+
+client program communicate server via xlib client
+library particular client use library xaw motif
+gtk turn use xlib interacting serveruse xlib following effects
+xlib make client synchronous respect replyevents
+xlib function send request blockappropriate reply expected receivedword window client using xlib sendrequest server operationwaiting reply client using xlib call
+xlib function sends request waitreply thus blocking client waiting reply
+unless client start new thread callingfunction
+server sends event asynchronously xlib stores
+event received client queue client program
+access explicitly calling functionx library word client forced blockbusywait expecting event
+xlib doe send request server immediately stores
+queue called output buffer requestoutput buffer actually sentprogram explicitely request calling library
+function xflush
+program call function give result something
+involve reply serverxgetwindowattributes
+program asks event event queue example
+calling xnextevent call block example
+xnextevent block queue empty
+
+higherlevel library turn used xawmotif allow client program specify callback functions
+associated event library take care pollingevent queue calling appropriate function requiredevent indicating need redrawing windowhandled internally 
+lowerlevel library xcb provide asynchronous accessprotocol allowing better latency hiding
+
+x window core protocol doe specify
+
+x window core protocol doe mandate interclient
+communication doe specify window used formvisual element common graphical user interfacesbuttons
+menu etc graphical user interface element defined client
+library realizing widget toolkits interclient communicationcovered standard icccm freedesktop
+specification 
+
+interclient communication relevant selection cut bufferdraganddrop method used user transfer data
+window another since window may controlleddifferent program protocol exchanging data necessary
+interclient communication also relevant window managerprogram control appearance window general
+lookandfeel graphical user interface yet another issueinterclient communication extent relevantsession management
+
+user session start another issue coveredcore protocol usually done automatically display
+manager user however also start session manually runningxinit startx programs
+

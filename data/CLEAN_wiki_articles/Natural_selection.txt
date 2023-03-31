@@ -1,0 +1,409 @@
+copyright
+
+natural selection
+
+ school wikipedia selection related subject evolutionreproduction
+
+galpagos island holdspecies finch closely
+related differ markedly shape beak beak
+specie suited preferred food suggesting beak
+shape evolved natural selection see also character displacement
+adaptive radiation divergent evolution
+enlarge
+galpagos island holdspecies finch closely
+related differ markedly shape beak beak
+specie suited preferred food suggesting beak
+shape evolved natural selection see also character displacement
+adaptive radiation divergent evolution
+
+natural selection process individual organismfavorable trait likely survive reproduceunfavorable trait work whole individualheritable component trait passed offspringresult favorable heritable trait become commonnext generation given enough time passive process resultadaptation speciation see evolution
+
+natural selection one cornerstone modern biologyterm introduced charles darwin hisbook originspecie analogy artificial selection farmer
+selects breeding stock
+
+example antibiotic resistance
+
+figureschematic representation antibiotic resistanceenhanced natural selection top section represents population
+bacteria exposure antibiotic middle section shows
+population directly exposure phase selection
+took place last section show distribution resistancenew generation bacteria legend indicates resistance levels
+individuals
+enlarge
+figureschematic representation antibiotic resistanceenhanced natural selection top section represents population
+bacteria exposure antibiotic middle section shows
+population directly exposure phase selection
+took place last section show distribution resistancenew generation bacteria legend indicates resistance levels
+individuals
+
+wellknown example natural selection action development
+antibiotic resistance microorganism antibiotic used
+fight bacterial disease since discovery penicillin 
+alexander fleming however widespread use especially misuse
+antibiotic led increased microbial resistanceantibiotic point methicillinresistant staphylococcus
+aureus mrsa described asuperbug threat
+pose health relative invulnerability existing drugs
+
+natural population bacteria contain among vast numberindividual member considerable variation genetic material
+primarily result mutation exposed antibioticbacteria die quickly may mutation makelittle susceptible exposure antibiotic shortindividual survive treatment selective eliminationmaladapted individual population natural selection
+
+surviving bacteria reproduce producing next
+generation due elimination maladapted individualpast generation population contains bacteriaresistance antibiotic time new mutations
+occur contributing new genetic variation existing genetic
+variation spontaneous mutation rareeffect usually effect deleterious however
+population bacteria enormous individualbeneficial mutation new mutation reducessusceptibility antibiotic individual likelysurvive next confronted antibiotic given enough time
+repeated exposure antibiotic populationantibioticresistant bacteria emerge
+
+recently several new strain mrsa emerged resistant
+vancomycin teicoplanin example sometimes
+called anarms race bacteria continue develop strains
+le susceptible antibiotic medical researchers
+continue develop new antibiotic kill similar
+situation occurs pesticide resistance plant insects
+
+general principles
+
+natural selection act phenotype phenotype overall
+result individual genetic makeupgenotype environment
+interaction gene geneenvironment often natural selection act specific traitindividual term phenotype genotype sometimes used
+narrowly indicate specific traits
+
+trait determined single gene affected
+many different gene variation gene hasmall effect phenotypic value trait studygenetics quantitative trait called quantitative genetics
+
+key element understanding natural selection conceptfitness natural selection act individual average effect
+individual particular genotype fitnessgenotype fitness measured proportion progenysurvives multiplied average fecundity equivalentreproductive success genotype fitness value greaterone indicates frequency genotype population
+increase value one indicates decreases
+relative fitness genotype estimated proportionfitness reference genotype related relative fitnessselection coefficient difference relative
+fitness two genotype larger selection coefficientstronger natural selection act genotypelowest fitness
+
+natural selection act phenotypic trait aspectenvironment including mate conspecific produce
+selective pressure however doe imply natural selection
+always directional result adaptive evolution natural
+selection often result maintenance status quopurifying selection unit selection limited level
+individual includes level within hierarchybiological organisation gene cell relativestill debate however whether natural selection actlevel group specie selection adaptationbenefit group specie rather individual selectiondifferent level individual example gene result
+increase fitness gene time
+reducing fitness individual carrying gene see
+intragenomic conflict detail overall combined effect
+selection pressure various level determines overall
+fitness individual hence outcome natural selection
+figurethe life cycle sexually reproducing organism various
+component natural selection indicated life stage
+enlarge
+figurethe life cycle sexually reproducing organism various
+component natural selection indicated life stage
+
+natural selection occurs every life stage individual see
+figureand selection stage affectlikelihood individual survive reproduceindividual born survive adulthoodreproduce selection reach stage called
+viability selection many specie adult must competematessexual selection success competition
+determines parent next generation specie reproduce
+longer survival reproductive phase increases
+number offspringsurvival selection fecundityfemale many egg female bird produce male giant sperm certain specie drosophila limited 
+fecundity selection viability produced gamete differ
+intragenomic conflict meiotic drive haploid gametes
+result gametic genic selection finally unioncombination egg sperm might compatible others
+compatibility selection
+
+ecological selection sexual selection
+
+also useful make mechanistic distinction ecological
+selection sexual selection ecological selection covermechanism selection result environment including
+relative kin selection conspecific competition
+infanticide sexual selection refers specifically competition
+conspecific mate sexual selection includes mechanisms
+mate choice malemale competition although two forms
+act combination specie female choose winners
+malemale competition mate choice intersexual selection
+typically involves female choice usually femalechoosy sexrole reversed specie malechoose feature confined one sex particular
+specie explained selection exercised sexchoice mate extravagant plumage male birds
+aggression member sex intrasexual selectiontypically referred malemale competition sometimes
+associated distinctive feature antlerstag used combat stag generally
+intrasexual selection often associated sexual dimorphism
+including difference body size male femalespecies
+
+nomenclature usage
+
+scientist use several slightly different definition term
+natural selection different context generationindividual produce offspringreproduce leave offspring others seennatural process reproductive selection individualbeneficial trait likely selectedthatoffspringthan individual beneficial traits
+trait heritable component tend becomecommon next generation mechanism selectionindividual population doe know trait heritable
+sense mechanism selection blind howeverterm natural selection often used encompass consequenceblind selection well mechanism describe process
+resulting enrichment beneficial characteristicnext generation
+
+helpful distinguish clearly mechanismselection effect selection distinctionimportant scientist define natural selection specificallymechanism contribute selection individualreproduce without regard whether basis selectionheritable sometimes referred phenotypic natural
+selection
+
+particular importance selection according traitindividual differ effect selective
+process genetic characteristic populationaspect beneficial trait heritable
+
+selection target specific trait individual trait
+ha heritable component trait tend become commonnext generation trait said selected selection
+specific trait therefore result selection specific
+individual selection trait also result indirect
+selection trait free rider two traitgenetically linked mechanism pleiotropy single gene
+affect multiple trait linkage disequilibrium nonrandom
+association two genes
+
+genetical theory natural selection
+
+natural selection simple concept fitness
+difference phenotype play crucial role
+
+however interplay actual selection mechanismunderlying genetics explanatory power natural selection
+come
+directionality selection
+
+component trait heritable selection alterfrequency different allele variant gene involved
+selection divided three class basiseffect allele frequencies
+
+positive directional selection occurs certain allele hagreater fitness others resulting increase frequencyallele fixed entire population expressfitter phenotype
+
+far common purifying stabilizing selection lowerfrequency allele deleterious effect phenotype
+lower fitness eliminatedpopulation purifying selection result functional genetic features
+eg proteincoding sequence regulatory sequence conserved
+time selective pressure deleterious variants
+
+finally number form balancing selection existresult fixation maintain allele intermediate frequencies
+population occur diploid specie two pairchromosome individual combination two different
+allele single position chomosomeheterozygotehigher fitness individual two allele 
+homozygote called heterozygote advantage overdominance
+maintenance allelic variation also occur disruptivediversifying selection favor genotype departaverage either direction opposite overdominance
+result bimodal distribution trait value finallyoccur frequencydependent selection fitnessone particular phenotype depends distributionphenotype population see also game theory
+
+selection genetic variation
+
+portion genetic variation functionally neutral ieproduce phenotypic effect significant difference fitness
+previously thought encompass genetic variation
+noncoding dna recent study shown large partsequence highly conserved strong purifying
+selection vary much individual individual
+indicating mutation region deleterious
+consequence genetic variation doe result differencefitness selection cannot directly affect frequencyvariation result genetic variation sitehigher site selection doe result
+
+genetic linkage
+
+genetic linkage occurs two allele close proximityformation gamete recombinationgenetic material result reshuffling allele howeverchance reshuffle occurs two allele dependsdistance allele closer allelele likely reshuffle occur
+consequently selection target one allele automatically
+result selection allele wellmechanism selection strong influence patternvariation genome
+
+mutationselection balance
+
+natural selection result reduction genetic variationelimination maladapted individualmutation cause maladaptation time new
+mutation occur resulting mutationselection balance exact
+outcome two process depends rate new
+mutation occurs strength natural selection
+consequently change mutation rate selection pressure
+result different mutationselection balance
+
+selective sweep
+
+selective sweep occur allele becomes commonpopulation result positive selection prevalence one
+allele increase linked allele nearby chromosomealso become common whether neutral even slightly
+deleterious called genetic hitchhiking strong selective
+sweep result region genome positively selected
+haplotype allele neighbour essentially ones
+exist population
+
+whether selective sweep occurred investigatedmeasuring linkage disequilibrium whether given haplotypeoverrepresented population normally genetic recombination
+result reshuffling different allele within haplotype
+none haplotype dominate population however
+selective sweep selection specific allele also
+result selection neighbouring allele therefore presencestrong linkage disequilibrium might indicate harecent selective sweep used identify sites
+recently selection
+
+background selection
+
+background selection opposite selective sweepspecific site experience strong persistent purifying selection
+perhaps result mutationselection balance linked variation
+tend weeded along background selection
+however act result new mutation occur randomlyhaplotype therefore produce linkage disequilibrium though
+reduces amount variation region
+
+evolution mean natural selection
+
+prerequisite natural selection result adaptive evolution
+novel trait speciation presence heritable genetic
+variation result fitness difference genetic variationresult mutation recombination alteration karyotype
+number shape size internal arrangement chromosomes
+change might effect highly advantageous
+highly disadvantageous large effect rarepast change genetic material considered neutralclose neutral occurred noncoding dna resultedsynonymous substitution however recent research suggests many
+mutation noncoding dna slight deleterious effects
+overall mutation affect fitnessindividual slightly deleterious reduce fitness
+dramatically increase fitness
+exuberant tail peacock thought result sexual
+selection female peacock albinoit carry mutation
+make unable produce melanin selection albinonature intense easily spotted predatorunsuccessful competition mate mutationusually rapidly eliminated natural selection
+enlarge
+exuberant tail peacock thought result sexual
+selection female peacock albinoit carry mutation
+make unable produce melanin selection albinonature intense easily spotted predatorunsuccessful competition mate mutationusually rapidly eliminated natural selection
+
+definition fitness individual greater fitnesslikely contribute offspring next generationindividual lesser fitness likely die earlyfail reproduce result allele average resultgreater fitness become abundant next generationallele generally reduce fitness become rarer selection
+force remain many generation beneficial allele become
+abundant dominate populationallele lesser fitness disappear every generation new
+mutation recombination arise spontaneously producing new
+spectrum phenotype therefore new generation enriched
+increasing abundance allele contribute traits
+favored selection enhancing trait successive
+generations
+xray left hand ten year old boy polydactyly
+enlarge
+xray left hand ten year old boy polydactyly
+
+mutation occur socalled regulatory gene changelarge effect phenotype individualregulate function many gene mutations
+regulatory gene result nonviable zygote example
+mutation hox gene human result increasenumber finger toe cervical rib mutation result
+higher fitness natural selection favour phenotypenovel trait spread population
+
+established trait immutable established trait may losefitness environmental condition change circumstanceabsence natural selection preserve trait traitbecome variable deteriorate time powernatural selection also inevitably depend upon prevailing
+environmental factor general number offspring far
+greater number individual survive next
+generation intense selection best adapted
+individual next generation
+
+speciation
+
+speciation requires selective mating result reduced gene
+flow selective mating result example changephysical environment physical isolation extrinsic barrier
+sexual selection resulting assortative mating time
+subgroup might diverge radically become different species
+either difference selection pressure different
+subgroup different mutation arise spontaneouslydifferent population founder effectssome potentially
+beneficial allele may chance present onetwo subgroup first become separated genetic
+change result increasing incompatibility genotypetwo subgroup gene flow group reduced even
+stop altogether soon mutation become fixedrespective subgroup two mutation resultspeciation mutation neutral positive effectfitness occur separately negative effectoccur together fixation gene respective
+subgroup lead two reproductively isolated populations
+according biological specie concept two
+different species
+
+historical development
+
+modern theory natural selection derives work charles
+darwin nineteenth century
+enlarge
+modern theory natural selection derives work charles
+darwin nineteenth century
+
+predarwinian theories
+
+general concept biological evolution specie change dateancient time ionian physician empedocles said many races
+must unable beget continue kindcase every specie exists either craft courage speedbeginning existence protected preservedseveral eighteenthcentury thinker wrote similar theories
+including pierre louis moreau maupertuis inlord monboddotheory specie alteration darwin grandfather erasmus
+darwin inhowever precursor little influence
+trajectory evolutionary thought darwin
+
+early century established view western societies
+wa difference individual specieuninteresting departure platonic ideal typuscreated kind however growing awareness fossil record ledrecognition specie lived distant past often
+different exist today naturalist time
+tried reconcile emerging idea uniformitarianismgeologythe notion simple weak force acting continuouslylong period time could radical consequence shapinglandscape know today importantly perhaps notions
+led awareness immensity geological time makes
+possible slight cause produce dramatic consequenceopened door notion specie might arisen descent
+modification ancestor species
+
+early year century radical evolutionistjean baptiste lamarck proposed characteristic adaptations
+acquired individual might inherited progeny causing
+enough time transmutation specie see lamarckism
+
+darwin hypothesis
+
+betweenandcharles darwin outlined theory evolution
+natural selection explanation adaptation speciation
+defined natural selection principle slight
+variation trait useful preserved conceptsimple powerful individual best adapted environmentlikely survive reproduce longvariation inevitable selectionindividual advantageous variation variations
+inherited differential reproductive success leadprogressive evolution particular population speciepopulation evolve sufficiently different might eventually
+become different species
+
+darwin natural selection synonymous evolution natural
+selection mechanism evolution evolution genetic
+drift explicitly formulated time darwin realised
+convinced main exclusive
+mean modificationtoday scientist use natural selection mainly
+describe mechanism sense natural selection includes
+selection natural agent including sexual selection kin
+selection sometimes sexual selection distinguished natural
+selection useful distinction sexual selection
+ecological selection
+
+darwin thought natural selection analogy farmer select
+crop livestock breedingartificial selection early
+manuscript referred nature would selectionnext twenty year shared theoryfriend gathering evidence trying address possible
+objection inalfred russel wallace young naturalist
+independently conceived principle described letterdarwin wanting scooped darwin contacted scientific friends
+find honorable way handle potentially embarrassing
+situation two short paper two read linnean
+society announcing codiscovery principle following year
+darwin published origin specie along evidencedetailed discussion became topic great dispute evolutionary
+theory became primary way talking speciationnatural selection predominate mechanismhappened made natural selection controversial doubtwhether powerful enough result speciationunguided rather progressive something even darwins
+supporter balked
+darwin idea inspired observation madevoyage beagle economic theory thomas
+malthus noted population unchecked increases
+exponentially whereas food supply grows arithmetically thus
+inevitable limitation resource would demographic
+implication leading struggle existencefittest would survive edition origin species
+darwin acknowledged othersnotably william charles wellpatrick matthew inhad proposed similar theorypresented fully notable scientific publications
+well presented hypothesis explain origin human raceperson royal society matthew published appendix
+book arboriculture edward blyth also proposed method
+natural selection mechanism keeping specie constant
+
+within decade origin specie educated peoplebegun accept evolution occurred form another
+however many idea evolution emerged august
+weismann saw natural selection main evolutionary force even
+th huxley believed purpose evolutionnatural selection afforded neo lamarckism also popularreading darwin herbert spencer introduced term survivalfittest became popular summary theory althoughphrase still often used nonbiologists modern biologist avoid
+tautological fittest read mean functionally
+superior survival fittest actually rephrasedmostly observed replicates showing
+tautology fullest extent statement arguably
+make natual selection even persuasive letter charles
+lyell septemberdarwin regret use term natural
+selection preferring term natural preservation
+
+modern evolutionary synthesis
+
+integration theory evolution complex
+statistical appreciation mendel rediscovered lawinheritance natural selection become generally acceptedscientist work ronald fisher first attempted explain
+natural selection term underlying genetic process jbs
+haldane introduced concept cost natural
+selection sewall wright one founder population genetics
+theodosius dobzhansky established idea mutationcreating genetic diversity supplied raw material natural
+selection william hamilton conceived kin selection ernst
+mayr recognised key importance reproductive isolationspeciation many others formed modern evolutionary synthesis
+propelled natural selection forefront evolutionary
+theory remains today
+
+impact idea
+
+darwin idea along adam smith karl marxprofound influence thcentury thought perhaps radical
+claim theory evolution natural selectionelaborately constructed form differentdependent complex manner evolvedsimplest form life simple principle claim inspired
+darwin ardent supportersand provoked profound
+opposition radicalism natural selection according stephen
+jay gould lay power dethrone deepesttraditional comfort western thought particular challenged
+belief nature benevolence order good design belief
+human occupy summit power excellence beliefomnipotent benevolent creator belief nature hameaningful direction human fit sensible pattern
+
+social theory
+
+social implication theory evolution natural selection
+also became source continuing controversy engels inwrote
+darwin know bitter satire wrote mankindshowed free competition struggle existenceeconomist celebrate highest historical achievementnormal state animal kingdom natural selectionapparently led advancement intelligence civilisation also
+became used justification colonialism policy eugenics
+see social darwinism konrad lorenz nobel prize infor
+analysis animal behaviour term role natural
+selection particularly group selection however germany 
+writing subsequently disowned used theoryjustification policy nazi state wroteselection
+toughness heroism social utilitymust accomplishedhuman institution mankind default selective factorruined domesticationinduced degeneracy racial idea
+basis state already accomplished muchrespect others developed idea human society culture
+evolve mechanism analogous applyevolution specie see article sociocultural evolution
+
+energetic theory
+
+inalfred lotka proposed natural selection mightunderstood physical principle energetically
+quantified work howard odum became knownmaximum power principle whereby evolutionary system selective
+advantage maximise rate useful energy transformation
+
+information theory
+
+natural selection need apply biological organismcomputerbased system artificial life simulating natural
+selection effective adapting entityenvironment combining simulated reproduction random
+variation possible instance evolve problemsolving
+ability computerbased system however whether system show
+evolution mean natural selection per generate
+complexity contested mathematician science fiction writer
+rudy rucker explored use natural selection create artificial
+intelligence bestknown work ware tetralogynovel hacker ants
+

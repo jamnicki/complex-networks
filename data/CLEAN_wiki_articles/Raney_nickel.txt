@@ -1,0 +1,174 @@
+copyright
+
+raney nickel
+
+ school wikipedia selection related subject chemical compounds
+
+
+featured article click information
+dry activated raney nickel
+enlarge
+dry activated raney nickel
+
+raney nickel solid catalyst composed fine grainnickelaluminium alloy used many industrial processdeveloped inby american engineer murray raney alternative
+catalyst hydrogenation vegetable oil industrial
+process recently used heterogeneous catalystvariety organic synthesis commonly hydrogenation
+reactions
+
+raney nickel produced block nickelaluminium alloytreated concentrated sodium hydroxide treatment called
+activation dissolve aluminium alloyporous structure left behind large surface area give high
+catalytic activity typical catalyst around percent nickelmass corresponding two atom nickel every atomaluminium aluminium remains help preserve pore
+structure overall catalyst
+
+since raney registered trademark r grace companyproduct grace davison division properly called raney
+nickel alternatively generic termsskeletal catalystspongemetal catalyst may used refer catalystphysical chemical property similar raney nickel
+
+preparation
+
+alloy preparation
+
+alloy prepared commercially melting active metal nickelcase iron copper raneytype catalyst prepared
+well aluminium crucible quenching resultant melt
+crushed fine powder powder may screened
+specific particle size range depending applicationcatalyst may required
+initial alloy composition important quenching
+process produce number different nial phase different
+leaching property may result markedly different porosities
+end product common starting alloy used industry
+contains equal amount per weight nickel aluminium
+incidentally ratio murray raney used discoveryraney nickel
+
+quenching procedure small amount third metalzinc chromium may added done enhance catalytic
+activity third metal called apromoter note
+addition promoter change alloy resulting
+phase diagram ternary alloy leading different
+quenching leaching property activation
+raney nickel pyrophoric must handled care shipping
+container filled vermiculite protect sealed bottle
+inside
+enlarge
+raney nickel pyrophoric must handled care shipping
+container filled vermiculite protect sealed bottle
+inside
+
+activation
+
+porous structure catalyst arises selective removal
+aluminium alloy particle using aqueous sodium hydroxidesimplified leaching reaction given following chemical
+equation
+
+alnaohhonaalohh
+
+formation sodium aluminate naaloh requiressolution high concentration sodium hydroxide used order
+avoid formation aluminium hydroxide precipitatebayerite hence sodium hydroxide solution concentrationmolar used bayerite may cause blocking pore formed
+leaching subsequent loss surface areareduce efficiency activity catalyst
+
+temperature used leach alloy marked effectsurface property catalyst commonly used temperature range
+fromtoc surface area raney nickel skeletal
+catalyst general tends decrease increasing leaching
+temperature due structural rearrangement within alloy
+may considered analogous sintering alloy ligaments
+would start adhering higher temperature leadingloss porous structure
+
+storage catalyst washed distilled waterambient temperature order remove remaining trace sodium
+aluminate oxygenfree water preferred storage orderprevent oxidation catalyst would accelerate aging
+process result reduced catalytic activity
+phase diagram nial system showing relevant phases
+enlarge
+phase diagram nial system showing relevant phases
+
+properties
+
+macroscopically raney nickel look like finely divided gray powder
+microscopically particle powder look likethreedimensional mesh pore irregular size shapevast majority created leaching process raney nickel
+notable thermally structurally stable welllarge bet surface area property direct result
+activation process contribute relatively high catalytic
+activity
+
+activation process aluminium leached nialnial phase present alloyaluminium remains doe form nial removalaluminium phase others known asselective
+leaching shown nial phase providesstructural thermal stability catalyst resultcatalyst quite resistant decomposition breaking commonly
+known aging resistance allows raney nickel storedreused extended period however fresh preparation usually
+preferred laboratory use reason commercial raney nickel
+available active inactive forms
+
+surface area typically determined via bet measurement usinggas preferentially adsorbed metallic surfacehydrogen using type measurement shown almost
+exposed area particle catalyst nickelsurface since nickel active metal catalyst large
+nickel surface area implies large surface availablereaction occur simultaneously reflected increased
+catalyst activity commercially available raney nickel average
+nickel surface area ofm per gram catalyst
+
+high catalytic activity coupled fact hydrogenabsorbed within pore catalyst activation makes
+raney nickel useful catalyst many hydrogenation reactionstructural thermal stability fact doedecompose high temperature allows use wide rangereaction condition additionally solubility raney nickelnegligible common laboratory solvent exceptionmineral acid hydrochloric acid relatively high
+density betweenorgcm also facilitates separationliquid phase reaction completed
+
+applications
+
+raney nickel used large number industrial processorganic synthesis stability high catalytic activity
+room temperature typically used reduction compounds
+multiple bond alkyne alkene nitrile dienes
+aromatics carbonyl additionally raney nickel reduce
+heteroatomheteroatom bond nitro group nitrosamines
+information see reduction nitro compound also
+found use reductive alkylation amine aminationalcohols
+
+practical example use raney nickel industry shownfollowing reaction benzene reduced cyclohexane
+reduction aromatic structure benzene ring hardachieve chemical mean effected using
+raney nickel heterogeneous catalyst using
+platinum group element may used instead similar effecttend expensive produce raney nickelreaction cyclohexane may used synthesis adipic acid
+raw material used industrial production polyamidenylon
+benzene routinely reduced cyclohexane using raney nickelproduction nylon
+
+reducing carboncarbon double bond raney nickel add
+hydrogen syn fashion
+
+addition catalyst raney nickel also actreagent desulfurize organic compound example thioacetalsreduced hydrocarbons
+example desulfurization thioacetals using raney nickel
+
+nickel sulfide precipitate millerite ethaneeasily separated distillation similar transformationclemmensen reduction wolffkishner reduction
+
+safety
+
+raney nickel flammable material
+nickel metal classified harmful
+
+due large surface area high volume contained hydrogen
+gas dry activated raney nickel pyrophoric materialhandled inert atmosphere raney nickel typically
+supplied percent slurry water care taken neverexpose raney nickel air even reaction raney nickel contains
+significant amount hydrogen gas ignite exposedair
+
+raney nickel produce hazardous fume burning therefore
+use gas mask recommended extinguishing fire causedadditionally acute exposure raney nickel may cause irritation
+respiratory tract nasal cavity pulmonary fibrosisinhaled ingestion may lead convulsion intestinal disorderalso cause eye skin irritation chronic exposure may leadpneumonitis sign sensitization nickel like skin rashes
+nickel itch
+
+imagenfpa hpng imagenfpa fpng imagenfpa rpng
+
+nickel also rated possible human carcinogen theiarc
+group eu categoryand teratogen inhalation fine
+aluminium oxide particle associated shaver disease care
+taken handling raw material laboratory
+preparation raney nickel moreover activation raney nickel
+produce large amount hydrogen gas byproduct also
+highly flammable
+
+development
+
+murray raney graduated mechanical engineer universitykentucky ininhe joined lookout oil refining
+company tennessee responsible installationelectrolytic cell production hydrogen usedhydrogenation vegetable oil time industry usednickel catalyst prepared nickelii oxide believing better
+catalyst could produced aroundhe started perform
+independent research still working lookout oil ina 
+ratio nisi alloy produced treatment sodium
+hydroxide found five time active best
+catalyst used hydrogenation cottonseed oil patentdiscovery issued december 
+
+subsequently raney produced anial alloy following procedure
+similar one used nickelsilicon catalyst foundresulting catalyst even active filed patent
+application init may interest note raneys choice
+nickelaluminium ratio fortuitous without real
+scientific basis however preferred alloy compositionproduction raney nickel catalyst currently use
+
+following development raney nickel alloy systemaluminium considered notable include copper
+ruthenium cobalt research showed adding small
+amount third metal binary alloy would promote activity
+catalyst widely used promoter zinc molybdenumchromium recently way preparing enantioselective raney nickel
+ha devised surface adsorbtion tartaric acid

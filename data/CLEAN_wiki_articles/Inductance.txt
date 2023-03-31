@@ -1,0 +1,256 @@
+copyright
+
+inductance
+
+ school wikipedia selection related subject electricityelectronics
+
+inductance electric inductance measure amountmagnetic flux produced given electric current termcoined oliver heaviside februarythe unit inductance
+henry symbol honour joseph henry symbol lused inductance possibly honour physicist heinrich lenz
+
+inductance following relationship
+
+l fracphii
+
+
+l inductance henrys
+current amperes
+magnetic flux webers
+
+strictly speaking quantity defined called selfinductance
+magnetic field created solely conductorcarry current
+
+conductor coiled upon number time aroundaxis forming solenoid current required produce given
+amount flux reduced factor compared single turnwire thus inductance coil wire turn given
+l fraclambdainfracphii
+
+
+total flux linkage
+
+inductance solenoid
+
+amount magnetic flux produced current flowingcoil depends upon permeability medium surroundedcurrent area inside coil number turn greater
+permeability greater magnetic flux generated given
+current certainferromagnetic material much higher
+permeability air conductor wire wound aroundmaterial magnetic flux becomes much greater inductance
+becomes much greater inductance identical coil woundair selfinductance solenoid calculated
+lmu mur lfracn phii
+
+
+permeability free spacehenrys per
+metre
+r relative permeability core dimensionless
+n number turns
+cross sectional area coil square metres
+l length coil wire metres
+ba flux weber flux densityarea
+current amperes
+
+inductance complicated shape derived
+maxwell equation rigid aircore coil inductancefunction coil geometry number turn independentcurrent however since permeability ferromagnetic materials
+change applied magnetic flux inductance coilferromagnetic core generally vary current
+
+inductance circular loop
+
+inductance circular conductive loop made circular
+conductor determined using
+
+lr mur left fracrayright 
+
+
+rr radius loop
+radius conductor
+constant current flow surfacewireskin effect current homogeneous
+across wire
+
+inductance shaped loop
+
+consider current loop current according biotsavart
+law current set magnetic flux density 
+mathbfbmathbfrt fracmumur itpi
+intdelta sfracdmathbfl time mathbfhat 
+magnetic flux surface loop encircles
+phitintsmathbfbmathbfrt cdot dmathbfa 
+fracmumur itpi ints intdelta
+sfracdmathbfl time mathbfhat cdot
+dmathbfalit
+
+get expression inductance current loop
+
+lfracmumur ints intdelta
+sfracdmathbfl time mathbfhat cdot
+dmathbfa
+
+
+rdmathbfl differential length vector current
+loop element
+mathbfhat unit displacement vector current
+element field point r distance current element field point dmathbfa differential vector element surface areainfinitesimally small magnitude direction normal surface
+
+see geometry material property material
+property surface material linearcurrent loop expressed single scalar quantity 
+property inductance
+
+equation relating inductance flux linkage rearrangedfollows
+
+lambdali 
+
+taking time derivative side equation yields
+
+fracdlambdadtl fracdidti fracdldt 
+
+physical case inductance constant time
+fracdlambdadtl fracdidt
+
+faraday law induction
+fracdlambdadtmathcalev
+
+mathcale electromotive force emf induced
+voltage note emf opposite induced voltage thus
+
+fracdidtfracvl
+
+
+itfracl inttvtau dtaui
+
+equation together state steady applied voltage current change linear manner rate proportionalapplied voltage inversely proportional inductance
+conversely current inductor changingconstant rate induced voltage constant
+
+effect inductance understood using single loop wire
+example voltage suddenly applied endloop wire current must change zero nonzero howevernonzero current induces magnetic field ampere law change
+magnetic field induces emf opposite direction
+change current strength emf proportionalchange current inductance opposing forces
+balance result current increase linearlytime rate change determined applied voltage
+inductance
+
+phasor circuit analysis impedance
+
+using phasors equivalent impedance inductance given
+zlvij omega 
+
+
+xll omegais inductive reactance
+omegapi fis angular frequency
+l inductance
+f frequencyj imaginary unit
+
+coupled inductors
+
+magnetic flux produced inductor link another inductor
+inductor said coupled coupling often undesiredmany case coupling intentional basistransformer inductor coupled exists mutual
+inductance relates current one inductor flux linkage
+inductor thus three inductance definedcoupled inductors
+
+lthe self inductance inductor 
+lthe self inductance inductor 
+llthe mutual inductance associatedinductors
+
+either side transformer tuned circuit amountmutual inductance two winding determines shapefrequency response curve although boundary definedoften referred loose critical overcoupling two
+tuned circuit loosely coupled mutual inductancebandwidth narrow amount mutual inductance increases
+bandwidth continues grow mutual inductanceincreased beyond critical point peak response curve
+begin drop centre frequency attenuatedstrongly direct sidebands known overcoupling
+
+vector field theory derivations
+
+mutual inductance
+
+circuit diagram representation mutually inducting inductortwo vertical line inductor indicate solid corewire inductor wrapped around show rationumber winding left inductor winding right
+inductor picture also show dot convention
+circuit diagram representation mutually inducting inductors
+two vertical line inductor indicate solid corewire inductor wrapped around show ratio
+number winding left inductor windingright inductor picture also show dot convention
+
+mutual inductance concept current one inductor
+induce voltage another nearby inductor importantmechanism transformer work also cause unwanted
+coupling conductor circuit
+
+mutual inductance also measure coupling two
+inductor mutual inductance circuit circuit givendouble integral neumann formula
+
+mijfracmupi ointciointcj
+fracmathbfdsicdotmathbfdsjmathbfrij
+
+see derivation equation
+
+mutual inductance also relationship
+
+mn p 
+
+
+mutual inductance subscript specifiesrelationship voltage induced coilto currentcoil 
+n number turn coil 
+n number turn coil 
+p permeance space occupied flux
+
+mutual inductance also relationship coefficientcoupling coefficient coupling always betweenandandconvenient way specify relationship certain
+orientation inductor arbitrary inductance
+
+mk sqrtl 
+
+
+k coefficient coupling andk
+l inductance first coill inductance second coil
+
+mutual inductance factor determined usedpredict behaviour circuit
+
+vl fracdidtm fracdidt
+
+
+v voltage across inductor interest
+l inductance inductor interest
+didt derivative respect timecurrent inductor interest
+mutual inductancedidt derivative respect timecurrent inductor coupled first
+inductor
+
+one inductor closely coupled another inductor mutual
+inductance transformer voltage currentnumber turn related following way
+
+vsvp fracnsnp
+
+
+v voltage across secondary inductor
+vp voltage across primary inductor one
+connected power source
+n number turn secondary inductornp number turn primary inductor
+
+conversely current
+
+isip fracnpns
+
+
+current secondary inductor
+ip current primary inductor one
+connected power source
+n number turn secondary inductornp number turn primary inductor
+
+note power one inductor power
+also note equation dont worktransformer forced power sources
+
+selfinductance
+
+selfinductance denoted usual inductance one talkinductor formally selfinductance wire loop wouldgiven equation however mathbfr gets
+singular finite radius distribution currentwire must taken account remain contributionintegral point mathbfr gecorrection term
+
+mijmjjljjljlleft fracmupi
+ointcointc
+fracmathbfdscdotmathbfdsmathbfrright
+mathbfr afracmupily
+
+l denote radius length wire constant
+depends distribution current wire ywhen
+current flow surface wireskin effectcurrent homogenuous across wire
+
+physically selfinductance circuit represents backemf
+described faraday law induction
+
+usage
+
+flux phiithrough ith circuit set given
+phiisumj mijijli iisumjne mijij
+
+
+induced emf mathcaleof specific circuitgiven set given directly
+efracdphiidtfracddt left ii 
+sumjne mijij rightleftfracdlidtii
+fracdiidtli right sumjne left
+fracdmijdtijfracdijdtmij right
+

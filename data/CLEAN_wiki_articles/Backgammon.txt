@@ -1,0 +1,315 @@
+copyright
+
+backgammon
+
+ school wikipedia selection related subject games
+
+backgammon
+modern backgammon set consisting board two set 
+checker two pair dice doubling cube
+players
+age range
+setup timeseconds
+playing timeminutes
+rule complexity medium
+strategy depthhigh
+random chancemedium dice
+skill requiredstrategy probability
+
+backgammon board game two player piece moved
+according roll dice winner first removepiece board many variant developed throughoutworld share common element membertable family games
+
+game essentially race luck play measurable rolebackgammon offer significant scope strategy rolldice player must choose numerous option movingchecker plan possible countermove opponent
+opportunity raising stake game introducestrategic intricacy player developed vocabulary common
+tactic occurrences
+
+like chess backgammon studied considerably computer
+scientist research resulted backgammon softwarecapable beating worldclass human players
+
+history
+
+game recovered vas sunk 
+enlarge
+game recovered vas sunk 
+
+ancient egyptian played game called senet resembled
+backgammon move controlled roll dice royal game
+ur played ancient mesopotamia likely ancestormodern table game recent excavation theburnt city iran
+showed similar game existed aroundbc artifacts
+include two dice andpieces set believed beto
+year older set found 
+ancient roman played number game remarkable
+similarity backgammon ludus duodecim scriptorum game twelve
+line used board three row ofpoints pieces
+moved across three row according roll dicemuch specific text gameplay survived tabula meaning
+table board game mentioned epigram byzantine
+emperor zeno adit similar modern backgammonboard withpoints used object game wafirst bear one checker three dice used
+instead two opposing checker moved opposite directions
+
+th century shahnameh persian poet ferdowsi credit burzoe
+invention table game nard centurydescribes encounter burzoe raja visiting india
+raja introduces game chess burzoe demonstrates nard
+played dice made ivory teak
+
+jeux table predecessor modern backgammon first appeared
+france century became frequent pastimegambler inlouis issued decree prohibiting court
+official subject playing game table game played
+germany century reached iceland century mostly known extensive discussionchess alfonso manuscript libro los juegos completed 
+describes rule number dice table game century table game spread sweden wooden board checkers
+recovered wreck vas among belongingship officers
+
+th century elizabethan law church regulationprohibited playing table century backgammonpopular among english clergy edmund hoyle published short
+treatise game backgammon inthis book describedrule game bound together similar text whist
+game described hoyle respect game
+played today
+
+name
+
+english word backgammon likely derivedback middle english gamen meaning game playearliest use documented oxford english dictionary wa
+arabic game called tawilat elnardor
+tawilat elzahrmeaning board dice
+chinese game called shuang lumeaning double
+sixes
+greek referred porte played onethree game tavli match
+hebrew called shesh beshderivedpersian turkish six five
+japanese sugorokurefers backgammon wellracing games
+persian backgammon called takhte nard meaning battlewooden board
+portuguese backgammon called gamo
+romanian backgammon called table
+turkish game called tavla
+
+rules
+
+objective backgammon move one checker past
+one opponent remove board pieces
+scattered first may blocked hit opponent
+playing time individual game short often
+played match victory awarded first playerreach certain number points
+
+setup
+
+side board track twelve long triangle called
+point point considered connected across one edgeboard forming continuous track analogous horseshoe
+numbered fromtoeach player begin two checkerpoint three checker point five checkerpoint point two player move checkeropposite direction point toward point
+path movement blue green checker starting position
+enlarge
+path movement blue green checker starting position
+
+pointstoare called home board inner board pointsto
+called outer board point referred bar
+point point mid point
+
+movement
+
+start game player roll one die player
+higher number move first player alternate turns
+rolling two dice beginning turn
+
+rolling dice player must possible move checkers
+according number pip showing die exampleroll aand anoted ashe must move one checker six points
+forward another checker three point forward checker may
+moved twice long two move distinct sixthree three six nine player
+roll two number double must play die twiceexample upon rolling ahe must move four checker forward five
+space
+checker may land point either unoccupiedoccupied player checker may also land point
+occupied exactly one opposing checker lone piece calledblot latter case blot hit placedmiddle board bar divider home boardouter board checker may never land point occupied two
+opposing checker thus point ever occupied checkers
+player time
+medieval player century codex manesse
+enlarge
+medieval player century codex manesse
+
+checker placed bar reenter game opponents
+home field roll ofallows checker enter pointroll ofon point etc player may movechecker checker bar first reenteredopponent home field
+
+player checker home board must bear
+removing checker board roll ofmay usedbear checker point afrom point etc die
+may used bear checker lowernumbered point unless
+checker higher points
+
+one player borne checker time opponent
+ha borne fifteen lost gammon countdouble normal loss losing player still checkerbar opponent home board lost backgammoncount triple normal loss
+
+doubling cube
+
+backgammon set century
+enlarge
+backgammon set century
+
+speed match play provide added dimension strategy
+doubling cube normally used doubling cube sided die
+marked numbersandif player believes
+position superior may rolling diceturn double demanding game played twice current
+stake doubling cube placed theside faceshow game value doubled opponent must either
+accept new stake resign game immediately thereafterright redouble belongs exclusively player last accepteddouble occurs cube placed face next
+power two showing
+
+game rarely redoubled beyond four time original staketheoretical limit number double althoughis
+highest number depicted doubling cube stake may rise
+toand
+money game player often permitted beaver offereddouble doubling value game retaining
+possession cube
+
+jacoby rule allows gammon backgammon countrespective double triple value least one
+use doubling cube game encourages playerlarge lead game double possibly ending game ratherplay game conclusion hope gammon backgammon
+jacoby rule widely used money play used match
+play
+
+crawford rule designed make match play equitableplayer lead player one point away winning match
+opponent incentive double whether game worth
+one point two outcome match unaffected balance
+situation crawford rule requires player first
+reach score one point short winning match neither player
+may use doubling cube following game called crawford
+game crawford game normal use doubling cube resumes
+crawford rule used match play
+
+sometimes automatic double used meaning tiefirst roll game automatically double stake thusroll followed reroll offollowed reroll ofto
+begin game game would played quadruple stakes
+doubling remains middle player accessjacoby rule still effect automatic doubles
+common money game rarely ever used match
+play
+
+variants
+
+many variant standard backgammon rule played
+primarily throughout one geographic region others add new tactical
+element game altering starting position
+restricting certain move assigning special value certain dice
+rolls
+
+aceydeucey
+
+aceydeucey variant backgammon player startchecker board must bear beginninggame roll ofis given special consideration allowingplayer select double choice player also receives extra
+turn roll ofor doubles
+
+hypergammon
+
+hypergammon variant backgammon player three
+checker board starting one theand
+point game strongly solved meaning exact
+equity available allmillion position possiblegame
+
+nackgammon
+
+nackgammon variant devised nack ballard differsinitial setup player start two checker point
+two checker point three checker point four
+checker point point side still fifteen
+checker total two checker side startingback initial contact two side less
+chance game quickly develop race
+
+old english
+
+old english backgammon restricts number checker maximumfive point thus forbidding move might otherwisemade player may also opt play one part roll way
+rest may played
+
+strategy
+
+backgammon established opening theory although less
+detailed game like chess tree checker positions
+expands quickly number possible dice rollmove available turn recent computer analysis offeredinsight opening move midgame reached quicklyopening move backgammon player frequently rely established
+general strategy combine switch among adaptchanging condition game unfolds
+
+direct sometimes successful strategy simplyavoid hit trapped getting mutually blocked standoffs
+running game describes strategy moving quickly possible
+around board successful player already ahead
+race
+
+holding game strategy wherein player keep point highopponent board opponent bar point game
+progress player may gain advantage hitting opponents
+blot held point rolling large double allowplayer advance checker begin running game
+
+priming game involves building wall checker called prime
+ideally covering six consecutive point obstructs opposing
+checker behind blockade prime usually built
+somewhere point point shuffledhome board game progresses
+
+blitz describes strategy closing home board quicklypossible keeping one opponent bar opponent
+ha difficulty reentering bar escaping playerquickly gain running advantage win game
+
+backgame strategy placing two anchor pointtwo checker one opponent home board buildingprime one home board anchor obstruct opponents
+checker create opportunity hit move towardhome board backgame generally used salvage game
+wherein player already significantly behind using backgameinitial strategy usually unsuccessful
+
+duplication refers placement checker wayadvantageous dice roll one opponent numberdesirable move example player may position blotway opponent must roll order hit one
+reducing probability blot hit diversification
+refers complementary tactic placing one checkerway number useful
+
+social competitive play
+
+medieval player century carmina burana
+enlarge
+medieval player century carmina burana
+
+club tournament play
+
+enthusiast formed club social play backgammon local
+club may hold informal gathering member meeting cafsbar evening play converse club offer additional
+service maintaining facility offering computer
+analysis troublesome play club leader noticed recent
+growth interest backgammon attribute games
+popularity internet
+
+backgammon chouette permit three player participatesingle game often money one player competes teamparticipant position rotate game chouette
+play often permit use multiple doubling cubes
+
+backgammon club may also organize tournament large club tournaments
+sometimes draw competitor region final matches
+viewed hundred spectator top player regional
+tournament often compete major national international
+championship winner top tournament may receive prize tenthousand dollar one sponsor announced purse utournament held bahamas 
+
+world backgammon championship
+
+prior tothere single world championship competitionbackgammon number tournament held vegabahamas sincethe world backgammon championship monte carlo
+ha widely acknowledged top international tournamenttournament monte carlo draw thousand player spectators
+played course week
+
+gambling
+
+backgammon played money common arrangementassign monetary value game play certain score
+either player chooses stop stake raisedgammon backgammon use doubling cube backgammonsometimes available casino gambling game successful
+play requires combination luck skill single dice
+roll circumstance significantly change outcomegame
+
+software
+
+play analysis
+
+screen shot gnu backgammon showing evaluation rolloutpossible moves
+enlarge
+screen shot gnu backgammon showing evaluation rolloutpossible moves
+
+backgammon studied considerably computer scientist neural
+network approach offered significant advancesoftware gameplay analysis
+
+first strong computer opponent bkgit written hans
+berliner late dec pdp experimentevaluating board position early version bkg played badly even
+poor player berliner noticed critical mistakes
+always phase change applied principle fuzzy logicsmooth transition phase julybkgwas
+strong enough play ruling world champion luigi villamatchbecoming first computer program defeatworld champion game berliner state victorylargely matter luck computer received favorable dice
+rolls
+
+late creator backgammon software begansuccess approach based neural network tdgammon developed
+gerald tesauro ibm first program play near
+expert level neural network trained using temporal
+difference learning applied data generated selfplay according
+assessment bill robertie kit woolsey tdgammon playlevel top human player world
+
+line research resulted two modern commercial programs
+jellyfish snowie well shareware bgblitz implementedjava free software gnu backgammon also offer toolanalyzing game offering detailed comparison individual moves
+worth noting without associated weight tables
+represent hour even month tedious neural net training
+program play better human novice
+
+internet play
+
+backgammon software developed play analyze
+game also facilitate play human different parts
+world internet dice roll provided randompseudorandom number generator realtime online play beganfirst internet backgammon server julythe serverlongest running noncommercial backgammon server enjoys strong
+international community backgammon player several commercial
+website also offer online realtime backgammon play yahoo gameoffered javabased online backgammon game sincemsn games
+currently offer backgammon game based activex online
+gambling industry began expand offering include backgammon
+
+

@@ -1,0 +1,87 @@
+copyright
+
+chromatic aberration
+
+ school wikipedia selection related subject space astronomy
+
+topcorner detail photograph taken good quality lens
+bottomdetail similar photograph taken wide angle lens
+showing visible chromatic aberration especially dark edgeright
+topcorner detail photograph taken good quality lens
+bottomdetail similar photograph taken wide angle lens
+showing visible chromatic aberration especially dark edgeright
+
+optic chromatic aberration caused lens different
+refractive index different wavelength light dispersionlens termpurple fringing commonly used photography
+although purple fringing attributed chromatic
+aberration
+
+longitudinal lateral chromatic aberration lens seenfringe color around image colour optical
+spectrum cannot focused single common point optical
+axis
+
+since focal length lens dependent refractive index
+n different wavelength light focused different
+position chromatic aberration longitudinaldifferent wavelength focused different distancelens transverse lateral different wavelengthfocused different position focal planemagnification lens also varies wavelength
+
+minimizing chromatic aberration
+
+exists point called circle least confusionchromatic aberration minimized minimizedusing achromatic lens achromat material differing
+dispersion assembled together form compound lenscommon type achromatic doublet element made crownflint glass reduces amount chromatic aberrationcertain range wavelength though doe produce perfect
+correction combining two lens different composition
+degree correction increased seenapochromatic lens apochromat
+
+many type glass developed reduce chromatic aberration
+notably glass containing fluorite hybridized glasses
+low level optical dispersion two compiled lenses
+made substance yield high level correction
+chromatic aberration single lens cause different wavelengthlight differing focal lengths
+chromatic aberration single lens cause different wavelengthlight differing focal lengths
+achromatic doublet visible wavelength approximatelyfocal length
+achromatic doublet visible wavelength approximatelyfocal length
+diffractive optical element complimentary dispersion propertyglass used correct color aberration
+diffractive optical element complimentary dispersion propertyglass used correct colour aberration
+achromatic doublet brings two wavelength common focus leaving
+ultraviolet infrared uncorrected focus
+achromatic doublet brings two wavelength common focus leaving
+ultraviolet infrared uncorrected focus
+
+use achromats important step developmentoptical microscope
+
+alternative achromatic doublet use diffractive optical
+element diffractive optical element complementary dispersion
+characteristic optical glass plastic visible
+part spectrum diffractives abbe number 
+diffractive optical element fabricated using diamond turning
+techniques
+
+mathematics chromatic aberration minimization
+
+doublet consisting two thin lens contact abbe number
+lens material used calculate correct focal lengthlens ensure correction chromatic aberration focal
+length two lens light yellow fraunhofer dline
+nm f best correction occurscondition
+
+f cdot cdot 
+v abbe number material first
+second lens respectively since abbe number positive one
+focal length must negative diverging lenscondition met
+
+overall focal length doublet given standard
+formula thin lens contact
+
+fracffracffracf
+
+condition ensures focal lengthdoublet light blue red fraunhofer c line 
+nm andnm respectively focal length lightvisible wavelength similar exactly equal
+image processing reduce chromatic aberration
+
+postprocessing remove chromatic aberration usually involves scaling
+fringed colour channel subtracting scaled versionfringed channel
+
+black white photography
+
+chromatic aberration also affect black white photography although
+color photograph chromatic aberration blur
+image reduced using narrow band colour filterconverting single colour channel black whitehowever require longer exposure
+

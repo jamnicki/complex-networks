@@ -1,0 +1,51 @@
+copyright
+
+spherical aberration
+
+ school wikipedia selection related subject general physics
+
+spherical aberration perfect lens top focus incoming raypoint optic axis real lens spherical surface bottom
+suffers spherical aberration focus ray tightlyenter far optic axis enter closer axis
+therefore doe produce perfect focal point drawingexaggerated
+enlarge
+spherical aberration perfect lens top focus incoming raypoint optic axis real lens spherical surface bottom
+suffers spherical aberration focus ray tightlyenter far optic axis enter closer axis
+therefore doe produce perfect focal point drawingexaggerated
+point source imaged system top negative center
+zero bottom positive spherical aberration image left
+defocused toward inside image right towardoutside
+enlarge
+point source imaged system top negative centre
+zero bottom positive spherical aberration image left
+defocused toward inside image right towardoutside
+longitudinal section focused beam top negative
+center zero bottom positive spherical aberration lensleft
+enlarge
+longitudinal section focused beam top negative
+centre zero bottom positive spherical aberration lensleft
+
+optic spherical aberration image imperfection occurs
+due increased refraction light ray occurs rays
+strike lens reflection light ray occurs rays
+strike mirror near edge comparison strike
+nearer centre often considered imperfectiontelescope instrument make focusing leideal due spherical shape lens mirrorimportant effect spherical shape much easier produceaspherical lens spherical shapes
+
+effect proportional fourth power diameterinversely proportional third power focal lengthmuch pronounced short focal ratio fast lenses
+
+small telescope using spherical mirror focal ratio shorter
+f light distant point source starfocused point particularly light striking inner
+part mirror focus farther mirror light striking
+outer part result image cannot focused sharplyaberration present spherical aberration
+telescope shorter usually made nonspherical
+mirror correcting lenses
+
+lens system effect minimized using special combinations
+convex concave lens well using aspheric lenses
+
+simple design one sometimes calculate parameter minimize
+spherical aberration example design consisting single
+lens spherical surface given object distance image
+distance refractive index one minimize spherical
+aberration adjusting radius curvature rfront back surface lensfracrrrrfrac left rightnleft
+fracioioright 
+

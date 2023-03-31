@@ -1,0 +1,353 @@
+copyright
+
+programming language
+
+ school wikipedia selection related subject computer programming
+
+programming language artificial language usedcontrol behaviour machine particularly computer
+programming language like human language defineduse syntactic semantic rule determine structure meaning
+respectively
+
+programming language used facilitate communicationtask organizing manipulating information express
+algorithm precisely author restrict term programming
+language language express possible algorithms
+sometimes termcomputer language used limited
+artificial languages
+
+thousand different programming language created new
+one created every year
+
+definitions
+
+author disagree precise definition trait often considered
+important requirement objective languagecharacterized programming language
+function programming language language used write
+computer program instruct computer perform kind
+computation andor organize flow controlexternal device printer robot peripheral
+
+target programming language differ natural languagenatural language used interaction people
+programming language also allow human communicate
+instruction machine case programming languageused one program machine program another postscript
+source code example frequently generated programmatically
+control computer printer display
+construct programming language may contain constructdefining manipulating data structure controllingflow execution
+expressive power theory computation classifies languagecomputation express see chomsky hierarchyturing complete language implement set algorithms
+ansiiso sql charity example languageturing complete yet often called programming languages
+
+noncomputational language markup language like htmlformal grammar like bnf usually considered programming
+language usual approach embed programming languagenoncomputational host language express templatehost language
+
+purpose
+
+prominent purpose programming language provide instructions
+computer programming language differform human expression require greater degreeprecision completeness using natural languagecommunicate people human author speakerambiguous make small error still expect intentunderstood however computer exactly toldcannot understand code programmer intended writecombination language definition program programs
+input must fully specify external behaviour occursprogram executed
+
+many language designed scratch altered meet new
+need combined language eventually fallendisuse although attempt design one universal
+computer language serf purpose failedaccepted role need diverse computer languages
+arises diversity context language used
+program range tiny script written individual hobbyisthuge system written hundred programmers
+programmer range expertise novice need simplicity
+else expert may comfortable considerable
+complexity
+program must balance speed size simplicity systems
+ranging microcontrollers supercomputers
+program may written change generationmay undergo nearly constant modification
+finally programmer may simply differ taste mayaccustomed discussing problem expressingparticular language
+
+one common trend development programming language haadd ability solve problem using higher levelabstraction earliest programming language tied closely
+underlying hardware computer new programming
+language developed feature added let programmers
+express idea removed simple translationunderlying hardware instruction programmer tiedneed computer program computingle effort programmer let write programamount time
+
+natural language processor proposed way eliminate
+need specialized language programming however goal
+remains distant benefit open debate edsger dijkstra
+took position use formal language essentialprevent introduction meaningless construct dismissed
+natural language programming foolish alan perlis similarly
+dismissive idea
+
+elements
+
+syntax
+
+parse tree python code inset tokenization
+enlarge
+parse tree python code inset tokenization
+syntax highlighting often used aid programmer recognition
+element source code language see python
+enlarge
+syntax highlighting often used aid programmer recognition
+element source code language see python
+
+programming language surface form known syntaxprogramming language purely textual use sequence text
+including word number punctuation much like written natural
+language hand programming languages
+graphical nature using spatial relationshipsymbol specify program
+
+syntax language describes possible combination symbols
+form syntactically correct program meaning givencombination symbol handled semantics since languages
+textual article discus textual syntax
+
+programming language syntax usually defined using combinationregular expression lexical structure backusnaur formgrammatical structure simple grammar based lisp
+
+expressionatomlist
+atomnumbersymbol
+number
+symbolazaz
+listexpression 
+
+grammar specifies following
+expression either atom list
+atom either number symbol
+number unbroken sequence one decimal digits
+optionally preceded plus minus sign
+symbol letter followed zero characters
+excluding whitespacelist matched pair parenthesis zeroexpression inside
+following example wellformed token sequencegrammara c 
+
+syntactically correct program semantically correct many
+syntactically correct program nonetheless illformed perlanguage rule may depending language specificationsoundness implementation result error translation
+execution case program may exhibit undefined
+behaviour even program welldefined within languagemay still meaning intended person wrote
+
+using natural language example may possible assign
+meaning grammatically correct sentence sentence mayfalse
+colorless green idea sleep furiously grammatically
+wellformed generally accepted meaning
+john married bachelor grammatically wellformedexpress meaning cannot true
+
+following language fragment syntactically correctperforms operation semantically defined pnull pointer operation preal pim meaning
+complex pnull
+complex abspsqrt prealprealpimpim
+
+type system
+
+type system defines programming language classifies valueexpression type manipulate typeinteract generally includes description data structures
+constructed language design study type
+system using formal mathematics known type theory
+
+internally data modern digital computer stored simplyzero onesbinary data typically represent informationreal world name bank account measurementlowlevel binary data organized programming languagehighlevel concept data type also abstract types
+whose purpose warn programmer semantically
+meaningless statement verify safety property programs
+
+language classified respect type systems
+
+typed untyped languages
+
+language typed operation defined one data type cannotperformed value another data type example text
+quote string programming languages
+dividing number string meaning modern programming
+language therefore reject program attempting performoperation language meaningless operationdetected program compiled static type checkingrejected compiler others detectedprogram run dynamic type checking resulting runtime
+exception
+
+opposition untyped language assembly languages
+allows operation performed data type highlevel
+language untyped include bcpl variety forth
+
+practice language considered typed pointview type theory verifying rejecting operationmodern language offer degree typing many production languages
+provide mean bypass subvert type system
+
+static dynamic typing
+
+static typing expression type determined priorprogram run typically compiletime exampleand
+integer expression cannot passed functionexpects string stored variable defined hold
+dates
+
+staticallytyped language manifestly typed typeinferredfirst case programmer must explicitly write type certain
+textual position example variable declarationsecond case compiler infers type expressiondeclaration based context mainstream staticallytyped
+language java manifestly typed complete type
+inference traditionally associated mainstream
+language haskell however many manifestly typed
+language support partial type inference example java cinfer type certain limited cases
+
+dynamic typing also called latent typing determines typesafety
+operation runtime word type associatedruntime value rather textual expression typeinferred
+language dynamically typed language require programmerwrite explicit type annotation expression among things
+may permit single variable refer value different types
+different point program execution however type errors
+cannot automatically detected piece code actually
+executed making debugging difficult lisp javascript python
+dynamically typed
+
+weak strong
+
+weak typing allows value one type treated anotherexample treating string number occasionally useful
+also cause bug language often termed unsafe c assembly language often described weakly typed
+
+strong typing prevents attempting mix type raiseerror stronglytyped language often termed typesafe safemake bug impossible ada python strongly
+typed
+
+alternate definition weakly typed refers languageperl javascript permit large number implicit type
+conversion perl particular characterized dynamically
+typed programming language type checking take placeruntime see type system capability often usefuloccasionally dangerous would permit operation whose objectchange type demand
+
+strong static generally considered orthogonal conceptusage literature differs use term strongly typedmean strongly statically typed even confusingly mean
+simply statically typed thus ha called strongly typedweakly statically typed
+
+execution semantics
+
+data specified machine must instructed perform
+operation data execution semantics language defines
+various construct language produceprogram behaviour
+
+example semantics may define strategy expressions
+evaluated value manner control structures
+conditionally execute statements
+
+core library
+
+programming language associated core library sometimes
+known standard library especially included part
+published language standard conventionally made
+available implementation language core libraries
+typically include definition commonly used algorithm data
+structure mechanism input output
+
+language core library often treated part languageuser although designer may treated separate
+entity many language specification define core must made
+available implementation case standardized
+language core library may required linelanguage core library therefore differs languagelanguage indeed language designed meaningcertain syntactic construct cannot even described without referring
+core library example java string literal defined
+instance javalangstring class similarly smalltalk
+anonymous function expression block construct instancelibrary blockcontext class conversely scheme contains multiple
+coherent subset suffice construct rest languagelibrary macro language designer even bother say
+portion language must implemented language
+construct must implemented part library
+
+practice
+
+language designer user must construct number artifacts
+govern enable practice programming important
+artifact language specification implementation
+
+specification
+
+specification programming language intended providedefinition language user implementors use interpret
+behaviour program reading source code
+
+programming language specification take several form including
+following
+explicit definition syntax semantics language
+syntax commonly specified using formal grammar semantic
+definition may written natural language c
+language formal semantics standard scheme
+specifications
+description behaviour translator language
+eg fortran syntax semanticslanguage inferred description maywritten natural formal language
+model implementation sometimes written languagespecified prolog syntax semantics language
+explicit behaviour model implementation
+
+implementation
+
+implementation programming language provides way execute
+program one configuration hardware software
+broadly two approach programming language
+implementation compilation interpretation generally
+possible implement language using techniques
+
+output compiler may executed hardware program
+called interpreter implementation make useinterpreter approach distinct boundary compiling
+interpreting instance implementation basic
+programming language compile execute source linetime
+
+program executed directly hardware usually run several
+order magnitude faster interpreted software
+
+one technique improving performance interpreted programjustintime compilation virtual machine monitorsequence bytecode frequently executed translatesmachine code direct execution hardware
+
+history
+
+selection textbook teach programming languagepopular obscure thousandprogramming language dialect designed history
+enlarge
+selection textbook teach programming languagepopular obscure thousandprogramming language dialect designed history
+
+early developments
+
+first programming language predate modern computer century programmable loom player piano scrollimplemented today recognized example domainspecific
+programming language beginning twentieth century punch
+card encoded data directed mechanical processingformalism alonzo church lambda calculus alan
+turing turing machine provided mathematical abstractionexpressing algorithm lambda calculus remains influentiallanguage design
+
+first electrically powered digital computercreated computer early notably univacibmused machine language program first generation machine
+language programming quickly superceded second generationprogramming language known assembly language laterassembly language programming evolved include usemacro instruction followed development three modern
+programming language fortran lisp cobol updated versionstill general use importantlystrongly influenced development later language endlanguage formalized algolwas introducedmodern programming language many respect descendantalgol format use early programming languageheavily influenced constraint interface
+
+refinement
+
+period late brought developmentmajor language paradigm use though many aspectrefinement idea first thirdgeneration programming
+languages
+apl introduced array programming influenced functional
+programming
+simula first language designed support
+objectoriented programming mids smalltalk followed
+first purely objectoriented language
+c developed betweenandas system programming
+language remains popular
+prolog designed inwas first logic programming language
+inml built polymorphic type system top lisp
+pioneering statically typed functional programming languages
+
+language spawned entire family descendantmodern language count least one ancestry
+
+also saw considerable debate meritstructured programming whether programming languagedesigned support edsger dijkstra famousletter
+published communication acm argued goto statements
+eliminated higher level programming languages
+
+also saw expansion technique reducedfootprint program well improved productivityprogrammer user card deck early wa lot smaller
+functionality expressed deck
+
+consolidation growth
+
+year relative consolidation combined
+objectoriented system programming united state government
+standardized ada system programming language intended usedefense contractor japan elsewhere vast sum spent
+investigating socalled fifth generation language incorporated
+logic programming construct functional language community moved
+standardize lisp rather inventing new paradigmmovement elaborated upon idea invented previous
+decade
+
+one important trend language design waincreased focus programming largescale system use
+module largescale organizational unit code modula ada
+ml developed notable module system module
+system often wedded generic programming constructs
+
+rapid growth internet mids created
+opportunity new language perl originally unix scripting tool
+first released inbecame common dynamic web site java came
+used serverside programming developmentfundamentally novel rather refinement existing languages
+paradigm largely based family programming
+languages
+
+programming language evolution continues industryresearch current direction include security reliability
+verification new kind modularitymixins delegate aspects
+database integration
+
+gls example language domainspecificsql manipulates return set data rather scalar
+value canonical programming language perlexample itshere document hold multiple programwell multiple javascript program part perl codeuse variable interpolation document support
+multilanguage programming
+
+taxonomies
+
+overarching classification scheme programming
+language given programming language doe usually single
+ancestor language language commonly arise combining elements
+several predecessor language new idea circulationtime idea originate one language diffuse throughoutfamily related language leap suddenly across familial
+gap appear entirely different family
+
+task complicated fact languageclassified along multiple example javaobjectoriented language encourages objectoriented
+organization concurrent language contains builtin
+construct running multiple thread parallel pythonobjectoriented scripting language
+
+broad stroke programming language divide programming
+paradigm classification intended domain use paradigms
+include procedural programming objectoriented programming functional
+programming logic programming language hybridparadigm multiparadigmatic assembly language muchparadigm direct model underlying machine architecturepurpose programming language might considered general purpose
+system programming language scripting language domainspecific
+language concurrentdistributed language combinationgeneral purpose language designed largelyeducational goals
+
+programming language classified position chomsky
+hierarchy example thue programming language recognizedefine type language chomsky hierarchy programming
+language type language obey contextfree grammars
+

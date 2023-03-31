@@ -1,0 +1,292 @@
+copyright
+
+tex
+
+ school wikipedia selection related subject software
+
+tex
+developerdonald knuth
+latest releasedecember 
+oscrossplatform
+usetypesetting
+licensefreely modifiable long resulting programcalled tex
+websitehttpwwwtugorg
+
+texipa greek often english sometimes written
+tex imitation logo typesetting system createddonald knuth together metafont language font description
+computer modern typeface designed two main goals
+mind first allow anybody produce highquality book usingreasonable amount effort second provide systemwould give exact result computerfuture free popular academia especiallymathematics physic computer science political scienceengineering community largely displaced unix trofffavored formatter many unix installation usedifferent purposes
+
+tex considered best way typeset complex
+mathematical formula especially form latextemplate package also used many typesetting
+tasks
+
+history
+
+first volume knuths art computer programmingpublished init typeset using monotype technologyth century produced good classic style appreciatedknuth second edition second volume publishedwhole book typeset monotype
+technology largely replaced photographic techniqueoriginal font available anymore however knuth
+received galley proof new book onmarchhe found
+awful around time knuth saw first time output
+highquality digital typesetting system became interesteddigital typography disappointing galley proof gave final
+motivation solve problem hand designing
+typesetting system onmayhe wrote memodescribing basic feature tex
+
+planned finish sabbatical inbut happened
+language frozen inmore ten year later guy
+steele happened stanford summer ofwhen knuth
+wa developing first version tex steele returned mit
+fall rewrote texs run operating system
+first version tex written sail programming language
+run pdp stanford wait operating system later
+version tex knuth invented concept literate programmingway producing compilable source code high quality crosslinked
+documentation typeset tex course original file
+language used called web produce program pascal
+
+new version tex rewritten scratch called texpublished inamong change original hyphenation
+algorithm replaced new algorithm written frank liang tex
+also fixedpoint arithmetic instead floatingpoint ensure
+reproducibility result across different computer hardwareincludes real turingcomplete programming language following
+intense lobbying guy steele
+
+indonald knuth released new version tex metafont
+despite desire keep program stable knuth realised 
+different character text input enough accommodate
+foreign language main change versionof tex thusability work bit input allowingdifferent characters
+text input
+
+since versiontex used idiosyncratic version numbering
+system update indicated adding extra digitend decimal version number asymptotically
+approachesthis reflection fact texstable minor update anticipated current versiontex isit last updated decemberthe designfrozen versionand new feature fundamental change
+added newer version shall containbug fix even though donald knuth suggested areas
+tex could improved indicated firmly
+belief unchanged system produceoutput future important introducing new
+feature reason stated absolutely final
+change made death change version
+number toat point remaining bug become features
+likewise version metafont afterasymptotically approach esimilar change applied knuths death
+
+however since source code tex essentially public
+domain see programmer allowed explicitly
+encouraged improve system required use another name
+distribute modified tex meaning source code still
+evolve example omega project developed 
+primarily enhance texs multilingual typesetting ability donald
+knuth created unofficial modified version texxet
+allows user mix text written lefttorightrighttoleft writing system document
+
+typesetting system
+
+tex command commonly start backslash grouped curly
+brace however almost texs syntactic propertychanged fly make tex input hard parse anythingtex tex macro tokenbased language many commands
+including userdefined one expanded flyunexpandable token remain get executed expansionpractically sideeffect free tail recursion macro take memory
+ifthenelse construct available make texturingcomplete language even expansion level
+
+system divided four level first characters
+read input file assigned category code sometimes
+called catcode short combination backslash reallycharacter category zero followed letter character category
+single character replaced control sequence
+token sense stage like lexical analysis althoughdoe form number digit next stage expandable
+control sequence conditionals defined macro replaced
+replacement text input third stagestream character including one special meaningunexpandable control sequence typically assignment visual
+command character get assembled paragraph texs
+paragraph breaking algorithm work optimizing breakpointswhole paragraph fourth stage break vertical list linematerial pages
+
+tex system precise knowledge size charactersymbol using information computes optimal
+arrangement letter per line line per page producedvi file device independent containing final locationcharacter dvi file printed directly given appropriate
+printer driver converted format nowadays
+pdftex often used bypass dvi generation altogether
+
+base tex system understands aboutcommands called primitives
+however lowlevel command rarely used directly users
+functionality provided format file predumped memory
+image tex large macro collection loaded knuths
+original default format add aboutcommands plain tex 
+available ctan widely used format latex originally
+developed leslie lamport incorporates document stylebook letter slide etc add support referencingautomatic numbering section equation another widely used
+format amstex produced american mathematical societyprovides many userfriendly command alteredjournal fit house style feature amstex
+used latex using package referred
+amslatex format include context used primarilydesktop publishing written mostly han hagen pragma
+
+novel aspect tex
+
+tex software incorporates several aspect available
+lower quality typesetting program time
+tex released innovation based interesting
+algorithm led number thesis knuths students
+discovery incorporatedtypesetting program others rule mathematical
+spacing still unique
+
+mathematical spacing
+
+mathematical text typeset using tex euler font
+enlarge
+mathematical text typeset using tex euler font
+
+since primary goal tex highquality typesettingbook art computer programming knuth gave lot attentionchoice proper spacing rule mathematical formul took
+three body work considered standard excellencemathematical typography book typeset addisonwesleypublisher art computer programming particular work
+done han wolf edition mathematical journal acta
+mathematica dating aroundand copy indagationes
+mathematicae dutch mathematics journal knuth looked closelyexample derive set spacing rule tex tex
+provides basic rule tool needed specify proper
+spacing exact parameter depend font used typesetformul example spacing knuths computer modern fontprecisely finetuned year frozenfont euler used knuth first time
+new spacing parameter defined
+
+hyphenation justification
+
+comparison manual typesetting problem justificationeasy solve digital system tex providedgood point line breaking defined automatically
+spread space word fill line problemthus find set breakpoints give pleasing
+result many line breaking algorithm use firstfit approachbreakpoints line determined onebreakpoint changed chosen systemable decide define breakpoint depending effectfollowing line comparison totalfit line
+breaking algorithm used tex developed donald knuthmichael plass considers possible breakpoints paragraph
+find combination line break produceglobally pleasing arrangement
+
+formally algorithm defines value called badness associatedpossible line break badness increased spaceline must stretch shrink much make line correct
+width penalty added breakpoint particularly undesirable
+example word must hyphenated two line rowhyphenated loose line immediately followedtight line algorithm find breakpointsminimize sum square badness including penaltyresulting line paragraph contains possible breakpointsnumber situation must evaluated naively howeverusing method dynamic programming complexityalgorithm brought simplificationexample testing extremely unlikely breakpointshyphenation first word paragraph lead efficient
+algorithm whose running time almost always order howevergeneral thesis michael plass show page breaking problem
+npcomplete added complication placing
+figure similar algorithm used determine best way break
+paragraph across two page order avoid widow orphan lines
+appear alone page rest paragraphfollowing preceding page
+
+texs line breaking algorithm adopted severalprogram adobe indesign desktop publishing applicationgnu fmt unix command line utility
+
+suitable line break found line system try
+hyphenate word original version tex used hyphenation
+algorithm based set rule removal prefixsuffix word deciding insert breaktwo consonant pattern form vowel consonant
+consonantvowel possible time tex new
+hyphenation algorithm designed frank liang assign
+priority breakpoints letter group list hyphenation
+pattern first generated automatically corpus hyphenated
+word list ofwords tex must find acceptable
+hyphenation position word encyclopedia exampleconsider subwords extended word encyclopedia 
+special marker indicate beginning end wordlist subwords include subwords lengthe cetc lengthe nc etc etc subword length
+word including marker tex look
+list hyphenation pattern find subwordsha calculated desirability hyphenation positioncase wordsuch pattern matched namely cy dia edi edia oped ped
+pedi pedia position word texcalculate maximum value obtained among matching pattern
+yielding encyclopedia finallyacceptable position indicated odd number yieldingacceptable hyphenation encyclopedia system basedsubwords allows definition general patternia low indicative number either odd evensuperseded specific pattern dianecessary pattern find aboutof hyphen original
+dictionary importantly insert spurious hyphen
+addition list exception word patternpredict correct hyphenation included plain tex
+format additional one specified user
+
+metafont
+
+metafont strictly part tex required tooltypesetting system metafont font description systemallows designer describe character algorithmically uses
+bezier curve fairly standard way generate actual
+character displayed knuth devotes lot attentionrasterizing problem bitmapped display another thesis john
+hobby explores problem digitizing brush
+trajectory term derives fact metafont describes
+character drawn abstract brush erasers
+
+possible use tex latex without metafont adobe postscript
+typefonts may used instead latex expects fontsupplied bitmap specific point size postscriptvector outline description scalable wide rangeintroduce minor complication nonetheless helpprewritten package latex made use postscript fonts
+note typeor refer documentation two
+different thing tex character encoding scheme map byte
+value glyph adobe postscript fonts
+
+example tex
+
+sample page produced using tex latex macros
+enlarge
+sample page produced using tex latex macros
+
+write traditional hello world program plain tex createfile myfiletex following content
+hello world
+byemarks end file shown final output
+
+default everything follows percent sign linecomment ignored tex running tex file exampletyping tex myfiletex command line interpreter callinggraphical user interface create output file called
+myfiledvi representing content page device
+independent formatdvi result either printed directly
+dvi viewer converted common formatpostscript using dvips program tex natively uses
+bitmap font designed display well one particular
+size whereas postscript typically scalable typefontspossible make dvips output scalable font bit tweaking
+newer version ghostscript support tex variant pdftex
+produce pdf file directly
+
+see tex action look formatting mathematical
+formul example write wellknown quadratic formula try
+entering
+quadratic formula pm sqrtbacbye
+
+use tex get something look like
+
+quadratic formula textstyleb sqrtbac
+
+notice formula printed way person would writehand typeset equation document entering mathematics mode
+done starting athen entering formula tex semantics
+closing anotherdisplay mathematics mathematics
+presented centered new line done usingfor examplequadratic formula display math
+quadratic formula pm sqrtbacbye
+
+render
+quadratic formula
+b sqrtbac
+software
+
+original source code current tex software writtenweb mixture documentation written tex quite restricted
+pascal subset order ensure portability example tex doedynamic allocation fixedsize array usfixedpoint arithmetic internal calculation result tex
+ha ported almost operating system usually usingwebc program convert source code instead directly
+compiling pascal code tex usually provided formdistribution easytoinstall bundle tex alongmetafont necessary font document format utilities
+needed use typesetting system unixcompatible systems
+including gnulinux mac tex distributed formtetex distribution window miktex distribution
+enhanced protexand fptex distribution
+
+several document processing system based tex notably jadetex
+us tex backend printing james clark dsssl
+engine texinfo gnu documentation processing system texofficial typesetting package gnu operating system
+since 
+
+xetex new tex engine support unicode originally making use
+advanced mac xspecific font technology supports
+opentype available linux microsoft windows
+
+numerous extension companion program tex exist amongbibtex bibliography distributed latex pdftexbypass dvi produce output adobe system portable document
+format omega allows tex use unicode character set
+tex extension available free ctan comprehensive
+tex archive network texmacs text editor wysiwyg scientific
+text editor intended compatible tex emacsus knuths font generate tex output lyx see
+mean document processor run varietyplatform including linux windowsor later mac using nonnative frontend texshop mac winshell
+window similar tool provide integrated development
+environment ide working latex tex gnu emacs various
+builtin third party package support tex major one
+auctex vim vimlatex suite
+
+knuth kept detailed log bug correctedchange made program sinceas ofthe list
+containsentries including version modificationdone death final change tex
+
+license
+
+donald knuth indicated several time source code tex
+ha placed public domain strongly encourages
+modification experimentation source code however since
+highly value reproducibility output versiontex changed version must called tex tex anything
+confusingly similar enforce rule american mathematical
+society registered trademark tex implementationsystem must pas test suite called trip testavailablectan allowed called tex question licensesomewhat confused statement included beginningtex source code indicate right reserved copying
+file authorized ifyou make absolutely changes
+copy however restriction interpretedprohibition change source code long file called
+texweb interpretation confirmed later source codetrip test mentioned program changed resulting
+system called tex
+
+pronouncing writing tex
+
+name tex intended pronounced tekhipa txkh represents european spanish sound end scottish
+loch name german composer bach polish xmeant represent greek letterchi tex abbreviation
+oftechn greek art craft also
+source word technical english speaker often pronouncetek like first syllable technology
+
+name properly typeset baselinereduced spacing letter done donald knuth
+mention texbook distinguishfrom system names
+tex text executive processor developed honeywell
+information system system support subscript layoutbackspacing use approximation tex fan like proliferate names
+word texsuch texnician user tex software
+texpert texhacker tex programmer texmaster competent tex
+programmer texhax texnique
+
+trivia
+
+donald knuth offer monetary award people find report bug
+tex award per bug started atone hexadecimal dollar
+doubled every year frozen current valueha made knuth poor howeverbug claimed addition people known frame check
+proving found bug tex instead cashing
+knuth explained jest chose dollar sign indicatebeginning end mathematical mode plain tex typesetting
+mathematics traditionally supposed expensive
+

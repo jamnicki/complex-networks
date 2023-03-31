@@ -1,0 +1,245 @@
+copyright
+
+bioinformatics
+
+ school wikipedia selection related subject general biology software
+
+bioinformatics computational biology involve use techniques
+including applied mathematics informatics statistic computer
+science artificial intelligence chemistry biochemistry solve
+biological problem usually molecular level researchcomputational biology often overlap system biology major
+research effort field include sequence alignment gene finding
+genome assembly protein structure alignment protein structure
+prediction prediction gene expression proteinprotein
+interaction modeling evolution
+
+term bioinformatics computational biology often used
+interchangeably however bioinformatics properly referscreation advancement algorithm computational statistical
+technique theory solve formal practical problem posedinspired management analysis biological data
+computational biology hand refers hypothesisdriven
+investigation specific biological problem using computer carried
+experimental simulated data primary goaldiscovery advancement biological knowledge similar
+distinction made national institute health working
+definition bioinformatics computational biologyemphasized tight coupling developmentknowledge hypothesisdriven research computational
+biology techniquedriven research bioinformatics computational
+biology also includes lesser known equally important subdisciplines
+computational biochemistry computational biophysics
+
+common thread project bioinformatics computational biology
+use mathematical tool extract useful informationdata produced highthroughput biological technique genome
+sequencing representative problem bioinformatics assembly
+highquality genome sequence fragmentary shotgun dna
+sequencing common problem include study gene regulation
+using data microarrays mass spectrometry
+
+major research areas
+
+sequence analysis
+
+since phage wa sequenced inthe dna sequencehundred organism decoded stored databasedata analyzed determine gene code protein wellregulatory sequence comparison gene within speciedifferent specie show similarity protein functionrelation specie use molecular systematicsconstruct phylogenetic tree growing amount data long
+ago became impractical analyze dna sequence manually today
+computer program used search genome thousandorganism containing billion nucleotide programcompensate mutation exchanged deleted inserted basedna sequence order identify sequence relatedidentical variant sequence alignment usedsequencing process socalled shotgun sequencing technique
+wa used example institute genomic researchsequence first bacterial genome haemophilus influenza doegive sequential list nucleotide instead sequencethousand small dna fragment aboutnucleotides long
+end fragment overlap aligned right way
+make complete genome shotgun sequencing yield sequence data
+quickly task assembling fragment quite
+complicated larger genome case human genome
+project took several month cpu time circa vintage
+dec alpha computer assemble fragment shotgun sequencingmethod choice virtually genome sequenced todaygenome assembly algorithm critical area bioinformatics
+research
+
+another aspect bioinformatics sequence analysis automatic
+search gene regulatory sequence within genomenucleotide within genome gene within genome higher
+organism large part dna serve obvious purpose
+socalled junk dna may however contain unrecognized functional
+element bioinformatics help bridge gap genomeproteome projectsfor example use dna sequence protein
+identification
+
+see also sequence analysis sequence profiling tool sequence motif
+
+genome annotation
+
+context genomics annotation process markinggene biological feature dna sequence first genome
+annotation software system designed inby owen whitepart team sequenced analyzed first genomefreeliving organism decoded bacterium haemophilus
+influenzae white built software system find gene places
+dna sequence encode protein transfer rnafeature make initial assignment function genes
+current genome annotation system work similarly programs
+available analysis genomic dna constantly changingimproving
+
+computational evolutionary biology
+
+evolutionary biology study origin descent species
+well change time informatics assisted
+evolutionary biologist several key way enabled researchers
+trace evolution large number organism measuring
+change dna rather physical taxonomyphysiological observation alone
+recently compare entire genome permit studycomplex evolutionary event gene duplication lateral
+gene transfer prediction bacterial speciation factors
+build complex computational model population predictoutcome system time
+track share information increasingly large numberspecie organisms
+
+future work endeavour reconstruct complex treelife
+
+area research within computer science genetic
+algorithm sometimes confused computational evolutionary
+biology two area unrelated
+
+measuring biodiversity
+
+biodiversity ecosystem might defined total genomic
+complement particular environment species
+present whether biofilm abandoned mine drop sea
+water scoop soil entire biosphere planet earth
+database used collect specie name descriptions
+distribution genetic information status size populations
+habitat need organism interacts species
+specialized software program used find visualize analyze
+information importantly communicate people
+computer simulation model thing population dynamiccalculate cumulative genetic health breeding poolagriculture endangered population conservation oneexciting potential field entire dna sequencegenome endangered specie preserved allowing resultnature genetic experiment remembered silico possibly
+reused future even specie eventually lost
+
+important project speciesproject ubio project
+
+analysis gene expression
+
+expression many gene determined measuring mrna levels
+multiple technique including microarrays expressed cdna sequence
+tag est sequencing serial analysis gene expression sage tag
+sequencing massively parallel signature sequencing mps various
+application multiplexed insitu hybridizationtechnique extremely noiseprone andor subject biasbiological measurement major research area computational
+biology involves developing statistical tool separate signalnoise highthroughput gene expression study studyoften used determine gene implicated disorder one might
+compare microarray data cancerous epithelial cell datanoncancerous cell determine transcript upregulated
+downregulated particular population cancer cells
+
+analysis regulation
+
+regulation complex orchestration event startingextracellular signal ultimately leading increase decrease
+activity one protein molecule bioinformatics
+technique applied explore various step process
+example promoter analysis involves elucidation studysequence motif genomic region surrounding coding regiongene motif influence extent regiontranscribed mrna expression data used infer gene
+regulation one might compare microarray data wide varietystate organism form hypothesis gene involvedstate singlecell organism one might compare stagecell cycle along various stress condition heat shock
+starvation etc one apply clustering algorithmexpression data determine gene coexpressed example
+upstream region promoter coexpressed gene searched
+overrepresented regulatory elements
+
+analysis protein expression
+
+protein microarrays high throughput mass spectrometryprovide snapshot protein present biological sample
+bioinformatics much involved making sense protein
+microarray data former approach face similar problems
+microarrays targeted mrna latter involves problem
+matching large amount mass data predicted massprotein sequence database complicated statistical analysissample multiple incomplete peptide proteindetected
+
+analysis mutation cancer
+
+massive sequencing effort currently underway identify point
+mutation variety gene cancer sheer volume data
+produced requires automated system read sequence datacompare sequencing result known sequence human
+genome including known germline polymorphisms
+
+oligonucleotide microarrays including comparative genomic
+hybridization single nucleotide polymorphism array able probe
+simultaneously several hundred thousand site throughoutgenome used identify chromosomal gain losscancer hidden markov model changepoint analysis methoddeveloped infer real copy number change often noisy data
+informatics approach developed understandimplication lesion found recurrent across many tumors
+
+modern tool quantumprovide tool changingprotein sequence specific site alteration amino
+acid predict change bioactivity mutations
+
+prediction protein structure
+
+protein structure prediction another important applicationbioinformatics amino acid sequence protein socalled
+primary structure easily determined sequencegene code vast majority case primary
+structure uniquely determines structure native environment
+course exception bovine spongiform
+encephalopathyaka mad cow diseaseprion knowledgestructure vital understanding function proteinlack better term structural information usually classifiedone secondary tertiary quaternary structure viable general
+solution prediction remains open problemeffort directed towards heuristic worktime
+
+one key idea bioinformatics notion homologygenomic branch bioinformatics homology used predictfunction gene sequence gene whose function known
+homologous sequence gene whose function unknown one
+could infer may share function structural branchbioinformatics homology used determine part protein
+important structure formation interactionprotein technique called homology modelling informationused predict structure protein structurehomologous protein known currently remains waypredict protein structure reliably
+
+one example similar protein homology haemoglobin
+human haemoglobin legumesleghemoglobin serve
+purpose transporting oxygen organism thoughprotein completely different amino acid sequenceprotein structure virtually identical reflects near
+identical purposes
+
+technique predicting protein structure include protein
+threading novo scratch physicsbased modeling
+
+see also structural motif structural domain
+
+comparative genomics
+
+core comparative genome analysis establishmentcorrespondence gene orthology analysis genomic
+feature different organism intergenomic mapmake possible trace evolutionary process responsibledivergence two genome multitude evolutionary events
+acting various organizational level shape genome evolutionlowest level point mutation affect individual nucleotidehigher level large chromosomal segment undergo duplication lateral
+transfer inversion transposition deletion insertion ultimately
+whole genome involved process hybridization
+polyploidization endosymbiosis often leading rapid speciation
+complexity genome evolution pose many exciting challengedeveloper mathematical model algorithm recoursespectrum algorithmic statistical mathematical techniques
+ranging exact heuristic fixed parameter approximation
+algorithm problem based parsimony model markov chain monte
+carlo algorithm bayesian analysis problem basedprobabilistic models
+
+many study based homology detection protein
+family computation
+
+see also comparative genomics bayesian network protein family
+
+modeling biological systems
+
+system biology involves use computer simulation cellular
+subsystem network metabolite enzymecomprise metabolism signal transduction pathway gene regulatory
+network analyze visualize complex connectioncellular process artificial life virtual evolution attempts
+understand evolutionary process via computer simulationsimple artificial life forms
+
+highthroughput image analysis
+
+computational technology used accelerate fully automateprocessing quantification analysis large amounthighinformationcontent biomedical imagery modern image analysis
+system augment observer ability make measurement large
+complex set image improving accuracy objectivity speed
+fully developed analysis system may completely replace observer
+although system unique biomedical imagery biomedical
+imaging becoming important diagnostics research
+examplehighthroughput highfidelity quantification subcellular
+localizationhighcontent screening cytohistopathology
+morphometrics
+clinical image analysis visualization
+determining realtime airflow pattern breathing lungliving animals
+quantifying occlusion size realtime imagerydevelopment recovery arterial injury
+making behavioural observation extended video recordinglaboratory animals
+infrared measurement metabolic activity determination
+
+software tools
+
+first generation bioinformatics tool consisted applications
+usually textbased interface performed specific task
+well computational biology tool bestknown among biologistprobably blast algorithm searching large database protein
+dna sequence ncbi provides popular webbased implementation
+search massive sequence database also fairly earlydue amassing sequence annotation data keyword search
+engine able resolve gene protein synonymimportant early day computer scripting languageperl python often used interface biological databases
+parse output bioinformatics program written languagec much legacy code still use today today many
+language used author excellent software communities
+bioinformatics programmer set free open source
+bioinformatics project develop distribute tool modules
+produce
+
+data source expanded diversified contentgeography bioinformatic meta search engine sequence
+profiling tool emerged help find relevant information several
+database meta search engine might index data local
+server even panel third party services
+
+recently soapbased interface developed wide
+variety bioinformatics application allowing application running
+one computer one part world use algorithm datacomputing resource server part world large
+availability soapbased bioinformatics web service along
+open source bioinformatics collection lead next
+generation bioinformatics tool integrated bioinformatics
+platform tool range collection standalone toolcommon data format single slick standalone webbased
+interface integrative extensible bioinformatics workflow
+development environments
+
+interesting novel direction bioinformatics applicationillustrated qpharms quantuman example bioinformatics
+post qsar technology applying quantum molecular physic insteadstatistical methods
+

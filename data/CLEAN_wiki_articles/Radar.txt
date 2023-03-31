@@ -1,0 +1,540 @@
+copyright
+
+radar
+
+ school wikipedia selection related subject engineering
+
+long range radar antenna known altair used detecttrack space object conjunction abm testing ronald
+reagan test site kwajalein atoll
+enlarge
+long range radar antenna known altair used detecttrack space object conjunction abm testing ronald
+reagan test site kwajalein atoll
+
+radar system radio wave determine maplocation direction andor speed moving fixed objectaircraft ship motor vehicle weather formation terraintransmitter emits radio wave reflected targetdetected receiver typically locationtransmitter although radio signal returned usually weak
+radio signal easily amplified radar detect objectrange emission sound visible light wouldweak detect radar used many context including
+meteorological detection precipitation air traffic control police
+detection speeding traffic military
+
+term radar coined inas acronym radio detectionranging acronym american origin replaced previously used
+british abbreviation rdf radio direction finding term since
+entered english language standard word radar losingcapitalization process
+
+history
+
+several inventor scientist engineer contributeddevelopment radar use radio wave detect presencedistant metallic object via radio wave first implemented 
+christian hlsmeyer demonstrated feasibility detecting
+presence ship dense fog distance received
+reichspatent patent nrfor preradar device aprilnovemberthe patentan amendment patentranging indirectly related device received patent
+gb england telemobiloscope september
+
+prior second world war development americangerman french french patent ninand british
+british patent robert watsonwatt inledfirst real radar hungarian zoltn bay produced working modeltungsram laboratory vein
+
+war precipitated research find better resolutionportability feature new defensive weapon postwar
+year seen use radar field diverse air traffic
+control weather monitoring astrometry road speed control
+
+principles
+
+reflection
+
+brightness indicate reflectivity thisweather radar
+image radar frequency pulse form antenna largely determine
+observe
+enlarge
+brightness indicate reflectivity thisweather radar
+image radar frequency pulse form antenna largely determine
+observe
+
+electromagnetic wave reflect scatter large changedielectric diamagnetic constant mean solid objectair vacuum significant change atomic densityobject whats surrounding usually scatter radar
+radio wave particularly true electrically conductive
+material metal carbon fibre making radar particularly
+well suited detection aircraft ship radar absorbing
+material containing resistive sometimes magnetic substanceused military vehicle reduce radar reflection radio
+equivalent painting something dark colour
+
+radar wave scatter variety way depending size
+wavelength radio wave shape targetwavelength much shorter target size wave bounce
+way similar way light reflected mirrorwavelength much longer size target targetpolarized positive negative charge separated like dipole
+antenna described rayleigh scattering effectcreates earth blue sky red sunset two length
+scale comparable may resonance early radar usedlong wavelength larger target received vague
+signal whereas modern system use shorter wavelengthcentimetre shorter image object small loafbread smaller
+
+short radio wave reflect curve corner way similarglint rounded piece glass reflective targetshort wavelength haveangles reflective surfacestructure consisting three flat surface meeting single corner
+like corner box always reflect wave enteringopening directly back source socalled corner reflectors
+commonly used radar reflector make otherwise
+difficulttodetect object easier detect often foundboat order improve detection rescue situationreduce collision similar reason object attempting avoid
+detection angle surface way eliminate inside
+corner avoid surface edge perpendicular likely detection
+direction lead odd looking stealth aircraftprecaution completely eliminate reflectiondiffraction especially longer wavelength half wavelength long
+wire strip conducting material chaffreflective direct scattered energy back towardsource extent object reflects scatter radio waves
+called radar cross section
+
+radar equation
+
+amount power returning receiving antenna givenradar equation
+
+prpt ar sigma foverpi rtrr
+
+pttransmitter power
+gtgain transmitting antenna
+areffective aperture area receiving antenna
+radar cross section scattering coefficient target
+fpattern propagation factor
+rtdistance transmitter target
+rrdistance target receiver
+
+common case transmitter receiverlocation rtrr term rr replaced
+r range yields
+
+prpt ar sigmaoverpi 
+show received power decline fourth powerrange mean reflected power distant targetsmall basis old chesnut old radar men
+never die fade away fourth power
+
+equation fis simplification vacuum without
+interference propagation factor account effectmultipath shadowing depends detail environment
+realworld situation pathloss effect also considered
+
+mathematical development radar signal processing include
+timefrequency analysisweyl heisenberg wavelet wellchirplet transform make use fact radar returnmoving target typically chirp change frequency function
+time doe sound bird bat
+
+polarization
+
+transmitted radar signal electric field perpendiculardirection propagation direction electric field
+polarization wave radar use horizontal verticalcircular polarization detect different type reflectionexample circular polarization used minimize interference
+caused rain linear polarization return usually indicate metal
+surface help search radar ignore rain random polarization
+return usually indicate fractal surface rock soilused navigational radars
+
+interference
+
+radar system must overcome several different source unwanted
+signal order focus actual target interestunwanted signal may originate internal external sourcepassive active ability radar system overcomeunwanted signal defines signaltonoise ratio snr highersystem snr better isolating actual targetsurrounding noise signals
+
+noise
+
+signal noise internal source random variation signal
+inherently generated degree electronic
+component list noise source refer signal noise
+article noise typically appears random variation superimposeddesired echo signal received radar receiver lowerpower desired signal difficult discernnoise similar trying hear whisper standing near
+busy road therefore important noise source appearreceiver much effort made minimize factor noise
+figure measure noise produced receiver comparedideal receiver need minimized
+
+noise also generated external source importantlynatural thermal radiation background scene surroundingtarget interest modern radar system due high
+performance receiver internal noise typicallyequal lower external scene noise exceptionradar aimed upwards clear sky scene coldgenerates little thermal noise
+
+clutter
+
+clutter refers actual radio frequency echo returnedtarget definition uninteresting radar operatorgeneral target mostly include natural object ground
+sea precipitation rain snow hail sand storm animals
+especially bird atmospheric turbulence atmospheric
+effect ionosphere reflection meteor trail clutter may
+also returned manmade object buildingintentionally radar countermeasure chaff
+
+clutter may also caused long waveguide radar
+transceiver antenna typical ppi radar rotating
+antenna usually seen sun sunburstcentre display receiver responds echo dust
+particle misguided waveguide adjusting timing
+transmitter sends pulse receiver stage
+enabled generally reduce sunburst without affectingaccuracy range since sunburst caused diffused
+transmit pulse reflected leaf antenna
+
+clutter source may undesirable radar
+application storm cloud airdefence radar maydesirable othersmeteorological radar example clutter
+considered passive interference source since appearsresponse radar signal sent radar
+
+several method detecting neutralizing clutter many
+method rely fact clutter tends appear static
+radar scan therefore comparing subsequent scan echoes
+desirable target appear move stationary echoeliminated sea clutter reduced using horizontal
+polarization rain reduced circular polarization note
+meteorological radar wish opposite effect therefore
+using linear polarization better detect precipitationmethod attempt increase signaltoclutter ratio
+
+cfar constant falsealarm rate form automatic gain controlagc method relying fact clutter return far outnumber
+echo target interest receiver gain automatically
+adjusted maintain constant level overall visible clutterdoe help detect target masked stronger surrounding
+clutter doe help distinguish strong target sourcepast radar agc electronically controlled affected gainentire radar receiver radar evolved agc became
+computersoftware controlled affected gain greater
+granularity specific detection cells
+radar multipath echo actual target cause ghost appear
+enlarge
+radar multipath echo actual target cause ghost appear
+
+clutter may also originate multipath echo valid target due
+ground reflection atmospheric ducting ionospheric reflection
+refraction specific clutter type especially bothersome since
+appears move behave like normal point targetinterest thereby creating ghost typical scenario aircraft
+echo multipathreflected ground appearingreceiver identical target correct one radar may
+try unify target reporting target incorrect height
+orworseeliminating basis jitter physical
+impossibility problem overcome incorporating ground
+map radar surroundings eliminating echo appear
+originate ground certain height
+
+jamming
+
+radar jamming refers signal originating source outsideradar transmitting radar frequency thereby masking
+target interest jamming may intentional antiradar
+electronic warfare tactic unintentional friendly
+force operating equipment transmits using frequency
+range jamming considered active interference source sinceinitiated element outside radar general unrelatedradar signals
+
+jamming problematic radar since jamming signal needtravel oneway jammer radar receiver whereasradar echo travel twoways radartargetradar therefore
+significantly reduced power time return radar
+receiver jammer therefore much powerful jammed
+radar still effectively mask target along line sightjammer radar mainlobe jamming jammer added
+effect affecting radar along lineofsights due radar
+receiver sidelobes sidelobe jamming
+
+mainlobe jamming generally reduced narrowingmainlobe solid angle never fully eliminated directly
+facing jammer frequency polarizationradar sidelobe jamming overcome reducing receiving sidelobes
+radar antenna design using omnidirectional antennadetect disregard nonmainlobe signal antijamming
+technique frequency hopping polarization see electronic
+countercountermeasures details
+
+interference recently become problem cbandghz
+meteorological radar proliferation ofghz band wifi
+equipment
+
+radar signal processing
+
+distance measurement
+
+transit time
+
+pulse radar
+enlarge
+pulse radar
+enlarge
+
+principle radar distance measurement using pulse round trip time
+one way measure distance object transmit short
+pulse radio signal measure time take reflection
+return distance onehalf product round trip time
+signal travel target backreceiver speed signal speed lightvacuum andis round trip time radar speed signal
+speed light making round trip time shortterrestrial ranging accurate distance measurement requires
+highperformance electronics
+
+receiver cannot detect return signal sent
+outthere way tell signal hears originalreturn mean radar distinct minimum rangelength pulse multiplied speed light dividedtwo order detect closer target one must use shorter pulse
+length
+
+similar effect imposes specific maximum range wellreturn target come next pulse sentreceiver cannot tell difference ordermaximize range one want use longer time pulseinterpulse time
+
+two effect tend oddseasy combine good short range good long range single
+radar short pulse needed good minimum range
+broadcast total energy making return much smallertarget harder detect could offset using pulses
+would shorten maximum range radar usparticular type signal long range radar tend use long pulses
+long delay short range radar use smaller
+pulse time pattern pulse pauses
+known pulse repetition frequency prf onemain way characterize radar electronics improved many
+radar change prf
+
+frequency modulation
+
+another form distance measuring radar based frequency
+modulation frequency comparison two signal considerably
+accurate even older electronics timing signalchanging frequency returned signal comparingoriginal difference easily measured
+
+technique used radar system often foundaircraft radar altimeter system carrier radar signalfrequency modulated predictable way typically varyingsine wave sawtooth pattern audio frequency signal
+sent one antenna received another typically
+located bottom aircraft signalcontinuously compared
+
+since signal frequency changing time signal returns
+aircraft broadcast shifted frequencyamount shift greater longer time greater frequency
+difference mean longer distance exact amount ramp
+speed selected electronics amount shift therefore
+directly related distance travelled displayedinstrument signal processing similar used speed
+detecting doppler radar see article continuous wave radarinformation
+
+speed measurement
+
+speed change distance object respect time thus
+existing system measuring distance combined little
+memory see target last enough measure speedone time memory consisted user making greasepencil markradar screen calculating speed using slide rule
+modern radar system perform equivalent operation fasteraccurately using computers
+
+however transmitter output coherent phase synchronized
+another effect used make almost instant speed
+measurement memory required known doppler effectmodern radar system use principle pulsedoppler radar
+system return signal target shifted away base
+frequency via doppler effect enabling calculation speed
+object relative radar doppler effect abledetermine relative speed target along line sightradar target component target velocity perpendicular
+line sight cannot determined doppler alonetracking
+target azimuth time must used
+
+also possible make radar without pulsing knowncontinuouswave radar radar sending pure signalknown frequency radar ideal determining radial
+component target velocity cannot determine targets
+range radar typically used traffic enforcement measure
+vehicle speed quickly accurately range important
+
+reduction interference effects
+
+signal processing employed radar system reduceinterference effect signal processing technique include moving
+target indication mti pulse doppler moving target detection mtd
+processor correlation secondary surveillance radar ssr targets
+spacetime adaptive processing stap constant false alarm rate
+cfar digital terrain model dtm processing also usedclutter environments
+
+radar engineering
+
+radar components
+enlarge
+radar components
+
+radar different components
+transmitter generates radio signal oscillator
+klystron magnetron control durationmodulator
+waveguide link transmitter antenna
+duplexer serf switch antennatransmitter receiver signal antenna used
+situations
+receiver
+electronic section control deviceantenna perform radar scan ordered software
+link end users
+
+antenna design
+
+radio signal broadcast single antenna spreaddirection likewise single antenna receive signal equally
+direction leaf radar problem deciding
+target object located
+
+early system tended use omnidirectional broadcast antennadirectional receiver antenna pointed various directions
+instance first system deployed chain home used two
+straight antenna right angle reception different
+display maximum return would detected antenna right
+angle target minimum antenna pointed directly
+end operator could determine direction target
+rotating antenna one display showed maximumshow minimum
+
+one serious limitation type solution broadcast
+sent direction amount energy direction
+examined small part transmitted get reasonable
+amount power target transmitting aerial alsodirectional
+
+parabolic reflector
+
+modern system used steerable parabolic dish create tight
+broadcast beam typically using dish receiversystem often combined two radar frequency antennaorder allow automatic steering radar lock
+
+type scan
+
+primary scana scanning technique main antenna aerialmoved produce scanning beam example include circular scan
+sector scan etc
+
+secondary scana scanning technique antenna feed moved
+produce scanning beam example include conical scan
+unidirectional sector scan loge switching etc
+
+palmer scana scanning technique produce scanning beammoving main antenna feed palmer scan combinationprimary scan secondary scan
+
+slotted waveguide
+
+applied similarly parabolic reflector slotted waveguidemoved mechanically scan particularly suitablenontracking surface scan system vertical pattern may
+remain constant owing lower cost wind exposure shipboard
+airport surface harbour surveillance radar usepreference parabolic antenna
+
+phased array
+
+another method steering used phased array radar uses
+array similar aerial suitably spaced phase signalindividual aerial controlled signalreinforced desired direction cancel directionindividual aerial one plane signal fedaerial phase others signal reinforcedirection perpendicular plane altering relative phase
+signal fed aerial direction beam moved
+direction constructive interference movephased array radar require physical movement beam scanthousand degree per second fast enough irradiate track
+many individual target still run wideranging search
+periodically simply turning antennabeam spread searching narrowed tracking even split
+two virtual radar however beam cannoteffectively steered small angle plane arrayfull coverage multiple array required typically disposedface triangular pyramid see picture
+
+phased array radar use since earliest year radar
+use world war limitation electronics led fairly
+poor accuracy phased array radar originally used missile
+defense heart shipborne aegis combat systempatriot missile system increasingly used areas
+lack moving part make reliablesometimes permit much larger effective antenna useful fighter
+aircraft application offer confined space mechanical
+scanning
+
+price electronics fallen phased array radar become
+common almost modern military radar systembased phased array small additional cost far offset
+improved reliability system moving parts
+traditional movingantenna design still widely used rolecost significant factor air traffic surveillance weather
+radar similar systems
+
+phased array radar also valued use aircraft sincetrack multiple target first aircraft use phased array radar
+wa mikoyan mig migms sbi zaslon phased array radar
+considered world powerful fighter radar
+
+frequency bands
+
+traditional band name originated codenames world war still military aviation use throughout worldst century adopted united state ieee
+internationally itu country additional
+regulation control part band availablecivilian military use
+
+user radio spectrum broadcastingelectronic countermeasuresecm industry replacedtraditional military designation systems
+
+caption radar frequency bands
+
+band name frequency range wavelength range notes
+hfmhzm coastal radar system overthehorizon oth
+radar high frequency
+pmhzm previous applied retrospectively early
+radar systems
+vhfmhzm long range ground penetrating high
+frequency
+uhfmhzm long range ballistic missile early
+warning ground penetrating foliage penetrating ultra high
+frequency
+lghzcm long range air traffic control surveillance long
+sghzcm terminal air traffic control long range weather
+marine radar short
+cghzcm satellite transponder compromise hence x band weather
+xghzcm missile guidance marine radar weather
+mediumresolution mapping ground surveillance usanarrow rangeghzmhz used airport radar named band
+frequency secret kughzcm highresolution mapping satellite
+altimetry frequency band hence kghzcm german kurz meaning short limited use
+due absorption water vapour ka used instead
+surveillance kband used detecting cloudmeteorologist police detecting speeding motorist kband
+radar gun operate atghz
+kaghzcm mapping short range airport surveillance
+frequency band hence photo radar used trigger
+camera take picture license plate car running red
+light operates atghz
+mmghzmmmm millimetre band subdividedletter designators appear random frequency ranges
+dependent waveguide size multiple letter assignedband different group baytron defunct
+company made test equipment
+qghzmmmm used military communication
+vghzmm strongly absorbed atmosphere
+eghzmm
+wghzmm used visual sensor experimental
+autonomous vehicle highresolution meteorological observationimaging
+
+radar modulators
+
+modulators sometimes called pulsers act provide short
+pulse power magnetron technology known pulsed
+power way transmitted pulse radiation keptdefined usually short duration modulators consist high
+voltage pulse generator formed supply pulse forming
+network line pfn high voltage switch thyratron
+
+klystron tube amplifier modulated low
+power input signal
+
+radar coolant
+
+coolanol pao poly alpha olefin two main coolant usedcool airborne radar equipment
+
+u navy instituted program pollution prevention preduce eliminate volume toxicity waste air emissions
+effluent discharge coolanol used often
+today
+
+pao synthetic lubricant composition blend polyol ester
+admixed effective amount antioxidant yellow metal pacifier
+rust inhibitor polyol ester blend includes major proportion
+polyneopentyl polyol ester blend formed reacting poly
+pentaerythritol partial ester least one c carboxylic
+acid mixed ester formed reacting polyol least
+two hydroxyl group least one carboxylic acid
+preferably acid linear avoid cause odours
+use effective additive include secondary arylamine
+antioxidant triazole derivative yellow metal pacifier amino
+acid derivative substituted primary secondary amine andor
+diamine rust inhibitor
+
+synthetic coolantlubricant composition comprising ester mixture
+
+toweight percent polyneopentyl polyol ester formedreacting polyneopentyl polyol partial ester least one linear
+monocarboxylic acid fromtocarbon atom andto 
+weight percent polyol ester formed reacting polyol 
+tocarbon atom least two hydroxyl group least one
+linear monocarboxylic acid fromtocarbon atom weight
+percent based total weight composition
+
+radar function roles
+
+radar display commonly found ships
+enlarge
+radar display commonly found ships
+
+detection search radars
+
+early warning radar systems
+early warning radar
+ground control intercept gci radar
+airborne early warning aew
+overthehorizon oth radar
+target acquisition radar systems
+surfacetoair missile sam systems
+antiaircraft artillery aaa systems
+surface search radar systems
+surface search radar
+coastal surveillance radar
+harbour surveillance radar
+antisubmarine warfare asw radar
+height finder radar systems
+gap filler radar systems
+
+threat radars
+
+target tracking systems
+aaa systems
+sam systems
+precision approach radar par systems
+multifunction systems
+fire control systems
+acquisition mode
+semiautomatic tracking mode
+manual tracking mode
+airborne intercept radars
+search mode
+ta mode
+tt mode
+target illumination mode
+missile guidance mode
+
+missile guidance systems
+
+airtoair missile aam
+airtosurface missile asm
+sam systems
+surfacetosurface missile ssm systems
+
+battlefield reconnaissance radar
+
+battlefield surveillance systems
+battlefield surveillance radars
+countermortarcounterbattery systems
+shell tracking radars
+air mapping systems
+side looking airborne radar slar
+synthetic aperture radar sar
+
+air traffic control navigation
+
+air traffic control systems
+air traffic control atc radars
+secondary surveillance radar ssr airport surveillance
+radar
+ground control approach gca radars
+par systems
+distance measuring equipment dme
+radio beacons
+identification friend foe iff systems
+iff interrogator
+iff transponder
+altimeter radar systems
+terrainfollowing radar tfr systems
+
+space range instrumentation radar systems
+
+space tracking systems
+range instrumentation systems
+video relaydownlink systems
+spacebased radar
+
+weathersensing radar systems
+
+weather radar
+
+doppler weather radar
+
+wind profilers
+

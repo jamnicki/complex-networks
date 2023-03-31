@@ -1,0 +1,269 @@
+copyright
+
+alan turing
+
+ school wikipedia selection related subject mathematicians
+
+alan mathison turing obejunejunewasenglish mathematician logician cryptographer turing often
+considered father modern computer science
+
+turing provided influential formalisation conceptalgorithm computation turing machine formulatingwidely accepted turing version churchturing thesis namely
+practical computing model either equivalentsubset capability turing machine turing test
+made significant characteristically provocative contribution
+debate regarding artificial intelligence whether ever
+possible say machine conscious thinkworld war turing worked bletchley park britain codebreaking
+centre time head hutthe section responsiblegerman naval cryptanalysis devised number techniquebreaking german cipher including method bombeelectromechanical machine could find setting enigma
+machine
+
+war worked national physical laboratory creating
+one first design storedprogram computer althoughnever actually built inhe moved university manchester
+work largely software manchester mark emergingone world earliest true computers
+
+inturing convicted act gross indecencyadmitting sexual relationship man manchesterplaced probation required undergo hormone therapy
+
+turing died eating apple laced cyanide insixteen
+day short birthday death regardedact suicide
+
+childhood youth
+
+turing conceived inin chatrapur india father julius
+mathison turing member indian civil service juliuswife ethel stoney wanted alan brought englandreturned paddington london alan turing born june
+recorded blue plaque outside building
+colonnade hotel father civil service commissionstill active turing childhood year parent travelled
+guildford england india leaving two son stay
+friend england rather risk health british
+colony early life turing showed sign genius wadisplay prominently later said taughtread three week shown early affinity numbers
+puzzles
+
+parent enrolled michael day school agesix headmistress recognized genius early manysubsequent educator inat age ofhe wentsherborne school dorset first day term coincidedgeneral strike england determined attend first
+day rode bike unaccompanied sixty milesouthampton school stopping overnight inna feat reported
+local press
+
+turing natural inclination toward mathematics scienceearn respect teacher sherborne famous expensive
+public school british private school charitable status whose
+definition education placed emphasis classicheadmaster wrote parent hope fall two
+school stay public school must aim becoming
+educated solely scientific specialist wasting
+time public school
+
+despite turing continued show remarkable abilitystudy loved solving advanced problem inwithout even
+studied elementary calculus inaged sixteen turing encountered
+albert einstein work grasp extrapolated
+einstein questioning newton law motion textwa never made explicit
+computer room king named turing becamestudent inand fellow 
+enlarge
+computer room king named turing becamestudent inand fellow 
+
+turing hope ambition school raised strong
+feeling friend christopher morcom fell love
+though feeling reciprocated morcom suddenly diedweek last term sherborne complicationbovine tuberculosis contracted drinking infected cow milkboy turing heartbroken
+
+university work computability
+
+due unwillingness work hard classical studyscience mathematics turing failed win scholarship trinity
+college cambridge went college second choice
+king college cambridge undergraduate fromto 
+graduating distinguished degree inwas electedfellow king strength dissertation gaussian
+error function
+alan turing step bus member walton
+athletic club 
+enlarge
+alan turing step bus member walton
+athletic club 
+
+momentous paper computable number applicationentscheidungsproblem submitted mayturing
+reformulated kurt gdelsresults limit proofcomputation substituting gdels universal arithmeticsbased formal
+language called turing machine formal simple
+device proved machine would capable performing
+conceivable mathematical problem representablealgorithm even actual turing machine would likelypractical application much slower alternatives
+
+turing machine day central object study theory
+computation went prove solutionentscheidungsproblem first showing halting problemturing machine undecidable possible decide
+algorithmically whether given turing machine ever haltproof published subsequent alonzo church equivalent proof
+respect lambda calculus turing work considerablyaccessible intuitive also novel notionuniversal turing machine idea machine could
+perform task machine paper also introducesnotion definable numbers
+
+ofandhe spent princeton university studyingalonzo church inhe obtained phd princetondissertation introduced notion relative computing turing
+machine augmented socalled oracle allowing studyproblem cannot solved turing machine
+
+back cambridge inhe attended lecture ludwig wittgenstein
+foundation mathematics two argued disagreed
+turing defending formalism wittgenstein arguingmathematics overvalued doe discover absolute truths
+
+cryptanalysis
+
+two cottage stable yard bletchley park turing workedfromuntil moved hut 
+enlarge
+two cottage stable yard bletchley park turing workedfromuntil moved hut 
+
+world war turing major participant effortbletchley park break german cipher building cryptanalysis work
+carried poland prior outbreak war contributed
+several insight breaking enigma machine lorenz
+sza teletype cipher attachment codenamed tunnybritish time head hutthe section responsible
+reading german naval signals
+
+since septemberturing working parttimegovernment code cypher school turing reported bletchley parkseptemberthe day britain declared war germany
+
+turingwelchman bombe
+
+replica bombe machine
+enlarge
+replica bombe machine
+
+within week arriving bletchley park turing devisedelectromechanical machine could help break enigma bombe
+named polishdesigned bomba bombe enhancement
+suggested mathematician gordon welchman became primary tool
+used read enigma traffic
+
+bombe searched correct setting enigma rotorrequired suitablecrib piece matching plaintextciphertext possible setting rotor bombe
+performed chain logical deduction based crib implemented
+electrically bombe detected contradiction occurredruled setting moving onto next possible
+setting would cause contradiction discarded leavinginvestigated detail turing bombe first installedmarchoverbombes operation end war
+
+hutand naval enigma
+
+decemberturing solved naval enigma indicator system
+wa complex indicator system usedservice turing also invented bayesian statistical technique termed
+banburismus assist breaking naval enigma banburismus could
+rule certain order enigma rotor reducing time neededtest setting bombes
+
+spring ofturing proposed marriage hutcoworker joan
+clarke although engagement broken mutual agreementsummer
+
+julyturing devised technique termed turingismusturingery use lorenz cipher frequent misconception
+turing key figure design colossus computer
+wa case
+
+turing travelled united state novemberand liaisedu navy cryptanalyst naval enigma bombe constructionwashington assisted bell lab development secure
+speech device returned bletchley park marchduringabsence hugh alexander assumed position head hut 
+although alexander facto head time turinglittle interest daytoday running section turing became
+general consultant cryptanalysis bletchley park
+
+latter part war teaching electronicstime turing undertook assisted engineer donald bayley design
+portable machine codenamed delilah allow secure voice
+communication intended different application delilah lacked
+capability use longdistance radio transmissioncompleted late used war though turing demonstratedofficial encryptingdecrypting recording winston
+churchill speech delilah adopted use
+
+inturing awarded obe wartime servicework remained secret many year biography publishedroyal society shortly death recorded
+
+three remarkable paper written war three
+diverse mathematical subject show qualilty work
+might produced settled workbig problem critical time workforeign office awarded obe
+
+early computer turing test
+
+turing achieved worldclass marathon standard best time 
+hoursminutesseconds onlyminutes slowerwinner theolympic games
+turing achieved worldclass marathon standard best time 
+hoursminutesseconds onlyminutes slowerwinner theolympic games
+
+fromtohe national physical laboratoryworked design ace automatic computing enginepresented paper februarywhich first complete
+design storedprogram computer britain although succeeded
+designing ace delay starting projectbecame disillusioned latehe returned cambridgesabbatical year cambridge ace completedabsence executed first program mayinhe
+became deputy director computing laboratory universitymanchester worked software one earliest true
+computersthe manchester mark time continuedabstract work incomputing machinery intelligence
+mind octoberturing addressed problem artificial
+intelligence proposed experiment known turing test
+attempt define standard machine called sentient
+
+inturing working former undergraduate colleague champernowne began writing chess program computeryet exist inlacking computer powerful enough executeprogram turing played game simulated computer
+taking half hour per move game recorded program
+lost turing colleague alick glennie although saidgame champernownes wife
+
+pattern formation mathematical biology
+
+turing worked fromuntil death inon mathematical
+biology specifically morphogenesis published one papersubject called chemical basis morphogenesis inhis
+central interest field understanding fibonacci phyllotaxis
+existence fibonacci number plant structure used
+reactiondiffusion equation central fieldpattern formation later paper went unpublished untilwhen
+collected work turing published
+
+prosecution homosexual act turing death
+
+turing homosexual period homosexual actillegal homosexuality regarded mental illness 
+arnold murray yearold recent acquaintance helpedaccomplice break turing house turing went police
+report crime result police investigation turing
+acknowledged sexual relationship murray charged
+gross indecency sectionof criminal law amendment act
+ofturing unrepentant convicted givenchoice imprisonment probation conditionalundergoing hormonal treatment designed reduce libido orderavoid going jail accepted oestrogen hormone injections
+lasted year side effect including developmentbreast conviction led removal security clearanceprevented continuing consultancy gchq cryptographic
+matters
+
+inhe died cyanide poisoning apparently cyanidelaced
+apple left halfeaten apple never testedcontamination cyanide cyanide poisoning cause death
+wa established postmortem believe deathintentional death ruled suicide rumouredmethod selfpoisoning tribute turing beloved film
+snow white seven dwarf mother however strenuously
+argued ingestion accidental due careless storagelaboratory chemical friend said turing maykilled ambiguous way quite deliberately givemother plausible deniability possibility assassinationalso suggested owing turing involvement secret
+service perception turing security risk duehomosexuality
+
+book zero one author sadie plant speculatesrainbow apple logo bite taken homage turing
+unlikely firstly apple original logo depicted isaac
+newton apple tree connection turing waafterthought secondly gilbert baker rainbow pride flag
+gay pride emblem designed two year apple logo making
+unlikely logo meant gay theme book
+iwoz steve wozniak confirms naming apple donesteve job passed apple orchard driving watribute turing
+
+posthumous recognition
+
+sincethe turing award given annually association
+computing machinery person technical contributioncomputing community widely considered computing
+world equivalent nobel prize
+
+various tribute turing made manchester cityworked towards end life ina stretchmanchester city inner ring road named alan turing way
+alan turing memorial statue sackville park
+enlarge
+alan turing memorial statue sackville park
+
+statue turing unveiled manchester juneitsackville park university manchester buildingwhitworth street canal streetgay village celebrationturing life achievement arranged british logic colloquium
+british society history mathematics heldonjuneat university manchester alan turing
+institute initiated university summer
+
+onjuneon would turing birthday andrew
+hodges biographer unveiled official english heritage blue
+plaque childhood home warrington crescent londoncolonnade hotel mark anniversary death memorial
+plaque unveiled former residence hollymeade wilmslowjune
+plaque marking turing home
+enlarge
+plaque marking turing home
+
+achievement computing various university honoured
+octobera bronze statue alan turing sculptedjohn mill unveiled university surreythe statue
+mark anniversary turing death portrays turing
+carrying book across campus polytechnic universitypuerto rico los andes university bogot colombiacomputer laboratory named turing university texasaustin honour computer science program named turing
+scholar istanbul bilgi university organizes annual conferencetheory computation called turing day carnegie mellon
+university granite bench situated hornbostel mallname alan turing carved across top read left leg
+write
+boston glbt pride organization named turing theirhonorary
+grand marshal
+
+turing biographies
+
+turing mother sara turing survived many year wrote
+biography son glorifying life
+andrew hodges wrote definitive biography alan turing enigma
+insee referenceplay breaking code hugh whitemore lifedeath turing original west end broadway runrole turing played derek jacobi also played turing
+atelevision adaptation play
+turing examined madman dream turing machine janna
+levin
+leavitt davidthe man knew much alan turinginvention computer new york w norton isbn
+
+
+codebreaker jim holt reviewed new yorkerhttpwwwnewyorkercomcriticsbookscrbobooks
+
+turing fiction
+
+physicist janna levins novel madman dream turing machines
+focus life alan turing kurt gdel
+turing appears character neal stephenson cryptonomicon
+young alan turing introduces title character gdels first
+incompleteness theorem apostolos doxiadiss novel uncle petros
+goldbachs conjecture
+thedoctor serial curse fenric characterdr judson based turing turing narratordoctor spinoff novel turing test paul leonard
+greg egans novella oracle alternate universe version
+turing
+john banvilles untouchable character alastair sykesmodeled alan turing
+william gibson seminal science fiction novel neuromancer
+sinister body tasked regulation suppressionartificial intelligence called turing police
+

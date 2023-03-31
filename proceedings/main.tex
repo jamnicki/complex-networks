@@ -1,0 +1,145 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{polski}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{url}
+\usepackage{dirtytalk}
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\usepackage{geometry}
+\newgeometry{tmargin=4cm, bmargin=4cm, lmargin=3.2cm, rmargin=3.2cm} 
+
+
+\begin{document}
+
+
+\input{title-page}
+
+\begin{abstract}
+Celem badań jest analiza słownictwa użytego w artykułach z wielojęzycznej encyklopedii internetowej - \textit{Wikipedia} w oparciu o zbiór 4,604 artykułów spośród 15 kategorii.
+\end{abstract}
+
+\section{Wstęp}
+
+Dane zostały pobrane z \url{https://snap.stanford.edu/data/wikispeedia.html} w formie plików w formacie \textit{txt} wraz z przypisanymi im kategoriami takimi jak matematyka, sztuka czy historia.
+
+Artykuły w \say{surowej} formie nie mogą zostać poddane analizie. Muszą zostać poddane wstępnemu przetwarzaniu czyli swojego rodzaju oczyszczenia tekstu z m.in. takich szumów jak znaki specjalne (czasami są pożądane) Następnym etapem jest wyznaczenie unikalnego zbioru słów w formie podstawowej (hasłowej) zwanych dalej \textit{tokenami} oraz określenie ich część mowy dla każdej z danych kategorii.
+
+Do przetwarzania zbioru danych użyto języka programowania \texttt{Python}, wizualizacje przedstawiono przy
+użyciu biblioteki \texttt{altair}.
+
+\section{Analiza}
+
+Artykuły poddano wstępnemu przetwarzaniu, kolejno:
+\begin{itemize}
+    \item usunięto znaki specjalne oraz cyfry
+    \item usunięto zduplikowane białe znaki
+    \item usunięto słowa o długości mniejszej niż 3 znaki
+    \item usunięto słowa wchodzące w skład tzw. stop listy
+    \item sprowadzono litery do jednolitego formatu (małych liter)
+    \item sprowadzono słowa do formy podstawowej (lematyzacja)
+\end{itemize}
+
+Do wyeliminowania niechcianych znaków w tekście użyto wyrażeń regularnych.
+Do lematyzacji oraz usunięcia słów ze stop listy wykorzystano bibliotekę \texttt{nltk} (korpus WordNet)
+\vspace{0.5cm}
+
+Zliczono wystąpienia tokenów dla każdej kategorii. Z wykorzystaniem metody \texttt{nltk.pos\_tag} określono
+część mowy (\textit{Part-of-Speech}) dla każdego z nich. Na podstawie ilości wystąpień oraz sumarycznej ilości unikalnych tokenów we wszystkich artykułach dla poszczególnej kategorii wyznaczono częstotliwości występowania.
+
+\newpage
+Otrzymane wartości zapisano do ramki danych biblioteki \texttt{Pandas} prezentującej się następująco:
+
+\input{tokens-df.tex}
+
+Związek tokenów z kategoriami przedstawiono również w postaci grafu dwudzielnego,
+w którym zbiór górnych wierzchołków stanowią tokeny a dolnych - kategorie.
+
+\begin{figure}[H]
+    \begin{center}
+        \makebox[0pt]{\includegraphics[width=17cm]{bipartite_graph.png}}
+        \caption{Graf dwudzielny reprezentujący zbiór danych.}
+        \label{fig:bipartite_graph}
+    \end{center}
+\end{figure}
+
+\input{categories-df.tex}
+
+\begin{figure}[H]
+    \begin{center}
+        \makebox[0pt]{\includegraphics[width=12cm]{charts/tok_per_cat.png}}
+        \caption{Ilość unikalnych tokenów dla każdej z kategorii.}
+        \label{fig:tok_per_cat}
+    \end{center}
+\end{figure}
+
+\begin{figure}[H]
+    \begin{center}
+        \makebox[0pt]{\includegraphics[width=12cm]{charts/files_per_cat.png}}
+        \caption{Ilość artykułów dla każdej z kategorii.}
+        \label{fig:files_per_cat}
+    \end{center}
+\end{figure}
+
+Tab. \ref{tab:categories_table} oraz rys. \ref{fig:tok_per_cat}, \ref{fig:files_per_cat} pokazują,
+że każda z kategorii reprezentuje nieproporcjonalną część zbioru danych, co nie napawa optymizmem
+przed kolejnymi analizami.
+
+Na podstawie wartości z tab. \ref{tab:tokens_table} wyznaczono procentowy udział części mowy
+dla każdej kategorii.
+
+\input{pos-df.tex}
+
+Diagramy kołowe stworzone dla każdej kategorii pokazały, że nie odbiegają od siebie nawzajem pod względem
+procentowego udziału części mowy w artykułach. Diagramy dla dwóch kategorii przedstawiono poniżej:
+
+\begin{figure}[H]
+    \centering
+    \begin{subfigure}{.38\textwidth}
+        \centering
+        \makebox[0pt]{\includegraphics[width=9cm]{charts/math_pos.png}}
+        \caption{Matematyka}
+        \label{fig:math_pos}
+    \end{subfigure}%
+    \begin{subfigure}{.6\textwidth}
+        \centering
+        \makebox[0pt]{\includegraphics[width=9cm]{charts/art_pos.png}}
+        \caption{Sztuka}
+        \label{fig:art_pos}
+    \end{subfigure}
+    \caption{Procentowy udział części mowy dla kategorii.}
+    \label{fig:duo_cat_pos}
+\end{figure}
+
+Na zakończenie zbadano ilość wspólnych tokenów między kategoriami. W tym celu stworzono macierz, w której
+każdy element odpowiada procentowej wartości tokenów wspólnych. Do wizualizacji wykorzystano diagram korelacji przedstawiony na rys. \ref{fig:common_tokens} poniżej.
+
+\begin{figure}[H]
+    \centering
+    \makebox[0pt]{\includegraphics[width=10cm]{charts/tok_cat_corr.png}}
+    \caption{Procentowa wartość wspólnych tokenów między kategoriami.}
+    \label{fig:common_tokens}
+\end{figure}
+
+\section{Wnioski}
+
+Tab. \ref{tab:categories_pos_ratio} oraz rys. \ref{fig:math_pos}, \ref{fig:art_pos} jasno pokazują, że części mowy są ściśle między sobą powiązane i nie odbiegają procentowym udziałem w artykułach
+między kategoriami. 
+
+\paragraph{}
+Na rys. \ref{fig:common_tokens} zauważono silną korelację między kategoriami:
+\begin{itemize}
+    \item Geografia - Kraje (aż ~86.62\%)
+    \item Ludzie - Historia (aż ~39.41\%)
+    \item IT -- Sztuka (jedynie ~28.36\%)
+    \item Matematyka - Sztuka (jedynie ~19.90\%)
+\end{itemize}
+
+Części wspólne lub przeciwstawne wydają się być logiczne. Ponadto Historia wykazuję się wysoką średnią wartością wspólnych tokenów między wszystkimi innymi kategoriami, bo aż ~38.31\%. W końcu historia to
+\say{wszystko w przeszłości}\ldots
+
+\end{document}

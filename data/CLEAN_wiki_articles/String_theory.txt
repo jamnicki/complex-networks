@@ -1,0 +1,482 @@
+copyright
+
+string theory
+
+ school wikipedia selection related subject general physics
+
+interaction subatomic world world line pointlike particles
+standard model world sheet swept closed stringstring theory
+enlarge
+interaction subatomic world world line pointlike particles
+standard model world sheet swept closed stringstring theory
+
+string theory model fundamental physic whose building blocks
+onedimensional extended objectsstrings ratherzerodimensional pointsparticles basis standard
+model particle physic string theorist attempting adjust
+standard model removing assumption quantum mechanicparticle pointlike removing assumption replacingpointlike particle string hoped string theorydevelop sensible quantum theory gravity moreover string
+theory appears able unify known natural forces
+gravitational electromagnetic weak strong describingset equations
+
+experimental verification falsification theory yet
+possible thus leading many expert turn alternate
+model loop quantum gravity however constructionlarge hadron collider near geneva switzerland scientist may produce
+relevant data
+
+study string theory revealed predictsstring also higherdimensional objectsbranes string theory
+strongly suggests existence ten eleven mtheory
+spacetime dimension opposed relativistic four three
+spatial one time
+
+overview
+
+basic idea behind string theory fundamental
+constituent reality string extremely small scale possibly
+planck length aboutm vibrate specific resonant
+frequency thus particle thought tiny
+vibrating object rather point object vibratedifferent mode guitar string produce different notes
+every mode appearing different particle electron photon
+etc string split combine would appear particles
+emitting absorbing particle presumably giving riseknown interaction particles
+
+addition string string theory also include object higher
+dimension dbranes nsbranes furthermore string
+theory predict existence degree freedom usually
+described extra dimension string theory thought includeordimensions depending specific theorypoint view
+
+interest string theory driven largely hopeprove consistent theory quantum gravity even theoryeverything also naturally describe interaction similarelectromagnetism force nature superstring theories
+include fermion building block matter incorporate
+supersymmetry conjectured unobserved symmetry natureyet known whether string theory able describe universe
+precise collection force particle observed
+much freedom theory allows choose details
+
+string theory whole yet made falsifiable predictionwould allow experimentally tested though various planned
+observation experiment could confirm essential aspecttheory supersymmetry extra dimension addition
+full theory yet understood example theory doeyet satisfactory definition outside perturbation theoryquantum mechanic branes higher dimensional object strings
+understood behaviour string theory cosmological
+setting timedependent background still workedfinally principle string theory selects vacuum state
+hotly contested topic see string theory landscape
+
+string theory thought certain limit anotherprofound theorymtheorywhich partly definedwell understood
+
+key consequence theory obvious operational
+way probe distance shorter string length
+
+history
+
+string theory
+bosonic string theory
+superstring theory
+type string
+type string
+heterotic string
+mtheorysimplified
+string field theory
+strings
+branes
+
+related topics
+quantum field theory
+gauge theory
+conformal field theory
+topological field theory
+supersymmetry
+supergravity
+general relativity
+quantum gravity
+
+see also
+string theory topics
+
+string theory originally invented explored late
+early explain peculiarity behaviour
+hadronssubatomic particle proton neutronexperience strong nuclear force particular yoichiro nambu
+later lenny susskind holger nielsen realized inthatdual resonance model strong interaction could explainedquantum mechanical model string approach abandonedalternative theory quantum chromodynamics gained experimental
+support
+
+mid discovered mathematical
+formalism used describe theory quantum gravity led
+development bosonic string theory still version
+first taught many students
+
+betweenandphysicists realized string theory could
+describe elementary particle interactionhundred started work string theorypromising idea unify theory physic known first
+superstring revolution
+
+edward witten others found strong evidencedifferent superstring theory different limit new
+dimensional theory called mtheory discovery sparkedsecond superstring revolution
+
+mid joseph polchinski discovered theory requires
+inclusion higherdimensional object called dbranesadded additional rich mathematical structure theoryopened many possibility constructing realistic cosmological
+model theory
+
+injuan maldacena conjectured relationship string theory
+gauge theory called supersymmetric yangmills theoryconjecture called adscft correspondence generated great
+deal interest field well acceptedconcrete realization holographic principlefarreaching implication black hole locality informationphysic well nature gravitational interaction
+relationship string theory may related future
+quantum chromodynamics lead eventually better
+understanding behaviour hadron thus returningoriginal goal
+
+recently discovery string theory landscape suggests
+string theory exponentially large number different
+vacuum led discussion string theory might eventuallyexpected predict worry answer might continuenothing
+
+basic properties
+
+string theory formulated term action principle eithernambugoto action polyakov action describes strings
+move space time like spring string want contract
+minimize potential energy conservation energy prevents
+disappearing instead oscillate applyingidea quantum mechanic string possible deducedifferent vibrational mode string vibrational state
+appears different particle mass particlefashion interact determined waystring vibratesthe string vibrate many different modelike guitar string produce different note different modes
+corresponding different kind particle make 
+spectrum theory string split combine would
+appear particle emitting absorbing particle presumably
+giving rise known interaction particles
+
+string theory includes open string two distinct
+endpoint closed string endpoint joined makecomplete loop two type string behave slightly different
+way yielding two different spectrum example string
+theory one closed string mode graviton oneopen string mode photon two end open
+string always meet connect forming closed stringstring theory without closed strings
+
+earliest string modelthe bosonic string incorporatedboson describesin low enough energiesa quantum gravity theory
+also includes open string incorporated well gauge
+field photon generally yangmills theory
+however model problem importantly theory hafundamental instability believed result decay least
+partially spacetime additionally name impliesspectrum particle contains boson particle likephoton obey particular rule behaviour roughly speaking bosons
+constituent radiation matter madefermion investigating string theory may include fermionspectrum led invention supersymmetry mathematical relation
+boson fermion string theory include fermionic
+vibration known superstring theory several different
+kind described thought different
+limit one theory mtheory
+
+understanding detail string superstring theories
+requires considerable mathematical sophistication qualitative
+property quantum string understood fairly intuitive
+fashion example quantum string tension much like regular
+string made twine tension considered fundamental
+parameter theory tension quantum string closely
+related size consider closed loop string left move
+space without external force tension tendcontract smaller smaller loop classical intuition
+suggests might shrink single point would violate
+heisenberg uncertainty principle characteristic sizestring loop balance tension force acting make
+small uncertainty effect keep stretched
+consequently minimum size string related string
+tension
+
+worldsheet
+
+imagine pointlike particle draw graph depictsprogress particle time pass particle drawline spacetime line called particle worldlineimagine similar graph depicting progress string time
+pass string onedimensional objecta small lineby
+draw surface twodimensional manifold knownworldsheet different string mode representing different
+particle photon graviton surface wavemanifold
+
+closed string look like small loop worldsheet look
+like pipe ormore generallyas riemannian surfacetwodimensional oriented manifold boundary edge
+open string look like short line worldsheet look
+like strip ormore generallyas riemann surfaceboundary
+
+string split connect reflected formworldsheet accurately topology example closed
+string split worldsheet look like single pipe splitting
+connected two pipe often referred pair pantssee
+drawing top page closed string split two
+part later reconnect worldsheet look like single pipe
+splitting two reconnecting also look like torus
+connected two pipe one representing ingoing stringotherthe outgoing one open string thingworldsheet looking like ring connected two strips
+
+note process string splitting string connectingglobal process worldsheet local one locallyworldsheet look everywhere possibledetermine single point worldsheet splitting occurs
+therefore process integral part theorydescribed dynamic control string modes
+
+string theory namely closed string type stringversion bosonic string string split reconnectopposite orientation mbius strip klein bottletheory called unoriented formally worldsheettheory nonorientable surface
+
+dualities
+
+duality revolution believed five distinct
+version string theory plus unstable bosonic gluonic
+theories
+string theories
+type spacetime dimensions
+details
+bosoniconly boson fermion mean force matteropen closed string major flaw particle imaginary
+mass called tachyon representing instability theory
+isupersymmetry force matter open closed
+string tachyon group symmetryiiasupersymmetry force matter closed stringopen string bound dbranes tachyon massless fermion spinway nonchiral
+iibsupersymmetry force matter closed stringopen string bound dbranes tachyon massless fermion spin
+one way chiral
+hosupersymmetry force matter closed strings
+tachyon heterotic meaning right moving left moving
+string differ group symmetryhesupersymmetry force matter closed strings
+tachyon heterotic meaning right moving left moving
+string differ group symmetry 
+note type iia type iib string theory closed strings
+allowed move everywhere throughout tendimensional
+spacetime called bulk open string ends
+attached dbranes membrane lower dimensionality
+dimension oddorin type iia even
+orin type iib including time direction
+
+string theorist believed five distinct
+superstring theory type type iia iib two heterotic
+string theoriesso thinking wafive candidate theory one actual correct theory
+everything theory theory whose low energy limit
+ten dimension spacetime compactified four matchedphysic observed world today known picture
+wa naive five superstring theory connected one
+another special case fundamental
+theory theory related transformation called
+duality two theory related duality transformationmean first theory transformed wayend looking like second theory two theorysaid dual one another kind transformation put
+differently two theory two mathematically different
+description phenomena
+
+duality link quantity also thought separate
+large small distance scale strong weak coupling strength 
+quantity always marked distinct limit behaviour
+physical system classical field theory quantum
+particle physic string obscure difference large
+small strong weak five different
+theory end related
+
+tduality
+
+suppose ten spacetime dimension mean nine
+space dimension one time take one nine space dimensions
+make circle radius traveling direction
+distance take around circle brings back
+started particle traveling around circlequantized momentum around circle momentum linked
+wavelength see waveparticle duality mustmultiple fact particle momentum around circle 
+contribution energyis form standard
+unit integer large manystate compared small given maximum energy stringaddition traveling around circle may also wrap aroundnumber time string wind around circle calledwinding number also quantized must integer
+winding around circle requires energy string muststretched tension contributes amount energyform wrlstwhere lst constant called string
+length winding number integer given
+maximum energy many different state different
+momentum large also many different statedifferent winding small fact theory large rtheory small equivalent role momentumfirst played winding second vice versa
+mathematically taking lstr switching w yield
+equation exchanging momentum winding modestring exchange large distance scale small distance scale
+
+type duality called tduality tduality relates type iia
+superstring theory type iib superstring theory meantake type iia type iib theory compactify circle
+one large radius small radiusswitching momentum winding mode switching distance
+scale change one theory also truetwo heterotic theory tduality also relates type superstring
+theory type iia type iib superstring theory certain
+boundary condition termed orientifold
+
+formally location string circle described two
+field living one leftmoving anotherrightmoving movement string centre hencemomentum related sum field string stretch
+hence winding number related difference
+tduality formally described taking leftmoving fieldminus sum difference interchanged
+leading switching momentum winding
+
+sduality
+
+every force coupling constant measurestrength determines chance one particle emit absorb
+another particle electromagnetism coupling constantproportional square electric charge physicists
+study quantum behaviour electromagnetism cant solvewhole theory exactly every particle may emit absorb many
+particle may also endlessly eventemission absorption considered perturbation dealt
+series approximation first assuming one
+event correcting result allowing two events
+etc method called perturbation theory reasonable
+approximation coupling constant small case
+electromagnetism coupling constant get largemethod calculation break little piece become
+worthless approximation real physics
+
+also happen string theory string theory coupling
+constant unlike particle theory string coupling constant
+number depends one oscillation modestring called dilaton exchanging dilaton field minus
+exchange large coupling constant small one
+symmetry called sduality two string theory related
+sduality one theory strong coupling constanttheory weak coupling constant theorystrong coupling cannot understood mean perturbation theory
+theory weak coupling two theoryrelated sduality need understand weak theory
+equivalent understanding strong theory
+
+superstring theory related sduality type superstring
+theory heterotic superstring theory type iib theory
+
+furthermore type iia theory strong coupling behaves likedimensional theory dilaton field playing roleeleventh dimension dimensional theory known mtheory
+
+unlike tduality however sduality proven evenphysic level rigor aforementioned case remains
+strictly speaking conjecture although string theorist believe
+validity
+
+extra dimensions
+
+one intriguing feature string theory predictspossible number dimension universe nothing maxwells
+theory electromagnetism einstein theory relativity makes
+kind prediction theory require physicist insert
+number dimension hand first person add fifth
+dimension einstein general relativity german mathematician
+theodor kaluza inthe reason unobservability fifth
+dimension compactness suggested swedish physicist
+oskar klein insee kaluzaklein theory
+
+unlike general relativity string theory allows one computenumber spacetime dimension first principle technicallyhappens different number dimension theory hagauge anomaly understood noting consistent
+theory includes photon technically particle carryingforce related unbroken gauge symmetry must masslessmass photon predicted string theory dependsenergy string mode represents photon energy
+includes contribution casimir effect namely quantum
+fluctuation string size contribution dependsnumber dimension since larger number dimensionpossible fluctuation string position thereforephoton masslessand theory consistentonlyparticular number dimensions
+
+calculation done universe dimensionality four
+one may expect three space one time bosonic string
+theory dimensional superstring mtheories turninvolveordimensions bosonic string theory 
+dimension come polyakov equation however results
+appear contradict observed four dimensional spacetime
+
+two different way proposed resolve apparent
+contradiction first compactify extra dimension theorextra dimension small undetectablephenomenal experience order retain supersymmetric properties
+string theory space must special dimensional
+model resolution achieved calabiyau space indimensions
+termed manifold extra dimension compactified
+causing loop back upon
+standard analogy consider multidimensional spacegarden hose hose viewed sufficient distanceappears one dimension length indeed think ball
+small enough enter hose throwing ball insidehose ball would move one dimensionexperiment make throwing ball hoseimportant movement onedimensional along hose
+however one approach hose one discovers containssecond dimension circumference thus ant crawling insidewould move two dimension fly flying would movethree dimension extra dimension visible withinrelatively close range hose one throw small enough
+object similarly extra compact dimension visibleextremely small distance experimenting particleextremely small wave length order compact dimensions
+radius quantum mechanic mean high energy see
+waveparticle duality
+
+another possibility stuck adimensional three spatial dimension plus time dimension subspace full
+universe subspace supposed dbrane henceknown braneworld theory many people believe combination
+two ideascompactification braneswill ultimately yield
+realistic theory
+
+either case gravity acting hidden dimension affectnongravitational force electromagnetism fact kaluzaklein early work demonstrated general relativity five large
+dimension one small dimension actually predicts existenceelectromagnetism however nature calabiyau
+manifold new force appear small dimensionshape profound effect force strings
+appear four dimensional universe principle thereforepossible deduce nature extra dimension requiring
+consistency standard model yet practical
+possibility also possible extract information regardinghidden dimension precision test gravity farput upper limitation size hidden dimensions
+
+dbranes
+
+another key feature string theory existence dbranes
+membrane different dimensionality anywhere zero
+dimensional membranewhich fact pointand including
+dimensional membrane dimensional volume
+dbranes defined fact worldsheet boundaryattached thus dbranes emit absorb closed strings
+therefore mass since emit graviton andin
+superstring theoriescharge well since emit closed strings
+gauge bosons
+
+point view open string dbranes objectend open string attached open string attacheddbrane said live give rise gauge theories
+living since one open string mode gauge boson
+photon case one dbrane one type
+gauge boson abelian gauge theorygauge boson photon multiple parallel dbranes
+multiple type gauge boson giving risenonabelian gauge theory
+
+thus dbranes gravitational source gauge theory
+life gauge theory coupled gravity saidexist bulk normally two different
+viewpoint incomplete
+
+gaugegravity duality
+
+certain case gauge theory dbranes decoupledgravity living bulk thus open string attached dbranes
+interacting closed string situation termeddecoupling limit
+
+case dbranes two independent alternative
+description discussed point view closed
+string dbranes gravitational source thusgravitational theory spacetime background fieldpoint view open string physic dbranes described
+appropriate gauge theory therefore case often
+conjectured gravitational theory spacetimeappropriate background field dual physically equivalentgauge theory boundary spacetime since subspace
+filled dbranes boundary spacetime farduality proven case also disagreement
+among string theorist regarding strong duality appliesvarious models
+
+known example first one studied duality
+type iib supergravity product spacefivedimensional anti sitter space fivesphere one hand
+n supersymmetric yangmills theory fourdimensional
+boundary anti sitter space either flat fourdimensional
+spacetime threesphere time knownadscft correspondence name often used gaugegravity
+duality general
+
+duality thought follows suppose spacetime
+gravitational source example extremal black holeparticle far away source described closed
+string gravitational theory usually supergravityparticle approach gravitational source stilldescribed closed string alternatively describedobject similar qcd string made gauge boson 
+gluon gauge theory degree freedom one able
+decoupling limit describe gravitational system two
+separate regionsone bulk far away sourceclose sourcethen latter region alsodescribed gauge theory dbranes latter region closesource termed nearhorizon limit since usuallyevent horizon around gravitational source
+
+gravitational theory one direction spacetimeradial direction going gravitational source away towards
+bulk gauge theory life dbranedoe include radial direction life spacetime one
+le dimension compared gravitational theory fact lives
+spacetime identical boundary nearhorizon
+gravitational theory let understand two theory still
+equivalent
+
+physic nearhorizon gravitational theory involvesonshell state usual string theory field theory
+includes also offshell correlation function onshell statenearhorizon gravitational theory thought describing
+particle arriving bulk nearhorizon regioninteracting gauge theoryprojected onto boundary particle arrivesource different direction seen gauge theory 
+offshell quantum fluctuation far apartparticle arriving source almost directionspace seen gauge theory asoffshell quantum
+fluctuation close thus angle arriving
+particle gravitational theory translates distance scale
+quantum fluctuation gauge theory anglearriving particle gravitational theory related radial
+distance gravitational source particle interact
+larger angle closer particle get source
+order interact hand scaledistance quantum fluctuation quantum field theoryrelated inversely energy scale theory small radius
+gravitational theory translates low energy scale gauge
+theory ir regime field theory large radiusgravitational theory translates high energy scale gauge
+theory uv regime field theory
+
+simple example principle gravitational
+theory setup dilaton field determines
+strength coupling decreasing radiusdual field theory asymptotically free couplinggrow weaker high energies
+unsolved problem physic string theory superstring theorymtheory variant theme step roadtheory everything blind alley
+
+problem controversy
+
+string theory remains confirmed version string theoryyet made experimentally verified prediction differsmade theory sense string theory stilllarval stage proper physical theory posse many
+feature mathematical interest may yet become importantunderstanding universe requires developments
+accepted discarded since string theory maytested foreseeable future scientist asked even
+deserves called scientific theory falsifiablesense popper
+
+example supersymmetry seen vital ingredientstring theory supersymmetric model obvious connectionstring theory also studied therefore supersymmetrydetected large hadron collider would seen direct
+confirmation theory importantly supersymmetrydetected vacuum string theory supersymmetry would
+seen much higher energy absence would falsify
+string theory contrast observing sun solar eclipse
+shown sun gravity deflected light predicted
+amount einstein general relativity theory would proven
+wrong
+
+one hope testing string theory better understandingstring theory deal singularity timedependent
+background would allow physicist understand predictionstring theory big bang see cosmic inflationincorporated theory led deep theoretical
+progress early model string cosmology brane
+inflation transplanckian effect string gas cosmologyekpyrotic universe fundamental progress must madeunderstood distinctive prediction theory makecosmology recent popular suggestion brane inflation may
+produce cosmic string could observedgravitational radiation lensing distant galaxy cosmic
+microwave background
+
+mathematical level another problem like many
+quantum field theory much string theory still formulated
+perturbatively series approximation ratherexact solution although nonperturbative technique progressed
+considerablyincluding conjectured complete definitionspacetimes satisfying certain asymptoticsa full nonperturbative
+definition theory still lacking
+
+philosophically string theory cannot truly fundamentalpresent formulation backgrounddependent string
+theory built fixed spacetime background since dynamic
+spacetime central tenet general relativity hopemtheory turn backgroundindependent givingsolution many different version string theory one
+yet know fundamental theory constructed related
+problem best understood background string theory
+preserve much supersymmetry underlying theory thus
+timeinvariant string theory cannot yet deal welltimedependent cosmological backgrounds
+
+another problem vacuum structure theory calledstring theory landscape well understood string theorypresently understood appears contain large number distinct
+vacuum perhapsor corresponds different
+universe different collection particle forceprinciple used select among vacuum open
+issue known continuous parameter theory
+large discretuum coined contradistinctioncontinuum possible universe may radically differentphysicist believe benefit theorymay allow natural anthropic explanation observed valuephysical constant particular small value cosmological
+constant however explanation usually regardedscientific popperian sense
+
+popular culture
+
+book elegant universe brian greene professor physics
+columbia university adapted threehour documentary
+nova also shown british television also showndiscovery channel indian television well australiasbs
+string theory also series book based star trek
+voyager universe
+tv series angel character winifred burkle aka fred
+put forward theory string theoryalternate dimensionphysic institute following experience trapped
+one delicate alternate dimension five yearepisode referenced supersymmetry
+another theory named string theory used science fiction
+television series quantum leap series relatestheory time travel related accepted string
+theory view person life string move one
+end however possible rollstring ball would possible leap one sectionanother main character showstring theory calabiyau model mentionedreference teleportation popular video game halflife 
+episode criminal mind schizophrenic hostage taker
+named ted bryar completed phd string theoryepisode master horror directed stuart gordonyoung grad student miskatonic university studies
+interdimensional string theory rundown apartment basedshort story dream witchhouse lovecraft
+popular cbs drama numbrs one supporting
+character physicist professor larry fleinhardtpeter
+macnicol actively research string theory calsci basedcaltech
+

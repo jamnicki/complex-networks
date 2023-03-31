@@ -1,0 +1,126 @@
+copyright
+
+radio frequency
+
+ school wikipedia selection related subject general physics
+
+rough plot earth atmospheric transmittance opacity various
+wavelength electromagnetic radiation including radio waves
+enlarge
+rough plot earth atmospheric transmittance opacity various
+wavelength electromagnetic radiation including radio waves
+
+radio frequency refers portion electromagnetic
+spectrum electromagnetic wave generated alternating
+current fed antenna frequency belonging
+wavelength account following part spectrum showntable
+radio frequency spectrum
+
+band name abbr itu band frequency
+wavelength example uses
+hz
+km
+extremely low frequency elfhz
+kmkm communication submarines
+super low frequency slfhz
+kmkm communication submarines
+ultra low frequency ulfhz
+kmkm communication within mines
+low frequency vlfkhz
+kmkm submarine communication avalanche beacon wireless
+heart rate monitor geophysics
+low frequency lfkhz
+kmkm navigation time signal longwave broadcasting
+medium frequency mfkhz
+kmm mediumwave broadcasts
+high frequency hfmhz
+mm shortwave broadcast amateur radio overthehorizon
+aviation communications
+high frequency vhfmhz
+mm television broadcast lineofsight
+groundtoaircraft aircrafttoaircraft communications
+ultra high frequency uhfmhz
+mmm television broadcast mobile phone wireless lan
+bluetooth twoway radio gmrs radios
+super high frequency shfghz
+mmmm microwave device wireless lan modern radars
+extremely high frequency ehfghz
+mmmm radio astronomy highspeed microwave radio relay
+aboveghz
+mm
+
+notes
+aboveghz absorption electromagnetic radiationearth atmosphere great atmosphere effectively
+opaque higher frequency electromagnetic radiationatmosphere becomes transparent socalled infrared
+optical window frequency ranges
+elf slf ulf vlf band overlap afaudio frequency
+spectrum approximatelyhz however soundtransmitted atmospheric compression expansionelectromagnetic energy
+shf ehf band often considered partradio spectrum form microwave spectrum
+another note merit object radio
+frequency matter minute
+
+named frequency bands
+
+general
+
+broadcast frequencies
+longwave radiokhzkhz mediumwave radiokhzkhz tv band channelsmhzmhz vhf
+fm radio band iimhzmhz vhf
+tv band iii channelsmhzmhz vhf
+tv band ivv channelsmhzmhz uhf
+
+information see ntia frequency allocation chart
+httpwwwntiadocgovosmhomeallochrthtml
+
+amateur radio frequencies
+
+range allowed frequency vary countrycommon band often collectively termed shortwavearticle amateur radio another list
+bandfrequency range
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+mtomhz
+cmtomhz
+cmtomhz
+
+ieee 
+band frequency range origin name
+hf bandtomhz high frequency
+vhf bandtomhz high frequency
+uhf bandtomhz ultra high frequency
+
+frequency fromtomhz sometimes called pband previous
+since early british radar used band later switched higher
+frequencies
+l bandtoghz long wave
+bandtoghz short wave
+c bandtoghz compromise x bandtoghz used ii fire control crosscrosshair
+ku bandtoghz kurzunder
+k bandtoghz german kurz short
+ka bandtoghz kurzabove
+v bandtoghz
+w bandtoghz follows alphabet
+
+eu nato ecm frequency designations
+
+bandfrequency range
+bandtoghz
+b bandtoghz
+c bandtoghz
+bandtoghz
+e bandtoghz
+f bandtoghz
+g bandtoghz
+h bandtoghz
+bandtoghz
+j bandtoghz
+k bandtoghz
+l bandtoghz
+bandtoghz

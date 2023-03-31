@@ -1,0 +1,649 @@
+copyright
+
+perl
+
+ school wikipedia selection related subject computer programming
+
+caption perl
+
+imageprogrammingrepublicofperlgif
+paradigmmultiparadigm
+appeareddesigned bylarry wall
+latest releasejanuary
+typing discipline dynamic
+influenced byawk basicplus c lisp pascal sed unix shell
+influencedpython php ruby
+oscrossplatform
+licensegnu general public license artistic license
+websitehttpwwwperlorg
+
+perl dynamic programming language designed larry wall first
+released inperl borrows feature varietylanguage including shell scriptingsh awk sed lisp
+
+structurally perl based bracedelimited block style awk
+c widely adopted strength string processing
+lack arbitrary limitation many scripting languagetime
+
+history
+
+wall began work perl inwhile working programmerunisys released versionto compsourcesmisc newsgroupdecemberthe language expanded rapidly nextyear perlreleased infeatured better regular expression
+engine perlreleased inadded support binary data
+
+untilthe documentation perl single increasingly
+lengthy man page inprogramming perl camel bookpublished became facto reference languagetime perl version number bumped tonot mark major
+change language identify version documented
+book
+
+perlwent series maintenance release culminatingperlinat point larry wall abandoned perlto begin
+work perlperlremains versionto day
+
+development perlcontinued intothe perlporters mailing
+list established mayto coordinate work porting perl 
+different platform remains primary forum development
+maintenance porting perl 
+
+perlwas released octoberit nearly complete
+rewrite interpreter added many new featurelanguage including object reference package modules
+importantly module provided mechanism extending language
+without modifying interpreter allowed core interpreterstabilize even enabled ordinary perl programmer add new
+language features
+
+octoberthe comprehensive perl archive network cpanestablished cpan collection web site archivedistribute perl source binary distribution documentation scripts
+modules
+
+ofperlis still actively maintained important
+feature essential new language construct added
+along way including unicode support thread improved support
+object oriented programming many enhancement latest
+stable release perl 
+
+name
+
+perl originally named pearl parable pearl
+larry wall wanted give language short name positive
+connotation claim looked rejected every three
+fourletter word dictionary also considered namingwife gloria wall discovered existing pearl programming
+language perls official release changed spellingname
+
+name normally capitalized perl referring language
+uncapitalized perl referring interpreter program
+since unixlike file system case sensitiverelease first edition programming perl common refer
+language perl randal schwartz however capitalisedlanguage name book make stand better typeset
+case distinction subsequently adopted community
+
+name occasionally given perl practical extractionreport language although expansion prevailed manytoday manual including official perl man pagebackronym officially name stand nothing spellingperl cap therefore used shibboleth detecting
+community outsider several backronyms suggested
+including humorous pathologically eclectic rubbish lister
+
+camel symbol
+
+perl generally symbolized camel resultpicture chosen publisher oreilly medium cover programming
+perl consequently acquired name camel book oreilly
+owns symbol trademark claim use legal rights
+protect integrity impact symboloreilly
+allows noncommercial use symbol provides programming
+republic perl logo see powered perl buttons
+
+overview
+
+perl generalpurpose programming language originally developedtext manipulation used wide range task including
+system administration web development network programming gui
+development
+language intended practical easy use efficient
+complete rather beautiful tiny elegant minimal major
+feature include support multiple programming paradigm 
+procedural objectoriented functional style automatic memory
+management builtin support text processing large
+collection thirdparty modules
+
+features
+
+overall structure perl derives broadly perlprocedural nature variable expression assignment
+statement bracedelimited code block control structuresubroutines
+
+perl also take feature shell programming variablemarked leading sigils unambiguously identify data type
+scalar array hash etc variable context importantly
+sigils allow variable interpolated directly string like
+unix shell perl many builtin function common tasks
+like sorting accessing system facilities
+
+perl take list lisp associative array hash awkregular expression sed simplify facilitate many
+parsing text handling data management tasks
+
+perlfeatures added support complex data structures
+firstclass function closure value objectoriented
+programming model include reference package classbased
+method dispatch lexically scoped variable along compiler
+directive example strict pragma major additional feature
+introduced perlwas ability package code reusable
+module larry wall later stated whole intent perlmodule system encourage growth perl culture ratherperl core
+
+version perl automatic data typing memory management
+interpreter know type storage requirement every data
+object program allocates free storagenecessary legal type conversion done automatically run time
+illegal type conversion fatal errors
+
+design
+
+design perl understood response three broad
+trend computer industry falling hardware cost rising labor
+cost improvement compiler technology many earlier computer
+language fortran designed make efficient use
+expensive computer hardware contrast perl designed make
+efficient use expensive computer programmers
+
+perl many feature ease programmer task expense
+greater cpu memory requirement include automatic memory
+management dynamic typing string list hash regular
+expression introspection eval function
+
+wall trained linguist design perl much
+informed linguistic principle example include huffman coding
+common construction short good endweightingimportant information come first large collectionlanguage primitive perl favor language construct natural
+human read write even complicate perl
+interpreter
+
+perl syntax reflects idea thing differentlook different example scalar array hashdifferent leading sigils array index hash key use different
+kind brace string regular expression different
+standard delimiters approach contrasted languages
+like lisp sexpression construct basic syntaxused many different purposes
+
+perl doe enforce particular programming paradigm procedural
+objectoriented functional etc even require programmerchoose among
+broad practical bent perl languagecommunity culture surround preface programming perl
+begin perl language getting job done one consequence
+perl tidy language includes featurepeople use tolerates exception rule employs
+heuristic resolve syntactical ambiguity forgiving
+nature compiler bug hard find sometimes discussing
+variant behaviour builtin function list scalar
+context perlfunc manual page say generalwant unless want consistency
+
+perl several motto convey aspect design use one
+istheres one way tmtowtdi usually pronounced
+tim toady others perl swiss army chainsaw programming
+language unnecessary limit stated design goal perlmake easy task easy difficult task possible perl also
+called duct tape internet
+
+applications
+
+perl many varied application compounded availability
+many standard thirdparty modules
+
+perl used since early day web write cgi
+script known one three perl python php
+popular scripting language generating web
+application integral component popular lamp solution
+stack web development large project written perl include
+slash imdb usemodwiki early influential wiki engine many
+hightraffic website amazoncom ticketmastercom use perl
+extensively
+
+perl often used glue language tying together systeminterface specifically designed interoperatedata munging converting processing large amount datatask like creating report fact strength intimately
+linked combination make perl popular allpurpose toolsystem administrator particularly short program entered
+run single command line
+
+perl also widely used finance bioinformaticsvalued rapid application development deploymentability handle large data sets
+
+implementation
+
+perl implemented core interpreter written togetherlarge collection module written perl source
+distribution ofmb packaged tar filecompressed interpreter islines code compilesamb executable typical machine architecture alternativelyinterpreter compiled link library embeddedprogram nearlymodules distribution comprising
+line perl additionallines code much
+c code module consists character encoding tables
+
+interpreter objectoriented architectureelement perl languagescalars array hash coderefs file
+handlesare represented interpreter structs operationstructs defined large collection macro typedefsfunction constitute perl api perl apibewildering uninitiated entry point followconsistent naming scheme provides guidance use
+execution perl program divide broadly two phases
+compiletime runtime compile time interpreter parprogram text syntax tree run time executes program
+walking tree text parsed syntax tree
+subject optimization executed execution
+phase relatively efficient compiletime optimization syntax
+tree include constant folding context propagation peephole
+optimization also performed however compiletime runtime
+phase may nest begin code block execute compiletimeeval function initiate compilation runtime operationimplicit number othersmost notably use clauseload library known perl module implies begin block
+
+perl dynamic language contextsensitive grammaraffected code executed intermittent runtime phase
+see examplestherefore perl cannot parsed straight lex
+yacc lexerparser combination instead interpreter implementlexer coordinate modified gnu bison parserresolve ambiguity language said perlparse perl meaning perl interpreter perl parse
+perl language perl truth attestedpersistent imperfection program undertake parse
+perl source code analyzer autoindenterscontend many way express unambiguous syntactic
+construct also fact perl cannot parsed general
+case without executing
+maintenance perl interpreter become increasingly difficult
+year code base continuous development since
+code optimized performance expensesimplicity clarity strong internal interface new featureadded yet virtually complete backward compatibility earlier
+version maintained size complexity interpreterbarrier developer wish work
+perl distributed somefunctional test runpart normal build process extensively exerciseinterpreter core module perl developer relyfunctional test ensure change interpreterintroduce bug conversely perl user see interpreter pasfunctional test system high degree confidence
+working properly
+
+written specification standard perl language
+plan create one current version perlever one implementation interpreter interpreter
+together functional test stand facto specification
+language
+
+availability
+
+perl free software licensed artistic license
+gnu general public license distribution availableoperating system particularly prevalent unixunixlike system ported modern many
+obsolete platform six reported exception perlcompiled source code unixlike posixcompliantotherwise unixcompatible platform however rarely necessary
+perl included default installation many popular
+operating systems
+
+special change required support mac classicspecial port called macperl shipped independently
+
+windows
+
+user microsoft window typically install native binary
+distribution perl compiling perl source code windowpossible installation lack requisite compiler
+
+cygwin emulation layer provides another way running perlwindow cygwin provides unixlike environment windowincludes gcc compiling perl source accessible option
+user take approach
+
+junewinperlorg launched adam kennedy behalfperl foundation community website things
+window perl
+
+language structure
+
+perl canonical hello world program ocassionally statedusrbinperl use strict
+print hello worldnn newline
+
+first line shebang tell operating systemfind perl interpreter second line introduces strict
+pragma used many large software project quality
+control third print string hello world newlinecommentn newlinefollows
+
+thesign third line comment token allowsperl interpreter ignore everything thesign end
+line code
+
+shebang usual way invoke interpreter unix systems
+window system may rely shebang may associate file extension perl interpreter text editor also use
+shebang line hint mode operateprogram executed perl invoked via shell line
+starting shebang parsed option otherwise ignored
+detail see perlrun manpage
+
+noted perl hello world program requiresvariable subroutine anything else would even potentially
+violate strict pragma without causing fatal error without using
+strict use strict restriction requirementhello world program reason use strictavoid potentially yelled programmer using
+strict
+
+perfectly possible invoke perl interpreter
+directly command line additionally shebang linepart perl requirement shell treatedcomment perl shebang line also actually necessary
+indeed win implementation completely useless
+
+finally need explanatory comment insidedemonstrative hello world program additionally final lineblock code perl program includes implied block
+around entire script doe actually need semicolon
+terminator
+
+thus reality perl canonical hello world programprint hello worldn
+
+thats
+data types
+
+perl four fundamental data type scalar list hashfilehandles
+scalar single value may number stringreference
+list ordered collection scalar variable holdlist called array
+hash associative array map string scalarstring called key scalar called values
+filehandle map file device pipe openreading writing
+variable marked leading sigil identifies data
+type accessed type variable except
+filehandles arent name may used variabledifferent type without conflict
+ fooascalar
+ fooanarray
+ fooahash
+ fooafilehandle nice programmer use foo foo
+
+number written usual way string enclosed quotevarious kinds
+  namejoe
+ colourred
+ animalqqfrog
+
+perl convert string number vice versa dependingcontext used following example string treated number argumentaddition operator code print numberdiscarding non
+number information operation although variable values
+remain string concatenation operator notbut 
+ napples
+ moranges
+ print 
+perl also boolean context evaluating conditional
+statement following value evaluate false perl
+ falsethe number zero
+ falsethe number zero float
+ falsethe string zero
+ falsethe empty string
+ falseundefthe return value undef
+
+value evaluated true includes odd
+selfdescribing string ofbut true fact isas number
+true used boolean nonnumeric string would also
+property particular string ignored perlrespect numeric warning explicit conceptually
+portable version string e doe rely
+character evaluated asas literally zeroexponent zero
+
+evaluated boolean expression also return scalar value althoughdocumentation doe promise particular true falsereturned thus cannot relied many boolean operator return
+true emptystring false evaluates zeronumeric context defined function tell variable havalue set example definedfalse true every
+value except undef
+
+specificallyorresult needed explicit
+conversion thought author required
+ realresultbooleanresult
+
+however implicit conversion used instead
+ realresultbooleanresult
+
+list written listing element separated commaenclosed parenthesis required operator precedence
+ scores
+
+written half dozen way least
+ scoresqw
+ scoressplit
+ push scoresfor
+
+hash may initialized list keyvalue pairs
+ favoritejoered
+samblue
+
+may simply defined piece piece
+ favouritejoered
+ favouritesamblue
+
+individual element list accessed providing numerical
+index square bracket individual value hash accessedproviding corresponding key curly brace thesigil
+identifies accessed element scalar
+ scoresan element scores
+ favoritejoea value favorite
+
+multiple element may accessed using thesigil instead
+identifying result list
+ scoresthree element scores
+ favoritejoe samtwo value favorite
+
+number element array obtained evaluatingarray scalar context help thesigil latter
+give index last element array numberelements
+ countfriends
+ friendsthe index last element friends
+ friendsusually number element friends
+one friend first elementindexnotunless programmer resetdifferent value perl manual encourage
+function operate entire hashes
+ nameskeysaddress
+ addressesvalues address
+name addresseach address
+
+control structures
+
+perl several kind control structures
+
+ha blockoriented control structure similar cjava programming language condition surrounded parentheses
+controlled block surrounded braces
+label whilecond
+label whilecondcontinue
+label forinitexprcondexprincrexpr
+label foreach varlist
+label foreach varlistcontinue
+ifcond
+ifcondelse
+ifcondelsifcondelse
+
+single statement controlled statement modifiers
+provide lighter syntax
+statement ifcond 
+statement unlesscond 
+statement whilecond 
+statement untilcond 
+statement foreach list 
+
+shortcircuit logical operator commonly used effect control
+flow expression level
+expr expr
+expr orexpr
+
+flow control keywords next last return redo expressions
+used shortcircuit operators
+
+perl also two implicit looping constructs
+ resultsgreplist
+ resultsmaplist
+
+grep return element list controlled block
+evaluates true map evaluates controlled block element
+list return list resulting value constructs
+enable simple functional programming style
+
+switch statement multiway branch perlthe perl
+documentation describes halfdozen way achieve effectusing control structure switch module however
+provides functionality modeled forthcoming perl 
+redesign
+
+perl includes goto label statement rarely used situations
+goto called language dont occur oftenperl due breadth flow control options
+
+also goto sub statement performs tail callterminates current subroutine immediately call specified
+sub used situation caller performefficient stack management perl typicallychange current stack required deep recursion tail
+calling substantial positive impact performanceavoids overhead scopestack management return
+
+subroutines
+
+subroutine defined sub keyword invoked simplynaming subroutine question yet declared
+parenthesis required proper parsing
+fooparentheses requiredsub foo
+foobut
+list argument may provided subroutine name
+argument may scalar list hashes
+foo z
+
+parameter subroutine need declared either number
+type fact may vary call call array expanded
+element hash expanded list keyvalue pairs
+whole lot passed subroutine one undifferentiated
+list scalars
+
+whatever argument passed available subroutinespecial arraythe element ofare aliased actual
+argument changing element ofchanges corresponding
+argument
+
+element ofmay accessed subscripting usual way
+ 
+
+however resulting code difficult readparameter passbyreference semantics may undesirable
+
+one common idiom assignto list named variables
+myx 
+effect mnemonic parameter name passbyvalue semantics
+keyword indicates following variable lexically
+scoped containing block
+
+another idiom shift parameter ofthis especially
+common subroutine take one argument
+xshift
+
+subroutine may return values
+returnx 
+subroutine doe exit via return statement returns
+last expression evaluated within subroutine body arrayhash return value expanded list scalararguments
+
+returned expression evaluated calling contextsubroutine surprise unwary
+sub list
+sub arrayxx 
+
+xlistreturnslast element list
+xarrayreturnsnumber element list
+xlistreturns
+xarrayreturns
+
+subroutine discover calling context wantarray
+function
+sub eitherwantarrayoranges 
+
+xeitherreturns oranges
+xeitherreturns
+
+regular expressions
+
+perl language includes specialized syntax writing regular
+expression interpreter contains engine matching
+string regular expression regular expression engine usbacktracking algorithm extending capability simple pattern
+matching string capture substitution regular expression
+engine derived regex written henry spencer
+
+perl regular expression syntax originally taken unix
+versionregular expression however diverged first
+release perl since grown include many features
+language application adopting perl compatible
+regular expression posix regular expression including php ruby
+java apache http server
+
+match operator introduces regular expression matchleading may omitted brevity simplest caseexpression like
+ xmabc
+
+evaluates true string match regular
+expression abc
+
+portion regular expression may enclosed parentheses
+corresponding portion matching string captured captured
+string assigned sequential builtin variables
+list captured string returned valuematch
+ xmaccapture character 
+substitute operator specifies search replace
+operation
+ xsabcabcupcase 
+perl regular expression take modifier singleletter
+suffix modify meaning expression
+ xmabcicaseinsensitive pattern match
+ xsabcabcgglobal search replace
+
+regular expression dense cryptic regular
+expression syntax extremely compact generally using single
+character character pair represent operation perl
+provides relief problem modifierallows programmer place whitespace comment inside regular
+expressions
+ xmamatchmatch character
+cmatch x
+
+one common use regular expression specify delimiterssplit operator
+ wordssplit linedivide line commaseparated values
+
+split operator complement string capture string capture returns
+part string match regular expression split returns
+part dont match
+
+database interfaces
+
+perl widely favored database application text handling
+facility good generating sql query array hashautomatic memory management make easy collect processreturned data
+
+early version perl database interface createdrelinking interpreter clientside database librarysomewhat clumsy particular problem resulting perl
+executable restricted using one database interfacewa linked also relinking interpreter sufficiently
+difficult done importantwidely used databases
+
+perldatabase interface implemented perl dbi moduledbi database interface module present single databaseindependent
+interface perl application dbd database driver
+module handle detail accessing somedifferent databases
+dbd driver ansi sql databases
+
+comparative performance
+
+computer language shootout benchmark compare performanceimplementation typical programming problem several programming
+language perl implementation typically took memory
+implementation language varied speed results
+perls performance shootout similar interpreted
+language python php ruby slower compiled
+languages
+
+perl slower language thingha compile source every time run timely start
+jeanlouis leroy found perl script took much longer run
+expected perl interpreter spent much time
+finding compiling module since perl programmer know
+save intermediate result java python rubyeasily perl script pay overhead penalty every executionoverhead problem amortized long run phase
+significantly skew measurement short execution timeoften found benchmark perl start run phase howeverquite fast typically outperform dynamic
+language technology modperl overcome holdingcompiled program memory multiple run classautousedelay compiling part program needed
+
+optimizing
+
+nicholas clark perl core developer discus perl design
+tradeoff solution perl quite fast enough
+critical routine perl program writtenlanguage assembler via inline
+
+optimizing perl require intimate knowledge working rather
+skill language syntax meaning problem
+implementation perl rather languageperlthe next major version address lessonlanguage already learned
+
+future
+
+theperl conference jon orwant made case major new
+language initiative led decision begin work redesign
+language called perlproposals new language
+feature solicited perl community large 
+rfcs submitted
+
+larry wall spent next year digesting rfcs synthesizing
+coherent framework perlhe presented design
+perlin series document called apocalypsenumbered correspond chapter programming perl camel
+book current unfinalized specification perlis
+encapsulated design document called synopsis numberedcorrespond apocalypses
+
+perlis intended backward compatible thoughcompatibility mode
+
+init decided perlwould run crosslanguage
+virtual machine called parrot mean languages
+targeting parrot gain native access cpan allow
+level crosslanguage development
+
+inaudrey tang created pug project implementation perl
+haskell continues act test platformperllanguage separate development actual
+implementation allowing language designer explore pugs
+project spawned active perlhaskell crosslanguage community
+centered around freenode perl irc channel
+
+number feature perllanguage show similarityhaskell perlhas embraced haskell communitypotential scripting language
+
+ofperlparrot pug active developmentnew module perlcalled allows perlcode run
+directly top perl 
+
+inan effort started window perl distribution ship
+compiler order make need binary packagewindow redundant early result include camelpack
+macroinstaller vanilla perl distributions
+
+fun perl
+
+perl strong culture many tradition severalpracticed purely recreational value
+
+c obfuscated code competition wellknown
+pastime annual obfuscated perl contest made arch virtueperls syntactic flexibility following program print text
+another perlunix hacker usingconcurrent processes
+coordinated pipe complete explanation availableauthor web site
+ pspliturruucrdsplitnrekcah xinulrep rehtona tsujsub  prpuppppiperpuppqfforkmapppford
+ pixpclosekeysppppppmappp
+ closepwait untilmaprpdqsleep randifsprint
+
+also example discipline similar obfuscated codesomewhat distinct known japh parlance perl
+culture perl programmer known perl hackerderives practice writing short program print phrase
+another perl hacker spirit original concept
+program moderately obfuscated short enough fitsignature email usenet message canonical japh
+includes comma end although often omitted many
+variant theme created egwhich printanother perl pirate
+
+another popular diversion perl golf goalphysical sport reduce number stroke takecomplete particular objective context stroke referskeystroke rather swing golf club objective narrowly
+defined nontrivial task scan input string returnlongest palindrome contains participant try outdowriting solution require ever fewer character perl
+source code
+
+similar obfuscated code golf different purpose perl
+poetry practice writing poem actually compiled
+legal although generally nonsensical perl code hobbyle unique perl due large number regular english
+word used language new poem regularly publishedperl monk site perl poetry section part perl lore black perl
+infamous example perl poetry
+
+also many example code written purely entertainment
+cpan example include module linguaromanaperligata 
+allows writing program latin upon executionprogram module translates source code regular perlrun
+perl community set aside theacme namespace modulefun nature scope widened include exploratoryexperimental code module meant ever used
+production acme module deliberately implemented
+amusing way examples
+acmebleach one first module acme namespace
+allows program source code whitened iecharacter replaced whitespace yet still workexample source filter also number source
+filter acme namespace
+acmehello simplifies process writing hello world
+program
+acmecurrency allows change theprefix scalar
+variable character
+acmeprogressbar purposefully horribly inefficient wayindicate progress task
+acmeverysign satirizes widelycriticized verisign site finder
+service
+acmedont implement logical opposite keyworddont keyword take block doe executenoted using dontdoesthing notit doesnt either
+

@@ -1,0 +1,95 @@
+copyright
+
+metallurgy
+
+ school wikipedia selection related subject material science
+
+metallurgy domain material science materials
+engineering study physical chemical behaviourmetallic element intermetallic compound mixtures
+called alloys
+
+extractive metallurgy
+
+extractive metallurgy practice separating metalore refining pure metal order convert metal
+oxide sulfide metal ore must reduced either chemically
+electrolytically
+
+metallurgy production engineering
+
+production engineering metallurgy concerned production
+metallic component use consumer engineering products
+involves production alloy shaping heat treatment
+surface treatment product task metallurgist
+achieve design criterion specified mechanical engineer
+cost weight strength toughness hardness corrosionfatigue resistance performance temperature extremes
+
+common engineering metal aluminium chromium copper iron
+magnesium nickel titanium zinc often usedalloy much effort placed understanding one important
+alloy system purified iron carbon dissolvedbetter known steel normal steel used low cost high strength
+application weight corrosion problem cast irons
+including ductile iron also part system
+
+stainless steel galvanized steel used resistancecorrosion important aluminium alloy magnesium alloy used
+application strength lightness required
+
+engineering metal stronger plastic tougher
+ceramic composite plastic material glass
+fibre carbon fibre rival metal application requiring high
+tensile strength little weight concrete rival metalapplication requiring high compressive strength resistanceeffect water wood rival metal application requiring low cost
+availability material low cost construction wellapplication requiring certain aesthetics
+
+operating environment product importantwelldesigned material resist expected failure modecorrosion stress concentration metal fatigue creep environmental
+stress fracture ferrous metal aluminium alloy waterespecially electrolytic solution seawater corrode
+quickly metal cold cryogenic condition tend losetoughness becoming brittle prone cracking metalcontinual cyclic loading suffer metal fatigue metalconstant stress hot condition creep
+
+production engineering metals
+
+metal shaped process casting forging rolling
+extrusion sintering metalworking machining fabricationcasting molten metal poured shaped mould forgingredhot billet hammered shape rolling billet passed
+successively narrower roller create sheetextrusion hot malleable metal forced pressuredie shape cool sintering powdered metal
+compressed die high temperature machining lathes
+milling machine planing machine drill used cut cold
+metal shape fabrication sheet metal cutguillotine gas cutter bent shape
+
+cold working process rolling fabricationproduct shape altered product cold increasestrength product process called work hardening work
+hardening creates microscopic defect metal resist
+change shape
+
+various form casting exist industry academia include
+sand casting investment casting also called thelost wax process
+die casting continuous casting
+
+welding technique joining certain ferrous metal certain
+aluminium alloy metal weld side join
+generally similar alloy brazing technique joining
+copperbased metals
+
+metal heattreated annealing quenching tempering case
+hardening alter property toughness hardness resistancecorrosion annealing used make shaped product tougherreducing effect work hardening also softens metal
+quenching case hardening used make shaped product harder
+quenching self make metal hard brittle
+tempering quenching used reduce brittleness improve
+overall properties
+
+electroplating main surface treatment technique involves
+bonding thin layer another protective metal gold silver
+chromium zinc surface product reduce corrosion
+
+electrical electronic engineering
+
+metallurgy also applied electrical electronic materialmetal aluminium copper tin gold used power
+line wire printed circuit board integrated circuits
+
+soldering method joining metallic electrical conductorhigh strength required
+
+metallurgical techniques
+
+metallurgist study microscopic macroscopic mechanismcause metal alloy behave way doe iechange occur atomic level affect metalalloy macroscopic property example tool used microscopic
+examination metal optical electron microscope mass
+spectrometers
+
+metallurgist study crystallography effect temperatureheat treatment component phase alloy eutectic
+property alloy phases
+
+macroscopic property metal tested using machinedevice measure tensile strength compressive strengthhardness
+

@@ -1,0 +1,301 @@
+copyright
+
+schrdinger equation
+
+ school wikipedia selection related subject general physics
+
+physic schrdinger equation proposed austrian
+physicist erwin schrdinger indescribes spacetimedependence quantum mechanical system central
+importance theory quantum mechanic playing role analogous
+newton second law classical mechanics
+
+mathematical formulation quantum mechanic systemassociated complex hilbert space instantaneous
+state system described unit vector spacestate vector encodes probability outcome possible
+measurement applied system state system generally
+change time state vector function timeschrdinger equation provides quantitative description ratechange state vector
+
+using dirac braket notation definition energy resulttime derivative operator timeleftpsilefttrightrightranglethe schrdinger equation
+htleftpsilefttrightrightranglemathrmihbar
+fracpartialpartial left psi lefttright
+rightrangle
+
+imaginary unit time partialpartialpartial derivative respect hbar reduced plancks
+constant planck constant divided byt wave function
+hlefttright hamiltonian selfadjoint operator
+acting state space
+
+hamiltonian describes total energy systemforce occurring newton second law exact form provided
+schrdinger equation must independently determined based
+physical property system
+
+timeindependent schrdinger equation
+
+many realworld problem energy operator doe dependtime shown timedependent schrdinger equation
+simplifies timeindependent schrdinger equation whichasdiscusshas wellknown appearance
+example simple onedimensional timeindependent schrdinger
+equation particle mass moving potential ux
+frachbar fracd psi xdxux psi
+xe psi 
+analogous dimensional timeindependent equation 
+
+leftfrachbar nablaur right psi
+psi 
+every timeindependent hamiltonian exists setquantum state leftpsinrightrangknown energy eigenstates
+corresponding real number satisfying eigenvalue equation
+
+h leftpsinrightrangen leftpsin rightrang
+
+state posse definite total energy whose value eneigenvalue hamiltonian corresponding eigenvector psin
+normalizable unity eigenvalue equation referredtimeindependent schrdinger equation purposely leftvariable wavefunction psin depends first
+example depends single variable secondx zthe component vector caseschrdinger equation appearance hamilton operator
+defined different function state hilbert space first
+example function space consists function one variablesecond example function space consists function three
+variables
+
+selfadjoint operator hamiltonian propertyeigenvalue always real number would expect since
+energy physically observable quantity sometimes one
+linearly independent state vector corresponds energy maximum number linearly independent eigenvectors
+corresponding equal say energy level enkfold degenerate energy level called nondegenerate
+
+inserting solution timeindependent schrdinger equation
+full schrdinger equation get
+
+mathrmi hbar fracpartialpartial left psin
+lefttright rightrangleen
+leftpsinlefttrightrightrang
+
+relatively easy solve equation one find energy
+eigenstates solution timeindependent schrdinger
+equation change function time trivially namelycomplex phase
+
+left psi lefttright rightrangle 
+mathrmemathrmi ethbar
+leftpsileftrightrightrang
+
+immediately follows probability amplitude
+
+psitpsitmathrmemathrmi 
+hbarmathrmemathrmi ethbar psipsi
+psi
+
+timeindependent similar cancellation phase factors
+bra ket average expectation value timeindependent
+observables physical quantity computed psittimeindependent
+
+energy eigenstates convenient work formcomplete set state eigenvectors
+leftleftnrightrangright form basis state spaceintroduced shorthand notation nrangpsinthenstate vector solution timedependent schrdinger
+equation timeindependent leftpsilefttrightrightrang written linear
+superposition energy eigenstates
+
+leftpsilefttrightrightrangsumn cnt
+leftnrightrang quadquad leftnrightrangen
+leftnrightrang quadquad sumn
+leftcnlefttrightright
+
+last equation enforces requirementleftpsilefttrightrightranglike state vector maynormalized unit vector applying hamiltonian operatorside first equation timedependent schrdinger equationlefthand side using fact energy basis vectordefinition linearly independent readily obtain
+
+mathrmihbar fracpartial cnpartial ten
+cnlefttright
+
+therefore know decompositionleftpsilefttrightrightrang energy basis time 
+value subsequent time given simply
+leftpsilefttrightrightrangsumn
+mathrmemathrmienthbar cnleftright
+leftnrightrang
+
+note value equal zero differing
+energy value enthe lefthand side eigenvectorenergy operator lefthand eigenvectorcn value equal zero belong energymathrmemathrmienthbar factored many
+realworld application case state vector psit
+containing time phase factor solutiontimeindependent schrdinger equation
+
+example
+
+let rangle rangle degenerate eigenstatestimeindependent hamiltonian 
+
+hranglee rangle quad hboxand quad
+hranglee rangle
+
+suppose solution psit full schrdinger equation
+ha form
+
+psitranglemathrmemathrmiehbar
+cleftright rangle 
+mathrmemathrmiehbar cleftright rangle
+
+
+hpsitranglee mathrmemathrmiehbar
+cleftright rangle 
+emathrmemathrmiehbar cleftright rangle
+eleftmathrmemathrmiehbar cleftright
+ranglemathrmemathrmiehbar
+cleftright rangleright
+
+epsitrangle
+
+conclusion wavefunction psit given initial condition
+form tremains solution timeindependent
+schrdinger equation time
+footnote
+
+fact also initial condition must used time zero
+wavefunction must eigenstate 
+schrdinger wave equation
+
+state space certain quantum system spannedposition basis situation schrdinger equation mayconveniently reformulated partial differential equationwavefunction complex scalar field depends position well
+time form schrdinger equation referredschrdinger wave equation
+
+element position basis called position eigenstatesconsider singleparticle system position
+eigenstate may denoted leftmathbfrrightrangwherelabel mathbfr real vector interpreted state
+particle localized position mathbfrincase state space space squareintegrable complex
+functions
+
+wavefunction
+
+define wavefunction projection state vector
+leftpsilefttrightrightrang onto position basis
+
+psileftmathbfr tright equiv leftlangle mathbfr 
+psilefttright rightrangle
+
+since position eigenstates form basis state spaceintegral projection operator identity operator
+
+int leftmathbfrrightrangle leftlangle mathbfr
+right mathrmd mathbfrmathbfi
+
+statement called resolution identityfact kets unit norm showleftlang psitpsit rightrangleftlang
+psilefttright rightleftintleftmathbfrrightrang
+langmathbfrmathrmdmathbfr right
+leftpsilefttrightrightrang
+intleftlangpsilefttrightmathbfrrightrang
+leftlangmathbfrpsilefttright rightrangmathrmd
+mathbfr
+intpsileftmathbfr trightpsileftmathbfr
+trightmathrmdmathbfr
+
+
+psileftmathbfr tright denotes complex conjugatepsileftmathbfr trightthis important result tell uabsolute square wavefunction integrated space
+must equal 
+
+intleftpsileftmathbfr trightright 
+mathrmdmathbfr
+
+thus interpret absolute square wavefunctionprobability density particle found pointspace word leftpsileftmathbfr trightright
+mathrmdmathbfr probability time findingparticle infinitesimal region volume mathrmdmathbfr
+surrounding position mathbfr 
+
+previously shown energy eigenstates vary complex
+phase time progress therefore absolute squarewavefunctions change time energy eigenstates thus
+correspond static probability distributions
+
+operator position basis
+
+operator acting wavefunction defined position
+basis
+psileftmathbfr tright equiv leftlangmathbfrpsilefttright rightrang
+
+operator two side equation different things
+one right act kets whereas one left actscalar field common use symbol denote operators
+acting kets projection onto basis usually kindoperator one referring apparent contextpossible source confusion
+
+using positionbasis notation schrdinger equationwritten
+h psileftmathbfrtrightmathrmi hbar
+fracpartialpartial psileftmathbfrtright
+
+form schrdinger equation schrdinger wave equation
+may appear ordinary differential equationfact hamiltonian operator typically includes partial derivatives
+respect position variable mathbfrthis usually leaves
+u difficult linear partial differential equation solve
+
+nonrelativistic schrdinger wave equation
+
+nonrelativistic quantum mechanic hamiltonian particle
+expressed sum two operator one correspondingkinetic energy potential energy hamiltonianparticle electric charge spin case
+h psileftmathbfr trightlefttvright 
+psileftmathbfr trightleftfrachbarm
+nablavleftmathbfrright right
+psileftmathbfr trightmathrmi hbar fracpartial
+psipartial leftmathbfr tright
+
+
+tfracpm kinetic energy operator
+mass particle
+mathbfpmathrmihbarnabla momentum
+operator
+vvleftmathbfrright potential energy
+operator
+v real scalar function position operator
+mathbfr 
+nabla gradient operatornabla laplace operator
+
+commonly encountered form schrdinger wave equation
+though general one corresponding timeindependent
+equation
+leftfrachbarm nablavleftmathbfrright
+right psileftmathbfrrighte psi
+leftmathbfrright
+
+relativistic generalisation wave equation dirac
+equation kleingordon equation proca equation maxwell equation etc
+depending spin mass particle see relativistic wave
+equation details
+
+probability currents
+
+order describe probability density change timeacceptable define probability current probability fluxprobability flux represents flowing probability across space
+
+example consider gaussian probability curve centered around x moving speed right one may sayprobability flowing toward right probability flux
+directed right
+
+probability flux mathbfj defined
+mathbfjhbar cdotover 
+mathrmi left psinabla psipsi nabla
+psi righthbar operatornameim
+left psinabla psi right
+
+measured unit probabilityareatimert
+
+probability flux satisfies quantum continuity equation 
+partial partial pleftxtrightnabla
+cdot mathbfj
+
+pleftx tright probability density measuredunit probabilityvolumer equationmathematical equivalent probability conservation law
+
+easy show plane wave
+
+left psi rightranga mathrmi x emathrmi
+omega
+probability flux given
+jleftxtrightleftaright hbar
+solution schrdinger equation
+
+analytical solution timeindependent schrdinger equationobtained variety relatively simple conditionsolution provide insight nature quantum phenomenonsometimes provide reasonable approximation behaviourcomplex system statistical mechanic molecular vibrations
+often approximated harmonic oscillator severalcommon analytical solution include
+free particle
+particle box
+finite potential well
+delta function potential
+particle ring
+particle spherically symmetric potential
+quantum harmonic oscillator
+linear rigid rotor
+symmetric top
+hydrogen atom hydrogenlike atom
+ring wave guide
+particle onedimensional lattice periodic potential
+
+many system however analytic solutionschrdinger equation case one must resort approximate
+solution common techniqueperturbation theory
+variational principle underpins many approximate method like
+popular hartreefock method basis post
+hartreefock methods
+quantum monte carlo methods
+density functional theory
+wkb approximation
+discrete deltapotential method
+
+retrieved 
+httpenwikipediaorgwikischrcbdingerequation
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

@@ -1,0 +1,300 @@
+copyright
+
+zx spectrum
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+originalzx spectrum
+zx spectrum
+typehome computer
+releasedapril 
+discontinued december 
+processorzmhz equivalent
+memorykbkbkb
+ossinclair basic
+
+zx spectrum home computer released united kingdomsinclair research ltd originally dubbed machine
+wa later renamed spectrum sinclair highlightmachine colour display compared blackandwhitepredecessor sinclair 
+spectrum first mainstream audience home computer similar significance commodorein usa wamain rival spectrum market early
+inthe department education science begunmicroelectronics education programme introduce microprocessing
+concept educational material inthrough tothe
+department industry doi allocated funding assist local
+education authority supply school rangecomputer spectrum proving useful control
+projects
+
+hardware
+
+zx spectrum motherboard issue enlarge
+zx spectrum motherboard issue 
+spectrum hardware designed richard altwasser sinclair
+research sinclair industrial designer rick dickinson responsible
+machine outward appearance
+
+based zilog cpu running atmhz original spectrum
+came eitherkb orkb ram unit hadkb rom
+
+spectrum video output rf modulatordesigned use contemporary portable television setsimple colour graphic display text could displayed usingcolumns
+row character spectrum character setchoice ofcolours either normal bright mode gave 
+shade black mode image resolutioncolour limitation spectruminteresting method handling colour colour attribute held
+agrid separate text graphical datastill limited two colour given character celleither bright nonbright ledcalled colour clash attribute clash bizarre effectarcade style game problem became distinctive featurespectrum injoke among spectrum user well pointderision advocate system machine available around
+time example amstrad cpc sufferproblem commodoreused colour attribute hardware sprites
+scrolling used avoid attribute clash
+
+sound output beeper machinecapable producing one channel withoctaves ten semitones
+machine also included expansion bus edge connector audio
+inout port connection cassette recorder loadingsaving program data
+
+machine software written steve vickers contractnine tile ltd author sinclair basic spectrum chiclet
+keyboard top membrane similar calculator key marked
+sinclair basic keywords example pressing gprogramming mode would insert basic command go
+models
+
+sinclair research models
+
+original spectrum remembered rubber keyboarddiminutive size originally released inwithkb ram
+gb withkb forthese price later reducedandrespectively owner thekb model could purchaseinternalkb ram upgrade daughterboard consists ofdynamic
+ram chip ttl chip user could mail spectrumsinclair upgraded tokb version reduce price 
+kb extension actually comprised eight faultykilobit chipone half capacity working andor available external 
+kb rampacks mounted rear expansion slot also available
+third party rampack wobble caused poor
+connection expansion frequent problem many users
+causing instant crash sometimes ula cpu burnout machines
+kb onboard rom
+zx spectrum
+enlarge
+zx spectrum
+
+planning spectrum started juneand releasedoctober year thiskb spectrum development codename introduced new qlstyle enclosure much needed
+injectionmoulded keyboard reset button retailing fora
+diy conversionkit older machine also available earlymachine outsold rubberkey modelhowever retailers
+reported high failure rates
+zx spectrum 
+enlarge
+zx spectrum 
+
+sinclair developed spectrumcodenamed derbyconjunction spanish distributor investrnica investrnica
+helped adapt spectrum spanish marketspanish government introduced special tax computer withkb
+ram support spanish alphabet including 
+show message spanish
+
+new feature includedkb ram threechannel audio via chip midi compatibility serial port rgb monitor port
+kb rom including improved basic editor external keypad
+
+machine simultaneously presented first timelaunched septemberat simotrade show spainprice ofpesetasbecause large amount unsold
+spectrum model sinclair decided start selling ukjanuaryat price ofno external keypad available
+uk release although rom routine utiliseport hastily renamed aux remained
+
+z processor used spectrum bit address busmean onlykb memory addressed facilitate extra
+kb ram designer utilised bank switching techniquenew memory would available six page ofkb topaddress space technique also used pagenewkb editor rom originalkb basic rom bottomaddress space
+
+new sound chip midi ability exposed basic
+programming language command play new command spectrum
+wa added switch machine mode enable basic
+programmer access additional memory ram disk created
+file could stored additionalkb ram new
+command took place two existing userdefinedcharacter spaces
+causing compatibility issue basic programs
+
+spanish version logo right bottom computer
+white colour english one logo red colour
+
+amstrad models
+
+zx spectrum 
+enlarge
+zx spectrum 
+
+zx spectrumwas amstrads first spectrum coming shortlypurchase spectrum range sinclair brand inthe
+machine featured allnew grey enclosure featuring springloaded
+keyboard dual joystick port builtin cassette recorder dubbed
+datacorder like amstrad cpcbut wauservisible respect otherwise identical spectrum 
+production cost reduced retail price dropped
+
+new keyboard include basic keyword markingfound earlier spectrum except keywords load code run
+useful loading software however layout remained
+identical 
+zx spectrum 
+enlarge
+zx spectrum 
+
+zx spectrumlooked similar thebut featured builtin
+inch floppy disk drive like amstrad cpcinsteadtape drive launched ininitially retailed forand
+laterand spectrum capable running cpm
+operating system without additional hardware
+
+thesaw addition two morekb rom physically
+implemented twokb chip one home second partreorganisedrom hosted disk operating
+system modified version amstrads amsdos called dos
+facilitate new rom cpm bankswitching waimproved allowing rom paged anotherkb ram
+
+core change brought incompatibilities
+removal several line expansion bus edge connector
+video power romcs iorqge caused many external devices
+problem vtx modem could used viafixit device
+reading nonexistent port longer returned last
+attribute caused game arkanoid unplayable
+memory timing change ram bank contended
+causing highspeed colourchanging effect fail
+keypad scanning routine rom removed
+
+older older game incompatiblemachine
+
+thewas final official model spectrum manufactured
+remaining production decemberalthough still accounting
+one third home computer sale time productionmodel ceased amstrad attempt transfer customercpc range
+zx spectrumenlarge
+zx spectrum
+zx spectrum produced homogenise amstrads range 
+although case read spectrumthe easily
+distinguishable originalas case restoredstandard spectrum black
+
+wa derived amstradsrom model using new
+motherboard vastly reduced chip count integrating manynew asic replaced disk driveassociated hardware tape drive original 
+originally amstrad planned introduce additional disk interface
+never appeared external disk drive addedsystem menu would change zx spectrum 
+older older game incompatiblemachine
+
+zx spectrum signified manufacturing move hong kongtaiwan later 
+
+clones
+
+sinclair licensed spectrum design timex corporationunited state enhanced version spectrum better sound
+graphic modification marketed usa timextimex sinclairtimexs derivative largely incompatible
+sinclair system however timex innovationlater adopted sinclair research case point abortive
+pandora portable spectrum whose ula high resolution video mode
+pioneered pandora flatscreen monitormicrodrives intended sinclair business portablealan sugar bought computer side sinclair took one look
+ditched conversation computer journalist guy
+kewney went thus seen yes well
+uk spectrum peripheral vendor mile gordon technology mgt
+released sam coup potential successor spectrum
+compatibility however point commodore amiga atari taken hold market leaving mgt eventual receivership
+
+many unofficial spectrum clone produced especially eastern
+bloc nation south america microdigital x russia
+example spectrum clone assembled thousand small
+startup distributed though poster street stall 
+clone model existed still producedsprinter atm turbo
+
+peripherals
+
+several peripheral spectrum marketed sinclair printer already market spectrum expansion busbackwardscompatible 
+zx interfaceaddon module includedkb rom serial
+port proprietary lan interface called net interfaceconnection eight microdrivessomewhat unreliablespeedy tapeloop cartridge storage device released julythese
+later used revised version sinclair whose storage
+format electrically compatible logically incompatiblespectrum sinclair also released interfacewhich added two
+joystick port rom cartridge port
+kempston joystick interface
+enlarge
+kempston joystick interface
+
+also plethora thirdparty hardware addons better
+known included kempston joystick interface morex
+peripheral centronicsrs interface currah microspeech unit
+speech synthesis videoface digitiser ram pack cheetah
+marketing specdrum drum machine multiface snapshotdisassembly tool romantic robot
+
+numerous disk drive interface including abbeydale
+designer watford electronics spdos abbeydale designer kempston
+kdos opus discovery spdos kdos interface first
+come bundled office productivity softwaretasword word
+processor masterfile database omnicalc spreadsheet bundle
+together ocps stock control finance payroll systems
+introduced many small business streamlined computerised
+operation popular floppy disk system except east europe
+disciple system released mile gordon technologyandrespectively system ability store
+memory image onto disk snapshot could later used restorespectrum exact previous state also compatible
+microdrive command syntax made porting existing
+software much simpler
+
+mid company micronet launched service
+allowing user connect spectrum network knownmicronet hosted prestel service similarityinternet proprietary feebased
+
+software
+
+spectrum enjoys vibrant dedicated fanbase since cheap
+simple learn use program spectrum starting
+point many programmer technophile remembernostalgia hardware limitation spectrum imposed special
+level creativity game designer reason many
+spectrum game creative playable even todays
+standards
+
+spectrum family enjoyed large software library least
+title though spectrum hardware limited modern
+standard software library diverse including programming
+language implementation database vufile word processor tasword spreadsheet vucalc drawing painting tools
+eg james hutchbys ocp art studio artist paintbox melbourne draw
+even modelling huge quantity game releasedsystem
+
+distribution
+
+spectrum software originally distributed audio cassette
+tape spectrum intended work almost cassette tape
+player despite difference audio reproduction fidelitysoftware loading process quite reliable
+
+zx microdrive quickly became quite popular spectrum
+user base due low cost drive actual medium waexpensive software publisher use mass market releasefactor ofcompared tape duplication furthermorecartridge acquired reputation unreliabilitypublisher reluctant every item shipped hencemain use became complement tape release usually utilityniche product like tasword word processing softwareaforementioned trans express game known exclusively
+released microdrive
+
+despite popularity disciple system software
+released took form utility software spectrum 
+enjoyed much success came commercial software releases
+floppy disk thantitles released inch disk
+
+software also distributed print medium fan magazinebook prevalent language distribution spectrum basic
+dialect sinclair basic reader would type softwarecomputer hand run save tape later usesoftware distributed way general simpler slowerassembly language counterpart lacked graphic soon
+magazine printing long list checksummed hexadecimal digits
+machine code game tool vibrant scientific
+community built around software ranging satellite dish
+alignment program school classroom scheduling programs
+
+another unusual software distribution method broadcastaudio stream cassette another medium user record
+onto audio cassette radio television showeg belgradeventilatorpoland czechoslovakia romaniabrazil host would describe program instruct audienceconnect cassette tape recorder radio broadcast
+program airwave audio format magazines
+distributedrpm flexidisc record variant regular vinyl
+record could played standard record player disks
+known asfloppy roms
+
+copying backup software
+
+copier software available spectrum designedcopyright infringement software tape duplication copiers
+developed copy program audio tape microdrive tapes
+later diskette complex loader unusual speed encoding
+basis spectrum copy prevention scheme although
+method used including asking particular worddocumentation included gameoften novellaor another
+physical device distributed software box protection became
+complex almost impossible use copier copy tapeloader cracked hand produce unprotected versions
+special hardware romantic robot multiface able dumpcopy spectrum ram disktape press button
+entirely circumventing copy protection systems
+
+spectrum software digitized recent yearavailable download digital form one popular programdigitizing spectrum software taper allows connecting cassette
+tape player line port sound card simple
+homebuilt device parallel port digital form
+software executed one many existing emulatorvirtually platform available today today largest online
+archive spectrum software world spectrumtitle legality practice still question
+however seems unlikely action ever takensocalled abandonware
+
+famous spectrum developers
+
+number current leading game developer development companies
+began career spectrum including peter molyneux bullfrog game david perry shiny entertainment ultimate play
+game known rare maker many famous title nintendo
+game console prominent game developer include matthew smith
+manic miner jet set willy jon ritmanmatch day headheel sid meiersilent service
+
+screenshots
+
+deathchase
+
+rebelstar
+
+nothing
+
+rainbow islands
+
+chase 
+robocop
+
+elite
+
+manic miner
+

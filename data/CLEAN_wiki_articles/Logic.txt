@@ -1,0 +1,372 @@
+copyright
+
+logic
+
+ school wikipedia selection related subject philosophy
+
+logic classical greeklogos originally meaningword spoken coming mean thought reasonstudy criterion evaluation argument although exact
+definition logic matter controversy among philosophers
+however subject grounded task logician advance
+account valid fallacious inference allow onedistinguish logical flawed arguments
+
+traditionally logic studied branch philosophy one partclassical trivium consisted grammar logic rhetoric
+since midnineteenth century logic also commonly studied
+mathematics law recently logic appliedcomputer science part make computer chip often
+called logic gates
+
+formal science logic investigates classifies structurestatement argument study formal systeminference study argument natural languagescope logic therefore large ranging core topics
+study fallacy paradox specialized analyses
+reasoning probability correct reasoning arguments
+involving causality logic also commonly used today argumentation
+theory
+
+nature logic
+
+nature logic object intense disputepossible clearly delineate bound logic term acceptable
+rival viewpoint despite controversy study logic
+ha coherent technically grounded articlefirst characterize logic introducing fundamental idea form
+outlining school thought well giving brief
+overview logic history account relationshipscience finally exposition logic essential
+concepts
+
+informal formal symbolic logic
+
+crucial concept form central discussion naturelogic complicates exposition formal formal logiccommonly used ambiguous manner symbolic language actuallyspecie class formal logic distinguishedanother class formal logic traditional aristotelian syllogistic
+logic deal solely categorical proposition shall start
+giving definition shall adhere restarticle
+informal logic study natural language argumentstudy fallacy especially important branch informal
+logic dialog plato major example informal logic
+formal logic study inference purely formal content
+content made explicit inference possepurely formal content expressed particular
+application wholly abstract rule ruleparticular thing property first rule formal
+logic come written aristotlesee later many definition logic logical inferenceinference purely formal content thingrender notion informal logic vacuous since one may wish
+investigate logic without committing particular formal
+analysis
+
+symbolic logic study symbolic abstraction capture
+formal feature logical inference
+
+ambiguity formal logic often usedalternate meaning symbolic logic definedinformal logic meaning logical investigation doe involve
+symbolic abstraction sense formal parallelreceived usage coming fromformal language orformal
+theory
+
+formal logic old dating back two millenniumsymbolic logic comparatively new arises applicationinsight mathematics problem logic generally symbolic
+logic captured formal system comprising formal language
+including rule creating expression language setrule derivation expression normally intendedrepresent claim may interested likewise rules
+derivation represent inference system usuallyintended interpretation
+
+example consider simple formal system hasymbol q language rulecreating expression arep q expressions
+andany expression compounded another alsoexpression rule derivation expressionform q may conclude intended interpretationp stand sentence intended
+interpretation expressed specifying sentencecontain true system would interpret likesentence containing true expression either
+side true
+
+formal system also axiom axiom sentencecount always true within system example many systemaxiom sentence implies p case qcase along axiom system special
+rule derivation called rule substitution sayderive axiom sentence like exceptsentence substituted qexample axiom conclude following implies r case caseu assumes u expression formal
+system formal system either rich set rulederivation axiom rich set axiomderivation rule substitution
+
+sentence derived using system axiom rulederivation called theorems
+
+consistency soundness completeness
+
+three valuable property formal system
+consistency mean none theoremsystem contradict
+
+soundness mean system rule derivation
+never let infer anything false long start
+true premise system soundaxiom true theorem sound formal
+system truth theorem systemha axiom truth sometimes truthsystem called logical truth note system
+consistent cannot soundcontradiction always false two theorem contradict
+least one false
+
+completeness mean true sentencesystem cannot least principle proved using
+derivation rule axiom system
+
+system achieve three virtue proven kurt
+gdel system enough axiom andor rule derivationderive principle arithmetic cannot consistentcomplete called gdels incompleteness theorems
+
+important family formal systems
+
+formal logic encompasses wide variety logical system various
+system logic discussed include term logic predicate logic
+propositional logic modal logic formal systemindispensable branch mathematical logic table logic
+symbol describes various widely used notation symbolic logic
+
+rival conception logic
+
+logic arose see concern correctnessargumentation conception logic study argumenthistorically fundamental founder distinct
+tradition logic namely plato aristotle mozi aksapada
+gautama conceived logic modern logician usually wish ensure
+logic study argument arise appropriately
+general form inference example stanford encyclopediaphilosophy say logic doe however cover good
+reasoning whole job theory rationality
+rather deal inference whose validity traced backformal feature representation involvedinference linguistic mental representations
+hofweber 
+
+contrast immanuel kant introduced alternative idealogic argued logic conceived sciencejudgement idea taken gottlob freges logicalphilosophical work thought german gedanke substitutedjudgement german urteil conception valid inferencelogic follow structural feature judgement thoughts
+
+third view logic arises idea logicfundamental reason logic science stateaffair german sachverhalt general barry smith locates franz
+brentano source idea idea claim reachfullest development work adolf reinach smiththis
+view logic appears radically distinct firstconception logic essential connection argumentstudy fallacy paradox longer appears essentialdiscipline
+
+occasionally one encounter fourth view logicpurely formal manipulation symbol according prescribed
+rule conception criticized groundmanipulation formal system usually regardedlogic account normally omit explanationcertain formal system make system logic
+
+relation sciences
+
+logic related rationality structure conceptha degree overlap psychology logic generally understood
+describe reasoning prescriptive manner describesreasoning ought take place whereas psychology descriptiveoverlap marked gottlob frege however adamantantipsychologism logic understood manner
+independent idiosyncrasy particular people might
+reason
+
+deductive inductive reasoning
+
+originally logic consisted deductive reasoning concerns
+follows necessarily given premise however inductive
+reasoningthe process deriving reliable generalizationobservationshas sometimes included study logic
+correspondingly must distinguish deductive validityinductive validity inference deductively validpossible situation premise trueconclusion false notion deductive validityrigorously stated system formal logic termwellunderstood notion semantics inductive validityhand requires define reliable generalization setobservation task providing definition may approached
+various way formal othersdefinition may use mathematical model probabilitypart discussion logic deal deductive logic
+
+history logic
+
+many culture employed intricate system reasoningmath logic explicit analysis method reasoning
+received sustained development originally three place india
+th century china century greeceth century st century 
+formally sophisticated treatment modern logic descendsgreek tradition latter mainly informed transmission
+aristotelian logic tradition outside europe survive
+modern era china tradition scholarly investigation
+logic repressed qin dynasty following legalist
+philosophy han feizi islamic world rise asharite
+school suppressed original work logic
+
+however india innovation scholastic school called nyaya
+continued early century survive longcolonial period century western philosopher like
+stanislaw schayer klaus glashoff tried explore certain
+aspect indian tradition logic
+
+medieval period shown aristotle ideas
+largely compatible faith greater emphasis placed upon
+aristotle logic later period medieval age logic
+became main focus philosopher would engage critical
+logical analysis philosophical arguments
+
+topic logic
+
+throughout history interest distinguishing goodbad argument logic studied less
+familiar form aristotelian logic principally concernedteaching good argument still taught end todaymathematical logic analytical philosophy much greater emphasis
+placed logic object study right logic
+studied abstract level
+
+consideration different type logic explains logicstudied vacuum logic often seems providemotivation subject develops healthily reasoninterest made clear
+
+syllogistic logic
+
+organon aristotle body work logic prior
+analytics constituting first explicit work formal logic
+introducing syllogistic part syllogistic also knownname term logic analysis judgementproposition consisting two term related one fixed
+number relation expression inference meansyllogism consisted two proposition sharing common termpremise conclusion proposition involving two
+unrelated term premises
+
+aristotle work regarded classical time medieval
+time europe middle east picture fully
+worked system alone stoic proposed systempropositional logic studied medieval logician waperfection aristotle system undisputed example problemmultiple generality recognised medieval time nonetheless
+problem syllogistic logic seen needrevolutionary solutions
+
+today academic claim aristotle system generally seen
+little historical value thoughcurrent interest extending term logic regarded made obsolete
+advent sentential logic predicate calculus others
+use aristotle argumentation theory help develop critically
+question argumentation scheme used artificial intelligence
+legal arguments
+
+predicate logic
+
+logic studied today different subjectstudied principal difference innovationpredicate logic whereas aristotelian syllogistic logic specifiedform relevant part involved judgement took predicate
+logic allows sentence analysed subject argumentseveral different way thus allowing predicate logic solveproblem multiple generality perplexed medieval logicians
+predicate logic first time logician able give
+account quantifier general enough express arguments
+occurring natural language
+
+development predicate logic usually attributed gottlob
+frege also credited one founder analytical
+philosophy formulation predicate logic often used
+today firstorder logic presented principle theoretical
+logic david hilbert wilhelm ackermann inthe analytical
+generality predicate logic allowed formalisationmathematics drove investigation set theory alloweddevelopment alfred tarskis approach model theoryexaggeration say foundation modern mathematical
+logic
+
+freges original system predicate logic firstsecondorder secondorder logic prominently defendedcriticism willard van orman quine others george boolos
+stewart shapiro
+
+modal logic
+
+language modality deal phenomenon subpartsentence may semantics modified special verb modal
+particle example game modified give
+go game game perhaps
+go game abstractly might say modality
+affect circumstance take assertionsatisfied
+
+logical study modality date back aristotleconcerned alethic modality necessity possibility
+observed dual sense morgan dualitystudy necessity possibility remained importantphilosopher little logical innovation happened landmark
+investigation clarence irving lewis inwho formulatedfamily rival axiomatisations alethic modality work
+unleashed torrent new work topic expanding kindmodality treated include deontic logic epistemic logicseminal work arthur prior applied formal language treat
+temporal logic paved way marriage two subjects
+saul kripke discovered contemporaneously rival theoryframe semantics revolutionised formal technology availablemodal logician gave new graphtheoretic way lookingmodality driven many application computational linguistics
+computer science dynamic logic
+
+deduction reasoning
+
+motivation study logic ancient time cleardescribed may learn distinguish good bad
+argument become effective argument oratoryperhaps also become better person
+
+motivation still alive although longer take centre
+stage picture logic typically dialectical logic form
+heart course critical thinking compulsory course many
+university especially follow american model
+
+mathematical logic
+
+mathematical logic really refers two distinct area researchfirst application technique formal logicmathematics mathematical reasoning seconddirection application mathematical techniquerepresentation analysis formal logic
+
+earliest use mathematics geometry relation logicphilosophy back ancient greek euclid platoaristotle many ancient medieval philosopher applied
+mathematical idea method philosophical claims
+
+boldest attempt apply logic mathematics undoubtedlylogicism pioneered philosopherlogicians gottlob fregebertrand russell idea mathematical theory logical
+tautology programme show mean reduction
+mathematics logic various attempt carry met
+series failure crippling freges projectgrundgesetze russell paradox defeat hilbert program
+gdels incompleteness theorems
+
+statement hilbert program refutation gdel
+depended upon work establishing second area mathematical
+logic application mathematics logic form proof
+theory despite negative nature incompleteness theorems
+gdels completeness theorem result model theory another
+application mathematics logic understood showingclose logicism came true every rigorously defined
+mathematical theory exactly captured firstorder logical
+theory freges proof calculus enough describe wholemathematics though equivalent thus see complementary
+two area mathematical logic
+proof theory model theory foundationmathematical logic two four pillarsubject set theory originated study infinite georg
+cantor source many challengingimportant issue mathematical logic cantor theoremstatus axiom choice question independence
+continuum hypothesis modern debate large cardinal
+axioms
+
+recursion theory capture idea computation logicalarithmetic term classical achievementundecidability entscheidungsproblem alan turingpresentation churchturing thesis today recursion theorymostly concerned refined problem complexity class 
+problem efficiently solvableand classificationdegree unsolvability
+
+philosophical logic
+
+philosophical logic deal formal description natural language
+philosopher assume bulk normal proper reasoningcaptured logic one find right method translating
+ordinary language logic philosophical logic essentiallycontinuation traditional discipline called logic
+wa supplanted invention mathematical logic
+philosophical logic much greater concern connection
+natural language logic result philosophical
+logician contributed great deal developmentnonstandard logic free logic tense logic wellvarious extension classical logic modal logicnonstandard semantics logic kripkes techniquesupervaluations semantics logic
+
+logic philosophy language closely related philosophylanguage study language engagesinteracts thinking logic immediate impactarea study studying logic relationship logicordinary speech help person better structure arguments
+critique argument others many popular argument filled
+error many people untrained logic unaware
+correctly formulate argument
+
+philosophy language underwent renaissance century
+work ludwig wittgenstein
+
+logic computation
+
+logic cut heart computer science emergeddiscipline alan turing work entscheidungsproblem followed
+kurt gdels work incompleteness theorem notion
+general purpose computer came work wafundamental importance designer computer machinery
+researcher predicted human knowledge
+could expressed using logic mathematical notation wouldpossible create machine reason artificial intelligence
+turned difficult expectedcomplexity human reasoning logic programming program consists
+set axiom rule logic programming system prolog
+compute consequence axiom rule order answerquery
+
+today logic extensively applied field artificial
+intelligence computer science field provide rich
+source problem formal informal logic argumentation theory
+one good example logic applied artificial
+intelligence acm computing classification system particular
+regards
+section logic meaning program fon
+mathematical logic formal language part theorycomputer science work cover formal semantics programming
+language well work formal method hoare logic
+boolean logic fundamental computer hardware particularly
+system section arithmetic logic structures
+many fundamental logical formalism essential sectionartificial intelligence example modal logic default logic
+knowledge representation formalism method horn clauselogic programming description logic
+
+furthermore computer used tool logician example
+symbolic logic mathematical logic proof humancomputerassisted using automated theorem proving machinefind check proof well work proof lengthywritten hand
+
+argumentation theory
+
+argumentation theory study research informal logic
+fallacy critical question relate every daypractical situation specific type dialogue analyzedquestioned reveal premise conclusion fallacies
+argumentation theory applied artificial intelligence law
+
+controversy logic
+
+seen disagreement logicdisagreement logical truth
+bivalence law excluded middle
+
+logic discussed allbivalent twovaluednaturally understood dividing propositiontrue false proposition system reject bivalenceknown nonclassical logics
+
+innicolai vasiliev rejected law excluded middlelaw contradiction proposed law excluded fourth logic
+tolerant contradiction early century jan ukasiewicz
+investigated extension traditional truefalse valueinclude third value possible inventing ternary logicfirst multivalued logic
+
+intuitionistic logic proposed lej brouwer correct
+logic reasoning mathematics based upon rejectionlaw excluded middle part intuitionism brouwer
+rejected formalisation mathematics student arend heyting
+studied intuitionistic logic formally gerhard gentzen
+intuitionistic logic come great interest computer
+scientist constructive logic hence logiccomputer
+modal logic truth conditional often proposed
+nonclassical logic however modal logic normally formalised
+principle excluded middle relational semantics
+bivalent inclusion disputable hand modal
+logic used encode nonclassical logicintuitionistic logic
+
+logic fuzzy logic since devised infinite
+number degree truth represented real number 
+andbayesian probability interpreted system logic
+probability subjective truth value
+
+implication strict material
+
+obvious notion implication formalised classical
+logic doe comfortably translate natural language meandue number problem called paradoxmaterial implication
+
+first class paradox involves counterfactualsmoon made green cheese thenwhich puzzlingnatural language doe support principle explosion
+eliminating class paradox reason lewiss
+formulation strict implication eventually ledradically revisionist logic relevance logic
+
+second class paradox involves redundant premise falsely
+suggesting know succedent antecedent thus
+man get elected granny die materially truegranny happens last stage terminal illness
+regardless man election prospect sentence violategricean maxim relevance modelled logic reject
+principle monotonicity entailment relevance logic
+
+tolerating impossible
+
+closely related question arising paradox implication
+come radical suggestion logic ought tolerate
+inconsistency relevance logic paraconsistent logicimportant approach though concern different key
+consequence classical logic rivalintuitionistic logic respect principle explosion
+mean logic collapse capable derivingcontradiction graham priest main proponent dialetheismargued paraconsistency striking groundfact true contradictions
+
+logic empirical
+
+epistemological status law logic sortargument appropriate criticising purported principle logic
+influential paper entitled logic empirical hilary putnam
+building suggestion quine argued generalfact propositional logic similar epistemological statusfact physical universe example law mechanics
+general relativity particular physicistlearned quantum mechanic provides compelling caseabandoning certain familiar principle classical logic want
+realist physical phenomenon described quantum
+theory abandon principle distributivity
+substituting classical logic quantum logic proposed garrett
+birkhoff john von neumann
+
+another paper name sir michael dummett arguesputnams desire realism mandate law distributivity
+distributivity logic essential realist understandingproposition true world wayargued principle bivalence way questionlogic empirical seen lead naturally fundamental
+controversy metaphysics realism versus antirealism

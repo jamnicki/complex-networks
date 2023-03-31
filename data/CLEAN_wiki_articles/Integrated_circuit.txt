@@ -1,0 +1,326 @@
+copyright
+
+integrated circuit
+
+ school wikipedia selection related subject computing hardwareinfrastructure electricity electronics
+
+integrated circuit showing memory block logic inputoutput pads
+around periphery
+integrated circuit showing memory block logic inputoutput pads
+around periphery
+microchip transparent window showing integrated circuit
+inside note fine silvercolored wire connect integrated
+circuit pin package
+microchip transparent window showing integrated circuit
+inside note fine silvercolored wire connect integrated
+circuit pin package
+
+monolithic integrated circuit also known microcircuit
+microchip silicon chip chip miniaturized electronic circuit
+consisting mainly semiconductor device well passive
+component manufactured surface thin
+substrate semiconductor material
+
+hybrid integrated circuit miniaturized electronic circuit
+constructed individual semiconductor device well passive
+component bonded substrate circuit board
+
+article monolithic integrated circuits
+
+introduction
+
+integrated circuit made possible experimental discoveries
+showed semiconductor device could perform functionvacuum tube midthcentury technology advancementsemiconductor device fabrication integration large numbertiny transistor small chip enormous improvementmanual assembly circuit using discrete electronic componentintegrated circuit mass production capability reliabilitybuildingblock approach circuit design ensured rapid adoptionstandardized place design using discrete transistors
+
+two main advantage discrete circuit costperformance cost low chip components
+printed unit photolithography constructedtransistor time performance high since component switch
+quickly consume little power component smallclose together ofchip area range square mmaroundmm tomillion transistor per 
+advance integrated circuits
+
+integrated circuit intelan bit microcontroller
+includes cpu running atmhzbytes rambyteseprom chip
+integrated circuit intelan bit microcontroller
+includes cpu running atmhzbytes rambyteseprom chip
+
+among advanced integrated circuit microprocessorcore control everything computer cellular phonedigital microwave oven digital memory chip asics examplefamily integrated circuit important modern
+information society cost designing developing complex
+integrated circuit quite high spread across typically millions
+production unit individual cost minimizedperformance high small size allows short traces
+turn allows low power logic cmos used fast
+switching speeds
+
+ic consistently migrated smaller feature size years
+allowing circuitry packed chip increased
+capacity per unit area used decrease cost andor increase
+functionalitysee moore law modern interpretation
+state number transistor integrated circuit doubles
+every two year general feature size shrink almost
+everything improvesthe cost per unit switching power
+consumption speed however icnanometerscale device without problem principal among
+leakage current see subthreshold leakage mosfetdiscussion although problem insurmountablelikely solved least ameliorated introductionhighk dielectric since speed power consumption gainapparent end user fierce competition amongmanufacturer use finer geometry process expected
+progress next year well describedinternational technology roadmap semiconductor itrs
+
+popularity ics
+
+half century development initiated integrated
+circuit become ubiquitous computer cellular phonedigital appliance inextricable part structuremodern society modern computing communications
+manufacturing transport system including internet depend
+existence integrated circuit indeed many scholar believe
+digital revolution brought integrated circuitone significant occurrence history mankind
+
+classification
+
+cmosic dip
+cmosic dip
+
+integrated circuit classified analog digital mixed
+signal analog digital chip
+
+digital integrated circuit contain anything thousandmillion logic gate flipflops multiplexer circuits
+square millimeter small size circuit allows
+high speed low power dissipation reduced manufacturing cost
+compared boardlevel integration digital typically
+microprocessor dsps micro controller work using binary
+mathematics process one zero signals
+
+analog sensor power management circuit operational
+amplifier work processing continuous signal perform
+function like amplification active filtering demodulation mixing
+etc analog ease burden circuit designer expertly
+designed analog circuit available instead designing difficult
+analog circuit scratch
+
+ic also combine analog digital circuit single chipcreate function converter convertercircuit offer smaller size lower cost must carefully account
+signal interference see signal integrity
+
+manufacture
+
+fabrication
+
+rendering small standard cell three metal layer dielectric
+ha removed sandcolored structure metal interconnect
+vertical pillar contact typically plug tungsten
+reddish structure polysilicon gate solidbottom crystalline silicon bulk
+rendering small standard cell three metal layersdielectric
+ha removed sandcolored structure metal interconnect
+vertical pillar contact typically plug tungsten
+reddish structure polysilicon gate solidbottom crystalline silicon bulk
+
+semiconductor periodic table chemical elementidentified likely material solid state vacuum tube
+researcher like william shockley bell laboratory startingstarting copper oxide proceeding germaniumsilicon material systematically studiedtoday silicon monocrystals main substrate usedintegrated circuit although iiiv compound periodic
+table gallium arsenide used specialised applications
+like led laser solar cell highestspeed integrated
+circuit took decade perfect method creating crystals
+without defect crystalline structure semiconducting
+material
+
+semiconductor fabricated layer process includes
+key process steps
+imaging
+deposition
+etching
+
+main process step supplemented doping cleaningplanarisation steps
+
+monocrystal silicon wafer special application siliconsapphire gallium arsenide wafer used substrate
+photolithography used mark different area substratedoped polysilicon insulator metal typically aluminium
+track depositedintegrated circuit composed many ovelapping layerdefined photolithography normally shown different
+color layer mark various dopants diffusedsubstrate called diffusion layer defineadditional ion implanted implant layer defineconductor polysilicon metal layer defineconnection conducting layer via contact layers
+component constructed specific combinationlayers
+selfaligned cmos process transistor formed wherevergate layer polysilicon metal cross diffusion layer
+resistive structure meandering stripe varying length form
+load circuit ratio length resistive
+structure width combined sheet resistivity
+determines resistance
+capacitive structure form much like parallel
+conducting plate traditional electrical capacitor formed
+according area plate insulating material
+plate owing limitation size small
+capacitance created rarely inductive structure built tiny onchip
+coil simulated gyrators
+
+since cmos device draw current transition logic
+state cmos device consume much current bipolar devices
+
+random access memory regular type integrated circuit
+highest density device thus memory evenmicroprocessor memory chip see regular array
+structure bottom first image although structures
+intricatewith width shrinking decadesthe
+layer remain much thinner device width layermaterial fabricated much like photographic process although
+light wave visible spectrum cannot used expose layer
+material would large feature thus photons
+higher frequency typically ultraviolet used createpattern layer feature small electron
+microscope essential tool process engineer mightdebugging fabrication process
+
+device tested packaging using automated test equipment
+ate process known wafer testing wafer probing wafer
+cut rectangular block called die
+good die plural dice die connectedpackage using aluminium gold wire welded pads
+usually found around edge die packaging devices
+go final test similar ate used wafer
+probing test cost account overof cost fabrication
+lower cost product negligible low yielding larger
+andor higher cost devices
+
+ofa fabrication facility commonly known semiconductor
+fab cost billion dollar construct muchoperation automated advanced process employfollowing techniques
+wafer tomm diameter wider common dinner
+plate
+use ofnanometer smaller chip manufacturing process intel
+ibm nec amd usingnanometers cpu chipamdintel nec started using ananometer process ibm
+amd development process using immersion
+lithography
+copper interconnects copper wiring replaces aluminiuminterconnects
+lowk dielectric insulators
+silicon insulator soi
+strained silicon process used ibm known strained silicon
+directly insulator ssdoi
+
+packaging
+
+earliest integrated circuit packaged ceramic flat packs
+continued used military reliabilitysmall size many year commercial circuit packaging quickly moved
+dual inline package dip first ceramic laterplastic pin count vlsi circuit exceededpractical limit dip packaging leading pin grid array pgaleadless chip carrier lcc package surface mount packaging appeared
+early became popular late using finer
+lead pitch lead formed either gullwing jleadexemplified smalloutline integrated circuit carrieroccupies area aboutless equivalent diptypical thickness isle package gull wing leads
+protruding two long side lead spacing ofinches
+
+smalloutline integrated circuit soic plcc package late
+pqfp tsop package became common high pin count
+device though pga package still often used highend
+microprocessor intel amd currently transitioning pga
+package highend microprocessor land grid array lga packages
+
+ball grid array bga package existed since flipchip
+ball grid array package allow much higher pin countpackage type developed fcbga package
+die mounted upsidedown flipped connects package
+ball via package substrate similar printedcircuit
+board rather wire fcbga package allow arrayinputoutput signal called areaio distributedentire die rather confined die periphery
+
+trace die package printed
+circuit board different electrical property comparedonchip signal require special design technique need much
+electric power signal confined chip
+multiple put one package called sip system
+package multiple combined small substrate often
+ceramic called mcm multichip module boundarybig mcm small printed circuit board sometimes fuzzy
+
+history origin generations
+
+birth 
+integrated circuit first conceived radar scientist
+geoffrey dummer bornworking royal radar
+establishment british ministry defence publishedwashington maydummer unsuccessfully attemptedbuild circuit 
+
+precursor idea wa create small ceramic squares
+wafer one containing single miniaturized component
+component could integrated wired bidimensionaltridimensional compact grid idea looked promisingwa proposed army jack kilby ledshortlived micromodule program similar project tinkertoy
+however project gaining momentum kilby came new
+revolutionary design 
+first integrated circuit manufactured independently two
+scientist jack kilby texas instrument filed patent solid
+circuit made germanium februarykilby received patents
+u patentus patentus patent 
+u patentrobert noyce fairchild semiconductorawarded patent complex unitary circuit made silicon
+aprilsee chip jack built information
+
+noyce credited kurt lehovec sprague electric principlepn junction isolation caused action biased junction
+diode key concept behind 
+see variation vacuum tube precursor conceptloewe 
+ssi msi lsi
+
+first integrated circuit contained transistor called
+smallscale integration ssi used circuit containing
+transistor numbering tens
+
+ssi circuit crucial early aerospace project viceversa
+minuteman missile apollo program needed lightweight
+digital computer inertiallyguided flight computerapollo guidance computer led motivated integratedcircuit
+technology minuteman missile forced massproduction
+
+program purchased almost available integrated
+circuit fromthroughand almost alone provided demand
+funded production improvement get production costs
+circuit indollars merely circuit 
+dollar began appear consumer product turndecade typical application intercarrier sound processing
+television receivers
+
+next step development integrated circuit takenlate introduced device contained hundred transistors
+chip called mediumscale integration msi
+
+attractive economically cost littleproduce ssi device allowed complex systemproduced using smaller circuit board assembly workfewer separate component number advantages
+
+development driven economic factor ledlargescale integration lsi mid tenthousand transistor per chip
+
+integrated circuit kbit ram calculator chipfirst microprocessor began manufactured moderate
+quantity early undertransistors true lsi
+circuit approachingtransistors began produced around
+computer main memory secondgeneration microprocessors
+
+vlsi
+
+upper interconnect layer intel microprocessor die
+upper interconnect layer intel microprocessor die
+
+final step development process startingcontinuing largescale integrationvlsihundred thousand transistor beyond well past several
+million latest stages
+
+first time became possible fabricate cpu single
+integrated circuit create microprocessor inthe first one
+megabit ram chip introduced contained one
+million transistor microprocessor chip produced incontained
+three million transistors
+
+step largely made possible codification design
+rule cmos technology used vlsi chip made
+production working device much systematic endeavour see
+thelandmark text carver mead lynn conway referenced
+
+ulsi wsi soc
+
+reflect growth complexity term ulsi stands
+ultralarge scale integration proposed chipcomplexity thanmillion transistor howeverqualitative leap vlsi ulsi hence normally technical
+text vlsi term cover ulsi well ulsi reservedcase necessary emphasize chip complexity marketing
+
+extreme integration technique waferscale integration
+wsi whole uncut wafer containing entire computers
+processor well memory attempt take step commercially
+eg gene amdahl failed mostlydefectfree manufacturability problem doe seemhigh priority industry
+
+wsi technique failed commercially advance semiconductor
+manufacturing allowed another attack complexity knownsystemonchip soc design approach component traditionally
+manufactured separate chip wired together printed
+circuit board designed occupy single chip contains
+memory microprocessor peripheral interface inputoutput logic
+control data converter component together composingwhole electronic system
+
+developments
+
+programmable integrated circuit developeddevice contain circuit whose logical function connectivityprogrammed user rather fixed integrated
+circuit manufacturer allows single chip programmedimplement different lsitype function logic gate adderregister current device named fpgas field programmable gate arrays
+implement ten thousand lsi circuit paralleloperate tomhz
+
+technique perfected integrated circuit industrylast three decade used create microscopic machine known
+mem device used variety commercial military
+application example commercial application include dlp projectors
+inkjet printer accelerometer used deploy automobile airbags
+
+past radio could fabricated lowcost
+process microprocessor sincea large number radio
+chip developed using cmos process example include
+intels dect cordless phone atherosscard
+
+future development seem follow multimicroprocessor paradigm
+already used intel amd dualcore processor intel recently
+unveiled prototype commercial sale chip bearstaggeringmicroprocessors core capable handlingtask independently others resposnse heat
+v speed limit reached using existing transistor
+technology design provides new challenge chip programming
+x new opensource programming language designed assisttask
+
+silicon graffiti
+
+ever since created chip designer used silicon
+surface area surreptitious nonfunctional image wordsometimes referred chip art silicon art silicon
+graffiti silicon doodling overview practice see
+article secret art chip graffiti ieee magazine
+spectrum
+

@@ -1,0 +1,165 @@
+copyright
+
+arithmetic
+
+ school wikipedia selection related subject mathematics
+
+arithmetic arithmetic greek wordnumberoldest elementary branch mathematics used almost
+everyone task ranging simple daily counting advanced
+science business calculation common usage word refersbranch forerunner mathematics record elementary
+property certain operation number professional
+mathematician sometimes use term higher arithmetic synonym
+number theory confused elementary
+arithmetic
+
+history
+
+prehistory arithmetic limited small number small
+artifact indicating clear conception addition subtraction
+bestknown ishango bone africa dating 
+bc
+
+clear babylonian solid knowledge almostaspect elementary arithmetic circabc historianinfer method utilized generate arithmetical result see
+plimptonlikewise definitive algorithm multiplicationuse unit fraction found rhind mathematical
+papyrus dating ancient egypt circabc
+
+pythagorean school second half century arithmetic considered one four quantitative mathematical
+science mathemata carried medival universities
+quadrivium together trivium grammar rhetoric
+dialectic constituted septem liberales artes seven liberal
+arts
+
+modern algorithm arithmetic hand electronic
+computation made possible introduction arabic numerals
+decimal place notation number although considered
+elementary simplicity culmination thousand yearmathematical development contrast ancient mathematician
+archimedes devoted entire work sand reckoner devisingnotation certain large integer flourishing algebramedieval islamic world renaissance europe outgrowthenormous simplification computation decimal notation
+
+decimal arithmetic
+
+decimal notation construct real number basic digitfirst ten nonnegative integersa decimal numeral consists
+sequence basic digit denominationdigit depending position respect decimal pointexampledenoteshundredsplustensplus 
+unitsplustenthsplushundredthsan
+essential part notation major stumbling blockachieving conceiving ofas number comparablebasic digits
+
+algorism comprises rule performing arithmetic
+computation using decimal system representing numbernumber written using ten symbol valuesthroughare
+combined using placevalue system positional notationsymbol ten time weight one right notation
+allows addition arbitrary number adding digitplace accomplished axaddition table sumdigit exceedsmust digit carried next place
+leftward one make similar algorithm multiplying arbitrary
+number set denominationsis
+closed multiplication subtraction division achievedsimilar though complicated algorithms
+
+arithmetic operations
+
+traditional arithmetic operation addition subtraction
+multiplication division although advanced operationmanipulation percentage square root exponentiationlogarithmic function also sometimes included subject
+arithmetic performed according order operation setobject upon four operation arithmetic performed
+except division zero wherein four operation obeyusual law called field
+
+addition 
+
+addition basic operation arithmetic simplest form
+addition combine two number addend term single
+number sum
+
+adding two number viewed repeated additionprocedure known summation includes way add infinitely
+many number infinite series repeated addition number one
+basic form counting
+
+addition commutative associative order terms
+added doe matter identity element additionadditive identity isthat adding zero number yield
+number also inverse element addition additive
+inverse opposite number adding oppositenumber number yield additive identity 
+example opposite ofisso
+
+subtraction 
+
+subtraction essentially opposite addition subtraction finds
+difference two number minuend minus subtrahend
+minuend larger subtrahend differencepositive minuend smaller subtrahend difference
+negative equal difference zero
+
+subtraction neither commutative associative reasonoften helpful look subtraction addition minuendopposite subtrahend abab written
+sum property addition hold
+
+multiplicationor 
+
+multiplication essence repeated addition sum listidentical number multiplication find product two numbermultiplier multiplicand sometimes called factors
+
+multiplication really repeated addition commutativeassociative distributive addition subtraction
+multiplicative identity isthat multiplying number 
+yield number also multiplicative inversereciprocal number multiplying reciprocalnumber number yield multiplicative identity 
+
+divisionor 
+
+division essentially opposite multiplication division finds
+quotient two number dividend divided divisordividend divided zero undefined positive numberdividend larger divisor quotient greaterone otherwise one similar rule appliesnegative number negative one quotient multiplieddivisor always yield dividend
+
+division neither commutative associative helpfullook subtraction addition helpful look divisionmultiplication dividend time reciprocal divisor
+abab written product obeyproperty multiplication
+
+examples
+
+addition table
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+multiplication table
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+number theory
+
+term arithmetic also used refer number theoryincludes property integer related primality divisibility
+solution equation integer well modern research
+outgrowth study context one
+run across fundamental theorem arithmetic arithmetic
+function course arithmetic serre reflects usagephrase first order arithmetic arithmetical algebraic
+geometry number theory also referred higher arithmetic
+title davenport book subject
+
+arithmetic education
+
+primary education mathematics often place strong focusalgorithm arithmetic natural number integer rational
+numbersvulgar fraction real number using decimal
+placevalue system study sometimes known algorism
+
+difficulty unmotivated appearance algorithm long
+led educator question curriculum advocating early
+teaching central intuitive mathematical idea one notable
+movement direction new mathattempted teach arithmetic spirit axiomatic
+development set theory echo prevailing trend higher
+mathematics 
+
+since introduction electronic calculator perform
+algorithm far efficiently human influential school
+educator argued mechanical mastery standard
+arithmetic algorithm longer necessary view first
+year school mathematics could profitably spentunderstanding higherlevel idea number usedrelationship among number quantity measurement however
+research mathematician still consider mastery manual
+algorithm necessary foundation study algebracomputer science controversy central math warcalifornia primary school curriculum continues
+today 
+

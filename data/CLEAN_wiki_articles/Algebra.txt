@@ -1,0 +1,292 @@
+copyright
+
+algebra
+
+ school wikipedia selection related subject mathematics
+
+algebra branch mathematics concerning study structure
+relation quantity name derived treatise writtenpersian mathematician muammad ibn alwrizm titled alkitab
+aljabr walmuqabala meaningthe compendious book calculationcompletion balancing provided symbolic operationsystematic solution linear quadratic equations
+
+together geometry analysis number theory algebra oneseveral main branch mathematics elementary algebra often
+part curriculum secondary education providesintroduction basic idea algebra including effect adding
+multiplying number concept variable definitionpolynomial along factorization determining roots
+
+algebra much broader elementary algebra generalized
+addition working directly number algebra cover working
+symbol variable set element addition multiplication
+viewed general operation precise definition leadstructure group ring fields
+
+classification
+
+linear algebra lecture determinant inverse matrices
+enlarge
+linear algebra lecture determinant inverse matrices
+
+algebra may divided roughly following categories
+elementary algebra property operationreal number system recorded using symbol place holderdenote constant variable rule governing
+mathematical expression equation involving symbolstudied note usually includes subject mattercourse called intermediate algebra college algebra
+abstract algebra sometimes also called modern algebraalgebraic structure group ring fieldaxiomatically defined investigated
+linear algebra specific property vector spaces
+studied including matrices
+universal algebra property common algebraic
+structure studied
+
+advanced study axiomatic algebraic system group rings
+field algebra field investigated presencenatural geometric structure topology compatiblealgebraic structure list includes number area functional
+analysis
+normed linear spaces
+banach spaces
+hilbert spaces
+banach algebras
+normed algebras
+topological algebras
+topological groups
+
+elementary algebra
+
+elementary algebra basic form algebra taughtstudent presumed knowledge mathematics beyond
+basic principle arithmetic although arithmeticnumber arithmetical operation asoccur
+algebra number often denoted symbol xusefulallows general formulation arithmetical law 
+bba thus first stepsystematic exploration property real number system
+allows reference unknown number formulationequation study solve instance find
+number x
+allows formulation functional relationshipsell ticket profit xdollarsfxxwhere function numberfunction performed
+abstract algebra
+
+abstract algebra extends familiar concept found elementary
+algebra arithmetic number general concepts
+
+set rather considering different type numbers
+abstract algebra deal general concept setcollection object called element familiar typenumber set example set include settwobytwo matrix set seconddegree polynomial 
+bxc set two dimensional vector planevarious finite group cyclic group groupinteger modulo set theory branch logic technically
+branch algebra
+
+binary operation notion additionis abstracted givebinary operationsay two element set gives
+another element set technically condition called
+closure additionsubtractionmultiplicationand
+divisionare binary operation additionmultiplication matrix vector polynomials
+
+identity element number zero one abstracted givenotion identity element zero identity elementaddition one identity element multiplicationgeneral binary operatorthe identity element must satisfy aea
+eaa hold addition andaamultiplication andaa however takepositive natural number addition identity element
+
+inverse element negative number give rise conceptinverse element addition inversemultiplication inverse general inverse element must
+satisfy property aae aae
+
+associativity addition integer property called
+associativity grouping number addedaffect sum examplein generalbecomes abcabc property sharedbinary operation subtraction division
+
+commutativity addition integer also property called
+commutativity order number added doeaffect sum examplein general becomes 
+ba binary operation property holdinteger addition multiplication doe holdmatrix multiplication
+
+groups
+
+combining concept give one important structures
+mathematics group group combination setbinary operationwith following properties
+operation closed memberb
+
+fact redundant mention propertyevery binary operation must closed statement
+group combination set binary
+operationis already saying operationclosed however closure frequently emphasized
+repeating group property
+
+identity element exists every member ae identicalevery element inverse every member exists
+member aa identicalidentity element
+operation associative c memberabc identical abc
+
+group also commutativethat two member ab identical bathen group saidabelian
+
+example set integer operation additiongroup group identity element isand inverseelement negation associativity requirement met
+integer c abcabc
+
+nonzero rational number form group multiplicationidentity element issinceaaa rational
+number inverse since 
+integer multiplication operation however formgroup general multiplicative inverseinteger integer exampleis integermultiplicative inverse iswhich integer
+
+theory group studied group theory major resulttheory classification finite simple group mostly published
+aboutandwhich thought classifyfinite simple group roughlybasic types
+examples
+set natural number mathbbn integer mathbbz rational numbers
+mathbbq also real mathbbr complex mathbbc numbers
+integer mod
+operationwo zerowo zerowo zerowo zero 
+wo zero
+closed yes yes yes yes yes yes yes yes yes yes
+identitynana
+inverse na beginmatrix fraca endmatrixrespectively narespectively
+associative yes yes yes yes yes yes yes yes
+commutative yes yes yes yes yes yes yes yes
+structure monoid monoid abelian group monoid abelian group quasigroup
+abelian group quasigroup abelian group abelian groupmathbbz 
+
+semigroups quasigroups monoids structure similar groups
+general comprise set closed binary operation
+necessarily satisfy condition semigroup haassociative binary operation might identity elementmonoid semigroup doe identity mightinverse every element quasigroup satisfies requirementelement turned unique prepostoperation however binary operation might associative
+
+group monoids monoids semigroups
+
+ring fieldsstructures two binary operations
+
+group one binary operation fully explain behaviour
+different type number structure two operator need
+studied important ring fields
+
+distributivity generalised distributive law numberspecifies order operator applied called
+precedence integer abcac ca 
+bcacb andis said distributive 
+
+ring two binary operationsandwithdistributivefirst operatorit form abelian groupsecond operatorit associative doe needidentity inverse division allowed additive 
+identity element written asand additive inversewritten
+integer example ring integer additional
+property make integral domain
+
+field ring additional property elements
+excludingform abelian group underthe multiplicative 
+identity written asand multiplicative inverse written
+
+rational number real number complex number examples
+fields
+
+algebras
+
+word algebra also used various algebraic structures
+algebra field
+algebra set
+boolean algebra
+falgebra fcoalgebra category theory
+sigmaalgebra
+
+history
+
+hellenistic mathematician euclid detail geometrical algebraelements
+enlarge
+hellenistic mathematician euclid detail geometrical algebraelements
+
+origin algebra traced ancient babyloniandeveloped advanced arithmetical system ablecalculation algebraic fashion use system
+able apply formula calculate solution unknown
+value class problem typically solved today using linear
+equation quadratic equation indeterminate linear equationcontrast egyptian era indian greekchinese mathematician first millennium usually solvedequation geometric method described rhind
+mathematical papyrus sulba sutra euclid element nine
+chapter mathematical art geometric work greeks
+typified element provided framework generalizing
+formula beyond solution particular problem general
+system stating solving equations
+
+word algebra named arabic word aljabrtitle book alkitb almutaar isb alabr walmuqbala
+meaning book summary concerning calculating transpositionreduction book written persian muslim mathematician muhammad
+ibn alkhwrizm inthe word aljabr mean reunionhellenistic mathematician diophantus traditionally knownfather algebra debate exists whetheralkhwarizmi take title diophantus support
+alkhwarizmi point fact much work reductionstill use today gave exhaustive explanationsolving quadratic equation support diophantus point
+fact algebra found aljabr elementaryalgebra found arithmetica arithmetica syncopated
+aljabr fully rhetorical another persian mathematician omar
+khayyam developed algebraic geometry found general geometric
+solution cubic equation indian mathematician mahavirabhaskara chinese mathematician zhu shijie solved various
+cubic quartic quintic higherorder polynomial equations
+
+another key event development algebra general
+algebraic solution cubic quartic equation developedmidth century idea determinant developed japanese
+mathematician kowa seki century followed gottfried
+leibniz ten year later purpose solving systemsimultaneous linear equation using matrix gabriel cramer alsowork matrix determinant century abstract
+algebra developed century initially focusingcalled galois theory constructibility issues
+
+stage development symbolic algebra roughlyfollows
+rhetorical algebra developed babylonianremained dominant century
+geometric constructive algebra emphasised vedic
+indian classical greek mathematicians
+syncopated algebra developed diophantus bakhshali
+manuscriptsymbolic algebra see culmination workleibniz
+
+cover theedition diophantus arithmetica translatedlatin claude gaspard bachet mziriac
+enlarge
+cover theedition diophantus arithmetica translatedlatin claude gaspard bachet mziriac
+
+timeline key algebraic development follows
+circabc old babylonian strassburg tablet seeksolution quadratic elliptic equation
+circabc plimptontablet give table pythagorean
+triple babylonian cuneiform script
+circabc indian mathematician baudhayana baudhayana
+sulba sutra discovers pythagorean triple algebraically finds
+geometric solution linear equation quadratic equationform axc axbxc find two setpositive integral solution set simultaneous diophantine
+equations
+circabc indian mathematician apastamba apastamba
+sulba sutra solves general linear equation uses
+simultaneous diophantine equation five unknowns
+circabc book element euclid give geometric
+construction euclidean tool solution quadratic
+equation positive real root construction duepythagorean school geometry
+circabc geometric construction solutioncubic sought doubling cube problem well known
+general cubic solution using euclidean tools
+circabc algebraic equation treated chinese
+mathematics book jiuzhang suanshu nine chaptermathematical art contains solution linear equations
+solved using rule double false position geometric solutions
+quadratic equation solution matrix equivalentmodern method solve system simultaneous linear
+equations
+circabc bakhshali manuscript written ancient india
+us form algebraic notation using letter alphabetsign contains cubic quartic equation algebraic
+solution linear equation five unknown general
+algebraic formula quadratic equation solutionindeterminate quadratic equation simultaneous equations
+circaad hellenized egyptian mathematician hero alexandria
+treat algebraic equation three volume mathematics
+circahellenized babylonian mathematician diophantuslived egypt often considered father algebra
+writes famous arithmetica work featuring solutionalgebraic equation theory numbers
+indian mathematician aryabhata treatise aryabhatiya
+obtains wholenumber solution linear equation method
+equivalent modern one describes general integral
+solution indeterminate linear equation give integral
+solution simultaneous indeterminate linear equationdescribes differential equation
+circachinese mathematician wang xiaotong find numerical
+solution cubic equations
+indian mathematician brahmagupta treatise brahma sputa
+siddhanta invents chakravala method solving indeterminate
+quadratic equation including pells equation give rulesolving linear quadratic equation discovers quadratic
+equation two root including negative wellirrational roots
+word algebra derived operation describedtreatise written persian mathematician muammad ibn alwrizm titled alkitab aljabr walmuqabala meaningcompendious book calculation completion balancingsystematic solution linear quadratic equations
+alkhwarizmi often considered father algebra much
+whose work reduction included book addedmany method algebracircapersian mathematician almahani conceived ideareducing geometrical problem duplicating cubeproblem algebra
+circaindian mathematician mahavira solves various quadratic
+cubic quartic quintic higherorder equation wellindeterminate quadratic cubic higherorder equations
+circapersian abu bakr alkaraji treatise alfakhri
+develops algebra extending alkhwarizmis methodologyincorporate integral power integral root unknown
+quantity replaces geometrical operation algebramodern arithmetical operation defines monomials x
+xand x xand give ruleproduct twocircachinese mathematician jia xian find numerical
+solution polynomial equations
+persian mathematician omar khayyam develops algebraic
+geometry treatise demonstration problemalgebra give complete classification cubic equationgeneral geometric solution found mean intersecting conic
+sections
+indian mathematician bhaskara bijaganita algebra
+recognizes positive number positive negative
+square root solves quadratic equation one
+unknown various cubic quartic higherorder polynomial
+equation pells equation general indeterminate quadratic
+equation well indeterminate cubic quartic higherorder
+equations
+bhaskara siddhanta shiromani solves differential
+equations
+algebra introduced europe largely workleonardo fibonacci pisa work liber abaci
+circachinese mathematician zhu shijie deal polynomial
+algebra solves quadratic equation simultaneous equationequation four unknown numerically solvesquartic quintic higherorder polynomial equations
+circaindian mathematician madhava sangamagramma findsolution transcendental equation iteration iterative
+method solution nonlinear equation solutiondifferential equations
+scipione del ferro solves cubic quadratic
+term missing
+nicolo fontana tartaglia solves cubic linear
+term missing
+girolamo cardano publishes magna great artgive solution variety cubics well ludovico
+ferraris solution special quartic equation
+rafael bombelli recognizes complex root cubicimproves current notation
+francois viete develops improved symbolic notationvarious power unknown vowel unknownconsonant constant artem analyticam isagoge
+thomas harriot posthumus publication exponential
+notation first use symbol indicate legreatergottfried wilhelm leibniz develops notion symbolic
+manipulation formal rule call characteristica
+generalis
+japanese mathematician kowa seki method solving
+dissimulated problem discovers determinant discriminant
+bernoulli numbers
+kowa seki solves general cubic equation wellquartic quintic equations
+leibniz solves system simultaneous linear equation using
+matrix determinants
+gabriel cramer treatise introduction analysis
+algebraic curve state cramers rule study algebraic
+curve matrix determinants
+galois theory developed variste galois workabstract algebra
+

@@ -1,0 +1,444 @@
+copyright
+
+plasma physics
+
+ school wikipedia selection related subject general physics
+
+plasma lamp illustrating complex phenomenonplasma including filamentation color resultrelaxation electron excited state lower energy staterecombined ion process emit lightspectrum characteristic gas excited
+enlarge
+plasma lamp illustrating complex phenomenonplasma including filamentation color resultrelaxation electron excited state lower energy staterecombined ion process emit lightspectrum characteristic gas excited
+
+physic chemistry plasma typically ionized gasusually considered distinct phase matter contrastsolid liquid gas unique propertiesionized
+mean least one electron dissociated proportion
+atom molecule free electric charge make plasma
+electrically conductive responds strongly electromagnetic
+fields
+
+fourth state matter first identified discharge tube
+crookes tube described sir william crookes inhe
+called radiant matter nature crookes tubecathode
+ray matter subsequently identified british physicist sir thomson inand dubbed plasma irving langmuirperhaps reminded blood plasmalangmuir wrote
+
+except near electrode sheath containing
+electron ionized gas contains ion electrons
+equal number resultant space chargesmall shall use name plasma describe region
+containing balanced charge ion electrons
+
+plasma typically take form neutral gaslike cloud charged
+ion beam may also include dust grain called dusty plasmas
+typically formed heating ionizing gas stripping
+electron away atom thereby enabling positive negative
+charge move freely
+
+common plasmas
+
+plasma common phase matter estimate suggest
+toof entire visible universe plasma sincespace star filled plasma albeit sparse
+one see interstellar medium intergalactic space essentiallyentire volume universe plasma see astrophysical plasmasolar system planet jupiter accountnonplasma aboutof mass andof volume
+within orbit pluto notable plasma physicist hannes alfvn also
+noted due electric charge small grain also behave
+ion form part plasma see dusty plasmas
+common form plasma include
+
+artificially produced plasma
+
+found plasma display tvs
+inside fluorescent lamp low energy lighting neon signs
+rocket exhaust
+area front spacecraft heat shield reentryatmosphere
+fusion energy research
+electric arc arc lamp arc welder plasma torch
+plasma ball sometimes called plasma sphere plasma globe
+plasma used etch dielectric layer productionintegrated circuits
+
+terrestrial plasmas
+
+lightning
+ball lightning
+st elmos fire
+sprite elf jets
+ionosphere
+polar aurorae
+
+space astrophysical plasmas
+
+sun stars
+plasma heated nuclear fusion
+solar wind
+interplanetary medium
+space planets
+interstellar medium
+space star systems
+intergalactic medium
+space galaxies
+iojupiter fluxtube
+accretion disks
+interstellar nebulae
+
+plasma property parameters
+
+earth plasma fountain showing oxygen helium hydrogen
+ion gush space region near earth polefaint yellow area shown north pole represents gas lostearth space green area aurora borealisor plasma
+energy pouring back atmosphere
+enlarge
+earthsplasma fountain showing oxygen helium hydrogen
+ion gush space region near earth polefaint yellow area shown north pole represents gas lostearth space green area aurora borealisor plasma
+energy pouring back atmosphere
+
+plasma property strongly dependent bulk average
+parameter important plasma parameter degree
+ionization plasma temperature density magnetic
+field plasma region explain parameterdescribe plasma interact electric magnetic fieldoutline qualitative difference plasma gases
+
+definition plasma
+
+although plasma loosely described electrically neutral
+medium positive negative particle rigorous definition
+requires three criterion satisfied
+plasma approximation charged particle must close enough
+together particle influence many nearby charged
+particle rather interacting closest
+particle collective effect distinguishing featureplasma plasma approximation valid numberelectron within sphere influence called debye sphere
+whose radius debye screening length particular
+particle large average number particle debye
+sphere given plasma parameter 
+bulk interaction debye screening length definedshort compared physical size plasma criterion
+mean interaction bulk plasmaimportant edge boundary effect may take
+place
+plasma frequency electron plasma frequency measuring plasma
+oscillation electron large comparedelectronneutral collision frequency measuring frequencycollision electron neutral particlecondition valid plasma act shield charge rapidly
+quasineutrality another defining property plasmas
+
+range plasma parameters
+
+plasma parameter take value varying many ordermagnitude property plasma apparently disparate
+parameter may similar see plasma scaling following
+chart considers conventional atomic plasma exotic
+phenomenon like quark gluon plasmas
+typical range plasma parameter order magnitude oom
+characteristic terrestrial plasma cosmic plasmas
+size
+metresm lab plasmalightningoomm spacecraft sheathintergalactic nebulaoom
+lifetime
+second laserproduced plasmafluorescent lightsooms solar flareintergalactic plasmaoom
+density
+particle per
+cubic metreminertial confinement plasmaiem
+intergalactic mediumstellar core
+temperature
+kelvinsk crystalline nonneutral plasmak magnetic fusion plasmak aurorak solar core
+magnetic fields
+teslast lab plasmapulsedpower plasmat intergalactic mediumnear neutron stars
+
+degree ionization
+
+plasma exist ionization necessary degree ionization
+plasma proportion atom lost gained
+electron controlled mostly temperature evenpartially ionized gas little asof particleionized characteristic plasma respondmagnetic field highly electrically conductive degreeionizationis defined asninina ninumber density ion number density neutral atoms
+
+temperatures
+
+candle flame fire considered low temperature partial
+plasma
+enlarge
+candle flame fire considered low temperature partial
+plasma
+
+plasma temperature commonly measured kelvin electron volts
+roughly speaking measure thermal kinetic energy per
+particle case electron close enough thermal
+equilibrium temperature relatively welldefined even
+significant deviation maxwellian energy
+distribution function example due radiation energetic
+particle strong electric field large difference
+mass electron come thermodynamic equilibrium among
+much faster come equilibrium ionneutral atom reason ion temperature maydifferent usually lower electron temperatureespecially common weakly ionized technological plasmaion often near ambient temperature
+
+based relative temperature electron ion neutrals
+plasma classified thermal nonthermal thermal plasmaelectron heavy particle temperature iethermal equilibrium non thermal plasmahand ion neutral much lower temperature
+normally room temperature whereas electron much hotter
+
+temperature control degree plasma ionization particular
+plasma ionization determined electron temperature relativeionization energy weakly density accordance
+saha equation plasma sometimes referred hot
+nearly fully ionized cold small fractionexampleof gas molecule ionized definitionterm hot plasma cold plasma common even cold
+plasma electron temperature still typically several thousand
+degree celsius plasma utilized plasma technology technological
+plasma usually cold sense
+
+densities
+
+next temperature fundamental importanceexistence plasma important property density
+word plasma density usually refers electron
+density number free electron per unit volume ion
+density related average charge state langle zrangle
+ion nelangle zrangle nisee quasineutrality
+third important quantity density neutral hot plasma small may still determine important
+physic degree ionization ninni
+
+potentials
+
+lightning example plasma present earth surface
+typically lightning dischargesamperes tomillion
+volt emits light radio wave xrays even gamma ray 
+plasma temperature lightning approachkelvinelectron density may exceedenlarge
+lightning example plasma present earth surface
+typically lightning dischargesamperes tomillion
+volt emits light radio wave xrays even gamma ray 
+plasma temperature lightning approachkelvinelectron density may exceed
+since plasma good conductor electric potential playimportant role potential exists average space
+charged particle independent questionmeasured called plasma potential space potentialelectrode inserted plasma potential generally lie
+considerably plasma potential due developmentdebye sheath due good electrical conductivity electric
+field plasma tend small result important
+concept quasineutrality say good
+approximation assume density negative charge equal
+density positive charge large volume plasma 
+nelangle zrangle nibut scale debye lengthcharge imbalance special case double layerformed charge separation extend ten debye lengths
+
+magnitude potential electric field must determined
+mean simply finding net charge density common
+example assume electron satisfy boltzmann relation
+
+ne propto eephikbte 
+
+differentiating relation provides mean calculateelectric field density
+
+vecekbteenabla nene 
+
+course possible produce plasmaquasineutral electron beam example negative charges
+density nonneutral plasma must generally lowmust small otherwise dissipated repulsive
+electrostatic force
+
+astrophysical plasma debye screening prevents electric fielddirectly affecting plasma large distance greaterdebye length existence charged particle causeplasma generate affected magnetic fielddoe cause extremely complex behaviour generationplasma double layer object separate charge tens
+debye length dynamic plasma interacting externalselfgenerated magnetic field studied academic discipline
+magnetohydrodynamics
+
+magnetization
+
+plasma magnetic field strong enough influencemotion charged particle said magnetized common
+quantitative criterion particle average completes least
+one gyration around magnetic field making collision cecollwhere electron gyrofrequencycoll electron collision rate often caseelectron magnetized ion magnetized plasmas
+anisotropic meaning property direction
+parallel magnetic field different perpendicular
+electric field plasma usually small duehigh conductivity electric field associated plasma moving
+magnetic field given x e electric
+field velocity magnetic fieldaffected debye shielding
+
+comparison plasma gas phases
+
+plasma often called fourth state matter distinctthree lowerenergy phase matter solid liquid gas
+although closely related gas phase also hadefinite form volume still disagreement whether
+plasma distinct state matter simply type gasphysicist consider plasma gas number
+distinct property including following
+property gas plasma
+electrical conductivity low
+
+air quite good insulator demonstrated high
+voltage electric power transmission wire typically carry
+volt high voltage may lead electrical breakdown
+lower pressure fluorescent light neon signs
+
+high
+many purpose electric field plasma may treatedzero although current flow voltage drop though small
+finite density gradient usually associatedelectric field according boltzmann relation
+b electric current plasma couple connectinfluence strongly magnetic field resulting large
+variety structure filament sheet jets
+c collective phenomenon common electric magnetic
+force longrange potentially many order magnitude
+stronger gravitational forces
+
+independently acting specie one
+
+gas particle behave similar way influencedgravity collision one another
+
+two three
+electron ion neutral distinguished signcharge behave independently many circumstancedifferent velocity even different temperature leadingphenomenon new type wave instabilities
+velocity distribution
+maxwellian
+
+velocity distribution gas particle hacharacteristic shape
+
+may nonmaxwellian
+whereas collisional interaction always lead maxwellian velocity
+distribution electric field influence particle velocities
+differently velocity dependence coulomb collision cross
+section amplify difference resulting phenomenon like
+twotemperature distribution runaway electrons
+interaction binary
+twoparticle collision rule threebody collision extremely
+rare collective
+particle interacts simultaneously many otherscollective interaction ten time important binary
+collisions
+
+complex plasma phenomena
+
+remnant tychos supernova huge ball expanding plasmablue outer shell arises xray emission highspeed electrons
+enlarge
+remnant tychos supernova huge ball expanding plasmablue outer shell arises xray emission highspeed electrons
+
+although underlying equation governing plasma relatively
+simple plasma behaviour extraordinarily varied subtleemergence unexpected behaviour simple model typical
+feature complex system system lie senseboundary ordered disordered behaviour cannot typically
+described either simple smooth mathematical functionpure randomness spontaneous formation interesting spatial
+feature wide range length scale one manifestationplasma complexity feature interesting examplesharp spatially intermittent distancefeature much larger featurefractal form many feature first studiedlaboratory subsequently recognised throughoutuniverse example complexity complex structure plasmas
+include
+
+filamentation
+
+striation stringy thing seen many plasma likeplasma ball image aurora lightning electric arc solar
+flare supernova remnant sometimes associatedlarger current density also called magnetic rope see
+also plasma pinch
+
+shock double layers
+
+narrow sheet sharp gradient shock double layers
+support rapid change plasma property double layer involve
+localised charge separation cause large potential difference
+across layer doe generate electric field outsidelayer double layer separate adjacent plasma region different
+physical characteristic often found current carrying
+plasma accelerate ion electrons
+schematic representation heliospheric current sheetlargest structure solar system resulting influencesun rotating magnetic field plasma interplanetary
+medium solar wind sometimes informally referedballerina skirt modelenlarge
+schematic representation heliospheric current sheetlargest structure solar system resulting influencesun rotating magnetic field plasma interplanetary
+mediumsolar wind sometimes informally referedballerina skirt model 
+
+electric field circuits
+
+quasineutrality plasma requires plasma current closeelectric circuit circuit follow kirchhoffs
+circuit law posse resistance inductance circuits
+must generally treated strongly coupled systembehaviour plasma region dependent entire circuitstrong coupling system element togethernonlinearity may lead complex behaviour electrical circuits
+plasma store inductive magnetic energy circuitdisrupted example plasma instability inductive energy
+released plasma heating acceleration common
+explanation heating take place solar corona
+electric current particular magneticfieldaligned electric
+current sometimes generically referred birkeland
+current also observed earth aurora plasma
+filaments
+
+cellular structure
+
+narrow sheet sharp gradient may separate region different
+property magnetization density temperature resulting
+celllike region example include magnetosphere heliosphere
+heliospheric current sheet hannes alfvn wrotecosmological point view important new space research
+discovery probably cellular structure space haseen every region space accessible situ
+measurement number cell wall sheet electric
+current divide space compartment different
+magnetization temperature density etc 
+
+critical ionization velocity
+
+critical ionization velocity relative velocityionized plasma neutral gas sufficient substantially
+energise neutral lose electron energisation feeds
+back cause yet ionization process run awayalmost completely ionize gas critical phemonema generaltypical complex system may lead sharp spatial temporal
+features
+
+ultracold plasma
+
+saturn ring certain effect suggested duedusty plasma false colour image
+enlarge
+saturn ring certain effect suggested duedusty plasma false colour image
+
+possible create ultracold plasma using laser trapcool neutral atom temperature ofmk lower another laserionizes atom giving outermost electron enough
+energy escape electrical attraction parent ion
+
+key point ultracold plasma manipulating atoms
+laser kinetic energy liberated electroncontrolled using standard pulsed laser electron energymade correspond temperature low ask limit setfrequency bandwidth laser pulse ion however retain
+millikelvin temperature neutral atom typenonequilibrium ultracold plasma evolves rapidly many fundamental
+question behaviour remain unanswered experiment conducted
+far revealed surprising dynamic recombination behaviour
+pushing limit knowledge plasma physics
+
+nonneutral plasma
+
+strength range electric force good conductivity
+plasma usually ensure density positive negative
+charge sizeable region equal quasineutrality plasma
+ha significant excess charge densityextreme case composed single specie called nonneutral
+plasma plasma electric field play dominant role
+example charged particle beam electron cloud penning
+trap positron plasmas
+
+dusty plasma grain plasma
+
+dusty plasma one containing tiny charged particle dust
+typically found space also behaves like plasma plasma
+containing larger particle called grain plasma
+
+mathematical descriptions
+
+completely describe state plasma would need write
+particle location velocity describeelectromagnetic field plasma region however generally
+practical necessary keep track particleplasma therefore plasma physicist commonly use detailed
+description known model two main types
+
+fluid model
+
+fluid model describe plasma term smoothed quantity like
+density averaged velocity around position see plasma
+parameter one simple fluid model magnetohydrodynamics treatplasma single fluid governed combination maxwells
+equation navier stokes equation general description
+twofluid picture ion electron described
+separately fluid model often accurate collisionalitysufficiently high keep plasma velocity distribution closemaxwellboltzmann distribution fluid model usually describe
+plasma term single flow certain temperaturespatial location neither capture velocity space structures
+like beam double layer resolve waveparticle effects
+
+kinetic model
+
+kinetic model describe particle velocity distribution functionpoint plasma therefore need assumemaxwellboltzmann distribution kinetic description often
+necessary collisionless plasma two common approachkinetic description plasma one based representingsmoothed distribution function grid velocity positionknown particleincell pic technique includes kinetic
+information following trajectory large numberindividual particle kinetic model generally computationally
+intensive fluid model vlasov equation may useddescribe system particle evolves electromagnetic
+environment
+
+field active research
+
+hall effect thruster electric field plasma double layereffective accelerating ion electric field used ion
+drives
+enlarge
+hall effect thruster electric field plasma double layereffective accelerating ion electric field used ion
+drives
+
+partial list topic complete organized
+list found web site plasma science technology 
+plasma theory
+plasma equilibrium stability
+plasma interaction wave beams
+guiding centre
+adiabatic invariant
+debye sheath
+coulomb collision
+plasma nature
+earth ionosphere
+space plasma earth plasmasphere inner portionmagnetosphere dense plasma
+plasma cosmology
+plasma astronomy
+industrial plasmas
+plasma chemistry
+plasma processing
+vacuum plasmaspraying
+plasma display
+
+plasma sources
+dusty plasmas
+plasma diagnostics
+thomson scattering
+langmuir probe
+spectroscopy
+interferometry
+ionospheric heating
+incoherent scatter radar
+plasma applications
+fusion power
+magnetic fusion energy mfetokamak stellarator
+reversed field pinch magnetic mirror dense plasma focus
+inertial fusion energy ife also inertial confinement
+fusionicf
+plasmabased weaponry
+food processingnonthermal plasma
+
+pop culture
+
+plasma often discharge rayguns
+metroid series often plasmabased weapon exceptecho replaced laser based weaponbehaved like plasma
+

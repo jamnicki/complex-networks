@@ -1,0 +1,91 @@
+copyright
+
+acceleration
+
+ school wikipedia selection related subject general physics
+
+acceleration time rate change velocity point
+velocitytime graph given slope tangentpoint
+acceleration time rate change velocity point
+velocitytime graph given slope tangentpoint
+
+physic physical science acceleration symbol definedrate change derivative respect time velocitythus vector quantity dimension lengthtime units
+acceleration measured metressecond usingaccelerometer
+
+explanation
+
+accelerate object change velocityaccomplished altering either speed direction case
+uniform circular motion relation time strict
+mathematical sense acceleration positive negative values
+deceleration time signorof accelerationsign velocity object speedsign opposite object slow acceleration vector
+defined property magnitude size measurabilitydirection either velocity direction changedacceleration deceleration
+
+since
+
+vecfmathrmdvecp mathrmdt
+
+definition instantaneous acceleration
+
+alimdtrightarrowfracdvdtfracdvdt 
+fracddtfracdxdtfracdxdt
+
+also mathbfvintn mathrmdmathbfv mathrmdtdt
+mathbfvintn mathbfadtie velocity thoughtintegral acceleration respect time notedefinite indefinite integration
+
+mathbfa acceleration vector accelerationvector must described directionamagnitude
+v velocity function
+x position function also known displacement change
+position
+time
+leibniz notation differentiation
+
+velocity plotted time velocity time graphacceleration given slope derivative graph
+
+used standard unit metre per second velocity seconds
+time equation give unit readmetre per second per second metre per second squared
+
+average acceleration acceleration timecan defined
+
+mathbfbaramathbfvmathbfu
+
+u initial velocity 
+v final velocity 
+time interval elapsed two velocity
+measurement also written
+transverse accelerationperpendicular velocityacceleration parallel direction motion causes
+change direction constant magnitude changingdirection velocity get circular motioncentripetal acceleration
+mathbfafracvr fracmathbfrromega
+mathbfr
+
+one common unit acceleration one specifically gngbeing standard uniform acceleration free fall 
+caused gravitational field earth sea levellatitude
+
+jerk rate change object acceleration time
+
+classical mechanic acceleration related force fand
+mass massumed constant way newton second law
+
+mathbffm cdot mathbfa
+
+result invariance galilean transformations
+acceleration absolute quantity classical mechanics
+
+relation relativity
+
+defining theory special relativity albert einstein
+realized force felt object undergoing constant proper
+acceleration indistinguishable gravitational field
+thus defined general relativity also explained gravitys
+effect could limited speed light
+
+accelerate away friend could say givenframe reference friend accelerating away
+although feel force also basispopular twin paradox asks one twin age moving
+away sibling near lightspeed returning sinceaging twin say twin moving general
+relativity solved doe one object feel accelerated
+problem plagued philosopher scientist since newtons
+time caused newton endorse absolute space special
+relativity inertial frame reference nonaccelerated frames
+used equivalent general relativity considersframe even accelerated one equivalent changing
+velocity accelerated object exist warped spacereside gravitational field therefore frame reference must
+include description local spacetime curvature qualifycomplete
+

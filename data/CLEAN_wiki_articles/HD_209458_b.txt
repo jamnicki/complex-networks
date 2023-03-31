@@ -1,0 +1,110 @@
+copyright
+
+hdb
+
+ school wikipedia selection related subject space astronomy
+
+caption hdb
+
+extrasolar planetlists extrasolar planets
+
+artist conception hdb transiting star
+
+parent star
+starhd 
+constellationpegasus
+right ascensionhdeclination
+spectral typefgv
+orbital elements
+semimajor axisaau
+eccentricitye 
+orbital periodpd
+inclinationi
+longitudeperiastron
+time periastron
+jd
+physical characteristics
+massmmj
+radiusrrj
+densitykgtemperaturetk
+discovery information
+discovery date
+discoverersd charbonneau brown
+latham mayor
+gw henry marcy
+rp butler vogt
+detection methodtransit doppler spectroscopy
+discovery statusconfirmed
+designations
+osiris unofficial nickname
+
+hdb extrasolar planet orbit sunlike star constellation pegasus somelightyears earths
+solar system hdis magnitude star visible earth
+binoculars
+
+radius planet orbit ismillion kilometer 
+astronomical unit oneeighth radius mercury orbitsmall radius result year isearth day longestimated surface temperature aboutk mass istimes
+earthsjupiter mass indicatesprobably gas giant
+
+hdb first transiting extrasolar planet discoveredfirst extrasolar planet known atmosphere first
+extrasolar planet observed evaporating hydrogen atmosphere
+first extrasolar planet found atmosphere containing
+oxygen carbon
+
+hdb informally known osiris
+
+discovery
+
+spectroscopic study first revealed presence planet around novemberastronomers made careful photometric
+measurement several star known orbited planethope might observe dip brightness caused transit
+planet across star face would require planets
+orbit inclined would pas earthstar previously transit detected
+
+soon discovery separate team one led david charbonneau
+including timothy brown others gregory henry
+able detect transit planet across surfacestar making first known transiting extrasolar planetseptemberandcharbonneaus team measured adrophd brightness attributed passageplanet across star novemberhenrys team observed transit
+ingres transit last three hour planet
+cover aboutof star face
+
+star observed many time hipparcos satelliteallowed astronomer calculate orbital period accuratelydays
+
+physical parameters
+
+spectroscopic analysis shown planet mass 
+time jupiter occurrence transit allowed astronomers
+calculate planet radius possiblepreviously known exoplanet turned radius 
+larger jupiter previously hypothesised hot
+jupiter particularly close parent star exhibitkind inflation due intense heating outer atmosphere
+
+detection atmosphere
+
+transit hdb
+enlarge
+transit hdb
+
+novemberthe hubble space telescope detected sodiumplanet atmosphere first planetary atmosphere outside solar
+system measured inastronomers used hubble space
+telescope imaging spectrograph discover enormous ellipsoidal
+envelope hydrogen carbon oxygen around planet reaches
+c temperature boltzmann distribution particle
+velocity give rise significant tail atom moving speeds
+greater escape velocity planet estimatedlosing aboutkg hydrogen per second analysisstarlight passing envelope show heavier carbon
+oxygen atom blown planet extreme 
+hydrodynamic drag created evaporating hydrogen atmospherehydrogen tail streaming planet iskilometers long
+
+thought type atmosphere loss may commonplanet orbiting sunlike star closer aroundau b
+evaporate entirely although may lost 
+mass estimated lifetime ofbillion years
+
+direct detection
+
+marchnasa released news infrared lightplanet measured spitzer space telescope first ever
+direct detection light extrasolar planet donesubtracting parent star constant light notingdifference planet transited front stareclipsed behind providing measure light planet
+new measurement observation determined planets
+temperature leastcf circular orbithd wa also confirmed
+
+thought b day length years
+rotates axis every time rotates aroundstar similar moon orbit earth mean b
+tidally locked showing one side star would result
+uneven heating therefore possibility strong winds
+may detectable

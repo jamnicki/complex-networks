@@ -1,0 +1,212 @@
+copyright
+
+donald knuth
+
+ school wikipedia selection related subject computing people
+
+caption donald ervin knuth
+
+photographed jacob appelbaumoctober 
+photographed jacob appelbaumoctober 
+bornjanuary 
+milwaukee wisconsin usa
+residenceusa
+nationalityus
+fieldcomputer scientist
+institutionstanford university
+alma matercase institute technology
+california institute technology
+doctoral advisormarshall hall doctoral student vaughan pratt
+robert sedgewick
+jeffrey vitter
+known fortex
+art computer programming
+notable prizesjohn von neumann medal 
+religionlutheran
+
+donald ervin knuth knu born januaryis renowned
+computer scientist professor emeritus stanford university
+
+knuth best known author multivolume artcomputer programmingone highly respected referencecomputer science field practically created fieldrigorous analysis algorithm made many seminal contributionseveral branch theoretical computer science alsocreator tex typesetting system metafont font design
+system pioneered concept literate programming
+
+education academic work
+
+born milwaukee wisconsin received bachelor degreemaster degree mathematics simultaneously workregarded deserving master degree inat case institute
+technology part case western reserve university 
+earned phd mathematics california institutetechnology became professor began work artcomputer programming originally planned sevenvolume seriespublished first volume year joinedfaculty stanford university
+
+inknuth recipient first acm grace murray hopper
+award received various award including turing award
+national medal science john von neumann medal kyoto
+prize producing third volume series inhe
+expressed frustration nascent state newly
+developed electronic publishing tool esp provided input
+phototypesetters took time work typesettingcreated tex metafont tools
+
+recognition knuths contribution field computer
+science inhe awarded singular academic titleprofessor art computer programming sincerevised professor emeritus art computer programming
+
+inhe became associate french academy science also
+year retired regular research teaching stanford
+university order finish art computer programming 
+wa elected fellow royal society ofthe first
+three volume series reissued knuth currently
+working volume four excerpt released periodicallywebsite meanwhile knuth give informal lecture timeyear stanford university call computer musingalso visiting professor oxford university computing laboratory
+united kingdom
+
+addition writing computer science knuth alsoauthor ofbible text illuminatedisbnin
+attempt examine bible process stratified
+random sampling namely analysis chapterverseofbook verse accompanied rendering calligraphic art
+contributed group calligrapher leadership hermann
+zapf
+
+knuths humor
+
+knuth famous programmer known geek professional humor
+pay finder fee offor typosmistakes discovered
+book becausepennies one hexadecimal dollarbounty erratum inbible text illuminated however
+according article mit technology reviewreward check among computerdoms prized trophies
+version number tex software approach transcendental
+numberthat version increment styleand
+version number metafont approach number similarly
+warned user software beware bugcode proved correct triedappendix computer typesetting series titles
+begin letter identifying appendix
+taocp vhas index entry royalty use ofpage
+ha explicit mention royalty doe containdiagram organpipe arrangement figureapparentlypurchase pipe organ home see personalfinanced royalty taocp
+preface concrete mathematics dek taught concrete
+mathematics stanford first time explainedsomewhat strange title saying attempt teachmath course hard instead soft announcedcontrary expectation colleague wagoing teach theory aggregate stone embedding
+theorem even stoneech compactification several
+student civil engineering department got quietly
+left room
+knuth published first scientific article school magazine
+inunder titlepotrzebie system weightmeasure defined fundamental unit lengththickness mad magazineand named fundamental unitforce whatmeworry mad magazine bought article published
+juneissue
+knuths first mathematical article short paper submittedscience talent search contest highschool senior 
+published inin discussed number systemradix negative generalized number
+system radix complex number particulardefined quaterimaginary number system usimaginary number base unusual featureevery complex number represented digits
+andwithout sign
+knuths article computational complexity songreprinted twice computer science journals
+
+personal
+
+knuths hobby include music specifically playing organ hapipe organ installed home knuth disclaims particular talent
+instrument
+
+doe use email saying used aboutuntil
+januaryand enough one lifetime findefficient respond correspondence batch mode one day
+every three month sent postal mail
+
+married jill knuth published book liturgy titled
+banner without word published resource publication inthey
+two children
+
+member theta chi fraternity
+
+knuth emacs text editor
+
+awards
+
+first acm grace murray hopper award
+turing award
+national medal science
+john von neumann medal
+kyoto prize
+
+also chinese namepinyin dn given inby
+france yao first visit china
+
+works
+
+short list works
+donald knuth art computer programming volume 
+addisonwesley professional
+
+volumefundamental algorithm edition 
+addisonwesley professional isbn 
+volumeseminumerical algorithm edition 
+addisonwesley professional isbn 
+volumesorting searching editionaddisonwesley
+professional isbn 
+volumecombinatorial algorithm preparation
+volumesyntactic algorithm preparation estimatedready 
+
+donald knuth art computer programming fascicles
+
+volumefasciclemmixa risc computer new
+millenniumisbn 
+volumefasciclegenerating tuples permutation 
+isbn 
+volumefasciclegenerating combination partitions
+isbn 
+volumefasciclegenerating treeshistorycombinatorial generationisbn 
+
+donald knuth texbook reading massachusetts
+addisonwesleyisbn 
+donald knuth metafontbook reading massachusetts
+addisonwesleyisbn 
+ronald graham donald knuth oren patashnik concrete
+mathematics foundation computer science edition
+reading massachusetts addisonwesleyisbn 
+selected paper series
+
+donald knuth literate programming centre studylanguage informationlecture notesisbn 
+donald knuth selected paper computer science stanford
+california centre study language informationcsli
+lecture note noisbn 
+donald knuth digital typography stanford california centre
+study language informationcsli lecture noteisbn 
+donald knuth selected paper analysis algorithms
+stanford california centre study languageinformationcsli lecture note noisbn
+
+donald knuth selected paper computer language stanford
+california centre study language informationcsli
+lecture note noisbncloth isbn
+paperback
+donald knuth selected paper discrete mathematics stanford
+california centre study language informationcsli
+lecture note noisbncloth isbn
+paperback
+donald knuth selected paper design algorithm scheduled
+publication 
+donald knuth selected paper fun game scheduledpublication 
+
+donald knuthbible text illuminated madison wisconsin
+ar editionsisbn 
+donald knuth thing computer scientist rarely talkcentre study language informationcsli lecture
+note noisbn 
+interview lecture 
+doernberg computer literacy interview donald knuth 
+december 
+tug petersburg usa question answer prof
+donald knuth tugboat
+woehr interview donald knuth dobbs journal april
+p 
+donald knuth art computer programming addisonwesley
+innovation 
+question answer prof donald knuth czech tug
+charles university prague 
+knuth meet ntg member amsterdammarch 
+knuth comment code byte magazine september 
+donald knuth life work art programming amazoncom
+
+uk tug oxfordseptemberquestionanswer sessiondonald knuth tugboat
+dr dobbs audiovideo archive knuths mmix god 
+computer lecturesmit fall 
+donald knuth mmix risc computer new millennium audio
+recording presetation monthly meeting boston acm
+december 
+wallace mark art knuth interview saloncom
+
+advogatoalso available html version
+
+geek celebs 
+oslo 
+ctin german
+nzz folioin german
+donald knuth founding artist computer science audio interview
+david kestenbaum national public radio transcript 
+march 
+free software magazine interview gianluca pignalberi august
+
+

@@ -1,0 +1,366 @@
+copyright
+
+sequence alignment
+
+ school wikipedia selection related subject general biology
+
+bioinformatics sequence alignment way arrangingprimary sequence dna rna protein identify regionsimilarity may consequence functional structuralevolutionary relationship sequence aligned sequencenucleotide amino acid residue typically represented rows
+within matrix gap inserted residueresidue identical similar character aligned successive
+columns
+sequence alignment produced clustalw two human zinc
+finger protein identified genbank accession number keysequence alignment produced clustalw two human zinc finger
+protein identified genbank accession number key
+
+two sequence alignment share common ancestor mismatches
+interpreted point mutation gap indelsinsertion deletion mutation introduced one lineagetime since diverged one another protein sequence
+alignment degree similarity amino acid occupyingparticular position sequence interpreted rough
+measure conserved particular region sequence motif among
+lineage absence substitution presenceconservative substitution substitution amino acids
+whose side chain similar biochemical property particular
+region sequence suggest region structuralfunctional importance although dna rna nucleotide basesimilar amino acid conservation base
+pairing indicate similar functional structural role sequence
+alignment used nonbiological sequence identifying
+similarity series letter word present human
+language business specifically marketing sequencepurchase also increasingly analyzed methodbioinformatics
+
+short similar sequence aligned hand however
+interesting problem require alignment lengthy highly
+variable extremely numerous sequence cannot aligned solely
+human effort instead human knowledge primarily appliedconstructing algorithm produce highquality sequence alignments
+occasionally adjusting final result reflect patterns
+difficult represent algorithmically especially case
+nucleotide sequence computational approach sequence
+alignment generally fall two category global alignmentlocal alignment calculating global alignment form global
+optimization force alignment span entire lengthquery sequence contrast local alignment identify regionsimilarity within long sequence often widely divergent
+overall local alignment often preferabledifficult calculate additional challengeidentifying region similarity variety computational
+algorithm applied sequence alignment problem
+including slow formally optimizing method like dynamic programming
+efficient heuristic probabilistic method designedlargescale database search
+
+representations
+
+alignment commonly represented graphically text
+format almost sequence alignment representation sequencewritten row arranged aligned residue appear successive
+column text format aligned column containing identicalsimilar character indicated system conservation symbols
+image asterisk pipe symbol used show
+identity two column common symbol include colon
+conservative substitution period semiconservative
+substitution many sequence visualization program also use colordisplay information property individual sequence
+element dna rna sequence equates assigningnucleotide color protein alignment oneimage colour often used indicate amino acid propertyaid judging conservativeness given amino acid substitution
+multiple sequence last row column oftenconsensus sequence determined alignment
+
+sequence alignment stored wide variety textbased file
+format many originally developed conjunctionspecific alignment program implementation webbased tools
+allow number input output format fasta formatgenbank format however use specific tool authoredindividual research laboratory complicated limited file
+format compatibility general conversion program availablereadseq
+
+global local alignments
+
+illustration global local alignment demonstrating gappy
+quality global alignment occur sequenceinsufficiently similar
+illustration global local alignment demonstrating gappy
+quality global alignment occur sequenceinsufficiently similar
+
+global alignment attempt align every residue every
+sequence useful sequence query setsimilar roughly equal size doe mean global
+alignment cannot end gap general global alignment techniquecalled needlemanwunsch algorithm based dynamic
+programming local alignment useful dissimilar sequences
+suspected contain region similarity similar sequence
+motif within larger sequence context smithwaterman
+algorithm general local alignment method also based dynamic
+programming sufficiently similar sequencedifference local global alignments
+
+hybrid method known semiglobal glocal method attemptfind best possible alignment includes start end one
+sequence especially usefuldownstream part one sequence overlap upstream partsequence case neither global local alignmententirely appropriate global alignment would attempt forcealignment extend beyond region overlap local
+alignment might fully cover region overlap
+
+pairwise alignment
+
+pairwise sequence alignment method used find bestmatching
+piecewise local global alignment two query sequence pairwise
+alignment used two sequence timeefficient calculate often used methodrequire extreme precision searching database sequences
+high homology query three primary method producing
+pairwise alignment dotmatrix method dynamic programmingword method however multiple sequence alignment techniquealign two sequence although method individual
+strength weakness three method difficulty highly
+repetitive sequence low information contentespeciallynumber repetition differ two sequence aligned
+
+dotmatrix methods
+
+dna dot plot human zinc finger transcription factor genbank nm showing regional selfsimilarity main diagonal
+represents sequence alignment line main
+diagonal represent similar repetitive pattern within sequence
+typical example recurrence plot
+enlarge
+dna dot plot human zinc finger transcription factor genbank nm showing regional selfsimilarity main diagonal
+represents sequence alignment line main
+diagonal represent similar repetitive pattern within sequence
+typical example recurrence plot
+
+dotmatrix approach implicitly produce familyalignment individual sequence region qualitative simple
+though timeconsuming analyze large scale easyvisually identify certain sequence featuressuch insertions
+deletion repeat inverted repeatsfrom dotmatrix plotconstruct dotmatrix plot two sequence written alongtop row leftmost column twodimensional matrix dotplaced point character appropriate columns
+matchthis typical recurrence plot implementation varysize intensity dot depending degree similaritytwo character accommodate conservative substitution dot
+plot closely related sequence appear single line
+along matrix main diagonal
+
+dot plot also used ass repetitiveness single
+sequence sequence plotted regionshare significant similarity appear line main
+diagonal effect occur protein consists multiple
+similar structural domains
+
+dynamic programming
+
+technique dynamic programming applied produce global
+alignment via needlemanwunsch algorithm local alignment via
+smithwaterman algorithm typical usage protein alignment use
+substitution matrix assign score aminoacid matchmismatch gap penalty matching amino acid one
+sequence gap dna rna alignment may usescoring matrix practice often simply assign positive match
+score negative mismatch score negative gap penaltystandard dynamic programming score amino acid positionindependent identity neighbor therefore base
+stacking effect taken account however possibleaccount effect modifying algorithm
+
+dynamic programming useful aligning nucleotide protein
+sequence task complicated need take account
+frameshift mutation usually insertion deletion framesearch
+method produce series global local pairwise alignmentquery nucleotide sequence search set protein sequencevice versa although method slow ability evaluate
+frameshifts offset arbitrary number nucleotide makemethod useful sequence containing large number indelsdifficult align efficient heuristic methods
+practice method requires large amount computing powersystem whose architecture specialized dynamic programmingblast emboss suite provide basic tool creating translated
+alignment though approach take advantagesideeffects sequence searching capability toolgeneral method available commercial sourceframesearch distributed part accelrys gcg package open
+source software genewise
+
+dynamic programming method guaranteed find optimal
+alignment given particular scoring function however identifyinggood scoring function often empirical rather theoretical
+matter although dynamic programming extensible two
+sequence prohibitively slow large number extremely
+long sequences
+
+word methods
+
+word method also known ktuple method heuristic methodguaranteed find optimal alignment solutionsignificantly efficient dynamic programming methods
+especially useful largescale database searchunderstood large proportion candidate sequenceessentially significant match query sequence word methods
+best known implementation database search tools
+fasta blast family word method identify series short
+nonoverlapping subsequence word query sequencematched candidate database sequence relative positionword two sequence compared subtracted obtain
+offset indicate region alignment multiple
+distinct word produce offset region detected
+method apply sensitive alignment criterion thus many
+unnecessary comparison sequence appreciable similarityeliminated
+
+fasta method user defines value use word
+length search database method slowersensitive lower value also preferred searches
+involving short query sequence blast family search
+method provides number algorithm optimized particular types
+query searching distantly related sequence matches
+blast developed provide faster alternative fasta without
+sacrificing much accuracy like fasta blast word searchlength evaluates significant word match rather
+every word match doe fasta blast implementation usefixed default word length optimized query database
+type changed special circumstancesearching repetitive short query sequences
+implementation found via number web portal embl
+fasta ncbi blast
+
+idf method identifies weighted ngram sequence fragment large
+genomic database whose indexing characteristic permitconstruction indexed sequence retrieval program query
+processing time determined mainly size querynumber sequence retrieved rather number sequences
+scanned weighting scheme based inverse document
+frequency idf method weighting formula calculatesrelative importance indexing term based term distribution gpl
+opensource application
+
+multiple sequence alignment
+
+alignment ofavian influenza hemagglutinin protein sequence colored
+residue conservation top residue property bottom
+enlarge
+alignment ofavian influenza hemagglutinin protein sequence colored
+residue conservation top residue property bottom
+
+multiple sequence alignment msa extension pairwise alignment
+incorporate two sequence time multiple alignment
+method try align sequence given query set
+multiple alignment often used identifying conserved sequence
+region across group sequence hypothesized evolutionarily
+related conserved sequence motif used conjunctionstructural mechanistic information locate catalytic active
+site enzyme alignment also used aid establishing
+evolutionary relationship constructing phylogenetic tree msascomputationally difficult produce formulationproblem lead npcomplete combinatorial optimization problems
+nevertheless utility alignment bioinformatics led
+development variety method suitable aligning three
+sequences
+
+dynamic programming
+
+technique dynamic programming theoretically applicablenumber sequence however computationally expensive
+time memory rarely used three four
+sequence basic form method requires constructingndimensional equivalent sequence matrix formed two
+sequence number sequence query standard
+dynamic programming first used pair query sequencealignment space filled considering possible matches
+gap intermediate position eventually constructing alignment
+essentially twosequence alignment althoughtechnique computationally expensive guarantee global
+optimum solution useful case sequence needaligned accurately one method reducing computational
+demand dynamic programming relies sum pairs
+objective function implemented msa software package
+
+progressive methods
+
+progressive hierarchical tree method generate msa first
+aligning similar sequence adding successively less
+related sequence group alignment entire query set
+ha incorporated solution initial tree describing
+sequence relatedness based pairwise comparison may
+include heuristic pairwise alignment method similar fasta
+progressive alignment result dependent choicerelated sequence thus sensitive inaccuracyinitial pairwise alignment progressive msa method additionally
+weight sequence query set according relatedness
+reduces likelihood making poor choice initial
+sequence thus improves alignment accuracy
+
+many variation clustal progressive implementation usedmultiple sequence alignment phylogenetic tree constructioninput protein structure prediction slower accurate
+variant progressive method known tcoffee implementations
+found clustalw tcoffee
+
+iterative methods
+
+iterative method attempt improve weak pointprogressive method heavy dependence accuracyinitial pairwise alignment iterative method optimize objective
+function based selected alignment scoring method assigninginitial global alignment realigning sequence subsetrealigned subset aligned produce next
+iteration msa various way selecting sequence subgroupobjective function reviewed 
+
+motif finding
+
+motif finding also known profile analysis construct global msas
+attempt align short conserved sequence motif amongsequence query set usually done first constructing
+general global msa highly conserved regionisolated used construct set profile matrix profile
+matrix conserved region arranged like scoring matrixfrequency count amino acid nucleotide position
+derived conserved region character distribution rather
+general empirical distribution profile matrices
+used search sequence occurrence motif
+characterize case original data set containedsmall number sequence highly related sequences
+pseudocounts added normalize character distributions
+represented motif
+
+technique inspired computer science
+
+variety general optimization algorithm commonly used computer
+science also applied multiple sequence alignment
+problem recently hidden markov model used produce
+probability score family possible msas given query set
+genetic algorithm simulated annealing also usedoptimizing msa score judged scoring function likesumofpairs method complete detail software packagefound main article multiple sequence alignment
+
+structural alignment
+
+structural alignment usually specific proteinsometimes rna sequence use information secondarytertiary structure protein rna molecule aid aligning
+sequence method used two sequencetypically produce local alignment however dependavailability structural information usedsequence whose corresponding structure known usuallyxray crystallography nmr spectroscopy proteinrna structure evolutionarily conserved sequence
+structural alignment reliable sequencedistantly related diverged extensivelysequence comparison cannot reliably detect similarity
+
+structural alignment used gold standard evaluating
+alignment homologybased protein structure predictionexplicitly align region protein sequence structurally
+similar rather relying exclusively sequence information
+however clearly structural alignment cannot used structure
+prediction least one sequence query set target
+modeled structure known shown
+given structural alignment target template
+sequence highly accurate model target protein sequenceproduced major stumbling block homologybased structure
+prediction production structurally accurate alignment given
+sequence information
+
+dali
+
+dali method distance matrix alignment fragmentbased
+method constructing structural alignment based contact
+similarity pattern successive hexapeptides query
+sequence generate pairwise multiple alignment identify
+query sequence structural neighbor protein data bank pdb
+ha used construct fssp structural alignment database
+fold classification based structurestructure alignmentprotein family structurally similar protein dali
+webserver accessed ebi dali fssp locateddali database
+
+ssap
+
+ssap sequential structure alignment program dynamic
+programmingbased method structural alignment atomtoatom
+vector structure space comparison point extended
+since original description include multiple well pairwise
+alignment used construction cath class
+architecture topology homology hierarchical database classification
+protein fold cath database accessed cath protein
+structure classification
+
+combinatorial extension
+
+combinatorial extension method structural alignment
+generates pairwise structural alignment using local geometryalign short fragment two protein analyzedassembles fragment larger alignment based measures
+rigidbody root mean square distance residue distance local
+secondary structure surrounding environmental featureresidue neighbour hydrophobicity local alignment called aligned
+fragment pair afp generated used build similarity
+matrix representing possible structural alignment within
+predefined cutoff criterion path one protein structure statetraced matrix extending growing
+alignment one fragment time optimal path defines alignment webbased server implementing method providingdatabase pairwise alignment structure pdb locatedcombinatorial extension website
+
+phylogenetic analysis
+
+phylogenetics sequence alignment closely related field dueshared necessity evaluating sequence relatedness fieldphylogenetics make extensive use sequence alignmentconstruction interpretation phylogenetic tree used
+classify evolutionary relationship homologous genes
+represented genome divergent specie degreesequence query set differ qualitatively relatedsequence evolutionary distance one another roughly speaking
+high sequence homology suggests sequence questioncomparatively young recent common ancestor low homology
+suggests divergence ancient approximationreflects themolecular clock hypothesis roughly constant rate
+evolutionary change used extrapolate elapsed time
+since two gene first diverged coalescence time assumes
+effect mutation selection constant across sequence
+lineage therefore doe account possible difference among
+organism specie rate dna repair possible
+functional conservation specific region sequence case
+nucleotide sequence molecular clock hypothesisbasic form also discount difference acceptance ratesilent mutation alter meaning given codonmutation result different amino acidincorporated protein statistically accurate methods
+allow evolutionary rate branch phylogenetic treevary thus producing better estimate coalescence time genes
+
+progressive multiple alignment technique produce phylogenetic tree
+necessity incorporate sequence growing
+alignment order relatedness technique assemble msas
+phylogenetic tree score sort tree first calculate msa
+highestscoring tree commonly used method phylogenetic
+tree construction mainly heuristic problem selecting
+optimal tree like problem selecting optimal msanphard
+
+assessment significance
+
+sequence alignment useful bioinformatics identifying
+sequence similarity producing phylogenetic tree developing
+homology model protein structure however biological
+relevance sequence alignment always clear alignmentoften assumed reflect degree evolutionary changesequence descended common ancestor however formally
+possible convergent evolution occur produce apparent
+similarity protein evolutionarily unrelatedperform similar function similar structures
+
+database search blast statistical method determine
+likelihood particular alignment sequence sequence
+region arising chance given size compositiondatabase searched value vary significantly depending
+search space particular likelihood finding given
+alignment chance increase database consistssequence organism query sequence repetitive
+sequence database query also distort search
+result assessment statistical significance blast
+automatically filter repetitive sequence query avoid
+apparent hit statistical artifacts
+
+scoring functions
+
+choice scoring function reflects biologicalstatistical observation known sequence importantproducing good alignment protein sequence frequently aligned
+using substitution matrix reflect probability given
+charactertocharacter substitution series matrix called pam
+matrix percent accepted mutation matrix originally definedmargaret dayhoff sometimes referred dayhoff matrices
+explicitly encode evolutionary approximation regarding rateprobability particular amino acid mutation another common series
+scoring matrix known blosum block substitution matrix
+encodes empirically derived substitution probability varianttype matrix used detect sequence differing
+level divergence thus allowing user blast fasta restrict
+search closely related match expand detectdivergent sequence gap penalty account introductiongapon evolutionary model insertion deletion mutationin
+nucleotide protein sequence therefore penalty values
+proportional expected rate mutationquality alignment produced therefore depends qualityscoring function
+
+useful instructive try alignment several
+time different choice scoring matrix andor gap penalty
+value compare result noting region look similarmatter setting used look different one getexcellent sense algorithm difficulty finding robust
+solution
+
+software
+
+common software tool used general sequence alignment task include
+clustalw tcoffee alignment blast database searching
+complete list available software categorized algorithmalignment type available sequence alignment software
+
+alignment algorithm software directly compared one
+another using standardized set benchmark reference multiple
+sequence alignment known balibase dataset consistsstructural alignment considered standardpurely sequencebased method compared relative performancemany common alignment method frequently encountered alignment
+problem tabulated selected result published onlinebalibase
+

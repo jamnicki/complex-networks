@@ -1,0 +1,945 @@
+copyright
+
+floppy disk
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+floppy disk drive
+ainch diskette removed casing
+date invented 
+invented bydavid noble
+connectsmotherboard via proprietary connector
+
+disk types
+high density
+double density
+old
+
+floppy disk data storage device composed diskthin flexible floppy magnetic storage medium encased square
+rectangular plastic shell floppy disk read writtenfloppy disk drive fdd latter initialism confusedfixed disk drive old ibm term hard disk drive
+
+background
+
+floppy disk also known floppy diskette name chosenorder similar word cassette ubiquitousused home personal computer platform apple macintosh commodoreamiga ibm
+pc distribute software transfer data computer create
+small backup popularization hard drive pcs
+floppy disk often used store computer operating system
+application software data many home computerprimary kernel stored permanently onboard rom chipstored disk operating system floppy whetherproprietary system cpm later dos
+
+early increasing size software meant many
+program distributed set floppy toward endsoftware distribution gradually switched cdromhigherdensity backup format introduced iomega zip
+disk arrival mass internet access cheap ethernet usb
+key floppy longer necessary data transfer eitherfloppy disk essentially superseded mass backup made
+high capacity tape drive dat streamer writtencd dvd one financially unsuccessful attempt latecontinue floppy superdisk capacity 
+mb actuallymib drive backward compatiblestandard inch floppies
+
+nonetheless manufacturer reluctant remove floppy drive
+pc backward compatibility many companies
+department appreciated builtin file transfer mechanismalways worked required device driver operate properly apple
+computer first massmarket computer manufacturer dropfloppy drive computer model altogether releaseimac model inand dell made floppy drive optionalmodel starting date however move stillmarked end floppy disk mainstream mean data storage
+exchange
+
+external usbbased floppy disk drive available computers
+without floppy drive work machine support usb
+
+floppy disk size almost universally referred imperial
+measurement even country metric standard even
+size fact defined metric instance inch
+floppy actuallycm formatted capacity generally set
+term binary kilobyte assector generallybytes
+however recent size floppy often referred strange
+hybrid unit amegabyte floppy isbytesbyte 
+
+caption historical sequence floppy disk format including last
+format generally adoptedthemb inch floppy
+introduced 
+
+floppy disk format year introduced formatted
+storage capacity
+binary kilobyte stated marketed
+capacity
+inchibm readonlykilobytes 
+inchmemorexkilobytesmegabits unformatted
+inchsssd
+
+ibm fdshugart 
+kilobytesmegabits unformatted
+inchdssd
+
+ibm fdshugart 
+kilobytesmegabits unformatted
+inchtrackkb
+inch dsdd
+
+ibm fdshugart 
+mb
+inch ddkb
+inch
+hp single sidedkb
+inch
+inch releasekb
+inch qdmb
+inch inch
+mitsumi quick diskto
+inch
+inch perpendicularmib 
+inch hdmb
+inch edmb
+inch lsmibmb
+inch lsmibmb
+inch hifdmibmb
+acronymsdddouble density qdquad density hdhigh density extended density lslaser servo hifdhigh capacity floppy disk
+
+sssingle sided dsdouble sided
+formatted capacity floppy disk frequently correspondedvaguely capacity marketed drive medium companies
+primarily due difference formatted unformatted
+capacity also due nonstandard use binary prefixlabeling advertising floppy medium themb valueinch floppy widely known example see reported
+storage capacity
+date capacity markedare unclear origin need source
+information listed capacity refer
+formatted storage capacity total size sector disk
+inch see table inch floppy format ibmformats note
+spare hidden otherwise reserved sector includednumber
+forand inch capacity quoted subsystem system
+vendor statements
+
+marketed capacity capacity typically unformattedoriginal medium oem vendor case ibm medium first oem
+thereafter format may get capacitydrive disks
+
+history
+
+origin inch disk
+
+inch disk drive halfinserted floppy disk
+enlarge
+inch disk drive halfinserted floppy disk
+
+inibm gave san jose california storage development centre
+new task develop simple inexpensive system loading
+microcode system mainframe first ibm
+machine use semiconductor memory whenever power turned
+microcode reloadedmagnetic core memory usedpredecessor system line lose contents
+powered normally task would left various tape
+drive almost allsystems included tape largeslow ibm wanted something faster purposebuilt could
+also used send update customer 
+
+david noble working direction alan shugart triednumber existing solution see could develop newstyle
+tape purpose eventually gave startedresult readonly inchcm floppy called memory
+disk holdingkilobytes original version simply disk
+dirt became serious problem enclosedplastic envelope lined fabric would pick dirt new
+device developed code name minnow became standard partthein 
+
+japanese inventor yoshiro nakamatsu aka nakamats claimindependently came floppy disk principle back inand
+sale license acquired ibm started
+manufacturing floppy disk systems
+
+alan shugart left ibm moved memorex team inshipped
+memorexthe first readwrite floppy disk drive
+
+inibm released new version floppy time 
+data entry system new system used different recording format
+stored tokb disk readwritedrive became common soon used move smaller amounts
+data around almost completely replacing magnetic tapes
+
+ibm standard softsectored disk format designed holdmuch data one box punch card disk divided 
+track ofsectors holdingbytes notesector whereas box punch card heldcards
+
+first microcomputer developedinch floppy found place one high speed mass
+storage device even remotely affordable target
+market individual small business first microcomputer
+operating system cpm originally shipped inch disk however
+drive still expensive typically costingcomputer attached early day machineera used cassette tape instead
+
+began change acceptance first standardfloppy disk ecma authored jim oreilly burroughs helmuth
+hack basf others oreilly set record maneuveringdocument ecmas approval process standard
+subcommittee formed one meeting ecma approvaldraft standard next meeting three month later standard
+later formed basis ansi standard standardization
+brought together variety competitor make medium single
+interchangeable standard allowed rapid quality cost
+improvement
+
+shugart moved found shugart associate started
+working improvement existing inch format eventually
+creating newkb system however profit hard findinhe forced company
+
+burroughs corporation meanwhile developing highperformance
+dualsided inch drive glenrothes scotland factorycapacity ofmb mib unit exceeded ibms drive capacity 
+time able provide enough space run softwarestore data new burroughs data entry systemincidentally first vlsi disk controller industrydualsided floppy entered production inbut plaguedindustry problem poor medium quality tool availabletest medium bitshift inner track made high
+error rate result substantial investment burroughs
+medium tester designed nigel mackintosh later made
+important contribution science phase margin analysisgave medium maker quality control tool leadingvast improvement yields
+
+inch minifloppy inch floppy
+
+inch disk partly exposed magnetic medium spuncentral hub reading flexible plastic cover contains cloth
+inner liner brush dust medium note writeenable slot
+upper right confusingly also called writeprotect notch
+enlarge
+inch disk partly exposed magnetic medium spuncentral hub reading flexible plastic cover contains cloth
+inner liner brush dust medium note writeenable slot
+upper right confusingly also called writeprotect notch
+
+inburroughs plant glenrothes developed prototype inch
+drive stimulated need overcome larger inch
+floppy asymmetric expansion property changing humidityreflect knowledge ibms audio recording product divisiondemonstrating dictation machine using inch disk oneindustry historic gaffe burroughs corporate management decidedwould inexpensive make enough money shelvedprogram
+
+intwo shugart associate employee jim adkissonmassaro approached wang wang laboratory feltinch format simply large desktop word processing
+machine developing time meeting barboston adkisson asked wang size thought diskwang pointed napkin said size adkisson took
+napkin back california found inchescm wide
+developed new drive size storingkb later increased
+tokb addingtracks believed first standard
+computer medium promulgated ibm
+
+inch drive considerably expensive inch drives
+ibm soon started appearing cpm machine one point
+shugart producingdrives day bytheremanufacturer producing inch floppy drive competing physical
+disk format hardsectoredkb softsectoredkbinch format quickly displaced inch applications
+inch hardsectored disk format eventually disappearedearly drive read one side disk leading popular
+budget approach cutting second writeenable slot index hole
+carrier envelope flipping thus theflippy
+disk use side additional storage methodrisky flipped disk would spin opposite
+direction inside cover dirt collected
+fabric lining previous rotation would pickeddisk dragged past readwrite head
+floppy disk write protect tab sticky paper tab foldednotch side inch disk prevent computerwriting data disk later disk inch diskbuiltin slideable plastic tab implement writeprotection
+enlarge
+floppy disk write protect tab sticky paper tab foldednotch side inch disk prevent computerwriting data disk later disk inch diskbuiltin slideable plastic tab implement writeprotection
+
+tandon introduced doublesided drive indoubling capacity
+new double density format increased tokb
+
+floppy drive primary
+storage device microcomputer since micros hard
+drive usually booted one floppy disk waremoved replaced another one containing applicationmachine using two disk drive one dual drive allowed userleave disk place simply change application diskneeded early strackperinch drive appeared
+increasing capacity fromtokb see
+widespread use supported ibm another
+oddball format used digital equipment corporation rainbow
+decmateii pro heldkb single side using 
+tracksperinch crammingsectors per track
+front back floppy writeprotect tab
+
+despite available capacity disk supportpopular operating system early pcdos msdoslagged
+slightly behind fact original ibm include floppy
+drive standard equipmentyou could either buy optional
+inch floppy drive rely upon cassette port version 
+dosonly single sidedkb floppy supported version
+next year saw support expand doublesidedkb disks
+finally indossupportedsectors per track rather 
+total ofkb disk space along change came
+support different directory disk commonly called
+folder came handy organizing greater numberfile possible increased space
+
+inalong ibm pcat quad density disk appeared
+usedtracks per inch combined higher density magnetic
+medium providekib storage formerly referred 
+megabyte since usual expensive hard disk held 
+megabyte time considered quite spacious
+
+end inch disk supersededinch disk though inch drive still availabledisk faded popularity began main community
+user primarily still owned legacy machines
+running msdos inch drive advent windowsnot
+even sold store inch version coupon obtained
+mailed subsequent phaseout standalone msdosversionforced many upgrade hardware new
+computer inch drive optional equipment mids
+drive virtually disappeared inch disk becamepreeminent floppy disk
+
+twiggy disk
+
+development apple lisa apple developed disk format
+codenamed twiggy basically similar standard disk
+twiggy disk additional set write window topdisk label running side drive also
+present prototype original apple macintosh computerremoved mac later version lisa favourfloppy disk sony drive notoriously unreliableapple criticized needlessly diverging industry standards
+
+new format standard
+
+throughout early limitation inch formatstarting become clear originally designed smallerpractical inch inch system largequality recording medium grew amount data couldplaced smaller surface another problem inch disks
+simply copy inch physical format never
+really engineered ease use thin foldedplastic shell
+allowed disk easily damaged bending allowed dirt
+get onto disk surface opening
+
+number solution developed drive inch inch
+inch inchandmm offered various
+company shared number advantage older
+format including small form factor rigid case slideable
+write protect catch almostuniversal use inch format
+made difficult new format gainsignificant market share
+
+standard inch inch disk used spin speed basic
+hardware interface standard inch drive allowing used
+existing controller format although new format later
+developed relied higher quality hardware new drive
+type ibm particular never officially shared format
+two drive type though possible misidentifydrive desired
+
+inch compact floppy disk
+
+cf harder casing inch floppy metal dooropened sliding plastic tab right side
+enlarge
+cf harder casing inch floppy metal dooropened sliding plastic tab right side
+
+original concept inch hard case floppy disk developedmarcell jnosi hungarian inventor budapest radiotechnic
+company budapesti rditechnikai gyrbrg system brg
+mcd patented later patent extended
+therefore protection lost amdek released amdisk
+microfloppydisk cartridge system decemberoriginally
+designed use apple disk interface card also
+connected computer successfully
+
+drive originally designed inby brg mcdlater hitachi matsushita maxell teac outside
+network known produced drive similarly three
+manufacturer mediamaxell matsushita tatung known
+sometimes also branded yamaha amsoft panasonic tandy godexcodixons noname disk questionable quality seen
+wild
+
+amstrad incorporated inch singlesided drive cpc pcw
+line format drive mechanism later inheritedzx spectrumcomputer amstrad bought sinclair later models
+pcw featured doublesided double density drives
+
+inch medium doublesided nature singlesided drive
+owner able flip disk use side sides
+termed completely independentsinglesided drive unit could access upper side one time
+
+disk format capacity popularcheap inch floppy side heldkib total ofkib
+per disk laterkib pcw range unlike inchinch disk inch disk designed reversiblesported two independent writeprotect switch alsoreliable thanks hard casing review time reported
+driving problems
+
+inch drive also used number exotic obscure cpm
+system tatung einstein occasionally msx systemregion computer used formatunknown gavilan mobile computer matsushitas national mybrain 
+yamaha mdr also used inch drives
+
+main problem format high price due quite
+elaborate complex case mechanism however tip weight
+wa sony inconvinced apple computer use inch
+drive macintosh model effectively making inch
+drive defacto standard
+
+mitsumis quick disk inch floppies
+
+smith corona datadisk inch actually measure aboutinch
+square disk one different mitsumi quick disk
+package vary storage capacity casing size quick
+disk inch magnetic medium breakoff writeprotection tabs
+one side contains seethrough hole near center
+spindle probably used indexing ensure spindle clamping
+note label indicate disk side backside b label
+enlarge
+smith corona datadisk inch actually measure aboutinch
+square disk one different mitsumi quick disk
+package vary storage capacity casing size quick
+disk inch magnetic medium breakoff writeprotection tabs
+one side contains seethrough hole near centre
+spindle probably used indexing ensure spindle clamping
+note label indicate disk side backside b label
+
+another inch format mitsumis quick disk format quick disk
+format referred various size reference inch
+inchinch inchinch confusing trying categorize
+disk perhaps understood mitsumi offeredoem equipment expecting var customer customize packaging
+particular use nintendo packaged inch magnetic
+medium inchinch housing others packaged media
+ahousing explains different numbering labelgenerically call mitsumi quick disk inch format
+
+quick disk successful use nintendos famicom disk
+system fds package mitsumis quick disk used inchinch
+plastic housing called disk system card fds diskcover protection prevent medium contamination later
+special series five game include protective shutter
+
+mitsumis inch quick disk medium also used inchinch
+housing many smith corona word processor smith corona disks
+confusingly labeled datadiskinch presumably referringsize medium inside hard plastic case
+
+quick disk also used several midi keyboard midi
+sampler mid noninclusive list includes roland
+mt sampler korg sqd midi sequencer akais 
+model drive midi sampler akais x
+roland yamaha mdf midi disk drive intendeddxtx synthesizer rxl drum machine qx midi sequencers
+
+cost add inch drive still quite high
+mitsumi quick disk competing lower cost alternative
+packaged several obscure bit computer system another
+noninclusive list quick disk version qdm casio drive peripheral sharp mzmz systemdpq quickdisk daewoodynadata msx dpc dragon
+machine crescent quick diski andperipheralszx spectrum triton quick disk peripherial alsozx spectrum spectrum
+
+world spectrum faq reveals drive come different
+sizestokb cresents incarnation triton
+system density ofbpi data transmission rate 
+kb inch double sided disk type capacity 
+sector per side atkb per sector tokb per disk quick
+disk used famicom disk system holdskb data per side
+requiring manual turnover access second side
+
+significant note quick disk utilizes continuous
+linear tracking head thus creates single spiral track
+along disk similar record groove ledcompare tapestream unit typically thought
+randomaccess disk drive
+
+inch microfloppy diskette
+
+nonferromagnetic metal sliding door protects inch floppy
+disk recording medium
+enlarge
+non ferromagnetic metal sliding door protects inch floppy
+disk recording medium
+close macro photograph back inch disk
+enlarge
+close macro photograph back inch disk
+basic internal component inch floppy disk writeprotect
+tab hub shutter plastic housing paper ring magnetic disk
+disk sector
+enlarge
+basic internal component inch floppy disk
+writeprotect tab
+hub
+shutter
+plastic housing
+paper ring
+magnetic disk
+disk sector
+
+sony introduced smallformatmm disk similarothers somewhat simpler construction amdiskfirst computer use format hp ofand sony also
+used fairly widely line msx computerformat suffered similar fate new formatinch format simply much market share thing changed
+dramatically inwhen apple computer selected formatnew macintosh computer bythe inch outsellinginch
+
+inch disk way rigid case slideinplace
+metal cover significant advantage much better protected
+unintended physical contact disk surface inch
+disk disk handled outside disk drive disk
+wa inserted part inside drive moved metal cover aside
+giving drive readwrite head necessary accessmagnetic recording surface adding slide mechanism resultedslight departure previous square outline irregular
+rectangular shape additional merit made impossible
+insert disk sideways mistake indeed possibleearlier formats
+
+shutter mechanism without problem however oldroughly treated disk shutter could bend away diskmade vulnerable ripped completely doedamage disk doe leave much vulnerable dust
+worse catching inside drive possibly either getting stuck
+inside damaging drive disk cover bending awaybest option rip cover make sure doe catchdrive immediately copy data modern
+floppy springy plastic cover doe tend bend away
+disk
+
+like inch inch disk underwent evolutionapple introduced macintosh init used singlesided
+inch disk drive advertised capacity ofkb encoding
+technique used drive known gcr group code
+recording somewhat later pccompatible machine began using
+singlesided inch disk advertised capacity ofkbsinglesided inch disk different incompatible
+recording format called mfmmodified frequency modulation gcrmfm drive formatted disk incompatible althoughphysical disk inapple introduced doublesided
+kb disk still using gcr around timekb
+doublesided doubledensity mfm disk began appearpccompatibles
+
+newer highdensity format displayed disks
+storingkb data introduced inthese
+hd disk extra hole case opposite sidewriteprotect notch ibm used format series
+introduced inapple started using inon macintosh
+iix floppy drive soon became universal virtuallymacintosh hardware apple drive capable readingwriting gcr mfm formatted disk thus made relatively
+easy exchange file user apple marketed drivesuperdrive interestingly apple began using superdrive brand
+name aroundto denote allformats cddvd
+readerwriter
+
+another advance oxide coating allowed new
+extendeddensity format atkb introduced second
+generation next computer inand ibm modelalsotime available already smallcapacity useful advance format never became
+widely used inch drive sold decade later still use
+samemb format standardized inin iso
+
+
+reporteddshd fdd storage capacity
+
+unformatted capacity inch double sided high density floppy
+disk ismegabytes common format capacitybyte ormb simply dividing byinbinary prefix numbering system ismib
+
+neither number generally used however numberfrequently printed floppy ismb valueapparently reached doubling decimal system capacityprior generationkb actually kib double sided double
+density floppy disk dividing byto arrive atkilokibi
+byte mislabeling person expecting themb
+number either binary prefix decimal would always miscalculate
+number floppy needed
+
+floppy replacements
+
+early number attempt made various
+company introduce newer floppylike format basednowuniversal inch physical format system provided
+ability read write standard hd disktime introducing much highercapacity format wellnumber time felt existing floppy wareplaced one newer device varietyproblem ensured never took place none ever reachedpoint could assumed every current would one
+largely replaced dvd burner usb
+flash drives
+
+main technological change addition tracking information
+disk surface allow readwrite head positionedaccurately normal disk information drive use
+track feedback loop order centre
+newer system generally used mark burned ontosurface disk find track allowing track widthgreatly reduced
+
+flextra
+
+early asbrier technology introduced flextra 
+boastedmb marketing true size waskibmib
+unformatted later year introduced brdoubled capacity model could also read standard inch
+disks
+
+apparently used inch standard disk servo information
+embedded use twin tier tracking technology
+
+floptical
+
+ininsite peripheral introduced thefloptical usedinfrared led position head mark disk surfaceoriginal drive storedmib also reading writing standard
+dd floppy order improve data transfer speed make
+highcapacity drive usefully quick well driveattached system using scsi connector instead normal
+floppy controller made appear operating systemhard drive instead floppy meaning unableboot adversely affected adoption rates
+
+insite licenced technology number companyintroduced compatible device well even largercapacity formats
+popular far l mentioned
+zip drive
+
+iniomega introduced zip drive true inch form
+factor hence compatible standardmb floppymay actually good thing drive removed big
+potential source problem became popular super
+floppy boastedmb latermb thenmb storage
+came market right time zip drive gainingpopularity several year never reached market
+penetration floppy drive new computer sold
+zip drive eventually falling price cdr cdrw media
+flash drive notorious hardware failure socalled 
+click death reduced popularity zip drive
+
+major reason failure zip drive also attributedhigher pricing carried however hardware vendorhewlett packard dell compaq promoted high
+level zip drive medium primarily popular excellent
+compression ratio drive speed carried always
+overshadowed price
+
+ls
+
+announced inthesuperdisk drive often seen brand
+name matsushita panasonic imation initial capacitymbmib using even higher density disks
+
+wa upgraded tombmib coulddrive read writekb disk last version drives
+could writemb onto normalkb disk see noteunfortunately popular opinion held super disk disk quite
+unreliable though zip drive syquest
+technology offering period also many
+reported problem moving standard floppy drivenormal floppy drive true otherwise crippled adoption
+
+sony hifd
+
+sony introduced flopticallike system inas themib
+sony hifd although time already garneredmarket penetration industry observer nevertheless confidently
+predicted hifd would real floppykiller finally replace
+floppy machines
+
+short time market product pulleddiscovered number performance reliability problems
+made system essentially unusable sony reengineereddevice quick rerelease extended delay wellinstead increased capacity tomibpoint market already saturated zip disknever gained much market share
+
+caleb technology uhd
+
+little known device except surfaced early 
+drive providedmb storage alsocompatible standardmb floppy drive slower
+competitor medium cheaper running aboutat
+introduction andsoon
+structure
+
+user insert floppy disk medium opening first inch
+floppy disk drive pictured internal model move lever
+twisting model close drive engagemotor head disk
+enlarge
+user insert floppy disk medium opening first inch
+floppy disk drive pictured internal model move lever
+twisting model close drive engagemotor head disk
+
+inch disk large circular hole centrespindle drive small oval aperture sideplastic allow head drive read write datamagnetic medium could spun rotating middle holesmall notch right hand side disk would identify whether
+disk readonly writable detected mechanical switchphoto transistor another ledphototransistor pair located
+near centre disk could detect small hole per
+rotation called index hole magnetic disk useddetect start track whether disk rotatedcorrect speed operating system appleuse index sync often drive designed system lacked
+index hole sensor disk type said soft sector
+disk early inch inch disk also physical holesector termed hard sector disk inside disktwo layer fabric designed reduce friction mediumouter casing medium sandwiched middle outer
+casing usually onepart sheet folded double flap gluedspotmelted together catch lowered position frontdrive prevent disk emerging well raise lower
+spindle
+
+inch disk made two piece rigid plasticfabricmediumfabric sandwich middle remove dust dirt
+front label small aperture reading writing
+data protected springloaded metal cover pushed backentry drive
+inch floppy disk drive automatically engages user
+insert disk disengages ejects press eject
+button older macintosh hardware disk loweredcarriage ejected motor similar vcr eject diskmac running one would traditionally drag iconfloppydisk trash turn eject iconrelease
+enlarge
+inch floppy disk drive automatically engages user
+insert disk disengages ejects press eject
+button older macintosh hardware disk loweredcarriage ejected motor similar vcr eject diskmac running one would traditionally drag iconfloppydisk trash turn eject iconrelease
+
+reverse similar covered aperture well hole allow
+spindle connect metal plate glued medium two
+hole bottom left right indicate writeprotect statushighdensity disk correspondingly hole meaning protected high
+density covered gap meaning writeenabled low density
+incidentally writeprotect highdensity hole inch
+disk spaced exactly far apart hole punched paper
+cm allowing writeprotected floppy clipped european
+ring binder notch top right ensures disk inserted
+correctly arrow top left indicates direction insertion
+drive usually button pressed spring disk
+varying degree force would barely makedisk drive others would shoot fairly high speedmajority drive ejection force provided springhold cover shut therefore ejection speed dependentspring pctype machine floppy disk insertedejected manually time evoking error message even lost
+data case drive continuously monitoredstatus program make assumption match actual
+status diskis still drive altered
+agency apple macintosh computer disk drivecontinuously monitored disk inserted automatically
+searched content one ejected software agrees
+disk ejected kind disk drive startingslim twiggy drive late apple lisa doe eject
+button motorized mechanism eject disk actiontriggered software user dragged drive icontrash icon work case power
+failure drive malfunction one insert straightbent paperclip
+small hole drive front thereby forcing diskeject similar found cddvd drives
+
+inch disk bear much similarity inch typeunique somehow curious feature one examplerectangularshaped plastic casing almost taller inch disk
+narrower twice thick almost sizestandard compact audio cassette made disk look likegreatly oversized present day memory card standard pcmcia notebook
+expansion card rather floppy disk despite size actual
+inch magneticcoated disk occupied thanof space inside
+casing rest used complex protection sealing
+mechanism implemented disk mechanism largely
+responsible thickness length high cost inch
+disk amstrad machine disk typically flippeduse side opposed truly doublesided doublesided
+mechanism available rare
+
+current situation
+
+example modern usb floppy disk drive
+enlarge
+example modern usb floppy disk drive
+
+inch inch inch format considered almost
+completely obsolete inch drive disk still widely
+available ofinch drive still available many
+desktop system although usually optional extrabought installed separately ha recently dropped
+supplying floppy drive standard business desktop majority
+atx microatx case still designed accommodateleast onedrive accessed front although used device floppy drives
+ofhd floppy disk still quite commonly availablecomputer stationery shop although selection usuallylimited
+
+floppy disk still maintain stronghold come emergency
+boot bios update maintenance program carrier generalmany bios firmware updaterestore program still designedexecuted bootable floppy disk legacy supportalternate bootable medium cdroms usb device still
+problematic configurations
+
+however advent portable storage option usb
+storage device recordable rewritable risemulti megapixel digital photography encouraged creationuse file larger inch disk hold additionincreasing availability broadband wireless internet connections
+decreasing utility removable storage device overallinch floppy growing obsolete larger cousin becamedecade however inch floppy continued use
+longer inch floppy
+
+manufacturer stopped offering inch drive new
+computer standard equipment apple macintosh popularized
+format inbegan move away inwith imac
+modelpossibly prematurely since basic model imac timecdrom drive giving user easy access removable media
+made usbconnected floppy drive popular accessory early
+imacs februarydell inc announced would longer
+include floppy drive dell dimension home computerstandard equipment although available selectable option
+aroundand purchased aftermarket oem addon
+anywhere betweenand 
+
+compatibility
+
+general different physical size floppy disk incompatible
+definition disk loaded correct sizedrive drive available inch inch
+slot popular transition period sizes
+
+however many subtle incompatibility within form
+factor consider example following appleibm schism apple
+macintosh computer read write format ibm pcformat inch
+diskette provided suitable software installed standardmacos version afterhowever many ibmcompatible computer use
+floppy disk drive unable read write appleformat
+disk detail see section floppy disk
+format addition older disk used early system releaseincompatible later drive used later mac models
+
+within world ibmcompatible computer three densityinch floppy disk partially compatible higher density drives
+built read write even format lower density medium without
+problem provided correct medium used density selected
+however whatever mean diskette formatted wrong
+density result substantial risk data loss due magnetic
+mismatch oxide drive head writing attempt stillfresh diskette manufactured high density usetheoretically formatted double densityinformation ever written disk using high density mode
+example diskette preformatted factoryquestion magnetic strength high density recordstronger overrule weaker lower density remainingdiskette causing problem however practice people
+use downformatted hd dd even overformatted ddhd without apparent problem see floppy trivia sectionalways constitutes data risk one weigh benefits
+eg increased space andor interoperability versus risk data
+loss permanent disk damage
+
+situation even complex inch diskette head
+gap antrackkb world drive shorteratrackkb world drive format readwritetrack diskette apparent success provided controller
+support double stepping manufacturer fitted switchdouble stepping hardware blanktrack disk formattedwritten antrack drive taken atrack drive without
+problem similarly disk formatted atrack drive usedantrack drive disk written atrack drive updated
+antrack drive becomes permanently unreadable anykb
+drive owing incompatibility track width specialslow program could used overcome problemseveral bad scenarios
+
+prior problem head track size periodtrying figure side single sided disketteright side problem radio shack apple usedkb
+single sided inch disk sold disk labeled single sided
+certified use one side even though factcoated magnetic material side irony disks
+would work radio shack apple machine yet radio shack
+trs model computer used one side apple machine used
+regardless whether software availablecould make sense format
+sub battle simulator tandy color computerwas releasedflippy disk
+enlarge
+sub battle simulator tandy colour computerwas releasedflippy disk
+
+quite user could purchase special tool
+called disk notcher would allow cut second write
+unprotect notch diskette thus use flippies
+either inserted intended upside side couldwritten thereby data storage capacity doubleduser made steady hand hole punch scissorsreprotecting disk side one would simply place piece opaque
+tape notch hole question flippy disk procedures
+followed owner practically every homecomputer single sided
+disk drive proper disk label became quite important users
+flippies eventually adopted manufacturerprogram sold medium also widely usedsoftware distribution system could used bothtrack
+andtrack drive lacked software read atrack diskantrack drive
+
+floppy disk formats
+
+using disk space efficiently
+
+general data written floppy disk series sectors
+angular block disk track concentric ringconstant radius hd format inch floppy disk 
+byte per sectorsectors per tracktracks per side two
+side total ofbytes per disk disk controllers
+vary parameter user request increasing amount
+storage disk although format may ableread machine controller microsoft applications
+often distributed distribution medium format dmf disk hack
+allowedmbkib stored inch floppyformatting withsectors instead ofwhile diskstill properly recognized standard controller ibm pcalso msx atari amstrad cpc microcomputer
+platform disk written using constant angular velocity
+cavconstant sector capacity format mean disk spins
+constant speed sector disk holdamount information track regardless radial location
+
+however efficient way use disk surface
+even available drive electronics sectorconstant angular size thebytes sector packedsmaller length near disk centre nearer disk edgebetter technique would increase number sectorstrack
+toward outer edge disk fromtofor instance thereby
+keeping constant amount physical disk space used storing
+eachbyte sector see zone bit recording apple implementedsolution early macintosh computer spinning disk slower
+head edge keeping data rateallowing storekb per side amounting extrakbdoublesided disk higher capacity came serious
+disadvantage however format required special drive mechanism
+control circuitry used manufacturer meaning mac
+disk could read computer apple eventually gave
+format used standard floppy drive later
+machines
+
+commodore 
+
+commodore started tradition special disk formatinch disk drive accompanying petcbm vic commodore 
+home computer like theand betterknowndrives usedlatter two machine standard commodore group code recording
+scheme used inand compatibles employed four different data rates
+depending upon track position see zone bit recording tracksto 
+hadsectorstohadtohadandtohad 
+disk capacity ofkbkib
+
+eventually commodore gave disk format standardization made
+last inch drive theandcompatible modified
+frequency modulation mfm enable commodoreto workcpm disk several vendor equipped one drivec able access cpm disk neededwell msdos disk using thirdparty software crucial
+feature office work
+
+commodore also offered bit machine inchkb disk format
+itsdisk drive
+
+commodore amiga
+
+commodore amiga computer used ankb format eleven byte
+sector per track inch floppy entire trackwritten intersector gap could eliminated saving space
+amiga floppy controller much flexible onepc impose arbitrary format restriction foreign
+format ibm could also handled use crossdos
+wa included later version workbench correct
+filesystem software amiga could theoretically read arbitrary
+format inch floppy including recordeddifferential rotation rate however way read
+amiga disk without special hardware second floppy drivealso crucial reason emulator technically unableaccess real amiga disk inserted standard floppy disk drive
+
+commodore never upgraded amiga chip set support highdensity
+floppy sold custom drive made chinon spun half
+speedrpm highdensity floppy inserted enablingexisting floppy controller used drive introducedlaunch amigaalthough later amigawasfitted standard drive amiga disk could handle 
+kb using special software program could hold even datacompany named kolff computer supply also made external floppy
+drive dual drive available could handle format
+diskette amiga computer system also famouskc power cartridge
+
+storage reason use emulator preserving data
+many disk packed diskimages currently popular formatadfamiga disk file dmsdiskmasher ipfinterchangeable
+preservation format file diskmasher formatcopyrightprotected problem storing particular sequencebit due bug compression algorithm widely usedpirate demo scene adf around almost longamiga though initially called nameadvent internet amiga emulator becomepopular way distributing disk image ipf file createdallow preservation commercial game copy protection
+something adf unfortunately cannot
+acorn archimedes
+
+another machine using similar advanced disk format british
+acorn archimedes could storekb inch floppy using
+adfs format later archimedes model risc could
+also storekb inch floppy using adfss formatcould also read write disk format machine example
+atari ibm wa also capable reading writing
+thekb format earlier version adfs bbc model b
+master acorn electron third party software could even
+read bbc micros original single density dfs disk amigas
+disk could read used nonstandard sector sizeunusual sector gap markers
+
+inch floppy disks
+
+late ibm mainframe also used inchcm
+floppy disk little information currently availableinternal format capacity
+
+inch floppies
+
+ibm mids developed inch floppy program driven
+aggressive cost goal missed pulse industryprospective user inside outside ibm preferred
+standardization release time small cost reductionunwilling retool packaging interface chip applications
+proprietary design product never appeared lightday ibm wrote several hundred million dollar development
+manufacturing facility
+
+autoloaders
+
+ibm developed several company copied autoloader mechanism
+could load stack floppy one time drive unit
+bulky system suffered medium hangupschewups anyone liked partial answerreplication large removable storage need smallerand
+inch floppy made much easier technology perfect
+
+floppy mass storage
+
+number company including ibm burroughs experimentedusing large number unenclosed disk create massive amountstorage burroughs system used stack ofinch disks
+spinning high speed disk accessed selected using
+air jet part stack pair head flewsurface standard hard disk drive approach ways
+anticipated bernoulli disk technology implemented iomega
+bernoulli box head crash air failure spectacularly
+messy program reach production
+
+inch floppy disks
+
+inch video floppy disk canon
+enlarge
+inch video floppy disk canon
+
+small floppy disk also used late store video
+information still video camera sony mavicaconfused current digital mavica model ion xapshot
+camera canon officially referred video floppyvf short
+
+vf digital data format track disk stored one
+video field analog interlaced composite video format either
+north american ntsc european pal standard yieldedcapacity ofimages per disk frame mode andin field mode
+
+medium used digitally formattedkb doublesided
+doubledensityin zenith minisport laptop computer circa 
+although medium exhibited nearly identical performanceinch disk time successful
+
+ultimate capacity speed
+
+easy provide answer data capacitymany factor involved starting particular disk format used
+difference format encoding method result data
+capacity ranging fromkb tomegabytes mbeven standard inch highdensity floppy using
+special floppy disk software fdformat utilityenables standard inch floppy drive format disk 
+ormb though reading back another machine another
+story technique require much tighter matching drive head
+geometry drive always possible cannotrelied upon drive support rarely usedmb capacity
+standard inch floppiesit however writeonce technique
+cannot used readwriteread mode data must read
+changed needed rewritten disk format also
+requires drive read
+
+sometimes however manufacturer provide unformatted capacity
+figure roughlymb standard inch floppyimply data density cannot exceed certain
+amount however special hardwaresoftware toolcatweasel floppy disk controller software claimmb formatted capacity floppy formatstandard hard read drive possibly even laterdrive probably reliable probably true
+floppy disk surely hold extraformatted capacity
+versus nominal value expense reliabilityhardware complexity
+
+inch floppy drive typically transfer rate ofkilo
+baud rate cannot easily changed overall performanceimproved optimizing drive access time shortening bios
+introduced delay especially ibm compatible platforms
+changing sectorshift parameter diskroughly number sector skipped drive head
+moving next track
+
+happens sector typically written exactlysequential manner scattered around disk introduces
+yet another delay older machine controller may take advantagedelay cope data flow disk withoutactually stop
+changing parameter actual sector sequence may becomeadequate machine speed example ibm formatkb
+disk formatted sectorshift ratio ofhas sequential
+reading time reading disk one justminute
+versusminute andseconds normally formatted disk
+interesting note specially formatted diskveryif completelycompatible standard controllerbios generally requires extra software driver bios
+generally adapts well slightly modified format
+
+usability
+
+one chief usability problem floppy diskvulnerability even inside closed plastic housing disk mediumstill highly sensitive dust condensation temperature extremes
+magnetic storage also vulnerable magnetic fields
+blank floppy usually distributed extensive setwarning cautioning user expose conditionendanger
+user damaging floppy disk content staplestupid user folklore among computer technician story poked
+fun user stapled floppy paper made fax photocopies
+asked copy disk stored floppy holdingmagnet file cabinet flexible inch disk could also
+folklorically abused rolling typewriter typelabel removing disk medium plastic enclosure used
+store safely
+
+hand inch floppy also laudedmechanical usability hci expert donald norman
+
+simple example good design inch magnetic diskette
+computer small circle floppy magnetic material encased
+hard plastic earlier type floppy diskplastic case protects magnetic material abusedamage sliding metal cover protects delicate magnetic surface
+diskette use automatically opendiskette inserted computer diskette square
+shape apparently eight possible way insertmachine one correct happenswrong try inserting disk sideways designer thought
+little study show case really isnt square
+rectangular cant insert longer side try backward
+diskette part way small protrusions
+indentation cutout prevent diskette inserted
+backward upside eight way one might try insert
+diskette one correct one fitexcellent design
+
+floppy metaphor
+
+two decade floppy disk primary external
+writable storage device used also nonnetwork environment
+floppy primary mean transferring datacomputer sometimes jokingly referred sneakernet frisbeenet
+floppy disk also unlike hard disk handled seen evennovice user identify floppy disk although may changebecome common factor imagefloppy disk become metaphor saving data floppy
+disk symbol often seen program button user
+interface element related saving files
+
+floppy trivia
+
+place especially south africa zimbabwe inch
+floppy disk commonly called stiffies stiffy disks
+stiff rigid case contrastedflexible floppy case inch floppy finnishterm korppu rusk crumpet biscuit due rigidity
+compared inch lerppu floppy
+even format hardly officially supportedsystem possible force inch floppy disk driverecognized system inchkb orkb one pcs
+compatibles done simply changing cmos bios
+setting thus format read nonstandard disk formatdouble sidedkb inch disk possible applications
+include data exchange obsolete cpm system exampleamstrad cpc
+cable inch floppy disk drive incorrectly
+connected floppy drive controller twistfloppy drive led remainearly day manufacturer single sided floppy disks
+would advise consumer certified one side hence
+name singlesided user wanted useside diskette buy expensive
+doublesided variety floppy disk consumer quickly found
+since singlehead floppy drive readwrite
+head bottom topmanufacturer ended certifying side anyway thereby making
+singlesided diskette usable side regardless
+disk drive old atari bit family computerdrive activity indicator led actually part power
+circuit burned drive would stop working
+atari developed drive bit line however tramiels marketing wisdom chose avoid
+confusion line never released muchchagrin many bit user day
+disk drive atari commodore computerpossibly others well drive activity indicator ledsoftware controllable put use gameexample version lemming led would blinkthree last building brick used bridge builder
+lemming absence audio cue listeningingame sound critical prevent builder
+lemming falling completing bridge
+theelk cloner virus ofexploited security holebooting floppy disk contaminate floppy disks
+inserted computer since bootup
+certain software company used tracking outside standard track
+designation copy protection one notable game usedtechnique popular game brderbund lode runner used
+quarter track written original disk form copy
+protection many disk copying program attemptcopy secret quarter readwrite head increment track kind
+protection mostly successful average backup program
+disk drive unable reliably write quarter track
+increment provided somewhat reliable protection general
+wa possible commodoreanddisk drivevibrate head carriage track head stop varying
+frequency create simple musical melodies
+urban myth safe view solar eclipse
+film floppy removed case despiteanecdotal support fact dangerous leadretinal damage even blindness moreover produce poor image
+quality compared filter designed purpose
+inch disk frequently advertised europe asmm
+disksan accurate overly precise conversion disks
+actuallymm wide
+hole right side inch disk alteredfool disk drive operating system othersacorn archimedes simply care hole treating
+disk higher lower density one backward
+compatibility economical reason popular modification include
+drilling cutting extra hole rightlower sideinch disk symmetrical writeprotect holeorder format disk one popular
+practice early people switched dd day converteddd disk one gaining extra
+freekib disk space success ratio high
+especially late disk used material one problem supporting higher densitygeneral old made beforedd disk likely
+exhibit fault readwrite errors
+vice versa taping right hole inch disk enables
+downgraded format may sound
+counterproductive first practical scenarios
+eg compatibility issue older computer drivedevice use floppy like electronic keyboard
+instrument sampler downgraded diskuseful factorymade disk become hard find
+mids see section compatibilityimportant note due readwrite voltage
+difference head v disk writing floppy drive drive mode widely
+considered highly unreliable method storing data
+note default many older drive recognize disk one since lack hdspecific holes
+drive lack sensor detect edspecific
+hole drive also handle even
+hd disk ones
+similarly drilling hdlike hole oneedkib disk downgrading hdkib
+format turn useful many unusable disk due lack specific driveused normal disk general work pretty well
+finally possible upgrade disk one
+drilling edpositioned hole one although
+consideration made v disk materialprobably valid v upgraded diskprobably reliable
+double disk upgrade downgrade possibledrilling hole disk taping disks
+new order classic dance trackblue monday owespopularity inch version single initiallyshipped sleeve designed resemble inch floppy legend
+ha expensive produce sleeve factory
+record lost money despite single runaway success fatboy
+slimsalbum better living chemistry featureinch floppy track name label main album
+art homage blue monday
+marvel transformer comic continuity optimus primes
+personality downloaded onto floppy disk death
+

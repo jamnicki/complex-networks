@@ -1,0 +1,332 @@
+copyright
+
+action potential
+
+ school wikipedia selection related subject general biology
+
+schematic view idealized action potential illustratesvarious phase action potential pass point cell
+membrane actual recording action potential often distorted
+compared schematic view variationelectrophysiological technique used make recording
+enlarge
+schematic view idealized action potential illustratesvarious phase action potential pass point cell
+membrane actual recording action potential often distorted
+compared schematic view variationelectrophysiological technique used make recording
+
+action potential wave electrical discharge travels
+along membrane cell action potential essential
+feature animal life rapidly carrying information withintissue also exhibited plant action potentialcreated many type cell used extensivelynervous system communication neuron transmit
+information neuron body tissue muscleglands
+
+action potential cell type even vary
+property different location cellexample cardiac action potential significantly differentaction potential neuron article particularly
+concerned typical action potential axons
+
+overview
+
+voltage difference electrostatic potential always exists
+inside outside cell resultdistribution ion across cell membrane permeability
+membrane ion voltage inactive cell staynegative value inside relative outside cell varies
+little membrane excitable cell depolarized beyondthreshold cell undergo fire action potential often
+called spike see threshold initiation
+
+action potential rapid swing polarity voltage
+negative positive back entire cycle lastingmillisecond cycleand therefore action potentialhasrising phase falling phase finally undershoot see action
+potential phase specialized muscle cell heartcardiac pacemaker cell plateau phase intermediate voltage may
+precede falling phase extending action potential durationhundred milliseconds
+
+action potential measured recording techniqueelectrophysiology recently neurochips containing eosfets
+oscilloscope recording membrane potential single pointaxon show stage action potential wave passes
+phase trace arc resembles distorted sine waveamplitude depends whether action potential wave reachedpoint membrane passed long ago
+
+action potential doe dwell one location cells
+membrane travel along membrane see propagationtravel along axon long distance example carry signals
+spinal cord muscle foot large animalgiraffe whale distance traveled many meters
+
+speed complexity action potential varydifferent type cell however amplitude voltage swings
+tend roughly within one cell consecutive action
+potential typically indistinguishable neuron thoughttransmit information generating sequence action potentials
+called spike train varying rate well precise
+timing action potential generate neuron changeinformation transmit
+
+underlying mechanism
+
+hydrophobic cell membrane prevents charged molecule easily
+diffusing permitting potential difference exist across
+membrane
+enlarge
+hydrophobic cell membrane prevents charged molecule easily
+diffusing permitting potential difference exist across
+membrane
+
+resting potential
+
+potential difference exists across membrane cells
+usually negative inside cell respect outsidemembrane said polarized potential difference acrossmembrane rest called resting potential approximately
+mv neuron negative sign indicating insidecell negative respect outside establishmentpotential difference involves several factor importantly
+transport ion across cell membrane selective
+permeability membrane ions
+
+active transport potassium sodium ioncell respectively accomplished number sodiumpotassium
+pump scattered across cell membrane pump transport two ions
+potassium cell every three ion sodium pumpedestablishes particular distribution positively charged ions
+across cell membrane sodium present outside cell
+inside potassium inside cell outsidesituation electrogenic sodiumpotassium pump make significant
+contribution resting membrane potential cellpotassium leakage channel dominate value resting
+potential
+
+sodium potassium ion diffuse open ion channelinfluence electrochemical gradient resting potential
+net movement sodium cell equal net movementpotassium cell however resting cell membraneapproximatelytimes permeable potassium sodium due
+potassium leak channel always open resultcell resting membrane potential closer equilibrium
+potential potassium mv equilibrium potentialsodium ena cell resting potential roughlymv
+
+like resting potential action potential many neuron depend
+upon permeability cell membrane sodium potassium
+ions
+
+phases
+
+sequence event underlie action potential outlined
+
+resting potential
+
+resting potential potassium leak channel openvoltagegated sodium channel closed potassium diffusingpotassium concentration gradient creates negativeinside membrane
+potential
+
+stimulation
+
+local membrane depolarization caused excitatory stimulus causes
+voltagegated sodium channel neuron cell surface membrane
+open therefore sodium ion diffuse channel along
+electrochemical gradient positively charged beginreversal potential difference across membranenegativeinside positiveinside initially inward movementsodium ion also favored negativeinside membrane potential
+
+rising phase
+
+sodium ion enter membrane potential becomes negative
+sodium channel open causing even greater influx sodium
+ion example positive feedback sodium channels
+open sodium current dominates potassium leak currentmembrane potential becomes positive inside
+
+peak
+
+establishment membrane potential aroundmv closevoltagesensitive inactivation gate sodium channelsensitive nowpositive membrane potential gradient preventing
+influx sodium occurs voltagesensitive
+activation gate voltagegated potassium channel begin open
+
+falling phase
+
+voltagegated potassium channel open large outward
+movement potassium ion driven potassium concentration
+gradient initially favored positiveinside electrical
+gradient potassium ion diffuse movement positive
+charge cause reversal membrane potential negativeinside
+repolarization neuron back towards large negativeinside
+resting potential
+
+undershoot
+
+closing voltagegated potassium channel voltagetimedependent potassium exit cell resulting membrane
+repolarization initiate closing voltagegated potassium
+channel channel close immediately responsechange membrane potential rather voltagegated potassium channels
+also called delayed rectifier potassium channel delayedresult potassium continues flow cell evenmembrane fully repolarized thus membrane potential dipnormal resting membrane potential cell brief moment
+dip hyperpolarization known undershoot
+
+threshold initiation
+
+plot current ion flux voltage transmembrane potential
+illustrates action potential threshold red arrow idealized
+cell
+enlarge
+plot current ion flux voltage transmembrane potential
+illustrates action potential threshold red arrow idealized
+cell
+
+action potential triggered initial depolarization reaches
+threshold threshold potential varies generally 
+millivolt cell resting membrane potential occurringinward sodium current exceeds outward potassium currentnet influx positive charge carried sodium ion depolarizesmembrane potential leading opening voltagegated
+sodium channel channel support greater inward current causing
+depolarization creating positivefeedback cycle drives
+membrane potential depolarized level
+
+action potential threshold shifted changing balance
+sodium potassium current examplesodium channel inactivated state given leveldepolarization open fewer sodium channel greater
+depolarization needed trigger action potentialbasis refractory period see refractory period
+
+action potential largely dictated interplay sodium
+potassium ion although minor contributionion calcium chloride often modeled using
+hypothetical cell containing two transmembrane ion channelvoltagegated sodium channel nonvoltagegated potassium
+channel origin action potential threshold may studied
+using curve right plot current ion channels
+cell membrane potential note illustrated instantaneous current voltage relationship representspeak current channel given voltageinactivation taken place iems steppingvoltage current positive voltage plotattainable cell artificial meansie voltages
+imposed voltageclamp apparatus
+
+four significant point curve indicated arrowfigure
+green arrow indicates resting potential cellalso value equilibrium potential potassium k channel one open negative voltages
+cell rest note stable resting potential
+present voltage summed green line
+cross zero current xaxis point positive slopegreen arrow consider perturbationmembrane potential negative direction result inward
+current depolarize cell back toward crossing
+point perturbation membrane potentialpositive direction result outward currenthyperpolarize cell back toward crossing point thusperturbation membrane potential around positive slope
+crossing tend return voltage crossing value
+yellow arrow indicates equilibrium potential ena twoion system ena natural limitmembrane potential beyond cell cannot pas current values
+illustrated graph exceed ena measuredartificially pushing cell voltage past natural limit
+note however ena could reached potassium
+current absent
+blue arrow indicates maximum voltage peakaction potential approach actual natural maximum
+membrane potential cell reach cannot reach ena
+counteracting influence potassium current
+red arrow indicates action potential thresholdisum becomes netinward note zerocurrent
+crossing negative slope negative slope
+crossing zero current level plot unstable
+point voltage negative crossing currentoutward cell tend return resting potential
+voltage positive crossing current inwardtend depolarize cell depolarization leadinward current thus sodium current become regenerativepoint green line reach negative valuepoint sodium channel open depolarizations
+beyond point thus decrease sodium current driving
+force decrease membrane potential approach ena
+
+action potential threshold often confused threshold
+sodium channel opening incorrect sodium channels
+threshold instead open response depolarizationstochastic manner depolarization doe much open channel
+increase probability open even hyperpolarized
+potential sodium channel open occasionally addition
+threshold action potential voltage sodium
+current becomes significant point exceedspotassium current
+
+biologically neuron depolarization typically originatesdendrite synapsis principle however action potential may
+initiated anywhere along nerve fibre discovery animal
+electricity luigi galvani made leg dead frog kick life
+touching sciatic nerve scalpelinadvertently transferred negative staticelectric charge thus
+initiating action potential
+
+circuit model
+
+basic circuit superimposed image membrane bilayer
+show relationship two elaborate circuitused model membrane containing ion channel one
+containing channel sodium blue potassium green
+enlarge
+basic circuit superimposed image membrane bilayer
+show relationship two elaborate circuitused model membrane containing ion channel one
+containing channel sodium blue potassium green
+
+cell membrane contain ion channel modeled circuits
+better understand propagation action potential biological
+membrane circuit resistor represents membranes
+ion channel capacitor model insulating lipid membrane
+variable resistor used voltagegated ion channelresistance change voltage fixed resistor representspotassium leak channel maintain membrane resting potential
+sodium potassium gradient across membrane modeledvoltage sourcesbatteries
+
+propagation
+
+propagating action potential modeled joining several circuit one representing patch membrane
+enlarge
+propagating action potential modeled joining several circuit one representing patch membrane
+
+unmyelinated axon action potential propagate interaction
+passively spreading membrane depolarization voltagegated
+sodium channel one patch cell membrane depolarized enough
+open voltagegated sodium channel sodium ion enter cell
+facilitated diffusion inside positivelycharged sodium ions
+nudge adjacent ion axon electrostatic repulsion
+analogous principle behind newton cradle attract
+negative ion away adjacent membrane result wavepositivity move axon without individual ion movingfar adjacent patch membrane depolarizedvoltagegated sodium channel patch open regeneratingcycle process repeat length axonaction potential regenerated segment membrane
+
+speed propagation
+
+action potential propagate faster axon larger diameterthing equal typically travel fromms main
+reason axial resistance axon lumen lowerlarger diameter increase ratiocrosssectional area membrane surface area membrane surface
+area chief factor impeding action potential propagationunmyelinated axon increasing ratio particularly effective
+way increasing conduction speed
+
+extreme example animal using axon diameter speed action
+potential conduction found atlantic squid squid giant
+axon control muscle contraction associated squids
+predator escape response axon thanmm diameter
+presumably adaptation allow fast activationescape behaviour velocity nerve impulse fiberamong fastest nature squid notable example organisms
+unmyelinated axon first test try determinemechanism impulse travel along axon involving detection
+potential difference inside surfaceneuron undertaken alan hodgkin andrew huxley
+using squid giant axon relatively large axon
+diameter hodgkin huxley share thenobel prize
+physiology medicine work electrophysiologynerve action potentials
+
+autonomic nervous system mammal postganglionic neuronunmyelinated small diameter axon aboutresultspropagatory speed approximatelyms opposed approximately
+myelinated nerve fiber comparable diameter thus
+highlighting effect myelination speed transmissionimpulses
+
+saltatory conduction
+
+myelinated axon saltatory conduction processaction potential appears jump along length axonregenerated uninsulated segment node ranvier
+saltatory conduction increase nerve conduction velocity withoutdramatically increase axon diameter
+
+saltatory conduction played important role evolutionlarger complex organism whose nervous system must rapidly
+transmit action potential across greater distance without saltatory
+conduction conduction velocity would need large increase axon
+diameter resulting organism nervous system largebodies
+
+detailed mechanism
+
+main impediment conduction speed unmyelinated axonmembrane capacitance electric circuit capacitycapacitor decreased decreasing crosssectional areaplate increasing distance plate nervous
+system myelin main strategy decrease membrane
+capacitance myelin insulating sheath wrapped around axonschwann cell oligodendrocyte neuroglia flattencytoplasm form large sheet made mostly plasma membranesheet wrap around axon moving conducting plate intra
+extracellular fluid farther apart decrease membrane
+capacitance
+
+resulting insulation allows rapid essentially instantaneous
+conduction ion myelinated segment axon prevents
+regeneration action potential segment action
+potential regenerated unmyelinated node ranvier
+spaced intermittently myelinated segmentabundance voltagegated sodium channel bare segmentfour order magnitude greater density unmyelinated
+axonsallows action potential efficiently regeneratednode ranvier
+
+result myelination insulated portion axon behaves
+like passive wire conduct action potential rapidlymembrane capacitance low minimizes degradation action
+potential membrane resistance high passively
+propagated signal reach node ranvier initiate action
+potential subsequently travel passively next nodecycle repeats
+
+resilience injury
+
+length myelinated segment axon important saltatory
+conduction long possible maximize length
+fast passive conduction long decaypassive signal great reach threshold next noderanvier reality myelinated segment long enoughpassively propagated signal travel least two noderetaining enough amplitude fire action potential secondthird node thus safety factor saltatory conduction high
+allowing transmission bypass node case injury
+
+role disease
+
+disease degrade saltatory conduction reduce speedaction potential conductance wellknown diseasemultiple sclerosis breakdown myelin impairs
+coordinated movement
+
+refractory period
+
+membrane undergone action potential refractory period
+follows thus although passive transmission action potentials
+across myelinated segment would suggest action potentials
+propagate either direction action potential travel
+unidirectionally node behind propagating action
+potential refractory
+
+period arises primarily voltagedependent
+inactivation sodium channel described hodgkin huxleyaddition voltagedependent opening sodium channels
+channel also inactivated voltagedependent manner
+immediately action potential absolute refractory
+period virtually sodium channel inactivated thusimpossible fire another action potential segmentmembrane
+
+time sodium channel reactivated stochastic mannerbecome available becomes possible fire action potential
+albeit one much higher threshold relative
+refractory period together absolute refractory period
+last approximately five milliseconds
+
+evolutionary purpose
+
+action potential method longdistance communication fits
+particular biological need seen readily consideringtransmission information along nerve axon move signalone end axon nature must contend physics
+similar govern movement electrical signal alongwire due resistance capacitance wire signal tenddegrade travel along wire distanceproperty known collectively cable property set physical
+limit signal travel thus nonspiking neuroncarry signal without action potential tend small proper
+function body requires signal delivered one endaxon without loss action potential doe much
+propagate along axon newly regenerated membrane
+voltage current stretch membrane along pathword nerve membrane recreates action potentialfull amplitude travel axon thus overcominglimitation imposed cable physics
+
+plant action potentials
+
+many plant also exhibit action potential travel via phloem
+coordinate activity main difference plant animal
+action potential plant primarily use potassium calcium
+current animal typically use current potassium sodium
+

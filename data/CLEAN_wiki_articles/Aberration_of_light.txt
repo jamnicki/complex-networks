@@ -1,0 +1,238 @@
+copyright
+
+aberration light
+
+ school wikipedia selection related subject general physics
+
+aberration light also referred astronomical aberrationstellar aberration astronomical phenomenon produceapparent motion celestial object discovered later
+explained third astronomer royal james bradley inwho
+attributed finite speed light motion earthorbit around sun
+
+instant observation object apparent position
+object displaced true position amountdepends upon transverse component velocity observer
+respect vector incoming beam light ieline actually taken light path observercase observer earth direction velocity varies
+year earth revolves around sun strictly speaking
+barycenter solar system turn causeapparent position object vary particular effectknown annual aberration stellar aberration causeapparent position star vary periodically courseyear maximum amount aberrational displacement starapproximatelyarcseconds right ascension declination although
+relatively small value well within observational
+capability instrument available early eighteenth
+century
+
+aberration confused stellar parallax althoughwa initially fruitless search parallax first leddiscovery parallax caused change positionobserver looking relatively nearby object measureddistant object therefore dependent upon distance
+observer object
+
+contrast stellar aberration independent distancecelestial object observer depends observers
+instantaneous transverse velocity respect incoming light
+beam moment observation light beam distant
+object cannot transverse velocity componentcould definition seen observer since would miss
+observer thus transverse velocity emitting source
+play part aberration another way stateemitting object may transverse velocity respectobserver light beam emitted reachobserver cannot must previously emitteddirection transverse component correctedbeam must come straight observer along line connects
+observer position object emitted light
+
+aberration also distinguished lighttime correction
+due motion observed object like planet
+space time taken light reach observer
+earth lighttime correction depends upon velocity distance
+emitting object time take light travel
+earth lighttime correction doe depend motionearthit depends earth position instant light
+observed aberration usually larger planet lighttime
+correction except planet near quadraturefromsun aberration drop zero earth directly
+approaching receding planet oppositionconjunction sun aberration iswhile lighttime
+correction varies fromfor mercury tofor neptune suns
+lighttime correction 
+
+explanation
+
+ha stated aberration cause displacementapparent position object true position howeverimportant understand precise technical definitionterms
+
+apparent true positions
+
+figurediagram illustrating stellar aberration
+figurediagram illustrating stellar aberration
+
+apparent position star distant objectdirection seen observer moving earthtrue position geometric position direction straight
+line observer star instant observationdifference two position caused mostly aberration
+
+aberration occurs observer velocity componentperpendicular line traveled light starobserver figureto right represents spotstar light enters telescope position eye piece
+telescope doe move true direction star relative
+observer found following line howeverearth therefore eye piece telescope move e
+time take light travel starlonger appear centre eye piece telescope must
+therefore adjusted star light enters telescopespot star light travel along line reach
+e exactly moving eye piece also reach sincetelescope adjusted angle star apparent
+position hence displaced angle
+
+moving rain
+
+many find aberration counterintuitive simple thought
+experiment based everyday experience help understanding
+imagine standing rain wind rainfalling vertically protect rain holdumbrella directly
+imagine start walk although rain still falling
+vertically relative stationary observer findhold umbrella slightly front keep rain
+forward motion relative falling rain rain
+appears falling directly point
+sky somewhat front
+deflection falling rain greatly increased higher
+speed drive car night falling rain rain
+drop illuminated car headlight appear fallposition sky well front car
+
+type aberration
+
+number type aberration caused differing
+component earth motion
+annual aberration due revolution earth aroundsun
+planetary aberration combination aberrationlighttime correction
+diurnal aberration due rotation earthaxis
+secular aberration due motion sun solar system
+relative star galaxy
+
+annual aberration
+
+earth revolves around sun moving velocityapproximatelykms speed light approximately 
+km special case earth moving perpendicularlydirection star see diagram isdegrees
+angle displacement would therefore radianratio two velocity ieor aboutarcseconds
+
+quantity known constant aberrationconventionally represented byits precise accepted valuej
+figurediagram illustrating effect annual aberrationapparent position three star ecliptic longitudedegreesecliptic latitudeanddegrees respectively
+figurediagram illustrating effect annual aberrationapparent position three star ecliptic longitudedegreesecliptic latitudeanddegrees respectively
+
+plane earth orbit known ecliptic annual
+aberration cause star exactly ecliptic appear move back
+forth along straight line varying byon either sidetrue position star precisely one ecliptic poles
+appear move circle radiusabout true position
+star intermediate ecliptic latitude appear move along
+small ellipse see figure 
+
+special case annual aberration nearly constant deflection
+sun true position bytowards west viewedearth opposite apparent motion sun along ecliptic
+constant deflection often erroneously explained duemotion earth theminutes take lighttravel sun earth latter type parallaxactually cause apparent motion sun along ecliptic
+towards east relative fixed starsminutes divided
+one sidereal yeardays isvery close 
+opposite sign east west sun lighttime
+correction sun almost motionless moving aroundbarycenter centre mass solar system usually much less
+thanas viewed earth duringminutes
+
+aberration resolved eastwest northsouth componentcelestial sphere therefore produce apparent displacement
+star right ascension declination respectively former
+larger except ecliptic pole latter first
+detected accurate clock neededmeasure small variation right ascension transit
+telescope calibrated plumb line detect small changedeclination
+figurediagram illustrating aberration star north
+ecliptic pole
+figurediagram illustrating aberration star north
+ecliptic pole
+
+figureabove show aberration affect apparent declination
+star north ecliptic pole seen imaginary observer
+see star transit zenith observer wouldpositioned latitudedegrees northie arctic circle
+time march equinox earth orbital velocitycarrying observer directly south observes starzenith star apparent declination therefore displacedsouth value equal toconversely september equinox
+earth orbital velocity carrying observer northwardstar position displaced north equal opposite
+amount june december solstice displacement zero
+
+note effect aberration phasedisplacement due parallax latter effect presentmaximum displacement south would occur decembermaximum displacement north june apparently
+anomalous motion mystified bradley contemporaries
+
+planetary aberration
+
+planetary aberration combination aberration light due
+earth velocity lighttime correction due objects
+motion distance determined instantmoving object light reach moving observer earthcalled usually applied planet objectsolar system whose motion distance accurately known
+
+diurnal aberration
+
+diurnal aberration caused velocity observersurface rotating earth therefore dependenttime observation also latitude longitudeobserver effect much smaller annual aberration
+onlyin case observer equatorrotational velocity greatest
+
+secular aberration
+
+sun solar system revolving around centre galaxy
+nearby star therefore possible conceiveaberrational effect apparent position starextragalactic object however change solar systems
+velocity relative centre galaxy varies long
+timescale consequent change aberration would extremely
+difficult observe therefore socalled secular aberrationusually ignored considering position stars
+
+however possible estimate displacementapparent true position nearby star whose distance motion
+known newcomb give example groombridgewhereestimate true position displaced approximately 
+arcminute direction observe calculation
+also includes allowance lighttime correction therefore
+analogous concept planetary aberration
+
+historical background
+
+discovery aberration light inby james bradleyone important astronomy totally unexpectedwa extraordinary perseverance perspicuity bradley
+wa able explain inits origin based attempt madediscover whether star possessed appreciable parallaxcopernican theory solar systemthat earth revolved
+annually sunhad received confirmation observations
+galileo tycho brahe however never accepted
+heliocentrism mathematical investigation keplernewton
+
+search stellar parallax
+
+early asthomas digges suggested theorynecessitate parallactic shifting star consequentlystellar parallax existed copernican theory would
+receive additional confirmation many observer claimeddetermined parallax tycho brahe giovanni battista
+riccioli concluded existed mindobserver due instrumental personal error 
+jean picard voyage uranibourg stated result ten
+year observation polaris pole star exhibited
+variation position amounting toannually astronomers
+endeavoured explain parallax attemptfutile motion variance parallax would
+produce
+
+john flamsteed measurement made inand succeeding years
+mural quadrant similarly concluded declinationpole star wasless july september robert hookepublished observation ofdraconis star magnitudepass practically overhead latitude london whose
+observation therefore free complex correction dueastronomical refraction concluded star wasmore
+northerly july october
+
+bradley observations
+
+james bradley samuel molyneux entered sphereastronomical research inthere consequently prevailed much
+uncertainty whether stellar parallax observedwa intention definitely answering questionastronomer erected large telescope house latterkew determined reinvestigate motion ofdraconistelescope constructed george grahama celebrated
+instrumentmaker affixed vertical chimney stackmanner permit small oscillation eyepiece amountie deviation vertical regulated measured
+introduction screw plumb line
+
+instrument set novemberand observation 
+draconis made th th decemberwa apparently shifting star therefore thoughtsoutherly point decemberhowever bradley
+observed star moving southward motion shownobservation result unexpectedinexplicable existing theory however examinationtelescope showed observed anomaly dueinstrumental errors
+
+observation continued star seen continuesoutherly course march took position somemore
+southerly december position march began pass
+northward motion quite apparent middle april junepassed distance zenith decemberseptember passed northerly position extreme
+range north south angle marchseptember position 
+
+aberration nutation
+
+motion evidently due parallax reason givendiscussion figureand neither due observational
+error bradley molyneux discussed several hypothesis hope
+finding solution idea immediately suggestedstar declination varied shortterm changeorientation earth axis relative celestial spherea
+phenomenon known nutation changeobserver frame reference earth would
+therefore affect star equally instance changedeclination ofdraconis would mirrored equal opposite
+change declination stardegrees opposite right
+ascension
+
+observation star made difficult limited fieldview bradley molyneuxs telescope lack suitable
+star sufficient brightness one star however right
+ascension nearly equal ofdraconis opposite
+sense selected kept observation star seenposse apparent motion similar would consequence
+nutation earth axis since declination varied
+one half much case ofdraconis obviousnutation supply requisite solution whether motiondue irregular distribution earth atmosphere thus
+involving abnormal variation refractive index also
+investigated negative result obtained
+
+augustbradley embarked upon seriesobservation using telescope erected rectory
+wanstead instrument advantage larger field view
+wa able obtain precise position large number stars
+transited close zenith course two years
+established existence phenomenon aberration beyond
+doubt also allowed bradley formulate set rulewould allow calculation effect given starspecified date however closer finding explanationaberration occurred
+
+development theory aberration
+
+bradley eventually developed explanation aberrationseptemberand theory presented royal society year
+later one wellknown story quoted berry pwas saw
+change direction wind vane boat thames caused
+alteration wind change courseboat relative wind direction however recordincident bradley account discovery may
+therefore apocryphal
+
+discovery elucidation aberration regardedclassic case application scientific methodobservation made test theory unexpected resultsometimes obtained turn lead new discovery also
+worth noting part original motivation searchstellar parallax test copernican theory earth
+revolves around sun course existence aberration also
+establishes truth theory
+
+final twist bradley later went discover existencenutation earth axisthe effect originally
+considered cause aberration

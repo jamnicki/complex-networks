@@ -1,0 +1,311 @@
+copyright
+
+rubiks cube
+
+ school wikipedia selection related subject games
+
+variation rubiks cube left right rubiks revenge
+rubiks cube professor cubepocket cube
+enlarge
+variation rubiks cube left right rubiks revenge
+rubiks cube professor cubepocket cube
+
+rubiks cube informally rubix cube mechanical puzzle invented
+inby hungarian sculptor professor architecture ern
+rubik plastic cube come four widely available versionpocket cube thestandard cube therubiks
+revengeprofessors cubeandcubescurrently produced theversion version
+usually meant term rubiks cube nine square faceside total area fiftyfour face occupies volumetwentysix unit cube counting invisible cube centre
+typically face cube covered sticker six solid
+color one side cube puzzle solvedside cube solid colour originalversion
+celebrated twentyfifth anniversary inwhen special edition
+cube presentation box released featuring stickercentre white face replaced reflective surface
+rubiks cubelogo
+
+originally called magic cube inventor renamed
+rubiks cube inand released worldwide may year
+winning spiel jahres special award best puzzle saidworld bestselling toy somerubiks cubes
+imitation sold worldwide
+
+history
+
+conception development
+
+magic cube invented inby ern rubik hungarian sculptor
+professor architecture interest geometrystudy threedimensional form ern obtained hungarian patent
+hu magic cube inbut take international
+patent first test batch product produced late
+released budapest toy shops
+
+cube slowly grew popularity throughout hungary word mouth
+spread western academic also showed interest september
+deal reached ideal toy release magic cube
+internationally made international debut toy fairlondon new york nuremberg paris early 
+
+progress cube towards toy shop shelf westbriefly halted could manufactured western safety
+packaging specification lighter cube produced ideal
+toy decided rename itthe gordian knot inca goldconsidered company finally decided rubiks cubefirst batch exported hungary may 
+
+taking advantage initial shortage cube many cheap imitations
+appeared inideal lost patent infringement suit larry
+nichols patent terutoshi ishigi acquired japanese
+patent nearly identical mechanism rubiks patent
+wa processed ishigi generally creditedindependent reinvention
+
+popularity
+
+one hundred million cube sold period fromto
+batr toy year award inand 
+many similar puzzle released shortly rubiks cuberubik source including rubiks
+revenge aversion rubiks cube alsoand
+cube known pocket cube rubiks professor
+respectively puzzle shape pyraminxtetrahedron
+
+maythe greek panagiotis verdes constructed arubiks
+cube mayfrank morris world champion rubiks cube
+solver tested version previously solved thein 
+second theinminute andseconds thein 
+minute thetook himminutes andseconds solve morris
+thanked inventor making purportedly statedbigger cube greater pleasure julymr
+verdes succesfully constructed cube october
+video frank morris testing cube released videotest viewed httpwwwolympicubecom
+
+inpatrick bossert twelveyearold schoolboy england
+published solution book called cubeisbn
+book sold overmillion copy worldwideseventeen edition became number one book timenew york time bestseller list year
+
+height puzzle popularity separate sheet colored
+sticker sold frustrated impatient cube owner could
+restore puzzle original appearance
+
+ha suggested international appeal export
+achievement cube became one contributing factorreform liberalization hungarian economy betweenand
+finally led move communism capitalism
+
+financially cube successful rubik became first
+selfmade elite communist country
+
+name rubiks cube common many language except hebrewhungarian first known hungarian cube whilst
+second name magic cube bvs kocka
+
+workings
+
+rubiks cube partially disassembled
+enlarge
+rubiks cube partially disassembled
+
+standard cube measure approximatelyinchescm side
+puzzle consists twentysix unique miniature cube cubies
+surface however centre cube face merelysingle square faade affixed core mechanismprovide structure piece fit rotate around
+twentyone piece single core piece consisting three
+intersecting holding six centre square place letting
+rotate twenty smaller plastic piece fitform assembled puzzle cube taken apart without much
+difficulty typically turning one side aangleprying edge cubie away centre cubie dislodges
+however prying loose corner cubie good way breakcentre cubiethus ruining cube simple process solve
+cube taking apart reassembling solved state
+however challenge
+
+twelve edge piece show two colored sideeight corner piece show three color piece show unique
+color combination combination present example
+edge piece white yellow side whiteyellow opposite side solved cube locationcube relative one another altered twisting outer
+third cubeorbut location colored
+side relative one another completed state puzzle
+cannot altered fixed relative position centre
+square distribution colour combination edge corner
+pieces
+
+recent cube color sticker red opposite
+orange yellow opposite white green opposite blue howeveralso exist cube alternative colour arrangementalternative cube yellow face opposite green blue
+face opposite white red orange opposite face remaining
+unchanged
+
+permutations
+
+normal rubiks cubedifferent position also referredmathematical term permutation number also writtenfortythree quintillionshort scalefortythree trillionlong scale puzzle advertisedonlybillions position due general
+incomprehensibility large number layman despite vast
+number position cube solved twentynine fewer
+move see optimal solution rubiks cube
+
+factaboutquintillion short scale
+possible arrangement piece make cube one
+twelve actually reachablesequence move swap single pair rotate single
+corner edge cubie thus twelve possible set reachable
+configuration sometimes called universe orbitcube placed dismantling reassembling
+centre faces
+
+original still official rubiks cube markingcentre face obscures fact centre face rotate
+independently marker pen could example mark
+central square unshuffled cube four colored markedge corresponding colour adjacent square
+cube also produced commercially markingsquare shu magic square playing card suits
+thus one scramble unscramble cube yetmarking centre rotated becomes additional challenge
+solve centre well
+
+putting marking rubiks cube increase challenge chiefly
+expands set distinguishable possible configurations
+cube unscrambled apart orientation central
+square always even number square requiringquarter turn thus arepossible configurationcentre square otherwise unscrambled position increasing
+total number cube permutation fromto
+
+
+solutions
+
+many general solution rubiks cube discovered
+independently popular method developed david
+singmaster published book note rubiks magic cubesolution involves solving cube layer layerone layer designated top solved first followed middle
+layer final bottom layer general solutions
+include corner first method combination severalmethods
+
+speed cubing solution developed solving rubiks cube
+quickly possible common speed cubing solutiondeveloped jessica fridrich efficient layerbylayer
+method requires large number algorithm especiallyorienting permuting last layer first layer cornersecond layer done simultaneously corner pairedsecondlayer edge piece another wellknown method developedlars petrus method asection solved first
+
+solution typically consist sequence process processalgorithm operator sometimes called series twists
+accomplishes particular goal instance one process might
+switch location three corner piece leaving restpiece place sequence performed appropriate
+order dictated current configuration puzzle solve
+cube complete solution found book listedbibliography used solve cube five
+minute solution typically intended easy learn
+much effort gone finding even faster solution rubiks
+cube see optimal solution rubiks cube
+
+move notation
+
+rubiks cube scrambled state
+enlarge
+rubiks cube scrambled state
+rubiks cube solved
+enlarge
+rubiks cube solved
+rubiks cube solved state
+enlarge
+rubiks cube solved state
+
+mostrubiks cube solution guide use notation
+originated david singmaster communicate sequence movegenerally referred cube notation literature
+singmaster notation variation thereof relative nature
+allows algorithm written way applied
+regardless side designated top colororganized particular cube
+f front side currently facingb back side opposite front
+u side top front side
+side opposite bottom
+l left side directly left front
+r right side directly right front
+
+apostrophe follows letter mean turn face
+counterclockwise quarterturn letter without apostrophe
+mean turn quarterturn clockwise apostrophe markpronounced prime letter followed aoccasionally superscript
+mean turn face halfturn direction doe matter
+
+solution guide including ideal official publicationideal solution use slightly different convention top bottomused rather top bottom face back
+replaced posteriorindicates clockwise rotation 
+counterclockwise withrepresenting halfturn however
+alternative notation failed catch today singmaster
+scheme used universally interested puzzle
+
+le often used move include rotating entire cube twothirdsletter z used indicate entire cube
+turned one xaxis linepass left right face yaxis linepass face zaxis linepass front back face type move used
+infrequently solution extent solutions
+simply say stop turn whole cube upsidedown something
+similar appropriate point
+
+lowercase letter b l signify move first two
+layer face keeping remaining layer placecourse equivalent rotating whole cube directionrotating opposite face back amount opposite
+direction useful notation describe certain triggerspeedcubing furthermore respectively lowercase
+larger sized cube used innerslice movementsignifies turning layer r downward clockwise
+looking left side signifies turning layer towards right counterclockwise looking topsignifies turning layer b clockwise
+
+example algorithm operator sequence furlfrluf
+cycle three edge cube top layer without affectingpart cube means
+turn front facedegrees
+turn facedegrees counterclockwise
+turn right facedegrees counterclockwise
+turn left facedegrees clockwise
+turn front facedegrees
+turn right facedegrees clockwise
+turn left facedegrees counterclockwise
+turn facedegrees counterclockwise
+finally turn front facedegrees
+
+beginning student cube notation dauntingmany solution available online therefore incorporate animationdemonstrate algorithm presented example see animation
+sequence
+
+larger cube use slightly different notation incorporate
+middle layer generally speaking upper case letter fbudlr
+refer outermost portion cube called face lower case
+letter fbudlr refer inner portion cube called
+slice ideal break rank describing theirsolutionterm layer vertical slice rotate zaxis tables
+horizontal slice book vertical slice rotatexaxis
+
+competitions
+
+many speedcubing competition held determine solve
+rubiks cube shortest time
+
+ideal toy held first competition inless yearcube launched sponsored daily mirror following
+time recorded regional championships
+
+edinburgh heatalex mcnair edinburgh insecs manchester
+heatedgar whitley colwyn bay insecs york heatbrian
+storey sunderland insecs midland heat nicolas hammond
+nottingham insecs bristol heatjulian bush bristol
+insecs great yarmouth heatjulian chilvers great
+yarmouth insecs southampton heatchristopher lennonportsmouth insecs london heatben jones nicholasatwade insecs
+
+first world championship held budapest juneand
+wa minh thai vietnamese student los angelestime ofseconds
+
+many individual recorded shorter time recordrecognized due lack compliance agreedupon standardtiming competing record set official world cube
+association wcasanctioned tournament acknowledged
+
+inthe wca established new set standard special
+timing device called stackmat timer
+
+toby mao set current world record ofseconds theus
+national competition augustthe official world record
+based average middle three five cube 
+second set marchin norrkping sweden anssi vanhala
+finn record recognized world cube associationofficial governing body regulates event records
+
+alternative competitions
+
+addition informal alternative competition held
+challenging participant solve cube unusual situations
+include
+blindfolded solving
+solving cube room colored light intended confuse
+participant color tiles
+solving cube underwater single breath
+solving cube using single hand
+
+rubiks cube mathematics science
+
+rubiks cube interest many mathematician partlytangible representation mathematical group additionally
+parallel rubiks cube particle physic notedmathematician solomon golomb extended modifiedanthony durham essentially clockwise counterclockwise
+twist corner cubies may compared electric chargequarksandand antiquarksandfeasible combinationcorner twist paralleled allowable combination quarkantiquarksboth corner twist quarkantiquark charge must total
+integer combination two three twisted corner maycompared various hadron though analogy always
+workable
+
+rubiks cube popular culture
+
+fromtoa rubyspears produced saturday morning cartoon
+based upon toy rubik amazing cube aired abc partpackage program pacmanrubik amazing cube hour
+saturday night live two commercial parody rubiks
+cubeesque product rubiks teeth pair denturemulticolored like rubiks cube rubiks grenade live hand
+grenade rubiks cube puzzle side explodespuzzle isnt solved correctly
+rubiks cube make several appearance simpsonnotably homer distracted rubiks cube learning
+power plant control inhomer defined marge attempts
+solve cube rest family shout hintinhurricane neddy homer speedcubes basket fullcube becoming person average intelligenceiq ofpoints inhom
+rubiks cube serf macguffin dude wheres car
+spiel jahres best puzzle prize 
+australian sketch comedy show ronnie john half hour
+feature fictional rubiks cube world champion named sergei
+haminov
+rubiks cube used nasa testing method harry stampers
+team movie armageddon
+recent commercial playstationdemonstratinggame console advanced intelligence presentedcolorless cubic room puzzle fronttelekinetically grasp cube levitating centreroom speedsolving midair cube violently
+explodes fill corresponding wall roomrespective colour rubiks cube sides
+seen family guy episode saving private brianbrian solves rubiks cube order pas basic training
+episode fresh prince bel air alma mattersmith solves rubiks cube second interview
+princeton recommended attend school
+speedcubing champion tyson mao toby mao hiredconsultant thesony picture movie pursuithappyness teach smith character solve rubiks
+cube scene movie man tellimpossible solve rubiks cube yet smith solvesmere seconds
+

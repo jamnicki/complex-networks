@@ -1,0 +1,100 @@
+copyright
+
+brute force attack
+
+ school wikipedia selection related subject cryptography
+
+effs de cracking machine contained overcustom
+chip could brute force key matter daysthe
+photograph show cracker circuit board fitted several deep
+crack chips
+enlarge
+effs de cracking machine contained overcustom
+chip could brute force key matter daysthe
+photograph show cracker circuit board fitted several deep
+crack chips
+
+cryptanalysis brute force attack method defeatingcryptographic scheme trying large number possibilityexample exhaustively working possible key orderdecrypt message scheme theoretical possibilitybrute force attack recognized set waywould computationally infeasible carry accordingly one
+definition breaking cryptographic scheme find method
+faster brute force attack
+
+selection appropriate key length depends practical
+feasibility performing brute force attack obfuscating data
+encoded brute force attack made effectivedifficult determine one succeeded breakingcode
+
+symmetric ciphers
+
+symmetrickey cipher brute force attack typically meanbruteforce search key space testing possible keys
+order recover plaintext used produce particular
+ciphertext
+
+brute force attack expected number trialcorrect key found equal half size key spaceexample arepossible key brute force attack would
+average expected find key aftertrials
+
+trial candidate key attacker need ablerecognise found correct key straightforward
+way obtain corresponding plaintext ciphertext pairs
+knownplaintext attack alternatively ciphertextonly
+attack possible decrypting ciphertext using candidate key
+testing result similarity plaintext languagefor
+example english encoded ascii
+
+general symmetric key cipher considered securemethod expensive time memory requirement etc brute
+force claude shannon used term work factorcopacobana machine reprogrammable costoptimized hardware
+cryptanalytical application exhaustive key searchbuilt university bochum kiel contains
+lowcost fpgas
+enlarge
+copacobana machine reprogrammable costoptimized hardware
+cryptanalytical application exhaustive key searchbuilt university bochum kiel contains
+lowcost fpgas
+
+symmetric cipher key length tobit brokenbrute force attack widelyused block cipher bit
+key broken custom hardware insee eff crackermessage encrypted using bit key brokenrecently distributednet recently copacobana
+costoptimized parallel code breaker builtreconfigurable code breaker suited key searching many
+different algorithm including addition commonly
+speculated government intelligence agency nsa
+successfully attack symmetric key cipher long key lengths
+bit key using brute force application requiring
+long term securitybits ofcurrently thoughtsufficient key length new system using symmetric key algorithms
+nist recommended bit design phased 
+
+key generated weak way example derivedguessable password possible exhaustively search much
+smaller set example key generated passworddictionary see password cracking passphrase information
+
+cipher proven perfect secrecy onetime padbroken using brute force
+
+theoretical limits
+
+physical argument abit key secure brute
+force attack argued law physic ordersimply flip possible value bit key ignoring
+actual computing check one would need device
+consuming minimumgigawatts equivalent eight
+large dedicated nuclear reactor running continuously foryears
+full actual computationchecking key see found
+solutionwould consume many time amount
+
+however argument assumes register value changed
+using conventional set clear operation inevitably generate
+entropy shown computational hardware designed
+encounter theoretical obstruction see reversible
+computing
+
+pragmatic approach increasing computational efficiency
+per unit power utilized involves recent trend toward multicore
+processor technology multicore processor able boost
+computational performance many type computationminimizing power utilization would include kindcomputation required cryptanalysis using brute force techniques
+though current state technology far providingreversible computatitive capability would required makebrute force attack abit key feasible future innovation may
+significantly improve estimated crack time power requirements
+becomes likely multicore processor combinedinnovative smp symetrically multi processor architectureusing well designed algorithm optimize utilization core per
+unit power across massive array processors
+
+code provably unbreakable brute force
+
+certain type encryption mathematical property cannot
+defeated brute force example onetime pad
+cryptography every bit corresponding key bit brute
+force attack would eventually reveal correct decoding also
+every possible combination bit would waydistinguishing one
+smallbyte onetime pad encoded string given brute force would
+eventually reveal everybyte string possible including famous
+quote people name undiscovered wisdom mostly nonsense
+

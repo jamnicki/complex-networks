@@ -1,0 +1,184 @@
+copyright
+
+topology
+
+ school wikipedia selection related subject mathematics
+
+mbius strip object one surface one edgeshape object study topology
+mbius strip object one surface one edgeshape object study topology
+
+topologygreek topos place logo study branchmathematics extension geometry topology beginconsideration nature space investigating fine
+structure global structure topology build set theory
+considering set point family sets
+
+word topology used area study family
+set certain property described particular
+importance study topology function maphomeomorphisms informally function thoughtstretch space without tearing apart sticking distinct parts
+together
+
+discipline first properly founded toward endth century called geometria situs latin geometry place
+analysis situs latin analysis place aroundto 
+wa important growth area within mathematics
+
+topology large branch mathematics includes many subfields
+basic division within topology pointset topology
+investigates concept compactness connectedness
+countability algebraic topology investigates concepts
+homotopy homology knot theory
+
+see also topology glossary definition term used
+topology topological space technical treatmentsubject
+
+history
+
+seven bridge knigsberg famous problem topology
+seven bridge knigsberg famous problem topology
+
+branch mathematics called topology beganinvestigation certain question geometry leonhard euler 
+paper seven bridge knigsberg regarded one first
+topological results
+
+term topologie introduced german inby johann
+benedict listing vorstudien zur topologie vandenhoeck und ruprecht
+gttingen pphowever listing already used wordten year correspondence topology english formintroduced inin journal nature distinguish qualitative
+geometry ordinary geometry quantitative relations
+chiefly treated term topologist sense specialist
+topology used inin magazine spectator
+
+modern topology depends strongly idea set theory developed
+georg cantor later part century cantoraddition setting basic idea set theory considered
+point set euclidean space part study fourier series
+
+henri poincar published analysis situs inintroducingconcept homotopy homology considered partalgebraic topology
+
+maurice frchet unifying work function space cantor
+volterra arzel hadamard ascoli others introduced metric
+space ina metric space considered special casegeneral topological space infelix hausdorff coined term
+topological space gave definition calledhausdorff space current usage topological space slight
+generalization hausdorff space given inby kazimierz
+kuratowski
+
+development see pointset topology algebraic
+topology
+
+elementary introduction
+
+continuous deformation homotopy coffee cup doughnut
+torus
+continuous deformationhomotopy coffee cup doughnut 
+torus
+
+topological space show naturally almost every branchmathematics made topology one great unifying ideamathematics general topology pointset topology definesstudy property space map connectedness
+compactness continuity algebraic topology structureabstract algebra especially group study topological spacemap
+motivating insight behind topology geometric problems
+depend exact shape object involved ratherway put together example square circle
+many property common one dimensional objects
+topological point view separate plane two
+part part inside part outside
+
+one first paper topology demonstration leonhard
+euler impossible find route townknigsberg kaliningrad would cross seven bridges
+exactly result depend length bridges
+distance one another connectivity
+property bridge connected island riverbanks
+problem seven bridge knigsberg famous problem
+introductory mathematics led branch mathematics known
+graph theory
+
+similarly hairy ball theorem algebraic topology say one
+cannot comb hair ball smooth fact immediately
+convincing people even though might recognizeformal statement theorem nonvanishing
+continuous tangent vector field sphere bridgeknigsberg result doe depend exact shapesphere applies pear shape fact kind blob subject
+certain condition smoothness surface longha holes
+
+order deal problem rely exact
+shape object one must clear properties
+problem rely need arises notiontopological equivalence impossibility crossing bridgeapplies arrangement bridge topologically equivalentknigsberg hairy ball theorem applies space
+topologically equivalent sphere
+
+intuitively two space topologically equivalent onedeformed without cutting gluing traditional joke
+topologist cant tell coffee mugdrinking doughnut eating since sufficiently pliable
+donut could reshaped form coffee cup creatingdimple progressively enlarging shrinking holehandle
+
+simple introductory exercise classify lowercase letterenglish alphabet according topological equivalence lines
+letter assumed nonzero width fontmodern use class eo letter one
+hole class fh mn tu xy letters
+without hole class letter consisting two pieces
+g may either belong class one hole fontmay sole element class letter two hole depending
+whether tail closed complicated exercise
+may assumed line zero width one get several
+different classification depending font used letter
+topology practical relevance stencil typography font
+braggadocio instance cut plane without falling
+apart
+
+mathematical definition
+
+let set let family subset xtopology xempty set elementunion element elementintersection finitely many element element
+topology x together called topological
+space
+
+set called open complement set called
+closed neither set complement setneither open closed
+
+function map one topological space another called
+continuous inverse image open set openfunction map real number real numberdefinition continuous equivalent definition continuous
+calculus continuous function onetoone ontoinverse function also continuous function called
+homeomorphism domain function saidhomeomorphic range another way sayingfunction natural extension topology two spacehomeomorphic identical topological propertyconsidered topologically square circlehomeomorphic coffee cup doughnut circlehomeomorphic doughnut
+
+theorem general topology
+
+every closed interval finite length compacttrue set compact closedbounded see heineborel theorem
+every continuous image compact space compact
+tychonoffs theorem arbitrary product compact spacecompact
+compact subspace hausdorff space closed
+every sequence point compact metric space convergent
+subsequence
+every interval connected
+continuous image connected space connected
+metric space hausdorff also normal paracompact
+metrization theorem provide necessary sufficient
+condition topology come metric
+tietze extension theorem normal space every continuous
+realvalued function defined closed subspace extended
+continuous map defined whole space
+baire category theorem complete metric spacelocally compact hausdorff space interior every union
+countably many nowhere dense set empty
+paracompact hausdorff space every open cover admitspartition unity subordinate cover
+every pathconnected locally pathconnected semilocally
+simply connected space universal cover
+
+useful notion algebraic topology
+
+see also list algebraic topology topics
+homology cohomology betti number euler characteristic
+intuitivelyattractive application brouwer fixedpoint theorem
+hairy ball theorem borsukulam theorem ham sandwich theorem
+homotopy group including fundamental group
+manifold
+chern class stiefelwhitney class pontryagin classes
+
+outline deeper theory
+
+fibre bundle puppe sequence
+homotopy group spheres
+obstruction theory
+ktheory kotheory algebraic ktheory
+stable homotopy theory
+brown representability theorem
+co bordism
+surgery theory
+signature topology
+knot theory
+brownpeterson morava ktheory
+dehn surgery obstructions
+hspaces infinite loop space rings
+homotopy theory affine schemes
+intersection cohomology
+
+generalizations
+
+occasionally one need use tool topology setpoint available pointless topology one considers instead
+lattice open set basic notion theorygrothendieck topology certain structure defined arbitrary
+category allow definition sheaf categories
+definition quite general cohomology theories

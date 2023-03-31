@@ -1,0 +1,552 @@
+copyright
+
+mar exploration rover
+
+ school wikipedia selection related subject space transport
+
+artist concept rover mar credit maas digital llc
+enlarge
+artist concept rover mar credit maas digital llc
+redcyan glass recommended viewing pleasure
+
+nasa mar exploration rover mer mission ongoing unmanned mars
+exploration mission commenced inthat sent two robotic rovers
+spirit opportunity explore martian surface geologymission led project manager peter theisinger nasa jet
+propulsion laboratory principal investigator steven squyres
+professor astronomy cornell university
+
+primary among mission scientific goal searchcharacterize wide range rock soil hold clue past
+water activity mar mar exploration rover mission partnasa mar exploration program includes three previous
+successful lander two viking lander inand pathfinder
+
+total cost building launching landing operating rovers
+surface initialday primary mission u 
+million rover still functioning two yearlanding mission funding extended least september 
+
+recognition vast amount scientific information amassedrover two asteroid named honour 
+spirit andopportunity
+
+brief timeline
+
+mera rover spirit launched juneatutc
+merb opportunity julyatutc spirit landedgusev crater januaryatground utc opportunity landed
+meridiani planum opposite side mar spiritjanuaryground utc week following spirits
+landing nasa website recordedbillion hit andterabytesdata transferred eclipsing record set previous nasa missions
+nasa mar exploration rover spirit cast shadow trench
+rover examining tool robotic arm spirit took
+image front hazardavoidance camera february
+rover martian day sol 
+enlarge
+nasa mar exploration rover spirit cast shadow trench
+rover examining tool robotic arm spirit took
+image front hazardavoidance camera february
+rover martian day sol 
+
+januarythe deep space network lost contact spirit
+rover reason originally thought related thunderstorm
+australia rover transmitted message datawednesday spirit rover missed another communications
+session mar global surveyor later day jpl succeededthursday receiving beep rover indicatingwa fault mode flight team succeeded getting
+rover send back data consequence fault believedcaused error rover flash memory subsystemrover unable perform science fordays engineers
+updated software ran test problem correctedreformatting spirit flash memory upgrading softwarepatch avoid memory overload opportunity also upgradedpatch precaution spirit returned full scientific
+operation byfebruary date serious anomalymission
+
+marcha news conference held revealing announced
+major discovery search hint past liquid water
+martian surface delegation science team showed
+picture data revealing stratification pattern cross bedding
+within rock outcrop inside crater meridiani planum
+landing site merb opportunity rover suggesting historyflowing water region irregular distribution chlorinebromine also suggests rover sat placeshoreline salty sea evaporated
+
+aprilnasa announced extending mission life
+rover frommonths tomonths extension providedimmediate additional usmillion funding septemberwell asmillion per month continuing operations
+
+aprilopportunity arrived endurance crater taking
+aboutdays drive themeters
+
+septembernasa announced extending mission
+life rover anothermonths opportunity leave
+endurance crater visit discarded heat shield proceedvictoria crater spirit attempt climb topcolumbia hills
+
+aprilwith two rover still functioning well nasa
+announced additionalmonth extension mission september
+opportunity visit etched terrain spirit waclimb rocky slope toward top husband hill
+spirit postcard view summit husband hill windswept
+plateau strewn rock small exposure outcrop sand dunes
+view north looking upon tennessee valley
+approximate truecolor composite span aboutdegreesconsists offrames captured rover panoramic camera
+enlarge
+spirit postcard view summit husband hill windswept
+plateau strewn rock small exposure outcrop sand dunes
+view north looking upon tennessee valley
+approximate truecolour composite span aboutdegreesconsists offrames captured rover panoramic camera
+
+augustspirit summitted husband hill aftersolsdrive ofkilometersmi
+
+spirit celebrated one martian year anniversarysols 
+earth day novemberopportunity celebratedanniversary decemberboth rover lasted seven times
+original life expectancy beginning missionexpected spirit opportunity would survive much longerninety day columbia hill dream according rover
+driver chris leger
+
+februaryspirit reached semicircular rock formation
+known home plate layered rock outcrop puzzle yet
+excites scientist thought home plate rock explosive
+volcanic deposit yet possibility exist including impact
+deposit windwater borne sediment
+
+marchspirits front right wheel ceased workingmoving mccool hill driver attempted drag dead
+wheel behind spirit worked reaching impassable
+sandy area lower slope driver directed spirit smaller
+sloped feature dubbed low ridge currently
+spending long martian winter waiting spring increased
+solar power level suitable driving
+
+septemberspaceflight reported nasa extended
+mission two rover september 
+
+septemberopportunity reached rim victoria crater
+
+spirit lasted overmartian day exploring gusev crateroctober
+
+spacecraft design
+
+delta liftingenlarge
+delta lifting
+mar exploration rover designed stowed nosedelta rocket spacecraft consists several componentroverkglb
+landerkglb
+backshellparachutekglb
+heat shieldkglb
+cruise stagekglb
+propellantkglb
+
+total mass ofkglb
+
+cruise stage
+
+mer cruise stage diagram courtesy nasajplcaltech
+enlarge
+mer cruise stage diagram courtesy nasajplcaltech
+cruise stage opportunity rover
+enlarge
+cruise stage opportunity rover
+
+cruise stage component spacecraft used travel
+earth mar cruise stage similar mars
+pathfinder design approximatelymetersfeetdiameter andmft tall including entry vehicle see
+
+primary structure aluminium outer ring rib covered
+solar panel aboutmft diameter
+divided five section solar array provide 
+watt power near earth andw mars
+
+heater multilayer insulation keep spacecraft electronics
+warm also freon system used remove heatflight computer telecommunication hardware inside roverdont get overheated cruise avionics system allow flight
+computer rover interface electronicssun sensor star scanner heaters
+
+cruise stage navigation components
+
+star scanner sun sensor star scanner backup system
+sun sensor allow spacecraft know orientation spaceanalyzing position sun star relationsometimes spacecraft slightly coursesituation expected given themillion milegm journey
+spacecraft make navigator thus plan six trajectory
+correction maneuver along health checks
+
+propellant tank ensure spacecraft arrives mar right
+place planned landing two lightweight aluminiumlined tanks
+carry maximum capacity aboutkg aboutlb hydrazine
+propellant along cruise guidance control system tanks
+propellant allow navigator keep spacecraft closely course
+cruise burn pulse firing propellant enables
+three different type trajectory correction maneuvers
+axial burn pair thruster change spacecraft velocity
+lateral burn two thruster cluster four thruster per
+cluster move spacecraft sideways secondslong
+pulses
+pulse mode firing coupled thruster pair spacecraft
+precession maneuver turns
+
+cruise stage communication components
+
+spacecraft highfrequency band radio wavelengthallows spacecraft communication power smaller antennas
+many older spacecraft used band navigator sendcommand two xband antenna cruise stage
+
+cruise lowgain antenna cruise lowgain antenna mounted inside
+inner ring cruise mediumgain antenna mountedouter ring flight spacecraft spinstabilizedspin rate ofrpm periodic spin axis pointing update make sure
+antenna stay pointed toward earth solar panel stay
+pointed toward sun spacecraft use lowgain antenna
+early cruise spacecraft close earth lowgain
+antenna omnidirectional transmission power reaches
+earth fall rapidly increasing distance
+
+cruise mediumgain antenna spacecraft move farther earth
+closer mar sun come area skyviewed spacecraft much energy fall earth
+alone therefore spacecraft switch mediumgain antenna
+direct amount transmission power tighter
+beam reach earth
+
+aeroshell
+
+overview mar exploration rover aeroshell
+enlarge
+overview mar exploration rover aeroshell
+
+aeroshell form protective covering landerseven month voyage mar aeroshell together landerrover constitute engineer call entry vehicleaeroshells main purpose protect lander rover stowed
+safely inside intense heating entry thin martian
+atmosphere landing day
+
+aeroshell mar exploration rover based mars
+pathfinder mar viking designs
+
+part aeroshell
+
+aeroshell made two principal parts
+heat shield flat brownish half
+backshell large whitepainted coneshaped half
+
+heat shield protects lander rover intense heat
+entry martian atmosphere act first aerobrake
+spacecraft
+
+backshell carry parachute several component usedlater stage entry descent landing including
+parachute stowed top backshell
+backshell electronics battery fire pyrotechnic
+device like separation nut rocket parachute mortar
+litton inertial measurement unit imu monitorreport orientation backshell swingparachute
+three large solid rocket motor called rad rocket rocket assisted
+descent providing ton forcekilonewtonsoverseconds
+three small solid rocket called tirs mounted aim
+horizontally side backshell provide small
+horizontal kick backshell help orient backshellvertically main rad rocket burn
+
+composition
+
+built lockheed martin astronautics denver coloradoaeroshell made aluminium honeycomb structure sandwiched
+graphiteepoxy face sheet outside aeroshellcovered layer phenolic honeycomb phenolic honeycombfilled ablative material also called ablatordissipates heat generated atmospheric friction
+
+ablator unique blend cork wood binder many tiny
+silica glass sphere invented heat shield flownviking mar lander missionsyears ago similar technology used
+first manned space mission mercury gemini apollospecially formulated react chemically martian atmosphere
+entry carry heat away leaving hot wake gas behindvehicle vehicle slow fromkmh aboutmphaboutkmhmph minute producing aboutms
+g acceleration lander rover
+
+backshell heat shield made materialheat shield thickerinchmm layer ablator
+also instead painted backshell coveredthin aluminized pet film blanket protect colddeep space blanket vaporize mar atmospheric entry
+
+parachute
+
+mar exploration rover parachute test
+enlarge
+mar exploration rover parachute test
+
+parachute helped slow spacecraft entry descent
+landing located backshell
+
+parachute design
+
+theparachute design part longterm mar parachute
+technology development effort based designexperience viking pathfinder mission parachutemission islarger pathfinder largest load
+mar exploration rover istokilonewtons 
+tolbf parachute fully inflates comparison
+pathfinder inflation load approximatelykn 
+lbf parachute designed constructed south windsor
+connecticut pioneer aerospacewebsite company also
+designed parachute stardust mission
+
+parachute composition
+
+parachute made two durable lightweight fabrics
+polyester nylon parachute triple bridle tethers
+connect parachute backshell made kevlar
+
+amount space available spacecraft parachutesmall parachute must pressure packed launch team
+must tightly fold together thesuspension line three bridle lines
+parachute parachute team load parachute special
+structure applies heavy weight parachute package
+several time placing parachute backshellparachute heat set sterilize
+part work tandem parachute
+
+descent halted retrorocket lander dropped mfeet
+surface
+enlarge
+descent halted retrorocket lander dropped mfeet
+surface
+
+zylon bridle parachute deployed altitudekmmiles surface heatshield released using 
+separation nut pushoff spring lander separatebackshell rappel metal tape centrifugal braking
+system built one lander petal slow descentmetal tape place lander position end another bridle
+tether made nearlymft long braided zylon
+
+zylon advanced fibre material similar kevlar sewnwebbing pattern like shoelace material make stronger zylon
+bridle provides space airbag deployment distance solid
+rocket motor exhaust stream increased stability bridle
+incorporates electrical harness allows firing solid
+rocket backshell well provides data backshell
+inertial measurement unit measure rate tiltspacecraft flight computer rover
+
+rocket assisted descent rad motor atmospheric density
+mar thanof earth parachute alone cannot slow
+mar exploration rover enough ensure safe low landing
+speed spacecraft descent assisted rocket bringspacecraft dead stopmft martian surface
+
+radar altimeter unit radar altimeter unit used determinedistance martian surface radar antenna mounted one
+lower corner lander tetrahedron radar
+measurement show lander correct distance surface
+zylon bridle cut releasing lander parachute
+backshell free clear landing radar data
+also enable timing sequence airbag inflation backshell
+rad rocket firing
+
+airbags
+
+artist concept inflated airbags
+enlarge
+artist concept inflated airbags
+
+airbags used mar exploration rover mission type
+mar pathfinder used inairbags must strong enoughcushion spacecraft land rock rough terrain allow
+bounce across mar surface freeway speed landingadd complexity airbags must inflated secondtouchdown deflated safely ground
+
+fabric used new mar airbags synthetic material called
+vectran also used mar pathfinder vectran almost twice
+strength synthetic material kevlar performs
+better cold temperatures
+
+sixdeniermgm layer light tough
+vectran protecting one two inner bladder materialdeniermgm using thedeniermgm meanactual fabric outer layer neededthread weave
+
+rover used four airbags six lobeconnected connection important since help abatelanding force keeping bag system flexible responsiveground pressure fabric airbags attached directlyrover rope crisscross bag held fabric rover
+rope give bag shape make inflation easierflight bag stowed along three gas generatorused inflation
+
+lander
+
+mer lander petal opening courtesy nasajplcaltech
+enlarge
+mer lander petal opening courtesy nasajplcaltech
+
+spacecraft lander protective shell house roverprotects along airbags force impact
+
+lander strong lightweight structure consisting basethree side petal shape tetrahedron lander
+structure consists beam sheet made composite
+material lander beam made layer graphite fibre
+woven fabric creating material lighter aluminium
+rigid steel titanium fitting bonded gluedfitted onto lander beam allow bolted togetherrover held inside lander bolt special nutreleased landing small explosives
+
+turning rover upright
+
+three petal connected base tetrahedronhinge petal hinge powerful motor strong enoughlift entire lander rover plus lander mass 
+kilogramspounds rover alone weighs aboutkglb
+gravity mar aboutof earth motor doe need
+powerful would earth motor petal
+ensures lander place rover upright positionmatter side lander come rest bouncingrolling subsides surface mars
+
+rover contains accelerometer detect waytoward surface mar measuring pull gravityrover computer knowing way command correct lander
+petal open place rover upright base petalrover upright two petal opened
+
+petal initially open equally flat position sidelander straight level petal motor strong enough
+two petal come rest rock baserover held place like bridge surface mars
+base hold level even height petals
+resting rock making straight flat surface throughout length
+open flattened lander flight team earth may send
+command rover adjust petal create better pathway
+rover drive lander safely move ontomartian surface without dropping steep rock
+
+moving rover safely onto martian surface
+
+spirit lander mars
+enlarge
+spirit lander mars
+
+process rover moving lander called egress
+phase mission rover must able safely drivelander without getting wheel caught airbag materialwithout dropping sharp incline
+
+aid egress process lander petal contain retraction
+system slowly drag airbags toward lander getpath rover step performed lander
+petal opened small ramp ramplets also connectedpetal fan create driving surface fill large
+space lander petal ramplets nicknamed batwings
+made vectran cloth batwing help cover dangerous
+uneven terrain rock obstacle leftover airbag material could
+get entangled rover wheel vectran cloth surface makecircular area rover roll lander providing
+additional direction rover leave lander ramplets also
+lower height step rover must takelander preventing possible death rover rover bangedbelly rock smashed ground movinglander entire mission could lost
+
+abouthours allotted retract airbags deploy lander
+petals
+
+rover design
+
+mar exploration rover sojourner rover courtesy nasajplcaltech
+enlarge
+mar exploration rover sojourner rover courtesy nasajplcaltech
+
+drive system
+
+rover six wheel mounted rockerbogie suspension system
+ensures six wheel remain ground driving
+rough terrain rocker design ensures rover bodygo half range motion leg wheels
+could potentially experience without suspension system rover
+rockerbogie design allows rover obstaclerock hole wheel diametermmsize wheel also cleat providing grip climbing
+soft sand scrambling rock wheel haindividual motor two front two rear wheel alsoindividual steering motorseach steering capability allows
+vehicle turn place fulldegrees wheel steering
+also allows rover swerve curve making arching turnrover designed withstand tilt ofdegrees direction
+without overturning however rover programmedfault protection limit hazard avoidance software avoid
+exceeding tilt ofdegrees traverses
+
+rover ability spin one front wheel placegrind deep terrain rover designed remain motionless
+digging wheel spinning
+
+rover top speed flat hard ground ofmmsins
+however order ensure safe drive rover equippedhazard avoidance software cause rover stop reassess
+location every second time vehicle achievesaverage speed ofmms rover programmed drive roughly
+second stop observe understand terraindriven forseconds moving safely onward another 
+seconds
+
+power electronic systems
+
+fully illuminated rover solar array generate aboutwatts
+four hour per martian daysol rover need 
+watt drive power system mar exploration rover
+includes two rechargeable lithium ion battery weighingpounds
+kg provide energy rover sunshining especially night time battery degradeable recharge full power capacity comparison
+future mar science laboratory expected last approximately
+one martian year using radioisotope thermoelectric generator power
+large suite instrument solar panel consideredmsl mission mission rtgs provide versatility workdark environment high latitude solar energyefficient method power generation
+
+wa thought end sol mission capabilitysolar array generate power would likely reduced 
+watt due anticipated dust coverage solar arrays
+well change season however almost two earth year later
+rover power supply hover betweenwatthours 
+watthours per day depending dust coverage cleaning events
+probably wind occurred frequently nasa originally
+anticipated keeping solar array relatively free dustextending life mission
+
+rover run vxworks embedded operating systemradiationhardenedmhz rad cpu withmb dram error
+detection correction andmb eeprom also rovermb flash memory survive various mission
+phase rover vital organ must exceed extreme temperatures
+ofc tocf tof night rover heated
+eight radioisotope heater unit rhu continuously
+generatew thermal energy decay radioisotope along
+electrical heater operate necessary sputtered
+gold film layer silica aerogel used insulation
+
+communication
+
+rover lowgain highgain antenna lowgain
+antenna omnidirectional transmits data low rate deep
+space network dsn antenna earth highgain antennadirectional steerable transmit data directly earthhigher rate
+
+rover also able uplink information using lowgain uhf
+antenna spacecraft orbiting mar utilizing mar odyssey
+mar global surveyor orbiter messenger pas along news
+earth rover orbiter also send messagerover relay odyssey spacecraft useddata downlinked earth benefit using orbiting
+spacecraft orbiter closer rover deep
+space network antenna earth orbiter earthfield view much longer time period roverground radio wave rover sentorbiter using uhf antenna shorter range lowhighgain antenna one uhf antenna rover onepetal lander aid gaining information critical
+landing event
+
+mer camera total ofcameras two rover produce
+pixel pixel image atbits per pixelalthoughimage truncated tobit per pixel compression
+
+image compressed using icer stored sentearth navigation thumbnail many image type compressed
+approximatelybitpixel lower bit rate 
+bitpixel used certain wavelength multicolour
+panoramic images
+
+icer image compression provides substantially effective
+compression obtained previous mission image
+compressor designed meet specialized need deepspace
+application icer waveletbased produce progressive
+compression providing lossless lossy compressionincorporates errorcontainment scheme limit effect data
+loss deepspace channel icer outperforms jpeg image
+compressor used mpf mission provides significantlyeffective lossless compression rice compressor usedmission
+
+scientific instrumentation
+
+located rover pancam mast assemblypanoramic camera pancam determining texture colour
+mineralogy structure local terrainpanoramiccamera mast assembly pma built ball aerospace 
+technology corp boulder colorado
+navigation camera navcam lower resolution higher fieldview monochromatic camera navigation driving
+mirror miniature thermal emission spectrometer
+minites arizona state university identifying
+promising rock soil closer examination determine
+process formed martian rock see main minites
+article
+
+mastmounted camera mountedmeter high one motorentire pancam mast assembly head turn camera minitesin
+horizontal plane separate elevation motor point cameras
+horizon andbelow horizon third motorminites mirror elevation enables minites point toover
+horizon andbelow horizon highgain antenna gimbal
+hgag also built ball aerospacetechnologies corp
+
+addition four monochromatic hazard camerashazcams mounted
+rover body two front two rear
+
+instrument deployment device idd also called rover arm
+hold following
+mssbauer spectrometer mimos developed gstar
+klingelhfer johannes gutenberg university mainz
+germany used closeup investigation mineralogyironbearing rock soils
+alpha particle xray spectrometerapxs developed max
+planck institute chemistry mainz germany usedcloseup analysis abundance element make rocks
+soils
+magnet collecting magnetic dust particle developed jens
+martin knudsen group niels bohr institute
+copenhagen mssbauer spectrometer alpha particle xray
+spectrometer analyze particle collected help
+determine ratio magnetic particle nonmagnetic particles
+composition magnetic mineral airborne dust rocks
+ground rock abrasion tool also
+magnet front rover studied extensivelymssbauer spectrometer
+microscopic imager development led ken herkenhoffteam usgs astrogeology research program obtaining
+closeup highresolution image rock soils
+rock abrasion tool rat developed honeybee electronicsremoving dusty weathered rock surface exposing fresh
+material examination instrument onboard
+
+robotic arm able place instrument directly rock
+soil target interest
+mer panoramic camera courtesy nasajplcaltech
+enlarge
+mer panoramic camera courtesy nasajplcaltech
+image miniature thermal emission spectrometer minitesinstrument probe used identifying rocks
+enlarge
+image miniature thermal emission spectrometer minitesinstrument probe used identifying rocks
+alpha particle xray spectrometer apxs courtesy nasajplcaltech
+enlarge
+alpha particle xray spectrometerapxs courtesy nasajplcaltech
+
+naming spirit opportunity
+
+spirit opportunity rover named student essay
+competition winning entry sofi collis third grade
+russian american student arizona
+
+used live orphanage
+wa dark cold lonely
+night looked sparkly sky felt better
+dreamed could flyamerica make dream come true
+thankyou spirit opportunity
+sofi collis age 
+
+prior development building roverknown mer opportunity mer spirit internally nasa
+also mission designation mera spirit merb
+opportunity based order landing mar spirit firstopportunity
+
+maestro
+
+nasa team software application called sap view images
+collected rover plan daily activityversion available public called maestro maestro writtenjava run many different platform including microsoft
+window macintosh solaris linux irix software alongcompanion datasets obtained maestro headquarters
+
+timestamps mar exploration rover images
+
+possible tell time image taken mars
+exploration rover image filename
+
+image taken spirit opportunity filenamebuiltin timestamp charactersrepresent number earth
+second since epochjanuaryutc 
+thus image name like pesfaprmjpg hatimestamp ofseconds corresponds march
+utc
+
+note leap second added december
+
+books
+
+roving mar spirit opportunity exploration red
+planet steve squyres published augustisbn 
+

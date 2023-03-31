@@ -1,0 +1,372 @@
+copyright
+
+gas tungsten arc welding
+
+ school wikipedia selection related subject engineering
+
+
+featured article click information
+gas tungsten arc welding
+enlarge
+gas tungsten arc welding
+
+gas tungsten arc welding gtaw also known tungsten inert gas tig
+welding arc welding process nonconsumable tungsten
+electrode produce weld weld area protectedatmospheric contamination shielding gas usually inert gasargon filler metal normally used though welds
+known autogenous weld require constantcurrent
+welding power supply produce energy conducted across arc
+column highly ionized gas metal vapor knownplasma
+
+gtaw commonly used weld thin section stainless steellight metal aluminium magnesium copper alloyprocess grant operator greater control weldcompeting procedure shielded metal arc welding gas metal
+arc welding allowing stronger higher quality weld however gtaw
+comparatively complex difficult master furthermore
+significantly slower welding techniquerelated process plasma arc welding slightly different welding
+torch create focused welding arc result often
+automated
+
+development
+
+discovery electric arc inby humphry davy arc
+welding developed slowly l coffin idea weldinginert gas atmosphere inbut even early welding
+nonferrous material like aluminium magnesium remained difficult
+metal reacted rapidly air resulting porous
+drossfilled weld process using flux covered electrodesatisfactorily protect weld area contamination solveproblem bottled inert gas used beginningyear later direct current gasshielded welding process emerged
+aircraft industry welding magnesium
+
+process perfected inand became known heliarctungsten inert gas welding utilized tungsten electrode
+helium shielding gas initially electrode overheated
+quickly spite tungsten high melting temperature particles
+tungsten transferred weld address problempolarity electrode changed positive negativemade unsuitable welding many nonferrous materials
+finally development alternating current made possiblestabilize arc produce high quality aluminium magnesium
+welds
+
+development continued following decade linde air products
+developed watercooled torch helped prevent overheatingwelding high current additionallyprocess continued gain popularity user turned carbon
+dioxide alternative expensive welding atmospheres
+consisting argon helium however proved unacceptablewelding aluminium magnesium reduced weld qualityresult rarely used gtaw today
+
+ina new process based gtaw developed called plasma arc
+welding affords greater control improves weld quality using
+nozzle focus electric arc largely limited automated
+system whereas gtaw remains primarily manual handheld method
+development within gtaw process continued well todaynumber variation exist among popularpulsedcurrent manual programmed hotwire dabber increased
+penetration gtaw methods
+
+operation
+
+gtaw weld area
+enlarge
+gtaw weld area
+
+manual gas tungsten arc welding often considered difficult
+welding process commonly used industrywelder must maintain short arc length great care skillrequired prevent contact electrode workpiece
+unlike welding process gtaw normally requires two hand since
+application require welder manually feed filler metal
+weld area one hand manipulating welding torch
+however weld combining thin material knownautogenous fusion weld accomplished without filler metal
+notably edge corner butt joints
+
+strike welding arc high frequency generator provides path
+welding current shielding gas allowing arcstruck separation electrode workpiece
+approximatelymmin bringing two contact
+also serf strike arc cause contaminationweld electrode arc struck welder move torch
+small circle create welding pool size depends
+size electrode current maintainingconstant separation electrode workpieceoperator move torch back slightly tilt backwarddegree vertical filler metal added manuallyfront end weld pool needed
+
+welder often develop technique rapidly alternating moving
+torch forward advance weld pool adding filler metal
+filler rod withdrawn weld pool time electrode
+advance never removed gas shield prevent
+oxidation surface contamination weld filler rods
+composed metal low melting temperature aluminium
+require operator maintain distance arcstaying inside gas shield held close arc filler
+rod melt make contact weld puddle weld
+nears completion arc current often gradually reduced prevent
+formation crater end weld
+
+safety
+
+like arc welding process gtaw dangerous proper
+precaution taken welder wear protective clothing including
+heavy leather glove protective long sleeve jacket avoid
+exposure extreme heat flame due absence smokegtaw electric arc seem brighter shielded metal arc
+welding making operator especially susceptible arc eye skin
+irritation unlike sunburn helmet dark face plate worn
+prevent exposure ultraviolet light sometimes featuringliquid crystaltype face plate selfdarkens upon exposure high
+amount light transparent welding curtain made polyvinyl
+chloride plastic film often used shield nearby workerbystander exposure light electric arc
+
+welder also often exposed dangerous gas particulate
+matter shielding gas displace oxygen lead asphyxiation
+smoke produced brightness arc gtawcause surrounding air break form ozone similarlybrightness heat cause poisonous fume form cleaningdegreasing material cleaning operation using agentperformed near site welding proper ventilationnecessary protect welder
+
+applications
+
+aerospace industry one primary user gas
+tungsten arc welding process used number areas
+many industry use gtaw welding thin workpiece especially
+nonferrous metal used extensively manufacture space
+vehicle also frequently employed weld smalldiameter
+thinwall tubing addition gtaw often used make root first
+pas weld piping various size maintenance repair work
+process commonly used repair tool especially
+component made aluminium magnesium weldproduce highly resistant corrosion cracking long time
+period gtaw welding procedure choice critical welding
+operation like sealing spent nuclear fuel canister burial
+
+quality
+
+gtaw tjoint weld
+enlarge
+gtaw tjoint weld
+
+among arc welding process gtaw rank highest termquality weld produced maximum quality assured maintainingcleanliness operationall equipment material used mustfree oil moisture dirt impurity cause weld
+porosity consequently decrease weld strength qualityremove oil grease alcohol similar commercial solvent mayused stainless steel wire brush chemical process remove
+oxide surface metal like aluminium rust steelremoved first grit blasting surface using wire
+brush remove embedded grit step especially important
+negative polarity direct current used power
+supply provides cleaning welding process unlike positive
+polarity direct current alternating current maintain clean
+weld pool welding shielding gas flow sufficient
+consistent gas cover weld block impurityatmosphere gta welding windy drafty environment increases
+amount shielding gas necessary protect weld increasing
+cost making process unpopular outdoors
+
+gtaws relative difficulty importance proper
+technique skilled operator employed important applications
+low heat input caused low welding current high welding speed
+limit penetration cause weld bead lift awaysurface welded much heat input howeverweld bead grows width likelihood excessive penetration
+spatter increase additionally welder hold welding
+torch far workpiece shielding gas wastedappearance weld worsens
+
+amount current used exceeds capability electrode
+tungsten inclusion weld may result known tungsten spitting
+identified radiography prevented changingtype electrode increasing electrode diameter additionelectrode well protected gas shield operator
+accidentally allows contact molten metal become dirty
+contaminated often cause welding arc become unstable
+requiring electrode ground diamond abrasive remove
+impurity
+
+equipment
+
+gtaw torch various electrode cup collet gas diffusers
+enlarge
+gtaw torch various electrode cup collet gas diffusers
+gtaw torch disassembled
+enlarge
+gtaw torch disassembled
+
+equipment required gas tungsten arc welding operation
+includes welding torch utilizing nonconsumable tungsten electrode
+constantcurrent welding power supply shielding gas source
+
+welding torch
+
+gtaw welding torch designed either automatic manual
+operation equipped cooling system using air waterautomatic manual torch similar constructionmanual torch handle automatic torch normally comemounting rack angle centerline handlecenterline tungsten electrode known head anglevaried manual torch according preferenceoperator air cooling system often used lowcurrent
+operation abouta water cooling requiredhighcurrent welding abouta torch connected
+cable power supply hose shielding gas
+source used water supply
+
+internal metal part torch made hard alloy copper
+brass order transmit current heat effectivelytungsten electrode must held firmly centre torchappropriately sized collet port around electrode provideconstant flow shielding gas body torch madeheatresistant insulating plastic covering metal components
+providing insulation heat electricity protect welder
+
+size welding torch nozzle depends size desired
+welding arc inside diameter nozzle normally least
+three time diameter electrode nozzle must heat
+resistant thus normally made alumina ceramic material
+fused quartz glasslike substance offer greater visibility
+device inserted nozzle special applicationgas lens valve control shielding gas flow switchcontrol welding current
+
+power supply
+
+gas tungsten arc welding constant current power source meaning
+current thus heat remains relatively constant even
+arc distance voltage change importantapplication gtaw manual semiautomatic requiringoperator hold torch maintaining suitably steady arc distancedifficult constant voltage power source used instead sincecause dramatic heat variation make welding difficult
+gtaw power supply
+enlarge
+gtaw power supply
+
+preferred polarity gtaw system depends largely type
+metal welded direct current negatively charged
+electrode dcen often employed welding steel nickel
+titanium metal also used automatic gta
+welding aluminium magnesium helium used shielding
+gas negatively charged electrode generates heat emitting
+electron travel across arc causing thermal ionizationshielding gas increasing temperature base material
+ionized shielding gas flow toward electrode base
+material allow oxide build surfaceweld direct current positively charged electrode dcep less
+common used primarily shallow weld since heatgenerated base material instead flowing electrode
+base material dcen electron direction
+causing electrode reach high temperature helpmaintain shape prevent softening larger electrode often
+used electron flow toward electrode ionized shielding gas
+flow back toward base material cleaning weld removing
+oxide impurity thereby improving qualityappearance
+
+alternating current commonly used welding aluminium magnesium
+manually semiautomatically combine two direct currentmaking electrode base material alternate positivenegative charge cause electron flow switch directions
+constantly preventing tungsten electrode overheatingmaintaining heat base material make ionized
+shielding gas constantly switch direction flow causing
+impurity removed portion cycle power
+supply enable operator use unbalanced alternating current wave
+modifying exact percentage time current spendsstate polarity giving control amountheat cleaning action supplied power source addition
+operator must wary rectification arc failsreignite pass straight polarity negative electrodereverse polarity positive electrode remedy problem square
+wave power supply used highfrequency voltageencourage ignition
+
+electrode
+
+iso class iso colour aws class aws colouralloy
+wpgreenewpgreennone
+wcgrayewceorangeceo
+wlblackewlablacklao
+wlgoldewlagoldlao
+wlskyblueewlabluelao
+wtyellowewthyellowtho
+wtredewthredtho
+wtviolettho
+wtorangetho
+wyblueyo
+wzbrownewzrbrownzro
+wzwhitezro
+
+electrode used gtaw made tungsten tungsten alloy
+tungsten highest melting temperature among pure metals
+atcf result electrode consumed
+welding though erosion called burnoff occur
+electrode either clean finish ground finishclean
+finish electrode chemically cleaned ground finish
+electrode ground uniform size polished
+surface making optimal heat conduction diameterelectrode vary betweenmillimeter andmillimeters
+length range fromtomillimeters
+
+number tungsten alloy standardized international
+organization standardization american welding societyisoand aws respectively use gtaw electrodesummarized adjacent table pure tungsten electrodes
+classified ewp general purpose low cost electrodes
+cerium oxide ceria alloying element improves arc stability
+ease starting decreasing burnoff using alloylanthanum oxide lanthana similar effect thorium oxidethoria alloy electrode designed applicationwithstand somewhat higher temperature providing manybenefit alloy however somewhat radioactivereplacement electrode larger concentration lanthanum oxide
+used electrode containing zirconium oxide zirconia
+increase current capacity improving arc stabilitystarting increasing electrode life addition electrode
+manufacturer may create alternative tungsten alloy specified
+metal addition designated classification ewg
+aws system
+
+filler metal also used nearly application gtawmajor exception welding thin material filler metalavailable different diameter made varietymaterial case filler metal form rodadded weld pool manually application callautomatically fed filler metal often stored spoolcoils
+
+shielding gas
+
+gtaw system setup
+enlarge
+gtaw system setup
+
+welding process gas metal arc welding
+shielding gas necessary gtaw protect welding areaatmospheric gas nitrogen oxygen cause fusion
+defect porosity weld metal embrittlement come contact
+electrode arc welding metal gas also
+transfer heat tungsten electrode metal helps
+start maintain stable arc
+
+selection shielding gas depends several factor including
+type material welded joint design desired final weld
+appearance argon commonly used shielding gas gtaw
+since help prevent defect due varying arc length used
+alternating current use argon result high weld quality
+good appearance another common shielding gas heliumoften used increase weld penetration joint increasewelding speed weld metal high heat conductivitycopper aluminium significant disadvantage difficultystriking arc helium gas decreased weld quality
+associated varying arc length
+
+argonhelium mixture also frequently utilized gtaw sinceincrease control heat input maintaining benefits
+using argon normally mixture made primarily helium
+often aboutor higher balance argon mixtures
+increase speed quality welding aluminium also
+make easier strike arc another shielding gas mixture
+argonhydrogen used mechanized welding light gauge
+stainless steel hydrogen cause porosity uslimited similarly nitrogen sometimes added argon help
+stabilize austenite austentitic stainless steel increase
+penetration welding copper due porosity problem ferritic
+steel limited benefit however popular shielding gas
+additive
+
+materials
+
+gas tungsten arc welding commonly used weld stainless steel
+nonferrous material aluminium magnesiumapplied nearly metal notable exception leadzinc application involving carbon steel limitedprocess restriction existenceeconomical steel welding technique gas metal arc weldingshielded metal arc welding furthermore gtaw performedvariety otherthanflat position depending skillwelder material welded
+
+aluminium magnesium
+
+tig weld showing accentuated etched zone
+enlarge
+tig weld showing accentuated etched zone
+closeup view aluminium tig weld etch zone
+enlarge
+closeup view aluminium tig weld etch zone
+
+aluminium magnesium often welded using alternating
+current use direct current also possible dependingproperty desired welding work area cleaned
+may preheated totoctof aluminiummaximum ofcf thick magnesium workpieceimprove penetration increase travel speed current provideselfcleaning effect removing thin refractory aluminium oxide 
+sapphire layer form aluminium metal within minuteexposure air oxide layer must removed welding occur
+alternating current used pure tungsten electrodezirconiated tungsten electrode preferred thoriated
+electrode latter likely spit electrode particles
+across welding arc weld blunt electrode tippreferred pure argon shielding gas employed thin
+workpiece introducing helium allows greater penetrationthicker workpiece make arc starting difficult
+
+direct current either polarity positive negative usedweld aluminium magnesium well direct current negatively
+charged electrode dcen allows high penetrationcommonly used joint butting surface square groove
+joint short arc length generally thanmm orin gives
+best result making process better suited automatic
+operation manual operation shielding gas high helium
+content commonly used dcen thoriated electrodesuitable direct current positively charged electrode dcepused primarily shallow weld especially joint
+thickness thanmillimetersin still
+important cleaning essential dcep dcen sinceelectron flow workpiece electrode help maintainclean weld large thoriated tungsten electrode commonly used
+along pure argon shielding gas
+
+steels
+
+gta welding carbon stainless steel selectionfiller material important prevent excessive porosity oxidefiller material workpiece must removed weldingprevent contamination immediately prior welding alcoholacetone used clean surface preheating generally
+necessary mild steel one inch thick low alloy
+steel may require preheating slow cooling process prevent
+formation martensite heataffected zone tool steels
+also preheated prevent cracking heataffected zone
+austenitic stainless steel require preheating martensitic
+ferritic chromium stainless steel dcen power sourcenormally used thoriated electrode tapered sharp pointrecommended pure argon used thin workpiece heliumintroduced thickness increases
+
+dissimilar metals
+
+welding dissimilar metal often introduces new difficulty gta
+welding material easily fuse form strong
+bond however weld dissimilar material numerous applications
+manufacturing repair work prevention corrosionoxidation joint compatible filler metal chosen help
+form bond filler metal one base
+material example using stainless steel filler metalstainless steel carbon steel base material different
+metal use nickel filler metal joining steelcast iron different material may coated butteredmaterial compatible particular filler metal weldedaddition gtaw used cladding overlaying dissimilar
+materials
+
+welding dissimilar metal joint must accurate fit
+proper gap dimension bevel angle care takenavoid melting excessive base material pulsed current particularly
+useful application help limit heat inputfiller metal added quickly large weld poolavoided prevent dilution base materials
+
+process variations
+
+pulsedcurrent
+
+pulsedcurrent mode welding current rapidly alternates
+two level higher current state known pulse
+current lower current level called background
+current period pulse current weld area heated
+fusion occurs upon dropping background current weld
+area allowed cool solidify pulsedcurrent gtaw number
+advantage including lower heat input consequently reduction
+distortion warpage thin workpiece addition allows
+greater control weld pool increase weld
+penetration welding speed quality similar method manual
+programmed gtaw allows operator program specific ratemagnitude current variation making useful specialized
+applications
+
+dabber
+
+dabber variation used precisely place weld metal thin
+edge automatic process replicates motion manual welding
+feeding cold filler wire weld area dabbingoscillating welding arc used conjunction
+pulsed current used weld variety alloy including
+titanium nickel tool steel common application include
+rebuilding seal jet engine building saw blade milling
+cutter drill bit mower blades

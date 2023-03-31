@@ -1,0 +1,374 @@
+copyright
+
+commodore 
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+hardware
+commodore 
+typehome computer
+releasedaugust 
+discontinued april 
+processormos technologymhz ntsc versionmhz pal
+version
+memorykb
+oscommodore basic 
+
+commodoreis best selling single personal computer modeltime released augustthe commodoreis commonly
+referred sometimes written cto mimic commodore
+company logo occasionally known cbm model designation
+c vic label used user magazine writer third
+party advertisement also commodore swedenthe commodore
+casing affectionately nicknamed breadboxbullnose due shape introduced commodore business machines
+augustat price offeredkilobytes ram
+sound graphic performance compared favourablyibmcompatible computer time commodorelifetime betweenandsales totaled aroundmillion
+units
+
+unlike computer distributed authorized dealers
+commodore also targeted department store toy store unit
+could plugged directly television set play game giving
+much appeal dedicated video game console like atari
+affordable pricing contributed video game market crash
+
+
+approximatelycommercial software title madecommodoreincluding development tool office applicationgame machine also credited popularizing computer demo
+scene commodoreis still used today many computer hobbyists
+emulator allow anyone modern computer even smartphones
+sx run program desktop varying
+degree success functionality
+
+commodoreis commonly seen icon example
+introductory movie video game grand theft auto vice
+city feature commodorescreen later revealsrockstar north logo
+
+history
+
+closeup enlarge
+closeup 
+januarymos technology inc commodore integrated circuit
+design subsidiary initiated project design graphic audio
+chip next generation video game console design workchip named technology vicii graphic technology sid
+audio completed november 
+
+game console project initiated commodore would use
+new chipscalled ultimax alternatively commodore max
+machine engineered yashi terakura commodore japanproject eventually cancelled machinemanufactured japanese market
+
+time robert bob russell system programmer architect
+vic robert bob yannes engineer sidcritical current product lineup commodore wacontinuation commodore pet line aimed business usersupport charpentier engineer vicii charles
+winterble manager technology proposed commodore ceo
+jack tramiel true lowcost sequel vic tramiel dictated
+machine ram althoughkb dram cost
+usat time knew dram price fallingwould soon drop acceptable level full productionreached november tramiel set deadline first weekendjanuary coincide theconsumer electronics show
+
+product codenamed vic successor popular
+vic team constructed consisted robert russell
+robert bob yannes david ziembicki design prototypesample software finished time show team
+worked tirelessly thanksgiving christmas weekends
+
+product presented vic product renamed
+c order fit current commodore business product lineup
+contained b named letterrespective memory size
+
+c made impressive debut recalled production engineer
+david ziembicki saw booth atari peoplemouth dropping open saying 
+answer turned vertical integration thankscommodore ownership technology semiconductor fabrication
+facility estimated production cost 
+however cheaper manufacturing technique resulted manufacturing
+problem launch one three commodore proved
+defective many early unit video problem causingblurry effect made alphanumeric character difficult read
+
+winning market war
+
+commodore basic enlarge
+commodore basic 
+c faced wide range competing home computerintroduction augustwith impressive price point coupled
+advanced hardware quickly outclassed manycompetitor united state greatest competitor atariibm apple atariwassimilar hardware term expensive buildforced atari redesign machine cost effectiveresulted xlxl line transfer production
+far east ibm aging apple match
+c graphical sound abilityexpandable internal expansion slot feature lacking
+
+three machine standard memory configuration k less
+ram u ibm apple weretimesexpensive ataricost mereone key success commodore aggressive marketing tacticquick exploit relative priceperformance divisioncompetitor series television commercial launch late 
+
+commodore sold network authorized
+dealer also placed shelf department stores
+discount store toy store since ability output
+composite video require specialized monitorcould plugged television set allowed likepredecessor vic compete directly video game
+console atari 
+
+aggressive pricing considered major catalystvideo game crash ofincommodore offered arebate
+united state purchase upon receipt video
+game console computer take advantage therebatemailorder dealer retailer offered timex sinclairforlittle aswith purchase consumer could sendcomputer commodore collect rebate pocket difference
+timex corporation departed marketplace within year success
+vic also contributed significantly exittexas instrument tia competitor field
+
+incommodore released commodore plus plus offeredhighercolour display better implementation basic vbuiltin software however commodore committed perceivedcritic consumer major strategic error makingincompatible top plus lacked
+hardware sprite capability much poorer sound thus seriously
+underperforming two area made star
+
+united kingdom primary competitor cbritishbuilt sinclair spectrum amstrad cpc releasedmonth ahead selling almost half pricespectrum quickly became market leader commodore woulduphill struggle spectrum could longer relyundercutting competition debuted atin early 
+spectrum costthe would later rival spectrumpopularity latter half eventually outlivingspectrum discontinued 
+
+despite attempt commodore discontinue favourhigher priced machine constant demand made discontinuation
+hard task bycommodore sellingmillion worldwide although demand dropped 
+continued popular european countryend economics obsolescence sealed fate march
+cebit hanover germany commodore announced would finally discontinued incommodore claimed disk drive expensive manufacture calthough commodore planned discontinue bythe
+company filed bankruptcy month later april 
+
+c family
+
+commodore release commodore max machine japancalled ultimax vc germany maxintended game console limited computing capabilitydiscontinued month introduction poor salejapan
+
+incommodore released portable version sx distinction first fullcolour portable
+computer base unit featured ainchmm crt integral
+floppy disk drive
+
+commodore system floppy drive rgb monitor
+
+enlarge
+commodore system floppy drive rgb monitor
+
+
+commodore determined avoid problem plus making
+sure eventual successor cthe commodoreandcomputer good fully compatibleoriginal well offering host improvementstructured basic graphic sound command column display
+capability full cpm compatibility
+
+incommodore released commodore cc computerwa functionally identical original whose exterior design
+wa remodelled sleeker style contemporary
+design trend cc often bundledthirdparty geos guibased operating system commodoredisk
+drive also remodelled resulting 
+inthe wa rereleased form game console called
+c game system cgs simple modification ccs
+motherboard made orient cartridge connector vertical
+position allowed cartridge inserted modified
+rom replaced basic interpreter boot screen informuser insert cartridge cgs another commercial failure
+commodore never released outside europe
+
+inan advanced successor commodorealso known
+cdx prototyped project cancelledcommodore chairman irving gould inthe specifications
+good bit computer example could display 
+colour screen ocs based amigas could display 
+although specific reason given cancellationseemed conflict interest lower end amigasamigawas released mideventually taking place
+advanced upgrade
+
+c clones
+
+summer ofafter absence marketplacethanyears manufacturer tulip computer ownercommodore brand sinceannounced directtotv cdtvjoystickbased game based withgames built rom
+designed jeri ellsworth selftaught computer designerearlier designed modern cone implementation cdtvsimilar concept miniconsoles based atariand
+intellivision gained modest success earlier decade
+product advertised qvc united state 
+holiday season user installedfloppy disk drive hard
+drive second joystick keyboard unit givedtv device nearly capability full commodorethe
+dtv hardware also used miniconsolegame hummer soldradio shack mid
+
+ofc enthusiast still develop new hardware including
+ethernet card specially adapted hard disk flash card interfaces
+
+software
+
+time introduction graphic sound
+capability rivalled atari bit family watime ibm compatibles textonly graphic cards
+green screen monitor sound consisting squeak beepbuiltin tiny lowquality speaker
+
+due advanced graphic sound often creditedstarting computer subculture known demoscene see commodore
+demo lost top position among demo coderbit atari commodore amiga released inhoweverstill remained popular platform demo coding upto early
+
+turn millennium still actively useddemo machine especially music sound chip even usedspecial sound card elektron sidstation synthesizer
+unfortunately difference pal ntsc caused
+compatibility problem uscanadian ccountry vast majority demo run pal machines
+
+hardware
+
+graphic sound
+
+c used bit technologymicroprocessor close
+derivative thewith added bit internal portc used two purpose bankswitch machine romprocessor address space operate datasette
+tape recorder hadkilobytes ram whichkbavailable builtin commodore basic 
+
+graphic chip vicii featuredcolors eight sprite scrolling
+capability two bitmap graphic mode standard text mode
+featuredcolumns like commodore pet model built font
+wa standard ascii petscii extended form ascii
+computervideo game demo programmer quickly learned exploit
+esoteric feature vicii gain additional
+capability like making thansprites appear move
+simultaneously
+
+sound chip sid three channel adsr
+envelope generator several different waveform ring
+modulation filter capability advancedtime designed bob yannes would later cofound
+synthesizer company ensoniq yannes criticized contemporary
+computer sound chip primitive obviouslydesigned people
+knew nothing music often game music became hitamong user wellknown composer programmer game music
+c rob hubbard david whittaker ben daglish martin
+galway among many others due chip limitation three
+channel chord played arpeggio typically coining characteristic lively sound
+
+two version sid chip first version mos
+technologywhich found original breadbox
+c early version commodoreitlater replaced technologyinthe sound quality
+wa little crisp theand many commodorefans still
+prefer sound main difference theand thewas
+voltage supply theuses avolt supply 
+required onlyvolts voltage modification made use 
+cc board v
+
+sid chip distinctive sound retained followingdevotee inswedish company elektron produced sidstation synth
+module built around sid chip using remaining stock chip
+several band use device music
+
+hardware revisions
+
+cost reduction driving force hardware revisionc motherboard reducing manufacturing cost vitally important
+commodore survival price war leaner yearbit era originalnmos based motherboard would two major redesigns numerous subrevisions exchanging
+position vicii sid pla chip initially large
+proportion cost lowered reducing number discrete
+component used diode resistors
+early motherboard rev pal 
+enlarge
+early motherboard rev pal 
+cc motherboard rev pal 
+enlarge
+cc motherboard rev pal 
+
+vicii manufactured withmicrometre nmos technology clocked
+atmhz high clock rate generated lot heat
+forcing technology use ceramic dil package calledcerdip ceramic package expensive dissipated
+heat effectively plastic
+
+redesign inthe vicii encased plastic dil
+package reduced cost substantially eliminate
+heat problem without ceramic package vicii requireduse heatsink avoid extra cost metal shielding doubled
+heatsink vic although unit shippedtype shielding europe shipped cardboard shield coated layer metal foil effectivenesscardboard highly questionable worse still actedinsulator blocking airflow trapped heat generated sid
+vic pla chips
+
+sid manufactured using nmos atand area 
+micrometres prototype sid early production models
+featured ceramic dil package unlike viciiextremely rare sid encased plastic production
+started early 
+
+incommodore released last revision classic motherboard otherwise identical thedesign exceptused twokbitdram chip rather original eight 
+kbit 
+
+release mo technology began reconfigurec chipset use hmo technology main benefit using hmos
+wa required voltage drive consequently
+generates heat enhanced overall reliability sid
+vicii new chipset renumbered order reflect
+change hmos
+
+incommodore released totally redesigned motherboard
+commonly known short board new board used new hmos
+chipset featuring new pin pla chip new superpladubbed integrated many discrete component ttl chip 
+colour ram integrated last revision pla
+
+c used external power supply saved valuable space
+within computer case supply barely adequatec power requirement occasionally failed overheating
+user purchased heavierduty bettercooled thirdparty power
+supply later commodore lifetime thirdparty power supplies
+became increasingly important used conjunction creative
+micro design peripheral particular note coupledram expansion cmd supercpu required power original
+commodore power supply could provide
+
+specifications
+
+internal hardware
+
+microprocessor cpu
+mo technologythebeing modified 
+integrated bit port
+clock speedmhzntsc ormhzpal
+video technology viciintscpal
+colors
+text modecharactersuserdefined char 
+pixel orin multicolor mode bit color ram defines
+foreground colour
+bitmap modescolors eachblock
+color plus background eachblock
+hardware sprite ofpixelsin multicolor mode
+smooth scrolling raster interrupts
+sound technologysid
+channel synthesizer programmable adsr envelope
+octaves
+waveform triangle sawtooth variable pulse noise
+oscillator synchronization ring modulation
+programmable filter high pas low pas band pas notch
+filter
+ram
+kbbytes whichkb minusbyte 
+byte available basic programs
+byte colour ramk nybbles
+expandable tokb commodorekb ram expansion
+unit reu although onlykb directly accessible reu
+mostly intended geos reus ofkb andkb
+originally designed also availablerequired user buy stronger power supplythird party supplier thethis included
+creative micro design also produced amb reu c called thexl technology actually
+supported tomb butmb biggest one officially
+made expansion tomb also possible via cmd
+supercpu
+rom
+kbkb basickb kernalkb character generator
+providing twokb character sets
+
+io port power supply
+
+io ports
+pin din plug containing composite video output separate output sound inputoutput early units
+utilized pin din connector omitted output
+integrated modulator antenna output via rca connector
+screwless dem game controller port compatibleataricontrollers supporting five digital inputs
+two analog input available peripheral included digital
+joystick analog paddle light pen commodore 
+mouse unique koalapad
+cartridge expansion slot slot edge connector 
+cpu addressdata bus line control signal well gnd
+voltage pin used program module memory
+expansion among others
+pettype datassettebaud tape interface edge connector
+cassette motorreadwritesense signal gnd andv
+pin motor pin powered directly supply motor
+user port edge connector ttllevel signalmodem etc byteparallel signal useddrive thirdparty parallel printer among thinglogic signalsgnd voltage pin includingv voltage
+serial bus serial version ieee pin din plugcbm printer disk drives
+power supply
+v andv external monolithic power brick
+attached computer pin female dinconnector
+pc power supply hasv andv connection perfect
+powering anddisk drive make sure
+connection correct powering originalpc power supply trickier even decrepitwatt
+power supply carried scrapyard buck power
+commodore disk drive
+
+gallery
+
+multiplan
+microsoft 
+
+koala paint
+koalaaudio light 
+
+geos desktop
+berkeley softworks 
+
+geowrite
+berkeley softworks 
+
+donkey kong
+atarisoft 
+
+winter games
+epyx 
+
+international karate
+system
+
+creature thalamusapex 
+
+
+featured article click information
+
+list commodore microcomputers
+mo technology basedbit moscbm kimpetcbmcbmii
+aka seriesvicvccsxcplus 
+c
+mkbasedbit amigaamigaamigaamiga
+amigaamiga cdtvamigaux tamigaamiga
+amigaamigaamiga

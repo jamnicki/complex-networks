@@ -1,0 +1,257 @@
+copyright
+
+semiconductor device
+
+ school wikipedia selection related subject electricityelectronics engineering
+
+semiconductor device electronic component exploitelectronic property semiconductor material principally silicon
+germanium gallium arsenide semiconductor device replaced
+thermionic device vacuum tube application use
+electronic conduction solid state opposed gaseous
+state thermionic emission high vacuum
+
+semiconductor device manufactured single discrete devices
+integrated circuit consist numberfrommillionsof device manufactured interconnected single
+semiconductor substrate
+
+semiconductor device fundamentals
+
+main reason semiconductor material usefulbehaviour semiconductor easily manipulated addition
+impurity known doping semiconductor conductivitycontrolled introduction electric field exposure light
+even pressure heat thus semiconductor make excellent
+sensor current conduction semiconductor occurs via mobilefree electron hole collectively known charge carriers
+doping semiconductor silicon small amount impurity
+atom phosphorus boron greatly increase numberfree electron hole within semiconductor doped
+semiconductor contains excess hole called ptypecontains excess free electron known ntypesemiconductor material used device doped highly controlled
+condition fabrication facility fab precisely controllocation concentration ntype dopants junctions
+form ntype ptype semiconductor join togethercalled junctions
+
+diode
+
+pn junction diode device made junctionjunction ptype ntype semiconductor form region
+called depletion zone block current conductionntype region ptype region allows current conductptype region ntype region thus device forward
+biased pside higher electric potential diode
+conduct current easily current small diode
+reverse biased
+
+exposing semiconductor light generate electronhole pairs
+increase number free carrier conductivity
+diode optimized take advantage phenomenon knownphotodiodes compound semiconductor diode also used generate
+light lightemitting diode laser diodes
+
+transistor
+
+two transistor common gate metallic layer dielectric
+removed clarity
+two transistor common gate metallic layer dielectric
+removed clarity
+
+bipolar junction transistor formed two junctioneither npn pnp configuration middle base region
+junction typically narrow regionassociated terminal known emitter collector
+small current injected junction baseemitter change property basecollector junctionconduct current even though reverse biased createsmuch larger current collector emitter controlledbaseemitter current
+
+another type transistor field effect transistor operatesprinciple semiconductor conductivity increased decreased
+presence electric field electric field increase
+number free electron hole semiconductor thereby
+changing conductivity field may applied reversebiased
+pn junction forming junction field effect transistor jfetelectrode isolated bulk material oxide layer
+forming metaloxidesemiconductor field effect transistor mosfet
+crosssection transistor metallic layer dielectric
+removed clarity foreground
+crosssection transistor metallic layer dielectric
+removed clarity foreground
+
+mosfet used semiconductor device today gate
+electrode charged produce electric field controlconductivity channel two terminal called source
+drain depending type carrier channel device
+may nchannel electron pchannel hole mosfet
+although mosfet named part metal gate modern
+device polysilicon typically used instead
+
+semiconductor device materials
+
+far silicon widely used material semiconductor
+device combination low raw material cost relatively simple
+processing useful temperature range make currently best
+compromise among various competing material silicon usedsemiconductor device manufacturing currently fabricated boules
+large enough diameter allow production ofmm 
+wafers
+
+germanium wa widely used early semiconductor materialthermal sensitivity make useful silicon today germanium
+often alloyed silicon use veryhighspeed sige devices
+ibm major producer devices
+
+gallium arsenide gaas also widely used highspeed devicefar difficult form largediameter boulematerial limiting wafer diameter size significantly smaller
+silicon wafer thus making mass production gaas devices
+significantly expensive silicon
+
+le common material also use investigation
+
+silicon carbide sic found application raw material
+blue lightemitting diode led investigated use
+semiconductor device could withstand high operating
+temperature environment presence significant levels
+ionizing radiation impatt diode also fabricatedsic
+
+various indium compound indium arsenide indium antimonideindium phosphide also used led solid state laser
+diode selenium sulfide studied manufacturephotovoltaic solar cells
+
+semiconductor device applications
+
+transistor type used building block logic gates
+fundamental design digital circuit digital
+circuit like microprocessor transistor act onoff switchmosfet instance voltage applied gate determines
+whether switch
+transistor used analog circuit act onoff switches
+rather respond continuous range input continuous
+range output common analog circuit include amplifieroscillators
+
+circuit interface translate digital circuitanalog circuit known mixedsignal circuits
+
+power semiconductor device discrete device integrated circuits
+intended high current high voltage application power
+integrated circuit combine technology power semiconductor
+technology sometimes referred smart power devices
+several company specialize manufacturing power semiconductors
+
+component identifiers
+
+type designators semiconductor device often manufacturer
+specific nevertheless attempt creating standards
+type code subset device follow discrete
+device example three standard jedec jesdb usa
+pro electron europe japan
+
+history semiconductor device development
+
+
+semiconductor used electronics field time
+invention transistor around turn century quite common detector radio used device
+called acats whisker detector somewhat troublesome
+however requiring operator move small tungsten filamentwhisker around surface galena lead sulfide carborundum
+silicon carbide crystal suddenly started workingperiod hour day cat whisker would slowly stop
+working process would repeated timeoperation completely mysterious introductionreliable amplified vacuum tube based radio cat whisker
+system quickly disappeared cat whisker primitive example
+special type diode still popular today called schottky
+diode
+
+world war 
+world war radar research quickly pushed radar receiveroperate ever higher frequency traditional tube based radio
+receiver longer worked well introduction cavity
+magnetron britain united state induring tizard
+mission resulted pressing need practical highfrequency
+amplifier
+
+whim russell ohl bell laboratory decided try cats
+whisker point use number years
+one lab one hunting one used radio
+store manhattan found worked much better tubebased
+systems
+
+ohl investigated cat whisker functioned well spent
+oftrying grow pure version crystal soon
+found higher quality crystal finicky behaviour went
+away ability operate radio detector one day
+found one purest crystal nevertheless worked wellinterestingly clearly visible crack near middle however
+moved room trying test detector would
+mysteriously work stop study foundbehaviour controlled light roommore light caused
+conductance crystal invited several people see
+crystal walter brattain immediately realized wasort junction crack
+
+research cleared remaining mystery crystalcracked either side contained slightly different amounts
+impurity ohl could removeaboutone sidecrystal impurity added extra electron carrierelectrical current made conductor impurities
+wanted bind electron making calledinsulator two part crystal contactelectron could pushed conductive side
+extra electron soon known emitterreplaced new one provided battery instance
+would flow insulating portion collectedwhisker filament named collector however voltage
+wa reversed electron pushed collector would
+quickly fill hole electronneedy impurityconduction would stop almost instantly junction two
+crystal part one crystal created solidstate diodeconcept soon became known semiconduction mechanism action
+diode separation charge carriers
+around junction called adepletion region
+
+development diode
+
+armed knowledge new diode worked vigorous
+effort began order learn build demand teampurdue university bell lab mit university chicagojoined force build better crystal within year germanium
+production perfected point militarygrade diodes
+used radar sets
+
+development transistor
+
+war william shockley decided attempt buildingtriodelike semiconductor device secured funding lab spacewent work problem brattain john bardeen
+
+key development transistor waunderstanding process electron mobilitysemiconductor realized way control
+flow electron emitter collectornewly discovered diode one could build amplifier instanceplaced contact either side single type crystalcurrent would flow however third contact could
+inject electron hole material current would
+flow
+
+actually appeared difficult crystalreasonable size number electron hole requiredinjected would largemaking useful
+amplifier would require large injection currentstart said whole idea crystal diode wacrystal could provide electron small distance
+depletion region key appeared place inputoutput contact close together surface crystaleither side region
+
+brattain started working building device tantalizing
+hint amplification continued appear team workedproblem sometimes system would work stop working
+unexpectedly one instance nonworking system started workingplaced water ohl brattain eventually developed new branchquantum mechanic known surface physic accountbehaviour electron one piece crystal would migrate
+due nearby charge electron emitter holes
+collector would cluster surface crystalcould find opposite charge floating around airwater yet could pushed away surfaceapplication small amount charge locationcrystal instead needing large supply injected electronsmall number right place crystal would accomplish
+thing
+
+understanding solved problem needing small control
+area degree instead needing two separate semiconductors
+connected common tiny region single larger surface would
+serve emitter collector lead would placed close
+together top control lead placed basecrystal current applied base lead electronhole would pushed across block semiconductorcollect far surface long emitter collectorclose together allow enough electron holes
+allow conduction start
+
+first transistor
+
+stylized replica first transistor
+stylized replica first transistor
+
+bell team made many attempt build system various
+tool generally failed setup contact close
+enough invariably fragile original cat whisker
+detector would work briefly eventuallypractical breakthrough piece gold foil gluededge plastic wedge foil sliced razortip triangle result two closely spaced
+contact gold plastic pushed onto surfacecrystal voltage applied side basecrystal current started flow one contactbase voltage pushed electron away base towardsside near contact pointcontact transistor invented
+
+device constructed week earlier brattains notes
+describe first demonstration higherups bell labafternoon ofdecemberoften given birthdatetransistor pnp pointcontact germanium transistor operatedspeech amplifier power gain ofin trial known generally
+pointcontact transistor today john bardeen walter houser
+brattain william bradford shockley awarded nobel prizephysic work 
+
+origin term transistor
+
+bell telephone laboratory needed generic name new
+invention semiconductor triode solid triode surface states
+triode sic crystal triode iotatron consideredtransistor coined john pierce internal ballotrationale name described following extractcompany technical memorandamaycalling votes
+
+transistor abbreviated combination words
+transconductance transfer varistor device
+logically belongs varistor family hatransconductance transfer impedance device gaincombination descriptive
+
+improvement transistor design
+
+shockley upset device credited brattainbardeen felt built behind back take glory
+matter became worse bell lab lawyer foundshockley writing transistor close enoughearlierpatent julius edgar lilienfeld thoughtbest name left patent application
+
+shockley incensed decided demonstrate real
+brain operation month later inventedentirely new type transistor layer sandwich structure
+new form considerably robust fragile
+pointcontact system would used vast majority
+transistor would evolve bipolar
+junction transistor
+
+fragility problem solved remaining problem purity
+making germanium required purity proving serious
+problem limited number transistor actually worked
+given batch material germanium sensitivity temperature
+also limited usefulness scientist theorized silicon wouldeasier fabricate bothered investigate possibility
+gordon teal first develop working silicon transistor
+company nascent texas instrument profitedtechnological edge germanium disappeared transistorlate
+within year transistorbased product notably radios
+appearing market major improvement manufacturing
+yield came chemist advised company fabricating
+semiconductor use distilled water rather tap water calcium
+ion cause poor yieldszone melting technique
+using moving band molten material crystalincreased purity available crystals
+

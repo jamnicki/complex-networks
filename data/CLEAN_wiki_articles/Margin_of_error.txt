@@ -1,0 +1,323 @@
+copyright
+
+margin error
+
+ school wikipedia selection related subject mathematics
+
+article statistical concept estimators
+based samples
+safety margin engineering see factor safety
+tolerance engineering see tolerance engineering
+clare boothe luce play see margin error play
+
+top portion graphic depicts probability density show
+relative likelihood true percentage particular
+area given reported percentage ofthe bottom portiongraphic show margin error corresponding zoneconfidence word one issure true percentage
+region given poll sample size shown right
+larger sample smaller margin error lower
+standard confidenceorare used margin error
+smaller byorrespectively sample sizes
+enlarge
+top portion graphic depicts probability density show
+relative likelihood true percentage particular
+area given reported percentage ofthe bottom portiongraphic show margin error corresponding zoneconfidence word one issure true percentage
+region given poll sample size shown right
+larger sample smaller margin error lower
+standard confidenceorare used margin error
+smaller byorrespectively sample sizes
+
+margin error express amount random variation
+underlying survey result thought measurevariation one would see reported percentage poll
+taken multiple time larger margin error less
+confidence one poll reported percentage closetrue percentage percentage whole
+population
+
+margin error calculated figure producedsample survey unless nonprobability sample used results
+expressed percentage often possible calculate maximum
+margin error applies result surveyleast result based full sample maximum marginerror sometimes calculated directly sample sizenumber poll respondents
+
+margin error usually prepared one three different levels
+confidenceandthelevelconservative thelevel least conservative 
+level commonly used level confidence isthe
+true percentage entire population would within margin
+error around poll reported percentageof time
+equivalently margin error radius theconfidence
+interval
+
+note margin error take account random sampling
+error doe take account potential source error
+bias question bias due excluding group could
+contacted people refusing respond lying miscountmiscalculations
+
+calculation caveats
+
+simple random sample maximum margin error simple
+reexpression sample size numerator equations
+rounded two decimal places
+
+margin error atconfidence approx sqrtn
+
+margin error atconfidence approx sqrtn
+
+margin error atconfidence approx sqrtn
+
+formula apply survey used simple random sample
+often simple random sample possible involves
+selecting respondent list everyone populationoften available instead multistage sample designused may involve stratification clustering unequal
+selection probability practice affect margin
+error
+
+margin error fully defined confidence levelreported article poll doe report confidence
+level doe state simple random sample certain sizeused margin error calculated desired degreeconfidence given reported sample size also themarginerror given one find themargin error increasingwidth aboutif article report neither confidence level
+sample size reader assume particular levelconfidence casual lowstakes interpretations
+
+maximum margin error polllevel statisticused evaluate compare reported percentage however dueunfortunate name neither establishes marginwhole error become one widely overinterpreted
+statistic general use medium frequently misusedjudge whether one percentage issignificantly higher anotherspecify error associated reported percentages
+
+
+understanding margin error
+
+running example
+
+running example theus presidential campaignused illustrate concept throughout article clear
+choice poll leading irrelevantpresentation concept according octobersurveynewsweekof registered voter would vote john kerry john
+edward election held todaywould vote george bush dick cheney andwould vote ralph nader peter camejo
+size sample isand reported margin error 
+thelevel confidence used remainderarticle
+
+basic concept
+
+poll require taking sample population casenewsweek poll population interest population people
+vote since impractical poll everyone vote
+pollster take smaller sample intended representative
+random sample population possiblepollster happen samplevoters happen vote bush
+fact population split extremely unlikely
+given sample random
+
+given size sampleprobability theory allowscalculation probability poll reportsfor kerryfactor factthis theory bayesian
+assumption suggest true percentage probablyclose tothe people sampled confident
+pollster true percentage closer closerobserved percentage margin error rough pollwide
+expression confidence
+
+statistical term calculations
+
+margin error specificconfidence intervalturn simple manipulation standard error measurement
+section briefly discus standard error percentage
+briefly discus confidence interval connect two concepts
+margin error
+
+standard error estimated simply given proportionpercentage number polled respondent casenewsweek poll kerrys percentage pand ngiven
+statistical theory outlined following holds
+
+standard errorsqrtfracppn
+
+standard errororhelps give senseaccuracy kerrys estimated percentagea helpful bayesian
+interpretation standard error true percentage
+unknown highly likely located somewhere around estimated
+percentagethe standard error used createconfidence interval within true percentagecertain level confidence
+
+plus minusstandard error aconfidence interval plusminusstandard error approximately aconfidence interval
+aconfidence interval isstandard error either side
+estimate
+
+margin error radius half theconfidence
+interval orstandard error pacalculated directly number poll respondents
+
+margin errorsqrtfracn 
+fracsqrtn
+
+conclude margin error theconfidence intervalreported percentage ofif move away fromthe confidence
+interval around smaller thus margin error represents
+upper bound uncertainty one leastcertaintrue percentage within margin error reported
+percentage reported percentage
+
+use abuse margin error
+
+margin error grew wellintentioned need compareaccuracy different poll however widespread use highstakes
+polling degraded comparing poll comparing reported
+percentage use supported theory web searchnews article using term statistical tie statistical dead
+heat return many article use term describe reported
+percentage differ margin error termmisleading one observed percentage greater anothertrue percentage entire population likely orderedway addition margin error generally
+calculated applicable individual percentagedifference percentage margin error applicable
+directly lead approximately equal twicegenerally stated margin error exactly casetwochoice poll result offor choice marginerror often interpreted poll give either information
+difference within margin error perfect informationdifference larger margin error ranking two
+percentage population gross oversimplification
+margin error continues inappropriately applied simpler
+alternative sample size complex alternative standard
+error probability leading may warranted
+
+incorrect interpretation margin error
+
+incorrect interpretation margin error basednewsweek poll
+kerry bush statistically tied statistical
+dead heat
+matter kerry lead bush vice versa
+change percentage future poll doe matter
+unlessnader gotand margin error ishe could
+potentiallymargin error every percentage 
+
+argument use margin error
+
+casual comparison different poll helpful define
+benchmarkconfidence interval radius estimated
+percentage ofthat reflects sampling variancepoll
+although sampling variance doe decrease linearlyincreasing number respondent margin error
+decrease linearly square root usingnumber respondent inverse measure standard error
+confusing
+result two poll separated thantimesmargin error state similar confidencelarger value fact larger population withoutcomplex calculations
+
+argument use margin error
+
+margin error simple transformation numberrespondent ambiguous term neither marginwhole error
+margin error confused confidence interval
+reported percentages
+theconfidence interval radius percentage besides
+smaller maximum margin error
+much smaller asymmetric highlow percentages
+margin probability true percentage
+outside margin error low nonzero
+agreedupon confidence level pollster use
+many useorthis make poll lookaccurate
+many pollster fail account complexity sample
+design calculating margin error usually makes
+poll appear accurate trulypurpose poll compare percentage usemargin error tempting inappropriate two
+interval overlap
+perhaps importantly many different source error
+polling variance due sample size likelycontribution possible contribution error include
+sampling bias sample representative sample
+population interest particular certain people
+may choose participate
+phrasing question may appropriateconclusion poll
+response error sudmanbradburn 
+deliberate distortion fear consequence social
+desirability response acquiescence
+misconstrual understanding question
+lack knowledge guessing try helpful
+
+margin error population size
+
+interesting mathematical fact margin error depends
+sample size population size providedpopulation significantly larger sample sizeprovided simple random sample used thus instance pollrunning example withrandomly sampled registered voter would
+yield essentially margin errorwith alevelconfidence regardless whether population registered voters
+consisted ofpeople orpeople
+
+may seem counterintuitive first personpopulation unique personality opinion large
+population small fraction people would actuallypolled would thus seem poll capturing enough
+information however poll involves specific
+question one relevant attribute populationneed considered mean individual opinioneffectively equivalent many memberpopulation fraction polled instancerunning example relevant attribute population memberwhether bush voter kerry voter nader voter 
+characteristic population member irrelevant thus
+instance areregistered voter 
+kerry voter purpose statistical
+analysis theindividuals group wouldcompletely interchangeable equivalent individual kerry voter
+hasother voter identical opinion far poll
+question concerned exceedingly likely pollvoter contain properly representative fractiongroup provided course voter polled selected
+randomly
+
+give analogy suppose one trying estimatepercentage salt ocean easily accomplishedtaking glass seawater chemically analyzing proportion
+salt sample amount salt water glassfar smaller amount salt water ocean study
+nevertheless sample likely give accurate measurement
+ocean salinity provided course salt evenly
+distributed across ocean hypothesis analoguehypothesis poll sample randomly chosen fact one
+could already obtain crude reasonable estimate salinitytesting single drop seawater though course larger
+sample glass would provide accurate measurementanalogy may help explain sample size ratherpopulation size determines margin error poll
+
+comparing percentage probability leading
+
+tables
+
+margin error frequently misused determine whether one
+percentage higher another statistic usedsimply probability one percentage higher anothertentatively called probability leading table
+give percentage probability leading two candidateabsence candidate assumingconfidence levelused
+difference percentages
+margin error
+margin error
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+
+example probability kerry leading bush given data
+newsweek poll adifference amargin erroraboutprovided used aconfidence level noteentry table actually slightly letable theconfidence level
+difference percentages
+margin error
+margin error
+margin error
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+margin error
+
+
+newsweek poll used aconfidence level probabilitykerry leading bush rise aboutit evidentconfidence level significant impact probabilityleading
+
+derivation
+
+rest section show newsweek percentage mightcalculated probability derived withthe standard error
+calculation introduced earlierthe formula variancedifference two random variable andan assumption anyone
+doe choose kerry choose bush vice versa ieperfectly negatively correlated assumption may tenable
+given voter could undecided vote naderresult still illustrative
+
+standard error difference percentage kerry bush assuming perfectly negatively correlated
+follows
+
+standard error difference 
+sqrtfracppqqpqn
+
+given actual percentage difference pqorandstandard error difference calculated aboveuse program
+like microsoft excel calculate probability samplenormal distribution meanand standard deviationis
+greater 
+
+calculation suggest probability kerry truly
+leading 
+
+advanced calculation behind margin error
+
+let number voter sample supposedrawn randomly independently whole population voters
+perhaps optimistic care taken least
+approximated reality let proportion voter whole
+population vote yes number votersample vote yes random variable binomial
+distribution parameter p large enough xapproximately normally distributed expected value variance
+npp therefore
+
+zfracxnpsqrtnpp
+
+approximately normally distributed expected valueand
+varianceconsulting tabulated percentage point normal
+distribution reveals pzorword achance event
+pleftfracxnpsqrtppnright
+
+equivalent
+pleftfracxnsqrtfracppnpfracxn
+sqrt fracppn right
+
+replacing first third member inequalityestimated value seldom result large error big enough
+operation yields
+
+pleftfracxnsqrtfracxnxnnpfrac
+xnsqrtfracxnxnn right
+
+first third member inequality depend observable
+xn unobservable endpointconfidence interval word margin error
+sqrtfracxnxnn
+

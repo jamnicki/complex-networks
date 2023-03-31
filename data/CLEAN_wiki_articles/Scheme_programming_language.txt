@@ -1,0 +1,357 @@
+copyright
+
+scheme programming language
+
+ school wikipedia selection related subject computer programming
+
+caption scheme
+
+paradigmmultiparadigm functional procedural
+appeared ins
+designed byguy steele gerald jay sussman
+typing disciplinestrong dynamic
+major implementation plt scheme mit scheme scheme chicken
+gambitc guile bigloo chez scheme stk larceny scm
+dialectsmany
+influenced bylisp algol
+influencedcommon lisp javascript ruby
+
+scheme multiparadigm programming language dialectlisp support functional procedural programmingdeveloped guy steele gerald jay sussman scheme
+wa introduced academic world via series paperreferred sussman steele lambda paper two
+standard define scheme language official ieee standard
+de facto standard called revisedn report algorithmic
+language scheme nearly always abbreviated rnrs number
+revision current standard rrs rrsdevelopment
+
+scheme philosophy minimalist scheme provides primitive
+notion possible practical let everything elseprovided programming libraries
+
+scheme first dialect lisp choose static aka lexical
+dynamic variable scope also one first programming
+language support firstclass continuations
+
+origin
+
+scheme started attempt understand carl hewitts actor model
+scheme originally called schemer traditionlispderived language like planner conniver current name
+resulted author use operating systemlimited filename two component six charactercurrently schemer commonly used refer scheme programmer
+
+future
+
+new language standardization process began thescheme
+workshop goal producing rrs standard init
+break earlier rnrs approach unanimity rrs featurestandard module system allowing split core languagelibraries
+
+distinguishing features
+
+scheme minimalist language current language standardpage including denotational semantics language corenext revision standard expanded describe several
+libraries
+
+like lisp dialect scheme little syntax operator
+precedence rule fully nested parenthesized notationused compound forms
+
+scheme macro system allows user add new syntactic constructs
+language respect lexical scoping restlanguage avoids common programming error occurmacro system programming languages
+
+procedure scheme firstclass value allowsfunctional programming
+
+scheme callwithcurrentcontinuation operator allows usercreate nonlocal control construct must builtlanguage iterators coroutines backtracking
+
+language elements
+
+comments
+
+comment preceded semicolonand extends restline implementation allow comment span multiple linewrapping apossibly nested implementations
+allow entire sexpression commented prepending
+
+variables
+
+variable dynamically typed variable bound define let
+expression scheme form variable bound top
+level define global scope
+ define var value
+
+variable bound let scope body let
+ let var value
+
+scope var
+
+
+functions
+
+define fun
+lambda arg arg
+
+define fun arg arg
+
+fun value value
+apply fun list value value
+
+function firstclass object scheme argumentfunction returned assignedvariable example function two argument arg argdefined lineand lineis abbreviation lineshowsfunction applied note function appliedfirst position list rest list containsargument apply function take first argument applygiven list argument previous function call alsowritten seen line 
+
+scheme function divided two basic category procedures
+primitive primitive procedure procedures
+primitive primitive predefined function scheme
+language includeset car cdr basic
+procedure procedure userdefined function several
+variation scheme user redefine primitive examplecode
+definexx
+simply
+define
+
+actually redefines theprimitive perform subtraction ratheraddition
+
+lists
+
+scheme linked list data structure formexists lisp list build new linked list structure example
+
+listlist list
+
+car pronounced listengives value head nodelist example
+
+car list
+
+gives
+
+
+
+
+car list list
+
+gives
+
+
+
+cdr pronounced coulder kdr listenor kudr givelist head node example
+
+cdr list
+
+gives
+
+
+
+
+cdr list list
+
+gives
+
+
+
+con construct new list given car value cdr listexample
+
+conslist
+
+gives
+
+
+
+
+con listlist 
+
+gives
+
+
+
+box pointer diagram
+
+node linked list con cell also called pairname pair implies con cell consists two value first onecar second cdr
+list
+
+three con cell pair first con cell hanumberin first slot pointer second con cellsecond second con cell numberin first slot
+pointer third con cell second slot third cons
+cell numberin first slot null constantsecond slot null constant usually represented byor quote
+con function construct con cell
+conslist
+
+give list
+
+
+
+argument list pair created
+represented dot example
+
+cons
+
+gives
+
+
+
+con cell consists ofandin slot insteadpointer another con cell second slot
+
+name two primitive operation decomposing list car
+cdr originally come assembly language macro ibm 
+stood content address register contentdecrement register respectively
+
+data types
+
+common data type scheme besides function listinteger rational real complex number symbol string ports
+scheme implementation also offer association list hash tables
+vector array structure since ieee scheme standardrrs scheme standard scheme asserted types
+disjoint value belong onetype however ancient implementation scheme predatestandard andrefer value case
+common lisp
+
+scheme implementation offer full numerical tower wellexact inexact arithmetic
+
+true false represented actually really
+false boolean type required everything elseconsidered true including empty list symbol createdleast following ways
+ symbol
+ stringsymbol symbol
+
+equality
+
+scheme three different type equality returnparameter represent data object memory eqvgenerally treat object characternumber specially number areare eqv eveneq equal compare data structure list vectorstring determine congruent structure eqv
+contents
+
+type dependent equivalence operation also exist scheme string
+compare two string char compare characterscompares numbers
+
+control structures
+
+conditional evaluation
+
+ test thenexpr elseexpr
+
+test expression evaluated evaluation result true
+anything thenexpr evaluated otherwise
+elseexpr evaluated
+
+form convenient conditionals nested cond
+ cond test expr 
+test expr 
+
+else exprn
+
+first expression test evaluates trueevaluated test result else clause evaluated
+
+variant cond clause cond 
+testexpr
+
+
+case expr evaluate function take one
+argument test evaluates true function calledreturn value test
+
+loops
+
+loop scheme usually take form tail recursion scheme
+implementation required optimize tail call eliminate
+use stack space possible arbitrarily long loopexecuted using technique
+
+classic example factorial function defined
+nontailrecursively
+ define factorial ifn 
+
+n factorialn 
+
+ factorial 
+
+
+direct translation mathematical recursive definition
+factorial factorial zero usually writtenis equal
+towhile factorial greater natural number definednnn
+
+however plain recursion nature efficient since scheme
+system must maintain stack keep track returnnested function call tailrecursive definition one ensures
+recursive case outermost call one back top
+recurring function case recur factorial
+function helper routine two parameters
+representing state iteration
+ define factorial let loop total 
+n
+ifi 
+total
+loopi totali 
+
+ factorial 
+
+
+higher order function like map applies function every
+element list defined nontailrecursively
+ define map lst
+null lst
+lst
+con car lst
+map cdr lst
+
+ map lambda x
+
+
+also defined tailrecursively
+ define map lst
+let loop lst lst
+
+null lst
+reverse res
+loop cdr lst
+con car lst res
+
+ map lambda x
+
+
+case tailrecursive version preferable duedecreased use space
+
+basic looping scheme support simple iterator construct
+ variable init step
+
+test expression 
+command 
+
+example
+ let x cdr sumsum car null sum
+
+inputoutput
+
+scheme concept port read write rrs
+defines two default port accessible functions
+currentinputport currentoutputport correspondunix notion stdin stdout implementation also provide
+currenterrorport
+
+examples
+
+hello world
+
+ begin
+display hello world
+newline
+
+oop alist association list
+
+oopobjectoriented programming alistassociation list example
+ define catconstruct age color sizeconstructor
+list con age age
+con color colour
+con size size
+
+cat meow age times
+ define catmeow cat
+let loop iteration cdr assoc age cat
+ifiteration 
+begin
+display meown
+loopiteration 
+
+ define billy catconstructwhite small
+ display billy age 
+ display cdr assoc age billy newline
+ display billy color 
+ display cdr assoc colour billy newline
+ catmeow billy
+
+scheme code found following articles
+arithmeticgeometric mean
+church numeral
+continuation passing style
+callwithcurrentcontinuation aka callcc
+currying
+fibonacci number program
+wikibookstranswikilist hello world programs
+infinite loop
+tail recursion
+queue
+quine computing
+
+retrieved 
+httpenwikipediaorgwikischemeprogramminglanguage
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

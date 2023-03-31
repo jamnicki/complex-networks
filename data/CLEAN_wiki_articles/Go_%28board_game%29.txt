@@ -1,0 +1,416 @@
+copyright
+
+go board game
+
+ school wikipedia selection related subject games
+
+go
+go board pieces
+traditional board wooden black painted line stones
+lenticular fit closely together placed adjacent
+intersections
+player 
+age range 
+setup time setup needed
+playing timeminutes tohours
+rule complexity low
+strategy depth high
+random chance none
+skill required strategy observation
+
+go board game two player also called weiqi chinese
+igo japanesekanjiand baduk korean 
+hangul originated ancient china beforebcpopular throughout world especially east asia
+
+go played alternately placing black white stonevacant intersection arectilinear grid stone groupstone captured removed tightly surrounded stoneopposing colour objective control larger territory
+opponent placing one stone cannot captured
+game end score counted player consecutively
+pas turn indicating neither side increase territory
+reduce opponent game also end resignation
+
+origin name
+
+game called many language word originatedjapanese pronunciation chinese charactersin japanese
+name writtenthe chinese name weiqiroughly
+translates encirclement chess board game surroundingenclosing game ancient chinese name ispinyinwritingsare variant seen chinese kangxi dictionary
+game commonly known asigo japanesejapanese professional taught first western player latter
+naturally used japanese name early germanlanguageenglishlanguage book article game
+
+terminology
+
+japan associationnihon kiin long played leading role
+spreading outside east asia publishing englishlanguage
+magazine review establishing center ueurope often sending professional teacher western nationextended period result many conceptready english equivalent become known elsewhere japanese
+names
+
+widespread use japanese terminology west notwithstanding
+chinese korean member international community including
+professional continue advocate primacy termlanguage common usage point recent year many
+chinese korean player also taught western studentalso exact equivalence concept different asian languages
+meaning still without standard technical jargon
+
+order differentiate game common english verbgo
+game sometimes spelt capital conventionhowever followed technical literature gamealternative uncommon spelling goe proposed ing changkilate wealthy promoter particularly taiwan ureason spelling widely used outside events
+sponsored ing foundation
+
+history
+
+many east asian culture wa considered oneimportant skill civilized person could learn screen made
+kano eitoku century
+enlarge
+many east asian culture wa considered oneimportant skill civilized person could learn screen made
+kano eitoku century
+
+legend trace origin game chinese emperor yao 
+bc designed son danzhu teachdiscipline concentration balance theory suggestgame derived chinese warlord general used piecestone map attacking position equipment emergeddivination material earliest written reference game come
+zuo zhuan describes man inbc like game
+book xvii analects confucius compiled sometime 
+bc
+
+china wa perceived popular game aristocratic
+class xiangqi chinese chess game mass goconsidered one cultivated art chinese scholar gentleman
+along calligraphy painting playing guqin together known
+aspinyin four art chinese scholar
+
+go reached japan china century gained
+popularity imperial court century beginning
+th century wa played among general public japan
+guan playing wound attendedenlarge
+guan playing wound attended
+intokugawa ieyasu created japan first unified national
+government almost immediately appointed thenbest playerjapan honinbo sansa head newly founded academy honinbo
+school first several competing school foundedtime officially recognized subsidized school greatly
+developed level play introduced martial art style
+system ranking player player four house honinbo
+yasui inoue hayashi competed annual castle game status
+position godokoro minister player like honinbo
+shusaku became national celebrity government discontinuedsupport academy inas result falltokugawa shogunate
+
+historically ha seen unequal gender participation howevercreation new open tournament rise strong female
+player notably rui naiwei recent year legitimisedstrength competitiveness emerging female players
+
+aroundin japan manga japanese comic anime series
+hikaru popularized among youth started boomjapan
+
+scott boormans protracted game weichi interpretationmaoist revolutionary strategylikens game historical events
+saying maoist better surrounding territory mao
+zedong go player
+
+nature game
+
+game theory term zerosum perfect information
+deterministic strategy game putting class chess
+checker draught reversi othello although similar
+play although game rule simplepractical strategy extremely complex
+
+game emphasizes importance balance multiple levelha internal tension secure area board goodplay move close together cover largest area one needspread perhaps leaving weakness exploited playing
+low close edge secures insufficient territoryinfluence yet playing high far edge allows opponent
+invade many people find attractive reflectionconflicting demand real life
+
+ha claimed complex game worldvarious measure spread identifiable level skill
+large board lack restriction allows great scope strategy
+expression player individuality decision one partboard may influenced apparently unrelated situationdistant part board play made early game shapenature conflict hundred move later
+
+game complexity even introduction strategy
+fill book evidenced many introductory book strategy
+tactic give brief introduction main concept strategy
+
+numerical estimates
+
+aboard aboutpossible
+position end resultdifferent nocapture game totalgame allowing capture give many
+time 
+
+possible game last overmoves certainly
+go game ever played twice
+
+comparison number legal position chess estimatedbetweenand 
+
+traditional japanese equipment
+
+roundof themeijin tournament
+enlarge
+roundof themeijin tournament
+
+although one could play piece cardboard boardbag plastic token finest equipment cost thousand dollars
+many player derive great aesthetic sensual satisfactionplaying good equipment
+
+traditional board goban japanese solid wood fromto
+cm thick often stand attached legpreferably made rare goldentinged kaya tree torreya
+nucifera best made kaya tree toyears old
+recently california torreya torreya californica haprized light colour pale ring wood often usedmake quality table board include hiba thujopsis dolabrata katsura
+cercidiphyllum japonicum kauri agathis socalled shin kayapotentially confusing merchant term shin mean new shin
+kaya best translated faux kayathe wood describedbiologically unrelated kaya
+
+player sit ricestraw matstatami floor playpleasantly smooth stone goishi kept matching solid wood
+bowl goke made clamshell white slate blackclassic slate nachiguro stone mined wakayama prefectureclamshell hamaguri clam natural resource japanunable keep enormous demand native clams
+slowgrowing kaya tree must sufficient age growdesired size extremely rare agequality required raising price equipment tremendously
+
+club tournament large number set mustmaintained usually purchased one organization expensive
+traditional set usually used situation table
+board design floor board aboutcm thick
+without leg used stone made glass rather
+slate shell bowl often plastic wooden bowlavailable plastic stone could used considered inferiorglass generally light stick finger even
+released player find lower price doejustify distraction
+
+traditionally board grid isshaku long byshaku wide
+mm bymm space beyond allow stone playededge corner grid often surprise newcomerperfect square longer wideproportiontwo reason frequently given oneplayer sit board angle view
+board give foreshortening grid board slightly
+longer player compensate another suggested
+reason japanese aesthetic find structure geometric
+symmetry bad taste
+
+traditional stone made black stone slightly largerdiameter white probably compensate optical
+illusion created contrasting colour would make equalsized
+white stone appear larger board black stonedifference slight since effect make stone appear
+size board surprising discover
+bowl stone simple shape like flattened sphere
+level underside lid loosefitting upturnedplay receive stone captured game bowl usually
+made turned wood although small lidded basket woven bambooreed make attractive cheaper alternative
+
+traditional way place stone first take stonebowl gripping index middle fingerplace directly desired intersection permissiblestrike board firmly produce sharp click many consideracoustic property board quite important traditional
+goban usually underside carved pyramid calledheso recessed board tradition hold givebetter resonance stone click conventional
+explanation allow board expand contract without
+splitting wood board seen attractivemarked slight dent decade century stone striking
+surface
+
+rules
+
+picture show one black unit two white unit respective
+liberty shown dot note liberty shared amongstone unit white play two unit shareliberty connected one
+picture show one black unit two white unit respective
+liberty shown dot note liberty shared amongstone unit white play two unit shareliberty connected one
+
+basic rules
+
+white play black unit loses last libertycaptured removed board
+white play black unit loses last libertycaptured removed board
+two player black white take turn placing stone game
+piece vacant point intersection abyboard grid
+black move first board size x mayused teaching quick game standard size
+played stone may moved different point
+vacant point adjacent stone liberty stone
+adjacent stone colour form unit shareliberty common cannot subsequently subdividedeffect becomes single larger stone
+unit may expanded playing additional stonecolor liberty amalgamated playing stonemutual liberty two unit colour
+unit must least one liberty remain boardunit surrounded opposing stone haliberty captured removed board
+stone played liberty occupieslast liberty one opposing unit unitcaptured first leaving newly played stone least one
+liberty
+ko rule stone cannot played particular pointwould recreate board position existedplayer previous turn
+player may pas instead placing stone indicatingsee way increase territory reduce opponents
+territory player pas consecutively game endscored
+
+player score number empty point enclosedstone plus number point occupied stone player
+higher score win note rulesetscount score differently yet almost always produceresult detailed treatment see rule 
+essence game risk capture meanstone must work together control territory makegameplay complex interesting
+
+go allows one play even game game playerroughly equal strength also handicap game game players
+unequal strength without handicap even slight differencestrength generally decisive
+gameof thelg cup final choe myeonghun white lee
+sedol black end opening stage white developedgreat deal potential territory black emphasized central
+influence
+gameof thelg cup final choe myeonghun white lee
+sedol black end opening stage white developedgreat deal potential territory black emphasized central
+influence
+
+optional rules
+
+optional rule may set following
+compensation point almost always second player see komi
+compensation stone placed board alternate play
+allowing player different strength play competitively see
+go handicap information
+superko rule move must recreate previous
+position extended disallow previous positionprevents complex repetitive situation triple eternal
+life etc cycling indefinitely
+
+strategy
+
+basic strategic aspect include following
+connection keeping one stone connected mean fewer
+group need defense
+cut keeping opposing stone disconnected mean opponent
+need defend groups
+life ability stone permanently avoid capture
+simplest way group surround two eye separate
+empty area filling one eye kill grouptherefore suicidal
+death absence life coupled inability createresulting eventual removal group
+invasion setting new living position inside areaopponent greater influence mean balancing territory
+reduction placing stone far enough opponent areainfluence reduce amount territory heshe eventually
+get far cut friendly stones
+outside
+
+strategy involved become abstract complex highlevel
+player spend year perfecting understanding strategy
+
+concept philosophy
+
+go easy play well new level rank come deeper
+appreciation subtlety nuance involved insight
+stronger player acquisition major concept game
+come slowly novice often start randomly placing stoneboard game chance inevitably loseexperienced player know create effective formationunderstanding stone connect greater power developsbasic common opening sequence may understood learning
+way life death help fundamental way develop ones
+strategic understanding weak group necessary playthousand game one get close one ultimate potential
+go skill player play aggressively said display kiaifighting spirit game
+
+familiarity board show first tactical importanceedge efficiency developing corner firstside centre advanced beginner understandsterritory influence somewhat interchangeablebut needs
+balance best develop paceopponent territory influence intricate struggle
+power control make game highly dynamic
+
+often comparison chess used parallel explain
+western versus eastern strategic thinking begin empty
+board focused building ground nothingsomething multiple simultaneous battle leading pointbased
+win chess one say end centralisedpredetermined object kill one individual piece king goquite otherwise individual significant join help
+determine fate larger force workedgame proceeds
+
+similar comparison drawn among chess backgammon
+perhaps three oldest game still enjoy worldwide popularity
+backgammon man fate contest chance playing strong
+role determining outcome chess row soldier marching
+forward capture embodies conflict man man
+handicap system tell player heshe stands
+relative player honestly ranked player expect lose
+half hisher game therefore seen embodyingquest selfimprovementman self
+
+computer software
+
+software players
+
+go pose significant challenge computer programmermay handful master world beat best
+computer chess software million people beatbest computer software best computer software managesreach consistently rangekyu level human beginner
+hope reach studying playing regularly months
+program yet much helped fast computationhand chessplaying computer deep blue beat world
+champion infor reason many field artificial
+intelligence consider better measure computers
+capacity thought chess
+
+reason computer good playing attributedmany quality game including
+although usually thanplayable meaning
+acceptable move uncommonly even fewer thanthe area
+board large five time size chess board
+number legal move rarely belowthroughoutgame number legal move stay aroundbut
+computer hard time distinguishing good bad
+moves
+whereas game based capture chess checkergame becomes simpler time piece disappear new
+piece appears every move game becomes progressivelycomplex least firstply
+unlike game material advantage doe meansimple way victory may mean shortterm gaingiven priority
+nonlocal nature rule kept mindadvanced play
+high degree pattern recognition involvedhuman capacity play well
+
+software assistance
+
+computer become useful used tool support learner player following ways
+internetbased server allow people world play
+one another online playing becoming popular many
+strong amateur player pro taking part
+numerous website specialist wiki senseis
+library
+game record stored file kept database onesearch database particular opening strategygame particular player electronic database provideconvenient efficient way study joseki fuseki life death
+situation problem development major
+impact information highlevel play generally
+available
+computer make easy review study game record many
+comment annotated variation included one file
+teacher review player game record attach variations
+comment many teacher use method online instructing
+student may never met
+
+variants
+
+many variation basic game many modern
+variant purely fun invented specific
+purpose mind example capture used introducinggame beginner whilst rengo paired aim promotiongame amongst woman also historical regional variations
+fallen fashion sunjang baduk tibetan
+go
+
+popular culture
+
+go played using human wearing hat black white place stones
+black white grid laid grass
+enlarge
+go played using human wearing hat black white place stones
+black white grid laid grass
+
+instance modern culture strategies
+used literary concept theme examplenovel shibumi trevanian center around game go
+metaphor symbolism used chung kuo series novelrick cook limbo system novel centered aroundgame include prix goncourt lycens kiriyama prize winner
+girl played sa nobel prizewinner yasunari
+kawabatas master sunghwa hongs first kyu scarlett
+thomas popco jeanjacques pelletier blunt treize
+derniers jours
+
+television appearednikita story arc character jurgen
+star trek enterprise episode titled cogenitorcharles tucker play andromeda dylan hunt gaheris rhade playfuturistic version episodeof seasonofwith several sceneunderground chinese club
+tv series called chessgame terence stamp spy
+master would spend long period studying board
+
+film ha appeared heaven know allison beautiful
+mind restless sunset hero among many othersgame featured manga anime series hikaru naruto
+end episode japanese anime version hikarugo three minute segment teach concept 
+competitive play
+
+ranks
+
+three japanese professional player observe younger amateurdissect life death problem corner boardu congress houston 
+enlarge
+three japanese professional player observe younger amateurdissect life death problem corner boardu congress houston 
+
+go rank employed indicate playing strength difference
+amateur rank one handicap stone professional
+rank difference roughlystone every three rankexample played game k gave four
+handicap stone game would even whereas playedp would give two handicap stone game equal
+chances
+
+rank system comprised lowest highest ranks
+rank type range stage
+doubledigit kyugup korean introductory
+singledigit kyu elementary intermediate
+amateur dand special title advanced
+professional danp special title expert
+
+time control
+
+like many game game may timed using game clock
+game clock often used tournament player finishtimely way next round paired time player may also
+use game clock casual play instance playing opponent
+known play slowly two widely used methodassociated 
+
+standard byoyomi main time depleted player hacertain number time period typically around thirty secondmove number time period player took possibly
+zero subtracted example player three thirtysecond
+time period take thirty sixty secondmake move loses one time period withseconds loses two
+time period however take thirty
+second timer simply reset without subtracting period using
+last period mean player lost time
+
+canadian byoyomi using hisher main time player must
+make certain number move within certain period timefor
+example twenty move within five minute typically player stopclock player overtime set hisher clock desired
+interval count required number stone setremaining stone reach become confused twenty
+move made time timer reset five minutetime period expires without required number stoneplayed player lost time
+
+detail subject found time control
+
+top players
+
+although game developed china japanbased player dominated
+international scene twentieth century however
+professional player china nie weipingsouth korea since reached even higher levels
+nowadays top player china korea similar strengthjapan increasingly lagging behind professional three
+country regularly compete number national international
+go tournament top japanese tournament prize purse
+comparable professional golf tournament united
+state tournament china korea lavishly funded
+
+korean player edge major international titles
+winningtournaments row betweenandin lastyear korean dominance international competitionincreasingly challenged chinese counterpart several big name
+player south korea lee changho cho hunhyun lee sedol choi
+cheolhan park younghoon
+
+level country traditionally much lower apart
+taiwan except player preparatory professional
+training asia knowledge game scanty elsewheregame history untilthat westerner
+michael redmond achieved top rank awarded asian association dan german scientist oscar korschelt credited
+first systematic description game western language
+init western player would takegame passing interest inmanfred wimmer
+became first westerner receive professional players
+certificate asian professional association
+

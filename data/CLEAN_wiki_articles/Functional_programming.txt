@@ -1,0 +1,208 @@
+copyright
+
+functional programming
+
+ school wikipedia selection related subject computer programming
+
+functional programming programming paradigm conceives
+computation evaluation mathematical function avoids
+state mutable data functional programming emphasizesapplication function contrast imperative programming
+emphasizes change state execution sequential
+commands
+
+broader conception functional programming simply defines setcommon concern theme rather list distinctionparadigm often considered important higherorderfirstclass function closure recursion common features
+functional programming language continuation hindleymilner
+type inference system nonstrict evaluation includinglimited tolaziness monads
+
+functional programming language especially purely functional ones
+largely emphasized academia rather commercial
+software development however notable functional programming languages
+used industry commercial application include erlang concurrent
+application statistic mathematica symbolic math k
+financial analysis domainspecific programming language like
+xslt important influence functional programminglambda calculus apl programming language lisp programming
+language recently haskell programming language
+
+history
+
+lambda calculus invented alonzo church providestheoretical framework describing function evaluation
+though mathematical abstraction rather programming
+language lambda calculus form basis almost functional
+programming language today
+
+combinatory logic equivalent theoretical foundation developedmoses schnfinkel haskell curry originally developedachieve larger goal clearer approach foundationmathematics combinatory logic commonly perceivedabstract lambda calculus preceded lambdacalculus invention
+
+first computerbased functional programming languageinformation processing language ipl developed newell shawsimon rand corporation johnniac computer mids
+early functionalflavored programming language lispmixedcase lisp developed john mccarthy mit ibm
+series scientific computer late lisp introduced
+many feature found modern functional programming
+language though lisp technically multiparadigm language scheme
+dylan later attempt simplify improve lisp
+
+kenneth iverson developed apl programming language early
+described hisbook programming language apl waprimary influence john backuss programming languageearly iverson roger hui created successor apl programming language mid arthur whitneypreviously worked iverson created programming language
+used commercially financial industries
+
+john backus presented programming language histuring
+award lecture programming liberated von neumann style
+functional style algebra program defines functional
+program built hierarchical way mean combining
+form allow algebra program modern languagemean functional program follow principle compositionality
+backuss paper popularized research functional programming though
+emphasized functionlevel programming ratherlambdacalculus style come associated functional
+programming
+
+ml programming language created robin milneruniversity edinburgh david turner developed language
+miranda university kent eventually developed several
+dialect common objective caml standard
+ml haskell programming language released lateattempt gather together many idea functional programming
+research
+
+concepts
+
+number concept paradigm specific functional
+programming generally foreign imperative programming including
+object oriented programming however programming language often
+hybrid several programming paradigm programmer using mostly
+imperative language may utilized concepts
+
+higherorder functions
+
+functional programming notion higherorder functions
+function higherorder take functionargument andor return function result derivativeantiderivative calculus mathematical example functionmap function another function
+
+higherorder function closely related firstclass functionhigherorder function firstclass function allow
+function argument result function distinction
+two subtle higherorder describes mathematical
+concept function operate functionfirstclass computer science term describes programming
+language entity restriction use thus
+firstclass function appear anywhere programfirstclass entity like number including argumentfunction return values
+
+higherorder function enable currying technique function
+applied argument one time application
+returning new higherorder function accepts next argument
+
+pure functions
+
+purely functional program sideeffects functional
+program functional programming language purely functional
+since pure function modify state data may changedparallel function call pure function therefore threadsafe
+allows language use callbyfuture evaluation lacksideeffects allows language haskell use
+callbyneed evaluation
+
+pure functional programming language typically enforce referential
+transparency notion equal substitutedequal two expression equal value notionequality one substituted larger
+expression without affecting result computationexampleyfxfx
+
+compiler factor pure transforming program
+zfx
+yzz
+
+eliminating second evaluation possibly costly callfx optimization called common subexpression elimination
+
+however function side effect function call cannoteliminated consider following program fragment
+yrandomrandom
+
+second call random cannot eliminated return
+value may different first call similarly
+yprintfxprintfx
+
+cannot optimized away even printf return valuetime failing make second call would result different
+program output
+
+compiler imperative programming language perform
+common subexpression elimination function calltrack whether function pure possible advanced
+compiler infer whether local function effect optimize
+accordingly however precompiled library exposeinformation preventing call external functionoptimized away compiler gcc add extra keywordsprogrammer explicitly mark pure function optimization
+performed
+
+recursion
+
+iteration looping functional language usually accomplished via
+recursion recursive function invoke allowing operation
+performed recursion may require maintainingstack tail recursion recognized optimized compiler
+code used implement iteration imperative languages
+scheme programming language standard requires implementationrecognize optimize tail recursion
+
+common pattern recursion factored using higher order
+function catamorphisms anamorphism fold unfolds
+obvious example higher order function playrole analogous builtin control structure loopimperative languages
+
+functional programming nonfunctional languages
+
+possible employ functional style programming languages
+traditionally considered functional languagenonfunctional language borrowed feature lambda
+function higherorder function list comprehensionfunctional programming language make easier adoptfunctional style using language functional constructhigherorder function lazy list obtained via
+library one use function pointer geteffect higherorder function example one implementcommon function map using function pointer widespread declarative
+domain specific language like sql lex yaccturingcomplete use element functional programming
+especially eschewing mutable values
+
+comparison functional imperative programming
+
+functional programming different imperative programming
+significant difference stem fact functional
+programming avoids side effect used imperative
+programming implement state pure functional programming
+disallows side effect completely disallowing side effect provides
+referential transparency make easier verify
+optimize parallelize program easier write automated tools
+perform tasks
+
+higher order function rarely used older imperative programming
+traditional imperative program might use loop traverselist functional style would often use higherorder function map
+take argument function list applies functionelement list return list results
+
+simulating state
+
+tasksfor example maintaining bank account balancethat
+often seem naturally implemented state pure functional
+programming performs task task accepting user
+input printing screen different way
+
+pure functional programming language haskell implement using
+monad derived category theory mathematics monadextremely powerful offer intuitive way model stateside effect imperative manner without losing purity
+existing monad easy use many find difficultunderstand define new monad sometimes neededcertain type libraries
+
+alternative method hoare logic developed track
+side effect program modern research language use effect
+system make explicit presence side effects
+
+efficiency issues
+
+functional programming language automatic memory managementgarbage collection contrast older imperative language like pascal use explicit memory management functional programming
+language perceived efficient use cpumemory language however many modern imperative languages
+java perl python ruby also perform automatic memory
+management
+
+functional programming language become efficientyear program perform intensive numerical computations
+functional language ocaml clean similar speed program handle large matrix multidimensional databases
+array functional language k designed speed
+optimization mind despite purely functional languagereputation slower imperative algorithm expressiblelanguage logarithmic slowdown worst case
+moreover immutability data many case lead greater
+execution efficiency owing compiler making assumptionunsafe imperative language
+
+coding styles
+
+imperative program tend emphasize series step takenprogram carrying action functional program tendemphasize composition arrangement function often without
+specifying explicit step simple example two solutionprogramming goal using multiparadigm language python
+illustrates imperative style
+targetcreate empty list
+item sourcelistiterate thing source
+transgitemtransform item function
+transftranssecond transform function
+targetappendtransadd transformed item target
+
+functional version different feel functional style
+def composef gfporiented language often standard compose
+def citemhere create utilityfunction composition
+return fgitem
+return targetmapcomposefg sourcelist
+
+ compact example functional paradigm python
+targetmaplambda fgx sourcelistuses lambda form map
+targetfgitem item sourcelista list comprehension
+
+contrast imperative style describes step involved
+building target functional style describes mathematical
+relationship sourcelist target
+

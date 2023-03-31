@@ -1,0 +1,298 @@
+copyright
+
+sudoku
+
+ school wikipedia selection related subject recreation
+
+sudoku puzzle
+enlarge
+sudoku puzzle
+
+sudokusdokualso known number place nanpurelogicbased placement puzzle objective fill gridevery column every row everybox contains digitsto 
+puzzle setter provides partially completed gridone solution
+
+completed sudoku puzzle type latin square additional
+constraint content individual region leonhard eulersometimes incorrectly cited source puzzle basedwork latin squares
+
+modern puzzle invented american howard garns 
+published dell magazine name number placebecame popular japan inwhen published nikoligiven name sudoku became international hit 
+
+introduction
+
+name sudoku japanese abbreviation longer phrase
+sji dokushin kagirusji dokushin kagiru
+meaning digit must occur trademarkpuzzle publisher nikoli ltd japan japanese wordpronounced sdok english usually spokenanglicised pronunciation sdku bre sdoku amesudku bre sudoku ame see ipa international phonetic
+alphabet ipa chart english notation usage japanese
+publisher refer puzzle number place original title nanpure short nonjapanese publisher spell
+title doku
+
+numeral sudoku puzzle used convenience arithmetic
+relationship numeral irrelevant set distinct
+symbol letter shape colour may used without
+altering rule fact espn published sudoku puzzle substituting
+position baseball field numbersdell magazines
+puzzle originator using numeral number placemagazine since first published 
+
+attraction puzzle rule simple yet line
+reasoning required solve puzzle may complex leveldifficulty selected suit audience puzzle often
+available free published source may custommade using
+software
+
+solution methods
+
+strategy solving puzzle may regarded comprisingcombination three process scanning marking analyzing
+top right region must contain aby hatching acrosselsewhere solver eliminate empty cellregion cannot contain athis leaf one possibility
+shaded green
+enlarge
+top right region must contain aby hatching acrosselsewhere solver eliminate empty cellregion cannot contain athis leaf one possibility
+shaded green
+
+scanning
+
+scanning performed outset throughout solution scans
+need performed analysis scanning consists
+two techniques
+crosshatching scanning row identify lineregion may contain certain numeral process elimination
+process repeated column fastest resultnumeral scanned order frequency high low
+important perform process systematically checking
+digit 
+countingin region row column identify missing
+numeral counting based upon last numeral discovered may speed
+search also case particularly tougher
+puzzle best way ascertain value cellcount reversethat scanning cell region rowcolumn value cannot order see remains
+
+advanced solver look contingency scanning narrowingnumeral location within row column region two three
+cell cell lie within row regionused elimination crosshatching counting puzzle solved
+scanning alone without requiring detection contingencyclassified easy difficult puzzle cannot solved basic
+scanning alone
+method marking likely numeral single cell placingpencil dot reduce number dot used cellmarking would done many number possibleadded puzzle scanning dot erased corresponding
+numeral eliminated candidates
+enlarge
+method marking likely numeral single cell placingpencil dot reduce number dot used cellmarking would done many number possibleadded puzzle scanning dot erased corresponding
+numeral eliminated candidates
+
+marking
+scanning stop numeral discovered makingnecessary engage logical analysis one method guideanalysis mark candidate numeral blank celltwo popular notation subscript dots
+subscript notation candidate numeral writtensubscript cell puzzle printed newspapersmall accommodate subscript digit normal
+handwriting solver may create larger copy puzzle
+
+second notation pattern dot squaredot position indicates number fromtothe dot notation
+used original puzzle dexterity requiredplacing dot since misplaced dot inadvertent marks
+inevitably lead confusion may easily erased
+
+alternative technique mark numeral cell
+cannot cell start empty constraint become
+known slowly fill one mark missing assumingmistake made mark overwritten valuecell longer need erasures
+
+analysis
+
+two main approach analysis candidate eliminationwhatif candidate elimination progress made successively
+eliminating candidate numeral cell leave one choiceanswer achieved another scan may performedusually
+checking see effect contingency generalentering particular numeral prevents completionnecessary placement numeral question eliminatedcandidate one method work identifying matched cell groupinstance precisely two cell within scope particular row
+column region contain two candidate numeral pqprecisely three cell within scope contain three candidate
+numeral pqr cell said matched placementcandidate numeral anywhere else within scope would
+make solution impossible therefore candidate numeraldeleted cell scope
+
+whatif approach also called guessandcheck
+bifurcationbacktracking andariadnes thread celltwo candidate numeral selected guess made steprepeated unless duplication found cell left withoutpossible candidate case alternative candidate mustsolution cell candidate question posedentering particular numeral prevent completionplacement numeral answer yescandidate eliminated whatif approach requires pencileraser good layout memory
+
+three kind conflict appear puzzle
+solving
+basic conflictsthere different candidate cell
+area
+fish conflictswhen eliminating number rowscolumnsdisappear also columnsrows
+unique conflictsthis pattern mean multiple solutionnumber pattern exist exactly two time every area row
+column one candidate cellvirtual candidate added
+
+encountering would indicate puzzleuniquely solvable encounter consequencewhatif use eraser back try untried alternatives
+
+computer solutions
+
+two general approach taken creation serious
+sudokusolving program human solving method rapidstyle methods
+humanstyle solver typically operate maintaining markup
+matrix search contingency matched cell elements
+human solver utilize order determine exclude cell
+values
+
+many rapidstyle solver employ backtracking search various
+pruning technique also used order help reduce sizesearch tree
+
+rapid solver preferred trialanderror puzzlecreation
+algorithm allow testing large number partial problems
+validity short time humanstyle solver employedhandcrafting puzzlesmiths ability rate challengecreated puzzle show actual solving process target
+audience expected follow
+
+although vanilla sudoku puzzle withgrid andregionssolved quickly computer generalization larger grid known
+npcomplete various optimisation method proposedlarge grids
+
+difficulty ratings
+
+difficulty puzzle based relevancepositioning given number rather quantity
+surprisingly number given doe always reflect puzzles
+difficulty computer solver estimate difficulty humanfind solution based complexity solving techniques
+required online version offer several difficulty levels
+
+publication sort sudoku puzzle four five rating
+level although actual cutoff point name levels
+vary widely typically however title synonyms
+easy intermediate hard challenging easy puzzle
+solved using scanning intermediate puzzle may take
+markup solve hard challenging puzzle usually take
+analysis
+
+another approach rely experience group human test
+solver puzzle published median solving time rather
+algorithmically defined difficulty level
+
+construction
+
+building sudoku puzzle performed predetermininglocation given assigning value neededmake deductive progress technique give constructor greater
+control flow puzzle solving leading solver alongpath compiler used building puzzle great cautionrequired however failing recognize numberlogically deduced point constructionregardlesstortuous logic may becan result unsolvable puzzledefining future given contradicts already built
+building sudoku symmetrical given simple matter placing
+undefined given symmetrical pattern begin
+nikoli sudoku handconstructed author creditedgiven always found symmetrical pattern dell number place
+challenger see variant puzzle also list author sudoku
+puzzle printed newspaper apparently computergenerated
+employ symmetrical given guardian famously claimedhandconstructed puzzle would contain
+imperceptible witticism would unlikelycomputergenerated sudoku
+
+variants
+
+nonomino sudoku puzzle sometimes also known jigsaw sudokuinstance sunday telegraph
+enlarge
+nonomino sudoku puzzle sometimes also known jigsaw sudokuinstance sunday telegraph
+
+even though thegrid withregions far common
+variation abound sample puzzle begrids withregions
+grid pentomino region published name
+logi world puzzle championship previously featured 
+grid withregions agrid six heptomino regiondisjoint region larger grid also possible daily sudokus
+grid monster sudokuthe time likewise offer grid
+dodeka sudoku withregions beingdell regularly publishing
+number place challenger puzzle thevariant often 
+g rather thethrough used hexadecimal nikoli
+profferingsudoku giant behemoth even larger sizeinstancehave claimed
+
+another common variant additional restriction enforcedplacement number beyond usual row column region
+requirement often restriction take form extra
+dimension common number main diagonals
+grid also required unique aforementioned number
+place challenger puzzle variant sudoku puzzle daily mail usegrids
+
+puzzle constructed multiple sudoku grid common five 
+grid overlap corner region shape quincunxknown japan gattaifive merged sudoku time age
+sydney morning herald form puzzle known samurai
+sudoku puzzle twenty overlapping grid uncommon
+japanese publication often given foundoverlapping region sequential grid opposed overlappingalso published value specific location grid needingtransferred others
+
+alphabetical variation also emerged functional
+difference puzzle unless letter spell somethingvariant guide include word reading along main
+diagonal row column solved determining word advance
+viewed solving aid code doku devised steve schaefer
+ha entire sentence embedded puzzle super wordokutop notch embeds two letter word one diagonaldebatable whether true sudoku puzzle althoughpurportedly single linguistically valid solution cannot
+necessarily solved entirely logic requiring solverdetermine embedded word top notch claim feature
+designed defeat solving programs
+
+notable singleinstance variations
+threedimensional sudoku puzzle invented dion churchpublished daily telegraph may 
+theus puzzle championship includes variant called digital
+number place rather given cell contain partial
+givena segment number number drawn partsevensegment display
+online journal speculative grammarian published triolinguisticsthemed sudokulike puzzle called lingdokurequire solver solve two variableincluding simplepuzzle slightly complicated puzzle samuraistyle puzzle withoverlappinggrids
+
+greaterthan comparison sudoku sample
+enlarge
+greaterthan comparison sudoku sample
+
+new variant without given number start come summer
+india yoogi game named greaterthan comparison
+sudoku rule standard sudokufind comparison sequence digit letterwant symbol used must ascending order onenine region therefore cell border line inside every
+region notched meaning ofless thanor vice versavariant sudoku sudokuball sudokuball containsnetworked
+sudoku follow idea samurai puzzleconverted physical game yet available market
+due release early 
+
+example hexudoku enlarge
+example hexudoku
+
+hexudoku variant game sudoku grid square instead name originates contractiongreek latin prefix hexadeca meansand word
+sudoku
+
+similar sudoku goal game complete notcompletely
+filled grid row column themarked
+x square contains number betweenandexactlysquare hexudoku thantimes many squareregular sudoku
+
+instead numberstosometimes hexadecimal digit 
+af used variant starting atag also letteronly
+variant sometimes used
+
+mathematics sudoku
+
+completed sudoku grid special type latin squareadditional property repeated value anyblock number
+classicsudoku solution grid shown inby bertram
+felgenhauer frazer jarvis 
+sequence oeisthis roughlythe number 
+latin square various grid size also enumeratedsee
+main article detail number essentially different
+solution symmetry rotation reflection relabelling
+taken account shown russell frazer jarvisjustsequence oeis resultconfirmed independent authors
+
+maximum number given provided still renderingsolution unique four short full grid two instance two
+number missing cell occupy formcorner orthogonal rectangle exactly two cellwithin one region two way number assigned
+since applies latin square general variant sudoku
+maximum inverse problemthe fewest givenrender solution uniqueis unsolved although lowest number yet
+found standard variation without symmetry constraint isa
+number found japanese puzzle enthusiast 
+given rotationally symmetric cells
+
+history
+
+page france newspaper july
+enlarge
+page france newspaper july
+
+number puzzle first appeared newspaper late century
+french puzzle setter began experimenting removing numbers
+magic square sicle parisbased daily publishedpartially completedmagic square withsubsquares init
+wa sudoku contained doubledigit number required
+arithmetic rather logic solve shared key
+characteristic row column subsquare addednumber
+
+within three year sicles rival france refined puzzlewa almost modern sudoku simplified themagic square
+puzzle row column contained numbersbut
+mark subsquares although unmarked 
+subsquare doe indeed comprise numbershowever puzzle
+cannot considered first sudoku modern ruleha two solution puzzle setter ensured unique solutionrequiringto appear diagonals
+
+weekly puzzle feature newspaper title including
+lecho paris decade disappeared timefirst world war
+
+according shortz modern sudoku likely designed
+anonymously howard garns yearold retired architectfreelance puzzle constructor first published inby dell
+magazine number place earliest known example modern
+sudoku garns name always present listcontributor issue dell pencil puzzle word gameincluded number place always absent issuesadly died inbefore getting chance see creationworldwide phenomenon
+
+puzzle introduced japan nikoli paper monthly
+nikolist aprilas suuji dokushin kagirusuuji
+wa dokushin kagiruwhich translated number must
+single number must occur later datename abbreviated sudoku maki kajikaji maki 
+taking first kanji compound word form shorter
+version innikoli introduced two innovation numbergiven restricted thanand puzzle became
+symmetrical meaning given distributed rotationally
+symmetric cell published mainstream japanese
+periodical asahi shimbun
+
+competitions
+
+first world championship held lucca italy fromto 
+marchit jana tylov yearold accountant
+czech republic competition included numerous
+variants
+second world championship held prague march 
+april
+
+related games
+
+minesweeper computer game
+paint numbers
+

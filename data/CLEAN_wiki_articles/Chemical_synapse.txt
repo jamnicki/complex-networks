@@ -1,0 +1,116 @@
+copyright
+
+chemical synapse
+
+ school wikipedia selection related subject general biology
+
+illustration major element prototypical synapse synapses
+allow nerve cell communicate one another axondendrite converting electrical impulse chemical signals
+enlarge
+illustration major element prototypical synapse synapses
+allow nerve cell communicate one another axondendrite converting electrical impulse chemical signals
+
+chemical synapsis specialized junction cellnervous system signal one another nonneuronal cellmuscle gland chemical synapse motor neuronmuscle cell called neuromuscular junction
+
+chemical synapsis allow neuron central nervous systemform interconnected neural circuit thus crucialbiological computation underlie perception thought also
+provide mean nervous system connectscontrol system body
+
+human brain contains huge number chemical synapsis young
+child aboutsynapsestrillion number
+decline age stabilizing adulthood estimate adult
+vary fromtosynapsestotrillion
+
+word synapse come synaptein sir charles scott
+sherrington colleague coined greek syn meaning
+together haptein meaning clasp chemical synapsistype biological synapse electrical immunological
+synapsis exist well without qualifier however synapsecommonly refers chemical synapse
+
+anatomy
+
+prototypical chemical synapse found dendritic
+spine mushroomshaped bud project two cellcap bud press flat one another interface
+membrane two cell flank across slender gap
+narrowness enables signalling molecule knownneurotransmitter pas rapidly one celldiffusion gap aboutnm wide knownsynaptic cleft
+
+synapsis asymmetric structure operate
+socalled presynaptic neuron secretes neurotransmitter
+bind receptor facing synapse postsynaptic
+cell presynaptic nerve terminal also called synaptic button
+bouton generally bud tip axonpostsynaptic target surface typically appears dendrite cell
+body another part cell part synapsisneurotransmitter released called active zone active
+zone membrane two adjacent cell held close contact
+cell adhesion protein immediately behind postsynaptic
+membrane elaborate complex interlinked protein calledpostsynaptic density protein postsynaptic density servemyriad role anchoring trafficking neurotransmitter
+receptor plasma membrane anchoring various proteinmodulate activity receptor postsynaptic cell needneuron also gland muscle cells
+
+signaling across chemical synapses
+
+release neurotransmitter triggered arrival nerve
+impulse action potential occurs unusually rapid
+process cellular secretion also known exocytosis withinpresynaptic nerve terminal vesicle containing neurotransmitter sit
+docked ready synaptic membrane arriving action
+potential produce influx calcium ion voltagedependent
+calciumselective ion channel calcium ion trigger biochemical
+cascade result vesicle fusing presynapticmembrane
+releasing content synaptic cleft vesicle fusiondriven action set protein presynaptic terminal
+known snare membrane added fusion later retrieved
+endocytosis recycled formation fresh
+neurotransmitterfilled vesicle receptor opposite sidesynaptic gap bind neurotransmitter molecule respond opening
+nearby ion channel postsynaptic cell membrane causing ionrush changing local transmembrane potentialcell resulting change voltage called postsynaptic
+potential general result excitatory casedepolarizing current inhibitory case hyperpolarizing
+current whether synapse excitatory inhibitory dependstype ion channel conduct postsynaptic current displays
+turn function type receptorneurotransmitter employed synapse
+
+modulation synaptic transmission
+
+following fusion synaptic vesicle release transmitter
+molecule synaptic cleft neurotransmitter rapidly
+cleared space recycling specialized membrane proteins
+presynaptic postsynaptic membrane thisreuptake
+preventsdesensitization postsynaptic receptor ensures
+succeeding action potential elicit size
+postsynaptic potential psp necessity reuptakephenomenon desensitization receptor ion channel meanstrength synapse may effect diminish train action
+potential arrive rapid successiona phenomenon give risesocalled frequency dependence synapsis nervous system
+exploit property computational purpose tunesynapsis mean phosphorylation proteins
+involved size number replenishment rate vesicle alsosubject regulation many element synaptic
+transmission example class drug known selective
+serotonin reuptake inhibitor ssri affect certain synapsisinhibiting reuptake neurotransmitter serotonincontrast one important excitatory neurotransmitter acetylcholine
+doe undergo reuptake instead removed synapseaction enzyme acetylcholinesterase
+
+integration synaptic inputs
+
+generally excitatory synapse strong action potentialpresynaptic neuron trigger another postsynaptic cell
+whereas weak synapse excitatory postsynaptic potential
+epsp reach threshold action potential initiation
+brain however neuron typically form synapsis many
+others likewise receives synaptic input many others
+action potential fire simultaneously several neuronweakly synapse single cell may initiate impulsecell even though synapsis weak process knownsummation hand presynaptic neuron releasinginhibitory neurotransmitter gaba cause inhibitory
+postsynaptic potential postsynaptic neuron decreasingexcitability therefore decreasing neuron likelihood fire
+action potential way output neuron may dependinput many others may different degreeinfluence depending strength synapse neuron
+john carew eccles performed important early experimentsynaptic integration received nobel prizephysiology medicine incomplex inputoutput relationship form
+basis transistorbased computation computerthought figure similarly neural circuits
+
+synaptic strength
+
+strength synapse defined change transmembrane
+potential resulting activation postsynaptic
+neurotransmitter receptor change voltage knownpostsynaptic potential direct result ionic currents
+flowing postsynaptic receptorchannels changesynaptic strength shortterm without permanent structural
+change neuron lasting second minutesor
+longtermlongterm potentiation ltp repeatedcontinuous synaptic activation result second messenger molecules
+initiating protein synthesis neuron nucleus resultingalteration structure synapse learning memory
+believed result longterm change synaptic strength via
+mechanism known synaptic plasticity
+
+relationship electrical synapses
+
+electrical synapse mechanical electrically conductive link
+two abutting neuron formed narrow gappre postsynaptic cell known gap junction gap junctions
+cell approach within aboutnm kandel al 
+pa much shorter distance thetonm distanceseparate cell chemical synapsis hormuzdi alas
+opposed chemical synapsis postsynaptic potential electrical
+synapsis caused opening ion channel chemical
+transmitter direct electrical coupling neurons
+electrical synapsis therefore faster reliablechemical synapsis electrical synapsis found throughout nervous
+system yet common chemical synapses
+

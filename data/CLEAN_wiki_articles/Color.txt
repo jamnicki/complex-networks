@@ -1,0 +1,382 @@
+copyright
+
+colour
+
+ school wikipedia selection related subject general physics
+
+color important part visual arts
+enlarge
+colour important part visual arts
+
+colour colour see spelling difference visual perceptual
+property corresponding human category called red yellow
+white etc colour derives spectrum light distributionlight energy versus wavelength interacting eyespectral sensitivity light receptor color categoryphysical specification colour also associated objects
+material light source etc based physical propertylight absorption reflection emission spectra
+
+typically feature composition lightdetectable human wavelength spectrum fromnm tonm
+roughly included thereby objectively relating psychological
+phenomenon color physical specification since perceptioncolour stem varying sensitivity different type cone
+cell retina different part spectrum color maydefined quantified degree stimulatecell physical physiological quantification color
+however fully explain psychophysical perception colour
+appearance
+
+science colour sometimes called chromatics includesperception color human eye brain origin colourmaterial colour theory art physic electromagnetic
+radiation visible range commonly refersimply light
+
+physic colour
+
+caption color visible light spectrum
+
+colour wavelength interval frequency interval
+rednmthz
+orangenmthz
+yellownmthz
+greennmthz
+cyannmthz
+bluenmthz
+violetnmthz
+
+continuous optical spectrum designed monitor gamma 
+continuous optical spectrum designed monitor gamma 
+computer spectrum narrow red green blue bar main
+bar show relative intensity three primary color mixedmake color directlyenlarge
+computer spectrum narrow red green blue bar main
+bar show relative intensity three primary color mixedmake colour directly
+caption colour wavelength frequency energy light
+
+colour lambdanm nuhz nubcm ev ekj mol
+infrared
+red
+orange
+yellow
+green
+blue
+violet
+near ultraviolet
+far ultraviolet
+
+electromagnetic radiation characterized wavelengthfrequency intensity wavelength within visible
+spectrum range wavelength human perceive approximately
+fromnm tonm known visible light
+
+given light source may emit light many different wavelengthspectrum distribution giving intensitywavelength although spectrum light arriving eye
+given direction determines color perceiveddirection many possible spectral combinationcolor sensation fact one may formally define color class
+spectrum give rise colour sensation althoughclass would vary widely among different specie lesser
+extent among individual within specie class
+member called metamers colour question
+
+spectral colors
+
+familiar color rainbow spectrumnamedlatin word appearance apparition isaac newtoncontains color produced visible lightsingle wavelength pure spectral monochromatic colorcolour table right show approximate frequency terahertzwavelength nanometer various pure spectral colorwavelength measured vacuum see refraction
+
+colour table interpreted definitive listthe
+pure spectral color form continuous spectrum divided
+distinct color matter culture taste language
+newton added seventh colour indigo blue violetpeople able distinguish color scientistrecognize separate colour sometimes designatedwavelength ofnm furthermore intensity spectral
+colour may alter perception considerably examplelowintensity orangeyellow brown lowintensity yellowgreen
+olivegreen
+
+discussed section color vision light source needactually one single wavelength perceived pure spectral
+colour
+
+discussion nonspectral color see
+colour objects
+
+setting aside illuminant adaptation contextual effect surfaces
+appear color light leaving directioneye since composition light may dependorientation surface lighting condition perceived
+colour object also depends factor howevergeneralization drawn
+
+light arriving opaque surface either reflected specularly
+manner mirror scattered reflected
+diffuse scattering absorbedor combination
+opaque object reflect specularly tend rough
+surface colour determined wavelength light
+scatter scatter lightscattered absorbed object scatter wavelengthappear white absorb wavelength appear black
+
+opaque object specularly reflect light different wavelengths
+different efficiency look like mirror tinted colors
+determined difference object reflects fraction
+impinging light absorbs rest may look black alsofaintly reflective example black object coated layerenamel lacquer
+
+object transmit light either translucent scatteringtransmitted light transparent scattering transmitted
+light also absorb reflect light varying wavelengths
+differentially appear tinted colour determinednature absorption reflectance
+
+object may emit light generate rathermerely reflecting transmitting light mayelevated temperature said incandescentresult certain chemical reaction phenomenon called
+chemoluminescence reason see articles
+phosphorescence list light sources
+
+object may absorb light consequence emit lightdifferent property called fluorescent lightemitted light absorbed phosphorescent lightemitted even light cease absorbed term also
+sometimes loosely applied light emitted due chemical reactions
+
+treatment colour object see section
+structural colour
+summarize color object complex result surface
+property transmission property emission properties
+factor contribute mix wavelength light
+leaving surface object perceived colorconditioned nature ambient illuminationcolour property object nearby see article colour
+constancy finally permanent transient characteristics
+perceiving eye brain
+
+colour perception
+
+normalized typical human cone response rod responsemonochromatic spectral stimuli
+enlarge
+normalized typical human cone response rod responsemonochromatic spectral stimuli
+
+development theory colour vision
+
+although aristotle ancient scientist already writtennature light colour vision newtonlight identified source colour sensation 
+goethe published comprehensive theory color inthomas
+young proposed trichromatic theory based observationcolour could matched combination three lighttheory later refined james clerk maxwell hermann von
+helmholtz helmholtz put principle newton lawmixture experimentally confirmed maxwell inyoungs
+theory colour sensation like much else marvellous
+investigator achieved advance time remained unnoticedmaxwell directed attention
+time helmholtz ewald hering developed opponent
+process theory color noting colour blindness afterimges
+typically come opponent pair redgreen blueyellowblackwhite ultimately two theory synthesized inby
+hurvich jameson showed retinal processing correspondstrichromatic theory processing level lateral
+geniculate nucleus corresponds opponent theory
+
+inan international group expert known commission
+internationale declairagecie developed mathematical colour
+model mapped space observable color assignedset three number
+colour eye
+
+ability human eye distinguish color based uponvarying sensitivity different cell retina lightdifferent wavelength retina contains three type colour
+receptor cell cone one type relatively distincttwo responsive light perceive violetwavelength aroundnm cone type sometimes called
+shortwavelength cone cone misleadingly blue conetwo type closely related genetically chemically onesometimes called longwavelength cone conemisleadingly red cone sensitive light perceiveyellowishgreen wavelength aroundnm type
+sometimes called middlewavelength cone cone misleadingly
+green cone sensitive light perceived greenwavelength aroundnm
+
+light matter complex composition wavelength reduced
+three colour component eye location visual
+field three type cone yield three signal based extent
+stimulated value sometimes called
+tristimulus values
+
+response curve function wavelength type coneillustrated curve overlap tristimulus values
+occur incoming light combination examplepossible stimulate midwavelengthgreen conecone inevitably stimulated degree time
+set possible tristimulus value determines human colour
+space estimated human distinguish roughly 
+million different colors
+
+type lightsensitive cell eye rod hadifferent response curve normal situation light bright
+enough strongly stimulate cone rod play virtually rolevision hand dim light coneunderstimulated leaving signal rod resultingmonochromatic response furthermore rod barely sensitivelight red range certain condition intermediate
+illumination rod response weak cone response together
+result colour discrimination accounted cone responses
+alone
+
+colour brain
+
+mechanism color vision level retinawelldescribed term tristimulus value see color
+processing point organized differently dominant theory
+color vision proposes colour information transmittedeye three opponent process opponent channelconstructed raw output cone redgreen channelblueyellow channel blackwhite luminance channel theory
+ha supported neurobiology account structuresubjective colour experience specifically explainscannot perceive reddish green yellowish blue predicts
+colour wheel collection color least one
+two colour channel measure value one extremes
+
+exact nature color perception beyond processing already
+described indeed status colour featureperceived world rather feature perception world
+matter complex continuing philosophical dispute see
+qualia
+
+nonstandard colour perception
+
+colour deficiency
+
+one type person coloursensing cone missingle responsive normal incoming light persondistinguish fewer color said colour deficient colour
+blind though latter term misleading almost color
+deficient individual distinguish least color kinds
+colour deficiency caused anomaly number naturecone retina others like central cortical achromatopsia
+caused neural anomaly part brain visual
+processing take place
+
+tetrachromacy
+
+human trichromatic three type colour
+receptor many animal known tetrachromats four types
+include specie spider marsupial birds
+reptile many specie fish specie sensitivetwo color perceive colour called
+dichromat monochromat respectively distinction maderetinal tetrachromacy four pigment cone cellretina compared three trichromats functional tetrachromacy
+ability make enhanced color discrimination basedretinal difference many half womansmall percentage men retinal tetrachromats phenomenon
+arises individual receives two slightly different copygene either medium longwavelength cone carried
+xchromosome retinal tetrachromats colour
+discrimination enhanced making functional tetrachromats
+
+synesthesia
+
+certain form synesthesia perceiving letter number 
+graphemecolour synesthesia hearing musical sound musiccolor
+synesthesia lead unusual additional experience seeing
+color behavioural functional neuroimaging experimentdemonstrated color experience lead change behavioral
+task lead increased activation brain region involvedcolor perception thus demonstrating reality similarityreal colour percept albeit evoked nonstandard route
+
+afterimages
+
+exposure strong light sensitivity range
+photoreceptors given type become desensitized seconds
+light cease continue signal stronglyotherwise would color observed period appearlack colour component detected desensitized photoreceptors
+effect responsible phenomenon afterimageeye may continue see bright figure looking awaycomplementary colour
+
+afterimage effect also utilized artist including
+vincent van gogh
+
+colour constancy
+
+interesting phenomenon occurs artist uslimited colour palette eye tends compensate seeing grey
+neutral color color missing colour wheel
+eg limited palette consisting red yellow black white
+mixture yellow black appear variety greenmixture red black appear variety purple pure
+grey appear bluish
+
+trichromatric theory discussed strictly truewhole scene seen eye one colourcourse unrealistic reality brain compare various
+color scene order eliminate effectillumination scene illuminated one lightanother long difference light source stays
+within reasonable range color scene nevertheless
+appear constant wa studied edwin landled retinex theory colour constancy
+
+colour naming
+
+different culture different term color may also assign
+colour name slightly different part spectruminstance han characterrendered qng mandarin aojapanese meaning cover blue green blue green
+traditionally considered shade ofin contemporary terms
+areln mandarin andl mandarin respectivelyexample japan although traffic light colored
+light country green light called usingword blue aoi green considered shade blue
+
+similarly language selective deciding hue split
+different color basis light dark apart
+blackgreywhite continuum english split hueseveral distinct color according lightness red pinkorange brown english speaker pair colorobjectively different one another light greendark green conceived totally different russian makeredpink orangebrown distinction also makedistinction sinij goluboj english speakers
+would simply call dark light blue russian speaker sinijgoluboj separate red pink orange brown
+
+color term evolve argued limited numberuniversal basic color term begin used individual
+culture relatively fixed order example culture would
+start two term meaning roughly dark covering black dark
+color cold color blueand bright covering white
+light color warm color red adding specific
+color name order red green andor yellow blue brownorange pink purple andor gray older argument theory also
+stipulated acquisition use basic colour termalong evolutionary order indicated complex culturehighly developed technology
+
+somewhat dated example universal colour category theorybasic colour term universality evolutionby brent
+berlin paul kay recent example linguistic determinism
+theory might colour categorisation universal new evidencestoneage cultureby jules davidoff al idealinguistically determined colour category often used evidence
+sapirwhorf hypothesis language thought realityby
+benjamin lee whorf
+
+additionally different color often associated different
+emotional state value group association vary
+culture one system red considered motivate action
+orange purple related spirituality yellow cheer green
+creates cosiness warmth blue relaxes white associatedeither purity death association described fullyindividual colour page colour psychology
+
+see also national colors
+
+health effects
+
+colour spectrum artificial lighting mismatchedsunlight material health effect may arise including increased
+incidence headache phenomenon often coupled adverse
+effect overillumination since many interior spaces
+colour mismatch also higher light intensitydesirable task conducted space
+
+measurement reproduction colour
+
+relation spectral colors
+
+ciecolor space chromaticity diagram outer curved
+boundary spectral monochromatic locus wavelengths
+shown nanometer note color depicted depend color
+space device viewing image therefore
+may strictly accurate representation colorparticular position especially monochromatic colors
+enlarge
+ciecolour space chromaticity diagram outer curved
+boundary spectral monochromatic locus wavelengths
+shown nanometer note color depicted depend colour
+space device viewing image therefore
+may strictly accurate representation colourparticular position especially monochromatic colors
+
+light source mixture various wavelength light
+however many source still spectral color insofareye cannot distinguish monochromatic sourceexample computer display reproduce spectral colour orangecombination red green light appears orange red
+green mixed right proportion allow eye redgreen cone respond way orange
+
+useful concept understanding perceived colournonmonochromatic light source dominant wavelengthidentifies single wavelength light produce sensation
+similar light source dominant wavelength roughly akin
+hue
+
+course many colour perception definition cannot
+pure spectral color due desaturation purples
+mixture red violet light opposite end spectrum
+example necessarily nonspectral color achromatic
+color black gray white color pink tanmagenta
+color photo sunset
+enlarge
+colour photo sunset
+
+two different light spectrum effect three
+color receptor human eye perceived colour
+exemplified white light emitted fluorescent
+lamp typically spectrum consisting narrow bands
+daylight continuous spectrum human eye cannot telldifference light spectrum looking light
+source although reflected color object look different
+often exploited make fruit tomato lookbrightly red shops
+
+similarly human colour perception generated mixture
+three color called primary used reproduce colour
+scene photography printing television mediumnumber method colour space specifying colour terms
+three particular primary color method advantagedisadvantage depending particular application
+
+mixture color though produce fully pure color perceived
+completely identical spectral colour although one getclose longer wavelength chromaticity diagramha nearly straight edge example mixing green lightnm
+blue lightnm produce cyan light slightly
+desaturated response red colour receptor wouldgreater green blue light mixture wouldpure cyan light atnm intensity mixture
+blue green
+
+primary colour printing systems
+generally pure color reproduced never
+perfectly saturated color spectral color cannot matched
+exactly however natural scene rarely contain fully saturated colors
+thus scene usually approximated well systemrange color reproduced given colour reproduction
+system called gamut cie chromaticity diagram useddescribe gamut
+
+another problem color reproduction system connectedacquisition device like camera scanner characteristiccolour sensor device often farcharacteristic receptor human eye effect
+acquisition color special often jagged
+spectrum caused example unusual lighting photographed
+scene relatively poor
+
+specie colour receptor different human g birds
+may four receptor differentiate color look
+human case color reproduction system tuned
+human normal colour vision may give inaccurate results
+observers
+
+next problem different color response different devicecolour information stored transferred digital form colour
+management technique based colour profile attached color data
+device different colour response help avoid
+deformation reproduced color technique workcolor gamut particular device still happen
+monitor able show real color goldfish
+even camera receive store colour information
+properly vice versa
+
+structural colour
+
+structural color color caused interference effects
+rather pigment color produced material scoredfine parallel line formed one thin parallel layerotherwise composed microstructures scale colours
+wavelength microstructures spaced randomly lightshorter wavelength scattered preferentially produce tyndall
+effect color blue sky aerogel opal bluehuman iris microstructures aligned array example
+array pit behave diffraction gratinggrating reflects different wavelength different direction dueinterference phenomenon separating white light colorstructure one thin layer reflectwavelength transmit others depending thicknesslayers
+
+structural colour responsible blue green many bird
+feather example blue jay feather well certain butterfly
+wing beetle shell variation pattern spacing often give
+rise iridescent effect seen peacock feather soap
+bubble film oil mother pearl reflected
+colour depends upon viewing angle
+
+structural colour studied field thinfilm opticlayman term describes particularly ordered structural
+color iridescence
+
+additional terms
+
+hue colour direction white example cie
+chromaticity diagram
+saturation dense intense concentrated purecolourvalue light dark colourtint colour made lighter adding white
+shade colour made darker adding black
+

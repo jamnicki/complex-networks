@@ -1,0 +1,210 @@
+copyright
+
+meningitis
+
+ school wikipedia selection related subject health medicine
+
+caption meningitis
+classification external resources
+
+icdgg 
+icd
+diseasesdb
+medlineplus 
+emedicinemedemerg emerg
+
+meningitis inflammation meninges caused bacteria viral
+infection elsewhere body spread bloodcerebrospinal fluid csf cause meningitisfungal protozoal certain noninfectious etiology much rarer
+meningitis distinguished condition encephalitislatter inflammation brain meningitisaffect anyone age group newborn elderly
+although specific cause may different typical signsymptom meningitis include fever headache stiff neck
+photophobia vomiting common cause meningitis viral
+case resolved within day swift
+treatment therefore anyone suspected meningitisevaluated promptly also bacterial meningitis seriousimmediate treatment necessary
+
+pathophysiology
+
+bacterial meningitis usually caused streptococcus pneumoniaeneisseria meningitidis organism initially attachepithelial cell nasopharynx transported via
+vacuole bloodstream able avoid phagocytosisneutrophil complementmediated bactericidal activitypolysaccharide capsule reach ventricledirectly infect choroid plexus gain access csfable rapidly divide absence effective
+immune defense since csf contains relatively small amount white
+blood cell complement protein immunoglobulin scarcitylatter two component render opsonization bacteria ineffective
+leading impaired phagocytosis neutrophil eventuallybacteria lysed release cell wall productsubarachnoid space substancesincluding lipopolysaccharide
+lp teichoic acid peptidoglycaninduce meningeal
+inflammation stimulating cytokine release tnf ilcns microglia astrocyte monocyte endothelial cellleukocyte addition meningeal inflammation cytokineresponsible fever headache increased intracranial
+pressure present secondary formation purulent exudateobstruction csf flow ventricular system wellinhibiting resorption csf subarachnoid granulationmuch symptom meningitis due host inflammatory
+response rather direct bacterial damage explainssymptom may persist even adequate antibiotic therapy
+interior view brain meningitis caused haemophilus
+influenzae source cdc
+enlarge
+interior view brain meningitis caused haemophilus
+influenzae source cdc
+
+purulent suppurative leptomeningitis diffuse purulent
+inflammation leptomeninges arachnoid pia matter contain
+purulent exudate leukocyte neutrophil fibrin germs
+protein necrotic debris blood vessel subarachnoidian
+space intracerebral congested neutrophil margination
+present
+
+symptoms
+
+symptom meningitis may progress either acutely becoming fulminant
+within hour present subacutely several dayclassical symptom meningitis fever headache nuchal
+rigidity neck stiffnesseach present inof patients
+photophobia intolerance light chill nausea vomiting may
+also occur seizure may occur abouttoof patientsign include kernigs sign brudzinskis sign although commonly
+tested sensitivity specificity kernigs brudzinskis
+test uncertain
+nuchal rigidity pathognomonic sign meningeal irritation
+present neck resistant passive flexion
+kernigs sign elicited patient lying supinehip knee flexed meningeal irritation present painelicited knee passively extended
+brudzinskis sign elicited patient lying supine
+hip knee flexed meningeal irritation presentpain elicited neck passively flexed
+
+important clue meningococcal meningitis diffuse petechial rash
+present trunk lower extremity mucous membrane conjunctiva
+occasionally palm soles
+
+complications
+
+increased intracranial pressure known potentially fatal
+complication bacterial meningitis main sign increased
+intracranial pressure altered state consciousness may
+vary lethargy confusion coma thanof casepresent csf opening pressuremmhg withmmhg
+sign increased icp addition headache vomiting
+include papilledema sixth cranial nerve palsy decerebrate
+posturing cushing reflextachycardia hypotensioncheynestokes respiration fatal complication icp brain
+herniation may present intoof cases
+
+associated features
+
+arthritis bacterial infection joint occurs aroundofcase bacterial meningitis andof case meningococcal
+meningitis
+
+diagnosis
+
+although diagnosis meningitis well specific etiologyimportant laboratory testing take time bacterial meningitis
+urgent issue treatment usually instituteddefinite diagnosis made
+patient suspected meningitis blood culturedrawn empiric antibiotic started immediately
+diagnosis meningitis carried examinationcsf lumbar puncture however patient harecent head trauma immunocompromised known malignantcns neoplasm focal neurologic deficit papilledema
+altered consciousness mri performed priorlp order avoid potentially fatal brain herniation
+procedure
+otherwise mri performed mri
+preferred due superiority demonstrating areacerebral edema ischemia meningeal enhancement
+
+antibiotic started withinhours lumbar puncturesignificantly affect lab result opening pressure notedlp csf fluid sent examination white blood cell red
+blood cell glucose protein gram stain culture possibly latex
+agglutination test limulus lysates pcr bacterial dna
+
+csf analysis bacterial meningitis
+
+opening pressuremmho
+white blood cell neutrophil predominance
+glucosemgdl
+csf glucose serum glucose ratio
+proteinmgdl
+gram stain positive 
+culture positive 
+latex agglutination may positive meningitis duestreptococcus pneumoniae neisseria meningitidis haemophilus
+influenzae escherichia coli group streptococci
+limulus lysates positive gramnegative meningitis
+
+csf culture usually positive intoof patient viral
+meningitis negative culture usuallypositive csf pcr test
+
+treatment
+
+bacterial meningitis medical emergency high mortality
+rate untreated suspected case however mild need emergency
+medical attention empiric antibiotic must started immediately
+even result lumbar puncture csf analysisknown
+
+choice antibiotic depends local advicedeveloped world common organism involved streptococcus
+pneumoniae neisseria meningitidis first line treatment thirdgeneration cephalosporin ceftriaxonecefotaxime underyears age overyears ageimmunocompromised ampicillin added cover listeria
+monocytogenes country high levelpenicillin resistance first line choice antibioticvancomycin carbapenem meropenem subsaharan africa
+oily chloramphenicol ceftriaxone often usedsingle dose needed cases
+
+staphylococci gramnegative bacillus common infective agentpatient neurosurgical procedure choice
+antibiotic depends local pattern infection cefotaximeceftriaxone remain good choice many situation ceftazidimeused pseudomonas aeruginosa problem intraventricular
+vancomycin used patient intraventricular shunts
+high rate staphylococcal infection patientintracerebral prothetic material metal plate electrode implants
+etc sometimes chloramphenicol antibioticadequately cover infection staphylococcus aureus cephalosporincarbapenems inadequate circumstances
+
+specific treatments
+
+result csf analysis known alonggramstain culture empiric therapy may switched therapy
+targeted specific causative organismantibioticresistance prevalent problem information drug
+susceptibility testing also gathered
+neisseria meningitidis usually treated day course
+iv antibiotics
+penicillinsensitivepenicillin ampicillin
+penicillinresistantceftriaxone cefotaxime
+prophylaxis close contact contact oral secretions
+rifampinmg bid fordays adult ormgkg bid
+child rifampin recommended pregnancypatient treated single dosciprofloxacin azithromycin ceftriaxone
+streptococcus pneumoniae usually treated week
+course antibiotics
+penicillinsensitivepenicillin penicillinintermediateceftriaxone cefotaxime
+penicillinresistantceftriaxone cefotaximevancomycin
+listeria monocytogenes treated week course ampicillingentamicin
+gram negative bacilliceftriaxone cefotaxime
+pseudomonas aeruginosaceftazidime
+staphylococcus aureus
+methicillinsensitivenafcillin
+methicillinresistantvancomycin
+streptococcus agalactiaepenicillin ampicillin
+haemophilus influenzaeceftriaxone cefotaxime
+
+viral meningitis
+
+unlike bacteria virus cannot killed antibiotic patientmild viral meningitis may spend hourhospital serious infection mayhospitalised many day supportive care patient mild
+case often cause flulike symptom may treatedfluid bed rest preferably quiet dark room analgesicpain fever physician may prescribe anticonvulsantphenytoin prevent seizure corticosteroid reduce brain
+inflammation inflammation severe pain medicine sedatives
+may prescribed make patient comfortable typemeningitis however early stage highly contagiouspatient must kept isolated least several days
+
+increased intracranial pressure
+
+treatment increased intracranial pressure include elevation head
+totodegrees intubation hyperventilation mannitol
+
+vaccination
+
+vaccination haemophilus influenzae hib decreased early
+childhood meningitis significantly
+
+vaccine type neisseria meningitidis kindcause disease preschool child teenager united
+state also around type also prevalentsubsahara africa outbreak affected hajj
+pilgrimage mecca
+
+vaccine called menzb specific strain type neisseria
+meningitidis prevalent new zealand completed trialgiven many people country age ofthere also
+vaccine menbvac specific strain type meningoccocal
+disease prevalent norway another specific vaccinestrain prevalent cuba
+
+pneumovax streptococcus pneumoniae recommendedyear child receive vaccinationstreptococcus pneumoniae starting atweeksmonths accordingamerican association pediatrics aap recommendations
+
+history
+
+symptom meningitis recorded middle age alongtuberculosis black plague first accurately
+identified swiss vieusseux scientificliterary association
+outbreak geneva switzerland inin century
+meningitis scourge japanese imperial family playinglargest role horrendous prematurity death rate family
+endured mids emperor komei twosibling reached maturity fifteen total child surviving
+birth komeis son emperor meiji one two survivorkomeis six child including elder brother meiji would
+taken throne lived maturity five meijis fifteen
+child survived including third son taisho emperor
+wa feebleminded perhaps result contracted
+meningitis emperor hirohito generation familyreceiving modern medical attention focal point traditionjapan tokugawa shogunate family denied modern
+dutch medical treatment use among upper caste despite
+extensive modernization meiji restoration emperor
+insisted traditional medical care child inbreeding
+produced among family considered worthy marriageimperial line descendent line
+therefore none distant cousin one another also playedimportant role
+
+african meningitis belt
+
+meningitis belt area subsaharan africa stretches
+senegal west ethiopia east large
+epidemic meningococcal meningitis occur contains estimated
+total population ofmillion people largest epidemic outbreak
+wa inwhen overcases occurred andpeople diedconsequence disease
+

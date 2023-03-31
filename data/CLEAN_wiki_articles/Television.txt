@@ -1,0 +1,355 @@
+copyright
+
+television
+
+ school wikipedia selection related subject engineering television
+
+braun hfgermany 
+enlarge
+braun hfgermany 
+ot belweder polandpower switchvolumebrightness
+pitchvertical synchrohorizontal synchrocontrast 
+channel tuningchannel switch
+enlarge
+ot belweder poland 
+power switchvolume
+brightness
+pitch
+vertical synchro
+horizontal synchro
+contrast
+channel tuning
+channel switch
+
+television telecommunication system broadcasting receiving
+moving picture sound distance term come refer
+aspect television television setprogramming transmission word derived mixed latingreek root meaning far sight greektele far latin
+vision sight video see
+
+history
+
+television invented single person numberscientist advancement contributing ultimate allelectronic
+version invention origin would become todays
+television system traced back far discoveryphotoconductivity element selenium willoughby smith 
+followed work telectroscope inventionscanning disk paul nipkow inall practical television systems
+use fundamental idea scanning image produce time series
+signal representation representation transmitteddevice reverse scanning process final devicetelevision set relies human eye integrateresult coherent image
+transistorbased portable television typical ntsc modellateenlarge
+transistorbased portable television typical ntsc modellate
+electromechanical technique developedprogressing transmission still photograph live
+still duotone image moving duotone silhouette imagestep increasing sensitivity speed scanning photoelectric
+cell john logie baird gave world first public demonstrationworking television system transmitted live moving image tone
+graduation grayscale onjanuaryat laboratory london
+built complete experimental broadcast system aroundtechnology baird demonstrated world first colour
+television transmission onjulyother prominent developermechanical television included charles francis jenkinsdemonstrated primitive television system infrank conraddemonstrated moviefilmtotelevision converter westinghousefrank gray herbert ives bell lab demonstrated
+wired longdistance television inand twoway television 
+television set
+enlarge
+television set
+
+colour television system invented patented evenblackandwhite television working see history televisiondetails
+
+completely electronic television system relied inventionphilo taylor farnsworth vladimir zworykin others producesystem suitable mass distribution television programming
+farnsworth gave world first public demonstrationallelectronic television system franklin institutephiladelphia onaugust 
+
+regular broadcast programming occurred united state united
+kingdom germany france soviet union world war iifirst regular television broadcast modern level definition
+line made england insoon upgradedsocalled system withlines regular network broadcasting began
+united state inand television became common american
+home middle north american overtheair
+broadcasting originally free direct marginal costconsumer cost excess acquisition upkeephardware broadcaster compensated primarily receiptadvertising revenue increasingly united state television consumers
+obtain programming subscription cable television systemdirecttohome satellite transmission united kingdom france
+rest europe hand operatortelevision equipment must pay annual license fee usually
+used fund wholely partly appropriate national public
+service broadcaster british broadcasting corporation france
+tlvisions etc
+digital video equipment cutting room
+enlarge
+digital video equipment cutting room
+
+technology
+
+element television set
+
+element simple television systemimage sourcethis may camera live pickup images
+flying spot scanner transmission films
+sound source
+transmitter modulates one television signalpicture sound information transmission
+receiver television recovers picture sound
+signal television broadcast
+display device turn electrical signal visible
+light
+sound device turn electrical signal sound wavego along picture
+
+samsung lerbd hdtv
+enlarge
+samsung lerbd hdtv
+
+practical television system include equipment selecting different
+image source mixing image several source insertionprerecorded video signal synchronizing signal many sources
+direct image generation computer purpose station
+identification transmission may air landbased
+transmitter metal optical cable radiosynchronous satellite digital system may inserted anywherechain provide better image transmission quality reductiontransmission bandwidth special effect security transmission
+reception nonsubscribers
+
+display technology
+
+thanks advance display technology several kinds
+video display used modern sets
+crtcathode ray tube common display directview
+crt toincm inandincm 
+diagonally still least expensive refined
+technology still provide best overall picture quality
+fixed native resolution casealso capable displaying source variety different
+resolution best possible image quality frame raterefresh rate typical ntsc format crt ishzpal format ishz typical ntsc broadcast signal visible
+portion equivalent resolution pixelactually could slightly higher vertical
+blanking interval vbi allows signal carried along
+broadcast
+
+enlarge
+rear projection large screen overinch
+cm use projection technology three type projection
+system used projection crtbased lcdbased dlp
+reflective micromirror chip based projection televisioncommercially available since time could
+match image sharpness crt current model vastly
+improved offer costeffective largescreen display
+variation video projector using similar technology
+project onto screen
+flat panel lcd plasma modern advance brought flat
+panel use active matrix lcd plasma display
+technology flat panel lcd plasma display little 
+inch thick hung wall like picture putpedestal model also used computer monitors
+led technology become one choice outdoor videostadium since advent ultra high brightness leddriver circuit led enable scalable ultralarge flat panel video
+display existing technology may never ablematch performance
+
+ha pro con flat panel lcd display narrow
+viewing angle may suit home environment rear projection
+screen perform well natural daylight well lit roombest suited dark viewing area complete runpro con display sought purchasingsingle television technology
+
+terminology televisions
+
+pixel resolution amount individual point known pixelgiven screen typical resolution meantelevision display haspixels across andpixels vertical
+axis higher resolution specified display sharperimage contrast ratio measurement rangebrightest darkest point screen higher contrast
+ratio better looking picture term richness
+deepness shadow detail
+
+brightness picture measure vibrant impactingcolour measured cdm equivalent amount candles
+required power image
+
+transmission band
+
+various band television operate depending uponcountry vhf uhf signal band iii generally used
+lower frequency enough bandwidth availabletelevision although bbc initially used band vhf atmhzfrequency longer use purpose band used radio transmission higher frequency behave like lightpenetrate building travel around obstruction well enoughused conventional broadcast system generallyused satellite broadcasting frequency aroundghz
+tv system country relay video 
+amplitudemodulation signal sound 
+frequencymodulation signal exception france sound
+
+aspect ratios
+
+aspect ratio refers ratio horizontal vertical
+measurement television picture mechanically scanned television
+first demonstrated john logie baird inused avertical
+aspect ratio oriented head shoulder single personcloseup
+
+early electronic system mids onward
+shared aspect ratio ofwhich chosen matchacademy ratio used cinema film time ratio also
+square enough conveniently viewed round cathoderay tubes
+crt could produced given manufacturing
+technology time today crt technology allows manufacture
+much wider tube flatscreen technologybecoming steadily popular technical aspect ratio
+limitation bbcs television service used squarish
+ratio fromtoaprilwhen switched 
+ratio present significant problem settime used round tube easily adjusted theratiotransmission changed
+
+movie studio moved towards widescreen aspect ratiocinemascope effort distance product television
+although initially gimmick widescreen stillformat choice today square aspect ratio movie rarepeople argue widescreen actually disadvantage showing
+object tall instead panoramic others say natural
+vision panoramic tall therefore widescreen easier
+eye
+
+switch digital television system usedopportunity change standard television picture formatold ratio ofto aspect ratio ofapproximately
+enables get closer aspect ratio modern
+widescreen movie range fromthroughto 
+two method transporting widescreen content better
+us called anamorphic widescreen format format
+similar technique used fit widescreen movie frame
+inside amm film frame image compressed horizontally
+recorded expanded played back anamorphic
+widescreenformat first introduced via european palplus
+television broadcast later widescreen dvd atsc
+hdtv system straight widescreen format horizontal compression
+expansion used
+
+recently widescreen spread television computingdesktop laptop computer commonly equipped widescreen
+display complaint distortion movie picture
+ratio due dvd playback software taking account aspect
+ratio may subside dvd playback software matures
+furthermore computer laptop widescreen display 
+aspect ratio physically size pixel countconsumer television leading complexity waresult widescreen computer display engineer uninformed assumption
+people viewingcontent computer would preferarea screen reserved playback control subtitletaskbar opposed viewing content fullscreen
+
+aspect ratio incompatibility
+
+television industry changing aspect ratio without
+difficulty present considerable problem
+
+displaying widescreen aspect rectangular image conventional
+aspect square ordisplay shown
+inletterbox format black horizontal bar topbottom
+part image cropped usually extreme leftright image cut inpan scan parts
+selected operator
+image horizontally compressed
+
+conventional aspect square orimage widescreen aspect
+rectangular longer horizon display shown
+inpillar box format black vertical bar leftright
+upper lower portion image cut tiltscan part selected operator
+image horizontally distorted
+
+common compromise shoot create material aspect ratio
+ofand lose image side forpresentationimage top bottom forpresentation recent years
+cinematographic process known superchampioned james
+cameron used film number major movietitanic legally blonde austin power crouching tiger hidden
+dragon see also list topgrossing film shot superthis
+process result cameranegative used create
+widescreen theatrical print standardfull screen
+release televisionvhsdvd avoid need either 
+letterboxing severe loss information caused conventional
+panandscan cropping
+
+sound
+
+data
+
+television addons
+
+today many television addons including video game consoles
+vcr settop box cable satellite dvbt compliant digital
+television reception dvd player digital video recorders
+including personal video recorder pvrs addon market continues
+grow new technology developed
+
+new developments
+
+ambilight
+blu ray
+broadcast flag
+cablecard
+digital light processing dlp
+digital right management drm
+digital television dtv
+digital video recorder dvr
+direct broadcast satellite dbs
+dvd
+flickerfreehz orhz depending country
+hd dvd
+high definition hdtv
+highdefinition multimedia interface hdmi
+iptv
+internet television
+lcd plasma display flat screen sed display technology
+oled display technology
+pptv
+payperview
+personal video recorder pvr
+pictureinpicture pip
+pixelplus
+placeshifting
+remote controls
+slingbox
+timeshifting
+video ondemand vod
+ultra high definition video uhdv
+web 
+exterior designs
+
+early day television cabinet made wood grain
+however wood grain disappearing howeverha modern comeback woodgrain 
+
+geographical usage
+
+timeline introduction television countries
+
+content
+
+advertising
+
+since inception usa intv commercial become
+one effective pervasive popular methodselling product many sort especially consumer good advertising rate determined primarily nielsen ratings
+
+programming
+
+getting programming shown public happen many different
+way production next step market deliverproduct whatever market open using typically
+happens two levels
+original run first runa producer creates program onemultiple episode show station networkeither paid production licensegranted producersyndicationthis terminology rather broadly useddescribe secondary programming usage beyond original runincludes secondary run country first issue also
+international usage may may managedoriginating producer many case company stationindividual engaged syndication work words
+sell product market allowed sellcontract copyright holder caseproducers
+
+country first wave occurs primarily freetoair fta
+television second wave happens subscription tvcountry however first wave occurs fta
+network subscription service second wave travel viamean distribution
+
+first run programming increasing subscription service outside
+u domestically produced program syndicateddomestic fta elsewhere practice increasing however generally
+digitalonly fta channel subscriberonly first run
+material appearing fta
+
+unlike repeat fta screening fta network program almost
+occur network also affiliate rarely buy produce
+nonnetwork programming isnt centred around local events
+
+social aspects
+
+alleged dangers
+
+paralleling television growing primacy family life societyincreasingly vocal chorus legislator scientist parentraising objection uncritical acceptance mediumexample swedish government imposed total ban advertisingchild twelve insee advertising fifty yearresearch impact television childrens emotional social
+development norma pecora john murrayellen wartella
+child televisionyears research published erlbaum
+press junedemonstrate clear lasting effects
+viewing violence recent study februarypublishedjournal medium psychology volumenumberpagesthe
+research team demonstrated brain activation patternchild viewing violence show child arousedviolence increased heart rate demonstrate fear activationamygdalathe fight flight sensor brain responsevideo violence store observed violence area brain
+posterior cingulate reserved longterm memorytraumatic events
+
+afebruaryarticle scientific american suggestedcompulsive television watching television addiction different
+addiction finding backed report withdrawal
+symptom among family forced circumstance cease watching
+
+longitudinal study new zealand involvingpeoplechildhood toyears age demonstrated television viewingchildhood adolescence associated poor educational
+achievement byyears age word child
+watched television likely finish schoolenroll university
+
+iceland television broadcasting hour restricted 
+television program broadcast thursdaywhole july
+
+despite research many medium scholar today dismiss studies
+flawed one example school thought see david
+gauntletts articleten thing wrong medium effect model
+
+technology trends
+
+infancy television ephemeral medium fan regular
+show planned schedule could available watch
+show time broadcast term appointment television
+wa coined marketer describe kind attachment
+
+viewerships dependence schedule lessened inventionprogrammable video recorder videocassette recorderdigital video recorder consumer could watch programschedule broadcast recorded television service
+provider also offer video demand set program couldwatched time
+
+mobile phone network internet capable carrying
+video stream already fair amount internet available
+either live downloadable programs
+
+suitability audience
+
+almost since medium inception chargeprogramming one way another inappropriate offensiveindecent critic jean kilborne claimed television
+well mass medium image harm self image young girls
+commentator sut jhally make case television
+advertising ha effective happinessincreasingly come equated purchasing product george
+gerbner presented evidence frequent portrayal crime
+especially minority crime led mean world syndrome view
+among frequent viewer television crime rate much higher
+actual data would indicate addition lot television
+ha charged presenting propaganda political otherwise
+pitched low intellectual level
+

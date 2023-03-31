@@ -1,0 +1,187 @@
+copyright
+
+gravitation
+
+ school wikipedia selection related subject general physics
+
+gravitation phenomenon object attractmodern physic describes gravitation using general theoryrelativity much simpler newton law universal gravitation
+provides excellent approximation many cases
+
+gravitation reason existence earth sun
+celestial body without matter would coalesced
+body life know would exist gravitation
+also responsible keeping earth planetorbit around sun moon orbit around earth
+formation tide various natural phenomena
+observe
+gravitational force keep planet orbit sun
+enlarge
+gravitational force keep planet orbit sun
+
+history gravitational theory
+
+early prenewtonian history
+
+since time greek philosopher aristotle century
+bc many attempt understand explain gravity
+aristotle believed effect without causetherefore motion without force hypothesized everything
+tried move towards proper place crystalline sphereheaven physical body fell toward centreearth proportion weight another example attempted
+explanation indian astronomer brahmagupta 
+wrote body fall towards earth natureearth attract body nature waterflow
+
+modern work gravitational theory began work galileo
+galilei late century early century famous
+experiment dropping ball tower pisa later careful
+measurement ball rolling incline galileo showedgravitation accelerates object rate major
+departure aristotle belief heavier object accelerated
+faster galileo correctly postulated air resistance reasonlighter object appear fall slowly galileo work setstage formulation newton theory gravity
+
+newton theory gravitation
+
+inenglish mathematician sir isaac newton published famous
+principia hypothesizes inversesquare law universal
+gravitation word deduced force keep
+planet orb must reciprocally squaredistance center revolve thereby
+compared force requisite keep moon orb force
+gravity surface earth found answer pretty
+nearly
+
+newton theory enjoyed greatest success usedpredict existence neptune based motion uranus could
+accounted action planet calculationjohn couch adam urbain verrier predicted general
+position planet verriers calculation led
+johann gottfried galle discovery neptune
+
+ironically another discrepancy planet orbit helped
+doom newton theory end century known
+orbit mercury could accounted entirelynewton theory search another perturbing bodyplanet orbiting sun even closer mercury come empty
+issue resolved inby albert einstein new general
+relativity theory theory accounted discrepancymercury orbit
+
+although newton theory superseded modern
+nonrelativistic gravitational calculation based newton work
+due much simpler theory work
+general relativity
+
+theory einstein proposed inertial motion occursobject freefall instead rest respect
+massive object earth case classical
+mechanic problem flat spacetimesclassical mechanic special relativity wayinertial observer accelerate respectfreefalling body accelerated towardscentre massive object
+
+deal difficulty einstein proposed spacetimecurved presence matter freefalling objectfollowing geodesic spacetime specifically einstein
+discovered field equation general relativity relatepresence matter curvature spacetime einstein field
+equation set ofsimultaneous nonlinear differential
+equation whose solution give component metric tensorspacetime metric tensor describe geometry spacetimegeodesic path object inertial motion calculatedmetric tensor notable solution einstein field equations
+include
+schwarzschild solution describes spacetime surroundingspherically symmetric non rotating uncharged massive objectcompact enough object solution generated black holecentral singularity radial distance centremuch greater schwarzschild radius accelerations
+predicted schwarzschild solution practically identical
+predicted newton theory gravity
+reissnernordstrm solution central object haelectrical charge charge geometrized lengthle geometrized length mass objectsolution produce black hole two event horizons
+kerr solution solution rotating massive objectsolution also produce black hole multiple event horizons
+cosmological robertsonwalker solution predictsexpansion universe
+
+general relativity enjoyed much successprediction regularly confirmed example
+general relativity account anomalous precessionplanet mercury
+prediction time run slower lower potential haconfirmed poundrebka experiment hafelekeating
+experiment gps
+prediction deflection light first confirmedarthur eddington inand recently strongly
+confirmed use quasar pass behind sun
+seen earth see also gravitational lensing
+time delay light passing close massive object first
+identified shapiro inin interplanetary spacecraft signals
+gravitational radiation indirectly confirmedstudy binary pulsars
+expansion universe predicted robertsonwalker
+metric confirmed edwin hubble 
+
+specifics
+
+earth gravity
+
+every planetary body including earth surroundedgravitational field exerts attractive force object
+field proportional body mass varies inverselysquare distance body gravitational fieldnumerically equal acceleration object influence
+value earth surface denoted approximately
+orfts mean ignoring air
+resistance object falling freely near earth surface increases
+speed byms aroundmph second descent
+thus object starting rest attain speed ofms
+ft one secondmsfts two
+second according newton law earthexperience equal opposite force acting falling
+object meaning earth also accelerates towards object
+however mass earth huge measurable
+acceleration earth force negligible
+
+equation falling body
+
+normal earthbound condition object move owingconstant gravitational force set kinematical dynamical
+equation describe resultant trajectory example newtons
+law gravitation simplifies fmg massbody assumption reasonable object falling earthrelatively short vertical distance everyday experiencemuch untrue larger distance spacecraft
+trajectory acceleration far surfaceearth general example expression
+use calculation potential energy bodyheight hpemgh expression used small
+distance earth similarly expression maximum
+height reached vertically projected body hug useful
+small height small initial velocity case large
+initial velocity use principle conservationenergy find maximum height reached
+
+gravity astronomy
+
+discovery application newton law gravity accountdetailed information planet solar system
+mass sun distance star even theory dark
+matter although traveled planetsun know mass mass obtained applying lawgravity measured characteristic orbit spaceobject maintains orbit force gravity acting upon
+planet orbit star star orbit galactic center galaxy orbitcentre mass cluster cluster orbit superclusters
+
+gravity versus gravitation
+
+important note gravitation gravity gravitationattractive influence object exertgravity specifically refers force massive objecttheorized exert cause gravitation althoughterm used interchangeably everyday use important note
+theory newton gravitation caused factors
+gravity example general relativity gravitationdue spacetime curvature cause inertially moving objecttend accelerate towards another discredited
+example sage theory gravitation massive objects
+effectively pushed towards
+applications
+
+shot towerdubuque iowa
+enlarge
+shot towerdubuque iowa
+
+vast number mechanical contrivance depend way gravity
+operation example height difference provideuseful pressure differential liquid caseintravenous drip water tower gravitational potential energy
+water used generate hydroelectricity well haultramcar incline using system water tank pulleylynton lynmouth cliff railway devon england employsystem also weight hanging cable pulley providesconstant tension cable including part sidepulley weight
+
+example numerous example molten lead pouredtop shot tower coalesce rain spherical lead shot
+first separating droplet forming molten sphere finally
+freezing solid undergoing many effect meteoritic
+tektite cool spherical nearspherical shapefreefall also fractionation tower used manufacturematerial separating material component basedspecific gravity weightdriven clock powered gravitational
+potential energy pendulum clock depend gravity regulate
+time artificial satellite application gravitationmathematically described newton principia
+
+gravity used geophysical exploration investigate density
+contrast subsurface earth sensitive gravimeter usecomplicated spring mass system case measurestrength downward component gravitational forcepoint measuring many station area reveals anomaly measured
+mgal microgalgal iscms average gravitational
+acceleration aboutgal ormgal correctionobliqueness earth elevation terrain instrument drift
+etc anomaly reveal area higher lower densitycrust method used extensively mineral petroleum
+exploration well timelapse groundwater modeling newest
+instrument sensitive enough read gravitational pulloperator standing
+alternative theories
+
+historical alternative theories
+aristotelian theory gravity
+le sage theory gravitationalso called lesage gravity
+proposed georgeslouis sage based fluidbased
+explanation light gas fill entire universe
+nordstrms theory gravitationan early competitor
+general relativity
+whitehead theory gravitationanother early competitor
+general relativity
+
+recent alternative theories
+bransdicke theory gravity 
+induced gravitya proposal andrei sakharov accordinggeneral relativity might arise quantum field theorymatter
+rosen bimetric theory gravity
+modified newtonian dynamic mondmordehai milgrom
+proposes modification newton second law motion small
+accelerations
+new highly controversial process physic theory attemptaddress gravity
+selfcreation cosmology theory gravityby barber
+bransdicke theory modified allow mass creation
+nonsymmetric gravitational theory ngtby john moffat
+satirical theory intelligent fallingin first
+incarnation intelligent grappling
+tensorvectorscalar gravity tevesa relativistic
+modification mond jacob bekenstein
+

@@ -1,0 +1,139 @@
+copyright
+
+draughts
+
+ school wikipedia selection related subject games
+
+draughts
+international draught board
+starting position adraughts board
+players
+age rangerecommendedyearssetup timeseconds
+playing timeminutemany days
+rule complexity low
+strategy depthhigh
+random chancenone
+skill requiredtactics strategy
+
+draught draft british english checker american
+english group abstract strategy board game two
+player involve diagonal move uniform piece mandatory
+capture jumping enemy pieces
+
+popular form international draught played 
+board followed english draught also called american checkerplayed anboard many variant game
+draught older game chess
+
+general rules
+
+draught played two people opposite side playing board
+alternating move one player dark piece light
+piece player dark piece make first move unless
+stated otherwise piece move diagonally piece opponentcaptured jumping playable surface consistsdark square piece may move unoccupied square
+capturing mandatory rule piece capturedremoved board variant player pieces
+left cannot move anymore lost game unless otherwise stated
+
+uncrowned piece men move one step diagonally forward capture
+piece making two step direction jumpingopponent piece intermediate square multiple opposing
+piece may captured single turn provided donesuccessive jump made single piece english draught mencapture forward international draught may also
+capture diagonally backwards
+
+men reach crownhead king row farthest row forward
+become king marked placing additional piece topfirst acquire additional power including ability move
+backwards capture backwards variant cannot
+already
+international draught king move far wantdiagonal like bishop chess however cannot capture likebishop jump captured piece moving many empty
+field player want jumping single opposing
+piece jump men king may make successive jumpsingle turn provided capture rule knownflying king used english draught kingadvantage man ability move capture backwardswell forward notice captured piece removedboard capturing finished thus sometimes capturedyet removed piece obliges king stop capturing given
+field turn captured adversary
+
+variants
+
+national regional standard rules
+
+international draught also called polish draught polska grapolish upon time pole living french royal
+court decided enlarge board x orderperform spectacular capturing combination international
+checkersthe board size iswithpieces sideha flying king unlike chess playing field numbered
+number fromtoif many sequencecapture one capture sequence pieces
+man touch king row jump continuejump backwards jump backwards kingedmainly played netherlands france eastern european
+country part africa part former ussreuropean country popular variantdraught popular justifies opinion chessking game draught prime minister
+starting position english draught enlarge
+starting position english draughts
+english draughtsalso called american checker straight
+checker played anboard withpiecesside black darker colour move first men uncrowned
+piece move capture forwardone way player jump one may choose sequencemake necessarily sequence result greatest
+number capture however one must make capturesequence
+brazilian checkersexactly rule international
+draught played anboard mainly playedbrazil
+canadian checkersexactly rule international
+draught played aboard withpiecesside mainly played canada
+pool checkersexactly rule brazilian checkerone way player jump one may
+choose sequence make necessarily sequenceresult greatest number capture however one must
+make capture sequence another different rule
+brazilian checker black move first instead
+white mainly played southeastern stateunited states
+spanish checkersalso called spanish pool checker men cannot
+jump backwards exactly rule brazilian checkermany sequence capture one capturesequence piece stillsequence one capture sequence kings
+board mirrored left side flipped right side
+vice versa mainly played part south america
+northern african countries
+russian checkersalso called shashki checker russian shashki
+checker exactly rule brazilian checkerman touch king row jump continue jump
+backwards jump backwards king men mainly
+played part russia part former ussrisrael many game end one adversary three kings
+one one king case first
+adversary normally win occupies main diagonal first
+build socalled petrovs triangle
+italian checkersmen cannot jump king men cannot jump
+backwards many sequence capture one hacapture sequence piece still
+sequence one capture king instead manstill sequence one capture sequence
+ha king still sequence onecapture sequence king first boardmirrored left side flipped right side vice
+versa mainly played italy northern african
+countries
+turkish draught common form checker middleeast
+known dama played anboard piece move straight
+forward sideways capture jumping enemy piecemany sequence capture one capturesequence piece piece reach last
+row promotes flying king dama move like rook
+chess player start withpieces second third
+row played turkeykuwait israel lebanon syria jordan
+several location middleeast welllocation russian checkers
+
+invented variants
+
+suicide checkersalso called anticheckers giveaway checkerlosing draught objective opposite regular checkers
+winner first player legal movewhose piece lost blocked
+lasca checker variant aboard withfields used
+jumped piece placed jumper towerbuilt top piece jumped tower capturedvariant invented emanuel lasker former world chess
+champion
+cheskers variant checker invented solomon golombplayer begin bishop aknight jumpcordinatesrather thanso stay black
+square men reaching back rank promote bishop
+knight king
+
+game sometimes confused checker variants
+
+halma game piece move direction jump
+piece friend enemy piece captured
+player start withplayer orplayer pieceone corner try move opposite corner
+halma actually different checkers
+chinese checker based halma starshaped board
+divided triangle contrary name gamechinese origin based checkers
+
+computer draughts
+
+portable draught notation standard format store draughts
+game computer checker program like chinook created 
+playenglish draught stronger top living human players
+
+period ofarthur samuelibm wrote first
+draught gameplaying program much weaker generally
+believed chance top human player neverthelessmilestone programming among thing first
+gameplaying program use bitboards long popularchess programming
+
+last computer world championship played vegasand
+wa nemesis beat kingsrow cake resultgame weredraws three win computer
+championship played since part programs
+progressed point probably game would decided
+
+indavid fogel kumar chelapilla created blondieprogram based neural net able play checker withouthumanimparted knowledge however play far weaker traditional
+computer checker programs
+

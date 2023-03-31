@@ -1,0 +1,144 @@
+copyright
+
+evolutionarily stable strategy
+
+ school wikipedia selection related subject environment politicsgovernment
+
+evolutionarily stable strategy
+solution concept game theory
+relationships
+subset ofnash equilibrium
+intersects subgame perfect equilibrium trembling hand perfect
+equilibrium perfect bayesian equilibrium
+significance
+proposed byjohn maynard smith george price
+used forbiological modeling evolutionary game theory
+examplehawkdove aka game chicken
+
+game theory evolutionarily stable strategy also
+evolutionary stable strategy strategy adoptedpopulation cannot invaded competing alternative strategyconcept equilibrium refinement nash equilibriumdifference nash equilibrium nash
+equilibrium may sometimes exist due assumption rational
+foresight prevents player playing alternative strategyshort term cost eventually beaten third
+strategy defined exclude equilibrium assumes
+natural selection force selects using
+strategy lower payoffs
+
+term introduced defined john maynard smith george price anature paper central maynard smith 
+book evolution theory game concept derivedrh macarthur hamilton work sex ratio especially
+hamiltonsconcept unbeatable strategy ideatraced back ronald fisherand charles darwinsee
+edward 
+
+nash equilibrium ess
+
+nash equilibrium strategy game players
+adopt player benefit switching play alternative
+strategy player choosing strategy populationplayer play strategy receives payoff ejistrategy nash equilibrium
+eiieji 
+equilibrium definition allows possibility strategy neutral alternative score equally betternash equilibrium presumed stable even score equallyassumption player play 
+maynard smith pricespecify two condition strategyes either
+eiiejieiieji eijejj
+
+must true eij expected payoffstrategy playing strategy 
+first condition sometimes called strict nash equilibrium
+harsanyithe second sometimes referred maynard
+smith second condition
+
+also alternative definition thoughmaintains functional equivalence place different emphasisrole nash equilibrium concept concept followingterminology given first definition adaptedthomas 
+eiiejieijejj
+
+formulation first condition specifies strategynash equilibrium second specifies maynard smiths
+second condition met note despite differenceformulation two definition actually equivalent
+
+one advantage change role nash equilibrium
+es clearly highlighted also allows natural
+definition concept like weak evolutionarily
+stable set thomas 
+
+example
+
+consider following payoff matrix describing coordination game
+
+ab
+b
+coordination game
+
+strategy es since player cannot invadepopulation player player invade population player two pure strategy nash equilibrium correspondtwo second game also two pure strategy nash
+equilibrium one corresponds ess
+
+cd
+c
+simple game
+
+nash equilibrium since neither player better
+unilaterally deviating consider player
+introduced population player player doe equally
+well population scoreshowever playerbetter scoresthan population doec player thus player invade populationplayers
+
+even game pure strategy nash equilibrium might case
+none strategy consider following example
+known chicken
+
+ef
+e
+f
+chicken
+
+two pure strategy nash equilibrium game f e however absence uncorrelated asymmetry neither fe third nash equilibrium exists mixed strategyes game see hawkdove game best responseexplanation
+
+bishopcannings theorem
+
+nash equilibrium either pure strategy probabalistic
+mixture pure strategy mixed strategy evolutionarily stable
+strategy either pure mixed
+
+bishopcannings theorem bishopcanningsprovesmember mixed evolutionarily stable strategy payoff
+none also pure evolutionarily stable
+strategy logic also applies nash equilibriumhold true member mixed nash membermixed ess
+
+es evolutionarily stable state
+
+es evolutionarily stable strategy strategymember population adopt mutant
+strategy invademaynard smith 
+
+population said evolutionarily stable stategenetic composition restored selectiondisturbance provided disturbance largepopulation genetically monomorphic polymorphic 
+maynard smith 
+
+es strategy property virtually members
+population use rational alternative existsevolutionarily stable state dynamical property populationreturn using strategy mix strategy perturbed
+strategy mix strategy former concept fits
+within classical game theory whereas latter population
+genetics dynamical system evolutionary game theory concept
+
+thomasapplies term individual strategy may
+mixed evolutionarily stable population state population
+mixture pure strategy may formally equivalentmixed ess
+
+prisoner dilemma ess
+
+consider large population people iterated prisoners
+dilemma always play tit tat transactionsince almost transaction requires trust transactionmodelled prisoner dilemma entire population plays
+titfortat strategy group newcomer enter population
+prefer always defect strategy try cheat everyone
+meet titfortat strategy prove successfuldefector converted lose tit tat therefore
+es respect two strategy handisland always defect player stable invasiontitfortat player large number see
+robert axelrods evolution cooperation
+
+es human behaviour
+
+recent controversial science sociobiology evolutionary
+psychology attempt explain animal human behaviour social
+structure largely term evolutionarily stable strategies
+sociopathy chronic antisocialcriminal behaviour suggested
+best explained combination two strategies
+
+although originally considered stable state biological
+evolution need limited context fact esstable state large class adaptive dynamic result ess
+used explain human behavior without presuming behaviour
+necessarily determined genes
+
+retrieved 
+httpenwikipediaorgwikievolutionarilystablestrategy
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

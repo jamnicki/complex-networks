@@ -1,0 +1,213 @@
+copyright
+
+casimir effect
+
+ school wikipedia selection related subject general physics
+
+physic casimir effect physical force exertedseparate object due neither charge gravityexchange particle instead due resonance allpervasive
+energy field intervening space objectsometimes described term virtual particle interactingobject due mathematical form one possible waycalculating strength effect since strength force
+fall rapidly distance measurable distance
+object extremely small submicron scaleforce becomes strong becomes dominant forceuncharged conductors
+
+dutch physicist hendrik g casimir first proposed existenceforce formulated experiment detect inwhile
+participating research philip research lab classic formexperiment used pair uncharged parallel metal platevacuum successfully demonstrated force withinofvalue predicted according theory
+
+van der waals force pair neutral atom similar
+effect modern theoretical physic casimir effect playimportant role chiral bag model nucleon applied
+physic becoming increasing importance developmenteversmaller miniaturised component emerging micro nano
+technologies
+
+overview
+
+casimir effect understood idea presenceconducting metal dielectric alter vacuum expectation valueenergy electromagnetic field since value energy
+depends shape position conductor dielectrics
+casimir effect manifest force objects
+
+vacuum energy
+
+casimir effect outcome quantum field theory states
+various fundamental field electromagnetic
+field must quantized every point space nave
+sense field physic may envisioned space filled
+interconnected vibrating ball spring strengthfield visualized displacement ball rest
+position vibration field propagate governedappropriate wave equation particular field questionsecond quantization quantum field theory requiresballspring combination quantized strengthfield quantized point space canonically fieldpoint space simple harmonic oscillatorquantization place quantum harmonic oscillator point
+excitation field correspond elementary particleparticle physic however picture show even vacuum havastly complex structure calculation quantum field theory must
+made relation model vacuum
+
+vacuum implicitly property particle may
+spin polarization case light energyaverage property cancel vacuumempty sense one important exception vacuum energyvacuum expectation value energy quantizationsimple harmonic oscillator state lowest possible energyzeropoint energy oscillator may
+ebeginmatrix frac endmatrix hbar omega
+
+summing possible oscillator point space giveinfinite quantity remove infinity one may arguedifference energy physically measurable argumentunderpinning theory renormalization practical
+calculation infinity always handled deeper
+sense however renormalization unsatisfying removalinfinity present challenge search theoryeverything ofthere compelling explanationinfinity treated essentially zero nonzero valueessentially cosmological constant large value causes
+trouble cosmology
+
+casimir effect
+
+casimir force parallel plates
+enlarge
+casimir force parallel plates
+
+casimirs observation secondquantized quantum
+electromagnetic field presence bulk body metaldielectric must obey boundary condition classical
+electromagnetic field must obey particular affectcalculation vacuum energy presence conductordielectric
+
+consider example calculation vacuum expectation value
+electromagnetic field inside metal cavityexample radar cavity microwave waveguide casecorrect way find zero point energy field sumenergy standing wave cavity every
+possible standing wave corresponds energy say energy nth
+standing wave vacuum expectation valueelectromagnetic field cavity
+langle ranglefrac sumn 
+sum running possible value enumeratingstanding wave factor ofcorresponds factzeropoint energy summed sameas appearsequation ehbar omegawritten way sumclearly divergent however used create finite
+expressions
+
+particular one may ask zero point energy dependsshape cavity energy level depends shapeone write energy level langle rangle vacuum expectation value point comeimportant observation force point wall cavity
+equal change vacuum energy shape wall
+perturbed little bit say point one
+fpleft fracdelta langle rangle deltarightvertp
+
+value finite many practical calculations
+
+casimirs calculation
+
+original calculation done casimir considered space
+pair conducting metal plate distance apartcase standing wave particularly easy calculate sincetransverse component electric field normal componentmagnetic field must vanish surface conductor assuming
+parallel plate lie plane standing wave
+psinxyzteiomegant eikxxikyy sin left
+kn right
+
+wherestands electric component electromagnetic field
+brevity polarization magnetic componentignored ky wave vector directions
+parallel plate
+knfracnpia
+
+wavevector perpendicular plate integer
+resulting requirement thatvanish metal plateenergy wave
+omeganc sqrtkxkyfracnpia
+
+c speed light vacuum energy sumpossible excitation modes
+
+langle ranglefrachbar cdotint fracdkx
+dkypi sumninfty aomegan
+
+area metal plate factor ofis
+introduced two possible polarization waveexpression clearly infinite proceed calculationconvenient introduce regulator discussed greater detail
+regulator serve make expression finiteend removed zetaregulated version energy per
+unitarea plate
+fraclangle rangleahbar int fracdkx
+dkypi sumninfty omegan vert
+omeganverts
+
+end limit stois taken complex
+number confused shape discussed previouslyintegralsum finite real larger thanthe sum pole
+may analytically continued expression
+finite expanding one gets
+
+fraclangle rangleafrachbar cspi
+sumn intinfty qdq left vert qfracpi
+na rightverts
+
+polar coordinate qkxky introduced turndouble integral single integral front jacobian
+thecomes angular integration integral easily
+performed resulting
+fraclangle rangleafrac hbar pisa fracs sumn vert nvert
+sum may understood riemann zeta function one
+
+fraclangle ranglealimstofraclangle rangleafrac hbar pia zeta 
+
+butand one obtains
+
+fraclangle rangleafrac hbar pi cdot
+
+casimir force per unit area fca idealized perfectly
+conducting plate vacuum
+fc afracdda fraclangle ranglea 
+frac hbar pia
+
+
+hbar hbaris reduced planck constant
+c speed light
+distance two plates
+
+force negative indicating force attractivemoving two plate closer together energy loweredpresence hbar show casimir force per unit area fca
+small furthermore force inherentlyquantummechanical origin
+
+measurement
+
+one first experimental test conducted marcus spaarnayphilip eindhoven inin delicate difficult experiment
+parallel plate obtaining result contradictioncasimir theory large experimental errors
+
+casimir effect measured accurately inby steve lamoreaux los alamo national laboratory umar mohideenuniversity california riverside colleague anushree roy
+practice rather using two parallel plate would require
+phenomenally accurate alignment ensure parallelexperiment use one plate flat another plate part
+sphere large radius curvature ina groupuniversity padua finally succeeded measuring casimir force
+parallel plate using microresonators
+
+research shown material certain permittivity
+permeability certain configuration casimir effect
+could made repulsive instead attractive althoughexperimental demonstration predictions
+
+regularization
+
+order able perform calculation general caseconvenient introduce regulator summationartificial device used make sum finiteeasily manipulated followed taking limitremove regulator
+
+heat kernel exponentially regulated sum
+langle ranglefrac sumn hbar omegan exp
+tomegan
+
+limit ttois taken end divergence sum
+typically manifested
+langle ranglefraccttextrmfinite
+
+threedimensional cavity infinite part sumassociated bulk constant doe depend shape
+cavity interesting part sum finite part
+shapedependent gaussian regulator
+
+langle ranglefrac sumn hbar omegan exp
+tomegan
+
+better suited numerical calculation superior
+convergence property difficult use theoretical
+calculation suitably smooth regulator may used well
+zeta function regulator
+
+langle ranglefrac sumn hbar omegan
+omegans
+
+completely unsuited numerical calculation quite useful
+theoretical calculation particular divergence showpole complex plane bulk divergence sum
+may analytically continued past pole obtain finite part
+
+every cavity configuration necessarily lead finite partlack pole shapeindependent infinite partcase understood additional physic taken
+account particular extremely large frequencyplasma frequency metal become transparent photonxrays dielectric show frequencydependent cutoff well
+frequency dependence act natural regulatorvariety bulk effect solid state physic mathematicallysimilar casimir effect cutoff frequency comeexplicit play keep expression finite discussedgreater detail landau lifshitz theory continuous media
+
+generalities
+
+casimir effect also computed using mathematical
+mechanism functional integral quantum field theory although
+calculation considerably abstract thus difficultcomprehend addition carried simplest
+geometry however formalism quantum field theory makeclear vacuum expectation value summation certain
+sense summation socalledvirtual particles
+
+interesting understanding sum energies
+standing wave formally understood sumeigenvalue hamiltonian allows atomic molecular effects
+van der waals force understood variationtheme casimir effect thus one considers hamiltoniansystem function arrangement object atomconfiguration space change zeropoint energy function
+change configuration understood result forces
+acting objects
+
+chiral bag model nucleon casimir energy playimportant role showing mass nucleon independentbag radius addition spectral asymmetry interpretednonzero vacuum expectation value baryon number cancellingtopological winding number pion field surrounding nucleon
+
+analogies
+
+similar analysis used explain hawking radiation causes
+slowevaporation black hole although generally
+explained escape one particle virtual
+particleantiparticle pair particle capturedblack hole
+
+practical analogy look two ship open ocean
+sailing alongside come closer together hulls
+shield space wave energyside well front back increasingly cancelwave longer wavelength distance hullcause hull increasingly pushed difference wave
+activity toward get closership actively steer away power
+eventually collide reason naval vessels
+resupplying transferring personnel sea must use linemaintain minimum distance based vessel lengthwave height

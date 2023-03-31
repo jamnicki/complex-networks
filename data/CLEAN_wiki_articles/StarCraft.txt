@@ -1,0 +1,284 @@
+copyright
+
+starcraft
+
+ school wikipedia selection related subject computervideo games
+
+starcraft
+front cover starcraft installation developer blizzard entertainment
+publisher win mac
+united state blizzard entertainment
+european union sierra entertainment
+n
+united state australia nintendo
+designer blizzard entertainment
+latest version
+release date win
+united state european union april
+mac
+united state 
+n
+united state australia 
+genre realtime strategy
+mode single player multiplayer
+rating esrb teen
+usk 
+oflcelspa 
+pegi 
+oflcnz platform window mac mac nintendo 
+medium cdrom nintendocartridge
+system requirement win windowsor bettermhz pentiummb
+ram directxcompatible cdrom drive bit display mac
+systemor better powerpcor bettermb ram
+
+starcraft realtime strategy computer game blizzard
+entertainment initially released platform ina
+macintosh version game released instarcraft also
+later ported nintendo 
+
+main storyline follows war among three galactic speciestrong stable human terrans hive mind arthropodic zergpsychic humanoid protoss warriors
+
+wa bestselling computer game ofand origin award
+best strategy computer game year nine million copystarcraft expansion pack starcraft brood war sold
+since release especially popular south koreaprofessional player team participate match earn
+sponsorship compete televised matches
+
+gameplay
+
+starcrafts gameplay center acquisition control two
+resource mineral vespene gas necessary construct
+combat unit building mineral required normal
+unit appear blue crystalline formation protrudingground harvested mined worker unitsscvterran drone zerg probe protoss vespene gasrequired advanced unit upgrade appears geysergreen cloud erupting particular structure refineryterrans extractor zerg assimilator protoss mustconstructed worker unit harvest vespene gas
+
+player limited number unit timeha supplysupport rating roughly correlated units
+combat strength player must maintain enough unitsupporters supply
+depot terrans pylon protoss overlord zerg
+support forces
+
+player use resource construct building buildings
+morph train warp unit others upgrade players
+force allow advanced unit structure resource management
+expansion control resource location effective offensivedefensive combat tactic key victory unit type available
+specie define racial identity protoss marshal powerful
+expensive warrior machinery zerg rely sheer numbers
+speed overwhelm opponent terrans versatileflexible alternative race providing compromisespecialization combined arm specie net advantageothers
+
+multiplayer
+
+blizzard internet service battlenet granted online multiplayer
+gaming additional charge many fan especially casual players
+enjoy playing group computercontrolled opponentskirmish game called comp stomp since experienced player generally
+find artificial intelligence game challenging fans
+also created map advantageous computerextremely hard win eight spot filled gameplayed battlenetwith direct cable connection andplayers
+modem connection cooperative play several people playteam controlling unit different teamallied harm clan gather grouppeople competitive team play player usually attach tagonline name indicate clan allegiance name
+xyzjohnsmith show johnsmith belongs clan xyz clan
+involvement range casual friendship mandatory meetingtournament multiplayer gameplay player use modifiedhacked version starcraft client gain unfair advantage
+people also use program called bot gain unfair advantages
+bot allow cheat way invulnerability fog
+war infinite resource unfair way winninginfamous maphack allows player see whole map ignoring 
+fog war blizzard attempt detect ban hacker several
+thirdparty antihack program constant developmentprevent hack inbattlenet banned overaccounts
+cheating hacking
+
+competitive highlevel gaming outside korean professional
+scene take place private ladder pgtour pro gamers
+tour orwgtour world gamers tour ladder use specific sets
+map mostly taken korean pro league like msl osl
+hackpreventing thirdparty program team administratorsometimes even private server pgtours bnetxenforce fair play since end julywith releasepatchblizzard removed ladder option gateways
+save european gateway whose ladder held cooperationwgtour
+
+beginning versionstarcraft enables player recordgame save replay viewedcopy starcraft displaying entire course gameplay replays
+allow studying game player tactic thus prolevel
+replay rarely released protect team secrecy complypolicy pro league fan developed applicationbwchart lasgos observer pack analyze replay detailcompute statistic number action per minuteapm
+replay accompanied audio commentary recordedplayer experienced observer real time later viewing
+audio file produced using thirdparty recordingplayback tool viewer must manually synchronize audioreplay alternatively auxiliary application rwa ensure
+synchronization vods video demand video showingcommentator player prolevel game sometimes
+illegally ripped korean television internet streamusually come asf video file format window medium playerwmv format compressed mpeg codec
+small file video quality poorer replays
+
+starcraft campaign editor
+
+game packaged starcraft campaign editor also knownstaredit editor trigger system allows user change maps
+radically create custom map scenario starcraft communityconstructed new editor functionality grant user evenpower modify game company microstar sold new
+level created staredit feature forced stopblizzard court case distribution
+
+scenario generally either melee use map setting ums games
+melee game start player random location main
+base building command centre hatchery nexus four mining
+unit popular type game used tournamentladder game casual melee game played money map maps
+extremely large amount immediately available resources
+initial mineral gas deposit often set cap oforunit eliminate need expansion site money mapcriticized failing challenge player develop key skillorderbuilding expansiontaking favoring weaker players
+defender money map claim game still requires strategyskill
+
+use map setting game structured often incorporate
+liberal use specialized trigger setup change gameplay
+scenario based genre surfaced including defense maps
+starcraft diplomacy rpgs maddness singleplayer campaigns
+long scenario played several map edited
+together staredit gained prominence following leadantioch chronicle many campaign include modification add
+new hero mapmakers create new art file creating completely new
+unit character staredit cant popular campaigns
+include campaign creation fenix legacy confederation
+life marine starcraftorgs official campaign shifters
+field ash
+
+powerful thirdparty editor including starcraft xtra
+editor starforge scmdraft allow user stack multiple
+mineral field building top change player
+color use hidden script protect map common theft run
+sizeless sound directly starcraft disc change colourtext compress map advanced area user place
+raw sprite spriteunits disabled unit custom mapcampaign including starcraft insurrection starcraft
+retribution released commercially via third partyaddons criticized poor mission design sell well
+
+plot setting
+
+setting
+
+distant future human exile fight survival edgegalaxy unified terran government formedespionage deceit military might resource begun run
+begin look toward world mysterious
+neighbor protoss midst event zergbegun total war protoss planet destroying everythingpath
+
+plot
+
+spoiler warning plot andor ending detail follow
+
+plot original starcraft game revolves around terran
+civilization koprulu sector founded former
+prisoner exiled earth powerful terran factionterran confederacy opposed factionterrorist organizationsons korhal arrival zerg led
+overmind cerebrates greatly complicates matterterrans zerg swarm closely followed protoss fleet
+led high templar executor tassadar burn world zerg
+infest
+
+player assumes role colonial magistrate terran
+confederacy soon meet jim raynor marshal mar saraarrested confederacy destroying confederate property
+even though infested zerg player join sonkorhal free raynor prison raynor also join sonfrequently mission protoss destroyzerginfested confederate colony chau sara leader sons
+arcturus mengsk psiemitters lure zerg confederate
+installation goal mengsk acquires services
+general edmund duke confederate general sacrificerighthand woman psychic sarah kerrigan zergobject moral tactic raynor outraged mengsk
+abandoning kerrigan flees mengsk small number soldiers
+accompanied player confederacy fall use
+psiemitters confederate homeworld tarsonis mengsk
+reorganizes terran world control terran
+dominion crowning emperor
+
+second episode player assumes role zerg cerebrate
+entrusted care chrysalis contains kerrigan
+infested prepared rebirth swarm soon
+awakes add great power zerg effortlessly destroyingenemy meanwhile tassadar discovers zerg cerebrateskilled permanently otherwise nearimmediately reincarnatedovermind dark templar allytassadar distracts kerrigan dark templar zeratul assassinatescerebrate zasz disrupts overminds control garm
+brood also make mind zeratul overmind onebrief second allowing overmind know location protoss
+homeworld aiur zerg soon invade despite heavy protoss
+resistance allowing overmind embed crustplanet
+
+player take role protoss fleet executorfirst serf conclave fight zerg aiur soon rebels
+join tassadar result protoss civil war tassadar
+tassadars unlikely templar ally dark templar pitted
+conclave khala however tassadar dark
+templar prove conclave zeratul slay two
+zerg cerebrates conclave ally tassadar dark
+templar along terrans led jim raynor launchoffensive overmind destroying nearly impervious shell
+tassadar channel many dark templar energy hullship gantrithor crashing vulnerable formovermind killing sacrificing process
+spoiler end
+characters
+
+sarah kerrigan voiced glynnis talken campbell
+tassadar voiced michael gough
+jim raynor voiced robert clotworthy
+aldaris voiced paul eiding
+zeratul voiced james harper
+fenix voiced bill roper
+
+development
+
+warcraft earlier blizzard production criticizedsimilarity two race minor differences
+spell upgrade cost following concept pioneeredstrategic simulation game war wind starcraft implemented decisive
+asymmetry among race improvement included prerendered
+sprite background using studio max isometric viewused unlike warcraft top perspective quality musicprofessional voice acting also utilized
+
+operation cwal cant wait longer formed inas writers
+group starcraft suggestion forum try liberate early
+unauthorized final copy starcraft appeared obviously
+completed despite numerous delay part blizzard
+entertainment blizzard entertainment went far give special
+thanks group starcraft manual use namecheat code
+
+brood war expansion released blizzard inprovided several
+new unit new campaign race continuing original
+starcraft storyline changing gameplay brood war allowedproduction unit dark templar starcraftmade available beginning singleplayer mission created
+exclusive unit upgrade three specie though three races
+starcraft slightly unequal power game first
+released expansion pack twenty two patch fouraffected gameplay thought player fixed
+version sequels
+
+instarcraftwas released nintendothe game
+featured map original game brood war
+expansion well exclusive mission two different
+tutorial starcraft resurrection game also required use
+expansion pak game popular version
+perhaps difficulty controlling cursor comparedmouse lack online multiplayer game splitscreen games
+available however also speech mission briefingomitted cut scene shortened blizzard previously
+considered playstation port game finally decided
+game would instead released nintendo 
+
+blizzard working firstperson shooter thirdperson
+shooter starcraft ghost originally slated areleaserepeatedly postponed toand eventually delayed
+indefinitely although player welcomed concept changegenre realtime strategy thirdperson shooter absence
+pc version aroused protest among fan march 
+starcraft ghost development put hold indefinitelyproducer considered nextgen consoles
+
+blizzard indicated interest sequel blizzard officialposted battlenet forum asking suggestiongame many easter egg unlocked completionwarcraft iii relate starcraft leading many sequel
+speculation also leak areleasehanbitsoft korean publisher starcraft job advertisementblizzardcom looking game balance designer experiencestarcraft warcraft iii fact several
+unannounced title also developed suggest blizzardworking another rts possibly starcraft although fourth
+warcraft game new franchise remain possibility developmentsequel yet officially announced overplayerssigned online petition support sequel creation groupfan operating name snowflake entertainment creatingmod make starcraft using warcraft iii game engine titled
+project revolution although sequel project revolutiontransfer game two three dimensions
+
+reception
+
+starcraft numberone selling game ofselling 
+million copy worldwide ofover third total salemillion copy sold south korea blizzards
+battlenet online gameplaying service grew overpercentstarcrafts release starcraft remains one popular online
+game world half million korean alone playing
+nightly
+
+starcraft received star floor metreon partwalk game san francisco earlyign rated gameth best top game time bothandedition
+calling best real time strategy game ever made also placed
+among game behind sid meiers civilization gamespot named
+starcraft greatest game time
+
+without criticism game suffers coarse resolutionwa also noted release problem ofrushingmultiplayer mode allowing player swiftly conquer one another
+attacking first instead allowing time build force though
+rushing since developed normal feature game playstrategy
+
+legacy
+
+late game grew popular among south korean online
+gamers establishing successful professional scene active
+starcraft player come south korea professional game
+player starred network game broadcastthree television channel dedicated professional computer game
+match top player gained wealth professional players
+television contract sponsorship tournament prize allowing
+famous player lim yohwan known ingame slayersboxer
+gain fanclub half million people professional gamers
+dedicate nearly waking hour playing starcraft prepare
+highly competitive league lee yunyeol terran player known
+game rednada reported earnings inofusd
+
+immense influence video game including starcraftkorean youth raised concern lee seung seop known bfstarcraft yearold daegu south korea died exhaustion
+onaugustafter playing hour marathon session starcraft
+internet cafe sparking new discussion video game
+addiction though starcraft notably dangerous since matches
+last hour like many popular mmorpgs
+
+merchandise
+
+addition numerous fan fiction work taking place starcraft
+universe spawned several official novel ebooks including
+starcraft uprising starcraft liberty crusade starcraft shadowxelnaga starcraft speed darkness starcraft queen blades
+forthcoming starcraft ghost nova released fall
+
+blizzard entertainment authorized two short story amazing stories
+magazine entitled starcraft hybrid starcraft revelations
+blizzard also licensed wizard coast publish starcraft
+adventure supplement roleplaying game alternity setstarcraft universe even manga comic action figure done
+starcraft universe wa also released ofgame trackoriginal work korean musician starcraft board game entitled
+starcraft board game development
+

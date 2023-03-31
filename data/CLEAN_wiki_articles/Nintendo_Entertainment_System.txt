@@ -1,0 +1,451 @@
+copyright
+
+nintendo entertainment system
+
+ school wikipedia selection related subject computervideo games
+
+
+featured article click information
+official nintendo entertainment system logo famicom family logo
+nintendo entertainment system
+nintendo family computer
+nintendo entertainment system nintendo family computer
+famicom
+manufacturernintendo
+typevideo game console
+generationthird generation bit era
+first availablejpn july
+usa october
+february 
+eur 
+eur 
+cpuricoh bit processormos technologycore
+mediacartridge game pak
+controller inputcontroller ports
+expansion slot
+unit soldmillion
+topselling game super mario bros super mario bros 
+predecessorcolour game
+successorsuper nintendo entertainment system
+
+nintendo entertainment system often referred simply
+nintendo bit video game console released nintendo north
+america brazil europe asia australia inits japanese
+equivalent known nintendo family computer 
+famir kompytor famicomfamikon 
+
+successful gaming console time asia north
+america nintendo claim sold overmillion units
+worldwide helped revitalize video game industry followingvideo game crash ofand set standard subsequent consoles
+everything game design breakthrough platform game super
+mario bros system firstkiller app business
+practice wa first console manufacturer
+openly courted thirdparty developers
+
+history
+
+following series arcade game success earlynintendo made plan produce cartridgebased console masayuki
+uemura designed system released japan july 
+foralongside three port nintendos successful arcade
+game donkey kong donkey kong popeye nintendo family
+computer famicom slow gather momentum first year
+many criticized system unreliable prone programming errors
+rampant freezing following product recall reissuenew motherboard famicoms popularity soared becomingbestselling game console japan end ofencouragedsuccess nintendo soon turned attention north
+american market
+
+nintendo entered negotiation atari release famicom
+ataris name name nintendo enhanced video systemdeal eventually fell subsequent plan market famicom
+console north america featuring keyboard cassette data recorder
+wireless joystick controller special basic cartridgename nintendo advanced video system likewise never materialized
+finally junenintendo unveiled american versionfamicom consumer electronics show nintendo rolledfirst system limited american market october
+following fullfledged north american release console
+february following year nintendo simultaneously released
+eighteen launch title yard fight baseball clu clu land donkey
+kong math duck hunt excitebike golf gyromite hogan alley
+ice climber kung mach rider pinball stackup super mario bros
+tennis wild gunman wrecking crew
+
+europe australia system released two separate
+marketing region distribution region consistingmainland europe excluding italy handled numberdifferent company nintendo responsible cartridge
+release region saw arelease mattel handled
+distribution region consisting united kingdom ireland
+italy australia new zealand starting following yearuntildid nintendos newly created european branch takedistribution throughout europe despite system lackluster
+performance outside japan north america bythe nebecome bestselling console video game history
+
+dawned however renewed competition technologically
+superior system bit sega mega drive known sega
+genesis north america marked end ness dominance
+eclipsed nintendos super nintendo entertainment system snes
+ness user base gradually waned nintendo continued supportsystem america first half decade even releasing
+new version console nesto address many design
+flaw original hardware bythough wakeever decreasing sale lack new software title nintendoamerica officially discontinued despite nintendojapan kept producing new nintendo famicoms niche marketoctoberwhen nintendo japan officially discontinued line
+even developer ceased production numberhighprofile video game franchise series netransitioned newer console remain popular day
+nintendos super mario bros legend zelda metroid
+franchise debuted capcoms mega man franchise
+konamis castlevania franchise square enixs final fantasydragon quest franchises
+
+year following official death westcollector market based around video rental shop garage saleflea market led gamers rediscover coupledgrowth console emulation late saw something second
+golden age secondhand market began dryfinding rom longer represented challengepast parallel rise interest emulation waemergence dedicated hardware modding scene hobbyists
+perform task moving completely new casedissecting part fun controller particular targets
+modding often adapted connect personal computerway parallel usb port modders transformedconsole portable system adding battery led lcd
+screen
+
+bundle packages
+
+north american release wa released two different
+configuration bundle console deck identical
+bundle packaged different game paks accessories
+first set control deck retailed uincluded console two game controller super mario
+bros game pak second bundle deluxe set retailed 
+consisted console rob zapper two game
+paks duck hunt gyromite
+
+remainder ness commercial lifespan north america
+nintendo frequently repackaged console new configurationcapitalize newer accessory popular game title subsequent
+bundle package included action set released november 
+forwhich replaced earlier two set included
+console zapper two game controller multicart
+version super mario bros duck hunt action set becamesuccessful package released nintendo one month later
+decemberto coincide release power pad floor
+mat controller nintendo released new power set bundle consistingconsole power pad zapper two controllermulticart containing super mario bros duck hunt world class
+track meet ina sport set bundle released includingconsole satellite infrared wireless multitap adaptor four game
+controller multicart featuring super spike vball nintendo
+world cup
+
+two bundle package released using original model nes
+console challenge set included console two controllersuper mario brosgame pak basic set first released 
+included console two controller packin
+cartridge instead contained book called official
+nintendo player guide contained detailed information every
+ne game made point finally redesigned neswas
+released part final nintendoreleased bundle packagename control deck including new style 
+console two redesigned dogbone game controller releasedoctoberthis final bundle retailed forand remainedproduction discontinuation 
+
+regional differences
+
+although japanese famicom international included
+essentially hardware certain key differences
+two systems
+different case design famicom featured toploading cartridge
+slot apin expansion port located unit front panel
+accessory controller hardwired backconsole red white colour scheme featuredfrontloading cartridge slot often jokingly comparedtoaster subdued gray black red colour schemeexpansion port found bottom unitcartridge connector pinout changed
+
+pin pin cartridge original famicomrereleased family computer utilized pin cartridge
+design resulted smaller cartridge neneswhich utilized pin design four pin usedne lockout chip ten pin added connected cartridge
+directly expansion port bottom unit finally
+two pin allowed cartridge provide sound
+expansion chip removed regrettable decision many early
+game stackup released north america simply
+famicom cartridge attached adaptercartridge converter allow fit inside hardware
+nintendo reduce cost inventory usingcartridge board america japan
+number peripheral device software package released
+famicom device ever released outsidejapan
+famicom disk system fds although includedoriginal system popular floppy disk drive peripheralreleased famicom japan nintendo never
+released famicom disk system outside japan citing
+concern software bootlegging notable game released
+fds include doki doki panic special editionmetroid original super mario bros 
+famicom basic implementation basic famicom
+allowed user program game many
+programmer got first experience programmingconsole way
+famicom modem modem allowed connectionnintendo server provided content joke news
+mainly nintendo game tip weather report japan
+allowed small number program downloaded
+external sound chip famicom two cartridge pinallowed cartridge provide external sound enhancementoriginally intended facilitate famicom disk systems
+external sound chip pin removed cartridge
+port relocated bottom expansion portresult individual cartridge could make usefunctionality many localization suffered inferior
+sound compared equivalent famicom version castlevania
+iii dracula curse notable example problem
+hardwired controller famicoms original design includes
+hardwired nonremovable controller addition second
+controller featured internal microphone use certain
+game controller microphone subsequently
+dropped redesigned famicom favour two
+sevenpin controller port front panel used neinception
+lockout circuitry famicom contained lockout hardwareresult unlicensed cartridge legitimate bootleg
+extremely common throughout japan far eastoriginal toploading nescontained nes
+lockout chip significantly increased challenge facedunlicensed developer tinkerer home later year discovered
+disassembling cutting fourth pinlockout chip process legal expiration nes
+patent would cut power chip removing effectgreatly improving console ability play legal gamewell bootleg converted import european releaseconsole used regional lockout system prevented cartridges
+released region played region consolevice versa
+audiovideo output original famicom featured modulator
+plug audiovideo output original featuredrf modulator rca composite output cable famicom
+featured rca composite output toploading nes
+featured modulator output
+
+game controllers
+
+game controller used famicom featuredbricklike design simple four button layout two round buttons
+labelled start button select button
+additionally controller utilized crossshaped dpad designed
+nintendo employee gunpei yokoi nintendo gamewatch systemreplace bulkier joystick earlier gaming console controllers
+famicom controller simple design though includednumber feature microphone missing nes
+counterparts
+enlarge
+famicom controller simple design though includednumber feature microphone missing nes
+counterparts
+
+original model famicom featured two game controllerhardwired back console second controller lacked
+start select button featured small microphone
+relatively game made use feature earliest produced
+famicom unit initially squared button changed
+circular design square button caughtcontroller casing pressed dropped hardwired
+controller instead featuring two custom pin port frontconsole also contrast famicom controller included
+ne identical otherthe second controller lacked
+microphone present famicom model possessedstart select button primary controller
+although supported select title zapperarguably popular special controller released nes
+enlarge
+although supported select title zapperarguably popular special controller released nes
+
+number special controller designed use specific games
+released system though device proved
+particularly popular device included limitedne zapper light gun power pad illfated rob
+power glove original famicom featured deepened expansion port front unit used connectauxiliary device special controller generally
+connected one two control port front unit
+
+near end ness lifespan upon release famicom
+toploading nesthe design game controllermodified slightly though original button layout retainedredesigned device abandoned brick shell favor dog bone
+shape reminiscent controller super nintendo
+entertainment system addition famicom joinedinternational counterpart dropped hardwired controllerfavour detachable controller port however controllers
+included famicom despite dog bone typecable short three foot long opposed standard
+six foot controllers
+
+recent year original controller become onerecognizable symbol system nintendo mimicked lookcontroller several recent product promotional merchandise
+limited edition version game boy advance game boy
+micro handheld game consoles
+
+hardware design flaws
+
+official cleaning kit intended address flaw nes
+design caused cartridge connector particularly susceptible
+interference dirt dust
+enlarge
+official cleaning kit intended address flaw nes
+design caused cartridge connector particularly susceptible
+interference dirt dust
+
+nintendo released united state design styling
+wa deliberately different game console nintendo
+wanted distinguish product competitoravoid generally poor reputation game console acquired
+following video game crash ofone result philosophy
+wa frontloading zero insertion force zif cartridge socket
+designed resemble frontloading mechanism vcr zif
+connector worked quite well connector cartridges
+clean pin connector new unfortunatelyzif connector truly zero insertion force user inserted
+cartridge force pressing cartridgeplace bent contact pin slightly well pressingcartridge rom board back cartridge repeated
+insertion removal cartridge caused pin wearrelatively quickly zif design proved far proneinterference dirt dust industrystandard card edge
+connector exacerbating problem nintendos choice materials
+slot connector cartridge actually insertedmade cheap alloy highly prone corrosion addon
+peripheral like popular game genie cheat cartridge tendedexacerbate problem bending frontloading mechanism
+gameplay
+
+problem lockout chip frequently resultedsystem infamous problem blinking red power lightsystem appears turn repeatedly lockout
+chip quite finicky requiring precise timing order permitsystem boot dirty aging bent connector would often disrupt
+timing resulting blink effect user attempt solveproblem ranged blowing air onto cartridge connectorslapping side system inserting cartridge manyfrequent attempt fix problem ran risk damaging
+cartridge andor system blowing cartridge connectorcase better removing reinserting cartridge
+tended increase rate oxidation resulting browningprinted circuit board slapping side systeminserting cartridge could potentially damage console 
+nintendo released official cleaning kit help user clean
+malfunctioning cartridge consoles
+
+successful technique used keep contact pin properly
+aligned load game cartridge shallowly possiblene back cartridge would scrape insidene pushed place would often allowgame initialized successfully simply slidingcartridge way
+also possible open system physically bend contacts
+beyond original placement allowing secure contactpin cartridge
+
+release toploading nestoward end ness
+lifespan nintendo resolved problem switching standard
+card edge connector eliminating lockout chipfamicom system used standard card edge connector nintendos
+subsequent game console super nintendo entertainment systemnintendothe company last cartridgebased game console
+
+response hardware flaw nintendo authorized repair
+center sprang across united state according nintendoauthorization program designed ensure machineproperly repaired nintendo would ship necessary replacement parts
+shop enrolled authorization programpractice authorization process consisted nothingpaying fee nintendo privilege
+
+thirdparty licensing
+
+nintendos near monopoly home video game market leftdegree influence industry exceeding even atari
+heyday early many nintendos business
+practice period heavily criticized mayplayed role erosion nintendos market share throughout
+unlike atari never actively courted thirdparty
+developer went far court attempt force
+activision cease production atarigames nintendoanticipated encouraged involvement thirdparty software
+developersbut strictly nintendos term end nes
+authentication chip placed every console every
+officially licensed cartridge console chip could detectcounterpart chip inside cartridge game would loaded
+
+nintendo combined marketing campaign introducingnintendo seal quality commercial featured purplerobed wizard
+instructing consumer nintendo seal quality waassurance game goodand implication game
+without seal quality bad reality seal meant
+developer paid license fee nothingquality game
+
+business side game developer forcedpay license fee nintendo submit nintendos quality
+assurance process buy developer kit nintendo utilize
+nintendo manufacturer cartridge packaging nintendo
+tested manufactured game facility eitherpart fee additional cost reserved rightdictate pricing censored material believed unacceptable
+decided many cartridge game would manufactureplaced limit many title would permit publisher produce
+given time span five per year last restriction led
+several publisher establish utilize subsidiary circumvent
+nintendos policy example including konamis subsidiary ultraacclaim entertainment subsidiary ljn
+
+practice intended keep developer short
+leash also manipulate market innintendo
+started orchestrating intentional game shortage order increase
+consumer demand referred inventory management nintendoamerica public relation executive peter main nintendo would refusefill retailer order retailer many derived large
+percentage profit sale nintendobased hardwaresoftware one point toy u reportedof sale 
+profit nintendo merchandise could little stop
+practice inovermillion cartridge soldunited state estimate suggest realistic demandcloser tomillion nintendo controlled productioncartridge able enforce rule thirdparty
+developer extremely restricted production run would enddamaging several smaller software developer even demandgame high could produce much profit nintendo
+allowed
+
+several company began producing unlicensed game either refusingpay licensing fee manufacturing cartridgerejected nintendo company created
+circuit used voltage spike knock authentication unit
+ne atari game created line product name
+tengen took different tack company obtained description
+lockout chip united state patent trademark office
+falsely claiming required defend present
+infringement claim legal case tengen used documents
+design rabbit chip duplicated function nes
+nintendo sued tengen action tengen lostfraudulent use published patent tengens antitrust claims
+nintendo never finally decided
+
+unlicensed game released europe australia cameform dongle would connected licensed game order
+use licensed game lockout chip authentication
+
+although nintendos success suing company mixed case
+lewis galoob toy inc nintendo america inc foundfavour galoob game genie device instanceeventually forced business production legal fees
+court cost extended lawsuit brought nintendocompany one notable exception colour dream produced
+christian video game subsidiary name wisdom treeoperation never sued nintendo feared public relations
+backlash
+
+following introduction sega mega drive nintendo beganface real competition industry earlyforced reevaluate stance towards developer manybegun defect system console reissuednesthe chip omitted console marking end
+nintendos notorious hold thirdparty developers
+
+company produced unlicensed game accessory western
+market include active enterprise american game cartridge american
+video entertainment camerica colour dream galoob home
+entertainment supplier panesian sei tengen wisdom tree
+
+hardware clones
+
+thriving market unlicensed hardware clone emergedheyday console popularity initially clone popular
+market nintendo never issued legitimate versionsystem particular dendy russianan unlicensed
+hardware clone produced russia nation former
+soviet union emerged popular video game consoletime setting enjoyed degree fame roughly equivalent
+experienced nesfamicom north america japan
+
+unlicensed clone market persisted even flourished
+following nintendos discontinuation ne fadememory many system adopted case design mimicrecent game console clone resembling sega genesis super
+nintendo entertainment system even current system likenintendo gamecube sony playstationand microsoft xboxproduced exotic system gone
+beyond functionality original hardware included
+variation portable system colour lcd pocket
+famicom others produced certain specialized marketmind including various educational computer package include
+copy ness educational title come completeclone famicom basic keyboard transforming systemrather primitive personal computer
+
+wa case unlicensed software title nintendo typically
+gone court prohibit manufacture sale unlicensed
+cloned hardware many clone vendor included builtin
+copy licensed nintendo software constitutes copyright
+infringement country recently asnintendoamerica filed suit manufacturer power player super
+joy iii clone system sold north america
+europe australia
+
+although hardware clone produced licensenintendo one exception twin famicom produced sharp
+corporation twin famicom compatible famicom
+cartridge famicom disk system disk available two
+color red black used similar hardwired controlleroriginal famicom featured different case design
+
+technical specifications
+
+dimensions
+north america
+toaster versionwidth xlength xheight
+note open door cartridge slot
+go anotherhigh
+toploader versionwidth xlength xheight
+cartridgelength xwidth
+japan
+cartridgelength xwidth
+cpu ricoh bit processor based technologycore
+custom sound hardware restricted dma controller ondie
+region differences
+ntsc version named rpa run atmhz cpu
+wa also used playchoice nintendo series
+pal version named rpa run atmhz
+main ramkib plus expanded ram present cartridge
+rom tobytes shy ofkib rom expanded
+ram cartridge bank switching expandorder magnitude
+audio five sound channels
+opulsewave channel variable duty cycle
+level volume control hardware pitchbend
+support supporting frequency fromhz tokhz
+otrianglewave channel fixed volume supporting
+frequency fromhz tokhz
+owhitenoise channel level volume control
+supporting two mode adjusting input linear
+feedback shift register atpreprogrammed frequencies
+odelta pulsecode modulation dpcm channel withbits
+range using bit delta encoding atpreprogrammed
+sample rate fromkhz tokhz also capableplaying standard pcm sound writing individual bit
+value timed intervals
+
+picture processing unit ppu ricoh custommade video processor
+regional differences
+ntsc version named rpc run atmhz outputs
+composite video
+pal version named rpc run atmhz outputs
+composite video
+playchoice version named rpc run atmhzoutput rgb video ntsc frequencies
+nintendo series version named rpc rpc
+run atmhz output rgb video ntsc
+frequency using irregular palette prevent easy rom
+swapping games
+palettecolors andgrays base palette red green
+blue individually darkened specific screen
+region using carefully timed code
+onscreen colorscolors one scanline background color 
+set oftile colorssets ofsprite colorincluding colour deemphasis
+hardwaresupported sprites
+maximum onscreen spriteswithout reloading sprites
+midscreen
+sprite sizesorpixels selected globallysprites
+maximum number sprite one scanlineusingflag indicate additional sprite droppedallow software rotate sprite priority causing
+flicker
+ppu internal memorybytes ondie sprite
+positionattribute ram oam andbytes ondie palette
+ram allowing selection background sprite colors
+separate bus internal ppu
+ppu external memory video ramkib ram tile maps
+attribute board andkib tile pattern rom
+ram cartridge bankswitching virtuallyamount used within manufacture cost
+scrolling layerslayer though horizontal scrollingchanged perscanline basis vertical scrolling via
+advanced programming methods
+display resolutionpixels though ntsc game usually
+used onlyas top bottomscanlinesvisible television set see overscan additional
+video memory bandwidth possible turn screen
+raster reached bottom
+video output
+original rca composite output modulator
+output
+original famicom japan nesrf modulator output
+av famicom composite video output via nintendo
+proprietary pin multi connector first introduced
+super famicomsnes
+playchoiceinverted rgb video output
+
+sprite limitations
+
+ne several limitation biggest number sprites
+moving object could onscreen time games
+frame rate would begin drop sprite flickering would occur
+
+poorly programmed game usually unlicensed game couldsingle sprite screen flickering even slowdown would
+occur one game actionwhich worst
+performance due lack quality programmingtesting resulted massive flicker constant frame rate drops
+lockups
+
+game programmed tested best possible usuallysmooth framerate little flicker major glitch proam released inwas one games
+retrieved 
+httpenwikipediaorgwikinintendoentertainmentsystem
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

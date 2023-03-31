@@ -1,0 +1,344 @@
+copyright
+
+chess
+
+ school wikipedia selection related subject games
+
+chess
+left white king black rook queen white pawn black
+knight white bishop set staunton chess pieces
+player 
+setup time one minute
+playing timeminutes tournament game last tohours
+rule complexity medium
+strategy depth high
+random chance none
+skill required tactic strategy
+game correspondence may last many month blitz chess
+game even shorter thanminutes
+
+chess abstract strategy board game mental sport two
+player object game checkmate opponent king
+occurs king immediate attack checkway remove attack next move
+
+chess one world popular board game playedrecreationally competitively club tournament onlinemail emailcorrespondence chess
+
+many variant relative chess played throughout world
+popular xiangqi china shogi japannational chess variant include janggi korea makruk thailand
+game described article sometimes known western chess
+international chess distinguish variants
+
+gameplay
+
+overview
+
+
+imagechesszhorpng
+imagechesszverpng
+b e g b e g b e g b e g b e g b e g b e g b e g imagechesszverpng
+imagechesszhorpng
+position piece start game chess
+typical stauntondesign chess set clock
+enlarge
+typical stauntondesign chess set clock
+nameletterpicture
+pawnppawn pawn
+knight nknight knight
+bishop bbishop bishop
+rookrrook rook
+queenqqueen queen
+kingkking king
+
+chess played square board eight row called rankeight column called file square color sixtyfour
+square alternate light dark referred light
+square dark squares
+
+player begin game sixteen piece movedefined direction instance limited rangeremove capture piece board player pieces
+comprise eight pawn two knight two bishop two rook one queen
+one king one player control white piece player
+control black piece player control white alwaysfirst player move player alternate moving one piece time
+one important exception either unoccupied square one
+occupied opponent piece capturing one exceptionen
+passant piece capture opponent piece moving square
+opponent piece occupies
+
+king direct attack one possibly twoopponent piece player said check check
+move remove king attack permitted object
+game checkmate opponent occursopponent king check move removeking attack normally checkmate require cooperationseveral piece also achieved one kingblocked piece back rank checkmate playerdeems checkmate inevitable may concede game resignplayer drawn result tie also possible
+
+chess described game also artscience sport sometimes seen abstract war gamemental martial art teaching chess advocated way
+enhancing mental prowess
+
+rules
+
+game begin one player control sixteen white pieceus sixteen black piece color chosen either
+friendly agreement game chance pickahandtournament director first player referred white always
+move first therefore slight advantage second
+player referred black chessboard placedplayer white square near right hand corner pieces
+set shown diagram queen squarematch colour
+
+kind chess piece move different way
+rook move number vacant space verticallyhorizontally
+bishop move number vacant space direction
+diagonally
+queen combination rook bishopit movenumber space diagonally horizontally vertically
+knight jump occupied square move two spaces
+horizontally one space vertically vice versa making shape knight middle board eight squaremove note every time knight move changes
+square colour
+king move one square horizontally verticallydiagonally except player castle player make
+move would place king check
+pawn difficult movement
+
+pawn move forward one square squareunoccupied moved yet pawn option
+moving two square forward square frontpawn unoccupied pawn cannot move backward
+initial two square advance made putpawn horizontally adjacent opponent pawnopponent pawn capture pawnen passantmoved forward one square rather twoimmediately subsequent move
+pawn piece capture differentlymove capture enemy piece either two
+space adjacent space front two
+square diagonally front cannot movespace vacant
+pawn advance way eighth rankpromoted converted queen rook bishop knightcolour practice pawn almost always
+promoted queen
+
+exception knight piece cannot jumpone piece friendly piece cannot passedline movement friendly piece never replace another
+friendly piece enemy piece cannot passedcaptured piece captured taken attacking piece
+replaces enemy piece squareen passantexception king cannot captured put check player
+unable get king check checkmate resultloss game
+
+chess game end checkmateeither player may resign
+situation look hopeless game also may end draw tiedraw occur several situation including draw agreement
+stalemate threefold repetition position fifty move ruledraw impossibility checkmate usually insufficient
+material checkmate chess game position recorded usingchess notation mostly algebraic chess notation international
+rule chess described detail fide handbook
+section law chess
+
+strategy tactics
+
+chess opening sequence move often memorizedhelp player build position prepare middlegame
+opening often designed take hold centre board
+e develop piece protect king createstrong pawn structure classical school chess expoundsvirtue occupying centre early using pawn andor piecehypermodernism advocate control centre using pawns
+distant piece often important player castle
+special move move king centre board two
+square towards one corner protect king studying
+opening greatly improve one result importantunderstand underlying reason sequence moveopening greatly reduce need rely rote memorization
+opening phase game utmost importanceopening maintaining balance equality
+
+imagechesszhorpng
+imagechesszverpng
+b e g b e g b e g b e g b e g b e g b e g b e g imagechesszverpng
+imagechesszhorpng
+black knight pinned king white bishopwhite knight pinned queen black rook note
+knight still free legally move knight
+e cannot legally move
+
+taking trading piece chess piece point value become
+important valuation differ slightly book book generally
+taking pawn worth one point knight bishop worth three
+point rook worth five point queen worth nine
+point since king loss end game invaluableking never traded however endgamepiece left board little danger checkmatefighting value king equivalent four pointactual value importance piece vary based uponposition stage game player performs sacrifice
+eg exchange sacrifice choosing ignore standard
+valuation piece positional tactical gain beginning
+player aware point inherent partgame scoring chess played long ideaassigning point piece instead point used playerconsider whether come materially better opponent
+exchange piece instance lose two pawn two points
+taking opponent knight three point put one aheadmaterial one point advantageous exchange piece may
+however poor tactic leaf opponent exploitable
+advantage way piece positioned board
+
+chess combination trap appear thin air usually
+present opponent certain weaknessposition type weakness include pinned piece overloaded
+piece weakness around opponent king weak squares
+unprotected piece weak colour complex piece able come back
+defend king etc weakness exploitedchess combination often built number tactical
+method weakness often created opponent position
+first place threat provocative move generally strong
+positional play etc chess combination often include numbertype tactic many middlegame book classify provide
+example common tactical method include pin fork skewers
+discovered attack especially check zwischenzugs deflections
+decoy sacrifice forcing move undermining overloading
+interference even quiet moves
+two king two queen lewis chessman british museum
+enlarge
+two king two queen lewis chessman british museum
+
+fork situation piece moved two opposing
+piece attacked forked simultaneously usually difficult
+player protect piece one move pins
+used prevent movement enemy piece threateningpiece behind move skewer kind reverse pin
+valuable piece placed front important
+one discovered attack revealed threat movementone piece reveals formerly blocked line attack another piece
+colour clarification noted pin
+tacticthe act pinning opponent piece pinned
+piece specific type weakness opponent positionidentified exploited tactical combination
+
+common positional element high level chess players
+routinely must ass include pawn structure king safety spacecontrol key square group square diagonals
+openfiles dark light square etc additionfactor two bishop compensate others
+weakness middlegame book recommend assessmentelement position taken place recommendedtry form plan create advantage planformulated recommended try ensure planfeasible process checking concrete variations
+
+great chess writer aron nimzowitsch outlined classic worksystem number middlegame positional principle rookseventh rank undermining pawn chain restrain blockade
+destroy work influenced generation modern chess
+player think middlegame
+
+endgame pawn king become relatively powerful
+piece side often try promote pawn one player
+ha large material advantage checkmate may happen quicklyendgame game relatively even endgame tablebases endgame
+study essential controlling tempo time used move
+becomes especially important fewer piece left board
+case player material advantageenough material force checkmate case gameconsidered draw insufficient material
+
+alternative way play
+
+chess people age young old
+enlarge
+chess people age young old
+
+blitz chess version chess chess clock used limit
+time control player generally side threefifteen minute five common move even faster
+version chess known bullet chess lightning chess bullet
+chess time control three minute speed chess requires
+player spend time thinking player time
+run loses playing faster time computer become
+relatively powerful humans
+
+player use computer enhance strength called
+advanced chess
+
+chess also played blindfold case play conducted
+without player sight position piecephysical contact move communicated via chess notation
+strong chess player able play multiple blindfold
+game simultaneously
+
+two player separated great distance still play
+chess correspondence chess chess played mail emailspecial correspondence chess servers
+
+today chess often played internet telnetbased
+host icc fics tcpip based serverplaychess wcn
+
+variants
+
+one many chess variant glinskis hexagonal chess
+enlarge
+one many chess variant glinskis hexagonal chess
+
+chess variant form chess game playeddifferent board special fairy piece different rule numberpossible chess variant unlimited pritchard authorencyclopedia chess variant estimate two
+thousand chess variantsconfining number published ones
+
+many chess grandmaster played chess variant even invented
+new one jos ral capablanca feared draw death chesssuggested making board larger adding new piececombination rook knight also combination bishopknight played number test game finally setlled chess variant capablanca chess 
+
+bobby fischer objected considered overemphasismemorized chess opening normal chess russian fixing
+match thus devised formalisation variant shuffle chess
+response chess variant originally named fischer
+random chess typically called chess initial position
+selected randomly game random positioning makealmost impossible prepare opening play advance
+
+history
+
+origins
+
+persian youth playing chess two suitor form chessplayed persia early century
+enlarge
+persian youth playing chess two suitor form chessplayed persia early century
+
+many country claim invented chess incipient formcommonly held view chess originated indiasincearabic persian greek portuguese spanish word chessderived sanskrit game chaturanga addition past
+india three animal horse camel elephantcavalry represent knight bishop rook chess present
+version chess played throughout world ultimately derivesversion chaturanga played india around century
+believed persian subsequently createdrecognizable version game called shatranj
+
+another theory exists chess arose similar game xiangqi
+chinese chess least predecessor thereof existing china
+since century scholar favored theory include
+joseph needham david li
+
+chess eventually spread westward europe eastward farjapan spawning variant went game spread throughoutmuslim world islamic conquest persia enteredmuslim world name piece largely retained persian
+form name became shatranj continued spanishajedrez greek zatrikion europereplaced version persian word shhkingtheory name replacement happened gamechess came europe merchant coming europe brought ornamental
+chess king curiosity name shheuropean mispronounced various ways
+
+chess eventually reached russia via mongolia playedbeginning century introduced iberian
+peninsula moor century described famous
+th century manuscript covering chess backgammon dice namedlibro los juegos entrance chess europe markedchange rule including change move bishops
+pawn queen modern form emerging since century
+
+development modern rule pieces
+
+outdoor chess budapest 
+enlarge
+outdoor chess budapest 
+
+early piece european chess limited movement bishops
+could move jumping exactly two space diagonally similarelephant xiangqi queen could move one space
+diagonally pawn could move two space first movewa castling
+
+end century modern rule basic moves
+adopted italy pawn gained option moving two
+square first move passant capture therewith
+bishop acquired modern move queen madepowerful piece consequently modern chess referred queens
+chess mad queen chess game europe since timealmost played today current rulefinalized early century except exact conditions
+draw
+
+popular piece design staunton set creatednathaniel cook inendorsed howard staunton leading player
+time manufactured originally jaques londonstyle officially adopted fdration internationale checs
+fide 
+
+organization
+
+chess congress
+enlarge
+chess congress
+
+chess organized sport structured international national
+league tournament congress chess international governing
+body fide fdration internationale checs presided
+world championship match decade countryworld national chess organization well turnmember fide
+
+fide member international olympic committee iocgame chess ever part olympic summer winter
+game chess doe olympiad held every two year team
+event
+
+correspondence chess tournament usually played auspices
+international correspondence chess federation iccf iccf
+award title international master senior international mastergrandmasterthese equivalent similar title awarded fide
+overtheboard chess
+
+order rank player fide iccf use elo rating system
+developed arpad elo
+
+competitions
+
+ultimate chess competition world chess
+championship current world chess champion vladimir kramnikmatch veselin topalov inin woman chessreigning woman world champion yuhua china howeverworld highest rated female player judit polgar never participated
+woman world chess championship instead preferring compete
+leading men competition individual includeworld junior chess championship european individual championship
+national chess championship country around world
+
+regular team chess event include chess olympiad european team
+championship chess olympiad inwas held turin italy
+armenia gold men event ukraine took top medal
+women
+
+international correspondence chess federation run world
+correspondence chess championship unrestricted womanworld chess solving championship team individual
+event
+
+besides top chess competition thousandchess tournament match festival held around world every
+year popular would include spain linares event monte
+carlos melody amber tournament dortmund sparkassen meetingwijk aan zee corus tournament
+
+chess computers
+
+idea creating chess playing machine date backeighteenth century aroundthe chess playing automaton calledturk became famous exposed hoax serious trial based
+automaton ajedrecista complex limiteduseful
+
+since advent digital computer chess
+enthusiast computer engineer built increasing degrees
+seriousness success chessplaying machine computer
+program first considered curiosity best chess playing
+programslike rybka hydra etchave become extremely strong
+player blitz chess beat best human playerregular time control battle best chess programbest human player balanced
+
+garry kasparov ranked number one world played sixgame
+match ibms chess computer deep blue februarydeep
+blue first game kasparov convincingly matchwinning three game drawing two sixgame rematch may 
+wa machine informally dubbed deeper bluesubsequently retired ibm
+
+computer important today chess also second huge
+database past game high analytical ability also
+allow play internet site like free internet chess serverkurnik becomes increasingly popular

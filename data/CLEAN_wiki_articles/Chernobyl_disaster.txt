@@ -1,0 +1,498 @@
+copyright
+
+chernobyl disaster
+
+ school wikipedia selection related subject recent history
+
+child still caring chernobyl victim belarusinformation see child belarus
+
+coordinate e
+
+chernobyl disaster accident chernobyl nuclear power
+plant aprilatam consisting explosionplant subsequent radioactive contamination surrounding
+geographic area power plant located e
+near pripyat ukraine time part soviet unionregarded worst accident ever history nuclear powerplume radioactive fallout drifted part western soviet
+union eastern western europe scandinavia irelandeastern north america large area ukraine belarus russiabadly contaminated resulting evacuation resettlementoverpeople aboutof radioactive fallout landedbelarus according official postsoviet data
+
+accident raised concern safety soviet nuclear
+power industry slowing expansion number yearforcing soviet government become secretivenowindependent country russia ukraine belarusburdened continuing substantial decontamination health
+care cost chernobyl accident difficult tally
+accurately number death caused event chernobylsovietera coverup made difficult track victim lists
+incomplete soviet authority later forbade doctor cite
+radiation death certificate expected longterm
+fatality especially cancer yet actually
+occurred difficult even impossible attribute
+specifically accident peter boyle directorinternational agency research cancer put discussionfigure perspective tobacco smoking cause several thousand
+time cancer european population estimatefigure vary widely thereport prepared chernobyl forum
+led international atomic energy agency iaea world health
+organization attributeddirect deathsaccident workers
+nine child thyroid cancer estimated manypeople among approximatelymillion highly exposed
+may die form cancer one induced disease nearly
+year disaster according chernobyl forumevidence increase solid cancer possiblysignificantly none widely expected increase leukemiafound population
+
+plant
+
+chernobyl stationvi lenin
+memorial chernobyl nuclear power stationn elocated near town prypiat ukrainekm northwest city
+chernobylkm border ukraine belaruskm north kiev station consisted four reactor type
+rbmk capable producinggw electric powergwthermal power four together produced aboutof ukraines
+electricity time accident construction plant
+began reactor nocommissioned infollowed
+nonoand notwo reactorandcapable producinggw constructiontime accident
+
+accident
+
+saturday aprilatam reactorsufferedcatastrophic steam explosion resulted fire seriesadditional explosion nuclear meltdown accidentthought extreme version accident corereactor destroyed killing three men spreading radioactivity
+inside building wa
+causes
+
+two conflicting official theory causeaccident first published augustand effectively placed
+blame solely power plant operator second theory
+proposed valeri legasov published inattributedaccident flaw rbmk reactor design specifically control
+rod commission heavily lobbied different groups
+including reactor designer power plant personnelsoviet ukrainian governments
+
+another important factor contributing accident waoperator informed problem reactor according
+one anatoliy dyatlov designer knew reactor
+wa dangerous condition intentionally concealedinformation contributing plant managementlargely composed nonrbmkqualified personnel director bryukhanov experience training coalfired power plant
+chief engineer nikolai fomin also came conventional power
+plant dyatlov deputy chief engineer reactorsandhadexperience small nuclear reactor namely smaller versions
+vver nuclear reactor designed soviet navys
+nuclear submarines
+
+particular
+reactor dangerously large positive void coefficientvoid coefficient measurement reactor respondsincreased steam formation water coolant reactor
+design produce energy get hottercoolant contains steam bubble fewer neutron slowedfaster neutron likely split uranium atomreactor produce power chernobyl rbmk reactor however
+used solid graphite slow neutronneutronabsorbing lightwater cool core thus neutronslowed even steam bubble form water furthermore
+steam absorbs neutron much readily water
+increasing rbmk reactor temperature mean neutrons
+able split uranium atom increasing reactor power
+output make rbmk design unstable low power
+level prone suddenly produce lot energytemperature rise counterintuitive unknowncrew
+
+significant flaw design control rodinserted reactor slow reactionrbmk reactor design control rod end tip made graphite
+extenders end area control rod end
+tip measuringm length hollow filled water
+rest rodthe truly functional part absorbs
+neutron thereby halt reactionwas made boron
+carbide design rod initially inserted
+reactor graphite end displace coolantgreatly increase rate fission reaction since graphite
+potent neutron moderator material enablesnuclear reaction also absorbs much fewer neutronboiling light water thus first second control rod
+activation reactor power output increase rather reducing
+desired behaviour counterintuitive known
+reactor operators
+
+water channel run core vertically meaningwater temperature increase move thus createstemperature gradient core effect exacerbatedtop portion turn completely steam since topmost partcore longer properly moderated reactivity
+greatly increase contrast candu reactor water channels
+run core horizontally water flowing opposite
+direction among adjacent channel hence core mucheven temperature distribution
+
+operator careless violated plant procedure partly
+due lack knowledge reactor design lackexperience training several procedural irregularity also
+contributed cause accident one insufficient
+communication safety officer operatorcharge experiment run night operators
+switched many safety system generally
+prohibited plant published technical guidelines
+
+reduce cost large size reactorconstructed partial containment allowedradioactive contaminant escape atmospheresteam explosion burst primary pressure vessel
+
+iaeasanalysis attributed main cause accidentoperator action januarythe iaea issued revised
+analysis attributing main cause reactor design
+
+test plan
+
+daytime aprilreactorwas scheduledshut maintenance decided use occasionopportunity test ability reactor turbine generator
+generate sufficient electricity power reactor safety
+system particular water pump event lossexternal electric power type reactor requires watercontinuously circulated core long nuclear fuel
+present chernobyl reactor pair diesel generators
+available standby activate instantaneouslythe
+reactor therefore used spin turbinepoint turbine would disconnected reactor allowedspin rotational momentum aim test wadetermine whether turbine rundown phase could powerpump generator starting test successfully
+carried previously another unit safety provisions
+active negative resultsthe turbine generate
+sufficient power additional improvement madeturbine prompted need another test
+
+prior accident
+
+condition run test prepared daytimeapriland reactor electricity output gradually reduced
+toa regional power station unexpectedly went offline kiev
+grid controller demanded postpone reduction outputelectricity needed satisfy evening peak demand plant
+director agreed postponed test comply illadvised
+safety test left run night shift plantskeleton crew would working reactorthat night early
+part next morning
+
+pm aprilthe grid controller allowed reactor shutdown
+continue power output reactorwas reducednominalgw thermal togw thermal order conducttest safer lower level power however due delaystarting experiment reactor operator reduced power level
+rapidly actual power output fell tomw thermal
+according operator rapid fall output duemalfunctioning one automatic power regulator resultoutput decline concentration nuclear poison product
+xenon increased xenon production rate xenon loss rate ratio
+go initially higher reactor power though scalepower drop close maximum allowed safety regulations
+crew management chose shut reactorcontinue experiment decided shortcutexperiment raise power output onlymw order overcome
+neutron absorption excess xenon control rodpulled reactor somewhat normally allowedsafety regulation part experiment atam april 
+water pump driven turbine generatorturned water flow generated action exceededspecified safety regulation water flow increased atam
+since water also absorbs neutron increase water
+flow necessitated removal manual control rod producingunstable dangerous operating condition
+
+fatal experiment
+
+atthe experiment began unstable state reactorreflected way control panel doe appear
+anyone reactor crew fully aware danger
+electricity water pump shut momentumturbine generator drove water flow rate decreasedturbine disconnected reactor increasing levelsteam reactor core coolant heated pocket steam
+formed void coolant line due rbmk reactortypes large
+positive void coefficient power reactor increased rapidly
+reactor operation became progressively stabledangerous atthe operator pressed rapid emergency
+defensebutton ordered ascrama shutdown reactor
+fully inserting control rod including manual control rods
+incautiously withdrawn earlier unclear whetherwa done emergency measure simply routine methodshutting reactor upon completion experimentreactor scheduled shut routine maintenanceusually suggested scram ordered responseunexpected rapid power increase hand anatoly dyatlov
+chief engineer nuclear station time accident
+writes book
+
+prior tosystems centralized controldidnt
+register parameter change could justify scram
+commissiongathered analyzed large amount materialstated report failed determine reasonscram ordered need look reasonreactor simply shut upon completionexperiment
+
+due slow speed control rod insertion mechanism 
+second complete hollow tip rod temporary
+displacement coolant scram caused reaction rateincrease increased energy output caused deformation control rod
+channel rod became stuck inserted onethirdway therefore unable stop reaction bythe
+reactor jumped aroundgw ten time normal operational
+output fuel rod began melt steam pressure rapidly
+increased causing large steam explosion generated steam traveled
+vertically along rod channel reactor displacingdestroying reactor lid rupturing coolant tubeblowing hole roof part roof blew inrush
+oxygen combined extremely high temperature reactor
+fuel graphite moderator sparked graphite fire fire greatly
+contributed spread radioactive material contamination
+outlying areas
+
+effect disaster
+
+longterm health effects
+
+map showing caesium contamination belarus russia ukraine
+curie per square kilometercurie isgigabecquerels
+enlarge
+map showing caesium contamination belarus russia ukraine
+curie per square kilometercurie isgigabecquerels
+
+right accident main health concern involved radioactive
+iodine halflife eight day today concerncontamination soil strontium caesiumhalflives aboutyears highest level caesiumfound surface layer soil absorbedplant insect mushroom entering local food supply however
+inhedgehogs area insectivorous specie seemabsorbed little radioactive material whilst rodentstrongly radiatingmillisieverts per day although seem suffer
+ill effects
+
+person contaminated area exposed large thyroid
+dos tograys intake radioactive
+iodine relatively shortlived isotope halflife eight
+day concentrate thyroid gland wouldabsorbed contaminated milk produced locally particularlychild several study found incidence thyroid
+cancer belarus ukraine russia risen sharply howeverbarely handful death scientist think
+increase caused greatly increased monitoring
+
+far increase leukemia general populationdiscernible
+
+scientist fear radioactivity affect local
+population next several generation however little
+evidence far
+soviet authority started evacuating people area aroundchernobyl reactorhours accident mayaboutmonth later living within kilometremile radiusplantaboutpeoplehad relocated region often
+referred zone alienation however radiation affectedarea much wider scale thiskm radius
+monument victim chernobyl disaster luhansk ukraine
+enlarge
+monument victim chernobyl disaster luhansk ukraine
+
+issue longterm effect chernobyl disaster civiliancontroversial overpeople resettledaccident million lived continue live contaminated area
+hand affected received relatively low doses
+radiation little evidence increased mortalitycancers
+birth defect among themand evidence present
+existence causal link radioactive contamination uncertain
+
+aside obstacle posed soviet policycatastrophe scientific study may still limited lackdemocratic transparency belarus yuri bandazhevsky scientistquestioned official estimate chernobyl consequencerelevance official maximum limit ofbqkg allegedly
+victim political repression imprisoned fromto
+bribery conviction hispublication reports
+critical official research conducted chernobyl
+incident
+
+farming
+
+cows
+
+ji hlas text book radioactivity ionizing radiation nuclear
+energy isbnexplains cattle pas minoritystrontium cesium plutonium americium ingest humans
+consume milk meat instance milk cow hadaily intake ofbq following isotope milkfollowing activity meat milk cow identified
+radioactive biproduct extremely high amountradiation contained
+srbqcsbqpubqambq
+soil
+
+ji hlas text book state soil vary greatly ability
+bind radioisotope clay particle humic acid alterdistribution isotope soil water soildistribution coefficient ratio soil radioactivity
+bq soil water ml radioactivitytightly bonded mineral soil radioactivity
+absorbed crop grass growing soil
+c pu kdto 
+sr kdto 
+kdto 
+
+food restrictions
+
+abandoned village near prypiat close chernobyl
+enlarge
+abandoned village near prypiat close chernobyl
+
+aprilseveral european country excluding franceenforced food restriction notably mushroom milk twenty
+year catastrophe restriction order remain placeproduction transportation consumption food contaminatedchernobyl fallout particular caesium order prevententering human food chain part sweden finland
+restriction place stock animal including reindeernatural nearnatural environment certain region germany
+austria italy sweden finland lithuania poland wild game
+including boar deer wild mushroom berry carnivore fish
+lake reach level several thousand per caesium
+germany caesium level wild boar muscle reached
+bqkg average level isbqkg ten timeeu limit ofbqkg according torchreporteuropean commission stated restriction certain
+foodstuff certain member state must therefore continuemaintained many year come
+
+united kingdom power thefood environment
+protection act fepa emergency order used sinceto
+impose restriction movement sale sheep exceedinglimit ofbqkg safety limit introduced 
+based advice european commission articlegroupexpert however area covered restriction decreased
+bysincewhile covered first almostfarmsmillion sheep ofit coversfarms coveringkmsheep limited area cumbria south western scotland
+northern wale still covered restrictions
+
+norway sami people affected contaminated foodreindeer contaminated eating lichen extract
+radioactive particle atmosphere along nutrients
+
+fauna vegetation
+
+disaster four square kilometre pine forestimmediate vicinity reactor went ginger brown died earning
+name red forest according bbc animalworsthit area also died stopped reproducing mouse embryo simply
+dissolved horse left islandkm power plant
+died thyroid gland disintegrated cattle island
+stunted due thyroid damage next generation found
+surprisingly normal
+
+year since disaster exclusion zone abandoned humans
+ha become wildlife nature reserve declared
+belarus proposed ukraine area many specie wild
+animal bird never seen area priordisaster plentiful due absence human area
+
+chernobyl disaster
+
+completed crumbling sarcophagus surrounding chernobyl reactor
+viewed northwest
+enlarge
+completed crumbling sarcophagus surrounding chernobyl reactor
+viewed northwest
+
+following accident question arose future planteventual fate work unfinished reactorsandwere
+immediately halted however trouble chernobyl plantend disaster reactorthe damaged reactor sealedandmetres concrete placed disaster siteoperational building ukrainian government continued letthree remaining reactor operate energy shortagecountry fire broke reactorinthe authorities
+subsequently declared reactor damaged beyond repairtaken offline reactorwas decommissioned novemberas partdeal ukrainian government international organizations
+iaea end operation plant december thenpresident leonid kuchma personally turned reactorin
+official ceremony effectively shutting entire planttransformed chernobyl plant energy producer energy
+consumer
+
+need future repairs
+
+sarcophagus effective permanent enclosuredestroyed reactor hasty construction many case conducted
+remotely industrial robot aging badly collapses
+another cloud radioactive dust could released sarcophagusbadly damaged small earthquake severe wind could causeroof collapse number plan discussed buildingpermanent enclosure
+radioactivity level different isotope fcmback calculated russian worker april 
+enlarge
+radioactivity level different isotope fcmback calculated russian worker april 
+
+according official estimate aboutof fuel 
+tonne reactor time accident remains insideshelter total radioactivity nearlymillion curie 
+pbq radioactive material consists core fragment dustlavalike fuelcontaining material fcm flowedwrecked reactor building hardening ceramic form
+
+unclear long ceramic form retard releaseradioactivity conservative estimate least four tons
+radioactive dust inside shelter however recent estimates
+strongly questioned previously held assumption regardingquantity fuel remaining reactor estimate placetotal quantity fuel reactor aboutof original
+fuel load however iaea maintains thanof fuellost due explosion moreover liquidator estimateonlyof original fuel load remains inside sarcophagus
+
+water continues leak shelter spreading radioactive
+material throughout wrecked reactor building potentiallysurrounding groundwater basement reactor buildingslowly filling water contaminated nuclear fuelconsidered highlevel radioactive waste though repair undertaken
+fix gaping hole formed roofmean watertight continue deteriorate
+
+sarcophagus airtight heat much readilycool contributing rising humidity level insideshelter high humidity inside shelter continues erodeconcrete steel sarcophagus
+
+dust becoming increasing problem within shelter
+radioactive particle varying size similar consistencyash make large portion debris inside shelter
+convection current compounded increasing intrusion outside
+airflow increasingly stirring suspending particleair inside shelter installation air filtration systems
+inhas reduced problem eliminated
+sign criticality observed junejuly 
+inside roomto avoid nuclear fission reaction
+neutron poison added room
+
+consequence collapse
+
+present shelter constructed atop ruin reactor
+building two mammoth beam support roof shelter
+resting upon structurally unsound west wall reactor
+building damaged accident wall reactor
+building subsequently roof shelter collapse
+large amount radioactive dust particle would released
+directly atmosphere resulting large new releaseradiation environment
+
+threat shelter concrete slab formedupper biological shield ubs rested atop reactor prioraccident concrete slab thrown upwards explosionreactor core rest approximatelyfrom verticalposition upper bioshield considered inherently unsafedebris supporting nearly upright positioncollapse bioshield would exacerbate dust conditions
+shelter would probably spread quantity radioactive
+material shelter could damage shelter
+sarcophagus never designed last theyears neededcontain radioactivity found within remains reactorwhile
+present design new shelter anticipate lifetime 
+year time minuscule compared lifetimeradioactive material within reactor constructionmaintenance permanent sarcophagus completely containremains reactorwill present continuing task engineermany generation come
+
+grass forest fires
+
+known fire make radioactivity mobile
+ha reported yoschenko al journalenvironmental radioactivitythat grass forest
+fire make caesium strontium plutonium become mobileair experiment fire set levelradioactivity air wind fire measured
+rate delivery radioactivity made mobilegrass fire distance unit meters
+enlarge
+rate delivery radioactivity made mobilegrass fire distance unit meters
+
+chernobyl fund shelter implementation plan
+
+conceptual rendering new safe confinement replace aging
+sarcophagus
+enlarge
+conceptual rendering new safe confinement replace aging
+sarcophagus
+
+chernobyl shelter fund established inat denver summit fund shelter implementation fund shelter
+implementation plan sip call transforming siteecologically safe condition stabilization sarcophagus
+followed construction new safe confinement nsc original
+cost estimate sip u million sip managed
+consortium bechtel battelle electricit franceconceptual design nsc consists movable arch constructed
+away shelter avoid high radiation slidsarcophagus nsc largest movable structure ever built
+expected completed early 
+
+dimensions
+spanm
+heightm
+lengthm
+
+controversy fatality estimates
+
+majority premature death caused chernobyl expectedresult cancer disease induced radiationdecade event result large population
+study considered entire population europe exposed
+relatively low dos radiation increasing risk cancer
+across population impossible attribute specific
+death chernobyl many estimate indicate rateexcess death small statistically undetectable
+even ultimate number extra premature death large
+furthermore interpretation current health state exposed
+population subject vary therefore estimate ultimate human
+impact disaster relied numerical model effects
+radiation health furthermore effect lowlevel radiation
+human health well understood model used
+notably linear threshold model open question
+
+given factor several different study chernobyl health
+effect come substantially different conclusionsubject considerable scientific political controversyfollowing section present major study topic
+
+chernobyl forum report
+
+septembera draft summary report chernobyl forum
+comprising number agency including international atomic
+energy agency iaea world health organization united
+nation development programme undp bodygovernment belarus russian federation ukraine puttotal predicted number death due accident atthis
+death toll predicted included theworkers diedacute radiation syndrome direct result radiationdisaster nine child died thyroid cancerestimatedexcess cancer death expected among thewithhighest level exposure full version health effects
+report adopted published aprilincludedprediction ofadditional fatality significantly
+contaminated area belarus russia ukraine predictedtotalwill die cancer among themillion mostexposed
+soviet citizen report free controversy haaccused trying minimize consequence accident
+
+torch report
+
+ingerman green mep member european parliament rebecca
+harm commissioned two scientist alternate report torch
+report chernobyl response reportreport included area covered chernobyl forum reportalso lower radiation dos predicted abouttoexcess
+cancer death warned prediction excess cancer deaths
+strongly depend risk factor used urged research
+stating large uncertainty made difficult properly asses
+full scale disaster
+
+greenpeace
+
+greenpeace claimed contradiction chernobyl forum reports
+quoting awho study referenced thereport projected
+dead fromliquidators report greenpeace suggested
+becases cancer attributable chernobyl
+fallout thatof probably fatal statereport recently published figure indicatebelarus russia ukraine alone accident could resultedestimatedadditional death period betweenand
+blake leeharwood campaign director greenpeace believes
+cancer likely cause half final
+fatality intestinal problem heart circulation
+problem respiratory problem endocrine problem particularly
+effect immune system also cause fatality however
+concern expressed method used compilinggreenpeace report
+
+aprilippnw report
+
+according aprilreport german affiliateinternational physician prevention nuclear warfare ippnw
+entitled health effect chernobyl thanpeopletoday affected thyroid cancer andcases expectedreport projected ten thousand dead among liquidatoreurope alleges thatdeformities observednewborn chernobyl radioactive discharge withdeaths
+among newborn child also claimed several hundredthousand people worked site accidentsick radiation ten thousand dead
+
+study claims
+
+ukrainian health minister claimed inthat 
+million ukrainian includingchildren suffer health
+problem related catastrophe psychological aftereffects
+theun report pointed also adverse effectinternally displaced persons
+another study alleged heightened mortality sweden
+unscearreport worldwide source effectionizing radiation volume annex dedicated exposures
+effect chernobyl
+according union chernobyl main organizationliquidatorsof theliquidators deaddisabled
+abstract aprilinternational agency researchcancer report estimate cancer burden europeradioactive fallout chernobyl accident statedunlikely cancer burden largest radiological
+accident date could detected monitoring national cancer
+statistic indeed result analysis time trend cancer
+incidence mortality europe present indicateincrease cancer ratesother thyroid cancercontaminated regionsthat clearly attributed radiation
+chernobyl accident however undetectableestimate based linear threshold model cancer effects
+thatexcess cancer death could expected effects
+chernobyl accident totheir estimatewideconfidence interval fromdeaths 
+report european committee radiation risk body
+sponsored european green party claim world health
+organization together international national
+health body marginalized ignored perhaps purposelyterrible consequence chernobyl fallout protectvested interest nuclear industry
+application linear threshold model predict deaths
+low level exposure radiation disputed bbc
+british broadcasting corporation horizon documentary broadcast
+onjulyit offered statistical evidence suggestexposure threshold aboutmillisievertsincrease radiationinduced disease indeedwent suggesting low exposure radiationprotective effect program interviewed scientist believe
+increase thyroid cancer immediate areaexplosion overrecorded predicted estimates
+widespread death long term would proved wrongalso noted whilst cancer take decade manifest
+leukemia manifest within decade nonepreviously expected peak leukemia death foundnone expected
+
+french legal action
+
+since marchlawsuits filed france xfrench association thyroidaffected people includingin
+aprilthese person affected thyroid cancer goitres
+filed lawsuit alleging french governmenttime led prime minister jacques chirac adequately informed
+population risk linked chernobyl radioactive
+fallout complaint contrast health protection measure putplace nearby country warning consumption green
+vegetable milk child pregnant woman relatively
+high contamination suffered east france corsica although
+thestudy french institute radioprotection nuclear
+safety said clear link could found chernobylincrease thyroid cancer france also stated papillary
+thyroid cancer tripled following years
+
+comparison disasters
+
+chernobyl disaster caused ten immediate death dueradiation sickness thousand premature death predictedcoming decade since often possible prove origin
+cancer cause person death difficultestimate chernobyl longterm death toll
+
+manmade disaster high death toll include
+failure banqiao damhenan china
+killed
+bhopal disaster indiakilled
+great smog london englandkilled
+johnstown floodpennsylvania united states
+killed
+
+chernobyl popular consciousness
+
+chernobyl accident attracted great deal interestdistrust many people soviet authority people
+within outside ussr great deal debatesituation site occurred first world early days
+event due defective intelligence based upon photographs
+taken space thought unit number three also
+suffered dire accident
+
+general public knew little radioactivity radiation
+still know little result degree fearincreased case many professionalspokesman nrpb mistrusted journalist turn
+encouraged public mistrust
+wa noted chernobyl ten year different government tried
+set contamination level limit stricter next
+country dash seen protecting publicradioactive food often case risk causedmodification nation diet greater unnoticed
+
+result event chernobyl entered public
+consciousness
+
+disaster american nuclearpowered aircraft carrier uss
+enterprise first nuclearpowered capital ship gainedunofficial nickname mobile chernobyl

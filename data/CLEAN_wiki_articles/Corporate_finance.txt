@@ -1,0 +1,282 @@
+copyright
+
+corporate finance
+
+ school wikipedia selection related subject business
+
+corporate finance
+
+working capital management
+cash conversion cycle
+return capital
+economic value added
+time business
+economic order quantity
+discount allowances
+factoring finance
+
+capital budgeting
+capital investment decisions
+investment decision
+financing decision
+capital investment decisions
+
+sections
+managerial finance
+management accounting
+merger acquisitions
+balance sheet analysis
+business plan
+corporate action
+
+
+finance series
+financial market
+financial market participants
+corporate finance
+personal finance
+public finance
+bank banking
+financial regulation
+v 
+corporate finance area finance dealing financial
+decision corporation make tool analysis used make
+decision primary goal corporate finance enhance
+corporate value reducing firm financial risks
+equivalently goal maximize corporation returncapital although principle different managerial finance
+study financial decision firm rathercorporation alone main concept study corporate finance
+applicable financial problem kind firms
+
+discipline divided longterm shortterm decisions
+technique capital investment decision longterm choices
+project receive investment whether financeinvestment equity debt whether pay dividendshareholder hand short term decisiongrouped headingworking capital management subject
+deal shortterm balance current asset current
+liability focus managing cash inventoryshortterm borrowing lending term credit extended
+customers
+
+term corporate finance corporate financier also associated
+investment banking typical role investment bankerevaluate investment project bank make investment decisions
+
+capital investment decisions
+
+capital investment decision longterm corporate finance decisions
+relating fixed asset capital structure decision basedseveral interrelated criterion corporate management seek maximize
+value firm investing project yield positive
+net present value valued using appropriate discount rateproject must also financed appropriately opportunities
+exist maximizing shareholder value dictate management return
+excess cash shareholder capital investment decision thus comprise
+investment decision financing decision dividend decision
+
+investment decision
+
+management must allocate limited resource competing
+opportunity project process known capital budgeting
+making capital allocation decision requires estimating value
+opportunity project function size timingpredictability future cash flows
+
+project valuation
+
+general project value estimated using discounted
+cash flow dcf valuation opportunity highest value
+measured resultant net present value npv selected
+see fisher separation theorem requires estimating sizetiming incremental cash flow resulting project
+future cash flow discounted determine present
+value see time value money present value summed
+sum npv
+
+npv greatly influenced discount rate thus selectingproper discount ratethe project hurdle rateis criticalmaking right decision hurdle rate minimum acceptable
+return investmentie project appropriate discount rate
+hurdle rate reflect riskiness investment
+typically measured volatility cash flow must takeaccount financing mix manager use model capmapt estimate discount rate appropriate particular project
+use weighted average cost capital wacc reflectfinancing mix selected common error choosing discount rateproject apply wacc applies entire firmapproach may appropriate risk particular project
+differs markedly firm existing portfolio assets
+
+conjunction npv several measure usedsecondary selection criterion corporate finance visible
+dcf include payback irr modified irr equivalent
+annuity capital efficiency roi
+
+see also list valuation topic stock valuation fundamental
+analysis
+
+valuing flexibility
+
+many case example project project may open close
+path action company reality typicallycaptured strict npv approach management therefore
+sometimes employ tool place explicit valueoption whereas dcf valuation likely averagescenario specific cash flow discounted flexibilestaged nature investment modelled hence potential
+payoff considered difference two valuationoption value inherent project
+
+two common tool decision tree analysis dta real
+option
+dta approach attempt capture flexibility incorporating
+likely event consequent management decisionvaluation decision tree management decisionresponse event generates branch pathcompany could follow example management proceed
+stageof project given stagewas successful
+stagein turn depends stagein dcf modelhand branchingeach scenario must modelled
+separately highest value pathprobability weightedregarded representative project value
+
+following example show portfolio ofinvestment options
+project organization onlyavailabletotal investment calculation discounted payoff present value ayears projection bold line mark best
+selectionandwhich costand createpayoff ofall combination would either exceedbudget yield lower payoff imageproject investment portfolio
+occam treegif
+
+real option approach used value projectcontingent value asset underlying variable
+example viability mining project contingentprice gold price low management abandon
+mining right sufficiently high management develop
+ore body dcf valuation would capture oneoutcome using financial option theoryframework decision taken identified corresponding
+either call option put optionvaluation viabinomial model often purpose via black scholes
+see contingent claim valuation true value projectnpv likely scenario plus option value
+
+financing decision
+
+achieving goal corporate finance requires corporate
+investment financed appropriately since hurdle rate
+cash flow hence riskiness firm affected
+financing mix impact valuation management must therefore
+identify optimal mix financingthe capital structureresult maximum value see balance sheet wacc fisher separation
+theorem see also modiglianimiller theorem
+
+source financing generically comprise combination
+debt equity financing project debt resultliability must servicedand hence cash flow
+implication regardless project success equity financingle risky sense cash flow commitment resultdilution ownership earnings cost equity also
+typically higher cost debt see capm waccequity financing may result increased hurdle rate may
+offset reduction cash flow risk
+
+management must also attempt match financing mix asset
+financed closely possible term timing cash
+flows
+
+one main theory firm make financing decisionpecking order theory suggests firm avoid external
+financing internal financing available avoid new
+equity financing engage new debt financingreasonably low interest rate another major theory tradeoff
+theory firm assumed tradeoff tax benefit debt
+bankruptcy cost debt making decision one last
+theory decision market timing hypothesis states
+firm look cheaper type financing regardlesscurrent level internal resource debt equity
+
+dividend decision
+
+general management must decide whether invest additional
+project reinvest existing operation return free cashdividend shareholder dividend calculated mainlybasis company unappropriated profit business prospects
+coming year npv positive opportunity return exceed hurdle rate management must return
+excess cash investorsthese free cash flow comprise cash
+remaining business expense metgeneral case however exception example investorgrowth stock expect company almost definition
+retain earnings fund growth internally case even
+though opportunity currently npv negative management may
+consider investment flexibilitypotential payoff decideretain cash flow see real options
+
+management must also decide form distribution generally
+cash dividend via share buyback various
+consideration shareholder pay tax dividend company may
+elect retain earnings perform stock buyback cases
+increasing value share outstanding company pay
+dividend stock rather cash see corporate action
+today generally accepted dividend policy value neutral
+see modiglianimiller theorem
+
+working capital management
+
+decision relating working capital short term financingreferred working capital management involve managingrelationship firm shortterm asset shortterm
+liability goal working capital management ensurefirm able continue operation sufficient
+cash flow satisfy maturing shortterm debt upcoming
+operational expenses
+
+decision criteria
+
+definition working capital management entail short term decisions
+generally relating next one year periodwhichreversible decision therefore taken basis
+capital investment decision npv related ratherbased cash flow andor profitability
+one measure cash flow provided cash conversion cycle 
+net number day outlay cash raw materialreceiving payment customer management toolmetric make explicit interrelatedness decision relating
+inventory account receivable payable cashnumber effectively corresponds time firms
+cash tied operation unavailable activities
+management generally aim low net count
+
+context useful measure profitability return
+capital roc result shown percentage determined
+dividing relevant income themonths capital employed
+return equity roe show result firms
+shareholder firm value enhanced returncapital result working capital management exceedscost capital result capital investment decisionroc measure therefore useful management toollink shortterm policy longterm decision making
+see economic value added eva
+
+management working capital
+
+guided criterion management use combinationpolicy technique management working capitalpolicy aim managing current asset generally cash cash
+equivalent inventory debtor short term financing
+cash flow return acceptable
+cash management identify cash balance allowsbusiness meet day day expense reduces cash holding
+costs
+
+inventory management identify level inventory allows
+uninterrupted production reduces investment raw
+materialsand minimizes reordering costsand hence increases
+cash flow see supply chain management time jit
+economic order quantity eoq economic production quantity epq
+
+debtor management identify appropriate credit policy credit term attract customer impactcash flow cash conversion cycle offsetincreased revenue hence return capital vice versa see
+discount allowances
+
+short term financing identify appropriate source financing
+given cash conversion cycle inventory ideally financed
+credit granted supplier however may necessaryutilize bank loan overdraft convert debtor cash
+throughfactoring
+
+financial risk management
+
+risk management process measuring risk developing
+implementing strategy manage risk financial risk
+management focus risk managedhedged using
+traded financial instrument typically change commodity price 
+interest rate foreign exchange rate stock price financial
+risk management also play important role cash management
+
+area related corporate finance two way firstly firm
+exposure business risk direct result previous investmentfinancing decision secondly discipline share goalcreating enhancing firm value large corporation risk
+management team small firm practice informal formal
+risk management
+
+derivative instrument commonly used financial risk
+management unique derivative contract tend costlycreate monitor costeffective financial risk management
+method usually involve derivative trade wellestablished
+financial market standard derivative instrument include
+option future contract forward contract swaps
+
+see financial engineering financial risk default finance
+credit risk interest rate risk liquidity risk market risk
+operational risk volatility risk settlement risk
+
+relationship area finance
+
+investment banking
+
+use term corporate finance varies considerably acrossworld united state used describe
+activity decision technique deal many aspectcompany finance capital united kingdom commonwealth
+country term corporate finance corporate financier tend
+associated investment bankingie transactioncapital raised corporation
+
+personal public finance
+
+corporate finance utilizes tool almost area financetool developed corporation broad application
+entity corporation example partnership sole
+proprietorship notforprofit organization government mutual
+fund personal wealth management caseapplication limited outside corporate finance arena
+corporation deal quantity money much greaterindividual analysis developed disciplinedifferentiated personal finance public finance
+
+related professional qualifications
+
+new internationally recognised corporate finance qualification directly related professional qualification although many
+others traditionally lead field
+qualified accountant qualification chartered accountantaca
+certified public accountantcpa
+
+nonstatutory accountancy qualification chartered cost
+accountant cca designation aafm certified management
+accountant cma chartered management accountant acma
+
+business qualification master business administrationmba
+master financecontrolmfc doctor business
+administrationdba
+
+finance qualification master degree finance msf corporate
+finance qualification chartered financial analyst cfa
+certified international investment analystciiaassociationcorporate treasurer act certified market analyst cmafad dual
+designation master financial manager mfm
+

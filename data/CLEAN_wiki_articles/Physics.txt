@@ -1,0 +1,451 @@
+copyright
+
+physics
+
+ school wikipedia selection related subject general physics
+
+article currently undergoing full review editors
+contribution welcomed process
+
+physic greekphsis nature andphusik
+knowledge nature science concerned discoveryunderstanding fundamental law govern matter energy
+space time physic deal elementary constituents
+universe interaction well analysissystem best understood term fundamental
+principle physic study inorganic physical worldopposed organic world biology physiology etc chemistry
+concerning electrochemical interaction substance overlaps
+physics
+
+introduction
+
+physic attempt describe natural world applicationscientific method including modelling theoretician formerly
+physic included study natural philosophy counterpartcalled physic earlier physike classical timeseparation physic philosophy positive scienceth century study changing world philosophy mixed
+question solution attempted applications
+discipline divisibility atom involve
+natural philosophy physic science vice versa 
+
+connected studies
+
+many science field thought related physics
+
+discovery physic find connection throughout natural
+science regard basic constituent universephenomenon studied physic phenomenonconservation energy common material systemoften referred law physic phenomenonsuperconductivity stem law lawappear system physic often saidfundamental science science biology
+chemistry geology physiology archaeology anthropology etc deals
+particular type material system obey lawphysic example chemistry science matter atoms
+molecule chemical substance form bulk
+structure reactivity property chemical compounddetermined property underlying moleculedescribed area physic quantum mechanic calledcase quantum chemistry thermodynamics electromagnetism refer
+branch physics
+
+physic relies mathematics provides logical frameworkphysical law precisely formulated predictions
+quantified physical definition model theory invariably
+expressed using mathematical relation large arearesearch intermediate physic mathematics knownmathematical physics
+
+physic also closely related engineering technologyinstance electrical engineering study practical
+application electromagnetism static subfield mechanicresponsible building bridge physicistpractitioner physic invent design process devicetransistor whether basic applied research experimental
+physicist design perform experiment particle accelerators
+nuclear reactor telescope barometer synchrotron cyclotrons
+spectrometer laser equipment
+
+beyond known universe field theoretical physic also deals
+hypothetical issue parallel universe multiversewhether universe could expanded predominantly antimatter
+rather matter
+
+branch physics
+
+physicist study wide range physical phenomenon quarkblack hole individual atom manybody systemsuperconductors
+
+central theories
+
+physic deal wide variety system certain
+theory used physicist theoryexperimentally tested numerous time found correctapproximation nature within certain domain validityinstance theory classical mechanic accurately describesmotion object provided much larger atom moving
+much speed light theory continuearea active research instance remarkable aspectclassical mechanic known chaos discovered century
+three century original formulation classical mechanics
+isaac newtonthese central theory important
+tool research specialized topic physicist
+regardless specialization expected literateclassical mechanic model physic force acting upon
+body often referred newtonian mechanicnewton law motion classical mechanic subdivided
+static model object rest kinematicsmodel object motion dynamic model objects
+subjected force see also mechanics
+
+electromagnetism electromagnetic theory physicelectromagnetic field field encompassing spaceexerts force particle posse propertyelectric charge turn affected presence motion
+particle electromagnetism encompasses various realworld
+electromagnetic phenomena
+
+thermodynamics branch physic deal action
+heat conversion one another various formenergy thermodynamics particularly concernedaffect temperature pressure volume mechanical action work
+historically grew effort construct efficient
+heat enginesdevices extracting useful work expanding
+hot gases
+
+statistical mechanic related theory branch physics
+analyzes macroscopic system applying statistical
+principle microscopic constituent thus used
+calculate thermodynamic property bulk materialspectroscopic data individual molecules
+
+quantum mechanic branch mathematical physic treating
+atomic subatomic system interaction radiation
+term observable quantity based observation
+form energy released discrete unit bundles
+called quantum quantum theory typically permit probablestatistical calculation observed feature subatomic
+particle understood term wave functions
+
+theory relativity relativity theory
+
+physical theory based two postulatesthat
+speed light vacuum constant independentsource observer andthat impossibledetermine one absolute velocity inertial systemlead deduction equivalence massenergy change mass dimension timeincreased velocitycalled also special relativity special
+theory relativity
+extension theory include gravitation related
+acceleration phenomenacalled also general relativity
+general theory relativity
+
+theory major subtopics concepts
+classical mechanic newton law motion lagrangian mechanics
+hamiltonian mechanic kinematics static dynamic chaos theory
+acoustic fluid dynamic continuum mechanic density dimension
+gravity space time motion length position velocity acceleration
+mass momentum force energy angular momentum torque conservation
+law harmonic oscillator wave work power
+electromagnetism electrostatics electrodynamics electricity
+magnetism maxwell equation optic capacitance electric charge
+current electrical conductivity electric field electric
+permittivity electric potential electrical resistance
+electromagnetic field electromagnetic induction electromagnetic
+radiation gaussian surface magnetic field magnetic flux magnetic
+monopole magnetic permeability
+thermodynamics statistical mechanic heat engine kinetic theory
+boltzmann constant conjugate variable enthalpy entropy equation
+state equipartition theorem free energy heat ideal gas law
+internal energy law thermodynamics irreversible process ising
+model mechanical action partition function pressure reversible
+process spontaneous process state function statistical ensemble
+temperature thermodynamic equilibrium thermodynamic potential
+thermodynamic process thermodynamic state thermodynamic system
+viscosity volume work
+quantum mechanic path integral formulation scattering theory
+schrdinger equation quantum field theory quantum statistical
+mechanic adiabatic approximation blackbody radiation correspondence
+principle free particle hamiltonian hilbert space identical
+particle matrix mechanic planck constant observer effect
+operator quantum quantization quantum entanglement quantum harmonic
+oscillator quantum number quantum tunneling schrdingers cat dirac
+equation spin wavefunction wave mechanic waveparticle duality
+zeropoint energy pauli exclusion principle heisenberg uncertainty
+principle
+theory relativity special relativity general relativity einstein
+field equation covariance einstein manifold equivalence principle
+fourmomentum fourvector general principle relativity geodesic
+motion gravity gravitoelectromagnetism inertial frame reference
+invariance length contraction lorentzian manifold lorentz
+transformation massenergy equivalence metric minkowski diagram
+minkowski space principle relativity proper length proper time
+reference frame rest energy rest mass relativity simultaneity
+spacetime special principle relativity speed light
+stressenergy tensor time dilation twin paradox world line
+
+major field physics
+
+contemporary research physic divided several distinct
+field study different aspect material world
+condensed matter physic estimate largest single
+field physic concerned property bulk
+matter ordinary solid liquid encountereveryday life arise property mutual interactionconstituent atom magnet levitating hightemperature
+superconductor boiling liquid nitrogen underneath
+demonstrating meissner effect phenomenon importancefield condensed matter physics
+
+field atomic molecular optical physic dealbehaviour individual atom molecule particularway absorb emit light
+
+field particle physic also known highenergy physics
+concerned property submicroscopic particle much
+smaller atom including elementary particleunit matter constructed
+
+finally field astrophysics applies law physicexplain celestial phenomenon ranging sunobject solar system universe whole
+
+since century individual field physic become
+increasingly specialized nowadays uncommonphysicist work single field entire careers
+universalists like albert einsteinand lev landau 
+comfortable working multiple fieldphysic rare
+
+many field subfields physic listed tablefield subfields major theory concepts
+astrophysics cosmology gravitation physic highenergy astrophysics
+planetary astrophysics plasma physic space physic stellar
+astrophysics big bang lambdacdm model cosmic inflation general
+relativity law universal gravitation black hole cosmic background
+radiation cosmic string cosmos dark energy dark matter galaxy
+gravity gravitational radiation gravitational singularity planet
+solar system star supernova universe
+atomic molecular optical physic atomic physic molecular
+physic atomic molecular astrophysics chemical physic optics
+photonics quantum optic quantum chemistry quantum information
+science atom molecule diffraction electromagnetic radiation laser
+polarization spectral line casimir effect
+particle physic nuclear physic nuclear astrophysics particle
+astrophysics particle physic phenomenology standard model quantum
+field theory quantum chromodynamics electroweak theory effective
+field theory lattice field theory lattice gauge theory gauge theory
+supersymmetry grand unification theory superstring theory mtheory
+fundamental forcegravitational electromagnetic weak strong
+elementary particle spin antimatter spontaneous symmetry breaking
+brane string quantum gravity theory everything vacuum energy
+condensed matter physic solid state physic high pressure physics
+lowtemperature physic nanoscale mesoscopic physic polymer
+physic bcs theory bloch wave fermi gas fermi liquid manybody
+theory phase gas liquid solid boseeinstein condensate
+superconductor superfluid electrical conduction magnetism
+selforganization spin spontaneous symmetry breaking
+
+classical quantum modern physics
+
+since construction quantum mechanic early twentieth
+century generally became evident physical communitywould preferable many known description naturequantized follow postulate quantum mechaniceffect result quantized called classical
+includes special theory general theory relativity
+simply result classical doe meandiscovered advent quantum mechanic classical theories
+generally much easier work much research still
+conducted without express aim quantization
+however exist problem physic classical quantum
+aspect must combined attain approximation limit may
+acquire several form passage classical quantum
+mechanic often difficultsuch problem termed semiclassical
+
+however relativity quantum mechanic providecomplete known description fundamental interactionchange brought two framework physicist world view
+revolutionary term modern physic used describe physics
+relies two theory colloquially modern physicdescribed physic extreme system extremely
+small atom nucleus fundamental particle extremely large
+universe extremely fast relativity
+
+theoretical experimental physics
+
+culture physic research differs scienceseparation theory experiment since centuryindividual physicist specialized either theoretical physicexperimental physic great italian physicist enrico fermi
+made fundamental contribution theoryexperimentation nuclear physic notable exceptioncontrast almost successful theorist biology chemistry
+eg american quantum chemist biochemist linus pauling also
+experimentalists though changing late
+
+roughly speaking theorist seek develop abstractionmathematical model theory describe interpret
+existing experimental result successfully predict future results
+experimentalists devise perform experiment explore new
+phenomenon test theoretical prediction although theoryexperiment developed separately strongly dependenthowever theoretical research physic mayconsidered draw mathematical physic computational physics
+addition experimentation progress physic frequently comes
+experimentalists make discovery existing theories
+cannot account necessitating formulation new theories
+likewise idea arising theory often inspire new experimentabsence experiment theoretical research wrong
+direction one criticism leveledmtheory popular theory highenergy physicpractical experimental test ever devised
+
+discredited theories
+
+scientific theory sometimes end discredited superseded
+case theory announced prematurely gained
+press attention discredited time established
+theory overthrown new one erected place famous
+exampledynamic theory gravityannounced press release nikola
+tesla inbut never published
+steady state theoryan established theory cosmologyearly middle century made obsolete success big
+bang theory
+luminiferous aetheran established theory late century contradicted observation made
+superfluous relativity
+cold fusionannounced press conference inbut never
+confirmed still controversial
+phlogiston theoryan established theory centuryattributed combustion liberation phlogistonmaterial
+
+phenomenology
+
+phenomenology intermediate experiment theoryabstract includes logical step experimentdirectly tied experiment theory boundary theory
+phenomenology phenomenology experimentsomewhat fuzzy extent depend understandingintuition scientist describing example einsteins
+paper photoelectric effecton heuristic viewpoint
+concerning production transformation light
+
+applied physics
+
+applied physic physic intended particular
+technological practical use example engineeringopposed basic research approach similar applied
+mathematics applied physic rooted fundamental truthbasic concept physical science concernedutilization scientific principle practical device systems
+application physic area science applied
+distinguished pure subtle combination factormotivation attitude researcher naturerelationship technology science may affectedwork
+branch applied physics
+accelerator physic acoustic agrophysics biophysics chemical
+physic communication physic econophysics engineering physics
+fluid dynamic geophysics material physic medical physics
+nanotechnology optic optoelectronics photovoltaics physical
+chemistry physic computation plasma physic solidstate devices
+quantum chemistry quantum electronics quantum information science
+vehicle dynamics
+
+history
+
+since antiquity people tried understand behaviourmatter unsupported object drop ground different
+material different property forth characteruniverse also mystery instance earth behaviour
+celestial object sun moon several theories
+proposed wrong first theorylargely couched philosophical term never verifiedsystematic experimental testing popular today workptolemy aristotle however also always found match
+everyday observation exception anachronisms
+example indian philosopher astronomer gave many correct
+description atomism astronomy greek thinker archimedes
+derived many correct quantitative description mechanichydrostatics
+
+willingness question previously held truth search new
+answer eventually resulted period major scientific
+advancement known scientific revolution late century precursor scientific revolution traced back
+important development made india persia includingelliptical model planet based heliocentric solar system
+gravitation developed indian mathematicianastronomer aryabhata
+basic idea atomic theory developed hindu jaina
+philosopher theory light equivalent energy particles
+developed indian buddhist scholar dignga dharmakirtioptical theory light developed muslim scientist ibn alhaitham
+alhazen astrolabe invented persian astronomer muhammad
+alfazari significant flaw ptolemaic system pointed
+persian scientist nasir aldin tusi
+
+influence arab empire expanded europe workaristotle preserved arab work indianpersian became known europe th centuryeventually led scientific revolution culminatedpublication philosophiae naturalis principia mathematica 
+mathematician physicist alchemist inventor sir isaac
+newton
+
+scientific revolution held historian howard
+margolis begun inwhen first printed copynicolaus copernicus revolutionibus written
+year prior whose publication delayed broughtinfluential polish astronomer nuremberg
+
+significant advance made following centurygalileo galilei christiaan huygens johannes kepler blaise
+pascal early century galileo pioneered useexperimentation validate physical theory key ideamodern scientific method galileo formulated successfully tested
+several result dynamic particular law inertia 
+newton published principia detailing two comprehensivesuccessful physical theory newton law motion arise
+classical mechanic newton law gravitation describes
+fundamental force gravity theory agreed wellexperiment principia also included several theory fluid
+dynamic classical mechanic reformulated extendedleonhard euler french mathematician josephlouis comte lagrange
+irish mathematical physicist william rowan hamilton othersproduced new result mathematical physic law universal
+gravitation initiated field astrophysics describes
+astronomical phenomenon using physical theories
+
+newton defined classical mechanic next great fieldinquiry within physic nature electricity observationth century scientist robert boyle stephen
+gray benjamin franklin created foundation later workobservation also established basic understanding electrical
+charge current
+
+inthe english physicist chemist michael faraday integrated
+study magnetism study electricity donedemonstrating moving magnet induced electric currentconductor faraday also formulated physical conceptionelectromagnetic field james clerk maxwell built upon conception
+inwith interlinked set ofequations explainedinteraction electric magnetic field theseequations
+later reduced using vector calculus set four equations
+oliver heaviside
+
+addition electromagnetic phenomenon maxwell equations
+also used describe light confirmation observation
+wa made thediscovery radio heinrich hertz 
+wilhelm roentgen detected ray ability describe lightelectromagnetic term helped serve springboard albert
+einstein publication theory special relativity 
+theory combined classical mechanic maxwell equationtheory special relativity unifies space time single
+entity spacetime relativity prescribes different transformation
+reference frame classical mechanic necessitated
+development relativistic mechanic replacementclassical mechanic regime low relative velocitytwo theory agree einstein built special theoryincluding gravity calculation published theorygeneral relativity 
+
+one part theory general relativity einstein field
+equation describes stressenergy tensor creates curvature
+spacetime form basis general relativity workeinstein field equation produced result predicted big
+bang black hole expanding universe einstein believedstatic universe tried failed fix equation allowhowever byedwin hubble astronomical observations
+suggested universe expanding
+
+late century onwards thermodynamics developedphysicist chemist boyle young many others inbernoulli
+used statistical argument classical mechanic derive
+thermodynamic result initiating field statistical mechanics
+inthompson demonstrated conversion mechanical workheat injoule stated law conservation energyform heat well mechanical energy ludwig boltzmannth century responsible modern form statistical
+mechanics
+
+inrntgen discovered xrays turnedhighfrequency electromagnetic radiation radioactivity discovered
+inby henri becquerel studied marie curie pierre
+curie others initiated field nuclear physics
+
+injoseph thomson discovered electron elementary
+particle carry electrical current circuit inhe
+proposed first model atom known plum pudding model
+existence atom proposed inby john dalton
+
+discovery revealed assumption many physicistatom basic unit matter flawed promptedstudy structure atoms
+
+inernest rutherford deduced scattering experimentexistence compact atomic nucleus positively charged
+constituent dubbed proton neutron neutral nuclear
+constituent discovered inby chadwick equivalencemass energy einsteinwas spectacularly demonstratedworld war research conducted side nuclear
+physic purpose creating nuclear bomb german effort
+led heisenberg succeed allied manhattan project
+reached goal america team led fermi achieved first
+manmade nuclear chain reaction inand inthe world first
+nuclear explosive detonated trinity site near alamogordo new
+mexico
+
+inmax planck published explanation blackbody radiation
+equation assumed radiator quantized provedopening argument edifice would become quantum
+mechanic introducing discrete energy level planck einstein
+niels bohr others developed quantum theory explain various
+anomalous experimental result quantum mechanic formulatedheisenberg inby schrdinger paul dirac two
+different way explained preceding heuristic quantum
+theory quantum mechanic outcome physical measurements
+inherently probabilistic theory describes calculationprobability successfully describes behaviour matter
+small distance scale schrdinger heisenbergmax born able formulate consistent picture chemical
+behaviour matter complete theory electronic structureatom byproduct quantum theory
+
+quantum field theory formulated order extend quantum
+mechanic consistent special relativity devisedlate work richard feynman julian schwinger
+sinitiro tomonaga freeman dyson formulated theoryquantum electrodynamics describes electromagnetic
+interaction successfully explained lamb shift quantum field
+theory provided framework modern particle physicstudy fundamental force elementary particles
+
+chen ning yang tsungdao lee discoveredunexpected asymmetry decay subatomic particle 
+yang robert mill developed class gauge theoryprovided framework understanding nuclear force yang
+millsthe theory strong nuclear force first proposed
+murray gellmann electroweak force unification weak
+nuclear force electromagnetism proposed sheldon lee
+glashow abdus salam steven weinberg confirmed inby james
+watson cronin val fitch led socalled standard model
+particle physic successfully describeselementary particle observed date
+
+quantum mechanic also provided theoretical tool condensed
+matter physic whose largest branch solid state physic studies
+physical behaviour solid liquid including phenomenoncrystal structure semiconductivity superconductivitypioneer condensed matter physic include felix bloch createdquantum mechanical description behaviour electron crystal
+structure inthe transistor developed physicist john
+bardeen walter houser brattain william bradford shockley 
+bell telephone laboratories
+
+two theme century general relativity quantum
+mechanic appear inconsistent general relativity
+describes universe scale planet solar systemquantum mechanic operates subatomic scale challengeattacked string theory treat spacetime composed
+point onedimensional object string stringproperty like common string tension vibrationtheory yield promising yet testable result searchexperimental verification string theory progress
+
+united nation declared yearthe centenary einsteins
+annus mirabilis world year physics
+
+future directions
+
+research physic progressing constantly large numberfront likely foreseeable future
+
+condensed matter physic biggest unsolved theoretical problem
+explanation hightemperature superconductivity strong
+effort largely experimental put making workable
+spintronics quantum computers
+
+particle physic first piece experimental evidencephysic beyond standard model begun appear foremost
+amongst indication neutrino nonzero massexperimental result appear solved longstanding solar
+neutrino problem solar physic physic massive neutrinocurrently area active theoretical experimental researchnext several year particle accelerator begin probing energy
+scale tev range experimentalists hoping find
+evidence higgs boson supersymmetric particles
+thousand particle explode collision point two
+relativisticgev per nucleon gold ion star detectorrelativistic heavy ion collider experiment done orderinvestigate property quark gluon plasma one
+thought exist ultrahot first microsecond big
+bang
+enlarge
+thousand particle explode collision point two
+relativisticgev per nucleon gold ion star detectorrelativistic heavy ion collider experiment done orderinvestigate property quark gluon plasma one
+thought exist ultrahot first microsecond big
+bang
+
+theoretical attempt unify quantum mechanic general relativity
+single theory quantum gravity program ongoinghalf century yet borne fruit current leading
+candidate mtheory superstring theory loop quantum gravity
+
+many astronomical cosmological phenomenon yetsatisfactorily explained including existence ultrahigh energy
+cosmic ray baryon asymmetry acceleration universeanomalous rotation rate galaxies
+
+although much progress made highenergy quantumastronomical physic many everyday phenomenon involving complexity
+chaos turbulence still poorly understood complex problemseem like could solved clever application dynamicmechanic formation sandpile node trickling
+water shape water droplet mechanism surface tension
+catastrophe selfsorting shaken heterogeneous collectionunsolved complex phenomenon received growing attention since
+several reason least haavailability modern mathematical method computer enabled
+complex system modeled new way interdisciplinary
+relevance complex physic also increased exemplifiedstudy turbulence aerodynamics observation pattern
+formation biological system inhorace lamb correctly
+prophesied success theory quantum electrodynamicsnearstagnant progress study turbulence
+
+old man die heaven two
+matter hope enlightenment one quantum
+electrodynamics turbulent motion fluids
+former rather optimistic
+

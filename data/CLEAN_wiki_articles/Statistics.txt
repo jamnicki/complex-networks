@@ -1,0 +1,311 @@
+copyright
+
+statistics
+
+ school wikipedia selection related subject mathematics
+
+graph bell curve normal distribution showing statistics
+used educational assessment comparing various grading methods
+shown standard deviation cumulative percentage percentile
+equivalent zscores tscores standard nine percent stanine
+enlarge
+graph bell curve normal distribution showing statistics
+used educational assessment comparing various grading methods
+shown standard deviation cumulative percentage percentile
+equivalent zscores tscores standard nine percent stanine
+
+statistic mathematical science pertaining collection
+analysis interpretation presentation data applicablewide variety academic discipline physical social
+science humanity also used making informed
+decision area business government
+
+statistical method used summarize describe collection
+data called descriptive statistic addition patterns
+data may modeled way account randomnessuncertainty observation draw inference process
+population studied called inferential statistics
+descriptive inferential statistic considered partapplied statistic also discipline mathematical
+statistic concerned theoretical basissubject
+
+word statistic also plural statistic singularrefers result applying statistical algorithm setdata employment statistic accident statistic etc
+
+history
+
+etymology
+
+word statistic ultimately derives modern latin term
+statisticum collegium council state italian word
+statistastatesman orpolitician german statistik first
+introduced gottfried achenwalloriginally designatedanalysis data state signifying science state
+called political arithmetic english acquired meaning
+collection classification data generally early
+th century introduced english sir john sinclair
+
+thus original principal purpose statistik data used
+governmental often centralized administrative bodycollection data state locality continues largely
+national international statistical service particular
+census provide regular information population
+
+th century creation precise instrument public
+health concernsepidemiology biostatistics etc economicsocial purposesunemployment rate econometry etc necessitated
+substantial advance statistical practice became necessity
+western welfare state developed world wardevelop specific knowledge population philosophermichel foucault argued constituted form 
+biopower term since used many authors
+
+origin probability
+
+mathematical method statistic emerged probability theory
+dated correspondence pierre fermat blaise
+pascalchristiaan huygensgave earliest known
+scientific treatment subject jakob bernoulli conjectandi
+posthumousand abraham moivres doctrine chance 
+treated subject branch mathematics
+
+theory error may traced back roger cote opera
+miscellanea posthumousbut memoir prepared thomas simpson
+inprintedfirst applied theory discussionerror observation reprintof memoir layaxiom positive negative error equally probablecertain assignable limit within error maysupposed fall continuous error discussed probability
+curve given
+
+pierresimon laplacemade first attempt deduce rulecombination observation principle theoryprobability represented law probability errorcurve deduced formula mean three observation also
+gavea formula law facility error term duelagrangebut one led unmanageable equation daniel
+bernoulliintroduced principle maximum productprobability system concurrent errors
+
+method least square used minimize error data
+measurement due adrienmarie legendrewho introducednouvelles mthodes pour dtermination orbites comtes
+new method determining orbit comet ignorancelegendres contribution irishamerican writer robert adrain
+editor analystfirst deduced law facilityerror gave two proof second essentiallyjohn herschelscarl gauss gave first proof seemsknown europe third adrains infurther
+proof given laplacegaussjames ivory
+hagenfriedrich besselw donkin
+morgan crofton 
+
+contributor ellisde morganglaisher
+giovanni schiaparellipeterssformular probable error single observation well known
+
+nineteenth century author general theory included
+laplace sylvestre lacroixlittrowrichard dedekind
+helmerthermann laurentliagre didionkarl pearson augustus morgan george boole improvedexposition theory
+
+adolphe queteletanother important founder statistics
+introduced notion average man lhomme moyen means
+understanding complex social phenomenon crime rate marriage
+rate suicide rates
+
+statistic today
+
+today use statistic broadened far beyond originservice state government individual organization use
+statistic understand data make informed decision throughout
+natural social science medicine business areas
+
+statistic generally regarded subfield mathematicsdistinct albeit allied field many university maintain
+separate mathematics statistic department statistic also
+taught department diverse psychology education public
+health
+
+important contributor statistics
+
+thomas bayes
+pafnuty chebyshev
+sir david cox
+gertrude cox
+w edward deming
+george dantzig
+sir ronald fisher
+
+sir francis galton
+carl friedrich gauss
+william sealey gosset student
+aleksandr lyapunov
+abraham moivre
+isaac newton
+florence nightingale
+
+blaise pascal
+karl pearson
+adolph quetelet
+walter shewhart
+charles spearman
+john tukey
+
+conceptual overview
+
+applying statistic scientific industrial societal
+problem one begin process population studiedmight population people country crystal grainrock good manufactured particular factory given
+period may instead process observed various time data
+collected kind population constitute calledtime series
+
+practical reason rather compiling data entire
+population one usually instead study chosen subsetpopulation called sample data collected sampleobservational experimental setting data subjectedstatistical analysis serf two related purpose description
+inference
+descriptive statistic used summarize data either
+numerically graphically describe sample basic examples
+numerical descriptor include mean standard deviation
+graphical summarization include various kind chartgraphs
+inferential statistic used model pattern data
+accounting randomness drawing inference larger
+population inference may take form answer yesno
+questionshypothesis testing estimate numerical
+characteristicsestimation forecasting future observations
+description associationcorrelation modelingrelationshipsregression modeling technique include
+anova time series data mining
+
+concept correlation particularly noteworthy statistical
+analysis data set may reveal two variable two
+property population consideration tend vary
+together connected example study annual
+income age death among people might find poor people tend
+shorter life affluent people two variable said
+correlated however one cannot immediately infer existence
+causal relationship two variable see correlation
+doe imply causation
+
+sample representative population inferenceconclusion made sample extended populationwhole major problem lie determining extentchosen sample representative statistic offer method estimate
+correct randomness sample data collection
+procedure well method designing robust experimentfirst place see experimental design
+
+fundamental mathematical concept employed understandingrandomness probability mathematical statistic also called
+statistical theory branch applied mathematics uses
+probability theory analysis examine theoretical basisstatistics
+
+use statistical method valid systempopulation consideration satisfies basic mathematical
+assumption method misuse statistic produce subtleserious error description interpretationsubtle even
+experienced professional sometimes make error seriousmay affect social policy medical practicereliability structure bridge nuclear power plants
+
+even statistic correctly applied result difficult
+interpret nonexpert example statistical
+significance trend datawhich measure extenttrend could caused random variation samplemay
+agree one intuitive sense significance setbasic statistical skill skepticism needed people dealinformation everyday life referred statistical
+literacy
+
+statistical methods
+
+experimental observational studies
+
+common goal statistical research project investigate
+causality particular draw conclusion effectchange value predictor independent variableresponse dependent variable two major type causal
+statistical study experimental study observational studytype study effect difference independent
+variable variable behaviour dependent variableobserved difference two type studyactually conducted effective
+
+experimental study involves taking measurement systemstudy manipulating system taking additional measurements
+using procedure determine manipulation maymodified value measurement contrast observational
+study doe involve experimental manipulation instead datagathered correlation predictor responseinvestigated
+
+example experimental study famous hawthorne studies
+attempted test change working environmenthawthorne plant western electric company researcherinterested whether increased illumination would increaseproductivity assembly line worker researcher first
+measured productivity plant modified illuminationarea plant see change illumination would affect
+productivity due error experimental procedure specifically
+lack control group blindedness researcherunable planned known hawthorne
+effect
+
+example observational study study explorescorrelation smoking lung cancer type study
+typically survey collect observation areainterest perform statistical analysis caseresearcher would collect observation smoker nonsmokers
+look number case lung cancer group
+
+basic step experimentplan research including determining information sources
+research subject selection ethical considerationproposed research method
+design experiment concentrating system modelinteraction independent dependent variables
+summarize collection observation feature commonality
+suppressing detailsdescriptive statistics
+reach consensus observation tell world
+observestatistical inference
+document present result study
+
+level measurement
+
+four type measurement measurement scale usedstatistic four type level measurement nominal ordinal
+interval ratio different degree usefulnessstatistical research ratio measurement zero valuedistance different measurement defined providegreatest flexibility statistical method usedanalysing data interval measurement meaningful distances
+measurement meaningful zero value measurement temperature measurement degree celsius ordinal
+measurement imprecise difference consecutive valuemeaningful order value nominal measurementmeaningful rank order among values
+
+statistical techniques
+
+well known statistical test procedure research
+observationstudent ttest
+chisquare test
+analysis variance anova
+mannwhitney regression analysis
+correlation
+fisher least significant difference test
+pearson productmoment correlation coefficient
+spearmans rank correlation coefficient
+
+specialized disciplines
+
+science use applied statistic extensivelyspecialized terminology discipline include
+actuarial science
+biostatistics
+business statistics
+data mining applying statistic pattern recognitiondiscover knowledge data
+economic statistic econometrics
+engineering statistics
+statistical physics
+demography
+psychological statistics
+social statistic social sciences
+statistical literacy
+statistical surveys
+process analysis chemometrics analysis dataanalytical chemistry chemical engineering
+reliability engineering
+image processing
+statistic various sport particularly baseball cricket
+
+statistic form key basis tool business manufacturing well
+used understand measurement system variability control
+process statistical process control spc summarizing
+data make datadriven decision role key
+tool perhaps reliable tool
+
+software
+
+rapid sustained increase computing power startingsecond half century substantial impactpractice statistical science early statistical model almost
+always class linear model powerful computer coupled
+suitable numerical algorithm caused resurgence interestnonlinear model especially neural network decision treecreation new type generalised linear modelmultilevel models
+
+computer revolution implication future statistics
+new emphasis experimental empirical statisticlarge number statistical packages
+
+criticism
+
+general perception statistical knowledgealltoofrequently intentionally misused finding way interpret
+data favorable presenter famous quote
+variously attributed thought benjamin disraelithree type lieslies damn lie statisticwellknown book lie statistic darrell huff discusses
+many case deceptive statistic focusing misleading
+graph choosing rejecting modifying certain sample
+result manipulated throwing outlier one meanmay result outright fraud subtleunintentional bias part researcher
+
+study contradict previously announced result people may
+become wary trusting study one might read study says
+example reduce high blood pressure followed study
+say doe affect high blood pressure followedstudy say actually worsens high blood pressure often
+study conducted different group different
+protocol smallsample study promised intriguing resultheld scrutiny largesample study however many
+reader may noticed distinction medium mayoversimplified vital contextual information publics
+distrust statistic thereby increased
+
+however deeper criticism come fact hypothesis
+testing approach widely used many case required lawregulation force one hypothesis favored null
+hypothesis also seem exaggerate importance minor
+difference large study difference highly statistically
+significant still practical significance
+
+field psychology medicine especially regardapproval new drug treatment food drug administration
+criticism hypothesis testing approach increased recent
+year one response greater emphasis pvaluesimply reporting whether hypothesis rejected given
+level significancehere however summarisesevidence effect size effect one increasingly
+common approach report confidence interval instead sinceindicate size effect uncertainty surrounding
+aid interpreting result confidence interval
+givensimultaneously indicates statistical significance
+effect size
+
+note pvalue confidence interval approach based
+fundamental calculation enteringcorresponding hypothesis test result stateddetailed format rather yesorno finality hypothesis
+test use underlying statistical methodology
+
+truly different approach use bayesian method see bayesian
+inference approach criticized well howeverstrong desire see good drug approved harmful useless ones
+restricted remain conflicting tensionstype type errorlanguage hypothesis testing
+
+book statistic principled argument robert abelson makes
+case statistic serf standardized mean settling
+argument scientist could otherwise argue merits
+case infinitum statistic view formrhetoric viewed positive negativemean settling dispute statistical method succeedlong side accept approach agree particular
+method used
+

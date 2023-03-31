@@ -1,0 +1,253 @@
+copyright
+
+corrosion
+
+ school wikipedia selection related subject engineering
+
+mechanical failure modes
+buckling
+corrosion
+creep
+fatigue
+fracture
+melting
+thermal shock
+wear
+
+corrosion deterioration essential property material duereaction environment loss electron metals
+reacting water oxygen weakening iron due oxidationiron atom wellknown example electrochemistry branchchemistry study reaction take place ionicelectronic conductor interfere corrosion commonly knownrust type damage usually affect metallic materialtypically produce oxide andor salt original metal
+corrosion also includes dissolution ceramic materialrefer discoloration weakening polymer suns
+ultraviolet light
+
+structural alloy corrode merely exposure moistureair process strongly affected exposure certain
+substance see corrosion concentrated locally formpit crack extend across wide area produce general
+deterioration effort reduce corrosion merely redirect
+damage visible predictable form controlled
+corrosion treatment passivation chromateconversionincrease material corrosion resistance
+rust familiar example corrosion
+enlarge
+rust familiar example corrosion
+
+corrosive substances
+
+corrosive warning symbol
+enlarge
+corrosive warning symbol
+
+corrosive chemical include following classes
+acids
+base caustic alkalis
+dehydrating agent phosphorous pentoxide calcium oxide
+halogen halogen salt bromine iodine zinc chloride
+sodium hypochlorite
+organic halide organic acid halide acetyl chloride
+benzyl chloroformate
+acid anhydrides
+organic material phenol carbolic acid
+
+corrosion nonmetals
+
+ceramic material almost entirely immune corrosionstrong ionic andor covalent bond hold together leavelittle free chemical energy structure thoughtalready corroded corrosion doe occur almost alwayssimple dissolution material chemical reaction ratherelectrochemical process common example corrosion protectionceramic lime added sodalime glass reduce solubility
+water though nearly soluble pure sodium silicate
+normal glass doe form submicroscopic flaw exposed moisture
+due brittleness flaw cause dramatic reductionstrength glass object first hour room
+temperature
+
+degradation polymeric material due wide arraycomplex often poorlyunderstood physiochemical processstrikingly different process discussedterm corrosion applied loose senseword large molecular weight little entropygained mixing given mass polymer another substance
+making generally quite difficult dissolve dissolutionproblem polymer application relatively simpledesign common related problem swellingsmall molecule infiltrate structure reducing strengthstiffness causing volume change conversely many polymers
+notably flexible vinyl intentionally swelled plasticizers
+leached structure causing brittlenessundesirable change common form degradation howeverdecrease polymer chain length mechanism break polymer chains
+familiar biologist effect dna ionizing
+radiation commonly ultraviolet light free radicaloxidizer oxygen ozone chlorine additive slowprocess effectively simple uvabsorbing
+pigment titanium dioxide carbon black plastic shopping bags
+often include additive breakeasily litter
+
+remainder article electrochemical corrosion
+
+electrochemical theory
+
+one way understand structure metal basis particles
+imagine array positivelycharged ion sittingnegativelychargedgas free electron coulombic attraction holds
+oppositelycharged particle together sorts
+negative charge also attracted metal ionnegative ionsanions electrolyte given ionsurface metal certain amount energy gainedlost dissolving electrolyte becoming partmetal reflects atomscale tugofwar electron gas
+dissolved anion quantity energy strongly dependshost variable including type ion solutionconcentration number electron present metals
+surface turn corrosion process cause electrochemical changes
+meaning strongly affect variable overall
+interaction electron ion tends produce statelocal thermodynamic equilibrium often described using basic
+chemistry knowledge initial conditions
+
+galvanic series
+
+given environment one standard medium aerated
+roomtemperature seawater one metal either nobleactive next based strongly ion boundsurface two metal electrical contact share electron gas
+tugofwar surface translated competition
+free electron two material noble metal tend
+take electron active one electrolyte hostflow ion direction resulting mass flowelectrical current measured establish hierarchymaterial medium interest hierarchy calledgalvanic series useful
+
+resistance corrosion
+
+metal intrinsically resistant corrosion others
+either due fundamental nature electrochemical processes
+involved due detail reaction product formexample see galvanic series susceptible material used
+many technique applied item manufacture useprotect material damage
+
+intrinsic chemistry
+
+gold nugget corrode even geological time scale
+enlarge
+gold nugget corrode even geological time scale
+
+material resistant corrosion corrosion
+thermodynamically unfavorable corrosion product goldplatinum tend decompose spontaneously pure metalelement found metallic form earth large
+part intrinsic value common base metalprotected temporary means
+
+metal naturally slow reaction kinetics even thoughcorrosion thermodynamically favorable include metalzinc magnesium cadmium corrosion metalcontinuous ongoing happens acceptably slow rateextreme example graphite release large amount energy
+upon oxidation slow kinetics effectively
+immune electrochemical corrosion normal conditions
+
+passivation
+
+given right condition thin film corrosion product form
+metal surface spontaneously acting barrieroxidation layer stop growing micrometre
+thick condition material usedphenomenon known passivation rust example usually growsmuch thicker considered passivationmixed oxidized layer protective effectsense property material serf indirect kinetic
+barrier reaction often quite rapid unlessimpermiable layer form passivation air water moderate phseen material aluminium stainless steel titaniumsilicon
+
+condition required passivation specific material
+effect recorded using pourbaix diagram manyfactor influential condition inhibit passivation
+include high aluminium low presence chloride ions
+stainless steel high temperature titanium caseoxide dissolve metal rather electrolytefluoride ion silicon hand sometimes unusual
+condition bring passivation material normally
+unprotected alkaline environment concrete doe steel
+rebar exposure liquid metal mercury hot solderoften circumvent passivation mechanisms
+
+surface treatments
+
+galvanized surface
+enlarge
+galvanized surface
+
+applied coatings
+
+plating painting application enamel common
+anticorrosion treatment work providing barriercorrosionresistant material damaging environmentoften cheaper tougher andor easiertoprocess structural material
+aside cosmetic manufacturing issue tradeoffmechanical flexibility versus resistance abrasion high
+temperature plating usually fail small sectionplating noble substrate example chromiumsteel galvanic couple cause exposed area corrode much
+rapidly unplated surface would reasonoften wise plate active metal zinc cadmium
+
+reactive coatings
+
+environment controlled especially recirculating systems
+corrosion inhibitor often added formelectrically insulating andor chemically impermeable coatingexposed metal surface suppress electrochemical reactionmethod obviously make system sensitive scratchdefect coating since extra inhibitor made available
+wherever metal becomes exposed chemical inhibit corrosion
+include salt hard water roman water system famous
+mineral deposit chromate phosphate wide rangespeciallydesigned chemical resemble surfactant longchain
+organic molecule ionic end groups
+figure descender annodized yellow finish climbing
+equipment available wide range anodized colors
+enlarge
+figure descender annodized yellow finish climbing
+equipment available wide range anodized colors
+
+anodization
+
+aluminium alloy often undergo surface treatment electrochemical
+condition bath carefully adjusted uniform pores
+several nanometer wide appear metal oxide film pores
+allow oxide grow much thicker passivating condition would
+allow end treatment pore allowed seal
+forming harderthanusual surface layer coatingscratched normal passivation process take protectdamaged area
+
+cathodic protection
+
+cathodic protection technique control corrosionmetal surface making surface cathode electrochemical
+cell
+
+method used protect metal structure corrosion
+cathodic protection system commonly used protect steel
+water fuel pipeline tank steel pier pile shipoffshore oil platforms
+
+effective potential steel surface polarized
+pushed negative metal surface uniform potential
+uniform potential driving force corrosion reaction
+halted galvanic system anode material corrodesinfluence steel eventually must replacedpolarization caused current flow anodecathode driven difference electrochemical potentialanode cathode
+
+larger structure galvanic anode cannot economically deliver
+enough current provide complete protection impressed current
+cathodic protection iccp system use anode connected power
+source cathodic protection rectifier anode iccp systemtubular solid rod shape various specialized materialinclude high silicon cast iron graphite mixed metal oxide platinum
+coated titanium niobium coated rod wires
+
+corrosion passivated materials
+
+passivation extremely useful alleviating corrosion damagecare must taken trust thoroughly even highquality
+alloy corrode ability form passivating filmcompromised resulting mode corrosion exotic
+immediate result visible rust bulk
+corrosion often escape notice cause problem amongfamiliar
+pitting corrosion
+
+certain condition low availability oxygen high
+concentration specie chloride compete anioninterfere given alloy ability reform passivating film
+worst case almost surface remain protectedtiny local fluctuation degrade oxide film critical
+point corrosion point greatly amplifiedcause corrosion pit several type depending upon conditioncorrosion pit nucleate fairly extreme circumstances
+continue grow even condition return normal since
+interior pit naturally deprived oxygen extreme
+case sharp tip extremely long narrow pit cause
+stress concentration point otherwise tough alloyshatter thin film pierced invisibly small hole hidethumb sized pit view problem especially dangerous
+difficult detect part structure fails
+pitting remains among common damaging form corrosion
+passivated alloy prevented control alloys
+environment often includes ensuring material exposed
+oxygen uniformly eliminating crevices
+
+fretting
+
+many useful passivating oxide also effective abrasives
+particularly tio alo fretting corrosion occursparticle corrosion product continuously abrade away passivating
+film two metal surface rubbed together processoften damage fret musical instrument named
+separately
+
+weld decay knifeline attack
+
+stainless steel pose special corrosion challenge sincepassivating behaviour relies presence minor alloying
+component chromium typically onlydue elevated
+temperature welding improper heat treatment chromium
+carbide form grain boundary stainless alloychemical reaction robs material chromium zone neargrain boundary making area much resistant corrosion
+creates galvanic couple wellprotected alloy nearby
+lead weld decay corrosion grain boundary near
+weld highly corrosive environment special alloy eitherlow carbon content added carbongetters titaniumniobium typesandrespectively prevent effect
+latter require special heat treatment welding prevent
+similar phenomenon knifeline attack name applieslimited small zone often micrometres acrosscause proceed rapidly zone near weld
+making even noticeable
+
+microbial corrosion
+
+microbial corrosion bacterial corrosion corrosion causedpromoted microorganism usually chemoautotrophs applymetal nonmetallic material presence lack
+oxygen sulfatereducing bacteria common lack oxygenproduce hydrogen sulfide causing sulfide stress cracking presence
+oxygen bacteria directly oxidize iron iron oxidehydroxide bacteria oxidize sulfur produce sulfuric acid
+concentration cell form deposit corrosion products
+causing enhancing galvanic corrosion
+
+high temperature corrosion
+
+high temperature corrosion chemical deterioration material
+typically metal high temperature conditionnongalvanic form corrosion occur metal subjecthigh temperature atmosphere containing oxygen sulphurcompound capable oxidising assisting oxidationmaterial concerned example material used aerospace power
+generation even car engine resist sustained periodhigh temperature may exposed atmosphere
+containing potentially highly corrosive product combustion
+
+product high temperature corrosion potentially turnedadvantage engineer formation oxide stainless
+steel example provide protective layer preventingatmospheric attack allowing material used sustained
+period room high temperature hostile conditionhigh temperature corrosion product form compacted oxide
+layer glaze also shown prevent reduce wear high
+temperature sliding contact metallic metallic ceramic
+surfaces
+
+economic impact
+
+u federal highway administration released study entitled
+corrosion cost preventive strategy united state 
+direct cost associated metallic corrosion nearly every
+u industry sector study showed forthe total annual
+estimated direct cost corrosion wa approximately 
+billion approximatelyof gross domestic product fhwa
+report numberfhward nace international website hasummary slideshow report finding jones writeselectrochemical corrosion cause betweenbillion andbillioneconomic damage per year united state alone degrading
+structure machine containers

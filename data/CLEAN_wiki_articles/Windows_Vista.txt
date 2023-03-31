@@ -1,0 +1,646 @@
+copyright
+
+window vista
+
+ school wikipedia selection related subject software
+
+window vista
+part microsoft window family
+screenshot
+screenshot window vista
+developer
+microsoft
+web site wwwmicrosoftcomwindowsvista
+release information
+release datejanuaryinfo
+current version rtm buildnovemberinfo
+source modelclosed source
+licensemicrosoft eula
+kernel typehybrid kernel
+support status
+released novemberto manufacturing released november 
+msdn subscriber released novemberfor
+volume license customer januaryfor worldwide retail
+availability
+reading
+feature new window vista
+security safety feature new window vista
+development window vista
+criticism window vista
+
+window vista name latest release microsoft windowline graphical operating system used personal computers
+including home business desktop notebook computer media
+center prior announcement julyvista knowncodename longhorn novemberwindows vista development
+wa completed release manufacturing stage
+microsoft stated scheduled release date currently
+novemberfor volume license customer worldwide
+availability januarywindows vista english editionreleased msdn subscriber novemberthese release dates
+come five year release window microsofts
+current consumer business operating system making longest
+time span major release windows
+
+according microsoft window vista contains hundred new
+feature significant include updated
+graphical user interface visual style dubbed window aero improved
+searching feature new multimedia creation tool window dvd
+maker completely redesigned networking audio print display
+subsystem vista also aim increase level communication
+machine home network using peertopeer technology
+making easier share file digital medium computerdevice developer vista introduces versionof net
+framework aim make significantly easier developerwrite highquality application traditional window api
+
+microsofts primary stated objective vista however haimprove state security window operating system onecommon criticism window predecessor hacommonly exploited security vulnerability overall
+susceptibility malware virus buffer overflow lightmicrosoft chairman bill gate announced earlya
+companywidetrustworthy computing initiative aimincorporate security work every aspect software developmentcompany microsoft claimed prioritized improvingsecurity window window serverabove finishing windows
+vista significantly delaying completion
+
+course development vista targetnumber negative assessment various group criticism windows
+vista included protracted development time restrictive
+licensing term inclusion number new digital rights
+management technology aimed restricting copying protected
+digital medium usability new feature user account
+control
+
+development
+
+microsoft started work plan longhorn mayprior
+release microsofts window operating systemoriginally expected ship sometime late inas minor step
+window blackcomb known window vienna
+indeed longhorn vista original codename allusionplan whistlerblackcomb large ski resort british
+columbia longhorn saloongrill name apr bartwo mountain whistler visitor pas reach blackcomb
+gradually longhorn assimilated many important new features
+technology slated blackcomb resulting release date
+pushed back time many microsofts developer also
+retasked improving security window faced ongoing
+delay concern feature creep microsoft announced august
+wa making significant change longhorn development
+basically started afresh building window servercodebase
+reincorporating feature would intendedactual operating system release previously announced features
+winfs ngscb dropped postponed new software
+development methodology called security development lifecycleincorporated effort address concern securitywindow codebase
+
+longhorn named window vista unprecedented betatest
+program started involved hundred thousandvolunteer company septembermicrosoft started
+releasing regular community technology preview ctp beta testers
+first distributed amongmicrosoft professional
+developer conference attendee subsequently releasedmicrosoft beta tester microsoft developer network subscriberbuild followed incorporated planned featurefinal product well number change user interface
+based large part feedback beta tester window vistadeemed featurecomplete release february ctp
+released februaryand much remainder work
+build final release product focusedstability performance application driver compatibilitydocumentation betareleased late may first buildmade available general public microsofts customer
+preview program downloaded five million people
+two release candidate followed september octobermade available large number users
+
+microsoft originally hoped operating system
+available worldwide time theholiday seasonannounced marchthat release date would pushed backjanuaryso give companyand hardware software
+company microsoft depends providing device driver 
+additional time prepare much ofanalysts bloggers
+speculated window vista would delayed owingantitrust concern raised european commission south korea
+due perceived lack progress beta releases
+however novemberannouncement completionwindow vista microsofts lengthy operating system development
+project company history come end
+
+new improved features
+
+window vista long list new feature changeimprovement recent development build window vista microsoft
+employee blog published documentation including nearcomplete
+list feature window vista product guide collectively
+identified feature microsoft intends includeproduct released
+
+enduser features
+
+window aero new hardwarebased graphical user interface named
+window aeroan acronym possibly backronym authentic
+energetic reflective open new interface intendedcleaner aesthetically pleasing previous windows
+including new transparency animation eye candy
+window shell new window shell significantly different
+window offering new range organization navigation
+search capability window explorer task pane haremoved integrating relevant task option toolbarfavorite link pane added enabling oneclick accesscommon directory address bar replacedbreadcrumb navigation system start menu changed well
+longer everexpanding box navigatingprogram even word start removed favour
+blue window orb
+window search also known instant search searchtype significantly faster thorough search capabilities
+search box added start menu window explorer
+several application included vista default
+instant search index small number folderstart menu name file opened document folderuser email
+
+window sidebar transparent panel anchored sidescreen user place desktop gadget small
+applet designed specialized purpose displayingweather sport score gadget also placedpart desktop desired technology bearresemblance older active channel active desktop
+technology introduced windowsoem service release 
+gadget technology versatile integrated
+internet explorer browser way active
+desktop
+window internet explorernew user interface tabbed browsing
+r search box improved printing page zoom quick tabs
+thumbnail open tab number new security protection
+feature improved web standard support
+window medium playera major revamp microsofts programplaying organizing music video new featureversion include word wheeling search typecompletely new highly graphical interface media
+library photo display organization ability share
+music library network vista machine xbox 
+integration support medium centre extenders
+backup restore centre includes backup restore
+application give user ability schedule periodic
+backup file computer well recoveryprevious backup backup incremental storing changes
+time minimizing disk usage also feature completepc
+backup back entire computer image onto hard
+disk dvd completepc backup automatically recreate machine
+setup onto new hardware hard disk case hardware
+failures
+window mail replacement outlook express includescompletely replaced mail store improves stability enables
+realtime search new junk mail filtering
+
+window calendar new calendar task application
+window photo gallery photo movie library management
+application wpg import digital camera tag rate
+individual item adjust color exposure create display
+slideshows pan fade effect burn slideshows dvd
+window dvd maker companion program window movie maker
+provides ability create video dvd based users
+content
+window meeting space replacement netmeeting usershare application entire desktop userlocal network internet using peertopeer
+technology
+window medium centre previously exclusively bundledseparate version window known window medium centre
+edition incorporated home premium ultimate
+edition window vista
+
+game every game included window rewritten take
+advantage vista new graphic capability new game include
+chess titan mahjong titan purble place game section
+also hold link information game users
+computer one piece information shown games
+esrb rating
+
+previous version automatically creates backup copy filefolder daily frequency user also create shadow
+copy setting system protection point using system
+protection tab system control panel userpresented multiple version file throughout limited history
+allowed restore delete copy versionfeature available business enterprise ultimate
+edition window vista inherited window server
+
+window mobility centre new control panel centralizes
+relevant information related mobile computing brightness sound battery levelpower scheme selection wireless
+network screen orientation presentation setting etc
+window update software security update simplified
+operating solely via control panel instead web
+application mail spam filter defender definitionalso automatically updated via window update
+parental control allows administrator control websites
+program game standard user use install
+window sideshow enables auxiliary display newer laptops
+supported window mobile device meant useddisplay device gadget computerspeech recognition fully integrated vistatrained understand user voice activate commandwindow application enable voice dictation supports
+multiple languages
+many new font including several designed especially screen
+reading new highquality chinese yahei jhenghei japanese
+meiryo korean malgun font see window vista typefaces
+cleartype also enhanced enabled default
+touchscreen support included part tablet pcincorporated standard component
+problem report solution new control panel allows
+user see previously sent problem solutionadditional information available
+improved audio control allow systemwide volume volumeindividual audio device even individual applicationcontrolled separately
+full symbolic link support made available first
+time window user vista
+system performance assessment benchmark used window vista
+regulate system optimum performance game take
+advantage feature reading data producedbenchmark order finetune game detail benchmark
+test cpu ram graphic acceleration disk access
+enable advanced performance hard disk power
+supplywhen option enabled hdd operates writeback
+cache mode data get written drivefirst stored cache later written diskwrites read cached case disabled hdd
+operates like window writethrough cache modedata get written drive immediately writtendisk also stored cache writes cachedread
+core technologies
+
+window vista intended technologybased release provide
+solid base include advanced technology manyrelated system function hence readily visibleuser example complete restructuringarchitecture audio print display networking subsystems
+result work clearly visible software
+developer endusers see appear evolutionary
+change user interface
+
+vista includes technology readyboost readydriveemploy fast flash memory located usb drive hybrid hard disk
+drive respectively improve system performance caching
+commonlyused program data manifest improved
+battery life notebook computer well since hybrid drivespun use another new technology called superfetch
+utilizes machine learning technique analyze usage pattern order
+allow window vista make intelligent decision content
+present system memory given time
+
+part complete redesign networking architecture ipv
+ha fully incorporated operating system numberperformance improvement introduced tcp window
+scaling prior version window typically needed thirdparty
+wireless networking software work properly longercase vista includes comprehensive wireless networking
+support
+
+graphic vista introduces new window display driver modelwell major revision directd new driver model facilitates
+new desktop window manager provides tearingfree desktop
+special effect cornerstone window aero directd
+developed conjunction major display driver manufacturers
+new architecture advanced shader support allowsgraphic processing unit render complex scene without
+assistance cpu feature improved load balancingcpu gpu also optimizes data transfer
+core operating system many improvement made
+memory manager process scheduler heap manager scheduler kernel transaction manager implemented gives
+application ability work file system registry
+using atomic transaction operations
+
+securityrelated technologies
+
+improved security primary design goal vista microsofts
+trustworthy computing initiative aim improve public trustproduct direct effect development vista
+securityrelated technology include
+user account control uac new security technology allows
+window operate effectively standard user fewer
+privilege often difficult thing previous
+version window previous limited user accounts
+proved restrictive incompatible large proportionapplication software action requiring administrative
+right requested user first prompted confirm
+action asked administrator passwordadministrator uac asks credentialsecure desktop mode entire screen blackedtemporarily disabled present elevation uiprevent spoofing mouse application
+requesting elevation preventing applicationbased shatter
+attack uac also provides file registry virtualization protected mode relay uac
+integrity mechanism restrict write access securable objectlower integrity process much way user account
+group membership restricts right user access sensitive
+system components
+user interface privilege isolation uipi prevents processsending selected window message hook attach processes
+running higher integrity
+window firewall advanced security support filteringincoming outgoing traffic also possible create
+advanced packet filter rule rule configured services
+service name chosen list without needing specify
+full path file name
+window defender microsofts antispyware product haincorporated window offering protection spywarethreat change various system configuration settings
+new autostarting application blocked unlessuser give consent new version window automatic updates
+receive definition update also work properly standard
+user account integration window maildownloads mail attachment scanneddownloaded reduces risk accidentally downloading
+malicious software
+bitlocker drive encryption data protection featureprovides encryption entire volumeincluded enterprise ultimate edition vista
+bitlocker work conjunction trusted platform module
+chip computer motherboard
+window service hardening prevents window serviceoperation file system registry networksupposed automatically running service separate
+user account thereby preventing entry malware piggybacking
+system services
+address space layout randomization aslr prevent returntolibc
+buffer overflow attacks
+window filtering platform enables software firewall
+product perform activity packet inspection
+antivirus software also use file system mini filterparticipate file system activities
+kernel patch protection protects integrity kernelbit version malicious attack inadvertent
+reliability problem result patchingactually new security feature window vista first
+supported amdemt cpu architecture versionmicrosoft window including microsoft window serverspmicrosoft window professional edition kernel patch
+protection monitor key resource used kernel kernel
+code modified initiate shutsystem unauthorized patch certain data structure code
+detected kernel patch protection designed protect
+threat rootkits although cannot currently
+prevent attack exploiting hardwarebased virtualizationdemonstrated blue pill
+code integrity protects window vista verifying system
+binary havent tampered malicious codeensuring unsigned driver running kernel mode
+system start window start boot loader
+check integrity kernel hardware abstraction layer
+hal bootstart driver binaryverified system start memory manager call civerify binary loaded kernel memory space
+binary verified looking signaturesystem catalog aside kernel memory space verifies
+binary loaded protected process system installed
+dynamic library implement core cryptographic functions
+internet explorer new security safety feature includephishing filter idn antispoofing technology better
+integration systemwide parental control added security
+activex control disabled default also internet explorer
+operates protected mode sandbox operates lower
+permission user preventing accessingmodifying anything besides temporary internet file directory
+also better security internet explorer longer
+integrated explorer shell local file typed ieopened using explorer shell web site typed explorer
+shell opened using default web browser
+added new ssl extension enable supportaes new ecc cipher suite support aes available
+microsoft windowsor window server 
+
+business technologies
+
+much focus vista new capability new
+user interface security technology improvement core
+operating system microsoft also adding new deploymentmaintenance feature make compelling case business still
+running window ntand desktops
+wim image format window image cornerstonemicrosofts new deployment packaging system wim filecontain image window vista maintained patched
+without rebuild new image window imagedelivered via system management server business desktop
+deployment technology image customized configured
+application deployed corporate client personal
+computer using little touch system administrator
+imagex microsoft tool used create customize images
+window deployment service replaces remote installation services
+deploying vista prior version windows
+approximatelynew group policy setting added
+covering aspect new feature operating system
+well significantly expanding configurability wireless
+network removable storage device user desktop experience
+
+service unix renamed subsystem unixbased
+application included enterprise ultimate
+edition vista network file system nfs client support also
+included
+wireless projector support
+
+developer technologies
+
+window vista includes large number new application programming
+interface chief among inclusion versionofnet framework consists class library common language
+runtime versionincludes several new technologies
+
+presentation
+window presentation foundation wpf formerly codenamed
+avalon new user interface subsystem framework baseddirectd directx vector graphic make usecomputer graphic hardware directd technology see
+window graphic foundation provides foundationbuilding application blending together application document medium content
+
+communication
+window communication foundation wcf formerly codenamed
+indigo serviceoriented messaging subsystem enable
+application system interoperate locally remotely
+using web services
+
+workflow
+window workflow foundation wa announced august
+allows task automation integrated transactions
+using workflow programming model engine tools
+building workflow enabled application windows
+
+identity
+window cardspace wcs formerly codenamed infocardsoftware component securely store digital identityperson provides unified interface choosingidentity particular transaction loggingwebsite
+
+technology also available window windows
+serverto facilitate introduction usage developers
+end users
+
+also significant new development apis coreoperating system notably completely rearchitected audio
+networking print video interface major change security
+infrastructure improvement deployment installationapplicationsclickonce window installernew device
+driver development modelwindows driver foundation transactional
+ntfs mobile computing api advancement power management tablet ink support sideshow major update complete replacements
+many core subsystem winlogon capi
+
+issue software developer usinggraphic apis vista game program built vistas
+version directxwill work prior version windowdirectxis backwardscompatible directxaccordingmicrosoft blog three choice opengl implementationvista application use default implementationtranslates opengl call directd api frozen opengl
+versionor application use installable client driver
+icd come two flavour legacy vistacompatiblelegacy icd kind already provided independent hardware vendors
+targeting window disable desktop window manager
+noticeably degrading user experience window aerovistacompatible icd take advantage new api fully
+compatible desktop window manager least two primary
+vendor ati nvidia expected provide full vistacompatible
+icds near future
+
+deprecated features
+
+notable window feature component replacedremoved window vista perhaps significantremoval window messenger network messenger service
+hyperterminal msn explorer replacement netmeetingwindow meeting space window vista also doe include windows
+xp luna visual theme classic colour schemepart window since window era hardware
+profile startup feature removed well along support
+older motherboard technology like eisa bus apm
+winhlpexe used display bit hlp file longer included
+window vista microsoft considers obsolete resulted
+number older program able display helprunning vista addition microsoft prohibits software
+manufacturer reintroducing product however
+winhlpexe still installed manually microsofts download
+centre
+
+telnetexe longer installed default still includedinstallable feature
+
+postponed features
+
+course development number featureannounced discussed publicly longer slated included
+initial release window vista
+due scheduling issue window powershell codenamed monad
+included window vista however availableseparate download 
+owing significant difficulty getting thirdparty developers
+support system particularly due lack supportwriting trusted operating root using net managed code
+nextgeneration secure computing base architectureabandoned window vista aspect ngscb initiative
+support trusted platform module chip still
+present though role limited providercryptographic function support bitlocker drive
+encryption
+
+support intels extensible firmware interface originally
+slated included vista removed duemicrosoft described lack support desktop computers
+uefispecification replaces efiwascompleted earlyand mid firmware
+manufacturer completed production implementation microsoft
+ha stated intends incorporating bit uefi support
+future update vista bit uefisupported
+
+pctopc sync technology synchronizing folder multiple
+computer using peertopeer technology removed due quality
+concern microsoft plan release vista release
+
+visual styles
+
+window vista four distinct visual styles
+
+window aero
+vista premier visual style built new desktop
+composition engine called desktop window manager window aero
+introduces support graphic window fliptranslucency effect glass window animation visual
+effect intended mainstream highend graphics
+card enable feature content every open
+window stored video memory facilitate tearingfree
+movement window window aero significantly
+higher hardware requirement predecessorsmbgraphic memory minimum requirement dependingresolution used window aero including window flipplanned inclusion starter home basic editions
+requires window genuine advantage passed
+
+window vista standard
+mode variation window aero without glass
+effect window animation advanced graphical effects
+window flip like window aero desktop
+window manager generally video hardware
+requirement window aero default modewindow vista home basic edition starter developing
+market edition doe support mode
+
+window vista basic
+mode aspect similar window xps visual
+style addition subtle animation found
+progress bar doe employ desktop window manager
+doe feature transparency translucency
+window animation window flip functions
+provided dwm basic mode doe require new
+window display driver model wddm display driversimilar graphic card requirement window computers
+graphic card powerful enough support
+window aero default graphic mode
+
+window classic
+option corporate deployment upgrade windows
+classic look feel windowsand window server
+doe use desktop window manager doerequire wddm driver prior version windowtheme support color scheme collection color
+setting window vista includes six classic color schemes
+comprised four highcontrast colour scheme welldefault colour scheme windowsand window 
+
+window aero style window vista standard similar appearance
+without glass effect around windows
+
+window vista basic visual style
+
+window classic visual style
+
+hardware requirements
+
+according microsoft computer capable running window vistaclassified vista capable vista premium ready vista capableequivalent need leastmhz processormb ramdirectxclass graphic card capable supporting
+high end vista graphic including aero user interface vista
+premium ready take advantage vista highend featureneed least aghz processorgb main memoryaerocompatible graphic card leastmb graphic memorysupporting new window display driver model company also
+offer release candidate window vista upgrade advisorweb site determine ability run vista various
+guise utility run window window vista
+
+microsoft list vista capable hardware web sitevista premium ready laptop specify intel coreduocpu andgb memory
+
+microsoft specifiesgb main memory ram nigel pagemicrosoft indicated thatgb ideal configuration bit
+vista process data chunk double sizebit vista hence requiring double memory
+
+window vista basic classic interface workvirtually graphic hardware support window 
+accordingly discussion around vista graphic requirements
+center window aero interface window vista
+betathe nvidia geforce family later ati radeonand
+later intels gmaintegrated graphic handful via
+chipsets graphic discrete chip supported though xgi
+technology volari chip directxincluding volari vxtwa available pci card xgis exit graphic card
+business appears none chip supported vista beta 
+
+microsoft specifically stated whether agp pci express
+pcie video card requirement window aero recommend
+pcie video due greater bandwidth pci cards
+available compatible window vista well testing
+release candidate proven window aero performs
+smoothly directxagp video cards
+
+caption window vista system requirements
+
+vista capable vista premium ready
+processormhzghz
+memorymb ramgb ram
+graphic card directxcapable directxcapable gpu hardware
+pixel shader wddm driver support
+graphic memory namb ram support tototal pixels
+egormb greater resolution hdd capacitygbgb
+hdd free spacegbgb
+hdd type normal normal hybrid flash memoryhard disk drive
+recommended
+drive dvdrom
+
+edition pricing
+
+window vista ship six edition edition available
+bitx bitx architecture except windows
+vista starter available bit architectures
+microsoft maintains detailed product guide describes various
+edition window vista including detailed comparison chartfeatures
+
+septemberusd pricing announced four editions
+plan making available retail channel new licenseupgrade license skus edition made available
+
+caption window vista edition pricing
+
+edition description pricing usd retail box
+retail upgrade
+window vista
+starter much like window starter edition editionlimited emerging market india russia mexico brazil
+thailand indonesia mainly offer legal alternative using
+unauthorized copy available united states
+canada europe many significant limitationallowing user launch three application user interface
+accepting incoming network connection physical memory
+limit ofmb run bit mode additionallyduron sempron geode processor amd intels celeronpentium iii processor supported pricing announced box shot
+available
+window vista
+home basic similar window home edition home basic intended
+budget user requiring advanced medium support home usewindow aero theme translucent effect includededition home basic support togb physical memory
+
+window vista
+home premium containing feature home basic editionalso support advanced feature aimed home market segment
+hdtv support dvd authoring extra premium game mobiletablet network projector touchscreen auxiliary display via
+window sideshow support utility schedule backup also
+included home premium also support tophysical processorsimultaneous peer network connection compared toin home basic
+version meeting space included also allow interaction
+home basic may view meeting remote desktop
+session may received controlled editionedition comparable window medium centre edition tablet edition home premium support togb physical memory
+
+window vista
+business comparable window professional aimedbusiness market includes feature home premiumexception window medium centre parental control window dvd
+movie maker includes web server fax support file system
+encryption system image backup recovery offline file supportfull version remote desktop adhoc collaboration capabilities
+previous version window shadowcopy several business
+feature home premium business supportsgb memory
+
+window vista
+enterprise edition aimed enterprise segmentmarket superset business edition additional features
+include multilingual user interface support bitlocker drive
+encryption unix application support editionavailable retail oem channel microsoft
+software assurance part software assurance enterprise licensing window vista
+ultimate edition combine feature home premiumenterprise edition game performance tweakerwinsatultimate extra microsoft far little say regarding
+ultimate extra expected include special online
+service downloadable medium well additional customer service
+option ultimate edition aimed highend user gamers
+multimedia professional enthusiasts
+
+notes
+home basic business edition window vistaadditionally available european union editions
+ship without window medium player according sanction brought microsoft violating antitrust laws
+express upgrade program available providing freelowcost upgrade people purchase computer window octoberand marchthe precise cost vary
+oem manufacturer dell example offer free
+upgrade window professional window vista business
+upgrade window home window vista home basic
+costusd
+around end august number web site reportingadditional license skus available well 
+discount retail price based pricing
+information appeared amazoncom pricing information
+additional license skus removed shortly afterwards
+microsoft commented publicly availability pricing
+additional license window vista
+edition window vista ship dvdlicense key purchased determines versioninstalled product key entered user choose
+whether install bit bit version edition
+except starter edition feature home premiumultimate edition may unlocked time purchasingonetime upgrade license control panel tool called
+window anytime upgrade business edition alsoupgradable ultimate license sold microsofts
+partner oems directly microsoft
+
+packaging
+
+retail edition window vista come packaged clear
+hardplastic case designed userfriendly new packagingsmall hard plastic container protect software
+inside lifelong use case open sideways revealwindow vista dvd suspended clear plastic case window vista
+disc holographic design similar discmicrosoft produced since window 
+
+criticism
+
+criticism window vista include protracted development timerestrictive licensing term inclusion number technologies
+aimed restricting copying protected digital mediumusability new user account control security technology
+reviewer also noted similarity vista aero interface
+apple mac operating system particularly arounduse transition effect moreover concern raised
+many meeting vista premium ready hardware requirementvista pricing
+
+licensing introduction license restriction retail buyers
+legally transferring copy vista criticized heavilysince changed licensing term vista allowed
+buyer retail copy vista transfer software new
+machine one time user wanted move software second
+time would contact microsoft via phone provinghold valid license get code allow move sincemicrosoft responded complaint modified eularead may uninstall software install another device
+use may share license devices
+window separate rule apply oem version vista
+installed new legally transferrable costwindow vista also criticised high majority
+user poll said price various window vista
+edition posted microsoft canada website augustmakeproduct expensive
+
+digital right management another common criticism concernintegration new form digital right managementoperating system specifically highbandwidth digital content
+protection hdcp image constraint token ict reduces
+quality highdefinition video content video cardmonitor hdcpenabled criticism hdcp maymisplaced however still unclear whether high
+definition medium subject hdcp protection
+
+user account control concern raised new user
+account control security technology yankee group analyst andrew
+jaquith belief critical security vulnerability may reduced
+much aspercent also noted new security
+system show promise far chatty annoying
+
+kernel patch protection kernel patch protection feature also
+known patchguard bit version vista lockkernel criticised computer security company mcafeeclaim since patchguard also prevents thirdparty security
+company getting inside cannot activate crucial
+security measure software protect intruders
+microsofts argument keep miscreant prevent incidence attack somethingcustomer asking firewall maker agnitum othersargued patchguard circumvented hackersecurity software maker must use similar method mcafee also
+stated vista even secure previous versionwindow however security vendor kaspersky lab claimdifficult vista antivirus software workwould make sense microsoft stop working security
+company would make system vulnerableattack sophos add microsoft doe need open patchguard
+third party developer instead use apis microsoft
+supply
+similarity mac another criticism claimwindow vista emulates specific feature apple computer mac scott spanbauer pcworld note striking similarityvista aero visual effect icon design button mac x aqua vista also incorporated feature hatime fast searching smart folder functionalityha led conclusion aero imitation aqua apple
+highlighted similarity keynote presentationworldwide developer conference augustwith bertrand serlet
+showing screenshots vista sidebyside however severalfeature microsoft accused copying appeared early
+testing version longhorn desktop search capabilites
+
+hardware requirement controversy concern arisenincrease hardware specification required take advantage
+many vista new feature may impact personal business
+user purchased afterwill able meet vistas
+minimum window vista capable requirement many laptop lowend
+midrange desktop integrated graphic able meet
+window vista premium ready requirement thereforeable run advanced feature aero glass interface
+
+anticompetition european union competition commission raised
+concern vista compliance antitrust rule intendedallow competition security provider meritproduct commission spokesman jonathan todd stated businesshome user deprived choice security monoculture basedmicrosoft product may lead innovation could harmcomputer user security risk could increase decrease
+responding concern jack evans microsoft spokesman stated
+still received guidance seeking julyreceived formal list question answer specific
+concern commission address need
+answer question evans went state bottom linewant launch vista fully lawful manner wantavoid regulatory decision could increase security riskeuropean consumer concern analystreporter issue would result vista delayedmicrosoft stated case
+

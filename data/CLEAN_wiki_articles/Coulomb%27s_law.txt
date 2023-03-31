@@ -1,0 +1,149 @@
+copyright
+
+coulomb law
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+coulomb torsion balance
+coulomb torsion balance
+
+coulomb law developed french physicist charles
+augustin coulomb may stated follows
+
+magnitude electrostatic force two point chargedirectly proportional magnitude charge inversely
+proportional square distance charges
+
+analogous newton third law motion mechanicformula coulomb law form newton gravitational
+law electrical force one body exerted second bodyequal force exerted second body first
+
+coulomb law mathematical consequence law conservationlinear momentum exchange virtual photon dimensional space
+see quantum electrodynamics
+
+scalar form
+
+interested magnitude forcedirection may easiest consider simplified scalar
+version law
+
+fkc fracq 
+
+fis magnitude force exerted
+qi charge one body
+qi charge body
+ri distancekcfrac epsilon approxn also electrostatic constant coulomb force
+constantepsilon approxc also fpermittivity free space also called electric constant
+important physical constant
+
+cgs unit unit charge esu charge statcoulomb defined
+coulomb force constant 
+
+formula say magnitude force directly
+proportional magnitude charge objectinversely proportional square distancemeasured unit people commonly use mkssee
+international system unit coulomb force constant knumerically much much larger universal gravitational constant
+g mean object charge orderunit charge mass order unit mass kgelectrostatic force much larger gravitational
+force latter force ignored caseplanck unit used charge mass orderunit charge unit mass however charged elementary particlemass far planck mass chargeplanck charge gravitational force ignored
+
+force act line connecting two charged objects
+charged object polarity repel along line
+charged object opposite polarity attract alongline connecting
+coulomb law also interpreted term atomic unitforce expressed hartrees per bohr radius charge termelementary charge distance term bohr radius
+
+electric field
+
+follows lorentz force law magnitudeelectric field created single point charge q
+eoverpi epsilonfracleftqrightr
+
+positive charge direction point along line directed
+radially away location point chargedirection opposite negative charge unit volt per meter
+newton per coulomb
+
+vector form
+
+direction magnitude force simultaneously onewish consult full vector version law
+
+vecffrac epsilon fracq vecr vecrfrac epsilon 
+fracq hatr
+
+
+vecf electrostatic force vector force
+experienced chargefrom action charge 
+qi charge force acts
+qi acting charge
+vecrvecrvecr vector pointingchargeto charge 
+vecris position vector vecris position vector ri magnitude vecr
+hatr unit vector pointing directionvecrand
+epsilonis constant called permittivity free
+space
+
+vector equation indicates opposite charge attract like
+charge repel qi negative force attractive
+positive force repulsive
+
+graphical representation
+
+graphical representation coulomb law q
+vector vecf force experienced qthe vector
+vecf force experienced qtheir magnitudealways equal vector vecr displacement vector
+vecr somebody fix picture belowbetween
+two chargesqand graphical representation coulomb law
+graphical representation coulomb law
+
+electrostatic approximation
+
+either formulation coulomb law fully accurateobject stationary remains approximately correct slow
+movement condition collectively known electrostatic
+approximation movement take place magnetic field produced
+alter force two object magnetic interaction
+moving charge thought manifestationforce electrostatic field einstein theoryrelativity taken consideration
+
+accuracy exponent coulomb law found differ
+two one billion measuring electric field
+inside charged conducting shell
+
+table derived quantities
+
+particle property relationship field property
+vector quantity
+force onby 
+vecfover piepsilonq rhatr 
+vecf vece
+electric field atby 
+veceover piepsilonq rhatr 
+relationship vecfvecnablau
+vecevecnablav
+scalar quantity
+potential energy atby 
+u piepsilonq r 
+uq 
+potential atby 
+v piepsilonq 

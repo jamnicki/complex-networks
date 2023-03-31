@@ -1,0 +1,311 @@
+copyright
+
+world wide web
+
+ school wikipedia selection related subject website internet
+
+www historical logo designed robert cailliau
+enlarge
+www historical logo designed robert cailliau
+
+world wide web www simply web systeminterlinked hypertext document run internetweb browser user view web page may contain text imagemultimedia navigates using hyperlinks
+
+web first created aroundby tim bernerslee workingcern geneva switzerland inventor bernerslee
+conceptualised web semantic web contents
+descriptively markedup
+
+basic terms
+
+world wide web combination four basic ideas
+hypertext format information allows computer
+environment one move one part document anotherone document another internal connection among
+document calledhyperlinks
+resource identifier unique identifier used locateparticular resource computer file document resourcenetwork
+clientserver model computing system client
+software client computer make request server softwareserver computer provides client resourceservice data filemarkup language character code embedded textindicate structure semantic meaning advice presentation
+
+world wide web client program called user agent retrieves
+information resource web page computer fileweb server using url user agent kind web
+browser display resource user computer userfollow hyperlink web page world wide web
+resource whose location embedded hyperlink also
+possible example filling submitting web form post
+information back web server save process way
+web page often arranged collection related material called
+web site act following hyperlink one web siteanother referred asbrowsing sometimes surfingweb
+
+phrase surfing internet first popularized printjean armour polly librarian article called surfinginternet published university minnesota wilson library
+bulletin junealthough polly may developed phrase
+independently slightly earlier similar term found
+usenet fromandand recollection claimalso used verbally hacker community couple yearpolly famous asnetmom history internet
+
+information distinction world wide webinternet itselfas everyday use two sometimes
+confusedsee dark internet discussed detail
+
+although english word worldwide normally written one word
+without space hyphen proper name world wide webabbreviation www wellestablished even formal englishearliest reference web called worldwideweb example
+computer programmer fondness camelcase worldwide web
+hyphen version name closest normal
+english usage
+
+ironically abbreviation www somewhat impracticalcontains two three time many syllable depending accentfull term world wide web thus take longer say
+
+web works
+
+viewing web page resource world wide web normally
+begin either typing url page web browserfollowing hypertext link page resource first step
+behind scene servername part urlresolved address global distributed internet
+database known domain name system dns
+
+next step http request sent web serverip address page required case typical web
+page html text graphic file form partpage requested returned client web browser
+quick succession
+
+web browser render page described html csfile received incorporating image resourcenecessary produce onscreen page viewer sees
+
+web page contain hyperlink relevantinformative page perhaps downloads source documents
+definition web resources
+
+collection useful related resource interconnected via
+hypertext link dubbed web information making
+available internet created tim bernerslee first called
+world wide web early 
+
+caching
+
+user return page fairly soon likely data
+retrieved source web serverdefault browser cache web resource local hard drivehttp request sent browser asks dataha updated since last download cached
+version reused rendering step
+
+particularly valuable reducing amount web trafficinternet decision expiry made independentlyresource image stylesheet javascript file etc wellhtml thus even site highly dynamic content manybasic resource supplied per session leworth web site designer collect csjavascript sitewide file downloaded
+user cache reduce page download time demandserver
+
+component internet cache web content
+common practice often built corporate academic
+firewall cache web resource requested one userbenefit search engine google also store cached
+content web sites
+
+apart facility built web server ascertain
+physical file updated possible designerdynamically generated web page control http header sent back
+requesting user page cachedbefor example internet banking news pages
+
+help understanding difference http getpost verbsdata requested get may cachedcondition met whereas data obtained posting informationserver usually
+origins
+
+see also history internetcern webwww born
+
+nextcube used bernerslee cern became first web server
+enlarge
+nextcube used bernerslee cern became first web server
+
+underlying idea web traced far back 
+cern switzerland englishman tim bernerslee built
+enquire referring enquire within upon everything bookrecalled youth rather different webuse today contained many core idea evenidea bernerslees next project www semantic
+web
+
+marchtim bernerslee wrote information managementproposal referenced enquire described elaborate
+information management system help robert cailliaupublished formal proposal world wide web november 
+
+
+nextcube used bernerslee world first web serveralso write first web browser worldwideweb inby christmas
+bernerslee built tool necessary working web 
+first web browser web editor well first web
+server first web page described project
+augusthe posted short summary world wide web
+project althypertext newsgroup date also marked debut
+web publicly available service internet
+
+crucial underlying concept hypertext originated older
+project ted nelson project xanadudouglas engelbarts online system nls nelson engelbart
+turn inspired vannevar bush microfilmbasedmemex
+wa described theessayas may think
+
+bernerslees breakthrough marry hypertext internetbook weaving web explains repeatedly suggested
+marriage two technology possible membertechnical community one took invitationfinally tackled project process developedsystem globally unique identifier resource webelsewhere uniform resource identifier
+
+world wide web number difference hypertext
+system available
+www required unidirectional link ratherbidirectional one made possible someone linkanother resource without action owner resourcealso significantly reduced difficulty implementing web
+server browser comparison earlier systemturn presented chronic problem broken links
+unlike predecessor hypercard world wide webnonproprietary making possible develop server clients
+independently add extension without licensing restrictions
+
+aprilcern announced world wide web would free
+anyone fee due coming two month announcement
+gopher longer free use produced rapid shift away
+gopher towards web
+
+early popular web browser violawww based upon
+hypercard world wide web however gained critical masstherelease graphical mosaic web browser national
+centre supercomputing application developed marc andreessen
+prior release mosaic graphic commonly mixedtext web page popularity le older protocoluse internet gopher protocol wide area
+information server mosaic graphical user interface allowed web
+become far popular internet protocol
+
+web standards
+
+core web made three standards
+uniform resource identifieruri universal system
+referencing resource web web pages
+hypertext transfer protocolhttp specifiesbrowser server communicatehypertext markup languagehtml used define structure
+content hypertext documents
+
+bernerslee head world wide web consortium wcdevelops maintains standard enable computers
+web effectively store communicate different forminformation
+
+java javascript
+
+another significant advance technology sun microsystems
+java platform initially enabled web server embed small programs
+called applet directly information servedapplet would run endusers computer allowing fasterricher user interaction eventually came widely usedtool generating complex serverside content requested
+java never gained much acceptance sun hoped platformclientside applet variety reason including lackintegration content applet confined small boxes
+within rendered page poor performance particularly startdelay java vms hardware time
+
+javascript however scripting language developed web
+page standardised version ecmascript namesimilar java developed netscape sun microsystems
+ha almost nothing java exception
+like java syntax derived programming
+language like java javascript also object oriented like unlike java allows mixed codeboth objectoriented wellprocedural conjunction document object model javascript
+ha become much powerful language creator originally
+envisioned sometimes usage alongside manipulationdocument object model expressed term dynamic html dhtml
+emphasise shift away static html pages
+
+ajax asynchronous javascript xml javascriptbased technology
+may significant effect development world wide
+web providing method part page need updated
+required rather whole ajax allows updatemuch faster efficient ajax seen important aspectwebexamples ajax technique currently use seengmail google map etc
+
+sociological implications
+
+web stand today allowed global interpersonal exchange
+scale unprecedented human history people separated vast
+distance even large amount time use webexchangeor even mutually developtheir intimate extensive
+thought alternately casual attitude spirits
+emotional experience political idea cultural custom musical
+idiom business advice artwork photograph literatureshared disseminated digitally individual investmentever human history although existence use web
+relies upon material technology comedisadvantage information doe use physical resourceway library printing press therefore propagation
+information via web via internet turnconstrained movement physical volume manual material
+copying information virtue digital informationweb searched easily efficiently libraryphysical volume vastly quickly person could retrieve
+information world way physical travel waymail telephone telegraph communicative medium
+
+web farreaching extensive medium personal
+exchange appear earth probably allowed many users
+interact many group people dispersed aroundplanet time space possible limited physical
+contact even limited every existing mediumcommunication combined
+
+web global scale suggestednurture mutual understanding global scale definitionnecessity web massive potential social exchangeha potential nurture empathy symbiosis also hapotential incite belligerence global scale even empower
+demagogue repressive regime way historically
+impossible achieve previously
+
+publishing web pages
+
+web available individual outside mass medium orderpublish web page one doe publishermedium institution potential reader could foundcorner globe
+
+unlike book document hypertext doe linear orderbeginning end broken hierarchy chapters
+section subsection etc
+
+many different kind information available webwish know society culture peoples
+ha become easier travelling foreign country remote
+town one might able find information placeweb especially place one developed countries
+local newspaper government publication materialeasier access therefore variety information obtainable
+effort may said increased userinternet
+
+although web site available multiple language manylocal language additionally software supportspecial character rtl language factor would challenge
+notion world wide web bring unity world
+
+increased opportunity publish material certainly observable
+countless personal page well page family small
+shop etc facilitated emergence free web hosting services
+
+statistics
+
+according astudy thanbillion documents
+web mostly theinvisible web asurvey 
+million web page determined far web content waenglishnext page germanfrenchand
+japanesea recent study used web search 
+different language sample web determinedbillion web page publicly indexable web january
+
+
+speed issues
+
+frustration congestion issue internet infrastructurehigh latency result slow browsing ledalternative name world wide web world wide wait speeding
+internet ongoing discussion use peeringqos technology solution reduce world wide waitfound 
+standard guideline ideal web response time nielsen 
+page 
+second one tenth second ideal response time user
+doesnt sense interruption
+second highest acceptable response time download time 
+second interrupt user experience
+second unacceptable response time user experienceinterrupted user likely leave site system
+
+number useful planning server capacity
+
+link rot
+
+web suffers link rot link becoming brokencontinual disappearance relocation web resource timeephemeral nature web prompted many effort archiveweb internet archive one wellknown effortarchiving web since 
+
+academic conferences
+
+major academic event covering www world wide web series
+conference promoted iwc list linkconference series
+
+www prefix web addresses
+
+www commonly found beginning web address many
+organization internet follow convention naming hosts
+according service provide example host name
+web server www ftp server ftp news
+server news nntp news protocol nntp host
+name used dns subdomain name giving full
+wwwexamplecom
+
+prefix required technical standard indeedfirst web server infocernch even today many web sites
+available without www prefix
+
+web browser automatically try adding wwwbeginning possibly com end host name typed urls
+host found without internet explorer mozilla
+firefox automatically prefix httpwww append comaddress bar content control enter key pressed
+simultaneously example entering example address barpressing controlenter cause browser visit
+httpwwwexamplecom
+
+pronunciation www
+
+english www longest possible threeletter acronym tlapronounce requiring nine syllable late douglas adamquipped
+
+world wide web thing know whose shortened form
+take three time longer say short
+douglas adam independent sunday 
+
+shorter variant include triple double triple dub dub dub
+dub wuh wuh wuh double languages
+www often pronounced vvv early abbreviation
+nowadays deprecated
+
+chinese world wide web commonly translated wi wng
+ie tenthousand dimensional net
+
+trivia
+
+first web site went online inon aprilcern
+announced world wide web would free anyone copy
+original first web page created tim bernerslee kept
+
+standards
+
+following cursory list document define world
+wide web three core standards
+uniform resource locator url
+rfcuniform resource locator url december 
+rfcuniform resource identifier uri generic syntax
+january 
+hypertext transfer protocol http
+rfchttp specification may 
+rfchttp specification june 
+rfchttp authentication
+http specification errata
+hypertext markup language html
+internet draft html version 
+rfchtml version 
+htmlreference specification
+htmlspecification
+extensible html xhtml specification
+

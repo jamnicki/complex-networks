@@ -1,0 +1,345 @@
+copyright
+
+mar reconnaissance orbiter
+
+ school wikipedia selection related subject space transport
+
+mar reconnaissance orbiter
+conceptual drawing mar reconnaissance orbiter mars
+organization nasa
+major contractor lockheed martin space system universityarizona john hopkins university applied physic laboratory italian
+space agency malin space science system jpl
+mission type orbiter
+satellite mars
+orbital insertion date march
+launch date august
+launch vehicle atlas rocket
+mission durationyears
+nssdc idwebpage mar reconnaissance orbiter
+masskglb fuel
+power two solar panelswatts
+
+nasa mar reconnaissance orbiter mro multipurpose spacecraft
+designed conduct reconnaissance exploration mar orbit
+themillion usd spacecraft built lockheed martinsupervision jet propulsion laboratory launched august
+attained martian orbit marchit recently
+finished aerobraking entered final science orbitexpected begin primary science phase november 
+
+mro contains host scientific instrument cameras
+spectrometer radar used analyze landforms
+stratigraphy mineral ice mar pave wayfuture spacecraft monitoring daily weather surface conditions
+studying potential landing site testing new telecommunications
+system mros telecommunication system transfer data backearth previous interplanetary mission combined mroserve highly capable relay satellite future missions
+
+mro join four spacecraft currently studying mar mar express
+mar odyssey two mar exploration rover largest
+number active spacecraft study another planet timehistory space exploration
+
+prior launch
+
+mar surveyor orbiter orbiting satellite whose hallmark wahighresolution camera first proposed nasa init one
+two mission considered thelaunch opportunity
+however proposal process orbiter competed lost
+became known mar exploration rover orbiter
+mission rescheduled launch inand nasa announcedfinal name mar reconnaissance orbiter october
+
+mro modeled nasa highly successful mar global surveyorconduct surveillance mar orbit early specificationsatellite included large camera take high resolution picturemar regard jim garvin mar exploration program
+scientist nasa proclaimed mro would microscopeorbit satellite also include visiblenearinfrared
+spectrograph
+
+octobernasa chose lockheed martin primary
+contractor spacecraft fabrication end ofallmission instrument selected major setbacks
+mros construction spacecraft moved john kennedy space centre mayto prepare launch
+
+launch orbital insertion
+
+launch atlas carrying mar reconnaissance orbiter 
+utc august
+enlarge
+launch atlas carrying mar reconnaissance orbiter 
+utc august
+
+augustmro launched aboard atlas rocketspace launch complexat cape canaveral air force stationcentaur upper stage rocket completed burn fiftysix
+minute period placed mro interplanetary transfer orbit towards
+mars
+
+mro cruised interplanetary space formonths reaching
+mar scientific instrument experimenttested calibrated route ensure proper orbital insertion upon
+reaching mar four trajectory correction maneuver plannedfifth emergency maneuver discussed however three trajectory
+correction maneuver necessary saving fuel mros extended
+mission
+
+mro began orbital insertion approaching mar marchand
+passing southern hemisphere altitude ofkm
+mi six mros main engine burned forminutes slow
+probe fromms tomsmph tomphhelium pressurization tank colder expected reducedpressure fuel tank aboutkpapsi reduced
+pressure caused engine thrust diminished bybut mro
+automatically compensated extending burn time byseconds
+artwork mro aerobraking
+enlarge
+artwork mro aerobraking
+
+orbital insertion placed orbiter highly elliptical polar orbit
+period approximatelyhours shortly insertionperiapsisthe point orbit closest marswaskmplanet centrekm surface apoapsisthe point
+orbit farthest marswaskm planets
+centrekm surface
+
+marchmro began process aerobraking threestep
+procedure cut half fuel needed achieve lowercircular orbit shorter period first first five
+orbit planet one earth week mro used thruster drop
+periapsis orbit aerobraking altitude altitude
+depends thickness atmosphere martian atmospheric
+density change season second using thrustermake minor correction periapsis altitude mro maintained
+aerobraking altitude forplanetary orbit aboutearth monthreduce apoapsis orbit tokmmi doneway heat spacecraft much also dip
+enough atmosphere slow spacecraftprocess complete mro used thruster move periapsisedge martian atmosphere august
+
+september ofmro fired thruster twice finetune
+final nearly circular orbit approximatelytokmto
+mi martian surface sharad dipole antennadeployed septemberall scientific instrumenttested turned prior solar conjunctionoccurred octoberto novemberthe primary science
+phase began conjunction ended
+
+novembernasa announced successful test mroorbital communication relay using nasa roverspiritpoint origin transmission mro acted relaytransmitting data back earth
+
+mission objectives
+
+science instrumentation mro
+enlarge
+science instrumentation mro
+
+beginning novembermro conduct science operation two
+earth year one mission main goal map martian
+landscape highresolution camera order choose landing
+site future mission include phoenix landerexplore martian arctic mar science laboratory highly
+maneuverable rover mro help planner evaluate scientific
+value landing risk possible landing sitemission also provide transmission relay critical
+navigation data landing
+
+mro also use onboard scientific equipment studymartian climate weather atmosphere geology searchsign water polar cap underground addition mrolook remains previously lost mar polar landerbeaglespacecraft serve first step settinginternet protocol different planet solar systemmain science operation completed probe extended mission
+continue using communication navigation system future
+lander rover probes
+
+event discoveries
+
+first image hirise camera show ius chasma sectionvalles marineris system canyons
+enlarge
+first image hirise camera show ius chasma sectionvalles marineris system canyons
+
+septembermro took first high resolution imagescience orbit image said resolve item smallarmchair surfacecmfeet diameter
+
+octobernasa released detailed picture mromar victoria crater along opportunity rover rim
+instruments
+
+six science instrument included mission along two
+sciencefacility instrument use data engineering
+subsystem collect science data three technology experimenttest demonstrate new equipment future missions
+
+hirise
+
+hirise camera structure
+enlarge
+hirise camera structure
+
+high resolution imaging science experiment camerareflecting telescope largest ever carried deep space mission
+ha resolution ofmicroradian rad orm altitude
+ofkm comparison satellite image earth generally
+available resolution ofm satellite image google
+map available tom hirise collect image three colour
+bandstonmblue green bgtonmredtonmnear infrared nir
+
+red colour image arepixels acrosskm wide nir
+arepixels acrosskm wide hirises onboard computer reads
+line time orbiter ground speed imagepotentially unlimited length practically however lengthlimited computersgigabit memory capacitynominal maximum size ispixelsmegapixelspixelsmegapixels nir imagegb image compressed togb transmissionreleased general public hirise website jpeg 
+format facilitate mapping potential landing site hirise
+produce stereo pair image topographycalculated accuracy ofm hirise built ball aerospace
+technology corp
+
+ctx
+
+context imager ctx provides grayscale imagestonmtokm wide pixel resolution ofm ctx designedprovide context map targeted observation hirise crism
+optic ctx consist amm focal length maksutov cassegrain
+telescope apixel wide line array ccd similar hirise
+instrument instrument take pictureskmmi wideha enough internal memory store imagekm long loading
+main computer
+
+marci
+
+mar color imager
+enlarge
+mar colour imager
+
+mar colour imager marci wideangle lowresolution camera
+view surface mar five visible two ultraviolet
+band day marci collect aboutimages produceglobal map pixel resolution oftokm map provide
+daily weather report mar help characterize seasonalannual variation map presence water vapor ozoneatmosphere
+
+crism
+
+crism instrument
+enlarge
+crism instrument
+
+compact reconnaissance imaging spectrometer mar crism
+instrument visible near infrared vnir spectrometerproduce detailed map surface mineralogy mar operates
+fromtonm measure spectrum inchannelsnm wide resolution ofm altitude ofkm
+crism used identify mineral chemical indicativepast present existence water surface marmaterial include iron oxide phyllosilicates carbonatecharacteristic pattern visibleinfrared energy
+
+mcs
+
+mar climate sounder spectrometer one visiblenear
+infrared channeltom eight far infraredtom
+channel channel selected measure temperature
+pressure water vapor dust level observe atmosphere
+horizon mar viewed mro breakingvertical slice taking measurement within slice inkm
+mi increment measurement assembled daily
+global weather map show basic variable martian weather
+temperature pressure humidity dust density
+
+sharad
+
+artist concept mro using sharad look surfacemars
+enlarge
+artist concept mro using sharad look surfacemars
+
+mros shallow subsurface radar sharad experiment designed probe
+internal structure martian polar ice cap also
+gather planetwide information underground layer ice rock
+possibly liquid water might accessible surface
+sharad hf radio wave betweenandmhz range allows
+resolve layer thin asm maximum depth ofkmhorizontal resolution high asbykm sharad designed
+operate conjunction mar express marsis lower
+resolution penetrates much greater depth sharadmarsis made italian space agency
+
+engineering instruments
+
+addition imaging equipment mro carry varietyengineering instrument gravity field investigation packagemeasure variation martian gravitational fieldvariation spacecraft velocity velocity change detected
+measuring doppler shift mros radio signal received earth
+package also includes sensitive onboard accelerometer useddeduce situ atmospheric density mar aerobraking
+
+electra uhf software defined radio designed communicate
+spacecraft approach land operate maraddition protocol controlled interspacecraft data link ofkbits
+tombits electra also provides doppler data collection open loop
+recording highly accurate timing service based uso
+doppler information approaching vehicle used final
+descent targeting descent landing trajectory recreation doppler
+informaion landed vehicle also enable scientist accurately
+determine surface location mar lander rover two mer
+spacecraft currently mar utilize earlier generation uhf relay
+radio providing similar function mar odyssey orbiterelectra radio may use mer spacecraft prove functionalityscheduled provide formal relay service 
+arrival phoenix mar lander electra radiosoftware defined modem level new modulation codingprotocol function added updated mro spacecraftorbit around mars
+
+optical navigation camera image martian moon phobosdeimos background star precisely determine mros orbit
+although moon imaging mission critical includedtechnology test future orbiting landing spacecraftoptical navigation camera tested successfully february march
+
+
+engineering data
+
+size comparison mro predecessors
+enlarge
+size comparison mro predecessors
+
+structure
+
+worker lockheed martin space system denver assembledspacecraft structure attached instrument instrumentconstructed jet propulsion laboratory university arizona
+lunar planetary laboratory tucson arizona john hopkins
+university applied physic laboratory laurel maryland italian
+space agency rome italy malin space science system san
+diego california total cost spacecraft wasmillion
+usd
+
+structure made mostly carbon compositealuminiumhoneycombed plate titanium fuel tank takevolume mass spacecraft providesstructural integrity spacecraft total mass 
+kglb unfueled dry mass thankglb
+
+power systems
+
+mar reconnaissance orbiter solar panel
+enlarge
+mar reconnaissance orbiter solar panel
+
+mro get electrical power two solar panelmove independently around two updown leftright
+rotation solar panel measuresm hasm
+ft covered withindividual photovoltaic cellhighefficiency triple junction solar cell able convertthanof sun energy directly electricityconnected together produce total output ofvolts martwo panel producewatts power contrast panel would
+generatewatts comparable earth orbit closersun
+
+mro two nickel metal hydride rechargeable battery used power
+spacecraft facing sun battery haenergy storage capacity ofamperehourskc full range
+battery cannot used due voltage constraintspacecraft allow operator extend battery
+lifea valuable capability given battery drain onecommon cause longterm satellite failure planner anticipateonlyof battery capacity requiredlifetime spacecraft
+
+electronic systems
+
+mros main computer amhzmillion transistor bit
+rad processor processor radiationhardened versionpowerpcor processor speciallybuilt motherboardrad successor rad processor may seem
+underpowered comparison modern mac processorextremely reliable resilient function solar flareravaged
+deep space operating system software vxworks extensive
+fault protection protocol monitoring
+
+data stored agbgb flash memory module consistingovermemory chip ambit capacity memory
+capacity actually large considering amount dataacquired example single image hirise cameralarge asgb
+
+attitude determination
+
+order determine spacecraft orbit facilitate maneuvers
+sixteen sun sensorseight primary eight backupsare placed
+around spacecraft calibrate solar direction relativeorbiter frame two star tracker digital camera used mapposition catalogued star provide nasa full threeaxis
+knowledge spacecraft orientation attitude primarybackup miniature inertial measurement unit mimu providedhoneywell measure change spacecraft attitude wellnongravitionally induced change linear velocity mimu
+combination three accelerometer three ringlaser
+gyroscope system critically important mromust able point camera high precision ordertake highquality picture mission requires also
+specifically designed minimize vibrationspacecraft allow instrument take image withoutdistortion caused vibrations
+
+telecommunication system
+
+mro high gain antenna installation
+enlarge
+mro high gain antenna installation
+
+telecom subsystem mro best telecom system sent deep
+space far consists largemeter antennaused transmit data deep space network via xband
+frequency atghz demonstrate use kaband
+atghz higher data rate maximum transmission speed mars
+projected high asmbits rate ten time higherprevious mar orbiter spacecraft carry two watt xband
+amplifier one backup one watt kaband amplifier
+two transponders
+
+two smaller lowgain antenna also present lowerrate
+communication emergency special event launchmar orbit insertion antenna focusing dishtransmit receive direction important
+backup system ensure mro always reached evenmain antenna pointed away earth
+
+kaband subsystem used demonstration purpose due lack
+spectrum atghz xband future highrate deep space missions
+useghz kaband nasa deep space network dsn implemented
+kaband receiving capability three complexes
+goldstone canberra madrid beamwaveguide bwg
+antenna subnet mro kaband demonstration demonstrate viabilitykaband deep space operation cruise phase spacecraft
+kaband telemetry trackedtimes antenna proving dsn
+kaband reception functionality antenna primary
+science phase kaband demonstration assigned two pass week
+kaband demonstration purpose success kabandcruise also make viable backup xband subsystem mro
+
+propulsion attitude control
+
+data comparison chart
+enlarge
+data comparison chart
+
+spacecraft alus gal fuel tank filledkglb hydrazine monopropellant fuel pressureregulated adding pressurized helium gas external tank
+seventy percent fuel used orbital insertion
+
+mro twenty rocket engine thruster board six large thrusters
+producenlbf thrust total ofn
+lbf meant mainly orbital insertion thrusteroriginally designed mar surveyorlander six medium
+thruster producenlbf thrust trajectory correction
+maneuver attitude control orbit insertion finally eight
+small thruster producenlbf thrust attitude
+control normal operations
+
+four reaction wheel also used precise attitude controlactivity requiring highly stable platform highresolution
+imaging even small motion cause blurring image
+wheel used one axis motion fourth skewed wheelbackup case one three wheel fails wheel weighs
+kglb spun fast ashz orrpm
+
+retrieved 
+httpenwikipediaorgwikimarsreconnaissanceorbiter
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

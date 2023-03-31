@@ -1,0 +1,446 @@
+copyright
+
+virus
+
+ school wikipedia selection related subject general biology
+
+read taxoboxviruses
+herpes simplex virushsv
+herpes simplex virushsv
+virus classification
+
+group ivii
+
+groups
+
+dsdna viruses
+ii ssdna viruses
+iii dsrna viruses
+iv ssrna viruses
+v ssrna viruses
+vi ssrnart viruses
+vii dsdnart viruses
+
+virus microscopic particle ranging size fromninfect cell biological organism virusreplicate infecting host cell therefore
+cannot reproduce basic level virus consist
+genetic material contained within protective protein coat calledcapsid infect wide variety organism eukaryote 
+animal yeast fungi plant prokaryote bacteriaarchaea virus infects bacteria known bacteriophage
+often shortened phage word virus come latin virus
+poison syn venenum study virus known virologypeople study virus known virologist virus cause
+several serious human disease aid influenza rabies
+therapy difficult disease antibiotic effect
+virus antiviral drug known best way prevent
+viral disease vaccine produce immunity
+
+ha argued extensively whether virus living organisms
+virologist consider nonliving meetcriterion generally accepted definition life similar
+obligate intracellular parasite lack meanselfreproduction outside host cell unlike parasite viruses
+generally considered true living organism definitive
+answer still elusive organism considered living exhibit
+characteristic living nonliving particle virusconsider virus living virus exceptioncell theory proposed theodor schwann virus madecells
+
+discovery
+
+computergenerated image virions
+computergenerated image virions
+
+viral disease rabies affected human many centuries
+hieroglyphical evidence polio ancient egyptian
+empire however cause disease discovered relatively
+recently inmary montagu wife english ambassadorottoman empire observed local woman inoculating children
+smallpox late century edward jenner observedstudied miss sarah nelmes milkmaid previously caught cowpox
+wa subsequently found immune smallpox similardevastating virus jenner developed first vaccine basedfinding smallpox currently wiped
+late century charles chamberland developed porcelain
+filter filter used study first documented virus
+tobacco mosaic virus shortly afterwards dimitri ivanovski published
+experiment showing crushed leaf extract infected tobacco
+plant still infectious even filtering bacteriasolution time several others documented filterable
+diseasecausing agent several independent experiment showing
+virus different bacteria yet could also cause
+disease living organism experiment showed virusorder magnitude smaller bacteria term virus coined
+dutch microbiologist martinus beijerinck
+
+early century frederick twort discovered bacteria
+could attacked virus felix dherelle working independently
+showed preparation virus caused area cellular deaththin cell culture spread agar counting dead area allowedestimate original number virus suspensioninvention electron microscopy provided first look viruswendell stanley crystallised tobacco mosaic virus foundmostly protein short time later virus separatedprotein nucleic acid parts
+
+origins
+
+origin modern virus entirely clear maysingle mechanism account virus fossilize
+well molecular technique useful meanhypothesising arose research microfossil identification
+molecular biology may yet discern fossil evidence datingarchean proterozoic eon two main hypothesis currently exist
+small virus gene may runaway stretchnucleic acid originating genome living organism
+genetic material could derived transferable
+genetic element plasmid transposon prone
+moving around exiting entering genomes
+
+virus larger genome poxvirus maysmall cell parasitised larger host cell time genes
+required parasitic lifestyle would loststreamlining process known retrogradeevolutionreverseevolution bacteria rickettsia chlamydia living
+cell like virus reproduce inside host cells
+lend credence streamlining hypothesisparasitic lifestyle likely caused loss geneenabled survive outside host cell
+
+infectious particle even simpler structurevirus include viroid satellite prions
+
+classification
+
+taxonomy classification virus rather difficult duelack fossil record dispute whetherliving nonliving fit easily domainbiological classification therefore classification beginfamily rank however domain name acytota suggested
+would place virus par domain eubacteria
+archaea eukarya family currently classifiedorder genus classified families
+
+example viral classification chicken pox virus belongsfamily herpesviridae subfamily alphaherpesvirinae genus
+varicellovirus remains unranked term order general
+structure follows
+
+order virales
+
+family viridae
+
+subfamily virinae
+
+genus virus
+
+specie virus
+
+international committee taxonomy virus ictv developedcurrent classification system put place guideline putgreater weighting certain virus property order maintain
+family uniformity determining order taxonomist consider
+type nucleic acid present whether nucleic acid single
+doublestranded presence absence envelopethree main property characteristic considered
+type host capsid shape immunological propertytype disease causes
+
+addition classification system nobel prizewinning
+biologist david baltimore devised baltimore classification system
+place virus one seven group distinguish viruses
+based mode replication genome type ictv
+classification system used conjunction baltimore
+classification system modern virus classification
+
+structure
+
+complete virus particle known virion littlegene transporter consisting simplest form nucleic acid
+surrounded protective coat protein called capsid capsidcomposed protein encoded viral genome shape serves
+basis morphological distinction virally coded protein
+subunitssometimes called protomerswill selfassemble formcapsid generally requiring presence virus genomehowever
+many complex virus code protein assist construction
+capsid protein associated nucleic acid knownnucleoprotein association viral capsid protein viral
+nucleic acid called nucleocapsid
+
+general four main morphological virus types
+image helical viruses
+diagram helical capsid
+diagram helical capsid
+helical capsid composed single type subunit stacked around
+central axis form helical structure may central
+cavity hollow tube arrangement result rodshapedfilamentous virion anything short highly rigid
+long flexible genetic materialgenerally
+singlestranded rna also ssdna case certain phagesis
+bound protein helix charge interactionnegativelycharged nucleic acid positive charge protein
+overall length helical capsid related lengthnucleic acid contained within diameter dependentsize arrangement protomers wellstudied tobacco mosaic
+virus example helical virus
+image icosahedral viruses
+electron micrograph icosahedral virions
+electron micrograph icosahedral virions
+icosahedral capsid symmetry result spherical appearancevirus low magnification actually consists capsomers
+arranged regular geometrical pattern similar soccer ball
+hence truly spherical capsomers ring shaped
+structure constructed five six copy protomersassociate via noncovalent bonding enclose viral nucleic acid
+though generally intimately helical capsid may involve
+one protomers
+
+icosahedral architecture employed buckminsterfullergeodesic dome efficient way creating enclosed
+robust structure multiple copy single protein number
+protein required form spherical virus capsid denotedtnumber protein necessary casehepatitis virus tnumber isthereforeproteins assembleform capsid
+image enveloped viruses
+diagram enveloped hiv
+diagram enveloped hiv
+addition protein capsid many virus able envelope
+modified form one cell membranesthe outer
+membrane surrounding infected host cell internal membranes
+nuclear membrane endoplasmic reticulumthus gainingouter lipid bilayer known viral envelope membrane studded
+protein coded viral genome host genome however
+lipid membrane carbohydrate present entirely
+hostcoded influenza virus hiv use strategy
+
+viral envelope give virion distinct advantagecapsidonly virion protection enzyme certain
+chemical protein include glycoprotein functioningreceptor molecule allowing host cell recognise bindvirion resulting possible uptake virion cell
+enveloped virus dependent upon envelope infectivity
+image complex viruses
+diagram bacteriophage
+diagram bacteriophage
+virus posse capsid neither purely helicalpurely icosahedral may posse extra structureprotein tail complex outer wall bacteriophagecomplex structure consisting icosahedral head bound helical
+tail latter may hexagonal base plate many
+protruding protein tail fibres
+
+poxvirus large complex virus unusual
+morphology viral genome associated protein withincentral disk structure known nucleoid nucleoid surrounded
+membrane two lateral body unknown function virusouter envelope thick layer protein studdedsurface whole particle slightly pleiomorphic rangingovoid brick shape
+range size shown virus relativeorganism biomolecules
+range size shown virus relativeorganism biomolecules
+
+size
+
+put viral size perspective medium sized virion nextflea roughly equivalent human next mountain twice size
+mount everest filovirus total lengthnm however capsid diameter aboutnmmajority virus studied capsid diameter
+betweenandnanometres virus unable seen
+light microscope large larger smallest
+bacteria seen high optical magnificationcommonly scanning transmission electron microscope used
+visualise virus particles
+
+notable exception normal viral size range recently
+discovered mimivirus diameter ofnm largermycoplasma bacterium also hold record largest viral
+genome size possessing aboutgenes bacteria possess
+genome approximatelymegabases length large
+genome also contains many gene conserved prokaryotic
+eukaryotic gene discovery virus led many
+scientist reconsider controversial boundary living
+organism virus currently considered mere mobile
+genetic elements
+
+genetic material
+
+electron micrograph multiple polyomavirus virions
+electron micrograph multiple polyomavirus virions
+
+dna rna found viral specie generally species
+contain one exception human cytomegalovirus
+contains dna core several mrna segment nucleic
+acid either single doublestranded dependingspecie therefore virus group contain four possible types
+nucleic acid doublestranded dna singlestranded dna
+doublestranded rna singlestranded rna animal virus specieobserved posse combination whereas plant virus tend
+singlestranded rna bacteriophage tenddoublestranded dna also nucleic acid either linearclosed loop
+
+genome size term weight nucleotide varies quite
+substantially specie smallest genome code four
+protein weigh aboutdaltons largest weighdalton code one hundred protein virus species
+posse abnormal nucleotide hydroxymethylcytosine insteadcytosine normal part genome
+
+virus rna nucleic acid strand saideither positivesense also called plusstrand negativesense also
+called minusstrand depending whether complementary viral
+mrna positivesense viral rna identical viral mrna thusimmediately translated host cell negativesense viral rnacomplementary mrna thus must converted positivesense rna
+rna polymerase translation
+
+doublestranded rna genome singlestranded rna genomes
+said segmented divided separate part segment
+may code one protein usually found together one
+capsid segment required virionoverall virus infectious seen brome mosaic
+virus
+
+replication
+
+viral population grow cell divisionacellular instead use machinery metabolism host
+cell produce multiple copy may lyticlysogenic cycle virus capable carryingvirus still cause degenerative effect within cell without
+causing death collectively termed cytopathic effects
+released virion passed host either direct
+contact often via body fluid vector aqueous
+environment virus float free water
+
+lytic cycle characteristic virulent phagephage host cell induced virus begin manufacturing
+protein necessary virus reproduction well proteinvirus must also direct replication new genome technique
+used varies greatly virus specie depends heavily
+genome type final viral product assembled spontaneously
+though may aided molecular chaperone genomereplicated new capsid assembled virus cause cell
+broken open lysed release virus particle viruses
+lyse cell instead exit cell via cell membraneprocess known exocytosis taking small portion membrane
+viral envelope soon cell destroyedvirus find new host
+
+contrast lysogenic cycle doe result immediate lysinghost cell instead viral genome integrates host dna
+replicates along virus remains dormanthost cell replicated several time environmental conditions
+permit virus become active enter lytic phaselysogenic cycle allows host cell continue survivereproduce virus passed cell offspring
+falsely coloured electron micrograph multiple bacteriophages
+falsely coloured electron micrograph multiple bacteriophages
+
+bacteriophage infect specific bacteria binding surface receptor
+molecule enter cell within short amount time
+sometimes minute bacterial polymerase start translating viral
+mrna protein protein become either new virions
+within cell helper protein help assembly new virionprotein involved cell lysis viral enzyme aid breakdowncell membrane case phage twenty
+minute injection three hundred phage released
+
+animal dna virus herpesviruses enter host via
+endocytosis process cell take materialexternal environment frequently chance collisionappropriate surface receptor cell virus penetrates cell
+viral genome released capsid host polymerase begin
+transcribing viral mrna new virion assembled released either
+cell lysis budding cell membrane
+
+animal rna virus placed four different groups
+depending mode replication polarity rna largely
+determines replicative mechanism well whether genetic
+material singlestranded doublestranded rna virusactually dna based use rnaintermediate replicate rna
+virus heavily dependent upon virally encoded rna replicasecreate copy genomes
+
+reverse transcribing virus virus replicate using reverse
+transcription formation dna rna template
+virus containing rna genome use dna intermediatereplicate whereas containing dna genome use rna intermediate
+genome replication type reverse transcribing viruses
+use reverse transcriptase enzyme carry nucleic acid
+conversion
+
+lifeform debate
+
+multiple rotavirus virions
+multiple rotavirus virions
+
+argument continues whether virus truly alive accordingunited state code considered microorganism sense
+biological weaponry malicious use scientist howeverdivided trouble classifying horse living things
+become complicated look simple virus viroid prions
+virus resemble organism posse nucleic acidrespondin infected cellsto environment limited
+fashion also reproduce creating multiple copysimple selfassembly
+
+concept virus organism challenge way define
+life virus respire display irritabilitymove grow however reproduce may adapt new
+host changing genome older zoologicallybotanically biased criterion virus living however
+sort argument result top sort definitionha modified year take account smaller smaller
+thing fewer fewer leg leaf metultimate molechisms organulesthat say virusesandproved inadequate one defines life bottom upthatsimplest form capable displaying essential
+attribute living thingone quickly realisesreal criterion life simply ability organismreplicate system contain nucleic acidsinnatural world leastare capable phenomenon sortreasoning led new definition organism organismunit element continuous lineage individual evolutionary
+history key word unit element individualthing see organism merely current slicecontinuous lineage individual evolutionary history denotesindependence organism time thus mitochondrionchloroplast nucleus chromosome organismtogether constitute continuous lineage separatelypossibility survival despite independence entered
+initially symbiotic dependent association also
+absent fossil record making classical phylogenetic
+relationship difficult determine however many workersuccessfully inferred evolutionary history many millennium form
+comparing nucleotide sequence related viruses
+
+argument made accepted form life use cell
+division reproduce whereas virus spontaneously assemble
+within cell comparison drawn viral selfassemblyautonomous growth nonliving crystal virus selfassembly
+within host cell also implication study originlife lends credence hypothesis life couldstarted selfassembling organic molecules
+
+virus considered alive criterion specifying lifepermanently changed leading scientist questionbasic prerequisite life considered livingprospect creating artificial life enhanced leaststandard required call something artificially alive reducedvirus said alive question could follow whether
+even smaller infectious particle viroid prions
+would next considered form life
+
+virus disease
+
+example common human disease caused virus include common
+cold flu chickenpox cold sore many serious diseaseebola aid avian flu sars also caused virusrelative ability virus cause disease described termvirulence disease investigation whethervirus causative agent possible
+connection human herpesvirus six hhv neurological
+disease multiple sclerosis chronic fatigue syndrome
+recently also shown cervical cancer partially causedpapillomavirus representing evidence human link existing
+cancer infective agent current controversy
+whether borna virus previously thought causing
+neurological disease horse could responsible psychiatric
+illness humans
+
+virus many different mechanism produce diseaseorganism largely depends specie mechanismcellular level primarily include cell lysis breaking opensubsequent death cell multicellular organism enough
+cell die whole organism start suffer effect although
+many virus result disruption healthy homeostasis resulting
+disease may also exist relatively harmlessly withinorganism example would include ability herpes simplex
+virus cause coldsores remain dormant state withinhuman body
+
+epidemics
+
+ebola virus
+ebola virus
+marburg virus
+marburg virus
+
+number highly lethal viral pathogen memberfiloviridae filovirus filamentlike virus cause viral
+hemorrhagic fever include ebola marburg virusmarburg virus attracted widespread press attention aprilforoutbreak angola beginning octoberand continuing 
+outbreak world worst epidemic kind viral
+hemorrhagic fever
+
+native american population devastated contagious diseases
+particularly smallpox brought america european colonists
+unclear many native american killed foreign diseases
+arrival columbus america numberestimated close toof indigenous populationdamage done disease may significantly aided european
+attempt displace conquer native population virus also
+cause dangerous disease ever known mansmallpox aids
+
+detection purification diagnosis
+
+laboratory several technique growing detecting viruses
+exist purification viral particle achieved using
+differential centrifugation isopycnic centrifugation precipitation
+ammonium sulfate ethylene glycol removal cell
+component homogenised cell mixture using organic solventenzyme leave virus particle solution
+
+assay detect quantify virus include
+viral plaque assay
+viral plaque assay
+hemagglutination assay quantitatively measure many
+virus particle solution red blood cell amount
+agglutination virus cause occursmany virus able bind surface one red
+blood cells
+direct count using electron microscope dilute mixturevirus particle bead known size sprayed onto special
+sheet examined high magnification virioncounted number extrapolated estimate numbervirion undiluted mixture
+plaque assay involve growing thin layer host cell ontoculture dish adding dilute mixture virion ontovirion infect kill cell land producing
+hole cell layer known plaque number plaquecounted number virion estimated
+detection subsequent isolation new virus patientspecialised laboratory subject normally requires use large
+facility expensive equipment trained specialisttechnician molecular biologist virologist often effort
+undertaken state national government shared
+internationally organization like world health
+organization
+
+prevention treatment
+
+virus use machinery host cell reproduce also
+reside within difficult eliminate without killinghost cell effective medical approach viral diseasefar vaccination provide resistance infection drugs
+treat symptom viral infection patient often askphysician often prescribe antibiotic uselessvirus misuse viral infection one causes
+antibiotic resistance bacteria however lifethreatening
+situation prudent course action begin courseantibiotic treatment waiting test result determine
+whether patient symptom caused virus bacterial
+infection
+
+potential therapy
+
+virotherapy virus vector treat various diseasespecifically target cell dna show promising usetreatment cancer gene therapy
+
+applications
+
+polio virus
+polio virus
+
+life sciences
+
+virus important study molecular cellular biologyprovide simple system used manipulateinvestigate function cell study use virusprovided valuable information many aspect cell biologyexample virus simplified study genetics helped human
+understanding basic mechanism molecular geneticsdna replication transcription rna processing translation protein
+transport immunology
+
+geneticist regularly use virus vector introduce genecell studying useful making cell
+produce foreign substance study effect introducingnew gene genome similar fashion virotherapy viruses
+vector treat various disease specifically target
+cell dna show promising use treatment cancergene therapy
+
+material science nanotechnology
+
+current trend nanotechnology promise make much versatile
+use virus viewpoint material scientist viruses
+regarded organic nanoparticles surface carries
+specific tool designed cross barrier host cellsize shape virus number nature functional
+group surface precisely defined viruscommonly used material science scaffold covalently linked
+surface modification particular quality virustailored directed evolution powerful technique developedlife science becoming basis engineering approach towards
+nanomaterials opening wide range application far beyond biology
+medicine
+
+aprilscientists massachusetts institute technology
+mit created nanoscale metallic wire using geneticallymodified
+virus mit team able use virus create working
+battery energy density three time current
+material potential exists technology usedliquid crystal solar cell fuel cell electronicsfuture
+reconstructedinfluenza virus
+reconstructedinfluenza virus
+
+weapons
+
+ability virus cause devastating epidemic human
+society led concern virus could weaponizedbiological warfare concern raised successful
+recreation infamousinfluenza virus laboratorysmallpox virus devastated numerous society throughout historyeradication currently exists several secure laboratoryworld fear may used weapon totally
+unfounded modern global human population almost established
+resistance smallpox released massive losslife could sustained virus brought control
+
+etymology
+
+word latin virus referring poison noxious
+thing first used english invirulent latin virulentus
+poisonous date toa meaning agent cause infectious
+disease first recorded inbefore discovery virusrussian ukrainian biologist dmitry ivanovsky inthe
+adjective viral date totoday virus used describebiological virus discussed also metaphorparasiticallyreproducing thing meme computer viruses
+sincethe neologism virion viron used refersingle infective viral particle
+
+latin word protoindoeuropean root wei melt away
+flow used foul malodorous fluid cognatesanskrit vih poison avestan poison greek poison old
+church slavonic vinja cherry old irish poison welsh gwy
+fluid latin viscum see viscous sticky substance alsoroot
+
+english plural form virus virus reputable dictionary
+give form including reconstructed latin plural forms
+viri actually mean men plural form appearslatin corpus see plural virus word doetraditional latin plural original sense poison mass
+noun like english word furniture pointedenglish use virus denote agent disease predatesdiscovery agent microscopic parasite thusprinciple countable
+

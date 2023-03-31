@@ -1,0 +1,385 @@
+copyright
+
+telecommunication
+
+ school wikipedia selection related subject engineering
+
+copy original phone graham bell muse art mtiers paris
+enlarge
+copy original phone graham bell muse art mtiers paris
+
+telecommunication transmission signal distancepurpose communication modern time process almost
+always involves sending electromagnetic wave electronic
+transmitter earlier year may involved use smoke
+signal drum semaphore today telecommunication widespreaddevice assist process television radiotelephone common many part world also vast
+array network connect device including computer
+network public telephone network radio network television
+network computer communication across internet email
+instant messaging one many exampletelecommunication
+
+telecommunication system generally designed telecommunication
+engineer major contributor field telecommunications
+include alexander bell invented telephone know john
+logie baird invented mechanical television guglielmo
+marconi first demonstrated transatlantic radio communicationrecent time optical fibre radically improved bandwidth
+available intercontinental communication helping facilitatefaster richer internet experience digital televisioneliminated effect snowy picture ghosting
+telecommunication remains important part world economytelecommunication industry revenue placedgross world product
+
+key concepts
+
+etymology
+word telecommunication adapted french word
+tlcommunication compound greek prefix tele 
+meaning far communication meaning transfer
+information
+
+basic element telecommunication systemtransmitter take information convert signal
+transmission
+transmission medium signal transmitted
+receiver receives convert signal back usable
+information
+
+example consider radio broadcast case broadcast
+tower transmitter radio receivertransmission medium free space often telecommunication systemtwoway device act transmitter receivertransceiver example mobile phone transceiver
+telecommunication phone line called pointtopoint
+communication one transmitter one receiver
+telecommunication radio broadcast called broadcast
+communication one powerful transmitternumerous receivers
+
+signal either analogue digital analogue signalsignal varied continuously respect informationdigital signal information encoded set discrete values
+eg telecommunication device convert different types
+information sound video electrical optical
+signal electrical signal typically travel along mediumcopper wire carried air radio wave optical signals
+typically travel along medium strand glass fibersignal reach destination device receiving end
+convert signal back understandable message sound
+telephone moving image television word pictures
+computer screen
+
+collection transmitter receiver transceiverscommunicate known network digital network may
+consist one router route data correct useranalogue network may consist one switch establishconnection two user type networkrepeater may necessary amplify recreate signaltransmitted long distance combat attenuation
+render signal indistinguishable noise
+
+channel division transmission medium used
+send multiple independent stream data example radio
+station may broadcast atmhz another radio station may
+broadcast atmhz case medium dividedfrequency channel received separate frequency broadcast
+alternatively one could allocate channel recurring segment
+time broadcast
+
+shaping signal convey information known modulation
+modulation key concept telecommunication frequently
+used impose information one signal another modulationused represent digital message analogue waveformknown keying several keying technique existthese include
+phaseshift keying amplitudeshift keying minimumshift keying
+bluetooth example phaseshift keying exchangedevice see note
+
+however relevant earlier discussion modulation also used
+boost frequency analogue signal raw
+signal often suitable transmission long distancefree space due low frequency hence information mustsuperimposed higher frequency signal known carrier wave
+transmission several different modulation schemes
+available achieve thissome basic amplitude
+modulation frequency modulation example processdj voice superimposed amhz carrier wave using frequency
+modulation voice would received radio channel
+fm
+
+society telecommunication
+
+telecommunication important part many modern societyestimate place telecommunication industry revenue 
+trillion underof gross world product good
+telecommunication infrastructure widely acknowledged important
+economic success modern world micromacroeconomic scale
+
+microeconomic scale company used telecommunicationhelp build global empire selfevident businessonline retailer amazoncom observer note evenconventional retailer walmart benefited possessing superior
+telecommunication infrastructure compared competitor modern
+western society home owner often use telephone organize many
+home service ranging pizza deleveries electrician even
+relatively poor community noted use telecommunication
+advantage bangladesh narshingdi district isolated
+villager use cell phone speak directly wholesaler arrange
+better price good cote divoire coffee grower share
+mobile phone follow hourly variation coffee price sellbest price
+
+macroeconomic scale inlarshendrik rller leonard
+waverman suggested causal link good telecommunication
+infrastructure economic growth dispute existencecorrelation although argue wrong view relationshipcausal however perspective economic benifits good
+telecommunication infrastructure undeniable reason
+increasing worry digital divide
+
+stem fact access telecommunication systemequally shared amongst world population asurveyinternational telecommunication union itu revealed roughly
+onethird country thanmobile subscription every
+people onethird country thanfixed line
+subscription everypeople term internet access roughly
+half country thaninpeople internet access
+information well educational data itu ablecompile digital access index measure overall abilitycitizen access use information communication technologies
+using measure country sweden denmark iceland
+receive highest ranking african country niger
+burkina faso mali receive lowest
+
+history
+
+replica one chappes semaphore towers
+enlarge
+replica one chappes semaphore towers
+
+early telecommunications
+
+early form telecommunication include smoke signal drum drums
+used native africa new guinea south america whereas
+smoke signal used native north america china contrary
+one might think system often usedmerely announce presence camp
+
+ina french engineer claude chappe built first fixed visual
+telegraphy semaphore system lille paris however
+semaphore communication system suffered need skilled
+operator expensive tower often interval ten thirty
+kilometre six nineteen mile result last commercial
+line abandoned 
+
+telegraph telephone
+
+first commercial electrical telegraph constructed sir
+charles wheatstone sir william fothergill cooke opened 
+aprilboth wheatstone cooke viewed deviceimprovement existing electromagnetic telegraph new
+device
+
+side atlantic ocean samuel morse independently
+developed version electrical telegraph unsuccessfully
+demonstrated onseptembersoon joined alfred
+vail developed registera telegraph terminal integrated
+logging device recording message paper tapedemonstrated successfully onjanuarythe first transatlantic
+telegraph cable successfully completed onjulyallowing
+transatlantic telecommunication first time
+
+conventional telephone invented alexander bell 
+although inantonio meucci invented device allowedelectrical transmission voice line meuccis device depended
+upon electrophonic effect little practical valuerequired user place receiver mouth hearwa said first commercial telephone service setupandon side atlantic city newlondon
+
+radio television
+
+injames lindsay gave classroom demonstration wireless
+telegraphy student byhe able demonstratetransmission across firth tay dundee woodhavendistance two mile using water transmission mediumdecemberguglielmo marconi established wireless communication
+britain united state earning nobel prizephysic inwhich shared karl braun
+
+marchjohn logie baird able demonstratetransmission moving picture london department store
+selfridges bairds device relied upon nipkow disk thus became
+known mechanical television formed basis experimental
+broadcast done british broadcasting corporation beginning
+septemberhowever twentieth century
+television depended upon cathode ray tube invented karl braun
+first version television show promise producedphilo farnsworth demonstrated family september
+
+computer network internet
+
+septembergeorge stibitz able transmit problems
+using teletype complex number calculator new york receive
+computed result back dartmouth college new hampshireconfiguration centralized computer mainframe remote dumb
+terminal remained popular throughout however waresearcher started investigate packet
+switchinga technology would allow chunk data sentdifferent computer without first passing centralized
+mainframe fournode network emerged decemberthis
+network would become arpanet bywould consist ofnodes
+
+arpanets development centred around request comment process
+aprilrfcwas published process important
+arpanet would eventually merge network forminternet many protocol internet relies upon todayspecified process septemberrfcintroduced
+internet protocol ipv rfcintroduced transmission
+control protocol tcpthus creating tcpip protocol muchinternet relies upon today
+
+however important development made request
+comment process two popular link protocol local area networks
+lan also appeared patent token ring protocol
+wa filed olof soderblom octoberand paperethernet protocol published robert metcalfe david boggsjulyissue communication acm protocoldiscussed detail next section
+
+modern operation
+
+telephone
+
+conventional telephone system caller connectedperson want talk switch various exchangeswitch form electrical connection two usersetting switch determined electronically caller
+dial number based upon either pulse tone made callers
+telephone connection made caller voicetransformed electrical signal using small microphonetelephone receiver electrical signal sentvarious switch network user endtransformed back sound wave speaker person hear
+person also separate electrical connectioncaller allows talk back
+
+today fixedline telephone system residential homeanaloguethat speaker voice directly determinesamplitude signal voltage however although shortdistance
+call may handled endtoend analogue signal increasingly
+telephone service provider transparently converting signaldigital converting back analogue receptionadvantage digitized voice data travel sidebysidedata internet digital signal perfectly
+reproduced long distance communication opposed analogue
+signal inevitably impacted noise
+
+mobile phone significant impact telephone networks
+mobile phone subscription outnumber fixedline subscriptionmany market sale mobile phone intotalledmillion
+figure almost equally shared amongst marketasiapacificm western europem cemea central europe
+middle east africam north americam latin
+americam term new subscription five yearafrica outpaced market withgrowth increasingly
+phone serviced digital system gsmwcdma many market choosing depreciate analogue systemamps
+
+also dramatic change telephone communication behind
+scene starting operation tat inthe saw
+widespread adoption system based upon optic fibre benefit
+communicating optic fibre offer drastic
+increase data capacity tat able carrytimesmany telephone call last copper cable laid timetoday optic fibre cable able carrytimes many telephone
+call tat drastic increase data capacity dueseveral factor first optic fibre physically much smallercompeting technology second suffer crosstalkmean several hundred easily bundled togethersingle cable lastly improvement multiplexing leadexponential growth data capacity single fibre
+
+assisting communication across network protocol knownasynchronous transfer mode atm allows sidebyside data
+transmission mentioned first paragraph importanceatm protocol chiefly notion establishing pathway data
+network associating traffic contractpathway traffic contract essentially agreementclient network network handle datanetwork meet condition traffic contractaccept connection important telephone calls
+negotiate contract guarantee constant bit
+rate something ensure caller voice delayedpart cutoff completely competitor atmmultiprotocol label switching mpls perform similar taskexpected supplant atm future however yet
+happened
+
+radio television
+
+digital television standard adoption worldwide
+enlarge
+digital television standard adoption worldwide
+
+broadcast medium industry critical turning pointdevelopment many country starting move analoguedigital broadcast chief advantage digital broadcastprevent number complaint traditional analogue
+broadcast television includes elimination problems
+snowy picture ghosting distortion occur
+nature analogue transmission meanperturbation due noise evident final output digital
+transmission overcomes problem digital signal reduced
+binary data upon reception hence small perturbationaffect final output simplified example binary message
+wa transmitted signal amplitudesand
+received signal amplitudesit would still decode
+binary messagea perfect reproduction sent
+example problem digital transmission alsoseen noise great enough significantly alter
+decoded message using forward error correction receivercorrect handful bit error resulting message much
+noise lead incomprehensible output hence breakdowntransmission
+
+digital television broadcasting three competing standards
+likely adopted worldwide atsc dvbisdb standard adoption standard thus farpresented captioned map three standard use mpegvideo compression atsc dolby digital audio compression
+isdb advanced audio coding mpeg partand dvb standard
+audio compression typically mpeg partlayerthe
+choice modulation also varies scheme dvb isdb
+use orthogonal frequencydivision multiplexing ofdm terrestrial
+broadcast opposed satellite cable broadcast atsc
+us vestigial sideband modulation vsb ofdm offer better
+resistance multipath interference doppler effectwould impact reception using moving receiver however controversial
+test conducted united state national associationbroadcaster shown little difference two
+stationary receivers
+
+digital audio broadcasting standard much unifiedpractically country including canada choosing adoptdigital audio broadcasting standard also known eureka 
+standard exception united state chosenadopt radio radio unlike eurekais based upontransmission method known inband onchannel transmissionthis
+allows digital information piggyback normal analogue
+transmission hence avoiding bandwidth allocation issue eureka
+therefore strongly advocated national associationbroadcaster felt lack new spectrum allocateeurekastandard united state federal
+communication commission chosen leave licensing standard
+hand commercial corporation called ibiquity open
+inband onchannel standard exists form digital radio
+mondiale drm however adoption standard mostly limitedhandful shortwave broadcast despite different namestandard rely upon ofdm modulation term audio compression
+drm typically advanced audio coding mpeg partdab like dvb
+use variety codecs typically mpeg partlayer 
+hd radio highdefinition coding
+
+however despite pending switch digital analogue receivers
+still remain widespread analogue television still transmittedpractically country united state hoped end analogue
+broadcast decemberhowever recently pushed back
+februaryfor analogue three standard use
+see map adoption known pal ntsc secam
+basic pal ntsc similar quadrature amplitude
+modulated subcarrier carrying chrominance information addedluminance video signal form composite video baseband signal
+cvbs hand secam system frequency modulation
+scheme colour subcarrier pal system differs ntscphase video signal colour component reversedline helping correct phase error transmissionanalogue radio switch digital made difficultfact analogue receiver cost fraction cost digital
+receiver example get good analogue receiverunderusd digital receiver set back leastusd
+choice modulation analogue radio typicallyamplitude modulation frequency modulation achieve
+stereo playback amplitude modulated subcarrier used stereo
+fm quadrature amplitude modulation used stereo cquam
+see linked article details
+
+internet
+
+osi reference model
+enlarge
+osi reference model
+
+today estimatedof world population accessinternet highest concentration north america 
+oceaniaaustraliaand europein term broadband
+access country icelandsouth koreaandnetherlandslead world
+
+nature computer network communication lends layered
+approach individual protocol protocol stack run largely
+independently protocol allows lowerlevel protocolcustomized network situation changing way
+higherlevel protocol operate practical exampleimportant allows internet browser run code
+regardless whether computer running connectedinternet ethernet wifi connection protocol often
+talked term place osi reference modela
+model emerged inas first step doomed attemptbuild universally adopted networking protocol suite modeloutlined picture right important noteinternet protocol suite like many modern protocol suiterigidly follow model still talkedcontext model
+
+internet physical medium data link protocol vary
+several time packet travel client node thoughlikely majority distance travelled usingasynchronous transfer mode atm data link protocol across optical
+fibre way guaranteed connection may also encounter
+data link protocol ethernet wifi pointtopoint
+protocol ppp physical medium twistedpair cable free
+space
+
+network layer thing become standardized internet
+protocol adopted logical addressing world wide
+web address derived human readable form
+egis derived wwwgooglecom using domain
+name system moment widely used version internet
+protocol version four move version six imminentmain advantage new version supports
+address compared toaddresses new version also adds
+support enhanced security ipsec well support qos
+identifier transport layer communication adopts either
+transmission control protocol tcp user datagram protocol
+udp tcp packet retransmitted lost placed
+order presented higher layer ordering also
+allows duplicate packet eliminated udp packetordered retransmitted lost tcp udp packet carry port
+number specify application process packet
+handed client computer certain
+applicationlevel protocol use certain port network administrators
+restrict internet access blocking throttling traffic destined
+particular port
+
+transport layer certain protocol loosely fit
+session presentation layer sometimes adoptednotably secure socket layer ssl transport layer security
+tl protocol protocol ensure data transferred
+two party remains completely confidential oneuse padlock appears bottom web
+browser security generally based upon principleeavesdropper cannot factorize large numbercomposite two prime without knowing one prime another
+protocol loosely fit session presentation layerrealtime transport protocol rtp notably used stream
+quicktime finally application layer many protocols
+internet user would familiar http web browsing pop
+email ftp file transfer irc internet chat also less
+common protocol bittorrent file sharing icq instant
+messaging
+
+local area networks
+
+local area network
+enlarge
+local area network
+
+despite growth internet characteristic local area
+network computer network run kilometres
+remain distinct
+
+mids several protocol suite emerged fill gap
+data link application layer osi reference
+model appletalk ipx netbios dominant protocol
+suite early ipx due popularity msdos
+user tcpip existed point typically usedlarge government research facility however internet grew
+popularity larger percentage local area network traffic
+became internetrelated lan gradually moved towards tcpip today
+network mostly dedicated tcpip traffic common movetcpip helped technology dhcp introduced rfc 
+allowed tcpip client discover network addressa
+functionality came standard appletalkipxnetbios
+protocol suites
+
+however data link layer modern local area networks
+diverge internet asynchronous transfer mode atmmultiprotocol label switching mpls typical data link protocols
+larger network ethernet token ring typical data link
+protocol local area network latter lan protocol differformer protocol simpler omit features
+quality service guarantee offer collision prevention
+difference allow economic setup example
+omitting quality service guarantee simplifies routerguarantee really necessary local area networktend carry real time communication voice
+communication including collision prevention allows multiple clients
+opposed two share cable reducing costs
+though ethernet token ring different frame formatterm collision prevention two present greatest
+difference token ring token circulates network clients
+transmit token token must managedensure lost duplicated ethernet clienttransmit think medium idle client listencollision one detected suspend communication random
+amount time
+
+despite token ring modest popularityadvent twentyfirst century majority local area networks
+settled ethernet physical layer ethernet
+implementation use copper twistedpair cable including common
+baset network early implementation used coaxial cableimplementation especially high speed one use optical fibres
+optical fibre also likely feature prominentlyforthcoming gigabit ethernet implementation optical fibreused distinction must made multimode fibresinglemode fibre multimode fibre thought thicker
+optical fibre cheaper manufacture suffers less
+usable bandwidth greater attenuation
+

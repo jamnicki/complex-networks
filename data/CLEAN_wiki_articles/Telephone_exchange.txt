@@ -1,0 +1,383 @@
+copyright
+
+telephone exchange
+
+ school wikipedia selection related subject engineering
+
+map wire center location enlarge
+map wire centre location map central office location enlarge
+map central office location 
+field telecommunication telephone exchange telephone
+switch system electronic component connects telephone
+call central office physical building used house inside
+plant equipment including telephone switch make phone calls
+work sense making connection relaying speech
+information
+
+term exchange also used refer area servedparticular switch typically known wire centre telecommunication industry narrowly area refer
+first three digit local number threedigit sense
+word obsolete bell system term include office codenxx united state word exchange also legal
+meaning local access transport area modificationfinal judgment mfj
+
+historic perspective
+
+verizon central office lakeland florida night
+enlarge
+verizon central office lakeland florida night
+telephone operator manually connecting call patch cabletelephone switchboard computer make connectionenlarge
+telephone operator manually connecting call patch cabletelephone switchboard computer make connection
+first telephone exchange opened new connecticut 
+switchboard built carriage bolt handle teapot
+lid bustle wire could handle two simultaneous conversations
+
+later exchange consisted one several hundred plug board staffed
+operator operator sat front one three bankinch bantam jack fronted several row phone cordwa local termination phone subscriber line calling
+party known subscriber would lift receiver light near
+plug would light operator would switch circuitask number please depending upon answer operator might
+plug plug local jack start ringing cycle plug
+handoff circuit start might long distance call
+handled subsequent operator another bank board another
+building mile away inthe average time completelongdistance call wasminutes ringdown methodoriginating operator called another intermediate operator would
+call called subscriber passed another intermediate
+operator chain intermediate operator could complete call
+intermediate trunk line availabletime inwhen military call priority crosscountry call
+might take long ashours request schedule cityused manual switchboard toll calls
+
+marchalmon strowger undertaker topeka kansas
+patented strowger switch device led automationtelephone circuit switching many extensionadaptation initial patent one best known consists 
+layer bank ofcontacts arranged semicircle used
+dial telephone pair number caused shaftcentral contact hand first step layer per digitswing contact row per digit
+
+step switch arranged bank beginninglinefinder detected one hundred subscriber lines
+receiver lifted hook line finder hookedsubscriber dial tone bank show readysubscriber dial pulsed atpulses per second dependingstandard particular countries
+
+exchange based strowger switch challenged crossbar
+technology phone exchange promised faster switching would
+accept pulse faster strowgers typicalppstypicallypps advent dualtone multifrequencydtmf tonesignalling
+solidstate switch touch tone dialing cut crossbars
+takeover could really get going
+
+transitional technology pulse dtmf dtmf link finders
+converted dtmf pulse fed conventional strowgercrossbar switch technology used late mid late
+
+number plan trivia
+
+see telephone number
+
+technologies
+
+article use terms
+manual service condition human operator route calls
+inside exchange dial used
+dial service exchange call routed switch
+interpreting dialed digits
+telephone exchange building
+telephone switch switching equipment
+concentrator concentrator whether colocated
+switch
+offhook tip condition describe circuituse
+onhook idle circuit
+wire centre area served particular switch central
+office
+
+many term article conflicting u usages
+central office originally referred switching equipment
+used generally building housing switching
+related inside plant equipment
+telephone exchange mean exchange building ukalso name telephone switch also legal
+meaning telecoms
+telephone switch term increasing usetechnical telecom usage make coswitchconcentrator
+distinction clear
+
+manual service exchanges
+
+pbx switchboard
+enlarge
+pbx switchboard
+
+manual service customer offhook asks operator
+number provided number central office
+operator connects call plugging jackswitchboard corresponding called customer line callanother central office operator plug trunkoffice asks operator answering known inward
+operator connect call
+
+manual telephone exchange city commonbattery meaning
+central office provided power telephone circuitcase today customer lifting receiver would changeline status offhook thereby lighting light sounding buzzer
+operator switchboard common battery system pairwire subscriber telephone switch manual exchange
+open circuit telephone onhook idle vdc
+coming telephone company end across conductorsubscriber offhook telephone put resistance acrossline manual service current flowing offhook
+telephone would flow relay coil actuating buzzer lamp
+operator console buzzer lamp would tell operator
+subscriber offhook requesting service
+
+large city hundred central office new york city
+took many year convert whole city dial service help
+automate service manual office transition dial
+service special type switchboard would display number
+dialed customer used instance customermurray hill exchange picked phone dialed numbercity island exchange caller would need know called
+party manual exchange dialing number would connectcity island exchange inward operator would see number
+displayed ring destination
+
+contrast common battery system smaller town manual
+service often magneto crank phone using magneto setsubscriber turned crank generate ringing current gainoperator attention switchboard would respond dropping metal
+tab subscriber line sounding buzzer dry cell
+battery subscriber home provided powerconversation magneto system use small townu late general type system poorer
+call quality compared commonbattery systems
+
+many small town magneto system featured party line anywhere two
+ten subscriber sharing single line calling party
+operator would use distinctive ring sequence two long
+ring followed one short everyone line could hearring course could pick listen wantedrural line connected central office thusconnected outside world subscriber would crank correct
+sequence ring reach party
+
+predigital automatic exchanges
+
+automatic exchange dial service came existence early
+purpose eliminate need human telephone
+operator exchange became automated operatorcomplete connection required telephone call almost
+everywhere operator replaced computerized exchangetelephone switch brain automatic exchange device
+routing call one telephone another generally partpublic switched telephone network
+
+local exchange automatically sens hook tip telephone
+condition provides dial tone phone receives pulsedtmf tone generated phone completes connectioncalled phone within exchange another distant
+exchange
+
+exchange maintains connection party hangconnection disconnected tracking connection status
+called supervision additional feature billing equipment
+may also incorporated exchange
+
+bell system dial service feature called automatic number
+identification ani implemented ani allowed service like
+automated billing tollfree number andservice manual
+service operator know call originating lightswitchboard jack field early dial service ani exist
+long distance call would operator queue operator
+would ask calling party number write paper toll
+ticket see also automatic message accounting
+
+early exchange used motor shaft drive rotating switchrelay sense switch relaylogic computer typeautomatic exchange strowger also known stepbysteprelay panel crossbar referred collectivelyelectromechanical switches
+
+electromechanical signaling
+
+circuit connecting two switch called trunk signalling
+systembell system electromechanical switch united states
+communicated one another trunk using variety voltage signaling tone would rare seeuse today
+
+signaling communicated dialed digit early form called panel
+call indicator pulsing used unknownformat pulse set calls
+two panel switch probably common formcommunicating dialed digit electromechanical switchsending dial pulse equivalent rotary dial pulsing sent
+trunk circuit switch bell system trunkcommon usepulsepersecond crossbar switchcrossbar tandem twice rate western electricbell
+system telephone dial using faster pulsing rate made trunk
+utilization efficient switch spent half long
+listening digit dtmf used trunk signaling
+multifrequency wa last predigital method useddifferent set tone sent pair like dtmf dialing precededspecial keypulse signal followed start variations
+bell system tone scheme became ccitt standard similar
+scheme used america european countries
+including spain digit string switch often abbreviated
+improve utilization example one switch might sendlast four five digit telephone number one case seven
+digit number preceded digitorto differentiatetwo area code twodigitpercall saving improved revenue
+per trunk reduced number digit receiver needed switch
+every task electromechanical switch done big metallic
+piece hardware every fractional second cut call set time
+meant fewer rack equipment handle call traffic
+
+example signal communicating supervision call progress include
+e signaling signaling robbedbit signaling physical
+carrier trunk circuit trunk four wire fifty
+trunk would require hundred pair cable switchexample conductor one common circuit configuration named tip
+ring ear mouth twoway trunk signaling
+handshake took place prevent switch collidingdialing call trunk time changing state
+lead ground tovolts switch steppedhandshake protocol using voltage change local switch would
+send signal get ready call remote switch would reply
+acknowledgement ahead dial pulsing done
+relay logic discrete electronics voltage changetrunk circuit would cause pop click audiblesubscriber electrical handshaking stepped protocol
+another handshake start timing billing purpose causedsecond set clunk called party answered second common
+form signaling supervision called singlefrequency signaling common form used steadyhz toneidentify trunk idle trunk circuitry hearing ahz tonecertain duration would idle duration requirement reduced
+falsing system used tone frequency overhz
+particularly ssb frequencydivisionmultiplex microwave radiodigital carrier digital format called alternate mark inversion
+ami sometimes used pas signaling robbing bitdata stream careful design appropriated bit change
+voice quality appreciably robbed bit translated changecontact state open closure electronics channel bank
+hardware allowed direct current signaling dial
+pulse sent electromechanical switch digital
+carrier continuity
+
+sounds
+
+characteristic electromechanical switching equipmentmaintenance staff could hear mechanical clattering strowgerscrossbar relay bell system central office housedreinforced concrete building concrete ceiling floorrural area smaller switching facility community dial
+office cdos sometimes housed prefabricated metal buildings
+facility almost always concrete floor hard surfaces
+reflected sounds
+
+heavy use period could hard talk clattercall processed large switch example mother dayu friday evening around metallic rattling could
+make raised voice necessary wire spring relay markernoise resembled hail falling metallic roof
+
+predawn sunday morning call processing might slow point
+one might able hear individual call dialed set
+also noise whining power inverter whirring
+ringing generator system continual rhythmic
+clackclackclack wire spring relay made reorderipm
+busyipm signal bell system installationtypically alarm bell gong chime would annunciate alarms
+calling attention failed switch element another noisemaker
+trouble reporting card system connected switch common control
+element trouble reporting system would puncture cardboard
+card cryptic code logged nature failure remreed
+technology stored program control exchange finally quietedenvironment
+
+maintenance tasks
+
+maintenance electromechanical system partly electricity
+partly mechanical adjustment unlike modern switch circuit
+connecting dialed call electromechanical switch actually
+dc continuity talking path physical metallic one
+
+system subscriber supposed notice changequality service failure maintenance work variety
+tool referred makebusys plugged electromechanical
+switch element repair failure makebusy would identify
+part worked inuse causing switching logicroute around similar tool called tool subscribergot behind payment would service temporarily denied
+tded effected plugging tool subscribers
+office equipment crossbar line group step subscriber could
+receive call could dial
+strowgerbased stepbystep office bell systemcontinual maintenance required constant cleaning indicator
+light equipment bay step office alerted staff conditions
+blown fuse usually white lamp permanent signal stuck
+offhook condition usually green indicator step officesusceptible singlepoint failure newer technologies
+
+crossbar office used shared common control circuitexample digit receiver part element called originating
+register would connected call long enough collectsubscriber dialed digit crossbar architecture flexible
+step office later crossbar system punchcardbased trouble
+reporting system automatic number identificationretrofitted nearly stepbystep crossbar switchbell system
+
+electronic switches
+
+first electronic switch digital western electric
+es electronic switch metallic pathstoredprogramcontrolled change phone number testing making
+circuit busy accomplished typing terminal could
+use normal electromechanical signaling method used crossbarstepbystep switch northern telecom ericsson ake philips
+prxa itt metaconta several design similarsystem introduced new form data communication two ess
+exchange could communicate one another using data link called
+common channel interoffice signaling ccis data link based
+ccitta predecessor 
+digital switches
+
+digital switch work connecting two digital virtual
+circuit together according dialed telephone number callsetup switch using signalling systemprotocol one
+variant military telecommunication digital
+switch switch performs timedivision multiplexing switching
+digitized signal switch built since digital
+practical purpose distinction without difference
+article describes digital switch including algorithmequipment
+
+digital switch encode speech going intime slice per
+second time slice digital pcm representation tonemade digit sent receiving end linereverse process occurs produce sound receiving
+phone word use telephone generally
+voice encoded reconstructed personend voice delayed process small fraction
+one secondit live reconstructeddelayedminutely see info
+
+individual local loop telephone line connected remote
+concentrator many case concentrator colocatedbuilding switch interface concentratorstelephone switch standardised etsi protocol
+
+telephone switch concentrators directly connectedrather used connect call telephone
+switch usually complex machine series central
+exchange building referred carrierlevel switchtandems
+
+telephone exchange building small town house remote
+satellite switch homed parent switch usually several
+kilometre away remote switch dependent parent switch
+routing number plan information unlike digital loop carrier
+remote switch route call local phone without
+using trunk parent switch
+
+telephone switch usually owned operated telephone
+service provider carrier located premisesometimes individual business private commercial buildinghouse switch called pbx private branch exchange
+
+switch place system
+
+telephone switch small part large network majoritywork expense phone system wiring outside central
+office outside plant early incarnation subscriber
+telephone number required individual pair wire switch
+subscriber phone typical central office maytensofthousands pair wire appear terminal blocks
+called main distributing frame mdf component mdfprotection fuse device protect switchlightning short electric power line foreign voltages
+typical telephone company large database track information
+subscriber pair status jumpercomputerization bell system record information
+wa handwritten pencil accounting ledger books
+
+reduce expense outside plant company usepair gain
+device provide telephone service subscriber deviceused provide service existing copper facilityexhausted siting neighbourhood reduce lengthcopper pair enabling digital service isdn dsl pair gain
+digital loop carrier dlcs located outside central office
+usually large neighbourhood distant 
+dlcs often referred subscriber loop carrier slcslucents proprietary name pair gain product early slc
+system slc used analog carrier transport remote
+site central office later system slc slcvendor dlc product contain line card convert analog signal
+digital signal usually pcm digital signaltransported copper fibre transport mediumcentral office component include ringing generator provide
+ringing current battery backups
+
+dlcs configured universal udlcs integrated idlcs
+universal dlcs two terminal central office terminal cotremote terminal function similarly terminals
+interface analog signal convert digital signaltransport side reverse performed sometimes
+transport handled separate equipment integrated dlc
+cot eliminated instead connected digitallyequipment telephone switch reduces total amountequipment required several standard cover dlcs including telcordias
+trgrtrgr
+
+switch used local central office long distance
+center two major typesswitches designed tollswitchtoswitch connection andsubscriber switch manage
+connection subscriber telephone switching systems
+since hybrid switching system serve functions
+become common
+
+another element telephone network time timing switching
+transmission billing equipment may slaved high accuracy
+mhz standard synchronize time event close intervals
+timestandards equipment may include rubidium cesiumbased
+standard global positioning system receiver
+
+switch design
+
+long distance switch may use slower efficient
+switchallocation algorithm local central officenearutilization input output channel central
+office thanof channel capacity unused
+
+traditionally telephone switch connected physical circuits
+eg wire pair modern telephone switch use combinationspace timedivision switching word voice channel
+represented time slot sayoron physical wire pairb order connect two voice channel say together
+telephone switch interchange information bswitch time slot physical connectionexchange data time slot connectionstimes per
+second control digital logic cycle electronic
+list current connection using type switching makemodern switch far smaller either space time switch could
+structure switch odd number layer smaller
+simpler subswitches layer interconnected web wires
+go subswitch set next layersubswitches design physical space switching layer
+alternate time switching layer layer symmetric
+telephone system caller also callees
+
+timedivision subswitch read complete cycle time slotmemory writes different order also control
+cyclic computer memory cause delay signal
+
+spacedivision subswitch switch electrical path often usingvariant nonblocking minimal spanning switch crossover
+switch
+
+switch control algorithms
+
+fullyconnected mesh network
+
+one way enough switching fabric assure pairwise
+allocation always succeed building fullyconnected mesh
+network method usually used central office switches
+low utilization resources
+
+closs nonblocking switch algorithm
+
+scarce resource telephone switch connectionlayer subswitches control logic allocateconnection switch way fault tolerant
+see nonblocking minimal spanning switch discussion charles
+closs algorithm used many telephone switch arguably oneimportant algorithm modern industry
+
+fault tolerance
+
+composite switch inherently faulttolerant subswitch fails
+controlling computer sense periodic testcomputer mark connection subswitch useprevents new call doe interrupt old call remain
+working call ended subswitch becomes unusedtime later technician replace circuit board next
+test succeeds connection repaired subsystem marked
+use switch return full operation
+
+prevent frustration unsensed failure connections
+layer switch allocated using firstinfirstout
+list way disgusted customer hang redials get
+different set connection subswitches lastinfirstout
+allocation connection might cause continuing stringfrustrating failures
+

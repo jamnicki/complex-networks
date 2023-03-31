@@ -1,0 +1,196 @@
+copyright
+
+electron
+
+ school wikipedia selection related subject electricityelectronics
+
+electron
+theoretical estimate electron density firsthydrogen atom electron orbitals shown crosssectionscolourcoded probability density
+composition elementary particle
+family fermion
+group lepton
+generation first
+interaction gravity electromagnetic weak
+antiparticle positron
+theorized johnstone stoney
+discovered thomson
+masskg
+
+u
+
+u
+mevc
+electric chargec
+spin 
+
+electron fundamental subatomic particle carryelectric charge spin lepton participateselectromagnetic interaction mass one thousandth
+smallest atom electric charge definedconvention negative value ofin atomic unit together
+atomic nucleus electron make atom interactionadjacent nucleus main cause chemical bonding
+
+overview
+
+word electron coined inby george johnstone stoneyderived term electric force introduced william gilbertorigin greekelektron meaning amber thomsoncredited first measured chargemass ratioconsidered discoverer electron
+
+within atom electron surround nucleus composed protonneutron electron configuration variation electric field
+generated differing number electron configurationatom determine chemical property element fields
+play fundamental role chemical bond chemistry
+
+electron motion produce electric current magnetic field
+type electric current termed electricity
+
+understanding electron behave significantly
+modified past century greatest advancedevelopment quantum mechanic century broughtidea waveparticle duality electron showwavelike particlelike property varying degree equally
+important particle physic furthered understandingelectron interacts particles
+
+classification
+
+electron one class subatomic particle called leptons
+believed fundamental particle cannotbroken smaller constituent parts
+
+particle electron also act wave called
+waveparticle duality also known term complementarity
+coined niels bohr demonstrated using doubleslit
+experiment
+
+antiparticle electron positron hamass positive rather negative charge discovererpositron carl anderson proposed calling standard electrons
+negatron using electron generic term describepositively negatively charged variant usage never caughtrarely ever encountered today
+
+property behaviour
+
+electron negative electric charge ofcoulomb
+mass ofkg based chargemass measurementrelativistic rest mass aboutmevc masselectron approximatelyof mass protoncommon electron symbol 
+according quantum mechanic electron representedwavefunctions calculated probabilistic electron density
+determined orbital electron atomdescribed wavefunction based heisenberg uncertainty
+principle exact momentum position actual electron
+cannot simultaneously determined limitationinstance simply state accurately knowparticle position accurately know momentumvice versa
+
+electron spinand fermion follows fermidirac
+statistic addition intrinsic angular momentum electron
+ha intrinsic magnetic moment along spin axis
+
+electron atom bound atom electron moving freelyvacuum space certain medium free electron focused
+electron beam free electron move net flowcharge flow called electric current drift velocityelectron metal wire order mmhour however speed
+current one point wire cause currentpart wire typicallyof light speed
+
+superconductors pair electron move cooper pairmotion coupled nearby matter via lattice vibrations
+called phonons distance separation cooper pairroughlynm rohlf 
+body electric charge body fewer
+electron required balance positive chargenucleus excess electron object saidnegatively charged fewer electron protonobject said positively charged number electrons
+number proton equal charge cancelobject said electrically neutral macroscopic body
+develop electric charge rubbing phenomenontriboelectricity
+
+electron positron collide annihilateproduce pair high energy photon particlehand highenergy photon may transform electron positron
+process called pair production presencenearby charged particle nucleus
+
+electron currently described fundamental particleelementary particle substructure although british physicist
+humphrey mari claim found way split electronelectrinos using electron bubble hence convenienceusually defined assumed pointlike mathematical point
+charge spatial extension however test particleforced approach electron measure change properties
+charge mass effect common elementary particles
+current theory suggests effect due influencevacuum fluctuation local space property measured
+significant distance considered sum bare
+property vacuum effect see renormalization
+
+classical electron radius ism radius
+inferred electron electric charge usingclassical theory electrodynamics alone ignoring quantum mechanics
+classical electrodynamicsmaxwells electrodynamics older
+concept widely used practical application electricity
+electrical engineering semiconductor physic electromagnetics
+quantum electrodynamics hand useful applications
+involving modern particle physic aspect optical laser
+quantum physics
+
+based current theory speed electron approachnever reach speed light vacuum limitationattributed einstein theory special relativity definesspeed light constant within inertial frame howeverrelativistic electron injected dielectric mediumwater local speed light significantly celectron temporarily traveling faster lightmedium interact medium generate faint bluish
+light called cherenkov radiation
+
+effect special relativity based quantity known asor
+lorentz factoris function velocity particle
+c defined
+gammasqrtvc
+
+energy necessary accelerate particle isminus one timerest mass example linear accelerator stanfordaccelerate electron roughlygevthis give gammasince rest mass electron ismevcrelativistic mass electron istimes rest mass
+solving equation speed electron usingapproximation largegives
+
+vleftfracgamma rightc 
+c
+
+practice
+
+universe
+
+scientist believe number electron existing known
+universe leastthis number amount average density
+one electron per cubic metre space astronomerdetermined thatof detectable mass universehydrogen made one electron one proton
+
+based classical electron radius assuming dense sphere
+packing calculated number electron would
+fit observable universe order 
+
+industry
+
+electron beam used welding lithography scanning electron
+microscope transmission electron microscope leed rheedalso important tool electron used
+
+also heart cathode ray tube used
+extensively display device laboratory instrument computer
+monitor television set photomultiplier tube one photon
+strike photocathode initiating avalanche electronproduce detectable current
+
+laboratory
+
+electron microscope used magnify detail totimes
+quantum effect electron used scanning tunneling microscope
+study feature atomic scale
+
+theory
+
+relativistic quantum mechanic electron describeddirac equation defines electron mathematical pointquantum field theory behaviour electron describedquantum electrodynamics qed gauge theory dirac model
+electron defined mathematical point pointlike
+charged bare particle surrounded sea interacting pairvirtual particle antiparticlesthese provide correctionoverto predicted value electron gyromagnetic
+ratio exactlyas predicted dirac singleparticle model
+extraordinarily precise agreement predictionexperimentally determined value viewed one great
+achievement modern physics
+
+standard model particle physic electron first
+generation charged lepton form weak isospin doubletelectron neutrino two particle interactcharged neutral current weak interaction electron
+similar two massive particle higher
+generation muon tau lepton identicalcharge spin interaction differ mass
+
+antimatter counterpart electron positronpositron amount electrical charge electron
+except charge positive mass spinelectron electron positron meet may annihilate
+giving rise two gammaray photon electronpositron negligible momentum gamma ray energymev see also electronpositron annihilation
+
+electron key element electromagnetism theoryaccurate macroscopic system classical modellingmicroscopic systems
+
+history
+
+electron unit charge electrochemistry posited johnstone stoney inwho also coined term electron 
+late number physicist posited electricity
+could conceived made discrete unit given
+variety name reality confirmedcompelling way
+
+discovery electron subatomic particle madejj thomson cavendish laboratory cambridge
+university studying cathode ray tube cathode ray tube
+sealed glass cylinder two electrode separatedvacuum voltage applied across electrode cathode rays
+generated causing tube glow experimentation
+thomson discovered negative charge could separatedray application magnetism ray coulddeflected electric field concluded ray rather
+wave composed negatively charged particlecalled corpuscle measured masstocharge ratio found
+thousand time smaller hydrogen ion
+suggesting either highly charged smallmass later experiment scientist upheld latter
+conclusion
+
+electron charge carefully measured robert millikanoildrop experiment 
+
+periodic law state chemical property elements
+largely repeat periodically foundationperiodic table element law initially explainedatomic mass element however anomalyperiodic table effort made find better explanationinhenry moseley introduced concept atomic number
+explained periodic law term number protonelement year niels bohr showed electronactual foundation table ingilbert newton lewis explained
+chemical bonding element electronic interactions
+
+quantum electrodynamics
+
+electronpositronphoton
+selfenergyvacuum polarizationvertex function
+guptableuler formalismgaugeward identities
+compton scatteringbhabha scatteringmoeller scattering
+anomalous magnetic dipole moment
+bremsstrahlungpositronium
+

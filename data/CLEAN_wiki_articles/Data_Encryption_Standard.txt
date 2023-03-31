@@ -1,0 +1,361 @@
+copyright
+
+data encryption standard
+
+ school wikipedia selection related subject cryptography
+
+
+featured article click information
+
+caption data encryption standard
+
+feistel function function des
+designersibm
+first publishedstandardized january 
+derived fromlucifer
+successorstriple gdes desx loki ice
+key sizesbits
+block sizesbits
+structurefeistel network
+rounds
+best public cryptanalysis
+de considered insecure brute force attack possible
+see eff cracker ofthe best analytical attack linear
+cryptanalysis requiresknown plaintexts time
+complexity ofjunodunder chosenplaintext
+assumption data complexity reduced factor four
+knudsen mathiassen 
+
+data encryption standard cipher method encrypting
+information selected official federal information processing
+standard fips united state inandsubsequently enjoyed widespread use internationally algorithminitially controversial classified design element relatively
+short key length suspicion national security agency nsa
+backdoor consequently came intense academic scrutinymotivated modern understanding block ciphercryptanalysis
+
+de considered insecure many applicationchiefly due bit key size small keybroken thanhours also analytical results
+demonstrate theoretical weakness cipher althoughinfeasible mount practice algorithm believedpractically secure form triple althoughtheoretical attack recent year cipher supersededadvanced encryption standard aes
+
+documentation distinction made standard
+algorithm referred dea data encryption
+algorithm spoken either spelled deeeeesspronounced single syllable dez dess
+
+history des
+
+origin go back early inafter
+concluding study government computer security needu standard body national bureau standardsnow named nist
+national institute standard technologyidentified need
+governmentwide standard encrypting unclassified sensitive
+information accordingly onmayafter consultingnsa solicited proposal cipher would meet rigorous
+design criterion none submission however turnedsuitable second request issued onaugustthis time ibm
+submitted candidate deemed acceptable cipher developed
+periodbased earlier algorithm horst
+feistels lucifer cipher team ibm involved cipher designanalysis included feistel walter tuchman coppersmith alan
+konheim carl meyer mike matyas roy adler edna grossman bill notz
+lynn smith bryant tuckerman
+
+nsa involvement design
+
+marchthe proposed wa published federal
+register public comment requested following year two
+open workshop held discus proposed standardcriticism various party including publickey
+cryptography pioneer martin hellman whitfield diffie citingshortened key length mysterioussboxes evidenceimproper interference nsa suspicion waalgorithm covertly weakened intelligence agencytheybut noone elsecould easily read encrypted message alan
+konheim one designer commented sent sboxes
+washington came back different united
+state senate select committee intelligence reviewed nsas
+action determine whether improper involvement
+unclassified summary finding published inthe
+committee wrote
+
+development nsa convinced ibm reduced key
+size sufficient indirectly assisted developmentsbox structure certified final algorithm
+wa best knowledge free statistical
+mathematical weakness
+
+however also found
+nsa tamper design algorithm way
+ibm invented designed algorithm made pertinent
+decision regarding concurred agreed upon key
+size adequate commercial applicationde intended
+
+another member team walter tuchman quoted saying
+developed algorithm entirely within ibm using ibmersnsa dictate single wire
+
+suspicion hidden weakness sboxesallayed inwith independent discovery open publicationeli biham adi shamir differential cryptanalysis general
+method breaking block cipher sboxes muchresistant attack chosen random
+strongly suggesting ibm knew technique backwa indeed caseindon coppersmith publishedoriginal design criterion sboxes according steven levy ibm
+watson researcher discovered differential cryptanalytic attackasked nsa keep technique secret
+coppersmith explains differential cryptanalysis
+powerful tool used many schemeconcern information public domain could adversely
+affect national security levy quote walter tuchman asked stamp document confidential actually put numberone locked safe considered government classified said shamircommented would say contrary people believe
+evidence tampering basic design
+wa weakened
+
+criticismthat key length shortwas supported
+fact reason given nsa reducing key
+length frombits towas otherbits could serveparity bit seemed somewhat specious widely believed
+nsa decision motivated possibility wouldable brute force attack abit key several year rest
+world would
+
+algorithm standard
+
+despite criticism wa approved federal standardnovemberand published onjanuaryas fips pub 
+authorized use unclassified data subsequently
+reaffirmed standard inrevised fips 
+fips infips latter prescribing 
+triple see onmaydes finally supersededaes advanced encryption standard following public competition
+see aes process even ofhowever remains widespread
+use onmayfipswas officially withdrawn nistapproved triple yearfor sensitive government
+information
+
+another theoretical attack linear cryptanalysis publishedwa brute force attack inthat demonstratedde could attacked practically highlighted needreplacement algorithm method cryptanalysisdiscussed detail later article
+
+introduction considered catalystacademic study cryptography particularly method crack block
+cipher according nist retrospective des
+
+de said jump started nonmilitary study
+development encryption algorithmcryptographer except militaryintelligence organization little academic studycryptography many active academic cryptologists
+mathematics department strong program cryptography
+commercial information security company consultantgeneration cryptanalyst cut teeth analyzingtrying crack algorithm wordcryptographer bruce schneierdes galvanizefield cryptanalysis anything else waalgorithm study astonishing share open literature
+cryptography dealt dede standard every symmetric key
+algorithm since compared
+
+chronology
+
+date year event
+maynbs publishes first request standard encryption
+algorithm
+augustnbs publishes second request encryption algorithms
+marchdes published federal register comment
+augustfirst workshop des
+septembersecond workshop discussing mathematical foundationdes
+novemberdes approved standard
+januarydes published fips standard fips pub 
+de reaffirmed first time
+videocipher tv satellite scrambling system based upon des
+begin use hbo
+januarydes reaffirmed second time fips 
+superseding fips pub 
+biham shamir publish first theoretical attack less
+complexity brute force differential cryptanalysis howeverrequires unrealisticchosen plaintexts biham shamir
+
+decemberdes reaffirmed third time fips 
+first experimental cryptanalysis performed using
+linear cryptanalysis matsui 
+junethe deschall project break message encrypted defirst time public
+julythe effs cracker deep crack break key 
+hours
+januarytogether deep crack distributednet break key
+inhours andminutes
+octoberdes reaffirmed fourth time fips 
+specifies preferred use triple single des
+permitted legacy systems
+novemberthe advanced encryption standard published fips
+
+maythe aes standard becomes effective
+julythe withdrawal fipsand couple related
+standard proposed federal register
+maynist withdraws fips 
+
+replacement algorithms
+
+concern security relatively slow operation desoftware motivated researcher propose variety alternative
+block cipher design started appear lateearly example blowfish idea newdes safer castfeal design kept bit block size decould act dropin replacement although typically usedbit bit key ussr gostalgorithmintroduced bit block size bit key also used
+russia later
+
+de adapted reused secure scheme many
+former user use triple tdes describedanalysed one des patentee see fips pubit involves
+applying three time two tdes three tdes different
+key tdes regarded adequately secure although quite slow
+le computationally expensive alternative desx increases
+key size xoring extra key material gdes
+wa variant proposed way speed encryptionshown susceptible differential cryptanalysis
+
+inafter international competition nist selected new
+cipher advanced encryption standard aes replacementalgorithm selected aes submitted designers
+name rijndael finalist nist aes competition
+included serpent mar twofish
+
+description
+
+figurethe overall feistel structure des
+enlarge
+figurethe overall feistel structure des
+
+brevity following description omits exact
+transformation permutation specify algorithm
+reference detail found supplementary
+material
+
+de archetypal block cipheran algorithm takefixedlength string plaintext bit transformsseries complicated operation another ciphertext bitstringlength case block size isbits des
+also key customize transformation decryptionperformed know particular key used encrypt
+key ostensibly consists ofbits however onlyofactually used algorithm eight bit used solely checking
+parity thereafter discarded hence effective key lengthbit usually quoted
+like block cipher must used mode operationapplied message longer thanbits fips specifies several
+mode use including one authenticationfurther
+comment usage contained fips 
+
+overall structure
+
+algorithm overall structure shown figurethere 
+identical stage processing termed round also initial
+final permutation termed fp inverse undoes action vice versa fp almostcryptographic significance apparently included orderfacilitate loading block mids hardwaremain round block divided two bit half processed
+alternately crisscrossing known feistel scheme
+
+feistel structure ensures decryption encryptionsimilar processesthe difference subkeys applied
+reverse order decrypting rest algorithmidentical greatly simplifies implementation particularlyhardware need separate encryption decryption
+algorithms
+
+red oplus symbol denotes exclusiveor xor operationffunction scramble half block together keyoutput ffunction combined halfblock half swapped next roundfinal round half swapped featurefeistel structure make encryption decryption similar
+processes
+
+feistel function
+
+ffunction depicted figureoperates half block 
+bit time consists four stages
+figurethe feistel function ffunction des
+enlarge
+figurethe feistel function ffunction des
+expansionthe bit halfblock expanded tobit usingexpansion permutation denoted diagram duplicating
+bits
+key mixingthe result combined subkey using xor
+operation sixteen bit subkeysone roundare
+derived main key using key schedule describedsubstitutionafter mixing subkey block divided
+eight bit piece processing sboxessubstitution box eight sboxes replaces six
+input bit four output bit according nonlinear
+transformation provided form lookup table sboxes
+provide core security deswithout cipher
+would linear trivially breakable
+permutationfinally theoutputs sboxesrearranged according fixed permutation pbox
+
+alternation substitution sboxes permutationbit pbox eexpansion provides socalledconfusiondiffusion respectively concept identified claude shannonnecessary condition secure yet practical cipher
+
+key schedule
+
+figurethe keyschedule des
+enlarge
+figurethe keyschedule des
+
+figureillustrates key schedule encryptionthe algorithm
+generates subkeys initiallybits key selected
+initialby permuted choicepcthe remaining eight
+bit either discarded used parity check bit thebitsdivided two bit half half thereafter treated
+separately successive round half rotated left one
+two bit specified round thensubkey bitselected permuted choicepcbits left halfright rotation denoted byin diagram mean
+different set bit used subkey bit used
+approximatelyout thesubkeys
+
+key schedule decryption similarit must generate keys
+reverse order hence rotation right ratherleft
+
+security cryptanalysis
+
+although information published cryptanalysisde block cipher practical attack datestill brute force approach various minor cryptanalytic properties
+known three theoretical attack possibletheoretical complexity brute force attack require
+unrealistic amount known chosen plaintext carryconcern practice
+
+spite criticism weakness known
+example anyone actually suffering monetary loss des
+security limitations
+
+brute force attack
+
+cipher basic method attack brute forcetrying
+every possible key turn length key determines number
+possible key hence feasibility approach des
+question raised adequacy key size early even
+wa adopted standard small key size
+rather theoretical cryptanalysis dictated needreplacement algorithm known nsa encouragedpersuaded ibm reduce key size fromtobitstobit often taken indication nsa
+possessed enough computer power break key length evenmids
+effs de cracking machine containedcustom chips
+could brute force key matter daysthe photo showde cracker circuit board fitted several deep crack chips
+enlarge
+effs de cracking machine containedcustom chips
+could brute force key matter daysthe photo showde cracker circuit board fitted several deep crack chips
+
+academia various proposal descracking machineadvanced indiffie hellman proposed machine costingestimated million could find key single daywiener proposed keysearch machine costing million
+would find key withinhours however none early
+proposal ever implemented least implementationpublicly acknowledged vulnerability wa practically
+demonstrated late inrsa security sponsoredseries contest offering aprize first teambroke message encrypted contest contestdeschall project led rocke verser matt curtinjustin dolske using idle cycle thousand computer acrossinternet feasibility cracking quickly demonstratedcustom descracker built electronic frontier
+foundation eff cyberspace civil right group costapproximately see eff cracker motivation washow wa breakable practice well theorymany people believe truth seeeye showing physical machine crack deday way convince people really
+cannot trust security machine bruteforced keylittle thandays search time least one
+attorney justice department announcing deunbreakable
+copacobana machine built universitybochum kiel containslowcost fpgas performexhaustive key search indays average photo showbackplane machine fpgas
+enlarge
+copacobana machine built universitybochum kiel containslowcost fpgas performexhaustive key search indays average photo showbackplane machine fpgas
+
+confirmed cracker copacobana machine
+costoptimized parallel code breaker built recently teamuniversity bochum kiel germany unlike eff
+machine copacobana consist commercially available reconfigurable
+integrated circuitsof fpgas type xilinx spartan
+run parallel grouped indimm module containing 
+fpgas use reconfigurable hardware make machine applicable
+code breaking task well figure show fullsized
+copacobana one interesting aspect copacobanacost factor one machine built approximatelythe
+cost decrease roughly factor ofover eff machineimpressive example continuous improvement digital hardware
+interestingly moore law predicts improvement aboutsince
+aboutyears passed design two machineallows five doubling computer power orreductionscost computation
+
+attack faster bruteforce
+
+three attack known break full sixteen roundde complexity bruteforce search differential
+cryptanalysis linear cryptanalysis davy attack
+however attack theoretical infeasible mountpractice type attack sometimes termed certificational
+weaknesses
+differential cryptanalysis discovered late eli
+biham adi shamir although known earlier ibmnsa kept secret break fullrounds differential
+cryptanalysis requireschosen plaintexts wa designedresistant linear cryptanalysis discovered mitsuru matsui needs
+known plaintexts matsuithe method implemented
+matsuiand first experimental cryptanalysis des
+reported evidence wa tailoredresistant type attack generalisation lcmultiple
+linear cryptanalysiswas suggested inkaliski robshaw
+wa refined biryukov altheir analysis
+suggests multiple linear approximation could usedreduce data requirement attack least factorieinstead ofa similar reduction data
+complexity obtained chosenplaintext variant linear
+cryptanalysis knudsen mathiassenjunod 
+performed several experiment determine actual time
+complexity linear cryptanalysis reportedsomewhat faster predicted requiring time equivalentde evaluations
+improved davy attack linear differential
+cryptanalysis general technique applied number
+scheme davy attack specialised technique des
+first suggested davy eighty improved biham
+biryukovthe powerful form attack requires
+known plaintexts computational complexity ofand
+ha asuccess rate
+
+also attack proposed reducedround versioncipher version fewer sixteen roundanalysis give insight many round needed safety
+much security margin full version retains
+differentiallinear cryptanalysis proposed langford hellman
+inand combine differential linear cryptanalysissingle attack enhanced version attack break round des
+withknown plaintexts atime complexity biham al 
+
+minor cryptanalytic properties
+
+de exhibit complementation property namely
+ekpc leftrightarrow
+eoverlinekoverlinepoverlinec
+
+overlinex bitwise complement ek denotes
+encryption key p denote plaintext ciphertext blocks
+respectively complementation property mean workbrute force attack could reduced factor ofor single bit
+chosenplaintext assumption
+
+de also four socalled weak key encryption decryption
+weak key effect see involution
+
+ekekpp equivalently ekdk
+
+also six pair semiweak key encryption onepair semiweak key operates identically decryptionk
+
+ekekpp equivalently ekdk
+
+easy enough avoid weak semiweak keyimplementation either testing explicitly simplychoosing key randomly odds picking weak semiweak keychance negligible key really weakerkey anyway give attack advantage
+
+de also proved group precisely set
+ek possible key functional compositiongroup close group campbell wienerthis
+wa open question time casewould possible break multiple encryption modes
+triple would increase security
+
+known maximum cryptographic security limited
+aboutbits even independently choosing round subkeys
+instead deriving key would otherwise permitsecurity ofbits
+

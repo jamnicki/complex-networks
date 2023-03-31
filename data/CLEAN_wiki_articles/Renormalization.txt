@@ -1,0 +1,335 @@
+copyright
+
+renormalization
+
+ school wikipedia selection related subject general physics
+
+figurerenormalization qed simple electronphoton
+interaction determines electron charge one
+renormalization point revealed consist complicated
+interaction another
+enlarge
+figurerenormalization qed simple electronphoton
+interaction determines electron charge one
+renormalization point revealed consist complicated
+interaction another
+
+quantum field theory qft statistical mechanic fields
+renormalization refers collection technique used construct
+mathematical relationship approximate relationshipobservable quantity standard assumption parameters
+theory finite break giving result many
+observables infinite renormalization arose quantum
+electrodynamics mean making sense infinite resultvarious calculation extracting finite answer properly posed
+physical question initially viewed suspect provisional
+procedure originator renormalization eventuallyembraced important tool several field physic result
+work effective field theory renormalization group
+
+prehistory selfinteractions classical mechanics
+
+problem phenomenon eventually addressedrenormalization actually appeared earlier classical
+electrodynamics point particle early century
+calculating electromagnetic interaction charged particles
+one often ignores backreaction particle field upon
+wa realized early treatment incomplete
+theorist explored intriguing idea electrons
+inertial mass could entirely due backreaction howeverelectron assumed point calculated valuebackreaction diverges essentially singularityorigin inversesquare law one potential solution assume
+electron nonzero size comparable number knownclassical electron radius aboutx however
+according henri poincar theory became inconsistent unlesselectron possessed additional force hold together internally
+repulsion like charge today hypothesisclassical electron radius might seen early attemptregularization attempt deal backreactionabrahamlorentz force exhibited bizarre phenomenon acausal
+preacceleration electron would start moving shortly
+force applied jacksonthis extended
+rigid body struck cannot maintain causal subluminal transmission
+impulse far end start moving soon near endstruck rigidity particle cease fundamental since
+ha internal dynamic subluminality causality gophysics
+
+classical field theory therefore contribution field
+interaction particle physical property already
+problematic indeed way trouble worse qft
+since shortdistance divergence involved typically stronger
+one encountered quantum theories
+
+divergence quantum electrodynamics
+
+figurea diagram contributing electronelectron scatteringqed loop ultraviolet divergence
+enlarge
+figurea diagram contributing electronelectron scatteringqed loop ultraviolet divergence
+vacuum polarization aka charge screening quadratic
+divergence
+vacuum polarization aka charge screening quadratic
+divergence
+
+developing quantum electrodynamics shinichiro
+tomonaga julian schwinger richard feynman freeman dyson
+discovered perturbative calculation problem divergent
+integral abounded one way describing divergence qedappear consequence calculation involving feynman
+diagram closed loop virtual particle diagrams
+appear perturbative approximation quantum field theorylooped diagram represents perturbation small correctiondiagram without loop intuitively diagram loops
+give smaller smaller correction value diagrams
+contain loop however contributionloop diagram naively calculated become infinitely
+large one type loop would situation virtual
+electron positron pair appear vacuum interact various
+photon annihilate another would electronphoton
+interaction figure 
+
+virtual particle obey conservation energy momentumposse combination energy momentum allowedclassical law motion physicist say shell
+furthermore whenever loop appears particle involvedloop individually constrained energy momentumincoming outgoing particle since variation say energy
+one particle loop balanced equal opposite
+variation energy another particle loop thereforeorder calculate contribution probability amplitude one
+must integrate possible combination energy momentumloopand integral often divergent give
+infinite answer theoretically troublesome divergencetheultraviolet one associated large energy momenta
+virtual particle loop equivalently short
+wavelength high frequency fieldparticle quantum divergence therefore
+fundamentally shortdistance shorttime phenomenon infrared
+divergence well hard interpretbeyond scope article
+
+loop divergence
+
+diagram figureshows one several oneloop contributions
+electronelectron scattering qed electron left side
+diagram represented solid line startfourmomentum end fourmomentum emitsvirtual photon carrying transfer energy momentumelectron diagram happens emits
+another virtual photon carrying fourmomentum reabsorbs
+one emitting virtual photon energy momentum
+conservation determine fourmomentum uniquelypossibility contribute equally must integrate
+
+diagram amplitude end among thing factor
+loop
+ie int pi gammamu gammaalpha
+rqalpham rqmi epsilon gammarho
+gammabeta pqbetam pqmi
+epsilon gammanu gmunu qiepsilon 
+
+variousfactors expression gamma matrixcovariant formulation dirac equationspin electron important part purposedependency three big factor integrandpropagator two electron line photon lineloop
+
+ha piece two power top dominates large
+value pokorskip 
+
+e gammamu gammaalpha gammarho gammabeta gammamu
+int piqalpha qbeta pq 
+integral divergent infinite unless cut finite
+energy momentum way
+
+similar loop divergence occur quantum field theories
+
+renormalized bare quantities
+
+solution realize quantity initially appearingtheory formula formula lagrangian
+representing thing electron electric charge masswell normalization quantum fieldactually correspond physical constant measuredlaboratory written bare quantity take
+account contribution virtualparticle loop effectphysical constant among thing effect would
+include quantum counterpart electromagnetic backreaction
+vexed classical theorist electromagnetism general
+effect would divergent amplitude study
+first place finite measured quantity would general
+imply divergent bare quantities
+
+order make contact reality formula wouldrewritten term measurable renormalized quantitycharge electron say would defined term quantity
+measured specific kinematic renormalization point subtraction
+point generally characteristic energy calledrenormalization scale simply energy scale partlagrangian left involving remaining portion bare
+quantity could reinterpreted counterterms involveddivergent diagram exactly canceling troublesome divergences
+diagrams
+
+renormalization qed
+
+figurethe vertex corresponding counterterm canceldivergence figure 
+enlarge
+figurethe vertex corresponding counterterm canceldivergence figure 
+
+example lagrangian qed
+
+mathcallbarpsibleftigammamu partialmu 
+iebabmumbrightpsib
+fracfbmunufbmunu
+
+field coupling constant really bare quantity hencesubscript conventionally bare quantity writtencorresponding lagrangian term multiplerenormalized ones
+
+leftbarpsi psirightbzbarpsi psi
+leftbarpsi partialmuieamupsirightbz 
+barpsipartialmuieamupsi
+leftfmunufmunurightbz fmunufmunu
+
+
+gauge invariance via wardtakahashi identity turn imply
+renormalize two term covariant derivative piece
+bar psi partialiea psi together pokorskipwhich
+happened z
+
+term lagrangian example electronphoton interaction
+pictured figurecan written
+
+mathcallie barpsi gammamu amu psiz 
+e barpsi gammamu amu psi
+
+physical constant electron charge definedterm specific experiment set renormalization scale
+equal energy characteristic experiment first
+term give interaction see laboratory small
+finite correction loop diagram providing exoticahighorder correction magnetic moment restcounterterm lucky divergent part loop diagramdecomposed piece three fewer legalgebraic form canceled second termsimilar counterterms come z qedlucky theory renormalizable see
+diagram counterterms interaction vertex placedfigurecancels divergence loop figure 
+
+splitting bare term original termcounterterms came renormalization group insight duekenneth wilson according renormalization group insightsplitting unnatural unphysical
+
+running constants
+
+minimize contribution loop diagram given calculation
+therefore make easier extract result one choosesrenormalization point close energy momentum actually
+exchanged interaction however renormalization pointphysical quantity physical prediction theory
+calculated order principle independentchoice renormalization point long within domainapplication theory change renormalization scale simply
+affect much result come feynman diagram without loops
+much come leftover finite part loop diagram one
+exploit fact calculate effective variation physical
+constant change scale variation encodedbetafunctions general theory kind scaledependence
+known renormalization group
+
+colloquially particle physicist often speak certain physical
+constant varying energy interaction though fact
+renormalization scale independent quantityrunning doe however provide convenient mean describing changes
+behaviour field theory change energies
+involved interaction example since coupling constantquantum chromodynamics becomes small large energy scale theory
+behaves like free theory energy exchangedinteraction becomes large phenomenon known asymptotic freedom
+choosing increasing energy scale using renormalization group
+make clear simple feynman diagram doneprediction would would arise complicated
+highorder cancellations
+
+regularization
+
+since quantity inftyinfty illdefined order make
+notion canceling divergence precise divergence first
+tamed mathematically using theory limitprocess known regularization
+
+essentially arbitrary modification loop integrandsregulator make drop faster high energy momenta
+manner integral converge regulator hacharacteristic energy scale known cutoff taking cutoffinfinity equivalently corresponding lengthtime scalezero recovers original integrals
+
+regulator place finite value cutoff
+divergent term integral turn finitecutoffdependent term canceling termcontribution cutoffdependent counterterms cutoff taken
+infinity finite physical result recovered physic scales
+measure independent happens shortest
+distance time scale possible get
+cutoffindependent result calculations
+
+many different type regulator used quantum field theory
+calculation advantage disadvantage onepopular modern use dimensional regularization inventedgerardus hooft martinus g veltman tames integrals
+carrying space fictitious fractional numberdimension another paulivillars regularization adds
+fictitious particle theory large massloop integrands involving massive particle cancel existing
+loop large momenta
+
+yet another regularization scheme lattice regularization
+introduced kenneth wilson pretend spacetimeconstructed hypercubical lattice fixed grid size sizenatural cutoff maximal momentum particle could possess
+propagating lattice calculation several
+lattice different grid size physical result extrapolated
+grid sizeor natural universe presupposes existence
+scaling limit
+
+rigorous mathematical approach renormalization theorysocalled causal perturbation theory ultraviolet divergenceavoided start calculation performing welldefined
+mathematical operation within framework distribution
+theory disadvantage method fact approachquite technical requires high level mathematical knowledge
+
+zeta function regularization
+
+julian schwinger discovered relationship zeta function
+regularization renormalization using asymptotic relation
+
+lambdaintlambda dppn sim lambdanzetan
+
+regulator lambda rightarrow inftybasedconsidered using value ofn get finite result although
+reached inconsistent result improved formula hartle garcia valle elizalde includes
+
+lambdafracnin lambdazetan 
+sumrinftyfracbrn anrnr inr
+lambda 
+
+b bernoulli number
+anr fracgammangammanr 
+
+every written linear combination
+simply using ableplana formula every divergent
+integral
+
+zetam beta fracbeta miintinftydt frac
+itbetamitbetame tint infty pbetam valid zeta function hurwitz zeta
+function beta positive real number
+
+geommetric analogy given use rectangle methodevaluate integral
+intinftydxbeta xmapprox sumninftyhm
+zeta beta 
+using hurwitz zeta regularization plus rectangle method step mess planck constant
+
+attitude interpretation
+
+early formulators qed quantum field theoryrule dissatisfied state affair seemed illegitimate
+something tantamount subtracting infinity infinityget finite answers
+
+dirac criticism persistent late ashesaying
+
+physicist satisfied situation say
+quantum electrodynamics good theory worry
+must say dissatisfiedsituation socalled good theory doe involve neglecting
+infinity appear equation neglectingarbitrary way sensible mathematics sensible
+mathematics involves neglecting quantity smallnot
+neglecting infinitely great want
+
+another important critic feynman despite crucial roledevelopment quantum electrodynamics wrote
+
+shell game playis technically called
+renormalization matter clever word stillwould call dippy process resort hocuspocusprevented proving theory quantum electrodynamicsmathematically selfconsistent surprising theory still
+hasnt proved selfconsistent one waysuspect renormalization mathematically legitimate
+
+general unease almost universal text
+beginning however inspired workrenormalization group effective field theory despite fact
+dirac feynman various others never withdrew criticisms
+attitude began change especially among younger theorist kenneth
+g wilson others demonstrated renormalization groupuseful statistical field theory applied condensed matter physics
+provides important insight behaviour phase
+transition condensed matter physic real shortdistance
+regulator exists matter cease continuous scale atoms
+shortdistance divergence condensed matter physic presentphilosophical problem since field theory effective
+smoothedout representation behaviour matter anywayinfinity since cutoff actually always finitemake perfect sense bare quantity cutoffdependent
+
+qft hold way past planck length might
+yield string theory something different mayreal problem shortdistance divergence particle physics
+either field theory could simply effective field theorysense approach echo older attitude divergences
+qft speak human ignorance working nature also
+acknowledges ignorance quantifiedresulting effective theory remain useful
+
+qft value physical constant general dependsscale one chooses renormalization point becomes
+interesting examine renormalization group runningphysical constant change energy scale coupling
+constant standard model particle physic vary different
+way increasing energy scale coupling quantum
+chromodynamics weak isospin coupling electroweak force
+tend decrease weak hypercharge coupling electroweak
+force tends increase colossal energy scale ofgev far
+beyond reach civilization particle acceleratorbecome approximately size grotz klapdorpa
+major motivation speculation grand unified theory instead
+worrisome problem renormalization become important
+theoretical tool studying behaviour field theorydifferent regimes
+
+renormalizability
+
+philosophical reassessment new concept follows naturally
+notion renormalizability theory lendrenormalization manner described finite supplycounterterms quantity becoming cutoffindependent end
+calculation lagrangian contains combination field
+operator excessively high dimension energy unitcounterterms required cancel divergence proliferate infinite
+number first glance theory would seem gain infinite
+number free parameter therefore lose predictive power
+becoming scientifically worthless theory called
+nonrenormalizable
+
+standard model particle physic contains renormalizable
+operator interaction general relativity become
+nonrenormalizable operator one attempt construct field theory
+quantum gravity straightforward manner suggestingperturbation theory useless application quantum gravity
+
+however effective field theory renormalizability strictly
+speaking misnomer nonrenormalizable effective field theory
+term lagrangian multiply infinity coefficients
+suppressed evermoreextreme inverse power energy cutoffcutoff real physical quantityif theoryeffective description physic maximum energyminimum distance scalethen extra term could represent real
+physical interaction assuming dimensionless constanttheory get large one group calculation inverse
+power cutoff extract approximate prediction finite
+order cutoff still finite number free parameters
+even useful renormalize nonrenormalizable
+interactions
+
+nonrenormalizable interaction effective field theory rapidly
+become weaker energy scale becomes much smaller cutoff
+classic example fermi theory weak nuclear forcenonrenormalizable effective theory whose cutoff comparablemass particle fact may also provide possible
+explanation almost particle interaction seedescribable renormalizable theory may othersmay exist gut planck scale simply become weak detect
+realm observe one exception gravity whose
+exceedingly weak interaction magnified presenceenormous mass star planets
+

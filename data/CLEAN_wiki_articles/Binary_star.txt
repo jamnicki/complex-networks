@@ -1,0 +1,350 @@
+copyright
+
+binary star
+
+ school wikipedia selection related subject space astronomy
+
+
+featured article click information
+artist impression binary system consisting black holeaccretion disc around main sequence star
+enlarge
+artist impression binary system consisting black holeaccretion disc around main sequence star
+
+binary star stellar system consisting two star orbiting
+around centre mass star companion
+star recent research suggests large percentage starpart system least two star binary star systemimportant astrophysics observing mutual orbit allows
+mass determined mass many single stardetermined extrapolation made observation binaries
+
+binary star optical double star appearclose together seen earth may bound gravity
+binary star either distinguished optically visual binaryindirect technique spectroscopy binary happenorbit plane containing line sight eclipsecalled eclipsing binaries
+
+component binary star system exchange mass bringingevolution stage single star cannot attain examplebinary algol eclipsing binary sirius cygnus xone member probably black hole
+
+terminology
+
+hubble image sirius binary system sirius bclearly distinguished lower left
+enlarge
+hubble image sirius binary system sirius bclearly distinguished lower left
+
+term binary star coined sir william herscheldesignate definition real double starthe union two
+star formed together one system lawattraction two closelyspaced star might appear double
+star famous case mizar alcor big dipperhowever possible double star merely star pairlook like binary system two star reality widely
+separated space happen lie roughlydirection seen vantage point false binarytermed optical binary invention telescope manypair found herschel inmeasured separationorientation overpairs appeared binary systemfound aboutpairs changed orientation two decadeobservation
+
+true binary pair star bound together gravityresolved distinguished powerful enough telescopenecessary aid interferometric method knownvisual binary case indication binaritydoppler shift emitted light system case
+known spectroscopic binary consist relatively close pairstar spectral line light one shift first
+toward blue toward red move first toward uaway motion common centre mass
+period common orbit orbital planenearly along line sight two star partially fully occult
+regularly system called eclipsing binaryalgol bestknown example
+
+binary star visual spectroscopic binary rare
+precious source valuable information found visual
+binary star large true separation consequently usually
+orbital speed small measured spectroscopically far
+away conversely spectroscopic binary star move fast orbits
+close together usually close detectedvisual binary binary visual spectroscopic thus
+must relatively close earth
+
+astronomer discovered star seem orbit aroundempty space astrometric binary relatively nearby starseen wobble around middle point visible companion
+spectroscopic binary one set lines
+shifting back forth mathematics used ordinary
+binary applied infer mass missing companioncompanion could dim currently undetectablemasked glare primary could object emits
+little electromagnetic radiation example neutron starinstance strong evidence missing companionfact black hole body strong gravity lightable escape binary known highmass xray binaries
+probably best known example present cygnus xmass unseen companion believed nine timesun far exceeding tolmanoppenheimervolkoff limitmaximum theoretical mass neutron star likely
+candidate companion way cygnus became first
+object widely accepted black hole
+
+classifications
+
+method observation
+
+binary star classified four type accordingobservable property binary star belong severalclass example several spectroscopic binary also eclipsing
+binaries
+
+visual binaries
+
+visual binary star binary star angular separation
+two component great enough permitobserved double star telescope resolving powertelescope important factor detection visual binaries
+telescope become larger powerful increasing number
+visual binary detected brightness two staralso important factor brighter star harder separate due
+glare dimmer one
+brighter star visual binary primary stardimmer considered secondary position angle secondary
+respect primary measured together angular
+distance two star time observation also
+recorded sufficient number observation recordedperiod time plotted polar coordinate primary
+star origin probable ellipse drawnpoint keplerian law area satisfiedellipse known apparent ellipse projectionactual elliptical orbit secondary respect primaryplane sky projected ellipse complete elements
+orbit may computed semimajor axis expressed
+angular unit unless stellar parallax hence distance
+system known
+
+spectroscopic binaries
+
+spectroscopic binary star binary star separation
+star usually small orbital velocityhigh unless plane orbit happens perpendicularline sight orbital velocity component line
+sight observed radial velocity system vary
+periodically since radial velocity measured spectrometer
+observing doppler shift star spectral linebinary detected manner known spectroscopic binaries
+cannot resolved visual binary eventelescope highest existing resolving power
+
+spectroscopic binary spectrum star visible
+line alternately double single star known
+doubleline binary others spectrum onestar seen line spectrum shift periodically towards
+blue towards red back star knownsingleline spectroscopic binaries
+
+orbit spectroscopic binary determined making long
+series observation radial velocity one component
+binary observation plotted timeresulting curve period determined orbit circularcurve sine curve orbit elliptical shape
+curve depend eccentricity ellipseorientation major axis reference line sight
+
+impossible determine individually semimajor axisinclination orbit plane however productsemimajor axis sine inclination sin maydetermined directly linear unit kilometre eitherdetermined mean case eclipsing binaries
+complete solution orbit found
+
+eclipsing binaries
+
+eclipsing binary indication variation intensity
+eclipsing binary indication variation intensity
+
+eclipsing binary star binary star orbit planetwo star lie nearly line sight observercomponent undergo mutual eclipse case binaryalso spectroscopic binary parallax system known
+binary quite valuable stellar analysis
+
+last decade measurement eclipsing binary fundamental
+parameter become possible withmeter class telescopemake feasible use standard candle recentlyused give direct distance estimate lmc smc andromeda
+galaxy triangulum galaxy eclipsing binary offer direct method
+gauge distance galaxy new improvedlevelaccuracy
+
+eclipsing binary variable star lightindividual component vary eclipse light curve
+eclipsing binary characterized period practically
+constant light periodic drop intensity one stars
+larger one obscured total eclipseobscured annular eclipse
+
+period orbit eclipsing binary may determinedstudy light curve relative size individual
+star determined term radius orbitobserving quickly brightness change disc near
+star slide disc distant star alsospectroscopic binary orbital element also determinedmass star determined relatively easily means
+relative density star determinedcase
+
+astrometric binaries
+
+astrometric binary star binary star onecomponent star visually observed visible star position
+carefully measured detected wobble duegravitational influence counterpart position star
+repeatedly measured relative distant star checked
+periodic shift position typically type measurementperformed nearby star withinparsecs
+nearby star often relatively high proper motion astrometric
+binary appear follow sinusoidal path across sky
+
+companion sufficiently massive cause observable shift
+position star presence deduced precise
+astrometric measurement movement visible starsufficiently long period time information masscompanion orbital period determined even thoughcompanion visible characteristic systemdetermined observation using kepler laws
+
+method detecting binary also used locate extrasolar
+planet orbiting star however requirement performmeasurement exacting due great difference mass
+ratio typically long period planet orbit detection
+position shift star exacting sciencedifficult achieve necessary precision space telescopeavoid blurring effect earth atmosphere resultingprecise resolution
+
+configuration system
+
+artist conception cataclysmic variable system
+enlarge
+artist conception cataclysmic variable system
+
+another classification based distance star relative
+sizes
+
+detached binary kind binary star componentwithin roche lobe area gravitational pullstar larger component stars
+major effect essentially evolve separately
+binary belong class
+
+semidetached binary star binary star one components
+fill binary star roche lobe doe gassurface roche lobe filling component donor transferredstar accretor mass transfer dominates evolutionsystem many case inflowing gas form accretion disc
+around accretor example type xray binarycataclysmic variable stars
+
+contact binary type binary star componentbinary fill roche lobe uppermost part stellar
+atmosphere form common envelope surround starfriction envelope brake orbital motion star may
+eventually coalesce
+
+binary star evolution
+
+formation
+
+impossible binary might createdgravitational capture two single star given low
+likelihood event three object actually requiredconservation energy rule single gravitating body capturing
+another high number binary cannot primary
+formation process also observation binary consisting pre
+main sequence star support theory binary already
+formed star formation fragmentation molecular cloud
+formation protostars acceptable explanationformation binary multiple star system
+
+outcome three body problem three starcomparable mass eventually one three starejected system assuming significantperturbation remaining two form stable binary system
+
+mass transfer accretion
+
+main sequence star increase size evolution may
+point exceed roche lobe meaning matter
+venture region gravitational pull companion
+star larger result matter transfer
+one star another process known roche lobe overflow
+rlof either absorbed direct impact accretion
+disc mathematical point transfer happenscalled first lagrangian point uncommonaccretion disc brightest thus sometimes visible
+element binary star
+animation beta lyrae system eclipsing binary includingaccretion disc
+animation beta lyrae system eclipsing binary includingaccretion disc
+
+star grows outside roche lobe fast abundant
+matter transferred component also possible
+matter leave system lagrange pointstellar wind thus effectively lost component sinceevolution star determined mass process influences
+evolution companion creates stageattained single stars
+
+study eclipsing ternary algol led algol paradoxtheory stellar evolution although component binary star form
+time massive star evolve much faster less
+massive one observed massive component algolstill main sequence massive algol bsubgiant star later evolutionary stage paradox solved
+mass transfer massive star became subgiantfilled roche lobe mass transferredstar still main sequence binaries
+similar algol gas flow actually seen
+
+runaway novae
+
+chandra xray observatory image remnant 
+supernova
+enlarge
+chandra xray observatory image remnant 
+supernova
+
+also possible widely separated binary lose gravitational
+contact lifetime result external
+perturbation component move evolve single
+star close encounter two binary system also resultgravitational disruption system stars
+ejected high velocity leading runaway stars
+
+white dwarf close companion star overflow roche
+lobe white dwarf steadily accrete gas star outer
+atmosphere compacted white dwarf surfaceintense gravity compressed heated high temperatureadditional material drawn white dwarf consists degenerate
+matter largely unresponsive heat accreted
+hydrogen hydrogen fusion occur stable mannersurface cno cycle causing enormous amount energy
+liberated process blow remaining gas awaywhite dwarf surface result extremely bright outburstlight known nova
+
+extreme case event cause white dwarf exceedchandrasekhar limit trigger supernova destroys entire
+star another possible cause runaway famous exampleevent supernova snwhich observed tycho
+brahe hubble space telescope recently took pictureremnant event
+
+use astrophysics
+
+simulated example binary star two body similar
+mass orbit around common barycenter elliptic orbits
+enlarge
+simulated example binary star two body similar
+mass orbit around common barycenter elliptic orbits
+
+binary provide best method astronomer determine mass
+distant star gravitational pull causeorbit around common centre mass orbital patternvisual binary time variation spectrum spectroscopic
+binary mass star determined wayrelation star appearancetemperature radiusmass found allows determination massnonbinaries
+
+large proportion star exist binary system binaries
+particularly important understanding processstar form particular period mass binary
+tell amount angular momentum systemconserved quantity physic binary give important
+clue condition star formed
+
+binary system massive star usually designatedcompanion thus bright main sequence star sirius
+system sirius smaller white dwarf member sirius however pair widely separated may designated
+superscript zeta reticuliret andret
+
+research findings
+
+believed quarter half star binary
+system many asof system containing two
+star triple quadruple etc
+
+direct correlation period revolutionbinary star eccentricity orbit system short
+period smaller eccentricity binary star may foundconceivable separation pair orbiting closelypractically contact pair distantly separated
+connection indicated common proper motion
+space among gravitationally bound binary star systemexists called log normal distribution periodmajority system orbiting period aboutyears
+supporting evidence theory binary systemformed star formation
+
+pair two star equal brightness alsospectral type system brightnessdifferent fainter star bluer brighter star giant
+star redder brighter star belongs main sequence
+artist impression sight hypothetical moon planet
+hdab upper left orbit triple star systembrightest companion horizon
+enlarge
+artist impression sight hypothetical moon planet
+hdab upper left orbit triple star systembrightest companion horizon
+
+since mass determined gravitational attractionstar exception sungravitationallylensed star determinedbinary star uniquely important class starcase visual binary star orbit determinedstellar parallax system determined combined masstwo star may obtained direct application keplerian
+harmonic law
+
+unfortunately impossible obtain complete orbitspectroscopic binary unless also visual eclipsing binary
+object determination joint product mass
+sine angle inclination relative line sight
+possible case eclipsing binary also
+spectroscopic binary possible find complete solutionspecification mass density size luminosity approximate
+shape member system
+
+science fiction often featured planet binary ternary stars
+setting reality orbital range impossibledynamical reason planet would expelled orbit
+relatively quickly either ejected system altogethertransferred inner outer orbital range whilstorbit present serious challenge eventual biospherelikely extreme variation surface temperature different parts
+orbit detecting planet around multiple star system introduces
+additional technical difficulty mayrarely found example include psr hdablatter known planet ternary system 
+
+multiple star examples
+
+two visibly distinguishable component albireo
+two visibly distinguishable component albireo
+
+large distance component well difference
+colour make albireo one easiest observable visual binaries
+brightest member third brightest starconstellation cygnus actually close binary alsocygnus constellation cygnus xray source consideredblack hole highmass xray binary optical
+counterpart variable star another famous binary siriusbrightest star night time sky visual apparent magnitude
+ofit located constellation canis major 
+friedrich bessel deduced sirius binary inalvan graham
+clark discovered companion sirius visible star sirius
+inastronomers mount wilson observatory determinedsirius wa white dwarf first discovered inusing
+hubble space telescope astronomer determined sirius bkm diameter mass isof sun
+
+example eclipsing binary epsilon aurigaeconstellation auriga visible component belongs spectral
+class eclipsing component visible nexteclipse occurs fromand hoped extensive
+observation likely carried may yield insights
+nature system another eclipsing binary beta lyrae
+contact binary star system constellation lyratwo component star close enough material photosphere
+pulled towards drawing starellipsoid shape beta lyrae prototype classeclipsing binary whose component close togetherdeform mutual gravitation
+
+interesting binary includecygni binaryconstellation cygnus composed two class orange main sequence
+starscygni andcygni known large proper
+motion procyon brightest star constellation canis minor
+eighth brightest star night time sky binary
+consisting main star faint white dwarf companion lacertae eclipsing binary stopped eclipsing scoeclipsing binary stopped restarted stopped geminorum eclipsing binary thought contain black hole
+k star orbit around
+algol famous ternary long thought binary located
+constellation perseus two component system eclipsevariation intensity algol first recordedgeminiano montanari name algol mean demon stararabicalghl probably given due peculiar
+behaviour another visible ternary alpha centauri southern
+constellation centaurus contains fourth brightest starnight sky apparent visual magnitude ofthis system
+also underscore fact binary need discountedsearch habitable planet centauri anau distance
+closest approach stable habitable zones
+
+also example system beyond ternary castorsextuple star system second brightest starconstellation gemini one brightest star nighttime
+sky astronomically castor discovered visual binarycomponent castor spectroscopic
+binary castor also faint widely separated companionalso spectroscopic binary
+
+fictional usage
+
+many writer science fiction genre exploredpossibility binary star system one famous examples
+planet tatooine star war movie orbit two
+star tatooand tatooother instance include anime series
+simoun thecomputer game little big adventure latter set
+planet stabilised two star david weber honorverse
+manticore system binary star three habitable planet two
+themsphinx capital world manticore orbiting manticoreonegryphon orbiting manticore stargate fictional
+universe planet chulak located binary star systemstart filmstarship trooper fednet news graphic describes
+arachnid home world orbiting twin star system whose brutal
+gravitational force produce unlimited supply bug meteorites
+battlestar galactica episodethe captain hand setbinary star system
+
+also fiction even exotic stellar configurations
+star trek next generation episodenight terrorenterprised becomes trapped within unusual binary star systemstar trek enterprise episodesingularity enterprise visits
+ternary star system hero futurama episodemy
+three sun home star system planet vulcan star treklikely beeridani triple star systemlightyearsearth movie pitch black take place planet ternary
+system whilst isaac asimov renowned short storynightfall set
+sixsun system another example come reimagined
+battlestar galactica battlestar pegasus fight three
+cylon base ship binary star system well known notable
+complexity marune system numberin jack vances
+alastor cluster planet lit combination four
+sun whose combination lighting pattern control local culture
+marune orbit one star central binary pair second binary
+pair orbit first orbits
+coplanar

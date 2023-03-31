@@ -1,0 +1,491 @@
+copyright
+
+spyware
+
+ school wikipedia selection related subject website internet
+
+spyware computer software collect personal informationuser without informed consent term coined inbutwidely used another five year often used interchangeablyadware malware software designed infiltrate damagecomputer
+
+personal information secretly recorded variety techniques
+including logging keystroke recording internet web browsing history
+scanning document computer hard disk purpose rangeovertly criminal theft password financial detailmerely annoying recording internet search history targeted
+advertising consuming computer resource spyware may collect
+different type information variant attempt trackwebsite user visit send information advertising
+agency malicious variant attempt intercept passwordcredit card number user enters web formapplication
+
+spread spyware led development entire
+antispyware industry product remove disable existing spyware
+computer installed prevent installation
+however number company incorporated form spywareproduct program considered malwarestill spyware watch observe advertising purposes
+debatable whether legitimate adwarespywaremalware since user often knowledge legitimate
+program installed hisher computer generally unaware
+program infringing hisher privacy case
+program still use resource host computer without
+permission
+
+history development
+
+first recorded use term spyware occurred october
+usenet post poked fun microsofts business model spyware
+first denoted hardware meant espionage purpose howeverearlythe founder zone lab gregor freund used termpress release zonealarm personal firewall sincespyware taken present sense
+
+earlysteve gibson gibson research realizedadvertising software installed system suspectedwa stealing personal information analysis determined
+wa adware company aureate later radiateconducent gibson developed released first antispyware
+program optout many appeared since
+according novemberstudy aol national
+cybersecurity allianceof surveyed user computer form
+spyware average ofspyware component per computercount usually include cooky report back websitesoftware suchof surveyed user spyware reported
+know presence andreportedgiven permission installation spyware
+
+ofspyware become one preeminent security threats
+computer system running microsoft window operating systemestimate based customersent scan log webroot software makerspy sweeper said thatout ofcomputers connected internet
+infected computer internet explorer primary
+browser particularly vulnerable attack widelyused tight integration windows
+allows spyware acccess crucial part operating system
+
+comparison
+
+spyware adware tracking
+
+term adware frequently refers software displays
+advertisement whether user consented programeudora mail client display advertisement alternativeshareware registration fee classify adware senseadvertisingsupported software spyware adware form
+doe operate surreptitiously mislead user providesuser specific service
+
+spyware adware different sense display advertising
+claria corporation gator software exact advertisings
+bargainbuddy example visited web site frequently install gator
+client machine surreptitious manner directs revenueinstalling site claria displaying advertisementuser user receives many popup advertisements
+
+spyware behaviour reporting website user visits
+occurs background data used targeted advertisement
+impression prevalence spyware cast suspicion uponprogram track web browsing even statistical research
+purpose observer describe alexa toolbar internet
+explorer plugin published amazoncom spywareantispyware program report many user however choose
+install
+spyware virus worm
+
+unlike virus worm spyware doe usually selfreplicate like
+many recent virus however spywareby designexploits infected
+computer commercial gain typical tactic furthering goal
+include delivery unsolicited popup advertisement theftpersonal information including financial information credit
+card number monitoring webbrowsing activity marketing
+purpose routing http request advertising sites
+
+route infection
+
+spyware doe directly spread manner computer virusworm generally infected system doe attempt transmitinfection computer instead spyware get systemdeception user exploitation software
+vulnerabilities
+
+spyware installed without user aware since tend
+install software know disrupt working
+environment compromise privacy spyware deceives users
+either piggybacking piece desirable software kazaa
+tricking installing trojan horse methodrogue antispyware program even masquerade security software
+
+distributor spyware usually present program useful
+utilityfor instance web accelerator helpful software
+agent user download install software without immediately
+suspecting could cause harm example bonzi buddyspyware program targeted child claim
+explore internet friendsidekick talk walk joke browse search emaildownload like friend youve ever even haability compare price product love help save
+money best free
+
+spyware also come bundled shareware downloadable
+software well music user downloads progaminstalls installer additionally installs spyware
+although desirable software may harm bundled
+spyware doe case spyware author paid shareware
+author bundle spyware software case spyware
+author repackaged desirable free software installersadd spyware
+
+third way distributing spyware involves tricking usermanipulating security feature designed prevent unwanted
+installation prevents website initiating unwanted
+download instead requires user action clickinglink however link prove deceptive instance popup may
+appear like standard window dialog box box contains message
+would like optimise internet access links
+look like button reading yes matter button
+user press download start placing spyware users
+system later version offer fewer avenue attack
+
+spyware author infect system security hole web
+browser software user navigates web page
+controlled spyware author page contains code attacks
+browser force download installation spywarespyware author would also extensive knowledgecommerciallyavailable antivirus firewall softwarebecome known adriveby download leaf user hapless
+bystander attack common browser exploit target security
+vulnerability internet explorer microsoft java runtime
+
+installation spyware frequently involves internet explorerpopularity history security issue madefrequent target deep integration window environmentscriptability make obvious point attack window internet
+explorer also serf point attachment spyware form
+browser helper object modify browser behaviour add
+toolbars redirect traffic
+
+case worm virus delivered spyware payloadattacker used spybot worm install spyware put pornographic
+popups infected system screen directing traffic ads
+set channel fund spyware author profit even
+clearly illegal behaviour
+
+effect behaviors
+
+spyware program rarely alone computer affected machine
+rapidly infected many component user frequently
+notice unwanted behaviour degradation system performancespyware infestation create significant unwanted cpu activity disk
+usage network traffic slow computerstability issue application systemwide crash also
+common spyware interferes networking software commonly
+cause difficulty connecting internet
+
+infection spyware even evident user assumesituation issue relate hardware windows
+installation problem virus owner badly infected
+system resort contacting technical support expert even buying
+new computer existing system become slow badly
+infected system may require clean reinstall softwareorder return full functionality
+
+rarely doe single piece software render computer unusable
+rather computer likely multiple infection 
+aol study noted computer spyware typicallydozen different piece installed cumulative effectinteraction spyware component cause symptom commonly
+reported user computer slows crawl overwhelmedmany parasitic process running moreover typespyware disable software firewall antivirus software andor
+reduce browser security setting thus opening systemopportunistic infection much like immune deficiency disease
+documented case also occurred spyware programdisabled spyware program installedcompetitors
+
+type spyware targetsoft example modify system
+file harder remove targetsoft modifies 
+winsock window socket file deletion spywareinfected
+file inetadptdll interrupt normal networking usage unlike
+user many operating system typical window useradministrative privilege mostly convenienceprogram user run intentionally unrestricted accesssystem spyware along threat led windows
+user move platform linux apple macintosh
+le attractive target malwareprogram granted unrestricted access operating system
+due unix underpinnings upon linux mac xbuilt allege partly due far smaller numbermachine installed operating system making spyware
+development potentially profitable platforms
+
+advertisements
+
+many spyware program display advertisement program simply
+display popup regular basis instance one every several
+minute one user open new browser window others
+display response specific site user visit spyware
+operator present feature desirable advertiser may buy
+ad placement popups displayed user visit particular
+site also one purpose spyware program gather
+information user behaviour popups one user common
+complaint spyware
+
+many user complain irritating offensive advertisementwell many banner many spyware advertisement use
+animation flickering banner visually distractingannoying user popup pornography often display
+indiscriminately child user could possibly
+violate antipornography law jurisdictions
+
+issue case spyware program hareplacement banner viewed web site spyware actweb proxy browser helper object replace reference sites
+advertisement fund site advertisementinstead fund spyware operator cut marginadvertisingfunded web sites
+
+stealware affiliate fraud
+
+spyware vendor notablysolutions written new
+york time dubbedstealware spywareresearcher ben
+edelman term affiliate fraud also known click fraud stealware
+diverts payment affiliate marketing revenue legitimate
+affiliate spyware vendor
+
+spyware attack affiliate network place spyware operators
+affiliate tag user activityreplacing tagone spyware operator party gainuser choice thwarted legitimate affiliate loses
+revenue network reputation injured vendor harmedpay affiliate revenue affiliate party
+contract
+
+affiliate fraud violation term serviceaffiliate marketing network result spyware operatorsolution terminated affiliate network including
+linkshare sharesale
+
+identity theft fraud
+
+one case spyware closely associated identity theft
+augustresearchers security software firm sunbelt
+software believed maker common coolwebsearch spyware
+used transmit chat session user name password bank
+information etc turned actually wasophisticated criminal little trojan thats independent cwscase currently investigation fbi
+
+case aside identity theft remains theoretically possiblekeyloggers routinely packaged spyware information security
+researcher john bambenek estimate identity thief stolen
+overbillion dollar account information united states
+alone
+
+spywaremakers may commit wire fraud dialer program spywarereset modem dial premiumrate telephone number insteadusual isp connecting suspicious number involves
+longdistance overseas charge invariably result high
+charge dialers ineffective computer modem
+connected telephone line
+
+digital right management
+
+copyprotection technology also use spyware technique digital
+right management technology sonys xcp actually use
+trojanhorse tactic verify user lawful ownership filequestion sony sued using viruslike technique prevent
+user copying used rootkit embed sonys software
+part window operating system make hard findantispyware software difficult uninstall
+
+beginning aprilmicrosofts window genuine advantage
+notification application install window critical
+security update main pupose deliberately
+uninstallable application making sure copy windowmachine lawfully purchased installed also installs software
+ha accused phoning home daily basis like spyware
+removed removewga tool
+
+spyware cookies
+
+antispyware program often report web advertiser http cookysmall text file track browsing activity spywareinherently malicious many user object third party using
+space personal computer business purposemany antispyware program offer remove
+example spyware
+
+common spyware program illustrate diversity behaviors
+found attack note computer virus researchers
+give name spyware program may used creators
+program may grouped family based shared program
+code common behavior following money apparent
+financial business connection instance numberspyware program distributed claria collectively knowngator likewise program frequently installed together may
+described part spyware package evenfunction separately
+coolwebsearch group program take advantage internet
+explorer vulnerability package directs trafficadvertisement web site including coolwebsearchcomdisplay popup rewrite search engine result alterinfected computer host file direct dns lookupsites
+
+internet optimizer also known dyfuca redirects internet
+explorer error page advertising user follow broken
+link enter erroneous url see page advertisements
+however passwordprotected web site http basic
+authentication use mechanism http error internet
+optimizer make impossible user access
+passwordprotected sites
+
+solution transmits detailed information advertiserweb site user visit also alters http requestaffiliate advertisement linked web siteadvertisement make unearned profit thesolutions company
+open popup cover web site competing
+companies
+
+huntbar aka wintools adwarewebsearch small familyspyware program distributed traffic syndicate installed
+activex driveby download affiliate web siteadvertisement displayed spyware programsan examplespyware install spyware program add toolbars
+ie track browsing behaviour redirect affiliate referencedisplay advertisements
+
+legal issue related spyware
+
+criminal law
+
+unauthorized access computer illegal computer crime laws
+u computer fraud abuse act computer
+misuse act similar law country since ownercomputer infected spyware generally claim never
+authorized installation prima facie reading would suggestpromulgation spyware would count criminal act law
+enforcement often pursued author malware
+particularly virus however spyware developerprosecuted many operate openly strictly legitimate businesses
+though faced lawsuits
+
+spyware producer argue contrary user claim userfact give consent installation spyware come bundledshareware application may described legalese textenduser license agreement eula many user habitually ignorepurported contract spyware company claria claimdemonstrate user consented
+
+despite ubiquity eulas ofclickwrap agreementsingle click taken consent entire text
+relatively little case law resulted use haestablished common law jurisdiction clickwrap agreement
+binding contract certain circumstance doehowever mean every agreement contract every
+term one enforceable
+
+jurisdiction including state iowa washington 
+passed law criminalizing form spyware law makeillegal anyone owner operator computerinstall software alters webbrowser setting monitor keystrokes
+disables computersecurity software
+
+civil law
+
+new york state attorney general governorelect eliot spitzerpursued spyware company fraudulent installation softwaresuit brought inby spitzer california firm intermix media
+inc ended settling agreeing pay million stop
+distributing spyware
+
+hijacking web advertisement also led litigation june
+number large web publisher sued claria replacing
+advertisement settled court
+
+court yet decide whether advertiser held
+liable spyware display many casecompany whose advertisement appear spyware popupsdirectly business spyware firm rathercontracted advertising agency turn contractonline subcontractor get paid number impressionappearance advertisement major firm dell
+computer mercedesbenz sacked advertising agencyrun spyware
+
+libel suit spyware developers
+
+litigation gone way since spyware become common
+pejorative maker filed libel defamation actionproduct described ingator knownclaria filed suit website pitstop describingprogram spyware pitstop settled agreeing use word
+spyware continues describe harm caused gatorclaria
+software result antispyware antivirus companyalso used term potentially unwanted programgreyware denote products
+
+remedy prevention
+
+spyware threat worsened number technique emerged
+counteract include program designed remove block
+spyware well various user practice reduce chancegetting spyware system
+
+nonetheless spyware remains costly problem large numberpiece spyware infected window computer remedy may
+involve backing user data fully reinstalling operating
+system
+
+antispyware programs
+
+many programmer commercial firm released products
+designed remove block spyware steve gibson optout mentioned
+pioneered growing category program lavasofts
+adaware patrick kollas spybotsearchdestroy rapidly
+gained popularity effective tool remove cases
+intercept spyware program recently microsoft acquired giant
+antispyware software rebranding window antispyware betareleasing free download window windowsusers
+early springmicrosoft renamed beta software windows
+defender released free download october 
+microsoft also announced product ship freewindow vista wellknown antispyware product include webroot
+spy sweeper trend micros antispyware tool spyware doctorsunbelt counterspy forked codebase giant
+antispyware called microsofts window defender blue coat
+system released gateway antispyware solution 
+
+major antivirus firm symantec mcafee sophos come
+later table adding antispyware feature existing
+antivirus product early antivirus firm expressed reluctanceadd antispyware function citing lawsuit brought spyware authors
+author web site program describedproduct spyware however recent version major firms
+home business antivirus product include antispyware
+function albeit treated differently virus symantec
+antivirus instance categorizes spyware program extended
+threat offer realtime protection doevirus recently anti virus company grisoft make avg
+anti virus program relabled ewido anti spyware program avg
+anti spyware program show trend anti virus companylaunch dedicated solution spyware malware zone lab make
+zone alarm firewall also released anti spyware program
+
+antispyware program combat spyware two ways
+realtime protection prevents installation spyware
+detection removal remove spyware infected
+computer
+
+writer antispyware program usually find detection removal
+simpler many program become availableprogram inspect content window registry operating
+system file installed program remove file entries
+match list known spyware component realtime protection
+spyware work identically realtime antivirus protectionsoftware scan incoming network data disk file download time
+block activity component known represent spywarecase may also intercept attempt install startup itemmodify browser setting many spyware adwareinstalled result browser exploit user error using security
+software antispyware though manysandbox browser also effective help restrict damage
+done
+
+earlier version antispyware program focused chiefly detection
+removal javacool software spywareblaster one firstoffer realtime protection blocked installation activexbased
+spyware program date program adaware
+window defender combine two approachspywareblaster remains focused prevention
+
+like antivirus software many antispywareadware tool requirefrequentlyupdated database threat new spyware programreleased antispyware developer discover evaluate making
+signature definition allow software detectremove spyware result antispyware software limited
+usefulness without regular source update vendor providesubscriptionbased update service others provide update gratis
+update may installed automatically schedulescan may done manually
+
+program rely updated definition program rely partly
+instance many antispyware program window defender
+spybots teatimer spysweeper fully program fallingclass hip billps winpatrol historical observation
+watch certain configuration parameter certain portions
+window registry browser configuration report change
+user without judgment recommendation rely
+updated definition may allow spot newer spyware
+offer guidance user left determineconfiguration change appropriate
+
+window defender spynet attempt alleviate offeringcommunity share information help guide userlook decision made others analyst spot
+fastspreading spyware popular generic spyware removal tool usedcertain degree expertise hijackthis scans
+certain area window spyware often residespresent list item delete manually itemlegitimate window filesregistry entry advisedle knowledgeable subject post hijackthis lognumerous antispyware site let expert decide delete
+open source antispyware program also available one program
+wssecure detect new process change system file using
+checksum verification technique helpful detecting
+spyware downloaded automatically due windows
+vulnerabilities
+
+spyware program blocked manages getinstalled may resist attempt terminate uninstallprogram work pair antispyware scanner user
+terminates one running process one respawns killed
+program likewise spyware detect attempt remove registry
+key immediately add usually booting infected
+computer safe mode allows antispyware program better chanceremoving persistent spyware killing process tree also work
+
+new breed spyware lookme spyware nictechnetworks good
+example starting hide inside systemcritical process start
+even safe mode process terminate harderdetect remove sometimes even leave ondisk
+signature rootkit technology also seeing increasing useuse ntfs alternate data stream newer spyware program alsospecific countermeasure well known antimalware productmay prevent running installed even uninstall
+example one three method gromozon new
+breed malware alternate data stream hide rootkit
+hide even alternate data stream scanner actively stops
+popular rootkit scanner running
+
+fake antispyware programs
+
+malicious programmer released large number fake antispyware
+program widely distributed web banner spuriously warn
+user computer infected spyware directing
+purchase program actually remove spywareor
+worse may add spyware
+recent proliferation fake spoofed antivirus productoccasioned concern product often billantispyware antivirus registry cleaner sometimes feature
+popups prompting user install called rogue software
+
+known offender include
+shield 
+privacy defender
+malware wipe
+pest trap
+spyaxe
+antivirus gold
+spywarestrike
+spyware quake
+spyfalcon
+worldantispy
+winfixer
+spytrooper
+
+spyware stormer
+spy sheriff
+spyban
+spywiper
+pal spyware remover
+psguard
+alfacleaner
+bravesentry
+virusburst
+trustcleaner pro
+antispywaresoldier
+mallware
+winantivirus pro 
+
+onmicrosoft washington state attorney general
+filed suit secure computer spyware cleaner product
+
+security practices
+
+deter spyware computer user found several practice usefuladdition installing antispyware programs
+
+many system operator install web browser ieopera mozilla firefox although also sufferedsecurity vulnerability targeted much ieuser likely fall spyware usingthough browser completely safe internet explorer greater
+risk spyware infection due large user base wellvulnerability activex
+
+ispsparticularly college universitieshave takendifferent approach blocking spyware use network
+firewall web proxy block access web site known install
+spyware marchcornell university information technology
+department released report detailing behaviour one particular
+piece proxybased spyware marketscore step university
+took intercept many educational institution taken
+similar step spyware program redirect network traffic cause
+greater technicalsupport problem program merely display
+ad monitor user behaviour may readily attract
+institutional attention
+
+user install large host file prevents users
+computer connecting known spyware related web addresses
+however connecting numeric address ratherdomain name spyware may bypass sort protection
+
+spyware may get installed via certain shareware program offereddownload downloading program reputable source provide
+protection source attack recently cnet revampeddownload directory stated keep filepas inspection adaware spyware doctor
+
+notable program distributed spyware
+
+bearshare
+bonzi buddy
+dope wars
+errorguard
+grokster
+kazaa
+morpheus
+radlight
+weatherbug
+edonkey
+sonys extended copy protection involved installationspyware audio compact disc autorun practice
+sparked considerable controversy discovered
+wildtangent antispyware program counterspy used sayokay keep wildtangent say spyware
+winpipe possibly distributed adware bundler
+wildtangent threat included bundler
+drive cleaner
+
+notable program formerly distributed spyware
+
+aol instant messenger aol instant messenger still packages
+viewpoint medium player wildtangent
+divx except paid version standard version
+without encoder divx announced removal gain softwareversion 
+edonkey
+limewire free window version 
+flashget trial version prior program made freeware
+

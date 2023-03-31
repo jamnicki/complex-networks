@@ -1,0 +1,1287 @@
+copyright
+
+japanese grammar
+
+ school wikipedia selection related subject linguistics
+
+japanese grammar
+
+japanese language highly regular agglutinative verb
+morphology productive fixed element typologicallyprominent feature topic creation japanese neither
+topicprominent subjectprominent indeed commonsentence distinct topic subject grammatically japanese
+sov dependentmarking language verb always constrainedsentencefinal position except rhetorical poetic
+usage word order fairly free long orderdependenthead maintained among constituent modifierrelative clause precedes modified noun adverb precedesmodified verb genitive nominal precedes possessed nominalforth thus japanese strongly left branching languagecontrast romance language like spanish strongly rightbranching
+germanic language like english weakly rightbranching
+
+simplicity article present example plain informalnonliterary style reader must keep general grammatical
+principle politeness respect mind
+
+textual classifications
+
+textbunsh composed sentencesbun turn
+composed phrasesbunsetsu smallest coherent
+component like chinese classical korean written japanesetypically demarcate word space agglutinative nature
+make concept word rather different wordenglish word division informed semantic cue knowledge
+phrase structure phrase single meaningbearing word
+followed string suffix auxiliary verb particlemodify meaning designate grammatical role following
+example bunsetsu indicated vertical bars
+
+
+taiy gahigashi nosora ninoboru
+sun subjecteast possessivesky locativerise
+sun rise eastern sky
+
+scholar romanize japanese sentence inserting spacephrase boundary taiyga higashino sorani noborueffect treating entire phrase equivalent english word
+good reason phonologically postpositional
+particle part word follow within phrasepitch accent fall atmost traditionally howeverbasic concept wordtango form atom sentence words
+unlike phrase need intrinsic meaning therefore admitting
+particle auxiliary verb must noted classical
+auxiliary verb might developedcontraction ari grammaticalized conjugation verb
+ending modern japanese individual words
+
+
+watashiwamainichigakkearuiteiku
+firstpersontopiceverydayschooltowards 
+walkcontinuativego
+every day walk school
+
+subject deemphasized japanese commonly foundintroduction topic situation ambiguity might
+result omission thus following sentence haone possible translation
+
+
+nihon ikimashita
+japan locative gopoliteperfect
+
+word translate literally went japan meaning
+depends context topic first person meanwent japan third person heshe went japanforth closest analogue japanese subjectpredicate
+structure western language socalled topic construction
+consider following pair sentences
+
+
+taiy noboru
+sun subject rise
+
+taiy noboru
+sun topic rise
+
+sentence mean sun rise suntaiyfirst sentence subject second topicdifference matter context focus subjectindicatedparticlegathe sentence specific observation sun
+rise instance one might say following surprising
+statement
+
+
+konya taiy noboru
+tonight topic sun subject rise
+sun rise tonight
+
+sun topicusing particlewathe statement less
+focused sun general statement fact oftendescription state judgement rather particular
+observation
+
+word classification
+
+structure article mirror following classification
+word two broad category independent word 
+jiritsugo internal meaning ancillary wordsfuzokugo
+meaning modifiers
+
+independent word divide conjugablekatsuygo class
+containing verbsdshi itype adjectiveskeiyshinatype adjectiveskeiydshi nonconjugable 
+hikatsuygo ormukatsuygo class containing nounsmeishi
+pronounsdaimeishi adverbsfukushi conjunction 
+setsuzokushi interjectionskandshi prenominals 
+rentaishi
+
+ancillary word also divide nonconjugable class containing
+grammatical particlesjoshi counter wordsjosshiconjugable class consisting auxiliary verbsjodshiwide agreement among linguist english translationterms
+
+noun deictics
+
+caption respectful form nouns
+
+meaningplainrespectful
+ricemeshigohan
+moneykaneokane
+bodykaradaokarada
+onmi
+wordskotobaokotoba
+mikotonori
+
+japanese noun non inflecting neither gender number
+addition japanese lack article thusneko translated
+cat cat cat cat cat forth
+depending context unlike conjugating word noun inflectshow politeness respect generally prefix native nouns
+go sinojapanese noun serve make noun politeexample adjoining table note prefixalmost always hiraganathat aso orgo kanjiis
+used prefix formal writing many common nouns
+unpredictable polite respectful form governedgeneral principle see also japanese honorifics
+
+lacking number japanese doe differentiate count mass
+noun english speaker learning japanese would well advisedtreat japanese noun mass noun small number nouncollective formed reduplication possibly accompanied rendaku
+examplehito person andhitobito people reduplication
+productive though always refer oneword true plural hitobito example mean lotpeople people general never used mean two people
+phrase like edo hitobito would taken mean peopleedo population edo two people edo evenpeople edo similarlyyamayama duplication yama
+mountain mean many mountains
+
+limited number noun collective form refer grouppeople example includewatashitachi weanatatachi
+pluralbokura informal male one uncommon personal
+nounware case much common
+reduplicative collective formwareware
+suffixestachi andra far common
+collectivizing suffix pluralizing suffixes
+tartachi doe mean number people named taroinstead indicates group including taro depending context
+tartachi might translated taro friend tarosibling taro family logical grouping
+ha taro representative word collectivebecome fixed phrase commonly refer one person specifically
+kodomo child andtomodachi friend singular even
+though tomo tachi originally collectivizingword unambiguously refer group add additional
+collectivizing suffixkodomotachi child 
+tomodachitachi friend though tomodachitachi somewhat uncommon
+tachi sometimes applied inanimate objectskuruma car 
+kurumatachi car example usage generally
+accepted standard
+
+pronouns
+
+caption common pronouns
+
+person plain informal polite respectful
+firstboku male
+atashi femaleoremaleetcwatashiwatakushi
+secondkimiomaekisamaetcanatasochira 
+anatasama
+thirdkare male
+kanojo female
+
+although many grammar textbook mention pronounsdaimeishi
+japanese lack true pronoun daimeishi considered subsetnoun strictly speaking pronoun take modifier japanese
+daimeishi dose takai kare lit tall validjapanese also unlike true pronoun japanese daimeishiclosedclass new daimeishi introduced old one use
+relatively quickly
+
+large number daimeishi referring people translatedpronoun common exampleskare hekanojo
+shewatashi see also adjoining table longer list
+personal noun asonore exceedingly
+humble orboku young male also secondperson uses
+onore secondperson extremely rude bokusecondperson diminutive used young boydifferentiates daimeishi pronoun cannot changeperson kare kanojo also mean boyfriend girlfriend
+respectively usage word possibly commonuse pronouns
+
+like subject japanese deemphasizes personal daimeishiseldom used partly japanese sentencealways require explicit subject partly name titles
+often used pronoun would appear translation
+
+
+kinoshitasan se takai desu addressing kinoshita youre pretty tall arent
+semmu asu fukuokashi nishiku yamamotoshji shach atte itadakemasuka
+addressing managing director would possiblemeet president yamamoto trading fukuoka west
+ward tomorrow
+
+lexical difference noun daimeishipossible referrents daimeishi constrained dependingorder occurrence following pair example due bart
+mathias illustrates one constraint
+
+
+hondakun atte kare hon kaeshita
+met honda returned book referhonda
+
+kare atte hondakun hon kaeshita
+met returned hondas book cannot refer
+honda
+
+reflexive pronouns
+
+reflexive pronoun important class pronoun language
+like english containing large varietyetc japanese contrast one main reflexive
+daimeishijibun also mean usreflexive pronoun two language differentdemonstrated following incorrect literal translations
+impossible ambiguous
+english japanese reason
+history repeat 
+rekishi jibun kurikaesu target jibun must animate
+hiroshi talked kenji 
+hiroshi kenji jibun koto hanashita
+hiroshi talked kenji hiroshi jibun refers
+unambiguously subject
+nobu expects shizuko take good care
+nobu shizoko jibun daiji suru koto kitai shite iru
+either nobu expects shizuko take good care nobu
+expects shizuko take good care jibundifferent sentence dependent clause target ambiguous
+
+sentence one grammatical semantic subjecttarget jibun subject primary prominent
+action thus following sentence jibun refers unambiguouslyshizuko even though nobu grammatical subjectprimary action shizukos reading
+
+
+nobu shizuko jibun uchi hon yomaseta
+nobu made shizuko read book house
+
+practice main action always discernible case
+sentence ambiguous use jibun complex sentences
+follows nontrivial rules
+
+also equivalent jibun mizukara usreflexive pronoun english covered adverb like hitorideni
+used sense oneself example
+
+
+kikai hitorideni ugokidashita
+machine started operating
+demonstratives
+
+caption demonstratives
+
+kosoado
+kore
+onesore
+oneare
+one theredore
+one
+kono
+thissono
+thatano
+theredono
+konna
+like thissonna
+like thatanna
+like theredonna
+sortkoko
+heresoko
+thereasoko 
+theredoko
+kochira
+waysochira
+wayachira
+way theredochira
+way
+k
+mannermanner
+mannermanner
+
+irregular formation
+
+demonstrative occur series proximal
+series refers thing closer speaker hearermesial series thing closer hearer distal
+series thing distant speaker hearerdemonstrative turn corresponding question form
+demonstrative also used refer people example
+
+
+kochira hayashisan desu
+mr hayashi
+
+demonstrative limit therefore precede noun thuskono hon
+thismy book andsono hon thatyour book
+
+demonstrative used refer thing visiblespeaker hearer abstract concept fulfil related
+different anaphoric role anaphoric distals used shared
+information speaker listener
+
+senjitsu sapporo itte kimashita
+visited sapporo recently
+b
+b asoko soko itsu itte ii tokoro desu b yeah thats great place visit whenever 
+soko instead asoko would imply doesnt share knowledge
+sapporo inconsistent meaning sentence
+anaphoric mesials used refer experience knowledgeshared speaker listener
+
+
+sattanaka hito kin shinda tte
+sato heard man called tanaka died yesterday
+
+mori hont
+mori really
+
+satdakara sono ano hito morisan mukashi rinjin
+ja nakatta kke
+sato asked wasnt old neighbour
+ano inappropriate sato doesnt didnt know
+tanaka personally proximal demonstrative clear
+anaphoric used situation distal series
+sound disconnected
+
+
+ittai nan desu kore earth
+conjugable words
+
+stem forms
+
+prior discussing conjugable word brief note stem
+form conjugative suffix auxiliary verb attachedstem form affixee modern japanese following
+six stem forms
+
+imperfective formmizenkei
+used plain negative verb causative passive
+construction common use form nai
+auxiliary turn verb negative predicate form
+see verb
+continuative formrenykei
+used linking role productive stem
+form taking variety ending auxiliaryeven occur independently sense similar ending
+form also used negate adjectives
+
+terminal formshshikei
+used end clause predicate position form
+also variously known plain formkihonkeidictionary formjishokei
+
+attributive formrentaikei
+modern japanese practically identical terminal form
+see adjective differs use prefixed
+nominal used define classify nounfunction root stem form called prenominal
+adjectiverentaishi
+
+hypothetical formkateikei
+used conditional subjunctive form using badomo ending
+
+imperative formmeireikei
+used turn verb command adjectiveimperative stem form
+
+application conjugative suffix stem form follow certain
+euphonic principlesonbin discussed
+verbs
+
+verb japanese rigidly constrained end clauseknown predicate position
+　
+neko wasakana otaberu
+cat topic fishobject eat
+cat eat fish
+
+subject object verb indicated mean particles
+see section grammatical functionverbprimarily tense voiceare indicated mean conjugation
+subject dissertative topic coincide subjectoften omitted verb intransitive entire sentence may
+consist single verb verb two tense indicatedconjugationpast nonpast semantic difference present
+future indicated mean conjugation usuallyambiguity verb operate voiceaspect also indicated mean conjugation possibly
+agglutinating auxiliary verb example continuative aspectformed mean continuative conjugation known gerundive
+te form auxiliary verb iru illustratemiruseemiteiru seeing
+
+verb semantically classified based certain conjugations
+
+stative verbs
+indicate existential property beirudekiru neediru etc verb generally dont
+continuative conjugation irusemantically continuative already
+
+continual verbs
+conjugate auxiliary iru indicate progressive
+aspect example eattaberu drinknomuthinkkangaeru illustrate conjugation 
+taberu eattabeteiru eating
+
+punctual verbs
+conjugate iru indicate repeated actioncontinuing state action exampleshiru know
+shitte iru knowingutsu hit
+utte iru hitting repeatedly
+
+nonvolitional verb
+indicate uncontrollable action emotion verb generally
+volitional imperative potential conjugation
+exampleskonomu like emotivemieruvisible nonemotive
+
+movement verbs
+indicate motion examplesaruku walkkaerureturn continuative form see takeparticle indicate purpose
+
+possible class large amount overlapclasses
+
+conjugation
+
+lexically nearly every verb japanese member exactly onefollowing three regular conjugation groups
+
+group akami ichidan lit upper row group
+verb terminal stem form rhyming iru example 
+miru seekiru wear
+
+group bshimo ichidan lit lower row group
+verb terminal stem form rhyming eru example 
+taberu eatkureru give
+
+groupgodan lit row group
+verb terminal form rhyming description haslight ambiguitycertain verb likekaeru returngroupinstead groupsee miscellaneous sectionmodern japanese ending impossible thoughcommon classical japanese spelled modern
+japanese
+
+historical note classical japanese upper lowerand row
+group row groupkamishimo ichidankamishimo
+nidan andyodan nidan verb becoming today ichidan
+verb handful kami ichidan verb one
+single shimo ichidan verb classical japanese yodan group
+due writing reform write japanesepronounced naturally became modern godan verb since verbmigrated across group history language conjugationclassical verb predictable knowledge modern japanese
+alone
+
+irregular class two
+
+sagroup
+ha one membersuru japanese
+grammar word classified assahenabbreviation ofsagyou henkaku katsuy sarow
+irregular conjugation
+
+kagroup
+also one memberkuru come japanese name
+class iskagyou henkaku katsuy simply 
+kahen
+
+classical japanese two irregular class nagroup
+containedshinu die andinu dieragroup included verb asari equivalentmodern aru well quite number extremely irregular verbs
+cannot classified
+
+following table illustrates stem form conjugation
+group root indicated dot example findhypothetical form groupverbkaku look second row
+find root hypothetical row get ending
+ke giving stem form kake multiple possibilities
+listed order increasing rarity
+group
+examplea sa tsukakamitabe
+imperfective form
+mizenkeiwa
+oka
+kosa
+shi
+seko
+continuative form
+renyoukeiikishiki
+terminal form
+shshikeiukururusurukuru
+attributive form
+rentaikei terminal form
+hypothetical form
+kateikeiekereresurekure
+imperative form
+meireikeiekero
+yoro
+yoshiro
+seyo
+seikoi
+unexpected ending due verb classically conjugatingha phonemic drift moving wa finally modern spelling
+reform reuniting pronunciation spelling
+
+stem form verb one must add
+various verb ending order get fully conjugated verbfollowing table list common conjugation see japanese verb
+conjugation full list case form different
+based conjugation group verb arrow point correct
+formation rule
+formation rule group 
+kaku groupmiru group taberu sagroup
+suru kagroup
+kuru
+plain
+polite
+nonpast contmasu 
+kakimasu 
+mimasu 
+tabemasu 
+shimasu 
+kimasu
+informal
+past contta 
+kaita 
+mita 
+tabeta 
+shita 
+kita
+informal
+negative
+nonpast imperfnai 
+kakanai 
+minai 
+tabenai 
+shinai 
+konai
+informal
+negative
+past imperf
+nakatta 
+kakanakatta 
+minakatta 
+tabenakatta 
+shinakatta 
+konakatta
+te form gerundive contte 
+kaite 
+mite 
+tabete 
+shite 
+kite
+conditional hypba 
+kakeba 
+mireba 
+tabereba 
+sureba 
+kureba
+provisional conttara 
+kaitara 
+mitara 
+tabetara 
+sitara 
+kitara
+volitional imperfu 
+kak 
+imperfy
+miy 
+tabey 
+shiy 
+koy
+passive imperfreru 
+kakareru
+sareru 
+imperfrareru
+mirareru 
+taberareru
+korareru
+causative imperfseru 
+kakaseru
+saseru 
+imperfsaseru
+misaseru 
+tabesaseru
+kosaseru
+potential hypru 
+kakeru
+dekiru 
+imperfrareru
+mirareru 
+taberareru
+korareru
+see note hypothetical formnote entirely different verbsuru hapotential form
+
+polite ending masu conjugate groupverb passivepotential ending reru rareru causative ending seru
+saseru conjugate group verb multiple verbal endings
+therefore agglutinate example common formationcausativepassive ending saserareru
+
+
+boku ane natt tabesaserareta
+wa made eat natto elder sister
+
+expected vast majority lexically legal
+combination conjugative ending semantically meaningful
+
+adjectives
+
+japanese two main class adjectives
+
+itype adjectiveskeiyshi
+similar verb root conjugating
+stem form often classified stative verbs
+
+natype adjectivekeiydshi lit adjectival verb
+noun affixed narare case without affix form adjective
+
+unlike adjective language like english adjective japanese
+inflect aspect mood like verb japanese adjectivecomparative superlative inflection marked
+periphrastically using adverb likemotto andichiban
+nearly every japanese adjective used predicative
+position differs english many common
+adjective major major question cannotused predicate position question majorgrammatical english handful japanese adjectivecannot predicate ookina bigchsana small 
+okashina strange stylistic natype variant normal
+itype adjective every adjective japanese usedattributive position
+
+itype adjective except forii good regular
+conjugation irregular fact changed
+form regular adjectiveyoi natype adjectives
+conjugate regularly
+
+caption stem form adjectives
+
+itype adjectivesnatype adjectives
+yasuishizuka
+imperfective form
+mizenkeikaroyokarodaro
+continuative form
+renyoukeikuyokude
+terminal form
+shshikeiiida
+attributive form
+rentaikeiiina
+hypothetical form
+kateikeikereyokerenara
+imperative form
+meireikeikareyokarenare
+attributive terminal form formerlyki 
+shi respectively modern japanese used
+productively stylistic reason although many set phrases
+asnanashi anonymous andyoshi sometimes written
+yosh general positive interjection deriveimperative form extremely rare modern japanese
+restricted set pattern likeosokare hayakare soonerlater treated adverbial phraseimpossible imperative form predicate position
+
+like verb enumerate common conjugation adjectives
+also isnt specialcased conjugation identicalyoi
+itype adjectives
+yasui natype adjectives
+shizuka
+plain
+polite
+nonpast termcopuladesu 
+yasui desu rootcopuladesu 
+shizuka desu
+informal
+past contatta
+ua collapse 
+yasukatta contatta
+ea collapse 
+shizuka datta
+informal
+negative
+nonpast contwa nai 
+yasukuwanai contwa nai 
+shizuka wa nai
+informal
+negative
+past contwa nakatta 
+yasukuwanakatta contwa nakatta 
+shizuka wa nakatta
+polite
+negative
+non past inf neg nonpastarimasen 
+yasuku arimasen inf contwa arimasen 
+shizuka wa arimasen
+inf neg nonpastnaicopuladesu 
+yasukunai desu inf contwa nai desu 
+shizuka wa nai desu
+polite
+negative
+past inf neg pastarimasen　deshita 
+yasuku arimasen deshita inf contwa arimasen deshita
+
+shizuka wa arimasen deshita
+inf neg pastcopuladesu 
+yasukunakatta desu inf neg pastnakatta desu
+shizuka wa nakatta desu
+te form contte 
+yasukute cont 
+shizuka conditional hypba 
+yasukereba hypba 
+shizuka naraba
+provisional inf pastra 
+yasukattara inf pastra 
+shizuka dattara
+volitional imperfuyasukar imperfu
+rootdarshizuka dar
+adverbial cont 
+yasuku rootni 
+shizuka degree ness rootsa 
+yasusa rootsa 
+shizukasa
+note form itype adjectivenai
+see note hypothetical formsince adjective describe nonvolitional conditionvolitional form interpreted possible sensiblerare case semivolitionalyokar lit let
+good response report request
+
+adjective governed euphonic rule certain casenoted section polite negative natype
+adjective see also section copulada
+
+copulada
+
+copula behaves much like verb adjective termconjugation
+
+caption stem form copula
+
+imperfective form
+mizenkeide continuative form
+renyoukeide
+terminal form
+shshikeida informal
+desu polite
+de gozaimasu respectful
+attributive form
+rentaikeide aru
+hypothetical form
+kateikeinara
+imperative form
+meireikeiimpossible
+
+note potential causative passive formcopula adjective following examples
+
+
+jon gakusei john student
+
+ashita hare nara pikunikku shiy
+tomorrow clear let picnic
+
+continuative conjugationsde often contracted speech
+toja kind informal speech preferable wa possibility
+
+caption conjugation copula
+
+nonpastinformalda
+politedesu
+respectfulde gozaimasu
+pastinformalcontatta
+datta
+politedeshita
+respectfulde gozaimashita
+negative
+nonpastinformalcontwa nai
+politecontwa arimasen
+politecontwa gozaimasen
+negative
+pastinformalcontwa nakatta
+politecontwa arimasen deshita
+politecontwa gozaimasen deshita
+conditionalinformalhypba
+politecontareba
+respectful
+provisionalinformalnara
+politesame conditional
+respectful
+volitionalinformaldar
+politedesh
+respectfulde gozaimash
+adverbialte formsinformalcont
+politecontarimashite
+respectful contgozaimashite
+
+euphonic changesonbin
+
+caption spelling changes
+
+archaicmodern
+au
+afu
+iu
+ifuy
+ufu
+eu
+efuy
+ofu
+oho
+owo
+auxiliary verbmun
+medial finalhawa
+medial finalhihehoieo
+via wo seeanywiwewoieo
+
+usu reflected spelling
+
+modern pronunciation result long history phonemic drift
+traced back written record thirteenth century
+possibly earlier however inthat japanese
+ministry education modified existing kana usage conformstandard dialectkytsgo earlier text used archaic
+orthography referred historical kana usage adjoining
+table nearly exhaustive list spelling change unliketradition found englishspeaking country people learnmiddle english chaucer pronounced differentlymodern language generally understood historical
+kana spelling one point reflective pronunciationexamplelit efu leafmodern wa pronounced
+something like epu japanese time borrowed
+however modern reader classical text would still readyoo modern pronunciation
+
+mentioned conjugation verb adjective differ
+prescribed formation rule euphonic change nearly
+euphonic change regular verbexception ending continuative form groupfollowing auxiliary tasound ietate 
+tari etc
+continuative ending change example
+hichi orridouble consonantkahitekatte
+uchiteutte
+shiriteshitte
+bi ornisyllabic followingt sound voiced
+asobiteasonde
+sumitesunde
+shiniteshinde
+kiikakitekaite
+gii followingt sound voicedoyogite
+oyoide
+
+one irregular changeiku goexceptional continuative formikiteitteiki
+taitta etc
+
+continuative form proper adjective followed polite
+form asgozaimasu orzonjimasu know
+undergo transformation
+continuative ending description examples
+notpossibly also combining previous syllable
+according spelling reform chartsamuku gozaimasu 
+sam gozaimasu
+ohayaku gozaimasuohay gozaimasu
+suzushiku gozaimasusuzush gozaimasu
+
+respectful verb askudasaru getnasarugozaru beirassharu becomegoossharu
+say etc behave like groupverbs except continuativeimperative forms
+change examples
+continuativechanged togozarimasugozaimasu
+irassharimaseirasshaimase
+imperativechanged tokudasarekudasai
+nasarenasai
+
+speech common combination conjugation auxiliary verbcontracted fairly regular manner
+
+caption colloquial contractions
+
+full form colloquial example
+
+te shimau 
+chauchimau
+groupmakete shimau lose
+makechaumakechimau
+
+de shimau 
+jaujimau
+groupshinde shimau dieshinjau　shinjimau
+
+te 
+chatabete ikenai must eattabecha
+ikenai
+
+te iru 
+teru
+group bnete iru sleepingneteru
+
+te oku 
+toku
+groupshite oku soshitoku
+
+te iku 
+teku
+groupdete ike get outdeteke
+
+ru 
+nnonani shite iru doingnani
+shitenno
+
+rinasai 
+nnasaiyarinasai ityannasai
+
+runa 
+nnayaruna dont ityanna
+
+independent words
+
+adverbs
+
+adverb japanese tightly integrated morphology
+many language indeed adverb independent
+class word rather role played word example
+every adjective continuative form used adverb
+thusyowai weak adjyowaku weakly adv primary
+distinguishing characteristic adverb cannot occurpredicate position english following
+classification adverb intended authoritativeexhaustive
+
+verbal adverbs
+verb continuative form particle eg 
+miru seemi purpose seeing usedinstance asmi iku see sth
+
+adjectival adverbs
+adjective continuative form mentioned
+nominal adverbs
+grammatical noun function adverb example 
+amari littlenot lotd howichibanhighly etc
+
+sound symbolism
+word mimic sound concept example 
+kirakira sparklinglypokkuri suddenly 
+surusuru smoothly sliding etc
+
+often especially sound symbolism particleused see article japanese sound symbolism
+
+conjunction interjections
+
+part speech much english
+
+example conjunctionssshite thenmatathenagain etc
+
+example interjectionshai yesokuhh wowe
+nono wayoi hey etc
+
+ancillary words
+
+particles
+
+particle japanese postpositionalthey immediately followmodified component full listing particle beyond scopearticle prominent particle listed keep
+mind pronunciation spelling differ particle eand othis article follows hepburnstyleromanizing according pronunciation rather spelling
+
+topic theme subjectwa andga
+
+complex distinction socalled topicwa subject
+ga particle theme many doctoral dissertationscholarly dispute two major scholarly survey japanese linguistics
+english shibataniand kunoclarify distinction
+simplify matter referrents ga sectioncalled topic subject respectively understandingeither absent grammatical topic subject may coincide
+
+abstract rough approximation difference waga matter focus give focus action sentence
+ie verb adjective whereas give focus subject
+action however useful description must proceedennumerating particles
+
+see topic markerjapanese 
+
+thematic 
+use introduce new theme discourse directly linked
+notion grammatical theme opinion differ structurediscourse theme though seems fairly uncontroversial imaginefirstinfirstout hierarchy theme threadeddiscourse course human limitation restrict scope depththeme later theme may cause earlier theme expiresort sentence steadfast translation english uses
+construct like speaking topic thoughtranslation tend bulky fail use thematic
+mechanism english lack best strategy many teacherjapanese emphasize speaking pattern without sufficient
+warning
+
+
+jon gakusei aru
+topic john john student
+
+common linguistic joke show insufficiency rote translation
+sentenceboku unagi per pattern would
+translate speaking eel yet restaurantsentence reasonably used say like order eelintended humor sentence literally
+read eel referring speakers
+order topic sentence clearly subject side
+note separation grammatical topic subject sometimes
+transported native japanese speaker languageexample japanese shaky grasp english might sayeel restaurant attempt order eel
+
+contrastive 
+related role introducing theme usecontrasting current topic aspect possible
+topic aspect suggestive pattern butorx 
+
+
+ame futte imasu raining
+contrastive nature topic cannot undefined
+
+
+dareka hon yonde iru
+someone reading book
+
+situation forced
+
+practice distinction thematic contrastive wauseful suffice say one thematic
+wa sentence first one existsremaining contrastive completeness following sentence
+due kuno illustrates difference
+
+
+boku shitte iru hito daremo konakatta
+people know none came
+people came wasnt people know
+
+first interpretation thematic treating peopleknow boku shitte iru hito theme predicate none
+came dare konakatta know none
+people came second interpretationcontrastive likely attendee bzknow q sentence say q rcome sentence say nothing bzknow none likely come sentence ambiguous
+difference practice first interpretationlikely one
+
+exhaustive 
+unlike subject particle nominates referent sole
+satisfier predicate distinction famously illustratedfollowing pair sentences
+
+
+jon gakusei desu
+john student may student among people
+talking
+jon gakusei desu
+people talking johnstudent
+
+may useful think distinction term question
+statement could answer 
+
+jon shigoto nan desu john occupation
+
+first statement versus
+
+
+dochira kata gakusei desu one student
+
+second
+
+similarly restaurant waitress asks orderedeel customer ordered specify
+
+boku unagi eel people
+
+objective 
+stative transitive verb instead typically used mark
+object although sometimes acceptable use
+
+jon furansugo dekiru
+john know french
+
+object locative instrumentalsonidee
+
+direct object nonstative transitive verb indicatedobject particleo
+
+
+jon aoi seta kite iru
+john wearing blue sweater
+
+particle also mean along used
+motion verbs
+
+
+meari hosoi michi aruite ita
+mary walking along narrow road
+
+kokky nagai tonneru nukeru yukiguni atta
+train came long tunnel snow country
+
+general instrumental particle isde translatedusing
+
+niku naifu kiru koto
+meat must cut knife
+
+densha ikimash
+let train
+
+particle also us temporary location
+
+
+machikado sensei atta
+met teacher street corner
+
+
+
+umi oyogu muzukashii
+swimming sea hard
+
+span
+
+geki shujink shi owaru
+play end protagonist death
+
+ore niby katsu
+ill win two seconds
+
+general locative particle isni
+
+
+tky ikimash
+let tokyo
+
+function interchangeable withe however niadditional prolonged
+
+
+watashi gurosuta triban sunde imasu
+live atgloucester road
+
+
+
+kri mizu uku
+ice float water
+
+year point time
+
+
+haru ygure spring eve
+
+quantity extentstomokayakaramade
+
+conjoin nounsto used
+
+
+kaban wa kykasho sansatsu mangahon gosatsu irete
+imasu
+three textbook five comic book bag
+
+additive particlemo used conjoin larger nominalclauses
+
+
+yohan doitsujin burigeta doitsujin johan german brigette german
+
+kare eiga suta ari seijika mo aru
+movie star also politician
+
+incomplete list conjunctsya used
+
+
+borisu aiban yobe
+call boris ivan etc
+
+one conjuncts necessary disjunctive particle 
+ka used
+
+
+sushi sashimi nanika chmon shite order sushi sashimi something
+
+quantity listed betweenkara andmade
+
+karado made netsu shinpai suru mono wa nai
+temperature betweenf andf worrisome
+
+pair also used indicate time space
+
+
+asa hachiji kara jichiji made jugy aru da
+see class betweenam andam
+
+kara indicates starting point origin related use
+
+
+sumisusan gin hito desu kara itsumo tanomarete iru
+kamoshirenai
+mr smith think youre assertive youre
+always asked everything
+
+particle kara related particle yori used indicate
+lowest extent price business hour etc
+
+
+wareware shichiji yori eigy shite orimasu
+open business fromonwards
+
+yori also used sense
+
+omae nchan yori urusai da
+loudermore talkative sister
+
+coordinatingtoniyo
+
+particleto used set quotations
+
+
+koroshite koroshite ano wa ittetagirl saying kill kill
+
+neko nya nya naku
+cat say meaow meaow
+
+also used indicate manner similarity like
+
+
+kare aishiteru itte pokkuri shinda
+said love dropped dead
+
+related conditional use function like upon
+
+
+ame agaru kodomotachi mou gakush wasurete taiy
+ni omote mukeru mizutamari ywaku shitagau
+rain stop child forgetting lesson givetemptation sunfaced puddles
+
+finally used verb like meet withau speak
+withhanasu
+
+
+jon meari hajimete atta wanen haru ygure
+datta
+john met mary first time dusky spring afternoon
+
+last use also function particleniindicates reciprocation doe
+
+jon meari renai shite iru
+john mary love
+
+jon meari renai shite iru
+john love mary mary might love john back
+
+finally particleyo used hortative vocative sense
+
+
+kawaii musume kao shikamete watashi miruna
+beloved daughter dont frown
+finalkaneyo related
+
+sentencefinal particleka turn declarative sentencequestion
+
+
+sochira amerikajin desh perchance american
+
+sentencefinal particle add emotional emphatic impactsentence particlene softens declarative sentence similar
+english know tell
+
+kare denwa shinakatta didnt call
+chikajika rondon hikkosareru sou desu hear youre moving london soon true
+
+finalyo used emphasis stronger way sayknow
+
+
+uso tsuite nai im lying
+
+many emphatic particle examplesze 
+zo usually used malesna formal form newa
+used female male kansai region like etcessentially limited speech transcribed dialogue
+
+compound particles
+
+compound particle formed least one particle togetherword including particle commonly seen formparticleverb term cont form
+particlenounparticle
+nounparticle
+
+structure rarer though course possible examples
+
+
+sono ken kanshite shitteiru kagiri koto oshiete
+moraitai
+kindly tell everything know concerning case
+particleverb cont
+
+gaikokugo gakush suru de taisetsu koto mainichidoryoku mono iu koto aru
+studying foreign language daily effort givereward nounparticle
+
+ani ryshin shinpai yoso daigaku yamete shimatta
+ignoring parent worry brother dropped college
+particlenounparticle
+
+auxiliary verbs
+
+auxiliary verb attach verbal adjectival stem formconjugate verb differ normal verbindependent meaning modern japanese two distinct classes
+auxiliary verbs
+
+pure auxiliariesjodshi
+usually called verb ending conjugated formauxiliary cannot possibly function independent verb
+
+helper auxiliarieshojodshi
+normal verb lose independent meaning used
+auxiliaries
+
+classical japanese purely agglutinating modern
+japanese category auxiliary verb included every possible verb
+ending stem form endingactive participant composition modern japanese howeverauxiliary stopped productive classic exampleclassical auxiliarytari whose formstate etc
+longer viewed verbal ending takeaffixes
+
+caption pure auxiliary verbs
+
+auxiliary group attache meaning modification example
+masu irregular continuative make politekaku write 
+kakimasu
+rareru cont grpmakes passivepolitepotential 
+miru seemirareru able see
+fueru increasefuerareru abilityincrease
+ru hyp grpnomu drinkswallownomeruable drink
+saseru cont grpmakes causativekangaeruthinkkangaesaseru cause think
+seru imperf grpomoishiru realize
+omoishiraseru cause realizeto teach lesson
+
+masu stem form imperfectiveand 
+continuativeterminalattributivehypothetical 
+imperative 
+rareru potential usage sometimes shortened 
+reru grpthustabereru able eat instead
+oftaberareru considered nonstandard
+technically auxiliary verbru denotingpotential form doe exist examplenomeruthought actually come contraction ofnomieru
+see however textbook tend teach way 
+old text would attributive past tense forminstead potential meaning
+saseru sometimes shortened tosasu grpbut
+usage somewhat literary
+
+much agglutinative flavour japanese stem helper
+auxiliary however following table contains small selectionabundant store auxiliary verbs
+
+caption helper auxiliary verbs
+
+auxiliary group attache meaning modification example
+aru inanimatete form
+trans indicates state modificationaku open
+aitearu opened still open
+iru animate form
+trans progressive aspectneru sleepneteirusleeping
+te form
+intrans indicates state modificationshimaru intransitive
+closeshimatteiru closed
+iku gote form vingaruku walk
+aruiteiku keep walking
+kuru come te form inception start vfuru fall
+futtekuru start fall
+perfection ved pasttenseshinu die
+shindekita died
+conclusion come vkotonaru change
+kotonattekuru come change
+hajimeru begin continuative
+nonpunctual begin begin vkaku write
+kakihajimeru start write
+continuative
+punctualsubj must pluraltsuku arrive
+tsukihajimeru started arrive
+dasu emitcontinuative start vkagayaku shine
+kagayakidasu start shining
+miru seete form try vsurushitemiru trynaosu correcthealcontinuative correcting
+mistakeskaku writekakinaosu rewrite
+agaru risecontinuative thoroughlyv happens
+upwardstatsu standtachiagaru stand
+dekiru come outdekiagaru completed
+eruuru able see note bottom continuative indicates
+potentialaru beariuru possible
+kakaru hangcatchobtaincontinuative
+intrans nonvolit almost voboreru
+drownoborekakaru drown
+kiru cutcontinuative completelytaberu eat
+tabekiru eatkesu erasecontinuative cancel deny vmomu rubmomikesu rubextinguish
+komu enter deeplyplungecontinuative deep vhanasu speakhanashikomu deep conversation
+sageru lower continuative downhiku pull 
+hikisageru pullsugiru exceed continuative overdo viu say 
+iisugiru say much overstate
+tsukeru attach continuative become accustomed 
+iku goikitsukeru used going
+tsuzukeru continue continuative keep vfurufall rainfuritsuzukeru keep falling
+tsu showthreadleadcontinuative finish vingyomu
+readyomitsu finish reading
+nukeru shedspilldesert continuative
+intrans throughhashiru run
+hashirinukeru run swh
+nokosu leave behindcontinuative leave sth
+behindomou thinkomoinokosu regret litsth left thinknokoru left behindcontinuative
+intrans left behind vikiru live
+ikinokoru survive lit left alive
+wakeru dividesplitclassify continuative proper way
+vtsukau usetsukaiwakeru indicate proper
+way use
+wasureru forget continuative forget vkikuaskkikiwasureru forget ask
+noteeruuru modern verb shimo nidan typedifferent shimo nidan type classical japanese
+conjugation imperfectivecontinuativeterminalor
+attributivehypotheticalimperativeor 
+additionally convention terminal formarieruused alwaysariuru
+

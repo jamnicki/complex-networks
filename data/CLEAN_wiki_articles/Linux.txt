@@ -1,0 +1,288 @@
+copyright
+
+linux
+
+ school wikipedia selection related subject software
+
+caption linux
+
+tux penguin mascot linux
+tux penguin based image created larry ewing inis
+mascot linux
+family unixlike
+latest stable releasekernelnovember
+kernel type monolithic kernel
+license gnu general public license
+working state current
+
+linux also known gnulinux unixlike computer operating
+system one prominent example open source
+development free software underlying source code available
+anyone use modify redistribute freely
+
+initially developed used primarily individual enthusiastpersonal computer linux since gained support corporations
+ibm sun microsystems hewlettpackard novell incha risen prominence operating system server eightten reliable internet hosting company run linuxweb servers
+
+linux widely ported different computing platformoperating system used device rangingsupercomputer mobile phone gaining popularitypersonal computer market
+
+history
+
+early
+
+linus torvalds creator linux kernel
+enlarge
+linus torvalds creator linux kernel
+
+inrichard stallman founded gnu project goaldeveloping complete unixlike operating system composed entirelyfree software beginning gnu producedcollected necessary component systemlibraries
+compiler text editor unix shellexcept core component
+kernel gnu project began developing kernel gnu hurdbased mach microkernel developmentmachbased design proved difficult proceeded slowly
+
+meanwhile inanother kernel begun hobby finnish
+university student linus torvalds attending universityhelsinki torvalds originally used minix computersimplified unixlike system written andrew tanenbaum teaching
+operating system design however tanenbaum permit othersextend operating system leading torvalds create replacement
+minix
+
+originally torvalds called kernel freax free freak
+oftenused name unixlike system name
+linux coined ari lemmke administered ftp server
+belonging finnish university network invented name linux
+directory torvalds project first availabledownload
+graphic history unix system linux unixtype systemsource code doe descend original unix
+enlarge
+graphic history unix system linux unixtype systemsource code doe descend original unix
+
+first computer running minix necessary order configure
+install linux initial version linux also required another
+operating system present order boot hard disksoon independent boot loader lilo linux system
+quickly surpassed minix functionality torvalds early
+linux kernel developer adapted work gnu componentuserspace program create complete fully functional free
+freedom operating system
+
+today torvalds continues direct development kernel
+subsystem gnu component continuedeveloped separately group company combine distribute
+component additional application software formlinux distributions
+
+linux gnu project
+
+richard stallman founder gnu project free operating
+system
+enlarge
+richard stallman founder gnu project free operating
+system
+
+goal gnu project produce unixcompatible operating
+system consisting entirely free software generalpurpose
+linux distribution rely gnu library tool writteneffect free software foundation view linux distributionvariant gnu system asks operating systemreferred gnulinux linuxbased gnu systemdistribution make point using combined formnotably debian
+gnulinuxits use outside enthusiast community limitedlinus torvalds said find calling linux general
+gnulinux ridiculous distinction linux kernel
+distribution based source confusion many
+newcomer naming remains controversial
+
+sco litigation
+
+marchthe sco group filed lawsuit ibm claimingibm contributed portion scos copyrighted code linux
+kernel violation ibms license use unix additionally sco
+sent letter number company warning use linux
+without license sco may actionable claimed press
+would suing individual linux user controversyinvolved lawsuit sco daimlerchrysler dismissed 
+autozone red hat others sco furthermore
+whether sco even owns relevant unix copyright currently
+disputed novell
+
+per utah district court ruling julyclaimsofclaims made sco ibm dismissed
+
+scos claim varied widely ofno proof scos claims
+copied code linux provided
+
+portability
+
+linux kernel originally designed intel 
+microprocessor support wide variety computer
+architecture linux one widely ported operating
+system running diverse range system handheld
+armbased ipaq mainframe ibm system specialized
+distribution exist mainstream architecture elk kernel
+fork run intelorbit microprocessoreven port atypical device ipod consoles
+
+copyright licensing linux trademark
+
+linux kernel gnu software licensed gnu
+general public license gpl requires distributed source
+code modification derived work also licensed gpl
+sometimes referred share sharealike 
+copyleft license inlinus torvalds stated making linux gpld
+wa definitely best thing ever software may uselicense many library use gnu lesser general public license
+lgpl permissive variant gpl window system
+us mit license
+
+united state name linux trademark registered linus
+torvalds initially nobody registered august
+william della croce filed trademark linuxdemanded royalty linux distributor intorvaldsaffected organization sued trademark assigned torvalds
+inthe case settled licensing trademarkhandled linux mark institute torvalds statedtrademarked name prevent someone else usingbound inby united state trademark law take active measureenforce trademark result lmi sent numberletter distribution vendor requesting fee paiduse name number company complied
+
+pronunciation
+
+intorvalds explained pronounces word linuxipa
+lnks
+
+li pronounced short sound compare print minimal
+etc nux also short nondiphthong like put ipaits
+partly due minix linux working name thingwrote replace minix system resultlinus minix became linux
+
+linus torvalds composlinux newsgroup
+
+audio file torvalds saying hello linus torvaldspronounce linux linux found note english
+linux minix usually pronounced short iipa 
+sound different torvalds finland swedish pronunciationwords
+
+development
+
+gigabuck estimating gnulinuxs size astudy red
+hat linuxfound distribution containedmillion source
+line code using constructive cost model study estimated
+distribution required eight thousand manyearsdevelopment time according study softwaredeveloped conventional proprietary mean would costbillion dollar yearus dollar develop united
+states
+
+majority codewas written programming
+language many language used including lisp
+assembly language perl fortran python various shell scripting
+language slightly half line code licensedgpl linux kernel wasmillion line code oroftotal
+
+later study counting potato size debiantheanalysis performed debian gnulinux versionthis
+distribution contained fiftyfive million source line code
+study estimated would costbillion dollars
+yearus dollar develop conventional means
+
+distributions
+
+kde desktop suse linux distribution
+enlarge
+kde desktop suse linux distribution
+
+linux predominantly used part linux distribution commonly
+called distro compiled individual looseknit
+team commercial volunteer organization commonly
+include additional system application software installer system
+ease initial system setup integrated management software
+installation upgrading distribution created many
+different purpose including computer architecture support
+localization specific region language realtime applications
+embedded system many deliberately include free software
+currently three hundred distribution actively developed
+dozen distribution popular generalpurpose
+use
+
+typical generalpurpose distribution includes linux kernelgnu library tool commandline shell graphical window
+system accompanying desktop environment kde gnome
+together thousand application software package office
+suite compiler text editor scientific tools
+
+desktop usage
+
+gnome desktop running gnome livecd
+enlarge
+gnome desktop running gnome livecd
+
+high level access granted linux internals led linux
+user traditionally tending technologically orienteduser microsoft window mac sometimes revelling tag
+ofhacker orgeek linux free software projectfrequently criticized going far enough ensure easeuse
+
+stereotype begun dispelled recent year linux may
+used user interface similar running
+operating system however user may switchalternative application software often fewer known
+software choice case computer game exist
+replacement generalpurpose software general applications
+like spreadsheet word processor browser availablelinux profusion additionally growing number proprietary
+software vendor supporting linux compatibility layerwine ndiswrapper allow window application software drivers
+used linux without requiring vendor adapt
+linux root unix operating system mean additiongraphical configuration tool control panel available many
+system setting service plaintext configuration file still
+commonly used configure readily made accessible
+user administrator
+berlinbased organization relevantive concluded inthatusability linux set desktoprelated task nearly equal
+window since numerous independent
+study article indicate modern linux desktop using
+either gnome kde par microsoft window business
+setting
+
+enterprise usage
+
+linux historically used mainly server operating system
+low cost flexibility unixlike architecture makesuitable variety application linux cornerstonelamp serversoftware combination linux apache mysql
+perlphppython achieved popularity among developerone common platform website hosting
+
+due low cost high configurability linux often used
+embedded system television settop box mobile phones
+handheld device linux become major competitorproprietary symbian found many mobile phonealternative dominant window palm operating systemhandheld device popular tivo digital video recorder uscustomized version linux several network firewall router
+standalone product including several linksys use linux
+internally using advanced firewalling routing capabilities
+
+linux increasingly common operating system supercomputers
+example novembertop list supercomputer seven
+top ten supercomputer world including two fastest
+ran linux thesystemsran linux
+
+market share uptake
+
+according market research company idcof server 
+desktop computer ran linux ofproponents analysts
+attribute success linux security reliability low cost
+freedom vendor lockin frictional cost switchinglack support hardware many application programs
+designed window especially game uncommon business software
+two important factor inhibiting adoption
+
+linux market rapidly growing revenue servers
+desktop packaged software running linux expected exceed
+billion bythe actual installed user base may higher
+indicated figure linux distributionapplication freely available redistributable
+
+paper open source softwarefree software ossfs looknumber identifies many quantitative study open source
+software topic including market share reliability many
+study specifically examining linux
+
+installation
+
+common method installing linux personal computerbooting cdrom contains installation programinstallable software burned downloaded iso
+image purchased alone low price obtained part box set
+case shipped free request box set may also
+include manual additional proprietary software mini images
+allow linux installed disk small form factor
+
+server personal computer come linux already
+installed available vendor including hewlettpackarddell although generally business desktop line
+
+alternative traditional desktop installation include thin client
+installation running directly live thin client
+installation operating system loaded run centralised
+machine network connection live setup computer
+boot entire operating system without first installingcomputer hard disk
+
+embedded device linux typically held device firmware
+may may consumeraccessible
+
+programming linux
+
+gnu compiler collection gcc standard compiler familylinux system amongst others gcc provides frontends c
+java distribution come installed interpreter perl
+python scripting language several include via
+mono project
+
+number integrated development environment available
+including monodevelop kdevelop anjuta netbeans eclipsetraditional editor emacs vim remain popular
+
+two main widget toolkits used contemporary gui programmingqt gimp toolkit known gtk
+
+well free open source option proprietary
+compiler tool available range company intel
+pathscale micro focus cobol franz inc portland group
+
+support
+
+technical support provided commercial supplierlinux user usually online forum irc newsgroups mailing
+list linux user group traditionally organized provide
+support linux specific city regions
+
+business model commercial supplier generally dependentcharging support especially business user numbercompany offer specialized business version distribution
+add proprietary support package tool administer higher
+number installation simplify administrative tasks
+

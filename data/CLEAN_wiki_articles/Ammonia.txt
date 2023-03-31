@@ -1,0 +1,450 @@
+copyright
+
+ammonia
+
+ school wikipedia selection related subject chemical compounds
+
+ammonia
+ammonia ammonia representation
+general
+systematic nameammonia
+azane see text
+nameshydrogen nitride
+spirit hartshorn
+nitrosil
+vaporole
+molecular formulanh
+molar massg mol
+appearancecolourless gasstrong pungent odour
+ca number
+properties
+density phasegl gas
+solubility waterg atc
+melting pointck
+boiling pointck
+aciditypka
+basicity pkb
+structure
+molecular shapeterminus
+dipole momentd
+bond angle
+hazards
+msdsexternal msds
+main hazardstoxic corrosive
+nfpa 
+
+
+
+
+
+flash pointc
+r statementr r r
+rtecs numberbo
+supplementary data page
+structurepropertiesn etc
+thermodynamic
+dataphase behaviour
+solid liquid gas
+spectral datauv nmr related compounds
+ionsammonium 
+hydroxide nhoh
+chloride nhcl
+
+related compoundshydrazine
+hydrazoic acid
+hydroxylamine
+chloramine
+except noted otherwise data givenmaterial standard state atckpa
+infobox disclaimer references
+
+ammonia compound nitrogen hydrogen formula standard temperature pressure ammonia gas toxiccorrosive material characteristic pungent odour
+ammonia used commercially anhydrous ammonia dissolvedwater aqueous solution ammonia water referredammonium hydroxide anhydrous ammonia must stored pressurelow temperature remain liquid ammonium hydroxide strengthmeasured unit baume density withdegrees baume 
+weight percent ammonia atc typical high concentration
+commercial product household ammonia range concentration fromto
+weight percent ammonia see baum scale
+
+ammonia molecule trigonal pyramid shape predicted vsepr
+theory shape give molecule overall dipole momentmake polar ammonia readily dissolve water nitrogen
+atom molecule lone electron pair ammonia actbase mean aqueous solution take proton
+water produce hydroxide anion ammonium cation
+nh shape regular tetrahedron degreeammonia form ammonium ion depends phsolutionat physiological phaboutof ammonia molecules
+protonated
+
+main ammonia production fertilizers
+explosive polymer also active ingredient household
+glass cleaner ammonia found small quantity atmosphere
+produced putrefaction nitrogenous animalvegetable matter ammonia ammonium salt also found small
+quantity rainwater ammonium chloride salammoniacammonium sulfate found volcanic district crystal ammonium
+bicarbonate found patagonian guano kidney excrete
+nh neutralize excess acid ammonium salt also found
+distributed fertile soil seawater substances
+containing ammonia similar called ammoniacal
+
+history
+
+salt ammonia known early time thus term
+hammoniacus sal appears writing pliny althoughknown whether term identical modern salammoniac
+
+form salammoniac ammonia known alchemistearly century mentioned albertus magnusalso used dyer middle age form fermented urinealter colour vegetable dye century basilius
+valentinus showed ammonia could obtained actionalkali salammoniac later period salammoniacobtained distilling hoof horn neutralizingresulting carbonate hydrochloric acid name spirithartshorn applied ammonia
+
+gaseous ammonia first isolated joseph priestley inandtermed alkaline air however acquired alchemist
+basil valentine eleven year later inclaude louis berthollet
+ascertained composition
+
+haber process produce ammonia nitrogen containedair developed fritz haber carl bosch inand patentedwa first used industrial scale germanworld war following allied blockade cut supplynitrate chile ammonia used produce explosivesustain war effort
+
+synthesis production
+
+many ammonia one highly produced
+inorganic chemical dozen chemical plant worldwideproduce ammonia worldwide ammonia production inwas 
+million metric tonne people republic china producedof
+worldwide production followed india withrussia 
+united state withaboutor ammonia
+produced used fertilizing agricultural crops
+
+start world war ammonia obtained dry
+distillation nitrogenous vegetable animal waste products
+including camel dung distilled reduction nitrous
+acid nitrite hydrogen additionally produceddistillation coal also decomposition ammonium salts
+alkaline hydroxide quicklime salt generally used
+chloridesalammoniac thus
+
+nhclcaocaclcaohnh
+
+today typical modern ammoniaproducing plant first converts
+natural gas methane liquified petroleum gas gaspropane butane petroleum naphtha gaseous hydrogen
+starting natural gas feedstock process used producing
+hydrogenfirst step process remove sulfur compoundfeedstock sulfur deactivates catalyst usedsubsequent step sulfur removal requires catalytic hydrogenation
+convert sulfur compound feedstock gaseous hydrogen
+sulfide
+
+hrshrhhsg
+
+gaseous hydrogen sulfide absorbed removedpassing bed zinc oxide convertedsolid zinc sulfide
+
+hsznoznsho
+
+catalytic steam reforming sulfurfree feedstock used
+form hydrogen plus carbon monoxide
+
+chhocoh
+
+next step catalytic shift conversion convertcarbon monoxide carbon dioxide hydrogen
+
+cohocoh
+
+carbon dioxide removed either absorption aqueous
+ethanolamine solution adsorption pressure swing adsorbers
+psa using proprietary solid adsorption media
+
+final step producing hydrogen use catalytic
+methanation remove small residual amount carbon monoxide
+carbon dioxide hydrogen
+
+cohchho
+cohchho
+
+produce desired endproduct ammonia hydrogencatalytically reacted nitrogen derived process airform anhydrous liquid ammonia step known ammonia
+synthesis loop also referred haberbosch process
+
+hnnh
+
+steam reforming shift conversion carbon dioxide removalmethanation step operate absolute pressure aboutto 
+bar ammonia synthesis loop operates absolute pressures
+ranging fromtobar depending upon proprietary designused many engineering construction company offer
+proprietary design ammonia synthesis plant haldor topsoedenmark lurgi germany kellogg brown root united
+state among experienced company field
+
+biosynthesis
+
+certain organism ammonia produced atmospheric nenzyme called nitrogenase overall process called nitrogen
+fixation although unlikely biomimetic methoddeveloped competitive haber process intense effort
+ha directed toward understanding mechanism biological
+nitrogen fixation scientific interest problem motivated
+unusual structure active site enzymeconsists femos ensemble
+
+ammonia also metabolic product amino acid deaminationhuman quickly converted urea much toxicurea major component dry weight urine
+
+properties
+
+ammonia colourless gas characteristic pungent smelllighter air density beingtimes aireasily liquefied liquid boil atc solidifies 
+c mass white crystal liquid ammonia posse strong
+ionizing powersand solution salt liquid ammonia
+much studied liquid ammonia high standard
+enthalpy change vaporizationkjmol water
+kjmol methanekjmol phosphinekjmoltherefore used laboratory noninsulated vessel room
+temperature even though well boiling point
+
+miscible water ammonia contained aqueous
+solution gas may expelled boiling aqueous solutionammonia basic maximum concentration ammonia watersaturated solution density ofgcm often known
+asammonia ammonia doe sustain combustion doeburn readily unless mixed oxygen burn pale
+yellowishgreen flame high temperature presencesuitable catalyst ammonia decomposed constituent elements
+chlorine catch fire passed ammonia forming nitrogenhydrochloric acid unless ammonia present excess highly
+explosive nitrogen trichloride ncl also formed
+
+ammonia molecule readily undergoes nitrogen inversion room
+temperaturethat nitrogen atom pass planesymmetry three hydrogen atom useful analogy umbrella
+turning inside strong wind energy barrierinversion iskjmol ammonia resonance frequencyghz corresponding microwave radiation wavelengthcm absorption frequency first microwave
+spectrum observed
+
+formation salts
+
+one characteristic property ammonia powercombining directly acid form salt thus hydrochloric
+acid form ammonium chloride salammoniac nitric acid
+ammonium nitrate etc however perfectly dry ammonia combine
+perfectly dry hydrogen chloride gas moisture necessary
+bring reaction
+
+nhhclnhcl
+
+salt produced action ammonia acid knownammonium salt contain ammonium ion 
+acidity
+
+although ammonia wellknown base also actextremely weak acid protic substance capabledissociation amide ion example solid
+lithium nitride added liquid ammonia forming lithium amide
+solution
+
+linsnh lliamnham
+
+brnstedlowry acidbase reaction ammonia acting
+acid
+
+formation compounds
+
+ammonia act nucleophile substitution reaction amineformed reaction ammonia alkyl halide althoughresulting group also nucleophilic secondary tertiary
+amine often formed byproduct using excess ammonia
+help minimise multiple substitution neutralises hydrogen
+halide formed methylamine prepared commercially reactionammonia chloromethane reaction ammoniabromopropanoic acid used prepare racemic alanine 
+yield ethanolamine prepared ringopening reactionethylene oxide reaction sometimes allowed goproduce diethanolamine triethanolamine
+
+amide prepared reaction ammonia numbercarboxylic acid derivative acyl chloride reactiveammonia must present least twofold excess neutralise
+hydrogen chloride formed ester anhydride also reactammonia form amide ammonium salt carboxylic aciddehydrated amide long thermally sensitive groups
+present temperature ofc required
+
+hydrogen ammonia capable replacement metal thus
+magnesium burn gas formation magnesium nitride
+mgn gas passed heated sodium potassium
+sodamide nanh potassamide knh formed necessary
+substitutive nomenclature iupac recommendation prefer name
+azane ammonia hence chloramine would named chloroazanesubstitutive nomenclature chloroammonia
+
+ammonia ligand
+
+ammonia act ligand transition metal complex pure
+donor middle spectrochemical series shows
+intermediate hardsoft behaviour historical reason ammonianamed ammine nomenclature coordination compoundnotable ammine complex include
+tetraaminecopperii cunh characteristic dark blue
+complex formed adding ammonia solution copperii salts
+diamminesilveri agnh active specie tollens
+reagent formation complex also help distinguish
+precipitate different silver halide agclsoluble dilute ammonia solution agbr solubleconcentrated ammonia solution agi insoluble aqueous
+solution ammonia
+
+ammine complex chromiumiii known late century
+formed basis alfred werners theory coordination
+compound werner noted two isomer fac mercomplex crclnh could formed concludedligand must arranged around metal ion vertexoctahedron since confirmed xray crystallography
+
+ammine ligand bound metal ion markedly acidicfree ammonia molecule although deprotonation aqueous solutionstill rare one example calomel reaction resulting
+amidomercuryii compound highly insoluble
+
+hgclnhhghgclnhnhcl
+
+uses
+
+important single use ammonia production nitric
+acid mixture one part ammonia nine part air passedplatinum gauze catalyst atc whereupon ammonia oxidizednitric oxide
+
+nhonoho
+
+catalyst essential normal oxidation combustionammonia give dinitrogen water production nitric oxideexample kinetic control gas mixture cool toc
+nitric oxide turn oxidized excess oxygen presentmixture give nitrogen dioxide reacted watergive nitric acid use production fertilizerexplosives
+
+addition serving fertilizer ingredient ammonia alsoused directly fertilizer forming solution irrigation
+water without additional chemical processing later use allows
+continuous growing nitrogen dependent crop maize corn
+without crop rotation type use lead poor soil health
+
+ammonia thermodynamic property make well suitedrefrigerant since liquefies readily pressure usedvirtually refrigeration unit prior advent haloalkanes
+freon however ammonia toxic irritantcorrosiveness copper alloy increase riskundesirable leak may develop cause noxious hazard usesmall refrigeration unit largely replaced haloalkanes
+toxic irritant practically flammable
+ammonia continues used refrigerant large industrial
+process bulk icemaking industrial food processing
+ammonia also useful component absorptiontype refrigerators
+use compression expansion cycle exploit heat
+difference since implication haloalkane major
+contributor ozone depletion ammonia seeing increasing use
+refrigerant
+
+also sometimes added drinking water along chlorineform chloramine disinfectant unlike chlorine chloramine
+doe combine organic carbon containing material form
+carcinogenic halomethanes chloroform
+
+liquid ammonia used fuel rocket airplane although powerful fuel left sootreusable rocket engine density oxidizer
+liquid oxygen simplified aircraft keeping centre
+gravity flight
+
+tobacco company brownwilliamsonphilip morris began using ammonia cigarette additionammonia serf enhance delivery nicotine blood
+stream result reinforcement effect nicotineenhanced increasing addictive ability without actually increasing
+portion nicotine
+
+ammonia role biologic system human disease
+
+ammonia important source nitrogen living system although
+atmospheric nitrogen abounds living creature capableutilizing nitrogen nitrogen required synthesisamino acid building block protein plant rely
+ammonia nitrogenous waste incorporated soildecaying matter others nitrogenfixing legume benefitsymbiotic relationship rhizobium create ammoniaatmospheric nitrogen
+
+ammonia also play role normal abnormal animal
+physiology ammonia created normal amino acid metabolismtoxic high concentration liver convert ammonia urea
+series reaction known urea cycle liver
+dysfunction seen cirrhosis may lead elevated
+amount ammonia bloodhyperammonemia likewise defectenzyme responsible urea cycle ornithine
+transcarbamylase lead hyperammonemia hyperammonemia contributesconfusion coma hepatic encephalopathy wellneurologic disease common people urea cycle defect organic
+acidurias
+
+ammonia important normal animal acidbase balanceformation ammonium glutamine ketoglutarate may degraded
+produce two molecule bicarbonate availablebuffer dietary acid ammonium excreted urine resulting
+net acid loss ammonia may diffuse across renal tubules
+combine hydrogen ion thus allow acid excretion
+
+liquid ammonia solvent
+
+liquid ammonia bestknown widely studied nonaqueous
+ionizing solvent conspicuous property abilitydissolve alkali metal form highly coloured electrically conducting
+solution containing solvated electron apart remarkable
+solution much chemistry liquid ammonia classifiedanalogy related reaction aqueous solution comparisonphysical property water show nhlower melting point boiling point density viscosity dielectric
+constant electrical conductivity due least partweaker bonding fact bonding cannot
+form crosslinked network since molecule 
+lonepair electron compared withfor moleculeionic self dissociation constant liquid atc approx
+moll
+
+solubility salts
+
+solubility salt perg liquid ammonium acetate
+ammonium nitrate
+lithium nitrate
+sodium nitrate
+potassium nitrate
+sodium fluoride
+sodium chloride
+sodium bromide
+sodium iodide
+sodium thiocyanate 
+
+liquid ammonia ionizing solvent although waterdissolve range ionic compound including many nitrate nitrites
+cyanide thiocyanate ammonium salt solublesalt act acid liquid ammonia solution solubilityhalide salt increase fluoride iodide saturated solutionammonium nitrate containsmol solute per mole ammoniavapour pressure thanbar even atc
+
+solution metals
+
+liquid ammonia dissolve alkali metalelectropositive metal calcium strontium barium europiumytterbium low concentrationsmoll deep blue solutionformed contain metal cation solvated electron free
+electron surrounded cage ammonia molecules
+
+solution useful strong reducing agent higher
+concentration solution metallic appearanceelectrical conductivity low temperature two type solution
+coexist immiscible phases
+
+redox property liquid ammonia
+
+e ammonia v water
+lieli
+kek
+naena
+znezn
+nhehnh
+cuecu
+ageag
+
+range thermodynamic stability liquid ammonia solutionnarrow potential oxidation dinitrogen n 
+nhenh onlyv practice oxidation
+dinitrogen reduction dihydrogen slowparticularly true reducing solution solution alkali
+metal mentioned stable several day slowly decomposing
+metal amide dihydrogen study involving liquid
+ammonia solution done reducing condition although oxidation
+liquid ammonia usually slow still risk explosion
+particularly transition metal ion present possible
+catalysts
+
+detection determination
+
+ammonia ammonium salt readily detected minute
+trace addition nesslers solution give distinct
+yellow coloration presence least trace ammoniaammonium salt sulfur stick burnt detect small leakindustrial ammonia refrigeration system larger quantitydetected warming salt caustic alkali quicklime
+characteristic smell ammonia apparentamount ammonia ammonium salt estimated quantitativelydistillation salt sodium potassium hydroxideammonia evolved absorbed known volume standard sulfuric
+acid excess acid determined volumetricallyammonia may absorbed hydrochloric acid ammonium chloride
+formed precipitated ammonium hexachloroplatinate
+nhptcl
+
+interstellar space
+
+ammonia first detected interstellar space inbasedmicrowave emission direction galactic corefirst polyatomic molecule detected sensitivitymolecule broad range excitation easeobserved number region made ammonia oneimportant molecule study molecular cloud relative
+intensity ammonia line used measure temperature
+emitting medium
+
+following isotopic specie ammonia detected
+
+nh nh nhd 
+detection triply deuterated ammonia considered surprise
+deuterium relatively scarce thoughtlowtemperature condition allow molecule surviveaccumulate ammonia molecule also detectedatmosphere gas giant planet including jupiter alonggas like methane hydrogen helium interior saturn
+may include frozen crystal ammonia
+
+safety precautions
+
+toxicity storage information
+
+hydrochloric acid sample releasing hcl fume reactingammonia fume produce white smoke ammonium chloride
+enlarge
+hydrochloric acid sample releasing hcl fume reactingammonia fume produce white smoke ammonium chloride
+
+toxicity ammonia solution doe usually cause problemhuman mammal specific mechanism exists preventbuildup bloodstream ammonia converted carbamoyl
+phosphate enzyme carbamoyl phosphate synthase enters
+urea cycle either incorporated amino acid excreted
+urine however fish amphibian lack mechanismusually eliminate ammonia body direct excretion
+ammonia even dilute concentration highly toxic aquatic
+animal reason classified dangerousenvironment ammonium compound never allowed comecontact base unless intended contained reactiondangerous quantity ammonia gas could released
+
+household use
+
+solution ammoniaby weight used household cleaners
+particularly glass solution irritating eyemucous membrane respiratory digestive tract lesser
+extent skin never mixed chlorinecontaining
+product strong oxidant example household bleach variety
+toxic carcinogenic compound formed chloramine
+hydrazine chlorine gas
+
+laboratory use ammonia solutions
+
+hazard ammonia solution depend concentration dilute
+ammonia solution usuallyby weightmoll
+concentrated solution usually prepared atby weight 
+weight solution density ofgcm solutionha lower density concentrated european union
+classification ammonia solution given table
+concentration
+weightmolarityclassificationrphrases
+mollirritant xir
+moll corrosive mollcorrosive dangerousenvironment r 
+sphrases
+ammonia vapour concentrated ammonia solution severely
+irritating eye respiratory tract solutions
+handled fume hood saturatedsolutions
+develop significant pressure inside closed bottle warm
+weather bottle opened care usually
+problem forsolutions
+
+ammonia solution mixed halogen toxic andor
+explosive product formed prolonged contact ammonia solutions
+silver mercury iodide salt also lead explosive
+product mixture often formed qualitative chemical
+analysis acidified diluted disposaltest completed
+
+laboratory use anhydrous ammonia gas liquid
+
+anhydrous ammonia classified toxic dangerousenvironment gas flammableautoignition temperature 
+c form explosive mixture airthe permissible
+exposure limit pel united state isppmmgmidlh concentration estimated atppm repeated exposureammonia lower sensitivity smell gas normallyodour detectable concentration thanppmdesensitized individual may detect even concentrationppm anhydrous ammonia corrodes copper zinccontaining alloys
+brass fitting used handling gas liquid
+ammonia also attack rubber certain plastics
+
+ammonia reacts violently halogen cause explosive
+polymerization ethylene oxide also form explosive compounds
+compound gold silver mercury germanium telluriumstibine violent reaction also reportedacetaldehyde hypochlorite solution potassium ferricyanideperoxides
+

@@ -1,0 +1,208 @@
+copyright
+
+time zone
+
+ school wikipedia selection related subject general geography
+general physics
+
+time zone region earth adopted standard
+time usually referred local time adjacent time zones
+exactly one hour apart convention compute local time
+offset greenwich mean time see also utc
+standard time zone world
+enlarge
+standard time zone world
+
+standard time zone defined geometrically subdividingearth spheroid intolunes wedgeshaped section borderedmeridian eachof longitude apart local time neighbouring
+zone exactly one hour different however politicalgeographical practicality result irregularlyshaped zonefollow political boundary change time seasonallydaylight saving time well subject occasional
+redefinition political condition change
+
+variation definition time zone generally
+fall two meaning time zone represent regionlocal time fixed offset global reference usually utc
+time zone represent region throughout local time
+always consistent even though offset may fluctuate seasonally
+
+adoption time zone people used local solar time
+originally apparent solar time sundial later mean
+solar time mean solar time average year apparent
+solar time difference apparent solar time equationtime
+
+became increasingly awkward railway telecommunications
+improved clock differed place amount
+corresponding difference geographical longitudewa usually convenient number problem could solvedsynchronizing clock locality many placelocal time would differ markedly solar time people
+accustomed time zone thus compromise relaxing complex
+geographic dependence still allowing local time approximate
+mean solar time general trend pushboundary time zone farther west designated meridianorder create permanent daylight saving time effect increase
+worldwide communication increased needinteracting party communicate mutually comprehensible time
+reference one another
+
+standard time zones
+
+originally time zone based time greenwich mean time gmt
+also called mean solar time longitudethe prime
+meridian mean solar time gmt defined rotationearth constant rate rate atomic clocks
+wa annually changed steered closely match gmt january 
+became fixed using predefined leap second instead rate
+change new time system coordinated universal time utc leap
+second inserted keep utc withinseconds utway local time continue correspond approximately mean solar
+time effect variation earth rotation rateconfined simple step change easily subtracteduniform time scaleinternational atomic time tai desiredimplementation utc nation began use definitiontime zone instead gmt ofmost nations
+altered definition local time way though many
+medium outlet fail make distinction gmt utcchange basis time zone may occur proposal abandon
+leap second succeed
+
+due daylight saving time utc local time royal
+observatory greenwich betweenutc last sundayoctober andutc last sunday march restyear local time utc known united kingdom british
+summer time bst similar circumstance apply many places
+
+definition time zone written short form utcngmtn offset hour example give local
+time various location atutc daylight saving timesummer time etc effect
+san francisco california united state utc 
+toronto ontario canada utc 
+stockholm sweden utc 
+cape town south africa utc 
+mumbai india utc 
+tokyo japan utc 
+
+adjustment time zone result time side
+midnight utc date location one day laterearlier example utc ison monday daylight saving
+time effect
+cairo egypt utcon tuesday
+wellington new zealand utcon tuesday
+
+example utc ison tuesday daylight saving timeeffect
+new york city new york united state utcon monday
+honolulu hawaii united state utcon monday
+
+timezone adjustment specific location may varydaylight saving time example new zealand usually utc
+observes onehour daylight saving time adjustment southern
+hemisphere summer resulting local time utc
+
+see also sidereal time calculating local time
+
+history
+
+greenwich mean time gmt established inas aiddetermine longitude sea mariner first time zoneworld established british railway decemberwith
+gmt handcarried chronometer augusttime signals
+first transmitted telegraph royal observatory
+greenwich even thoughof great britain public clock using
+gmt byit made britain legal time august
+old clock period two minute handsonelocal time one gmtthis applied island great
+britain island ireland
+
+novembernew zealand british colony officially
+adopted standard time observed throughout colonyperhaps first country based longitude 
+east greenwich ishoursminutes ahead gmtstandard known new zealand mean time
+
+timekeeping american railroad mid nineteenth centurysomewhat confused railroad used standard time usually
+based local time headquarters important terminus
+railroad train schedule published using time
+major railroad junction served several different railroadseparate clock railroad showing different timemain station pittsburgh pennsylvania example kept six
+different time confusion traveller making long journey
+involving several change train imagined
+
+charles dowd proposed system onehour standard time zoneamerican railroad aboutalthough published nothingmatter time consult railroad official 
+inhe proposed four ideal time zone northsouth
+border first centered washington bythe first
+wa centered greenwich geographic border example
+section appalachian mountain dowds system never
+accepted american railroad instead canadian railroads
+implemented version sunday novemberalso called
+day two noon railroad station clock resetstandardtime noon reached within time zone zonenamed intercolonial eastern central mountain pacific within
+one yearof city population overabout 
+city using standard time notable exception detroit
+michigan nearly halfway meridian eastern
+time central time though actually little closer central
+kept local time untilthen tried central standard time
+local mean time eastern standard time mayordinance
+settled est ratified popular vote augustthis
+hodgepodge ended standard zone time formally adoptedu congress onmarch 
+
+time zone first proposed entire world canada sir
+sandford fleming inas appendage single hour clockproposed entire world located centre earthlinked surface meridian inhe specifieduniversal day would begin antimeridian greenwich called
+conceding hourly time zone might limited
+local use continued advocate system subsequent
+international conference octoberthe international meridian
+conference adopt time zone within
+purview conference adopt universal day ofhours
+beginning greenwich midnight specified shallinterfere use local standard time desirable
+
+nevertheless major country adopted hourly time zonetoday nation use standard time zone secular purposes
+apply concept originally conceived israel
+example legally start day atpm instead midnightso
+international datejanuary begin countries
+callpm ondecember newfoundland india partaustralia use halfhour deviation standard time nations
+use quarterhour deviations
+
+nautical time zones
+
+beforeall ship kept local apparent time high seasetting clock night morning sight given
+ship speed direction would beoclock sun
+crossed ship meridianoclocklocal apparent noonanglofrench conference timekeeping searecommended ship military civilian adopt
+hourly standard time zone high sea ship withinterritorial water nation would use nation standard time
+captain permitted change ship clock timechoice following ship entry another time zonehe often chose
+midnight zone adopted major fleet betweenand
+many independent merchant ship world war 
+time ship clock ship log stated alongzone description number hour added zone
+time obtain gmt hence zero greenwich time zonenegative number fromtofor time zone east positive
+number fromtoto west hour minute secondnation without hourly offset sign oppositegiven ship must obtain gmt zone time zone time
+gmt zone poletopole staveswide exceptand
+eachwide themeridian separatingunlike zigzagging landbased international date line nautical
+international date line followsexcept interruptedterritorial water land border including islandletter suffix added zone description assigning zzero zone except east west may assigned local time nonnautical application zoneclock time differ byhours full dayvocalized using phonetic alphabet included zulugmt leading sometimes use term zulu timegreenwich time zone run e longitude zonerun e longitude etc
+
+nautical letter added time zone map likemap standard time zone majesty nautical almanac office
+nao extended letter adding asteriskor dagger
+area use nautical time zone double dagger
+area legal standard time greenland ice
+sheet antarctica united kingdom specifies utcantarctic peninsula country recognizesconveniently ignore zone doe hour halfhour
+offset double daggerhas coopted zonelist time zones
+
+maritime usage gmt retains historical meaning mean
+solar time greenwich utc atomic time greenwichinaccurate differing much creating error
+ofkm longitude equator however dut added utc
+correct withinms reducing error onlym
+
+skewing zones
+
+ideal time zone nautical time zone based mean
+solar time particular meridian located middle zone
+boundary located deldeldegrees east westmeridian practice zone boundary often drawn much farther
+west often irregular boundary location base
+time meridian located far east example spain
+us mean solar time ofdegrees east even though prime
+meridianpasses tendency draw time zone
+boundary far west meridian allows greater
+utilization daylight afternoon hour manylocation also use daylight saving time mean solar noon
+could occur late aspm clock
+
+trivia
+
+term largest number time zone russia firsteleven time zone including kaliningrad baltic seaunited state tied canada second six time zones
+possession united kingdom united statefrance included increase number time zonetaking account overseas territory possession france
+ha twelve time zone followed united
+state nine united kingdom eight
+term area china largest country one time
+zoneutc although chinese civil war inchina
+wa separated five time zone china also widest
+spanning time zone
+station antarctica generally keep time supply
+base thus amundsenscott south pole station umcmurdo station use new zealand timeutc southern
+winter utc southern summer
+thelatitude pass back forth across time zone south
+asia pakistanindianepalindia sikkim 
+chinabhutanindiaarunachal pradesh 
+myanmarthis switching odd inwhen pakistan
+enabled daylight saving time thus west east time zones
+wereand 
+earliest latest time zone arehours apartgiven calendar date exists point globe forhours
+example aprilbegins time zone utc atutc april
+end time zone utc atutc april 
+numerous place several time zone meetinstance tricountry border finland norway russia
+abouttime zone instead ofas popularly
+believed due fractional hour offset zoneoffset larger thanhours near international date linemicronations may use offset recognizedauthorities
+largest time gap along political border thehour gap
+along border china utcand afghanistanutc
+one unusual time zone australian central
+western time zone cwst effect small stripwestern australia border south australia westcaiguna ishours ahead utc utc covers
+area aboutkm larger belgium hapopulation aboutalthough unofficial universally
+respected area see time australia
+

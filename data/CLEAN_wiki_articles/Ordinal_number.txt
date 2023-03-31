@@ -1,0 +1,301 @@
+copyright
+
+ordinal number
+
+ school wikipedia selection related subject mathematics
+
+commonly ordinal number ordinal short number useddenote position ordered sequence first second third
+fourth etc whereas cardinal number say many one
+two three four etc see name numbers
+
+describe mathematical meaning transfinite ordinal
+number introduced georg cantor accommodate
+infinite sequence classify set certain kind order
+structure ordinal extension natural numbers
+different integer cardinals
+
+wellordering total ordering transfinite inductiontransfinite induction extends mathematical induction beyond finite
+ordinal represent equivalence class well orderingorderisomorphism equivalence relationship ordinaltaken set smaller ordinal ordinal may categorized
+zero successor ordinal limit ordinal various
+cofinalities given class ordinal one identify member class one index count classclosed unbounded indexing function continuous never
+stop one define addition multiplication exponentiationordinal subtraction division cantor normal formstandardized way writing ordinal many one
+association ordinal cardinal larger larger ordinaldefined become difficult describe
+ordinal natural topology
+
+ordinal extend natural numbers
+
+natural number used two purpose describe sizeset describe position element sequencefinite world two concept coincide dealinginfinite set one distinguish two notionsize lead cardinal number also discovered cantor
+position generalized ordinal number described
+
+whereas notion cardinal number associated setparticular structure ordinal intimately linkedspecial kind set called wellordered intimately
+linked fact mathematician make distinctiontwo concept define thing briefly wellordered settotally ordered set given two element one defines smallerlarger one coherent way infinite decreasing
+sequence however may infinite increasing sequences
+ordinal may used label element given wellordered
+set smallest element labeledthe one thatthe
+next oneand measure length whole set
+least ordinal label element set
+length called order type set
+
+ordinal defined set ordinal precede fact
+common definition ordinal identifies ordinalset ordinal precede example ordinalisorder type ordinal ie ordinal fromthe
+smallest ordinal tothe immediate predecessor ofand
+generally identified setconversely set
+ordinal downwardclosedmeaning ordinal leordinal set also setis identifiedordinal
+
+far mentioned finite ordinal natural
+number infinite one well smallest infinite
+ordinal iswhich order type natural number finite
+ordinal even identified set natural
+number indeed set natural number wellorderedasset ordinalsand since downward closed identified
+ordinal associated exactly define 
+graphical matchstick representation ordinaleach stick
+correspond ordinal form n natural
+numbers
+enlarge
+graphical matchstick representation ordinaleach stick
+correspond ordinal form n natural
+numbers
+
+perhaps clearer intuition ordinal formed examiningfirst mentioned start natural
+numbersafter natural number come first
+infinite ordinaland comeandexactly addition mean defined later consider
+name comewhichthenand later onnow setordinal form way nnatural number must ordinal associatedisfurther bethenand 
+thenand much later onjust give examplesmallestcountableordinals way
+indefinitely far indefinitely far exactly ordinal good
+basically every time one say enumerating
+ordinal defines larger ordinal
+
+definitions
+
+define wellordered set
+
+wellordered set ordered set every nonempty subset
+ha least element equivalent least presenceaxiom dependent choice saying set totally
+ordered infinite decreasing sequence somethingperhaps easier visualize practice importancewellordering justified possibility applying transfinite
+induction say essentially property passpredecessor element element must true
+element given wellordered set statecomputation computer program game wellorderedway step followed lower step sure
+computation terminate
+
+dont want distinguish two wellordered setdiffer labeling element formallypair element first set elementsecond set one element smaller anotherfirst set partner first element smallerpartner second element second set vice versaonetoone correspondence called order isomorphism two
+wellordered set said orderisomorphic similar
+obviously equivalence relation provided existsorder isomorphism two wellordered set order isomorphism
+unique make quite justifiable consider setessentially identical seek canonical representativeisomorphism type class exactly ordinal provide
+also provides canonical labeling elementwellordered set
+
+essentially wish define ordinal isomorphism classwellordered set equivalence class equivalence
+relation orderisomorphic technical difficulty
+involved however fact equivalence class large
+set usual zermelofraenkel formalization set
+theory serious difficulty sayordinal order type set class
+
+definition ordinal equivalence class
+
+original definition ordinal number found exampleprincipia mathematica defines order type wellorderingset wellorderings similar orderisomorphicwellordering word ordinal number genuinelyequivalence class wellordered set definition mustabandoned related system axiomatic set theoryequivalence class large form set howeverdefinition still used type theory quine set theory
+new foundation related system affords rather
+surprising alternative solution buraliforti paradoxlargest ordinal
+
+von neumann definition ordinals
+
+rather defining ordinal equivalence class wellordered
+set try define particular wellordered setcanonically represents class thus want construct ordinal
+number special wellordered set way every
+wellordered set orderisomorphic one one ordinal
+number
+
+ingenious definition suggested john von neumanntaken standard define ordinal special
+wellordered set namely ordinal formally
+
+set ordinal totally orderedrespect set containment every element alsosubset
+set containment another name subset relationship
+set automatically wellordered respect set
+containment relies axiom well foundation every
+nonempty set ha element disjoint 
+note natural number ordinal definitioninstanceis element ofandis equalsubset
+shown transfinite induction every wellordered setorderisomorphic exactly one ordinals
+
+furthermore element every ordinal ordinalwhenever two ordinal elementproper subset moreover either element
+element equal every setordinal totally ordered fact much true every set
+ordinal wellordered important result generalizes fact
+every set natural number wellordered allows uuse transfinite induction liberally ordinals
+
+another consequence every ordinal set elements
+precisely ordinal smaller statement completely
+determines settheoretic structure every ordinal termordinal used prove many useful resultordinal one example important characterizationorder relation ordinal every set ordinal supremum
+ordinal obtained taking union ordinalset another example fact collection ordinalset indeed since every ordinal contains ordinalfollows every member collection ordinal alsosubset thus collection set wouldordinal definition would membercontradicts axiom regularity see also buraliforti
+paradox class ordinal variously called ord
+
+ordinal finite opposite order also
+wellordered case subsetgreatest element
+
+definitions
+
+modern formulation definition ordinalessentially equivalent definition given one
+definition following class called transitive
+element subset xlongrightarrow san ordinal defined transitive
+set whose member also transitive followsmember ordinal note axiom regularity
+foundation used showing ordinal well orderedcontainment subset
+
+transfinite induction
+
+transfinite induction
+
+transfinite induction hold wellordered setimportant relation ordinal worth restating
+property pass set ordinal smallergiven ordinaltoitself true ordinals
+
+p true whenever true allthen true allor practically order prove property ordinalsone assume already knownsmaller 
+
+transfinite recursion
+
+transfinite induction used prove thing alsodefine definition normally said followtransfinite recursionwe use transfinite induction proveresult welldefined formal statement tedious writebottom line order define class functionordinalsone assume already defined smaller
+one prof transfinite induction one one
+function satisfying recursion formula including 
+
+example definition transfinite inductionordinal given later define function letting
+f smallest ordinal set allnote
+assume known process defining fapparent paradox exactly definition transfinite induction
+permit fact make sense since noso set
+f foris empty must bethe smallest ordinal
+know f make sensesmallest ordinal equal fexactly transfinite induction well turn exampleinteresting since ordinalsbutshown precisely transfinite induction
+
+successor limit ordinals
+
+nonzero ordinal smallest element wit zero may may
+largest element examplehas largest element 
+andhas largest elementon handdoeslargest element since largest natural number ordinal
+ha largest elementthen next ordinal afterandcalled successor ordinal namely successor ofwrittenin
+von neumann definition ordinal successor ofis
+alphacupalpha since element ofanditself
+
+nonzero ordinal successor called limit ordinal
+one justification term limit ordinal indeedlimit topological sense smaller ordinal order
+topology
+
+langle alphaiotaiotagamma rangle sequenceordinal indexed limitand sequence increasing alphaiotaalpharho whenever iotarho definelimit least upper bound setalphaiotaiota
+gammathat smallest ordinal always exists greater
+term sequence sense limit ordinallimit smaller ordinal indexed
+another way defining limit ordinal say thatis limit
+ordinal
+ordinal thanand wheneveris ordinal leexists ordinalsuch 
+
+following sequence
+
+
+
+limit ordinal ordinal examplenatural number find another ordinal natural number larger
+still 
+
+thus every ordinal either zero successor welldefined
+predecessor limit distinction important many
+definition transfinite induction rely upon oftendefining function transfinite induction ordinal one
+defines f assuming defined limit
+ordinalsone defines limit 
+either sense ordinal limit explainednotion limit doe take ordinal values
+thus interesting step definition successor steplimit ordinal function especially nondecreasingtaking ordinal value called continuous see ordinal
+addition multiplication exponentiation continuous functions
+second argument
+
+indexing class ordinals
+
+mentioned wellordered set similar
+orderisomorphic unique ordinal numberor words
+element indexed increasing fashion ordinals
+le thanthis applies particular set ordinalset ordinal naturally indexed ordinal 
+hold slight modification class ordinalcollection ordinal possibly large form set definedproperty class ordinal indexed ordinalclass unbounded put classbijectionclass ordinal freely speak elementclass convention smallestth next smallest formally definitiontransfinite induction element class defined
+provided already defined allas smallest
+element greater element
+apply example class limit ordinalth ordinal either limit zero omegacdotgamma see
+ordinal arithmetic definition multiplication ordinals
+similarly consider ordinal additively indecomposable
+meaning nonzero ordinal sum two
+strictly smaller ordinal additively indecomposable ordinal
+indexed asthe technique indexing class ordinaloften useful context fixed point example ordinalsuch thatis written varepsilongammathesecalled epsilon numbers
+
+closed unbounded set classes
+
+class ordinal said unbounded cofinal givenordinal always element class greaterclass must proper class cannot setsaid closed limit sequence ordinalclass class equivalently indexing
+classfunction continuous sense forum limit
+ordinal th ordinal class limit forthis also closed topological
+sense order topology avoid talking topology proper
+class one demand intersection classgiven ordinal closed order topology ordinalequivalent
+
+particular importance class ordinal closed
+unbounded sometimes called club example classlimit ordinal closed unbounded translates factalways limit ordinal greater given ordinallimit limit ordinal limit ordinal fortunate factterminology make sense class additively
+indecomposable ordinal class varepsiloncdot ordinalclass cardinal closed unbounded set regular
+cardinal however unbounded closed finite setordinal closed unbounded
+
+class stationary nonempty intersection every
+closed unbounded class superclass closed unbounded classes
+stationary stationary class unboundedstationary class closed stationary
+class closed unbounded subclass classlimit ordinal countable cofinality since intersection
+two closed unbounded class closed unboundedintersection stationary class closed unbounded classstationary intersection two stationary class mayempty class ordinal cofinalitywith classordinal uncountable cofinality
+
+rather formulating definition proper classordinal formulate set ordinal given
+ordinala subset limit ordinalis said unboundedcofinal underprovided ordinal thanis leordinal set generally call subset ordinal
+cofinal inprovided every ordinal thanis equal
+ordinal set subset said closed 
+provided closed order topology inie limitordinal set either set equal toitself
+
+arithmetic ordinals
+
+three usual operation ordinal addition multiplication
+ordinal exponentiation defined essentially two
+different way either constructing explicit wellordered set
+represents operation using transfinite recursioncantor normal form provides standardized way writing ordinalsocalled natural arithmetical operation retain commutativityexpense continuity
+
+ordinal cardinals
+
+initial ordinal cardinal
+
+ordinal associated cardinal cardinality obtainedsimply forgetting order wellordered set ordinal
+ordertype cardinality smallest ordinalgiven cardinal cardinality called initial ordinalcardinal every finite ordinal natural number initialinfinite ordinal initial axiom choiceequivalent statement every set wellordered every cardinal initial ordinal casetraditional identify cardinal number initial ordinal
+say initial ordinal cardinal
+
+th infinite initial ordinal writtenits cardinalitywritten alephalphafor example cardinality ofis
+alephwhich also cardinality oforallcountable ordinal assuming axiom choice identify 
+alephexcept notation aleph used writing
+cardinal andwhen writing ordinal important since
+alephaleph whereasalsois smallest
+uncountable ordinal see exists consider setequivalence class wellorderings natural numberwellordering defines countable ordinal andis order type
+setis smallest ordinal whose cardinality greater
+alephand andis limit nnatural number limit cardinal cardinal limit
+indeed first cardinal 
+cofinality
+
+cofinality ordinalis smallest ordinalwhichorder type cofinal subset ofnotice number authors
+define confinality use limit ordinal cofinalityset ordinal well ordered set cofinalityorder type set
+
+thus limit ordinal exists indexed strictly increasing
+sequence limitfor example cofinality ofisbecause
+sequence range natural number tends 
+generally countable limit ordinal cofinalityan
+uncountable limit ordinal may either cofinalityas doesor
+uncountable cofinality
+
+cofinality ofisand cofinality successor ordinal
+isthe cofinality limit ordinal least 
+
+ordinal equal cofinality called regularalways initial ordinal limit regular ordinal limitinitial ordinal thus also initial even regular
+usually axiom choice thenis
+regular eachin case ordinalsand 
+regular whereasandare initial ordinalregular
+
+cofinality ordinalis regular ordinal iecofinality cofinality ofis cofinality 
+cofinality operation idempotent
+
+large countable ordinals
+
+already mentioned see cantor normal form ordinal 
+smallest satisfying equationsolimit sequenceomegaomegaomegaetc many
+ordinal defined manner fixed point certain
+ordinal function ordinal thatis called
+varepsiloniotathen could trying find ordinal
+varepsilonalphaalphaandsubtlety lie trysystematically matter system used defineconstruct ordinal always ordinal lieordinal constructed system perhaps important
+ordinal limit manner system constructionchurch kleene ordinal omegamathrmck despite theinname ordinal countable smallest ordinalcannot way represented computable functionmade rigorous course considerably large ordinal defined
+omegamathrmckhowever measureprooftheoretic strength certain formal system example
+varepsilon measure strength peano arithmetic large
+ordinal also defined churchkleene ordinalinterest various part logic
+
+topology ordinals
+
+ordinal made topological space natural wayendowing order topology see order topologytopologyordinals
+

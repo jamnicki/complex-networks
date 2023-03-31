@@ -1,0 +1,313 @@
+copyright
+
+number
+
+ school wikipedia selection related subject mathematics
+
+number abstract entity represents count measurement
+symbol number called numeral common usage numerals
+often used label road telephone house numberingindicator orderserial number codesisbnmathematics definition number extended include
+abstraction fraction negative irrational transcendental
+complex numbers
+
+arithmetical operation number addition subtraction
+multiplication division generalized branchmathematics called abstract algebra study abstract number
+system group ring fields
+
+type numbers
+
+number classified set called number systemdifferent method expressing number symbol see numeral
+systems
+
+natural numbers
+
+familiar number natural number mean
+nonnegative integer others mean positive integereveryday parlance nonnegative integer commonly referredwhole number positive integer counting numbers
+
+base ten number system almost universal use symbolnatural number written using ten digitsthroughan implied
+place value system one increment power ten usednumber greater nine thus number greater ninenumeral formed two digit symbol setnatural number mathbbn
+
+integers
+
+negative number number zero usually
+written indicating opposite positive numberpreceding minus sign example positive number usedindicate distance right fixed point negative number
+would indicate distance left similarly positive number
+indicates bank deposit negative number indicateswithdrawal negative whole number combinedpositive whole number zero one obtains integer mathbbz
+german zahl plural zahlen
+
+rational numbers
+
+rational number number expressed fractioninteger numerator nonzero natural number denominatorfraction represents quantity arrived whole divided
+n equal part equal part chosen two
+different fraction may correspond rational numberexampleandare absolute value greater
+n absolute value fraction greater one
+fraction positive negative zero set fractions
+includes integer since every integer written fraction
+denominatorthe symbol rational number bold face
+mathbbq quotient
+
+real numbers
+
+loosely speaking real number may identified pointcontinuous line rational number real number likereal number classified either positive zeronegative
+
+real number uniquely characterized mathematical
+property complete ordered fieldhowever algebraically closed field
+
+decimal numeral another way number expressedbaseten number system written string digits
+perioddecimal point example ukcomma example continental europe right ones
+place negative real number written preceding minus signdecimal numeral defining rational number repeat terminates
+though number zero appended thoughisreal number cannot defined repeating decimal numeral
+example fractioncan written decimal numeral
+terminates decimal numeralunending
+nine repeat fractioncan writtenunending three repeat repeatingterminating decimal numeral define rational number alsowritten fractionsandunlike repeating
+terminating decimal numeral nonrepeating nonterminating
+decimal numeral represent irrational number number cannotwritten fraction example wellknown mathematical constants
+aspi sqrtthe square root ofare irrationalreal number expressed decimal numeral
+expression doesnt repeatterminate
+
+real number made number expresseddecimal numeral rational irrational symbol real
+number mathbbr real number used represent
+measurement correspond point number linemeasurement made certain level precisionalways error margin using real number representoften dealt giving appropriate number significant
+figures
+
+complex numbers
+
+moving greater level abstraction real numberextended complex number mathbbc set number arose
+historically question whether negative numbersquare root problem new number discovered square
+root negative one number denoted symbol assignedleonhard euler complex number consist number form
+ab real number zero abcalled imaginary likewise zero real
+since imaginary component complex number hab integer called gaussian integer complex numberalgebraically closed field meaning every polynomial complex
+coefficient factored linear factor complex
+coefficient complex number correspond point complex
+plane
+
+number system mentioned subset next
+number system symbolically mathbbn sub mathbbz sub mathbbq
+sub mathbbr sub mathbbc
+
+types
+
+superreal hyperreal surreal number extend real numberadding infinitesimally small number infinitely large numberstill form fields
+
+idea behind padic number real number mayinfinitely long expansion right decimal pointnumber allow infinitely long expansion left number
+system result depends base used digitbase possible system best mathematical propertyobtained base prime number
+
+dealing infinite collection natural numbergeneralized ordinal number cardinal numberformer give ordering collection latter givesize finite set ordinal cardinal numberequivalent differ infinite case
+
+also set number specialized ussubset complex number example algebraic numberroot polynomial rational coefficient complex numberalgebraic called transcendental numbers
+
+set number subset complex number includequaternion mathbbhinvented sir william rowan hamiltonmultiplication commutative octonionsmultiplication associative element function fieldfinite characteristic behave way like number often
+regarded number number theorists
+
+numerals
+
+number distinguished numeral symbol usedrepresent number number five represented base
+ten numeraland roman numeral notation used represent
+number discussed article numeral system important
+development history numeral developmentpositional system like modern decimal represent large
+number roman numeral require extra symbol larger numbers
+
+history
+
+history integers
+
+first numbers
+
+first known use number date back aroundbc tally
+mark used paleolithic people earliest known examplecave southern africathis system conceptplacevalue currently used decimal notationlimited representation large number first known system
+placevalue mesopotamian basesystem cabcearliest known basesystem date tobc egypt
+
+history zero
+
+use zero number distinguished useplaceholder numeral placevalue system many ancient indian texts
+use sanskrit word shunya refer concept voidmathematics text word would often used refer number
+zeroin similar vein pinith century used null
+zero operator lambda production ashtadhyayialgebraic grammar sanskrit language also see pingala
+
+record show ancient greek seemed unsure statuszero number asked nothingsomething leading interesting philosophical medieval
+period religious argument nature existence zerovacuum paradox zeno elea depend large partuncertain interpretation zero ancient greek even questioned
+thatwas number
+
+late olmec people southcentral mexico began use true zero
+shell glyph new world possibly century bccertainly bybc became integral part maya numeralmaya calendar influence old world numeral systems
+
+byptolemy influenced hipparchus babylonianusing symbol zero small circle long overbar withinsexagesimal numeral system otherwise using alphabetic greek numerals
+wa used alone placeholder hellenistic
+zero first documented use true zero old worldlater byzantine manuscript syntaxis mathematica almagesthellenistic zero morphed greek letter omicron otherwise
+meaning 
+
+another true zero used table alongside roman numeral 
+first known use dionysius exiguus word nulla meaning
+nothing symbol division produced zero remainder
+nihil also meaning nothing used medieval zero used
+future medieval computists calculator easter isolated
+use initial wa used table roman numeral bede
+colleague abouta true zero symbol
+
+early documented use zero brahmaguptabrahmasphutasiddhanta date tohe treated zero numberdiscussed operation involving including division time
+th century concept clearly reached cambodiadocumentation show idea later spreading china islamic
+world
+
+history negative numbers
+
+abstract concept negative number recognised early 
+bcbc chinesenine chapter mathematical art
+jiuzhang suanshu contains method finding area figures
+red rod used denote positive coefficient black negative
+earliest known mention negative number eastfirst reference western work rd century greece
+diophantus referred equation equivalent xthe
+solution would negative arithmetica saying equation
+gave absurd result
+
+negative number use india represent
+debt diophantus previous reference discussed explicitlyindian mathematician brahmagupta brahmasphutasiddhantawho
+used negative number produce general form quadratic formula
+remains use today however century india
+bhaskara give negative root quadratic equation saynegative value case taken inadequate
+people approve negative roots
+
+european mathematician part resisted conceptnegative number century although fibonacci allowed
+negative solution financial problem couldinterpreted debit chapterof liber abaciand laterloss flos time chinese indicating
+negative number drawing diagonal stroke rightmost
+nonzero digit corresponding positive number numeral first
+use negative number european work chuquetth century used exponent referredabsurd numbers
+
+recently century swiss mathematician leonhard euler
+believed negative number greater infinitycommon practice ignore negative result returned equationassumption meaningless ren descartesnegative solution cartesian coordinate system
+
+history rational irrational real numbers
+
+history rational numbers
+
+likely concept fractional number dateprehistoric time even ancient egyptian wrote math texts
+describing convert general fraction special
+notation classical greek indian mathematician made studytheory rational number part general study number
+theory best known euclid element dating roughly
+bc indian text relevant sthananga sutra
+also cover number theory part general studymathematics
+
+concept decimal fraction closely linked decimal place
+value notation two seem developed tandem example
+common jain math sutra include calculationdecimalfraction approximation square root two
+similarly babylonian math text always used sexagesimal fractions
+great frequency
+
+history irrational numbers
+
+earliest known use irrational number indian sulba
+sutra composed betweenbc first existence proofirrational number usually attributed pythagorasspecifically pythagorean hippasus metapontum producedlikely geometrical proof irrationality square root
+ofthe story hippasus discovered irrational numbertrying represent square root ofas fraction however
+pythagoras believed absoluteness number couldaccept existence irrational number could disproveexistence logic belief would accept existence
+irrational number sentenced hippasus deathdrowning
+
+sixteenth century saw final acceptance europeannegative integral fractional number seventeenth century saw
+decimal fraction modern notation quite generally usedmathematician nineteenth centuryirrational separated algebraic transcendental partscientific study theory irrational takenremained almost dormant since euclid yearsaw publication
+theory karl weierstrass pupil kossak heine 
+crellegeorg cantor annalenand richard dedekind mraytaken inthe point departure heine theorygenerally referred yearweierstrasss method hacompletely set forth pincherleand dedekinds received
+additional prominence author later workandrecent endorsement paul tanneryweierstrass cantorheine base theory infinite series dedekind foundidea cut schnitt system real numbers
+separating rational number two group certain
+characteristic property subject received later contributions
+hand weierstrass kronecker crelleand mray
+
+continued fraction closely related irrational number duecataldireceived attention hand euleropening nineteenth century brought prominencewriting joseph louis lagrange noteworthy contributions
+made druckenmllerkunzelemkeand
+gntherramusfirst connected subjectdeterminant resulting subsequent contribution heine
+mbius gnther theory kettenbruchdeterminanten
+dirichlet also added general theory numerous
+contributor application subject
+
+transcendental number reals
+
+first result concerning transcendental number lambert 
+proof thatcannot rational also irrational rational unless nthe constant wa first referrednapierswork logarithm legendre extended proofshowed thatis square root rational number search
+root quintic higher degree equation important
+development abelruffini theoremruffiniabelshowed
+could solved radical formula involvingarithmetical operation root hence necessary consider
+wider set algebraic number solution polynomial
+equation galoislinked polynomial equation group theory
+giving rise field galois theory
+
+even set algebraic number sufficient full set
+real number includes transcendental number existencewa first established liouvillehermite proved 
+e transcendental lindemann proved inthatis
+transcendental finally cantor show set real numbers
+uncountably infinite set algebraic numbercountably infinite uncountably infinite numbertranscendental numbers
+
+infinity
+
+earliest known conception mathematical infinity appearsyajur veda one point state remove partinfinity add part infinity still remains infinity
+infinity popular topic philosophical study among jain
+mathematician circabc distinguished five typeinfinity infinite one two direction infinite area
+infinite everywhere infinite perpetually
+
+west traditional notion mathematical infinitydefined aristotle distinguished actual infinitypotential infinity general consensus latter
+true value galileo two new science discussed ideaonetoone correspondence infinite set next major
+advance theory made georg cantor inhe publishedbook new set theory introducing among thingcontinuum hypothesis
+
+modern geometrical version infinity given projective
+geometry introduces ideal point infinity onespatial direction family parallel line given direction
+postulated converge corresponding ideal pointclosely related idea vanishing point perspective drawing
+
+complex numbers
+
+earliest fleeting reference square root negative numbers
+occurred work greek mathematician inventor heronalexandria century considered volumeimpossible frustum pyramid became prominentth century closed formula root third fourth degree
+polynomial discovered italian mathematician see niccolo
+fontana tartaglia gerolamo cardano soon realizedformula even one interested real solution sometimes
+required manipulation square root negative numbers
+
+wa doubly unsettling since even consider negative
+number firm ground time term imaginaryquantity coined ren descartes inand meantderogatory see imaginary number discussion reality
+complex number source confusion waequation sqrtsqrtsqrt seemed capriciously
+inconsistent algebraic identity sqrtasqrtbsqrtab 
+valid positive real number wa also
+used complex number calculation one positivenegative incorrect use identity related
+identity fracsqrtasqrtfracain caseb negative even bedeviled euler difficulty eventually
+led convention using special symbol placesqrt guard mistake
+
+th century saw labor abraham moivre leonhard
+euler moivre duethe wellknown formula bears
+name moivres formula
+
+co thetaisin thetancos thetaisin theta 
+
+eulereulers formula complex analysis
+
+co thetaisin thetae itheta
+
+existence complex number completely acceptedgeometrical interpretation described caspar wessel 
+wa rediscovered several year later popularized carl
+friedrich gauss result theory complex number received
+notable expansion idea graphic representation complex
+number appeared however early asin walliss algebra
+tractatus
+
+also ingauss provided first generally accepted prooffundamental theorem algebra showing every polynomialcomplex number full set solution realm general
+acceptance theory complex number little duelabor augustin louis cauchy niels henrik abel especially
+latter first boldly use complex numbersuccess well known
+
+gauss studied complex number form abi bintegral rational one two root student ferdinand eisenstein studied type whereis
+complex root xother class called cyclotomic
+field complex number derived root unity higher value generalization largely duekummer also invented ideal number expressedgeometrical entity felix klein inthe general theoryfield created variste galois studied field generated
+root polynomial equation
+
+fx
+
+invictor alexandre puiseux took key step distinguishing
+pole branch point introduced conceptessential singular point would eventually lead conceptextended complex plane
+
+prime numbers
+
+prime number studied throughout recorded history euclid
+devoted one book element theory primeproved infinitude prime fundamental theoremarithmetic presented euclidean algorithm findinggreatest common divisor two numbers
+
+inbc eratosthenes used sieve eratosthenes quickly
+isolate prime number development theoryprime europe date renaissance later eras
+
+inadrienmarie legendre conjectured prime number theorem
+describing asymptotic distribution prime results
+concerning distribution prime include euler proofsum reciprocal prime diverges goldbach
+conjecture claim sufficiently large even numbersum two prime yet another conjecture related distribution
+prime number riemann hypothesis formulated bernhard
+riemann inthe prime number theorem finally proved jacques
+hadamard charles la vallepoussin 

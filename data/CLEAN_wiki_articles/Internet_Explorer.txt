@@ -1,0 +1,437 @@
+copyright
+
+internet explorer
+
+ school wikipedia selection related subject software
+
+window internet explorer
+
+window internet explorer logo
+main wikipedia page using internet explorerrunning window developer microsoft
+latest releaseoctober
+windows
+mac version 
+mac version 
+solaris hpux version 
+use web browser
+license proprietary
+website internet explorer
+
+window internet explorer previously microsoft internet explorer
+abbreviated msie graphical web browser developedmicrosoft included part microsoft window lineoperating system widely used web browser since
+
+
+though released inas part initial oem release windows
+internet explorer included first retailshrinkwrap release windowsthe recent release version
+available free update window service
+packand window serverwith service packit also
+included upcoming window vista operating system versioninternet explorer prior tosp also available separate
+download version window prior window xpversion window mobile called pocket internet explorer
+
+first release windowsadditional version internet
+explorer developed operating system internet explorer
+mac internet explorer unix latter usex window system solaris hpux window version remains
+active development mac version longer supported
+
+history
+
+internet explorer originally derived primarily spyglass
+mosaic early commercial web browser inmicrosoft licensed
+spyglass mosaic spyglass quarterly fee plus percentagemicrosofts revenue software although bearing name similar
+ncsa mosaic first widely used browser spyglass
+mosaic relatively unknown day used ncsa mosaic
+source code sparingly
+
+internet explorer widely used release version 
+wa first version developed without spyglass sources
+although still using spyglass technology spyglass licensing
+information remained program documentation internet explorer
+wa first version integrated window explorer core
+part window integration window however subjectnumerous criticism see united state microsoft
+
+internet explorerwas first major browser support
+released augustit introduced support activex
+control java applet inline multimedia pic systemcontent metadata improvement significant comparedmain competitor time netscape navigator versionalso came
+bundled internet mail news netmeeting early version
+window address book included window 
+osrversionproved first popular version internet
+explorer brought increased scrutiny months
+following release number security privacy vulnerabilities
+found researcher hackers
+
+versionreleased septemberdeepened levelintegration web browser underlying operating
+system installing versionon windowsor window ntmachine
+choosing window desktop update would result traditional
+window explorer replaced version akin web browser
+interface well window desktop webenabled via
+active desktop option longer available installers
+later version internet explorer removedsystem already installed internet explorerintroduced supportgroup policy allowing company configure lock many
+aspect browser configuration internet mail newsreplaced outlook express microsoft chat improved
+netmeeting also included version also includedwindow 
+
+versionlaunched marchand subsequently includedwindowssecond edition bundled officewas another
+significant release supported bidirectional text ruby
+character xml xsl ability save web page mhtml format
+windowsincluded internet explorerinstead version 
+followed julyimproving print preview capability css
+html standard support developer apis versionbundled window
+versionwas released augusta week windows
+xp version included dhtml enhancement content restricted inline
+frame better support leveldom leveland smil 
+msxml engine also updated versionother new features
+included new version ieak medium bar window messenger
+integration fault collection automatic image resizing new
+lookandfeel line luna visual style windows
+xp
+
+februarymicrosoft chairman bill gate announcednew version browser would released rsa conference 
+san francisco decision update browser occurredwake decline use internet explorer first time
+microsoft also stated internet exploreris availablewindow sp later including window serversp windows
+vista first beta version browser released july 
+technical testing first public preview versioninternet explorerbetapreview prebetaversion released
+januarythe final public version released october
+versionis intended defend user phishing well
+deceptive malicious software also feature full user control
+activex better security framework includes important bug
+fix enhancement support web standard improvement html
+csstabbed browsing tab preview management web feeds
+reader also noted first version internet
+explorer based upon spyglass technologies
+
+features
+
+internet explorer designed view broadest range web
+page provide certain feature within operating system
+including microsoft update heyday historic browser
+war internet explorer superseded netscape supporting manyprogressive feature time
+
+component architecture
+
+component object model com technology used extensivelyinternet explorer allows third party add functionality via
+browser helper object bho allows website offer rich content
+via activex object privilegebrowser certain situation concernsecurity issue addressed internet explorersvprovides addon manager controlling activex control browser
+helper object internet explorerprovides addons version
+programsaccessoriessystem tool address issuewell
+
+usability accessibility
+
+internet explorer make use accessibility framework providedwindow internet explorer also user interface ftpoperation similar window explorer although feature
+requires shell window opened versionrathernatively within browser vba supported available via
+extension imacros
+
+ability block popup window introduced internet
+explorerservice pack 
+
+tabbed browsing added internet explorerby installing
+microsofts msn search toolbar natively supportedinternet explorer 
+
+security framework
+
+internet explorer zonebased security framework means
+site grouped based upon certain condition allowsrestriction broad area functionality also allows specific
+function restricted
+
+patch update browser released periodically made
+available window update service wellautomatic update although security patch continue released
+range platform recent feature addition security
+improvement released window xp
+internet explorerservice packprovides download monitoringinstall monitoring allowing user choice whetherdownload install executables two stage help prevent
+installation malware executable file downloaded using internet
+explorer marked operating system potentially
+unsafe prompt user confirm want runexecutable every time user confirms file safe
+
+group
+
+internet explorer fully configurable using group policy
+administrator window server domain apply enforcevariety setting affect user interface disabling
+menu item individual configuration option well underlying
+security feature downloading file zone configuration
+persite setting activex control behaviour others policy
+setting configured peruser permachine basis
+
+standard support
+
+internet explorer using trident layout engine almost fully
+support htmlcss levelxmland dom levelwith minor
+implementation gap partially support leveland dom level 
+implementation gap conformance issue xml support
+brings support xhtml however microsoft buriedsupport since iemaking difficult access like browsers
+consume xhtml served mime type texthtml also
+consume xhtml xml served mime type applicationxmltextxml however requires small xslt measure reenablexhtml xml support pretend comprehend xhtml vended
+preferred type applicationxhtmlxml instead treatunfamiliar file type download
+
+internet explorer doctype sniffing choose betweenquirks
+mode render similarly older version msie standard mode
+render closer wcs specification html renderingscreen printing internet explorer always standard modefully support xsltor decemberworking draft xsl
+depending version msxml dynamic link library available
+also provides dialect ecmascript called jscript
+
+proprietary extensions
+
+internet explorer introduced array proprietary extensionmany standard including html domresulted number web page viewed properly
+using internet explorer
+
+version 
+
+versionof internet explorer renamed window internet
+explorer part microsofts rebranding component nameincluded window available part window vistaseparate download via microsoft update window service
+packand window serverservice packinternet explorercan
+also downloaded directly microsofts website large amountunderlying architecture including rendering enginesecurity framework completely overhauled partly result
+security enhancement browser standalone
+application rather integrated window shelllonger capable acting file browser first security
+advisory posted one day day releaseturned security problem outlook express internet
+explorer 
+
+ie window vista incorporates additional security measuresignificantly protected mode whereby browser run sandbox
+even lower right limited user accountwrite temporary internet file folder cannot install
+startup program change configuration operating system
+without communicating broker process expectedincrease security system considerably window version internet explorerwill include protected mode
+operation relies technology found systemvista also support parental control network diagnostics
+feature unique vista internet explorerhasreleased window later operating systems
+
+release history
+
+januarymicrosoft released public preview build 
+betapreview prebetaversion internet explorerfor
+window service packnot window serverspon
+web site stated public preview build possibly
+betain april internet explorerwill released first
+half ofand final version released second halfpre beta build refreshed marchto build
+real betabuild released aprilto
+buildin addition mix conference bill gates
+said microsoft already working next two versionie version 
+junemicrosoft released betabuildof
+internet explorerfor window sp window x editionwindow serversp feature minor cleanup reordering
+tab drag drop well noticeable performance
+improvements
+augustthe release candidaterc internet
+explorerbuildwas released window sp
+window x edition window serversp walast prerelease version final release
+septembersharp privately held technical services
+firm published result study commissioned microsoft
+evaluating eight antiphishing solution internet explorer
+betacame top study evaluated abilityblock phish warn phish allow good sites
+octoberthe final version releasedmicrosoftcom distributed highpriority update via
+automatic update novemberau notifies user ieready install show welcome screen present key
+feature choice install dont install asklater
+
+new feature changes
+
+better security internet explorer longer integratedwindow explorer shell local file typed opened
+using window explorer shell website typed windows
+explorer shell opened using default web browser
+protected mode available window vista wherebybrowser run sandbox even lower right limited
+user account write temporary internet
+file folder cannot install startup program changeconfiguration operating system without communicatingbroker process protected mode relay uac
+versionsupports tabbed browsing popular feature competing
+web browser also new feature called quick tabdisplay thumbnail preview opened tab since releasebetaonwards user able manually rearrangetab dragging dropping desired
+versionadds support internationalized domain name idn
+included antispoofing protection user visitwebsite whose name foreign language nonlatin characters
+displayed punycode user doe support
+language installed also nonlatin charactercertain restriction mixed latin character latter
+case punycode used support nonlatin scriptinstalled help prevent phishing scam characters
+replaced similar looking character different
+alphabet
+search box added topright corner default
+search engine inherited internet explorer settings
+various search engine toolbars override provide search
+capability address bar additional provider mayadded google altavista yahoo window live search wikipedia
+etc microsoft supply list common provider search box
+us acoms opensearch technology import search providerusing open standard microsoft made easier websiteinclude predefined search query search box also
+available comprehensive list popular search provideradded search box release windows
+internet explorermicrosoft updated list common providers
+tool enables user manually create add search
+provider search box
+support perpixel alpha channel transparency png imageadded
+fully integrated feed reader included user read
+web feed atom without separate reader features
+include automatic feed discovery ability retrieve feed
+update even web browser isnt running web feeds
+feature set also available thirdparty developerapis list subscribed feed wellcurrent content used
+activex optin block activex control unless allowedinstalled feature improves security unverifiablevulnerable control activex control chosen installed
+information bar user turn activex controlusing addon manager
+number improvement dom html supportmade microsofts stated goal versionwas fixsignificant bug area caused troubledeveloper improved coverage standard would come
+later
+wellknown problem righthand portion web
+page cut page printed fixed page content
+also shrunk fit text single pagerevamped print preview interface also let user dragpage margin around see result immediately
+page zoom selector added bottomright corneruser interface unlike text size feature zoom
+complete content web page allowing easier reading
+larger display font rendered higher resolution
+cleartype enabled disabled separately restoperating system
+new phishing filter offer protection phishing scams
+website may considered dangerous userenter personal information enabled every website
+user visit checked master list known phishing
+site site listed user informed lightprivacy implication feature enabled
+automatically user asked start internet explorer
+want enabled microsoft working conjunctioncompany specialize identifying phishing scheme ensure
+list known site accurate quickly updated
+address bar status bar appear window including
+popups help block malicious site disguisingtrusted site also address bar feature colour codevisually indicate trustworthiness page address bar
+turn red page invalid security certificateaccessed case site using encryption address
+bar white page high security certificatebar turn green
+modal window dialog box shown tabha generated selected situation tab colour
+becomes orange
+address bar nolonger allows javascript executed blank
+page aboutblank feature still supported pages
+though enables bookmarklets work properly reasonchange given
+status bar nolonger allows custom text entered formatting ccompleteand always show url
+link hovered security
+delete browsing history clean complete browsing historysingle step previously multistage process requiring
+user delete browser cache history cooky saved form data
+password series different step usefulimproving privacy security multiuser environmentinternet caf
+contextual gorefresh button url typedaddress bar button change refresh gogo keyboard enter hit button change gorefresh way space taken toolbarsminimized
+back forward menu combined one menu
+show user current position history bold
+entry case current page toplist page back user gone back
+one page additional item current
+page navigate forwards
+fix setting check startup setting changedcurrent setting unsafe notifies user useralso press button order fix setting safe state
+old protocol technology removed gopher telnet scriptlets
+directanimation xbm channel cdf file also known asactive
+desktop item etc dhtml editing control removed
+ie window vista reduce surface area security
+attacks
+addons allows launch without installed extensions
+menu bar hidden allow space webpages
+improved text selection
+ie cipher strength bit vista xpsupport bit
+new group policy administrative template adm file loaded automatically onto domain controller group
+policy opened workstation ha installed
+new administrative template allow controllingantiphishing filter state example
+reset internet explorer setting useful browserunusable state deletes temporary file disables browser
+addons reset changed settings
+
+criticism
+
+security
+
+much criticism internet explorer related concernsecurity much spyware adware computer virus acrossinternet made possible exploitable bug flawsecurity architecture internet explorer sometimes requiring nothing
+viewing malicious web page order install
+known adriveby download attempttrick user installing malicious software misrepresenting
+software true purpose description section activex
+security alert
+
+internet explorer alone exploitable
+vulnerability ubiquity resulted many affected
+computer vulnerability found microsoft responded
+quickly competitor fixing security hole making patches
+available security hole discoveredinternet explorer vulnerability tend remain unpatched
+much longer time case giving malicious web site
+operator month exploit microsoft release patch
+several company maintain database known security vulnerabilities
+exist internet explorer fix published
+microsoft novembersecunia reportsunpatched
+vulnerability internet explorer severe
+vulnerability rated moderately critical contrast mozilla
+firefox main competitor internet explorer reportedunpatched security vulnerability rated critical opera
+another competitor internet explorer also reportedunpatched security vulnerabilities
+
+maypc world rated internet explorerthe eighth worst tech
+product time
+
+standard support
+
+criticism mostly coming technically proficient userdeveloper website browserbased software application concern
+internet explorer support open standard browser
+often proprietary extension achieve similar functionality
+
+internet explorer support degree number standardized
+technology numerous implementation gap conformance
+failuressome minor notthat led criticismincreasing number developer increase attributable large
+part fact competing browser offer relatively
+thorough standardscompliant implementation becoming widely
+used
+
+internet explorer ubiquity spite inferiority area
+frustrates developer want write standardscompliant
+crossbrowser code advanced functionality providesoften stuck coding page around internet explorer bugs
+proprietary featureset missing standard support instead
+
+web developer must work least advanced technology acrossbrowser wish support internet explorer often
+criticized technically obsolete include poor css
+support native xhtml support remain serious
+problem internet explorerfor another longstanding concrete
+example see internet explorer poor png transparency supportremained unfixed internet explorer 
+
+market adoption
+
+usage share
+
+usage share internet explorer 
+enlarge
+usage share internet explorer 
+
+adoption rate internet explorer seems closely relatedmicrosoft window default web browser comes
+window since integration internet explorerwith
+windowsosrinand especially version release
+adoption greatly accelerated belowintoinand overinthis effect however recently
+dubbed microsoft monoculture analogy problems
+associated lack biodiversity ecosystem byinternet
+explorer almost completely superseded main rival netscapedominated market
+
+fought browser war lateinternet explorer began see usage share shrink attained
+peak aboutinit since small steady
+decline likely due adoption mozilla firefoxstatistic indicate currently significant competition
+nevertheless internet explorer remains dominant web browserglobal usage share aroundbased statistic reference
+usage higher asia lower europe example sharearoundin japan aroundin germany
+
+industry adoption
+
+activex used many public website web application including
+ebay similarly browser helper object also used many search
+engine company third party creating addons access
+service example search engine toolbars use
+com possible include webbrowsing functionalitythirdparty application hence number internet
+explorer shell number contentcentric application like
+realplayer also use internet explorer web browsing module viewing
+web page within applications
+
+standalone internet explorer
+
+officially possible keep multiple versioninternet explorer machine hacker joe maddalone
+ryan parman al successfully separated several versioninternet explorer making standalone applicationreferred standalone included versionsto 
+multiple window web designthe web developer joe
+maddalone found solution
+skyzyxcomstandalone internet explorerthe web developer ryan
+parman made customized browser file available
+multiple explorersdownloads versions
+
+microsoft discontinued standalone installers internet explorer
+general public however unofficial proceduredownloading complete install package internet explorer standalone
+hack exploit known workaround dll hell introducedwindowscalled dll redirection
+standalone install procedure sp
+
+unlike previous version internet explorer running internet
+explorerrequires presence key window registry
+starting due microsoft security bulletinmentioned ieblog
+jon galloway batch script running iesupports latest
+ie standalone launch program iesupports latest rc
+
+yousif provided program available automates
+installation standalone version internet explorer fromto
+allows install versionas default versioninternet explorer
+
+manfred staudinger created online guidearticle detailingenable cooky proprietary conditional comment
+removal
+
+idea removing internet explorer window system first
+proposed united state microsoft case critic feltuser right uninstall internet explorer freelylike application software one microsofts arguments
+trial removing internet explorer window may
+result system instability
+
+australian computer scientist shane brook demonstratedwindowscould fact run internet explorer removed brooks
+went develop software designed customize window versionremoving undesired component known lite later
+created xplite support based operating systempiece software remove installationoperating system however piece software workpart installing obsolete version component windows
+explorer required operating system function
+
+popular method removing copywindow install disc never touch user hard drivemethod developed fred vorck involves manual removal ieinstallation disc nlite hand automated program
+allows user exclude many window componentinstallation desired older version windowwindow fundamental option install internet explorer
+
+removing internet explorer doe number consequenceapplication depend library installed may failfunction unexpected behavior intuits quicken typical
+example depends heavily upon html rendering components
+installed browser window help support system also
+function due heavy reliance html help filecomponent also possible run microsofts windows
+update browser due service implementationactivex control browser support another possibility
+use autopatcher unofficial unauthorised update manager
+doe require use web browser

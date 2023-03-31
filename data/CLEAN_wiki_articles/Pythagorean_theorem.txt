@@ -1,0 +1,522 @@
+copyright
+
+pythagorean theorem
+
+ school wikipedia selection related subject mathematics
+
+mathematics pythagorean theorem pythagoras theoremrelation euclidean geometry among three side right
+triangle theorem named greek mathematician
+pythagoras tradition credited discovery although
+knowledge theorem almost certainly predates pythagorasnoted obsession ratio believed ratio couldapplied aspect world
+pythagorean theorem sum area two squareleg equal area square hypotenuse enlarge
+pythagorean theorem sum area two squareleg equal area square hypotenuse 
+theorem follows
+
+right triangle area square whose side
+hypotenuse side right triangle opposite
+right angle equal sum areasquare whose side two leg two sides
+hypotenuse
+
+let length hypotenuse lengths
+two side theorem expressed equation
+
+abc 
+
+equation provides simple relation among three sideright triangle length two side knownlength third side found generalization theorem
+law cosine allows computation lengththird side triangle given length two sidesize angle
+theorem may known proof pythagorean
+proposition book published incontainsproofspythagoras theorem including one american president james
+garfield
+
+converse theorem also true
+
+three positive number c 
+bc exists triangle side c
+every triangle right angleside length 
+visual proof thetriangle chou pei suan ching
+bc
+enlarge
+visual proof thetriangle chou pei suan ching
+bc
+
+history
+
+history theorem divided three part knowledge
+pythagorean triple knowledge relationship sides
+right triangle proof theorem
+
+megalithic monument frombc egypt british isles
+circabc incorporate right triangle integer sidebuilder necessarily understand theorembartel
+leendert van der waerden conjecture pythagorean triples
+discovered algebraically 
+
+written betweenbc middle kingdom egyptian papyrus
+berlinincludes problem whose solution pythagorean triple
+
+reign hammurabi mesopotamian tablet plimpton 
+written betweenandbc contains many entry closely related
+pythagorean triples
+
+baudhayana sulba sutra written century india
+contains list pythagorean triple discovered algebraicallystatement pythagorean theorem geometrical proofpythagorean theorem isosceles right triangle
+
+apastamba sulba sutra circabc contains numerical proofgeneral pythagorean theorem using area computation van der
+waerden belief certainly based earlier traditions
+according albert brk original proof theorem
+pythagoras copied visit india many scholar find van
+der waerden brks claim unsubstantiated
+
+pythagoras whose date commonly given asbc used
+algebraic method construct pythagorean triple accordingprokloss commentary euclid proklos however wrote betweenand
+ad according sir thomas heath attributiontheorem pythagoras five century pythagoras lived
+however author plutarch cicero attributedtheorem pythagoras way suggestsattribution widely known undoubted
+
+aroundbc according proklos plato gave method finding
+pythagorean triple combined algebra geometry circabc
+euclid element oldest extant axiomatic proof theorem
+presented
+
+written sometime betweenbc andad chinese text chou pei
+suan chingthe arithmetical classic gnomoncircular path heaven give visual proof pythagorean
+theoremin china called gougu theoremfortriangle han dynasty frombc toad
+pythagorean triple appear nine chapter mathematical
+art together mention right triangles
+
+much debate whether pythagorean theorem discovered
+many time van der waerden asserts single discoverysomeone neolithic britain knowledge spreadmesopotamia circabc india china greece
+bybc scholar disagree however favour independent
+discovery
+
+recently shri bharati krishna tirthaji book vedic
+mathematics claimed ancient indian hindu vedic proofpythagoras theorem
+
+proofs
+
+theorem may known proof lawquadratic reciprocity also contender distinctionbook pythagorean proposition elisha scott loomis contains 
+proof james garfield later became president united
+state devised original proof pythagorean theorem 
+external link provide sampling many proofpythagorean theorem
+
+argument based trigonometric identity taylor series
+sine cosine proposed proof theorem
+however since fundamental trigonometric identity proved
+using pythagorean theorem cannot trigonometric proof
+see also begging question
+
+geometrical proof
+
+proof using similar triangles
+enlarge
+proof using similar triangles
+
+like many proof pythagorean theorem one based
+proportionality side two similar triangles
+
+let abc represent right triangle right angle located shown figure draw altitude point call intersection side new triangle ach similartriangle abc right angle definition
+altitude share angle meaning third
+angle triangle well similar
+reasoning triangle cbh also similar abc similarities
+lead two ratios
+
+fracacabfracahac mboxand
+fraccbabfrachbcb
+
+written
+acabtimes cbabtimes 
+summing two equality obtain
+
+accbabtimes ahabtimes hbabtimesahhbab
+
+word pythagorean theorem
+
+acbcab
+
+euclid proof
+
+proof euclid elements
+enlarge
+proof euclid elements
+
+euclid element pythagorean theorem proved argument
+along following line let q vertex right
+triangle right angle drop perpendicular qside opposite hypotenuse square hypotenuse line
+divide square hypotenuse two rectanglearea one two square legs
+
+see three similar figure square triangle
+top since large triangle made two smaller trangles
+area sum area two smaller one similarityclear must apply also area squares
+
+formal proof require four elementary lemmata
+
+two triangle two side one equal two sideothereach angle included side equalthen
+triangle equal respects
+
+area triangle half area parallelogrambase altitude
+
+area square equal product two sides
+
+area rectangle equal product two adjacent
+side follows lemma 
+
+proof follows
+
+let qpr rightangled triangle right angle 
+sides
+
+ac
+
+cb
+ba
+
+squares
+
+afgc
+
+chkb
+beda
+
+drawnin order
+
+q joined
+
+r joined
+
+let perpendicular de 
+
+let intersect 
+
+qz parallel adsince angle qze
+adl right angles
+
+angle rqp rqg right angles
+
+point q collinear
+
+similarly angle rpdangle frqmboxone right angle
+
+adding angle qpr side equality
+
+angle rpdangle frq
+
+get
+
+angle qpdangle fpr
+
+triangles
+
+qpd fpr
+
+congruent
+
+qpfp
+
+pdpr
+
+
+angle qpdangle fpr
+
+lemma 
+
+area rectangle
+
+pdzy
+
+double triangle
+
+qpr 
+
+base
+
+pd
+
+parallels
+
+pd
+
+qz 
+
+area square
+
+pfgq
+
+double triangle
+
+fpr 
+
+stand base
+
+fp
+
+parallels
+
+fp
+
+gr 
+
+thus area rectangle
+
+pdzy
+
+equal square
+
+pfqg 
+
+ie
+
+pdcdot dzqp
+
+similarly joining pk 
+
+easily shown rectangle yrez
+
+equal area square qhkr 
+
+lead
+cdot ezqr
+
+adding two result see
+pd cdot dzrecdot ezqrqp
+
+pdcdot dzzecdot pdqrqp since pdersquare
+
+pddzzeqrqp
+
+pdcdot deqrqp
+
+pdqrqp
+
+rpqrqp since pder square
+
+thus
+
+rpqrqp
+
+prof statement
+rightangled triangle square desribed hypotenuseequal sum square described two sides
+
+help trigonometry theorem extendedtriangles
+
+triangle qpr 
+
+qprprcos 
+p r denote side triangle oppositeangle rand cyclic permutations
+
+visual proof
+
+proof using area subtraction
+enlarge
+proof using area subtraction
+
+visual proof given illustration area large
+square area four identical triangleremoved remaining area c equal qed
+
+proof indeed simple elementarysense doe depend solely upon basic axiomtheorem euclidean geometry particular quite easy
+give formula area triangle square easy
+prove area square sum area pieces
+fact proving necessary property harder provingpythagorean theorem reason axiomatic introductiongeometry usually employ another proof based similaritytriangle seeproof using rearrangement
+enlarge
+proof using rearrangement
+
+second graphic illustration pythagorean theorem fit partside square hypotenuse square related proof would
+show repositioned part identical originalsince sum equal equal corresponding areaequal show square result one must showlength new side equal 
+algebraic proof
+
+square created aligning four right angle triangle large
+square
+enlarge
+square created aligning four right angle triangle large
+square
+
+algebraic variant proof provided following
+reasoning looking illustration area four
+red yellow green pink rightangled triangle given
+frac 
+blue square middle side length area thus area everything together given
+leftfracabrightc
+
+however large square side length also
+calculate area expands aabbshown considering angles
+
+thus aabb leftfracabrightc
+
+distribution theaabbabc
+
+subtraction abc
+
+proof differential equations
+
+one arrive pythagorean theorem studying changeside produce change hypotenuse following diagramemploying little calculus
+proof using differential equations
+enlarge
+proof using differential equations
+
+result change side
+frac dadcfrac 
+similar triangle differential change
+c dca 
+upon separation variable general result
+c dca dab 
+result adding second term change side 
+integrating gives
+
+ca bmathrmconstant 
+
+abcrightarrow mathrmconstant
+
+
+ca 
+seen square due particular proportion
+change side sum resultindependent contribution change sideevident geometric proof proportion givenshown change side inversely proportionalside differential equation suggests theorem duerelative change derivation nearly equivalent computingline integral simpler derivation would leave fixedobserve
+rightarrow cbmathrmconstant
+
+doubtful pythagoreans would ableproof knew compute area trianglefamiliar figurate number gnomon segment added
+onto geometrical figure idea predate calculusalternative integral
+
+proportional relation change sidebest approximation one justify use answerapproximation get better smaller change since arccircle cut closely approach tangentcircle side triangle matter many segments
+divided sum segment alwayspythagoreans trying understand change motion led
+realize number line infinitely divisible could
+discovered approximation change sides
+one observe motion shadow sundial
+produce hypotenuse triangle derive figure shown
+
+rational trigonometry
+
+proof method rational trigonometry see pythagoras
+theorem proof rational trigonometry
+
+proof converse
+
+three positive number cabc exists triangle side c
+every triangle right angle sidelength 
+converse also appears euclid element proven using
+law cosine see generalizationfollowing proof
+
+let abc triangle side length cabc need prove angle side right angle construct another triangle right
+angle side length pythagorean theoremfollows hypotenuse triangle also length since
+triangle side length ccongruent must angle therefore angle
+side length original triangle right
+angle
+
+consequence theorem
+
+pythagorean triples
+
+pythagorean triple consists three positive integer c
+abc word pythagorean triple
+represents length side right triangle three
+side integer length evidence megalithic monumentbritish isle show triple known discovery
+writing triple commonly written cwellknown example
+pythagorean triple primitive c common divisor
+thanthere infinitely many primitive triplepythagorean triple explicitly generated using following
+formula choose two integer mn let amn
+bmn cmn abc alsomultiple pythagorean triple pythagorean triple
+
+pythagorean triple allow construction right angle fact
+length side integer mean example
+tying knot equal interval along string allows stringstretched triangle side length three four five
+case largest angle right angle methodused step mast sea egyptian construction work
+
+generalization concept pythagorean triple triplepositive integer c anbncn strictly greater thanpierre fermat inclaimedtriple exists claim came known fermat last theorem
+first proof given andrew wile 
+
+existence irrational numbers
+
+one consequence pythagorean theorem irrational
+number square root two constructed right
+triangle leg equal one unit hypotenuse length square
+root two pythagoreans proved square root twoirrational proof come even though flewface cherished belief everything rational
+according legend hippasus first proved irrationality
+square root two drowned sea consequence
+
+distance cartesian coordinates
+
+distance formula cartesian coordinate derivedpythagorean theorem x pointplane distance also called euclidean
+distance given
+sqrtxxyy
+
+generally euclidean nspace euclidean distancetwo point aaadotsan bbbdotsbnis
+defined using pythagorean theorem
+sqrtababcdotsanbn 
+sqrtsumin aibi
+
+generalizations
+
+pythagorean theorem generalised euclid elements
+
+one erects similar figure see euclidean geometryside right triangle sum area two
+smaller one equal area larger one
+
+pythagorean theorem special case general theorem
+relating length side triangle law cosines
+
+ababcosthetac 
+
+whereis angle side whenisdegrees cosso formula reducesusual pythagorean theorem
+
+given two vector w complex inner product spacepythagorean theorem take following form
+
+mathbfvmathbfwmathbfv 
+mathbfw 
+mboxrelanglemathbfvmathbfwrangle
+
+particular vwvw w
+orthogonal
+
+using mathematical induction previous result extendedfinite number pairwise orthogonal vector let v
+vn vector inner product space vj
+forijn
+leftsumknmathbfvkright 
+sumkn mathbfvk
+
+generalisation result infinitedimensional real inner
+product space known parsevals identity
+
+theorem vector rewritten term solid
+geometry becomes following theorem line bc formright angle line cd form right angle ccd perpendicular plane containing line bcsum square length bc equalsquare proof trivial
+
+another generalization pythagorean theorem three dimensions
+de guas theorem named jean paul gua malvestetrahedron right angle corner corner like cubesquare area face opposite right angle cornersum square area three faces
+
+also analog theorem dimension four higher
+
+triangle three acute anglesholds thereforebc holds
+
+triangle obtuse angleholds therefore 
+bc holds
+
+edsger dijkstra stated proposition acute rightobtuse triangle language
+
+sgnsgnabc
+
+whereis angle opposite side angle oppositeside andis angle opposite side 
+pythagorean theorem noneuclidean geometry
+
+pythagorean theorem derived axiom euclidean
+geometry fact euclidean form pythagorean theorem
+given doe hold noneuclidean geometry shown
+fact equivalent euclid parallel fifth postulateexample spherical geometry three side right triangle
+bounding octant unit sphere length equal tothis
+violates euclidean pythagorean theorempipineq 
+
+mean noneuclidean geometry pythagorean theorem must
+necessarily take different form euclidean theoremtwo case considerspherical geometry hyperbolic plane
+geometry case euclidean case result follows
+appropriate law cosines
+
+right triangle sphere radius pythagorean theorem
+take form
+
+co leftfraccrrightcos
+leftfracarrightcos leftfracbrright
+
+using maclaurin series cosine function shown
+radius approach infinity spherical formpythagorean theorem approach euclidean form
+
+triangle hyperbolic plane gaussian curvature 
+pythagorean theorem take form
+
+cosh ccosh acosh 
+cosh hyperbolic cosine
+
+using maclaurin series function shownhyperbolic triangle becomes small b capproach zero hyperbolic form pythagorean theorem
+approach euclidean form

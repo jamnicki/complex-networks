@@ -1,0 +1,393 @@
+copyright
+
+enzyme kinetics
+
+ school wikipedia selection related subject general chemistry
+
+dihydrofolate reductase coli two substrates
+dihydrofolate right nadph left bound active siteprotein shown ribbon diagram alpha helix red beta
+sheet yellow loop blue generated dfr
+enlarge
+dihydrofolate reductase coli two substrates
+dihydrofolate right nadph left bound active siteprotein shown ribbon diagram alpha helix red beta
+sheet yellow loop blue generated dfr
+
+enzyme kinetics study rate chemical reactioncatalysed enzyme study enzyme kinetics provides
+insight catalytic mechanism enzyme rolemetabolism activity controlled cell drugs
+poison inhibit activity
+
+enzyme molecule manipulate moleculesthe enzymes
+substrate target molecule bind enzyme active sitetransformed product series step knownenzymatic mechanism enzyme bind multiple substrate andor
+release multiple product protease cleaving one protein
+substrate two polypeptide product others join substrates
+together dna polymerase linking nucleotide dna although
+mechanism often complex series steptypically one ratedetermining step determines overall
+kinetics ratedetermining step may chemical reactionconformational change enzyme substrateinvolved release product enzyme
+
+knowledge enzyme structure helpful visualizingkinetic data example structure suggest substrateproduct bind catalysis change occur reaction
+even role particular amino acid residue mechanism
+enzyme change shape significantly mechanismcase helpful determine enzyme structure without
+bound substrate analog undergo enzymatic reaction
+
+enzyme mechanism divided singlesubstratemultiplesubstrate mechanism kinetic study enzymebind one substrate triosephosphate isomerase aim measure
+affinity enzyme bind substrateturnover rate enzyme bind multiple substratedihydrofolate reductase shown right enzyme kinetics also show
+sequence substrate bind sequenceproduct released
+
+biological catalyst protein enzyme rnabased catalysts
+ribozymes ribosome essential many cellular
+function rna splicing translation main difference
+ribozymes enzyme rna catalyst performlimited set reaction although reaction mechanismkinetics analysed classified methods
+
+general principles
+
+rate reaction increase substrate concentration
+increase eventually becoming saturated high concentrationsubstrate
+enlarge
+rate reaction increase substrate concentration
+increase eventually becoming saturated high concentrationsubstrate
+
+reaction catalysed enzyme exactly reactantproduce exactly product uncatalysed reaction like
+catalyst enzyme alter position equilibrium
+substrate product however unlike normal chemical
+reaction enzyme saturable mean substrateadded reaction rate increase active sites
+become occupied continue enzyme becomes
+saturated substrate rate reach maximum
+
+two important kinetic property enzyme quickly
+enzyme becomes saturated particular substratemaximum rate achieve knowing property suggestsenzyme might environment cell showenzyme respond change conditions
+
+enzyme assays
+
+progress curve enzyme reaction slope initial rate
+period represents initial rate reaction equationmichaelismenten equation describe slope variessubstrate enzyme concentrations
+enlarge
+progress curve enzyme reaction slope initial rate
+period represents initial rate reaction equationmichaelismenten equation describe slope variessubstrate enzyme concentrations
+
+enzyme assay laboratory procedure measure rate enzyme
+reaction enzyme consumed reactioncatalyse enzyme assay usually follow change concentrationeither substrate product measure rate reactionmany method measurement spectrophotometric assay observe
+change absorbance light product reactants
+radiometric assay involve incorporation releaseradioactivity measure amount product made time
+spectrophotometric assay convenient since allow rate
+reaction measured continuously although radiometric
+assay require removal counting sample iediscontinuous assay usually extremely sensitivemeasure low level enzyme activity analogous approachuse mass spectrometry monitor incorporation release stable
+isotope substrate converted product
+
+sensitive enzyme assay use laser focusedmicroscope observe change single enzyme moleculecatalyse reaction measurement either use changefluorescence cofactor enzyme reaction mechanismfluorescent dye added onto specific site protein report
+movement occur catalysis study providingnew view kinetics dynamic single molecule opposed
+traditional enzyme kinetics observes average behaviourpopulation million enzyme molecules
+
+left shown typical progress curve enzyme assayenzyme produce product linear initial rate startreaction later progress curve rate slowssubstrate used product accumulate length initial
+rate period depends assay condition rangemillisecond hour enzyme assay usually set produceinitial rate lasting minute make measurement easier
+however equipment rapidly mixing liquid allows fast kinetic
+measurement initial rate one second rapid
+assay essential measuring presteadystate kineticsdiscussed
+enzyme kinetics study concentrate initial linear part
+enzyme reaction however also possible measurecomplete reaction curve fit data nonlinear rate
+equation way measuring enzyme reaction called
+progresscurve analysis approach useful alternativerapid kinetics initial rate fast measure accurately
+
+singlesubstrate reactions
+
+enzyme singlesubstrate mechanism include isomerasetriosephosphateisomerase bisphosphoglycerate mutase intramolecular
+lyases adenylate cyclase hammerhead ribozyme rna
+lyase however enzyme single substratefall category mechanism catalase exampleenzyme reacts first molecule hydrogen peroxide
+substrate becomes oxidised reduced second moleculesubstrate although single substrate involved existencemodified enzyme intermediate mean mechanism catalaseactually pingpong mechanism type mechanism discussed
+multisubstrate reaction section
+michaelismenten kinetics
+
+saturation curve enzyme showing relationconcentration substrate rate
+enlarge
+saturation curve enzyme showing relationconcentration substrate rate
+
+enzymecatalysed reaction saturable rate catalysis
+doe show linear response increasing substrate initial
+rate reaction measured range substrate
+concentration denoted reaction rate increaseincrease shown left however get higherenzyme becomes saturated substrate rate reach vmax
+enzyme maximum rate
+singlesubstrate mechanism enzyme reaction k krate constant individual steps
+enlarge
+singlesubstrate mechanism enzyme reaction k rate constant individual steps
+
+michaelismenten kinetic model singlesubstrate reactionshown right initial bimolecular reactionenzyme substrate form enzymesubstrate complex although enzymatic mechanism unimolecular reaction rightarrow reaction quite complex typically one
+ratedetermining enzymatic step allows mechanism modeled
+single kinetic step rate constant 
+beginmatrixvk mboxesendmatrixequation 
+
+k also called kcat turnover number maximum number
+enzymatic reaction catalyzed per second
+
+low concentration substrate enzyme existsequilibrium free form enzymesubstrate
+complex increasing likewises increase expensee shifting binding equilibrium right since ratereaction depends concentration rate sensitive
+small change however high enzymeentirely saturated substrate exists form
+condition rate vketotvmax insensitive
+small change etot total enzyme
+concentration
+
+mboxetotstackrelmathrmdef mboxe 
+mboxes
+
+approximately equal concentration saturating
+conditions
+
+michaelismenten equation describes reaction rate depends
+position substratebinding equilibrium rate
+constant michaelis menten showed much lek equilibrium approximation could derive following
+equation
+
+vfracvmaxmboxskmmboxsequation 
+
+michaelismenten equation basis singlesubstrate
+enzyme kinetics
+
+michaelis constant defined concentrationrate enzyme reaction half vmax may verifiedsubstituting skm michaelismenten equationratedetermining enzymatic step slow compared substrate
+dissociation michaelis constant roughly
+dissociation constant complex although situationrelatively rare
+
+normal situation sometimes called
+briggs haldane kinetics michaelismenten equation still holds
+general condition may derivedsteadystate approximation initialrate periodreaction rate roughly constant indicating similarly
+constant equation 
+
+fracddtmboxesk mboxemboxs 
+kmboxeskmboxes approx 
+
+therefore concentration given formula
+
+mboxes approx fracmboxetot
+mboxsmboxskm
+
+michaelis constant defined
+
+kmstackrelmathrmdef frackkk
+approx fracmboxemboxsmboxes
+
+e concentration free enzyme taken together general
+formula reaction rate michaelismenten equation
+
+vk mathrmesfrack mboxetot
+mboxsmboxskmfracvmax
+mboxsmboxskm
+
+specificity constant kcatkm measure efficiently
+enzyme convert substrate product using definitionmichaelis constant michaelismenten equation maywritten form
+
+vk mathrmesfrackkm mboxe
+mboxs
+
+e concentration free enzyme thus specificity
+constant effective bimolecular rate constant free enzymereact free substrate form product specificity constantlimited frequency substrate enzyme encounter
+solution roughlym remarkably
+maximum doe depend size either substrateenzyme ratio specificity constant two substratequantitative comparison efficient enzyme converting
+substrate slope michaelismenten equation low
+substrate concentration skm also yieldspecificity constant
+
+linear plot michaelismenten equation
+
+lineweaverburk doublereciprocal plot kinetic data showingsignificance axis intercept gradient
+enlarge
+lineweaverburk doublereciprocal plot kinetic data showingsignificance axis intercept gradient
+
+using interactive michaelismenten kinetics tutorialuniversity virginia effect behaviour enzymevarying kinetic constant explored
+
+plot versus linear although initially linear
+low bend saturate high modern
+era nonlinear curvefitting computer nonlinearity could
+make difficult estimate vmax accurately therefore
+several researcher developed linearizations michaelismenten
+equation lineweaverburk plot eadiehofstee
+diagram
+
+lineweaverburk plot double reciprocal plot common wayillustrating kinetic data produced taking reciprocalside michaelismenten equation shown right
+linear form michaelismenten equation producestraight line equation ymxc yintercept
+equivalent vmax xintercept graph representing
+km
+
+fracvfrackmvmax mboxs 
+fracvmax
+
+naturally experimental value taken negativelower limiting value sthe yintercept correspondsinfinite substrate concentration vvmax shownright thus xintercept extrapolation experimental
+data taken positive concentration generallylineweaverburk plot skews importance measurement taken low
+substrate concentration thus yield inaccurate estimatevmax accurate linear plotting methodeadiehofstee plot although modern researchlinearizations superseded reliable nonlinear
+regression methods
+
+practical significance kinetic constants
+
+study enzyme kinetics important two basic reasons
+firstly help explain enzyme work secondly helps
+predict enzyme behave living organism kinetic constants
+defined vmax critical attempt understand
+enzyme work together control metabolism
+
+making prediction trivial even simple systemexample oxaloacetate formed malate dehydrogenase withinmitochondrion oxaloacetate consumed citrate synthase
+phosphoenolpyruvate carboxykinase aspartate aminotransferase
+feeding citric acid cycle gluconeogenesis aspartic acid
+biosynthesis respectively able predict much oxaloacetate
+go pathway requires knowledge concentrationoxaloacetate well concentration kineticsenzyme aim predicting behaviour metabolic pathways
+reach complex expression synthesis huge amountkinetic gene expression data mathematical model entire
+organism although goal far future eukaryote
+attempt made achieve bacteria modelescherichia coli metabolism produced tested
+
+multisubstrate reactions
+
+multisubstrate reaction follow complex rate equation describe
+substrate bind sequence analysisreaction much simpler concentration substrate kept
+constant substrate varied condition enzyme
+behaves like singlesubstrate enzyme plot vgive apparent vmax constant substrate setmeasurement performed different fixed concentrationdata used work mechanism reaction
+enzyme take two substrate turntwo product q two type mechanism ternary complex
+pingpong
+randomorder ternarycomplex mechanism enzyme reactionreaction path shown line enzyme intermediate containing
+substrate product q written line
+enlarge
+randomorder ternarycomplex mechanism enzyme reactionreaction path shown line enzyme intermediate containing
+substrate product q written line
+
+ternarycomplex mechanisms
+
+enzyme substrate bind enzyme time
+produce eab ternary complex order binding eitherrandom random mechanism substrate bindparticular sequence ordered mechanism set vcurve fixed varying enzyme ternarycomplex
+mechanism plotted lineweaverburk plot set lines
+produced intersect
+
+enzyme ternarycomplex mechanism include glutathione
+stransferase dihydrofolate reductase dna polymerasefollowing link show short animation ternarycomplex mechanisms
+enzyme dihydrofolate reductase dna polymerase
+
+pingpong mechanisms
+
+pingpong mechanism enzyme reaction enzyme intermediates
+contain substrate product q
+enlarge
+pingpong mechanism enzyme reaction enzyme intermediates
+contain substrate product q
+
+shown right enzyme pingpong mechanism existtwo state chemically modified form enzyme emodified enzyme known intermediate mechanisms
+substrate bind change enzyme example
+transferring chemical group active site released
+first substrate released substrate bindreact modified enzyme regenerating unmodified form
+set curve fixed varying enzymepingpong mechanism plotted lineweaverburk plot setparallel line produced
+
+enzyme pingpong mechanism include oxidoreductasethioredoxin peroxidase serine protease trypsinchymotrypsin serine protease common diverse familyenzyme including digestive enzyme trypsin chymotrypsinelastase several enzyme blood clotting cascade many
+others serine protease intermediateacylenzyme specie formed attack active site serine
+residue peptide bond protein substrate short animation
+showing mechanism chymotrypsin linked
+nonmichaelismenten kinetics
+
+saturation curve enzyme reaction showing sigmoid kinetics
+enlarge
+saturation curve enzyme reaction showing sigmoid kinetics
+
+enzyme produce sigmoid plot often indicates
+cooperative binding substrate active site meanbinding one substrate molecule affect binding subsequent
+substrate molecule behaviour common multimeric
+enzyme several interacting active site mechanismcooperation similar haemoglobin bindingsubstrate one active site altering affinity active
+site substrate molecule positive cooperativity occursbinding first substrate molecule increase affinityactive site substrate negative cooperativity occursbinding first substrate decrease affinity enzymesubstrate molecules
+
+allosteric enzyme include mammalian tyrosyl trnasynthetaseshow negative cooperativity bacterial aspartate transcarbamoylase
+phosphofructokinase show positive cooperativity
+
+cooperativity surprisingly common help regulateresponse enzyme change concentrationsubstrate positive cooperativity make enzyme much sensitiveactivity show large change narrow rangesubstrate concentration conversely negative cooperativity makes
+enzyme insensitive small change
+hill equation ofetn used characterize degreecooperativity quantitatively nonmichaelismenten enzymederived hill coefficient measure much binding substrate
+one active site affect binding substrate active
+site hill coefficient ofindicates negative cooperativitycoefficient ofindicates positive cooperativity
+
+presteadystate kinetics
+
+presteady state progress curve showing burst phase enzyme
+reaction
+enlarge
+presteady state progress curve showing burst phase enzyme
+reaction
+
+first moment enzyme mixed substrate product
+ha formed intermediate exist study nextmillisecond reaction called presteadystate kinetics
+presteadystate kinetics therefore concerned formationconsumption enzymesubstrate intermediate esteadystate concentration reached
+
+approach first applied hydrolysis reaction catalysedchymotrypsin often detection intermediate vital piece
+evidence investigation mechanism enzyme followsexample pingpong mechanism shown rapid
+kinetic measurement follow release product measure
+formation modified enzyme intermediate casechymotrypsin intermediate formed attacksubstrate nucleophilic serine active siteformation acylenzyme intermediate
+
+figure right enzyme produce rapidly first
+second reaction rate slows steady statereached rapid burst phase reaction measure single
+turnover enzyme consequently amount product releasedburst shown intercept yaxis graph also
+give amount functional enzyme present assay
+
+chemical mechanism
+
+important goal measuring enzyme kinetics determinechemical mechanism enzyme reaction sequencechemical step transform substrate product kinetic
+approach discussed show rate intermediateformed interconverted cannot identify exactlyintermediate
+kinetic measurement taken various solution conditionslightly modified enzyme substrate often shed lightchemical mechanism reveal ratedetermining stepintermediate reaction example breaking covalent
+bond hydrogen atom common ratedetermining steppossible hydrogen transfer rate determining shownmeasuring kinetic effect substituting hydrogendeuterium stable isotope rate change critical
+hydrogen replaced due primary kinetic isotope effectoccurs bond deuterium harder break bondhydrogen also possible measure similar effectisotope substitution ooeffect subtle
+
+isotope also used reveal fate various partsubstrate molecule final product example sometimes
+difficult discern origin oxygen atom final product
+since may come water part substratemay determined systematically substituting oxygen stable
+isotope various molecule participatereaction checking isotope product chemical
+mechanism also elucidated examining kinetics isotope
+effect different condition altering metal ionbound cofactor sitedirected mutagenesis conserved amino
+acid residue studying behaviour enzymepresence analogue substrates
+
+enzyme inhibition
+
+kinetic scheme reversible enzyme inhibitors
+enlarge
+kinetic scheme reversible enzyme inhibitors
+
+enzyme inhibitor molecule reduce abolish enzyme activity
+either reversible removal inhibitor restores
+enzyme activity irreversible inhibitor permanently
+inactivates enzyme
+
+reversible inhibitors
+
+reversible enzyme inhibitor classified competitive
+uncompetitive noncompetitive mixed according effectkm vmax different effect result inhibitor
+binding enzyme enzymesubstrate complex eshown figure right tableparticular type inhibitor discerned studying enzyme
+kinetics function inhibitor concentration four types
+inhibition produce lineweaverburke eadiehofstee plotvary distinctive way inhibitor concentration brevity two
+symbol used
+
+alphafracmboxikiand
+alphaprimefracmboxikiprime
+
+ki dissociation constant bindingenzyme enzymesubstrate complex respectivelypresence reversible inhibitor enzyme apparent kmvmax become vmax respectively showncommon cases
+
+type inhibition apparent vmax apparent
+ki onlyalphaprimecompetitive alpha vmax
+ki onlyalphauncompetitive frackmalphaprime
+fracvmaxalphaprime
+kikialphaalphaprimenoncompetitive fracvmaxalphaprime
+kikialpha neq alphaprimemixed
+frackmalphaalphaprime fracvmaxalphaprime
+
+nonlinear regression fit enzyme kinetics data rate
+equation yield accurate estimate dissociation
+constant ki
+
+irreversible inhibitors
+
+enzyme inhibitor also irreversibly inactivate enzyme usuallycovalently modifying active site residue reaction follow
+exponential decay function usually saturablesaturation follow first order kinetics respect inhibitor
+
+mechanism catalysis
+
+energy variation function reaction coordinate showstabilisation transition state enzyme
+enlarge
+energy variation function reaction coordinate showstabilisation transition state enzyme
+
+favoured model enzymesubstrate interaction induced
+fit model model proposes initial interactionenzyme substrate relatively weak weak
+interaction rapidly induce conformational change enzymestrengthen binding conformational change also bring catalytic
+residue active site close chemical bondsubstrate altered reaction binding takes
+place one mechanism catalysis lower energyreaction transition state providing alternative chemical
+pathway reaction mechanism catalysis include catalysisbond strain proximity orientation activesite proton donors
+acceptor covalent catalysis quantum tunnelling
+
+enzyme kinetics cannot prove mode catalysis usedenzyme however kinetic data suggest possibilityexamined technique example pingpong mechanismburstphase presteadystate kinetics would suggest covalent catalysis
+might important enzyme mechanism alternativelyobservation strong effect vmax might indicate
+residue active site need particular
+ionisation state catalysis occur
+

@@ -1,0 +1,245 @@
+copyright
+
+lightning rod
+
+ school wikipedia selection related subject engineering
+
+example standard pointedtip air terminal
+enlarge
+example standard pointedtip air terminal
+
+lightning rod lightning protector metal strip rod
+usually copper similar conductive material used partlightning safety protect tall isolated structureroof building mast vessel lightning damageformal name lightning finial air terminal sometimes system
+informally referred lightning conductor lightning arrester
+lightning discharger however term actually referlightning protection system general specific component within
+
+term lightning rod also used metaphorical termdescribe attract controversy
+
+construction uses
+
+lightning rod connected via lowresistance wire cableearth water charge may safely dissipated
+lightning rod sometimes posse short circuit groundinterrupted thin non conductor lightning jumps
+ideally underground part assembly reside muddy
+area area tends become stormunderground cable resist corrosion well may covered salt
+improve electrical connection ground
+
+telegraphy telephony lightning rod placed wire enter
+structure preventing damage electronic instrument withinensuring safety individual near similarly hightension
+power line carry lighter conductor wire main power
+conductor conductor grounded various point alonglink electrical substation usually web lighter
+conductor wire covering whole plant
+
+considerable material used construction lightning
+arrester prudent work new arrestergreatest effect historical understanding lightning assumedrod protected cone ofdegreesthis foundunsatisfactory protecting taller structure possiblelightning strike side building
+
+better technique determine effect new arrester called
+rolling sphere technique developed tibor horvthunderstand requires knowledge lightning movestep leader lightning bolt jump toward ground steps
+toward grounded object nearest path maximum distancestep may travel called critical distanceproportional electrical current object likely struck
+nearer leader critical distancestandard practice approximate sphere radius asm nearground
+
+electricity travel along path least resistance object
+outside critical distance unlikely struck leadergrounded object within critical distance notinglocation safe lightning determined imaginingleader potential path sphere travel cloudground
+
+lightning protection suffices consider possible spheres
+touch potential strike point determine strike points
+consider sphere rolling terrain pointsimulating potential leader position sphere touchground lightning likely strike point sphere
+cannot roll across touch safest lightning lightning rods
+placed prevent sphere touchingstructure
+
+commonly believed erroneously rod ending sharp
+point peak best mean conduct currentlightning strike ground according field research rodrounded spherical end better lightning rod improvement
+study moore al say
+
+calculation relative strength electric fields
+similarly exposed sharp blunt rod show although
+field prior emission much stronger tip
+sharp rod decrease rapidly distanceresult centimeter tip mmdiameter
+blunt rod strength field greaterotherwise similar sharper rod height sincefield strength tip sharpened rod tends limited
+easy formation ion surrounding air field
+strength blunt rod much strongerdistance greater thancm sharper ones
+result study suggest moderately blunt metal
+rod tip heighttotip radius curvature ratiobetter lightning strike receptor sharper
+rod blunt ones
+
+history
+
+wooden church lightning rod grounding cables
+enlarge
+wooden church lightning rod grounding cables
+
+lightning damage humanity since people started building
+structure early structure made wood stone tended short
+valley result lightning hit rarely buildings
+became taller lightning became significant threat lightningdamage structure made material masonry wood concreteeven steel huge current involved heat materialespecially water high temperature causing fire loss strength
+explosion superheated steam air
+
+europe
+
+church tower many european city usually highest
+structure building often hit lightning early christian
+church tried prevent occurrence damaging effectlightning prayer priest prayed
+
+temper destruction hail cyclone forcetempest lightning check hostile thunder great winds
+cast spirit storm power air
+
+peter ahlwardts reasonable theological considerationthunder lightninggave information individual seeking
+cover lightning anywhere except around church
+
+united states
+
+united state pointed lightning rod conductoraccurately lightning attractor invented benjamin franklin
+part groundbreaking exploration electricity franklin
+speculated iron rod sharpened point end
+
+electrical fire would think drawn cloud
+silently could come near enough strike 
+
+franklin speculated lightning rod several yearreported kite experiment
+
+experiment fact took place tired waiting
+christ church philadelphia completed could placelighting rod top resistance churchfelt defying divine install rod franklin
+countered religious objection roof buildingresist precipitation lightning proved simplygiant electrical spark different
+
+th century lightning rod became symbol american
+ingenuity decorative motif lightning rod often embellished
+ornamental glass ball prized collector also served
+provide visual sign lightning strike rod struck
+glass ball shatters fall indicating ownerrod got struck check grounding wiredamage ornamental appeal glass ball alsoincorporated weather vanes
+
+ball solid glass occasionally used method purportedprevent lightning strike ship worth notingworked didnt reveals lotprescientific thought basic principle glass objects
+nonconductor seldom struck lightning therefore goes
+theory must something glass repels lightning
+hence best method preventing lightning strike wooden
+ship bury small solid glass ball tip highest
+mast random behaviour lightning ensured method gained
+good bit credence even development marine
+lightning rod soon franklin initial work
+
+point fact act philanthropy benjamin franklin
+decided patenting invention
+
+lightning prevention
+
+lightning rod dissipaters known early streamer emission
+dissipation array system charge transfer system claim makestructure attractive lightning generally encompass
+system equipment preventative protection objects
+located surface earth effect atmospherics
+scientist claim device nothing expensive
+lightning rod unlike traditional method based
+scientifically proven indisputable technical argumentunderlying theory scientific nonsense
+
+controversy date back franklin stated
+lightning rod protected building dissipating electric
+charge later retracted statement disclaimer statingexact mode operation device something mysterypoint
+
+thus began year dispute dissipation theorydiversion theory lightning protection
+
+dissipation theory state lightning strike structure
+prevented reducing electrical potentialstructure thundercloud transferring electric chargenearby earth sky done erecting sort tower
+equipped one sharplypointed rod upon structure
+true sharplypointed object indeed transfer
+charge surrounding atmosphere also trueconsiderable electric current tower measuredthundercloud overhead proof arrangement
+effective dupont explosive manufacturing sitesurrounding pine tree dupont making
+nitroglycerin building moving angel buggypacking building employee site sensitivepotential lightning strikes
+
+noted however also proofdissipation theory incorrect worth consideringdevice around long time example statuefreedom atop united state capitol building washingtonequipped multiple lightning point tippedplatinum replaced originally constructedstatue restored original aluminum capwashington monument also equipped multiple lightning points
+ray radiate crown statue libertynew york harbour constitute lightningdissipation device well
+
+diversion theory state lightning rod protects building
+purely grounded thus lightning stroke happens
+attach rod diverted around structureearth ground cable uncertaintylightning strike might preferentially attach lightning rodleading assumption air near rod becomes ionizedthus conductive due intense electric field
+
+close reading scant scientific literature subjectreveal much problem thus far proven
+impossible conduct controlled experiment natural lightningtest structure equipped lightning instrumentation may
+languish year without strike subjected strike
+destroys instrumentation
+
+moreover lightning strike metallic structure frequently leaves
+evidence excepting perhaps small pit metal meanstrike uninstrumented structure must visually confirmed
+random behaviour lightning render observations
+difficult
+
+thus strip away two century legal action political
+activity general outrage exhibited side findcurrent state dissipationdiversion controversy drawneither theory proven essentially data
+pertaining behaviour lightning structure mustconsidered anecdotal
+
+research situation improving somewhat however controlled
+experiment may far future good data obtained
+technique use network radio receiver watch
+characteristic electrical signature lightning strikes
+using fixed directional antenna accurate timingtriangulation technique lightning strike located great
+precision strike specific object often confirmed
+confidence
+
+common individual dissipator rod dissipator elements
+appear slightlyblunted metal spike sticking directions
+metal conductor element mounted short metal arms
+top radio antenna tower area farlikely struck according various manufacture claimsupposedly reduction potential differencevoltagestructure storm cloud mile allegedly reducingeliminating risk lightning strikes
+
+attempt introduce lightning protection systemstandard nfpas independent third party panel foundearly streamer emission lightning protection technology appearstechnically sound adequate theoretical basis
+early streamer emission air terminal concept designphysical viewpoint bryanthe panel also concludedrecommended nfpastandard lightning protection systemnever scientifically technically validated franklin rod
+air terminal validated field test thunderstorm
+condition response american geophysical union concludedbryan panel reviewed essentially none studyliterature effectiveness scientific basis traditional
+lightning protection system erroneous conclusionwa basis standard agu attempt asseffectiveness proposed modification traditional systemreport
+
+major standard body nfpa nlsicurrently endorsed device prevent reduce lightning
+strike nfpa standard council following request project
+address dissipation array system charge transfer systems
+denied request begin forming standard technology
+though council foreclose future standard development
+reliable source demonstrating validity basic
+technology science submitted member scientific
+committee international conference lightning protectionissued joint statement stating opposition dissipater
+technology
+
+investigator believe natural downward lightning strokeunpreventable induced upward lightning stroke occurring tall
+structure effective height ofm reducedaltering shape structure according opponenttechnology various design indirectly eliminate lightning via
+alteration dissipaters small effect either
+intended significant reductionsusceptibility tower generation upward lightning
+stroke field investigation dissipaters showperformance comparable conventional terminal possegreat enhancement protection according field studies
+device shown eliminate lightning strikes
+
+patents
+
+united state patent office label lightning protector class
+electricity conductor insulator subclasslightning
+protector subclassrods
+
+u patent documents
+
+original
+u patenthaskins protecting vessel lightning
+u patentpatterson lightning rod
+u patentvarley telegraph pole
+u patentmunson lightning rod
+u patentforbeslightning rod jul 
+u patentobrien lightning arrestorprotection oil tanks
+u patentpennock apparatus collecting atmospheric
+electricity
+u patentgoetz lightning rod
+u patenttesla lightningprotector
+u patentbaldwin device preventing
+electrical ignition stored inflammable fluids
+u patentticehurst oil reserve safety appliance
+u patentcage lightning protector
+u patentschaeffer system preventing
+electrical ignition reservoir stored flammables
+u patentcarpenter system equipmentatmospherics conditioning
+u patentherman electrical energy
+depletioncollection system novemberaeronautics
+lightning arrester static eliminator safety protection
+system device high voltage dissipation lightning
+arrester 
+u patentthomson method apparatus lightning
+protection university florida research foundation inc
+gainesville u patentsadler static electricity dissipator
+u patentball laser lightning rod system
+u patentgillem lightning deterrent
+u patentsmith lightning shelters
+u patentchung lightning arrester
+
+reissued
+u patent respang lightningrod
+u patent respang lightning rod
+u patent reamason lightning arrestors radomes
+

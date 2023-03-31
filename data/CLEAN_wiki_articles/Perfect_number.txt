@@ -1,0 +1,179 @@
+copyright
+
+perfect number
+
+ school wikipedia selection related subject mathematics
+
+divisibilitybased
+set integers
+form factorization
+prime number
+composite number
+powerful number
+squarefree number
+achilles number
+constrained divisor sums
+perfect number
+almost perfect number
+quasiperfect number
+multiply perfect number
+hyperperfect number
+unitary perfect number
+semiperfect number
+primitive semiperfect number
+practical number
+number many divisors
+abundant number
+highly abundant number
+superabundant number
+colossally abundant number
+highly composite number
+superior highly composite number
+deficient number
+weird number
+amicable number
+sociable number
+sublime number
+harmonic divisor number
+frugal number
+equidigital number
+extravagant number
+see also
+divisor function
+divisor
+prime factor
+factorization
+
+mathematics perfect number defined integersum proper positive divisor sum positive
+divisor including number equivalently perfect numbernumber half sum positive divisor 
+n
+
+first perfect number isbecauseandare proper
+positive divisor andthe next perfect numbernext perfect number areand 
+sequence oeis
+
+first four perfect number one knownancient greeks
+
+even perfect numbers
+
+euclid discovered first four perfect number generatedformula 
+n
+n
+n
+n
+
+noticing prime number instance euclid proved
+formula nngives even perfect number whenever
+ni prime euclid prop 
+ancient mathematician made many assumption perfect numbers
+based four knew assumption wrong oneassumption sinceandare precisely first
+four prime fifth perfect number would obtained fifth prime howeveris primetherefore ndoes yield perfect number two wrong
+assumptionfifth perfect number would five digit since first
+four hadanddigits respectively
+perfect number would alternately end inor 
+
+fifth perfect numberhasdigits thus
+refuting first assumption second assumption fifth
+perfect number indeed end ahowever sixth
+also end ait straightforward show last digiteven perfect number must beor 
+
+order nto prime necessary nprime prime number form nare known mersenne primes
+seventeenthcentury monk marin mersenne studied number
+theory perfect numbers
+
+two millennium euclid euler proved formula
+nnwill yield even perfect number thus every
+mersenne prime yield distinct even perfect numberthereconcrete onetoone association even perfect numbermersenne prime result often referred euclideuler
+theorem decemberonlymersenne prime knownmean areperfect number known largestwithdigits
+
+firsteven perfect number nnfor
+
+n
+
+
+
+sequence oeis
+
+otherknown ofit known whether others
+still uncertain whether infinitely many mersenne primes
+perfect number search new mersenne prime goalgimp distributed computing project
+
+since even perfect number form nnittriangular number like triangular number sumnatural number certain point case furthermore even perfect number except first one sumfirst odd cubes
+
+
+
+cdots
+cdots 
+
+
+odd perfect numbers
+
+unknown whether odd perfect number various
+result obtained none helped locate oneotherwise resolve question existence carl pomerancepresented heuristic argument suggests odd perfect
+number exist also conjectured odd
+ore harmonic number true would imply odd
+perfect numbers
+
+odd perfect number must form mor mand
+satisfy following conditions
+n form
+
+nqalpha ldots pkek
+
+q ppk distinct prime modulo 
+arithmetic qeuler
+
+n either qor pjejfor graeme
+laurence cohen 
+smallest prime factor le kwhere number prime factor even power grn
+
+largest prime factor greater thantakeshi goto
+yasuo ohno 
+second largest prime factor greater thanand third
+largest prime factor greater thaniannucci
+n leastprime factor leastdistinct prime
+factor ifis one factor n least
+distinct prime factor nielsenkevin hare 
+n n nielsen 
+n doe eeekmodulomcdaniel 
+eeekk equal 
+yamada 
+
+n exists must greater thana proof expectedsoon see information
+
+case eeekin factorizationodd perfect number whenis equalorsteuerwald mcdaniel kanold hagis cohen
+williams　there odd perfect number whenis form mcdaniels theorem
+
+minor results
+
+even perfect number precise form odd perfect numberrare indeed exist number result perfect
+number actually quite easy prove nevertheless
+superficially impressive also come richard guys
+strong law small numbers
+stuyvaert every odd perfect number sum two squares
+
+luca fermat number cannot perfect number 
+makowski even perfect number form　 
+
+dividing definition perfect number nreciprocal factor perfect number must add 
+forweforweetc
+number divisor perfect number whether even odd
+must even since cannot perfect square
+two result follows every perfect numberore harmonic number
+curtissuses greedy algorithm egyptian fractionprove perfect number must number divisorleast proportional lnlnn much stronger singlylogarithmic
+bound would follow nonexistence odd perfect numberknown form even perfect numbers
+
+related concepts
+
+sum proper divisor give various kind numbers
+number sum number called
+deficient greater number abundantterm together perfect come greek numerology pair
+number sum others proper divisor called
+amicable larger cycle number called sociable positive
+integer every smaller positive integer sum distinct
+divisor practical number
+
+definition perfect number fixed point restricted
+divisor function snnn aliquot sequence associated
+perfect number constant sequence
+

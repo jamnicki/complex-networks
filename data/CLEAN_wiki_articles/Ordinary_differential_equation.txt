@@ -1,0 +1,507 @@
+copyright
+
+ordinary differential equation
+
+ school wikipedia selection related subject mathematics
+
+mathematics ordinary differential equation oderelation contains function one independent variableone derivative respect variable
+
+simple example newton second law motion leaddifferential equation
+
+fracd xdtfx 
+
+motion particle mass general force depends
+upon position particle thus unknown variable appears side differential equation indicatednotation 
+ordinary differential equation distinguished partial
+differential equation several independent variables
+involving partial derivatives
+
+ordinary differential equation arise many different contexts
+including geometry mechanic astronomy population modelling many
+famous mathematician studied differential equationcontributed field including newton leibniz bernoullis
+riccati clairaut dalembert euler
+
+much study devoted solution ordinary differential
+equation case equation linear solved
+analytical method unfortunately interesting
+differential equation nonlinear exceptions
+cannot solved exactly approximate solution arrived using
+computer approximation see numerical ordinary differential
+equations
+
+definitions
+
+let unknown function
+
+mathbbr mathbbr
+
+x ith derivative function
+
+fxyy dot ynyn
+
+called ordinary differential equation ode order degree
+n vector valued functions
+
+mathbbr mathbbrm
+
+call system ordinary differential equation dimension
+function called solution general solutionnthorder equation solution containing arbitrary variables
+corresponding constant integration particular solutionderived general solution setting constantparticular value singular solution solution cantderived general solution
+
+differential equation order ha form
+
+fleftx dot ynright
+
+called implicit differential equation whereas form
+
+fleftx dot ynrightyn
+
+called explicit differential equation
+
+differential equation depending called autonomous
+
+differential equation said linear writtenlinear combination derivative
+ynsumin aix yirx
+
+aix continuous function rx call
+linear differential equation homogeneous otherwise callinhomogeneous
+
+examples
+
+reduction dimension
+
+given explicit ordinary differential equation order ndimension 
+
+fleftx dot ynrightyn
+
+define new family unknown functions
+
+ynyn
+
+rewrite original differential equation systemdifferential equation orderand dimension 
+yy
+vdots
+ynfyn dot 
+written concisely vector notation
+mathbfymathbffmathbfy 
+
+mathbfyyldotsyn
+
+type ordinary differential equations
+
+ordinary differential equation categorised three
+factors
+linear nonlinear
+homogeneous inhomogenous
+constant coefficents versus variable coefficients
+
+information provides method solution differing
+odes
+
+homogeneous linear ode constant coefficients
+
+first method solving linear ordinary differential equationconstant coefficient due euler realized solutionform ezx possiblycomplex value thus solve
+
+frac dny dxnafrac dny dxn 
+cdotsany
+
+set yezx leading
+zn ezxa ezxcdotsan ezx
+
+dividing ezx give nthorder polynomial
+
+fzznazncdotsan
+
+short terms
+
+frac dky dxkquadquadkcdots 
+original differential equation replaced solvingpolynomial give value z dotsznplugging values
+ezi give basis solution linear combination
+basis function satisfy differential equation
+
+equation fzis characteristic equation considered
+later monge cauchy
+
+example
+yyyyy 
+
+ha characteristic equation
+
+zzzz
+
+ha zero andmultiplicitythe solution basis
+eixeixexxex 
+
+corresponds realvalued solution basis
+
+co xsin xexxex 
+
+z possibly real zero multiplicitykindotsmthen yxkezxis solution ode
+function make basis ode solutions
+
+ai real realvalued solution preferable since
+nonreal value come conjugate paircorresponding replace pair linear combinations
+rey imy
+
+case involves complex root solved aideuler formula
+example given yyythe characteristic equationzzwhich zero thus solution basis
+yy eixeixnow solution
+iff ycycyfor ccinmathbb 
+
+coefficient real
+likely interested complex solutions
+basis element mutual conjugates
+
+linear combinations
+
+umboxreyfracyyexcosxand
+umboximyfracyyiexsinx 
+
+give real basis 
+inhomogeneous linear ode constant coefficients
+
+suppose instead face
+
+frac dny dxnafrac dny dxn 
+cdotsanyfx
+
+later convenience define characteristic polynomial
+
+pvvnavncdotsan
+
+find solution basis yyldotsyn homogeneous
+f case seek particular solution variationparameter method let coefficient linear combinationfunction 
+ypuyuycdotsunyn
+
+using operator notation dddx broadminded usenotation ode question pdyf
+fpdyppduypduycdotspdunyn
+
+constraints
+
+uyuycdotsunyn
+uyuycdotsunyn
+
+uynuyncdotsunynn
+
+parameter commute little dirt
+
+fupdyupdycdotsunpdynuynuy
+ncdotsunynn
+
+pdyjtherefore
+
+fuynuyncdotsunynn
+
+constraint give linear system ujmuch always solved fact combining cramers rulewronskian
+
+ujnjfracwyldotsyjyjldotsyn
+choose fwyyldotsyn
+
+rest matter integrating 
+particular solution unique ypcycdotscnyn also
+satisfies ode set constant 
+see also variation parameters
+
+example suppose yyysinkx take solution basis
+found eixeix
+
+wbeginvmatrixeixeix 
+ieixieix endvmatrix
+exbeginvmatrix iiendvmatrix
+iex
+
+u fracwbeginvmatrixeix
+sinkxieixendvmatrix
+fracisinkxeix
+
+u fracwbeginvmatrixeix
+ieixsinkxendvmatrix
+fracisinkxeix
+
+using list integral exponential functions
+
+u fraciintsinkxeixdx
+fracieixikleftisinkxkcoskxright
+
+u frac iintsinkxeixdx
+fracieixikleftisinkxkcoskxright
+
+
+yp fraciikleftisinkxkcoskxright
+fraciikleftisinkxkcoskxright
+fracksinkxkcoskxk
+
+notice u factor canceledtypical
+
+interest sake ode physical interpretation driven
+damped harmonic oscillator represents steady statecycy transient
+
+firstorder linear odes
+
+example
+yy 
+
+initial condition
+
+fleftright
+
+using general solution method
+
+fexleftintex dxkapparight
+
+integration done fromto giving
+
+fexleftleft exe rightkapparight
+
+reduce
+fleftexrightexkappa
+
+assume kappa isfrom initial condition
+
+firstorder linear ode coefficient may mayvary 
+yxpxyxrx
+
+
+yeaxleftint eax dxkapparight
+
+whereis constant integration
+axintpxdx
+
+proof come jean bernoulli let
+
+yprimepyr
+
+suppose unknown function vx yuv
+
+
+yprimeuprime vprime
+
+substituting differential equation
+
+uprime vprimepuvr
+
+important step since differential equation linear
+split two independent equation write
+
+uprime vpuv
+u vprimer
+
+since zero top equation becomes
+
+uprimepu
+
+solution
+ueint dx 
+
+substituting second equation
+
+vint e int dxc
+
+since yuv arbitrary constant 
+eint dxleft int e int dxc right
+
+illustrative example consider first order differential
+equation constant coefficients
+
+fracdydxb
+equation particularly relevant first order systemrc circuit massdamper systems
+
+case pxb 
+hence solution
+yxebx left ebxb rightbc ebx 
+
+method undetermined coefficients
+
+method undetermined coefficient mouc useful finding
+solution given ode pdyfx find another
+differential operator adfxthis operatorcalled annihilator thus method undetermined
+coefficient also known annihilator method applying adside ode give homogeneous ode bigadpdbigy
+find solution basis yldotsynoriginal nonhomogeneous ode used construct systemequation restricting coefficient linear combinationsatisfy ode
+
+undetermined coefficient general variation parameters
+sense annihilator doe always exist
+
+example given yyysinkx pdddthe
+simplest annihilator sinkx addk zeroazpz areiiikik solution basis adpd
+yyyyeixeixeikxeikx
+
+setting ycycycycy find
+
+sinkxpdy
+pdcycycycy
+cpdycpdycpdycpdy
+ckikyckiky
+ckikcoskxisinkxckik 
+coskxisinkx
+
+giving system
+
+ikikckikc
+kikckikc
+
+ha solutions
+
+cfrac ikikcfrac ikik
+
+giving solution set
+
+cycyfrac ikikyfrac ikiky
+cycyfrackcoskxksinkx
+kikkik
+cycy frackcoskxksinkxkk
+
+method variation parameters
+
+explained general solution nonhomogeneous linear
+differential equation yxpxyxqxyxgxexpressed sum general solution yhxcorresponding homogenous linear differential equation 
+pxyxqxyxand one solution ypx 
+pxyxqxyxgx
+
+like method undetermined coefficient describedmethod variation parameter method finding one solution
+yxpxyxqxyxgx already foundgeneral solution yxpxyxqxyxunlikemethod undetermined coefficient fails except certain
+specific form method variation parameteralways work however significantly difficult use
+
+secondorder equation method variation parameters
+make use following fact
+
+fact
+
+let qx function let yxsolution homogeneous linear differential equation 
+pxyxqxyxfurther let vx functionuxyxvxyxand uxyxvxyx
+gx define ypxuxyxvxyxypx solution nonhomogeneous linear differential
+equation yxpxyxqxyxgx
+
+proof
+
+ypxuxyxvxyx
+ypxuxyxuxyxvxyxvxyx
+uxyxvxyx
+ypxuxyxuxyxvxyx 
+vxyx
+gxuxyxvxyx
+
+ypxpxypxqxypxgxuxyx 
+vxyxpxuxyxpxvxyxqxuxyx 
+qxvxyx
+
+gxuxyxpxyxqxyxvxyx
+pxyxqxyxgxgx
+
+usage
+
+solve secondorder nonhomogeneous linear differential
+equation yxpxyxqxyxgx using methodvariation parameter use following steps
+find general solution corresponding homogeneous equation
+yxpxyxqxyxspecifically find two linearly
+independent solution yx
+since yx linearly independent solutionwronskian yxyxyxyx nonzerocomputegxyxyxyxyxyxgxyxyxyxyxyx former
+equal latter u satisfytwo constraint given uxyxvxyx
+uxyxvxyxgx tellmultiplying denominator comparing coefficients
+integrategxyxyxyxyxyxgxyxyxyxyxyx obtain vx respectively note need one choice uv need constant integration
+compute ypxuxyxvxyx function ypone solution yxpxyxqxyxgx
+general solution cyxcyxypxc arbitrary constants
+
+higherorder equations
+
+method variation parameter also usedhigherorder equation example yx linearly independent solution yxpxyxqxyx
+rxyxthen exist function vx wxuxyxvxyxwxyxuxyx 
+vxyxwxyxand uxyxvxyx
+wxyxgx found function solving
+algebraically vx integratingypxuxyxvxyxwxyx one solutionequation yxpxyxqxyxrxyxgx
+
+example
+
+solve previous example yysecx recall sec 
+fraccos xffrom technique learned fromlhs root
+rpm yield ycccosxcsinx ycosx
+ysinxand derivatives
+
+left beginmatrix dot ufracy fwfrac
+sin xcos xtan xdot vfracy 
+fraccos xcos xendmatrix right
+
+wronskian
+
+wleft x rightleft beginmatrix x 
+sin xsin xcos xendmatrix right
+
+computed order seek solution derivatives
+
+upon integration
+
+left beginmatrix uint tan xdxln left
+sec rightcvint dxxc 
+endmatrix right
+
+computing yg
+
+beginmatrix ypfuyvycos xln left x
+rightxsin xygycypc xc sin 
+xsin xcos xln left x rightendmatrix
+
+linear ode variable coefficients
+
+linear ode order variable coefficient general form
+
+pnxynxpnx ynxldotspx
+yxrx
+
+examples
+
+particular simple example cauchyeuler equation often usedengineering
+
+xn ynxan ynxldotsa
+yx
+
+theory odes
+
+singular solutions
+
+theory singular solution ordinary partial differential
+equation subject research time leibnizsince middle nineteenth century receive special
+attention valuable littleknown work subjecthoutaindarboux starting inwas leader theory
+geometric interpretation solution openedfield worked various writer notably casorati cayley
+latter duethe theory singular solutiondifferential equation first order accepted circa 
+
+reduction quadratures
+
+primitive attempt dealing differential equationview reduction quadrature hopeeighteenthcentury algebraist find method solving general
+equation nth degree hope analyst findgeneral method integrating differential equation gauss 
+showed however differential equation meet limitations
+soon unless complex number introduced hence analyst began
+substitute study function thus opening new fertile
+field cauchy first appreciate importance view
+thereafter real question whether solutionpossible mean known function integral whethergiven differential equation suffices definition function
+independent variable variablecharacteristic property function
+
+fuchsian theory
+
+two memoir fuchs crelleinspired novel approach
+subsequently elaborated thom frobenius collet prominent
+contributor beginning inalthough method integratingnonlinear system communicated bertrand inclebsch 
+attacked theory along line parallel followedtheory abelian integral latter classified according
+property fundamental curve remains unchanged
+rational transformation clebsch proposed classifytranscendent function defined differential equation according
+invariant property corresponding surface funder
+rational onetoone transformations
+
+lie theory
+
+fromlies work put theory differential equationsatisfactory foundation showed integration theoryolder mathematician introduction called
+lie group referred common source ordinary
+differential equation admit infinitesimal
+transformation present comparable difficulty integration also
+emphasized subject transformation contact
+berhrungstransformationen
+
+sturmliouville theory
+
+sturmliouville theory general method resolution second
+order linear equation variable coefficients
+
+retrieved 
+httpenwikipediaorgwikiordinarydifferentialequation
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

@@ -1,0 +1,383 @@
+copyright
+
+ascii
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+areprintable ascii character numberedto 
+areprintable ascii character numberedto 
+
+ascii american standard code information interchange generally
+pronounced ski character encoding based english
+alphabet ascii code represent text computer communications
+equipment device work text modern character
+encodingswhich support many charactershave historical basisascii
+
+ascii first published standard inand last updatedcurrently defines code forcharactersare
+nonprinting mostly obsolete control character affect text
+processed otherprintable character follows
+starting space character
+ 
+abcdefghijklmnopqrstuvwxyz
+abcdefghijklmnopqrstuvwxyz
+
+overview
+
+like character representation computer code ascii specifiescorrespondence digital bit pattern symbol glyphwritten language thus allowing digital device communicateprocess store communicate characteroriented
+information ascii character encodingor compatible extension
+see belowis used nearly common computer especially
+personal computer workstation preferred mime nameencoding usascii
+
+ascii strictly seven bit code meaning bit
+pattern representable seven binary digit range ofto 
+decimal represent character information time asciiintroduced many computer dealt eightbit groupsbytesspecifically octet smallest unit information eighth
+bit commonly used parity bit error checkingcommunication line devicespecific function machineuse parity typically set eighth bit zero thoughsystem prime machine running primo set eighth bitascii character one
+
+ascii defines relationship specific character bit
+sequence aside reserving control code lineoriented
+formatting doe define mechanism describingstructure appearance text within document conceptwithin realm system markup languages
+
+history
+
+ascii developed telegraphic code first entered commercial use
+sevenbit teleprinter code promoted bell data service 
+bell system previously planned use sixbit code derived
+fieldata added punctuation lowercase letterearlier fivebit baudot teleprinter code persuaded insteadjoin asa subcommittee started develop ascii baudot
+helped automation sending receiving telegraphic messages
+took many feature morse code however unlike morse code
+baudot used constantlength code compared earlier telegraph codes
+proposed bell code ascii underwent reorderingconvenient sorting especially alphabetization list added
+feature device teleprinter bob bemer introduced
+feature theescape sequence british colleague hugh
+mcgregor ross helped popularize work bemer said much
+code become ascii first calledbemerross code europe
+
+american standard association asa later become ansi first
+published ascii standard inascii lacked lowercase
+letter uparrowinstead caretandleftarrowinstead underscoretheversion added
+lowercase letter changed name control characters
+moved two control ack esc lowercase letter area
+control code area
+
+ascii subsequently updated published ansi ansi
+x finally ansi 
+international standard body ratified character encodings
+identical nearly identical ascii encodingsometimes referred ascii even though ascii strictly defined
+asaansi standards
+european computer manufacturer association published editions
+ascii clone ecma inand
+theedition ansi international organization standardization publishedversion isolater isoiecinand 
+isoin particular established set countryspecific
+version punctuation character replaced nonenglish
+letter isoiecinternational reference versionansi international telecommunication union published versionansi itut recommendation inin early
+name ccitt organization publishedversion ccitt recommendation din published version ascii dinin 
+ietf published version inas rfcand establishedinternet standard version based ansi xpublication rfcin 
+ibms version ansi published ibm technical
+literature code page 
+
+ascii also become embedded probable replacement unicodelowestcharacters term mere adoption ascii onesuccessful software standard ever
+
+ascii control characters
+
+ascii reserve firstcodes numbersdecimal control
+character code originally intended carry printable
+information rather control device printer make
+use ascii provide metainformation data streamstored magnetic tape example characterrepresentsline feed function cause printer advance papercharacterrepresents backspace
+binaryoct dec hex abbr c cecdescription
+nulnull character
+sohastart header
+stxbstart text
+etxcend text
+eotdend transmission
+enqeenquiry
+ackfacknowledgment
+belgabell
+bshbbackspace
+htithorizontal tab
+alfjnline feed
+bvtkvvertical tab
+cfflfform feed
+dcrmrcarriage return
+esonshiftfsioshiftdlepdata link escape
+dcqdevice controloft xon
+dcrdevice control 
+dcsdevice controloft xoff
+dctdevice control 
+nakunegative acknowledgement
+synvsynchronous idle
+etbwend trans block
+canxcancel
+emyend medium
+asubzsubstitute
+besceescape
+cfsfile separator
+dgsgroup separator
+ersrecord separator
+fusunit separator
+fdeldelete
+printable representation unicode character reservedrepresenting control character necessary printdisplay rather perform intended function
+browser may display properly
+control key sequence traditional key sequence inputting
+control character caretrepresents controlctrl key must held pressing second keysequence caretkey representation also usedsoftware represent control characters
+character escape code programming language manylanguage influenced java perl
+backspace character also entered pressingbackspace bksp orkey systems
+delete character also entered pressing delete
+del key also entered pressing backspace
+bksp orkey systems
+escape character also entered pressing escape
+esc key systems
+carriage return character also entered pressingreturn ret enter orkey systems
+ambiguity surrounding backspace come mismatchintent human software transmitting backspaceinterpretation software receiving transmitter
+expects backspace erase previous character receiver
+expects delete used erase previous character many
+receiver echo backspace would echo
+uninterpreted control character similar mismatchdirection may yield delete displayed ash
+persists message today deliberate humorous devicefor
+example suckerhhhhhhpotential customer born every
+minute common variant involves use user interface mean delete previous wordexample sentence would therefore also work suckerw
+potential customer born every minute
+
+original ascii standard used short descriptive phrasecontrol character ambiguity left sometimes
+intentional character would used slightly differentlyterminal link data stream sometimes accidental
+delete means
+
+probably influential single device interpretationcharacter teletype corporation modelserieswa printing terminal available paper tape readerpunch
+option paper tape popular medium longterm program
+storage lower cost way fragile
+magnetic tape particular teletypemachine assignments
+codescontrolq also known xoncontrols also known xoff anddelete became defacto standardnoncompliant use codecontrolo shift left arrow
+usually interpreted delete previous character also adoptedmany early timesharing system eventually faded
+use control xoff abbreviation transmithandshaking signal warning sender stop transmissionimpending overflow controlq xon transmit resume
+sending persists day many system manual output
+control technique system control retains meaningcontrolq replaced second control resume output
+
+codeis officially named delete teletype labelrubout since original standard gave detailed interpretation
+control code interpretation code variedoriginal teletype meaning make ignored characternul zero specifically useful paper tape
+punching allones bit pattern top existing mark
+would obliterate tape designed hand edited could evenproduced space extra nuls blank tape blockcharacter could rubbed replacement putempty space
+
+video terminal began replace printing one valuerubout character lost unix system example interpreted
+delete mean remove character cursorsystem used backspace meaning used delete mean
+remove character cursor latter interpretationcommon today
+
+many control code taken meaning quite different
+original one escape character codefor
+example originally intended allow sending control
+character literal instead invoking meaningmeaning escape encountered url encoding language
+string system certain character reserved
+meaning time meaning coopted eventually
+drifted modern use esc sent terminal usually indicates
+start command sequence usually form ansi escape
+code esc sent terminal often usedband character used terminate operation teco text editors
+
+inherent ambiguity many control character combinedhistorical usage also created problem transferring plain
+text file system clearest examplenewline problem various operating system printing terminals
+question terminate line textcarriage return linefeed first return printing
+carriage beginning line second advancenext line without moving carriage however requiring two
+character mark end line introduced unnecessary complexity
+question interpret character encountered
+alone simplify matter plain text file unix system use line
+feed alone separate line similarly older macintosh systems
+among others use carriage return plain text file various
+dec operating system used character mark end line
+perhaps compatibility teletypes facto standard
+wa copied cpm operating system msdoseventually microsoft window dec operating system alongcpm tracked file length unit disk block used
+controlz sub mark end actual text file also
+done cpm compatibility case msdos though msdosalways recorded exact filelengths controlc etx end text might
+made sense already wide use program abort
+signal unix use controld eot end transmission appearsface similar used terminal never stored
+file
+
+code mentioned retained semblanceoriginal meaning many code originally intended stream
+delimiters link control terminal lost meaning
+except relation letter controla almost never usedmean start header except ansi magnetic tape connecting
+terminal system asking system recognizeloggedout terminal want log modern system muchlikely want carriage return escape controle enquire
+meaning anybody
+ascii printable characters
+
+codethe space character denotes space wordproduced large spacebar keyboard codestoknown
+printable character represent letter digit punctuation
+mark miscellaneous symbols
+
+sevenbit ascii provided seven national charactercombined hardware software permit use overstrikes simulate
+additional international character scenariobackspace precede grave accent american british
+standard standard also call opening single
+quotation mark backtick breath mark inverted vel
+
+binarydec hex glyph
+sp
+
+
+
+
+
+
+
+
+
+b
+c
+e
+f
+
+
+
+
+
+
+
+
+
+
+b
+c
+e
+f
+
+binarydec hex glyph
+
+b
+c
+e
+f
+g
+h
+aj
+bk
+cl
+dm
+en
+fo
+p
+q
+r
+u
+v
+w
+x
+az
+b
+c
+e
+f
+
+binarydec hex glyph
+
+b
+c
+e
+f
+g
+h
+aj
+bk
+cl
+dm
+en
+fo
+p
+q
+r
+u
+v
+w
+x
+az
+b
+c
+e
+
+structural features
+
+digitsare represented value binary prefixed
+withthis mean converting bcd ascii simplymatter taking bcd nibble separately prefixingto
+lowercase uppercase letter differ bit patternsingle bit simplifying case conversion range test avoid
+converting character letter single bitwise
+operation fast case conversion important often
+used caseignoring search algorithms
+
+alias ascii
+
+rfcpublished juneand iana registry character
+set ongoing recognize following caseinsensitive aliases
+ascii suitable use internet
+ansix canonical name
+ansix
+ascii ascii ascii variants
+usascii preferred mime name
+us
+isous
+isoirv
+isoir
+ibm
+cp
+csascii
+
+alias usascii ascii achieved
+widespread use one often find optional charset
+parameter contenttype header mime messageequivalent meta element html document encoding
+declaration part prolog xml documents
+
+variant ascii
+
+computer technology spread throughout world different standards
+body corporation developed many variation ascii orderfacilitate expression nonenglish language used
+romanbased alphabet one could class variationascii extension although misapply term covervariant including preserve ascii charactermapbit range
+
+petscii code used commodore international bit
+system probably unique among post code basedascii instead far common ascii
+
+incompatability interoperability
+
+isothe first attempt remedy proenglishlanguage
+bias created compatibility problem since remained bit
+characterset made additional code available reassigned
+languagespecific variant thus became impossible know
+character code represented without knowing variant work
+textprocessing system could generally cope one
+variant anyway
+
+eventually improved technology brought outofband mean represent
+information formerly encoded eighth bit byte
+freeing bit add anotheradditional charactercodes new
+assignments
+
+example ibm developed bit code page code page 
+replaced controlcharacters graphic symbolsmiley face mapped additional graphic character upper 
+position operating system supported codepages
+manufacturer ibm supported hardware digital
+equipment corporation developed multinational character set
+decmcs use popular terminal
+
+eightbit standard isoiecderived decmcsmac roman developed true extension ascii leavingoriginal charactermapping intact adding additional values
+bit range
+
+enabled representation broader range languagestandard continued suffer incompatibilitylimitation still iso variant window often
+mislabeled iso even microsoft software original bit
+ascii remain common character encoding use today
+
+unicode fix
+
+unicode isoiecuniversal character set ucs much
+wider array character various encoding form begun
+supplant isoiecand ascii rapidly many environmentascii basically bit code unicode ucs use relatively
+abstract code point nonnegative integer number map using
+different encoding form scheme sequence one bit
+byte permit backward compatibility unicode ucs assignfirstcode point character ascii onetherefore think ascii bit encoding scheme small
+subset unicode ucs
+
+popular utf utf encodingform prescribes use one
+four bit code value code point character equates
+exactly ascii code value belowother encoding forms
+utf resemble ascii represent first 
+character unicode tend useorbits per characterrequire conversion compatibility
+
+blend word asciibetical evolved describe collationdata asciicode order rather standard alphabetical order
+
+abbreviation asciiz asciz refers nullterminated ascii
+string
+
+trivia
+
+asteroidascii named character encoding
+

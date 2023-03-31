@@ -1,0 +1,501 @@
+copyright
+
+unix
+
+ school wikipedia selection related subject software
+
+unix officially trademarked unix computer operating system
+originally developed group att
+employee bell lab including ken thompson dennis ritchiedouglas mcilroy today unix system split various branches
+developed time att well various commercial vendornonprofit organizations
+
+present owner trademark unix open group industry
+standard consortium system fully compliant certified
+single unix specification qualify unix others called
+unix systemlike orunixlike
+
+late early unix influence academic
+circle led largescale adoption particularly bsd variant
+originating university california berkeley unixcommercial startup notable sun microsystems
+today addition certified unix system unixlike operating
+system linux mac commonly encountered
+
+sometimes traditional unix may used describe unixoperating system characteristic either versionunix
+unix system filiation unix unixlike systems
+enlarge
+filiation unix unixlike systems
+
+overview
+
+unix operating system widely used serverworkstation unix environment clientserver program model
+essential element development internetreshaping computing centered network ratherindividual computers
+
+unix programming language developed attdistributed government academic institution causingported wider variety machine family operating
+system result unix became synonymous withopen systems
+
+unix designed portable multitasking multiusertimesharing configuration unix system characterized various
+concept use plain text storing data hierarchical file
+system treating device certain type interprocess
+communication ipc file use large number small
+program strung together command line interpreter
+using pipe opposed using single monolithic programincludes functionality concept knownunix philosophy
+
+unix operating system consists many utilities
+along master control program kernel kernel provides
+service start stop program handle file systemcommon high level task program share perhapsimportantly schedule access hardware avoid conflict two
+program attempt simultaneously access resource device
+order mediate access kernel given special rightsystem led division userspace kernelspace
+
+microkernel tried reverse growing size kernel return
+system task would completed smaller
+utility era normal computer consisted hard disk
+storage data terminal input output unix
+file model worked quite well wa linear however modern
+system include networking new device describinggraphical user interface driven mouse control event driven
+fashion didnt work well old model work systems
+supporting new device led facilitynonblocking form interprocess communicationpipe well moving functionality network protocolkernel
+
+history
+
+massachusetts institute technology att bell
+lab general electric worked experimental operating system
+called multics multiplexed information computing servicewa designed run mainframe computer aim wacreation commercial product although never great
+success multics interactive operating system many novel
+capability including enhanced security project develop
+production release initially release performed poorly
+
+att bell lab pulled deployed resource elsewhere onedeveloper bell lab team ken thompson continueddevelop mainframe wrote game computer
+called space travel however found game slowge machine costly costingper execution scarce
+computing time
+partial list simultaneouslyrunning process unix system
+enlarge
+partial list simultaneouslyrunning process unix system
+
+thompson thus rewrote game assembly language digital
+equipment corporation pdp help dennis ritchieexperience combined work multics project led thompson
+start new operating system pdp thompson ritchie led
+team developer including rudd canaday bell lab developingfile system well new multitasking operating systemincluded command line interpreter small utility
+programs
+
+
+inthe project named unics short uniplexed information
+computing system could support two simultaneous username attributed brian kernighan play multics
+unix would one thing well rather overly
+general bloated multics system spelling later changedunix
+
+point financial support bell labs
+computer science research group wanted use unix much
+larger machine pdp thompson ritchie managed trade
+promise adding text processing capability unixpdp machine led financial support bellfirst time inthe unix operating system officially named
+ran pdp added text formatting program called
+roff text editor three written pdp assembly
+language bell lab used initial text processing system madeunix roff editor text processing patent
+application roff soon evolved troff first electronic
+publishing program full typesetting capability unix
+programmer manual published november
+
+inthe decision made rewrite unix programming
+language change meant easier modify unix workmachine thus becoming portable developer could
+create variation code concise compact leading
+accelerated development unix att made unix availableuniversity commercial firm well united states
+government license license included source code except
+machinedependent kernel written pdp assembly
+code however copy annotated unix machinedependent kernel
+circulated widely late form muchcopied book
+john lion university new south wale lions
+commentary unix edition source code ledconsiderable adoption unix educational operating system
+
+version unix system determined edition user
+manual example fifth edition unix unix version
+used designate thing development
+expanded versionsandbeing released bythese
+version added concept pipe leading developmentmodular codebase increasing development speed stillversionand especially versionled plethora different unix
+version inside outside bell lab including pwbunixfirst commercial unix university wollongongs portinterdatathe first nonpdp unix
+
+inunixv vax system released timemachine running unix form versionunix last
+version research unix released widely released 
+versionsandwere developedever released university though generate papers
+describing new work research led development plan 
+bell lab new portable distributed system
+
+
+editing shell script using editor dollarsign top
+screen prompt printed shell typedstart editor take point screen
+downwards
+enlarge
+editing shell script using editor dollarsign top
+screen prompt printed shell typedstart editor take point screen
+downwards
+
+att licensed unix system iii based largely versionfor
+commercial use first version launching inthis also included
+support vax att continued issue license older unix
+version end confusion differing internal
+version att combined unix system releasethis
+introduced feature editor curseberkeley software distribution unix developed universitycalifornia berkeley also included support western
+electric series machines
+
+since newer commercial unix licensing term favorable
+academic use older version unix berkeley
+researcher continued develop bsd unix alternative unix
+system iii originally pdp architecture xbsd
+release ending bsd later vax bsd
+release many contribution unix first appeared bsd systems
+notably shell job control modelled perhapsimportant aspect bsd development effort additiontcpip network code mainstream unix kernel bsd effort
+produced several significant release contained network code
+cbsd bsd bsd bsdtahoe tahoe nicknamecci powerarchitecture first nondec releasebsd kernel net bsdreno match tahoe namingrelease something gamble net bsdbsdlite network code found release ancestor
+almost tcpip network code use today including codelater released att system unix microsoft windowaccompanying berkeley socket api facto standard networking
+apis copied many platforms
+
+company began offer commercial version unix system
+minicomputer workstation new unix
+flavour developed system base licenseatt however others based bsd instead one leading
+developer bsd bill joy went cofound sun microsystemscreate sunos solaris workstation computermicrosoft announced first unix bit microcomputers
+called xenix santa cruz operation sco ported intel
+processor inand eventually branched xenix sco unix
+
+inan industry group called xopen formed aimforming compatible open system standardizing unix
+environment mids largely gratuitous
+incompatibility competing version unix popularly called
+unix war seen hindering adoption unixmarketplace beginning dominated microsofts operating
+system inspired extent development dualmode
+attbsd version unix ieee working group developedfirst posix standard unixbased application programming
+interface published 
+
+att added various feature unix system file locking
+system administration stream remote file system tli att
+cooperated sun microsystems betweenandmerged
+feature xenix bsd sunos system system release 
+svr independently xopen new release consolidatedprevious feature one package heralded end competing
+version also increased licensing fees
+
+
+inthe open software foundation released osf standard
+unix implementation based mach bsd foundation started
+inand funded several unixrelated company wishedcounteract collaboration att sun svr subsequently
+att another group licensee formed groupunix
+international order counteract osf escalation conflict
+competing vendor gave rise phraseunix wars
+
+ina group bsd developer donn seeley mike karels bill
+jolitz trent hein left university california found
+berkeley software design incbsdi bsdi produced fully functional
+commercial version bsd unix inexpensive ubiquitous intel
+platform started wave interest use inexpensive
+hardware production computing shortly founded bill
+jolitz left bsdi pursue distribution bsd free software
+ancestor freebsd openbsd netbsd
+
+bymost commercial vendor unix changedcommercial variant unix based system many bsd
+feature added top creation cose initiative yearmajor player unix marked end notorious phaseunix war followed merger osf 
+new combined entity retained osf name stopped workosf year time vendor using digital
+continued development rebranding product digital
+unix early 
+
+shortly unix system releasewas produced att soldright unix novell dennis ritchie likened biblical
+story esau selling birthright proverbialmesspottage novell developed version unixware mergingnetware unix system releasenovell tried usebattle window core market suffered
+considerably
+
+innovell decided transfer unix trademarkcertification right xopen consortium inxopen merged
+osf creating open group various standard open group
+define unix operating system notably
+post single unix specification
+
+inthe business administration support existing
+unix license plus right develop system code base
+sold novell santa cruz operation whether novell also
+sold copyright currently subject litigation see
+ present
+
+insco sold entire unix business asset caldera
+system later changed name sco group new
+player started legal action various user vendorlinux sco alleged linux contains copyrighted unix codeowned sco group allegation include tradesecret
+violation ibm contract violation former santa cruz
+customer since converted linux however novell disputed
+sco group claim hold copyright unix source base
+according novell sco hence sco group effectively
+franchise operator novell also retained core
+copyright veto right future licensing activity scolicensing revenue sco group disagreeddispute resulted sco novell lawsuit
+
+insun microsystems released bulk solaris system code
+based unix system releaseinto open source project called
+opensolaris new sun technology zfs file systemfirst released open source code via opensolaris projectofit spawned several nonsun distribution schillix
+belenix nexenta martux
+
+dotcom crash led significant consolidation unix userwell many commercial flavour unix bornsolaris hpux aix still relatively wellmarket solaris market share maybecoming popular open source
+
+standards
+
+beginning late open operating system standardization
+effort known posix provided common baseline operating
+system ieee based posix around common structure major
+competing variant unix system publishing first posix
+standard inat around time separate similar
+standard single unix specification also produced open
+group starting inthese two standard body began workmerging two standard identical
+
+effort towards compatibility several unix system vendor agreed
+svr executable linkable format elf standard binary
+object code file common format allows substantial binary
+compatibility among unix system operating cpu
+architecture
+
+directory layout system particularly linux defined
+filesystem hierarchy standard type standard howevercontroversial even within linux community adoption far
+universal
+
+components
+
+unix system composed several component normally
+packaged together includingin addition kerneloperating systemthe development environment library documents
+portable modifiable sourcecode components
+unix selfcontained software system one key
+reason emerged important teaching learning toolbroad influence
+
+inclusion component make system largethe
+original unix distribution consisting copycompiled binary plus source code documentation
+occupied mb arrived single track magtapeprinted documentation contained two fairly thin books
+
+name filesystem location unix component changed
+substantially across history system nonetheless implementation considered many canonical early
+structure
+kerneloriginally found usrsys composed several
+subcomponents
+conforiginally found usrsysconf composedconfiguration machinedependent part often including
+boot code
+devdevice driver originally usrsysdev controlhardware sometimes pseudohardware
+systhe kernel operating system handling memory
+management system call etc
+h includeheader file generally defining key
+interface within system important systemspecific
+invariables
+development environmentmost implementation unix containeddevelopment environment sufficient recreate systemsource code development environment included
+ccthe language compiler first appearing unix
+asthe machinelanguage assembler machine
+ldthe linker combining object files
+liblibraries originally libc system library runtime support primary libraryalways additional library thingmathematical function libm database access unix
+introduced first version modern standard library stdio part system library later
+implementation multiplied number type libraries
+significantly
+makethe build manager introduced pwbunix designedeffectively automate build process
+includeheader file software development defining
+standard interface system invariants
+secondary languagesv unix contained fortran
+compiler programmable calculator awk scripting
+language version implementationcontain many language compiler toolsets early bsd
+release included pascal programming language tool many
+modern unix system also include gnu compiler collection
+well instead proprietary compiler system
+number tool including objectcode
+archive manager symboltable lister
+compilerdevelopment tool yacc make debugging
+tools
+commandsmost unix implementation make little distinction
+command userlevel program system operationmaintenance cron command general utility grep
+generalpurpose application text formatting
+typesetting package nonetheless major categoryshthe shell primary userinterface unixwindow system appeared centre command
+environment degree varied different shell
+implementation external program expr relied
+shell
+utilitiesthe core unix command set including grep find many others category couldsubcategorized
+system utilitiessuch mkfs fsck many others
+user utilitiespasswd kill others
+document formattingunix system used outset
+document preparation typesetting system included
+many related program nroff troff tbl eqn refer
+pic system also include advanced packagetex ghostscript
+graphicsthe plot subsystem provided facilityproducing simple vector plot deviceindependent format
+devicespecific interpreter display files
+modern unix system also generally include standard
+windowing system gui many support opengl
+communicationsearly unix system contained intersystem
+communication include interuser communication
+program mail write introduced early intersystem
+communication system uucp system beginning bsd
+release included tcpip utilities
+
+man command display man page every commandsystem includingenlarge
+man command display man page every commandsystem includingdocumentationunix first operating system includedocumentation online machinereadable formdocumentation included
+manmanual page command library component system
+call header file etc
+doclonger document detailing major subsystemc language troff
+
+impact
+
+unix system great impact operating system unixcalled important operating system may never use
+
+following lead multics written high level languageopposed assembly assembly necessary achieving
+acceptable performance early computers
+
+drastically simplified file model compared many
+contemporary operating system treating kind file simple
+byte array file system hierarchy contained machine servicedevice printer terminal disk drive providinguniform interface expense occasionally requiring
+additional mechanism ioctl mode flag access features
+hardware fit simple stream byte model
+planoperating system pushed model eveneliminated need additional mechanisms
+
+unix also popularized hierarchical file system arbitrarily
+nested subdirectory originally introduced multics common
+operating system era way divide storage devicemultiple directory section fixed numberlevel often one level major proprietary operating
+system added recursive subdirectory capability also patterned
+multics dec rsts programmerproject hierarchy evolved vms
+directory cpms volume evolved msdossubdirectories
+hp mpe groupaccount hierarchy ibms systemand library system folded broader posix file systems
+
+making command interpreter ordinary userlevel programadditional command provided separate program another multics
+innovation popularized unix unix shell used language
+interactive command scriptingshell scriptsthereseparate job control language like ibms jcl example since
+shell command another program user could
+choose even write hisher shell finally new command could
+added without recompiling shell unix innovative commandline
+syntax creating chain producerconsumer processespipelines
+made powerful programming techniquecoroutines widely available
+many later commandline interpreter inspiredunix shell
+
+fundamental simplifying assumption unix focus ascii
+text nearly file format binary editors
+original version unixthe entire system configured
+using textual shell command script common denominator system byteunlike recordbased file systemcomputer focus text representing nearly everything made
+unix pipe useful focus text byte made system farscalable portable system time textbased
+application also application area printing
+languagespostscriptnot interpress earlier effortpeople feasible application layer internet
+protocol telnet ftp smtp http sip xml etc
+
+unix popularised syntax regular expression found much wider
+use unix programming interface became basis standard
+operating system interface posix see
+c programming language ubiquitous system applications
+programming originated unix spread quickly unix
+
+early unix developer important bringing theorymodularity reusability software engineering practice
+
+unix provided tcpip networking protocol relatively inexpensive
+computer contributed internet explosion worldwide
+realtime connectivity also exposed numerous security holenetworking implementation formed basisimplementation many platforms
+
+unix policy extensive online documentation many years
+ready access system source code raised programmer expectations
+contributing open source movement
+
+time leading developer unix program randeveloped set cultural norm developing software normbecame important influential technology unixha termed unix philosophy
+
+
+
+unix store time value number second midnight january
+theunix epoch variable type timet historically
+defined signed bit integer januarythe current
+time roll zero followed byones one followed
+byzeros reset time yearordepending
+implementation many application use library routinedate calculation impact could felt much earlierinstance year mortgage may calculated incorrectly
+beginning year 
+
+since time beforeare rarely represented unix time one
+possible solution compatible existing binary format would
+redefine timet unsigned bit integer howeverkludge merely postpones problem februaryand could
+introduce bug software needed compare differencetwo set time
+
+unix version already addressed example solaris
+bit system timet isbits long meaningbit application correctly handle date 
+billion year several time greater age universe
+existing bit application using bit timet continue workbit solaris system still prone theproblem
+
+free unixlike operating systems
+
+linux modern unixlike system
+enlarge
+linux modern unixlike system
+
+inrichard stallman announced gnu project ambitious
+effort create free software unixlike system freeeveryone received copy would free use study modifyredistribute gnu goal achieved inits kernel
+development project gnu hurd produced working kernelcompatible kernel called linux released free software 
+gnu general public license combination twofrequently referred simply linux although free software
+foundation linux distribution debian gnulinux use
+combined term gnulinux work gnu hurd continues althoughslowly
+
+addition use linux operating system many gnu
+packagessuch gnu compiler collection rest gnu
+toolchain gnu library gnu core utilitieshave goneplay central role free unix system well
+
+linux distribution comprising linux large collectioncompatible software become popular hobbyistbusiness popular distribution include red hat enterprise linux suse
+linux mandriva linux fedora core ubuntu debian gnulinuxgentoo
+
+free derivative bsd unix bsd also released inand
+led netbsd freebsd project thesettlementlawsuit unix system laboratory brought university
+california berkeley software design incusl bsdiclarified berkeley right distribute bsd unixfor
+free desired since bsd unix developedseveral different direction including openbsd dragonfly bsd
+variants
+
+linux bsd kin rapidly occupying market
+traditionally occupied proprietary unix operating system well
+expanding new market consumer desktop mobile
+embedded device measure success may seen apple
+computer sought new foundation macintosh operating
+system chose nextstep operating system developed nextfreely redistributable core operating system renamed darwinapple acquired based bsd family mach kernel
+deployment darwin bsd unix mac make accordingstatement made apple employee usenix conferencewidely used unixbased system desktop computer market duemodularity unix design sharing bit piecerelatively common consequently unix unixlike systems
+include least bsd code modern bsds also typically include
+gnu utility distribution apple combinationpart next freebsd mach gnu utilityprecedent
+
+insun microsystems released bulk source codesolaris operating system system variant name
+opensolaris making first actively developed commercial unix
+system open sourced several year earlier caldera released
+many older unix system educational later bsd
+license result great deal formerly proprietary attusl
+code freely available
+
+branding
+
+octobernovell company owned right unix
+system source time transferred trademark unixxopen company open group insold related
+business operation santa cruz operation whether novell also sold
+copyright actual software currently subjectlitigation federal lawsuit sco novell unix vendor sco group
+inc accused novell slander title
+
+present owner trademark unix open group industry
+standard consortium system fully compliant certified
+single unix specification qualify unix others called
+unix systemlike orunixlike term unix acronym
+follows early convention naming computer system capital
+letter eniac mistic
+
+decree open group term unix refers classoperating system specific implementation operating
+system operating system meet open group single unix
+specification able bear unixor unixtrademarks
+today operating system vendor pay fee open
+group system licensed use unix trademark include aix hpux
+irix solaris tru aux part zos apple computerstated submitting mac xand mac 
+server open group certification unixsystem
+
+practice term especially written asunx nixnx applied number multiuser posixbased systems
+gnulinux mac freebsd seek unix branding
+royalty would expensive product marketedconsumer freely available internet would meanunix become label variety product much likegenericized trademark avoid open group requestunix always used adjective followed generic termsystem
+
+term unix also used fact original
+capitalisation name unix stuck word dennis
+ritchie presenting original unix paper third operating
+system symposium american association computing machinery
+acquired new typesetter intoxicatedable produce small cap quoted jargon file version
+septemberadditionally noted many
+operating system predecessor contemporary used
+alluppercase lettering many computer terminal time
+could produce lowercase letter many people wrote nameupper case due force habit
+
+several plural form unix used refer multiple brandunix unixlike system common conventional unixes
+hacker culture created unix penchant playful
+use language unices treating unix latin word also
+popular anglosaxon plural form unixen common although
+occasionally seen
+
+unix also trademarked name brand carpet however trademark law allow duplicate name product case
+easily distinguishable
+
+common unix commands
+
+widely used unix command include
+directory file creation navigation cd pwd mkdir rmdir find touch
+file viewing editing ed emacs head tail
+text processing echo cat grep sort uniq sed awk cut split
+printf
+file comparison comm cmp diff patch
+miscellaneous shell tool yes test xargs
+system administration chmod chown su wcommunication mail telnet ftp finger ssh
+

@@ -1,0 +1,338 @@
+copyright
+
+ibm colour graphic adapter
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+
+featured article click information
+
+colour graphic adapter cga introduced inwas ibms first
+color graphic card originally sold name colorgraphics
+monitor adapter first colour computer display standardibm 
+standard ibm cga graphic card equipped withkilobytesvideo memory could connected either ntsccompatible
+monitor via rca jack dedicated rgbi crt monitor
+based around motorola display controller cga card
+featured several graphic text mode highest resolutionmode wasand highest colour depth supported bit 
+colors
+
+cga colour palette
+
+full cga colour palette
+black
+dark gray
+
+blue
+aabright blue
+ff
+green
+aabright green
+ff
+cyan
+aaaabright cyan
+ffff
+red
+aabright red
+ff
+magenta
+aaaabright magenta
+ffff
+brown
+aayellow
+ffff
+white light gray
+aaaaaabright white
+ffffff
+
+cgas maximum colour depth four bit result palette 
+color lower three bit representing red green blue
+corresponded three cathode ray black meaning rays
+almost cyan mix blue green rays
+magenta mix blue red orangebrown mix
+green red white light gray mixthree rays
+
+remainingcolors achieved turning fourth
+intensifier bit giving brighter version color although
+dark gray colour indistinguishable black many
+monitor cgas rgb plus intensity bit design also called rgbi
+
+confusion regarding coloron rgbi monitor one
+strictly follows rgbi color model colorwould appear dark
+yellow aaaa see however ibm chose include additional
+circuitry thecolor monitor detect colourand lowergreen component yield pleasing browntone aacga compatible monitor ibm chosepredominant theory ibm wanted make colorclosely match color themainframe terminal specifically
+
+
+standard text modes
+
+cga offered two text modes
+character tocolors character pattern
+ofdots effective screen resolution modepixel pixel aspect ratio ofthough individual
+pixel could addressed independently choice patterns
+location thus limited one theavailable
+character pattern stored rom chipcard display font text mode therefore fixedcould changed although using original ibm cgaoriginal ibm wa possible select one two different
+fontsnormal thinby changing jumper many clone didnt offer
+possibility mode allowed character foreground
+background colour could freely chosenentire cga palette see tableeg red yellow text one
+character white black next cyan gray yet
+another card sufficient video ram fordifferent text
+page mode
+
+character tocolors character wadot pattern character set used forin
+pixel aspect ratio ofthe effective screen resolutionmode waspixels pixel couldindividually addressed since twice many characters
+screen mode card enough video ramdifferent text pages
+
+standard rgb graphic modes
+
+fixed cga colour palette 
+defaultmagenta
+cyanwhite light gray
+fixed cga colour palette 
+defaultred
+greenbrown orange
+
+cga offered two commonlyused graphic modes
+pixel thetext mode graphic mode
+however pixel could addressed independently tradeoff
+wa onlycolors could displayed time four
+color could freely chosen thecga colorsthere
+two official palette mode
+magenta cyan white background colour black default
+red green brownyellow background colour blackdefault
+
+setting highintensity bit brighter version modes
+could accessed
+
+thepixel aspect ratio needed taken account
+drawing large geometrical shape screen
+
+pixel thetext mode pixel couldaddressed independently mode monochrome offeringblack white color though could changedpixel aspect ratio 
+
+text mode font bitmap data came character rom card
+wa available card graphic mode text
+output bios used two separate table first halfcharacter setcharacters supplied table biosffae second half supplied location pointedinterrupt c second half character set would
+display blank garbage depending implementation unlessexplicitly defined usually utility graftablcalling program
+
+rgb graphic mode tweaks
+
+tweaked fixed cga colour palette
+defaultred
+cyanwhite light gray
+
+number official unofficial feature existed couldexploited achieve better graphic rgbi monitor
+ingraphics mode background color defaultedblack mode initialization could changedcolor cga palette allowed variationwell flashing effect background colour could changed
+without redraw screen
+ingraphics mode foreground colour could changed
+usual white othercolors
+text mode border colour displayed outside regular
+display area could changed usual blackothercolors
+thirdcolor palette achieved enablingmonochrome bit color graphic mode switchedcurrent graphic palette red cyan white background
+colour
+precision timing possible switch another
+palette screen content still drawn allowing
+use one thepalettes per scanline best example
+use game california game run stock
+mhzrunning faster computer produceeffect method programmer used switch palettepredetermined location extremely sensitive machine speed
+could done background colour createriver road frogger
+additional color often approximated using dithering although
+low resolution made apparent
+
+tweak could even combined example couldfound several gamesmost software title usepossibility impressive exceptions
+
+thecolour mode
+
+technically mode graphic mode tweaktext mode character cell height register changeddisplay onlylines per character cell instead normallines
+quadrupled number text row displayed fromtothese
+tightly squeezed text character full character system
+displayed top two line pixelseach movingnext row
+imageasciicharactergifcharacter 
+imagehalfblockcharacterblueredgifwith blue textred background colour
+imagehalfblockcharacterredbluegifwith red textblue background colour
+imageasciicharactergifcharacter 
+
+characterin extended ascii character set consisted box
+occupying entire left half character matrix character 
+consisted box occupying entire right half
+
+character could assigned different foregroundbackground color could colored example blue left
+foreground color bright red right background colour
+could reversed swapping foreground background
+colors
+
+using either characteroreach half truncated
+character cell could thus treated individual pixel making 
+horizontal pixel available per line thuspixels 
+color aspect ratio ofwere possible
+
+single big pixel inmode
+two top row half character 
+note theconstituent pixeloverallaspect ratio
+
+although roundabout way achievingcolour graphic displayworked quite well mode even mentioned althoughexplained ibms official hardware documentation
+
+detail could achieved mode using characters
+combining ascii art aforesaid technique
+
+cga hadbytes graphic memory notiteasy set number line mode toinsteadresolution used extra video memorynormally unused however game perhapsfear would work monitor others
+
+text cell height reduction technique could also usedthetext mode made sense using ascii artwithout resulting resolution would
+composite video display
+
+connecting dedicated rgbi color monitor common
+configuration also possible connect ntsccompatible
+composite colour monitor even normal set cgas rca
+output jack common ntsc composite video separation
+luminance chrominance far perfect yielding
+crosscolour artifact colour smearing especiallyproblem column text left rgbi right composite
+
+reason using rgbi colour monitor preferred
+configuration
+
+flaw turned advantage
+
+however programmer soon found flaw could turnedasset distinct pattern highresolution dot would smear
+consistent area solid color thus allowing displaycompletely new color since new color resultcrosscolour artifacting often called artifact colorstandard fourcolour blackandwhite
+graphic mode could used technique
+
+x palette 
+
+x palette 
+
+x
+
+thus choice v mode choicepaletteorand freelyselectable colourin modes
+see one parameter resulted different set
+artifact color making total gamut well hundred
+color whichcan displayed time
+
+availability
+
+x variant technique see wastandard biossupported graphic mode looked composite color
+monitor variant however required modifying bit color
+burst disable directly cgas hardware register result
+usually referred seperate mode oftencomposite colour mode since distinctive set artifact
+color led commonly used variant
+
+completely dependent ntsc encodingdecoding process
+composite colour artifacting available rgbi monitoremulated ega vga contemporary graphic adapters
+
+resolution usage
+
+due relationship cgas pixel clock ntsc
+color subcarrier effective horizontal resolution reduced 
+pixel colour orpixels limiting oneself blackwhite pixels
+
+low resolution led composite color artifacting used
+almost exclusively game many highprofile titles
+optionally sometimes exclusively offering graphic optimizedcomposite colour monitors
+
+ultima 
+king quest
+
+bug errata
+
+cgas noticeable hardware bug snow intext modedisplay ram original ibm cga card dualportedreadwrite access possible simultaneously random pixels
+displayed whenever display memory written cputime read display hardware bug fixedthirdparty clone still existed iterationatt pcdisplay adapter
+
+programmer another annoyance cga display memorygraphic mode interlaced normally video memory strictly
+linear next row display data corresponds next rowpixel cga next row display data correspondedrow pixel two row continued end screen
+second half display data inbetween rows
+addressed first half display memory rows
+etc end screen second half cga ramrowsetc added calculation step cga
+graphic operation programmer wanted avoid visual artifacts
+updating screen
+
+dark yellow
+aaaa
+
+previously mentioned ibm designed thecga monitorintentionally darken color indexfrom dark yellow brown however
+clone monitor circuitry monitormonitor circuitry failed color indexwould
+remain dark yellow see colour example
+
+total amount video memory cga cardtotal bytefully utilised biosinitiated video modesand 
+text modesandgraphics mode settingvideo mode manually using cga port writes allbytesdisplayed pixel element simultaneously
+
+specifications
+
+connector
+
+pin number looking socket
+
+caption pin assignments
+
+pinfunction
+ground
+ground
+red
+green
+blue
+intensity
+reserved
+horizontal sync
+vertical sync
+
+signal
+
+typedigital ttl
+resolution hv
+hfreqkhz
+vfreqhz
+colors
+
+screenshots
+
+alley cat using palettein lowintensity
+
+castle master using palettein highintensity
+
+arachne runningmode default foreground colour
+
+competing adapters
+
+cga two main competitors
+business word processing use ibm launched monochrome
+display adapter mda time cga mda producedhigher resolution text display inmode renderingcharacter box ofpixels whichwere character
+produced sharper character cgasdots
+text character matrix allowed cgas higher
+price time mda often preferred business use
+
+inthe nonibm hercules graphic card hgc introduced
+addition mdacompatible text mode offered monochrome
+graphic mode resolution ofpixels graphics
+mode better cga could produce hercules adapters
+offer better monochrome graphic ability workle expensive monochrome monitor made desirable choicemany early asemulator memoryresident programsimcga available allowing display cga graphic mode
+data hercules graphic mode result looking like crude
+dithering
+
+le widelyused competitor plantronics colorpluscgacompatible card doubled video ram thus allowing
+color atresolution andcolors atresolutionextended cga mode provided ibm pcjr tandywere
+similar modes
+
+cga card succeeded consumer space ibms enhanced
+graphic adapter ega card supported cgas modeadded additional resolutionas wellsoftwareselectable palette ofcolors ofin textgraphic modes
+
+market penetration
+
+ibm introduced inthe cga standard though introduced
+time used relatively little first people
+bought business computing gaming brand home
+computer much popular time colour graphicconsidered little toy value thus early buyer opted cheaper textonly monochrome display adapter mda
+instead cga
+
+incame introduction hercules graphic cardoffered monochromeonly graphic much higher resolutioncga card compatible mda eroding cgas market
+share hgc arguably commonlyutilized card connected
+monochrome monitor throughout ibm life
+
+thing changed inwhen ibm introduced enhanced
+graphic adapter ega along move price older
+cga card lowered considerably became attractive lowcost
+solution soon adopted new cloning company well
+entrylevel nonat cga graphic sold well next
+year consequently many game releasedsystem despite limitation cgas popularity started wane
+vga became ibms highlevel solution ega entrylevel
+solution 
+retrieved 
+httpenwikipediaorgwikiibmcolorgraphicsadapter
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

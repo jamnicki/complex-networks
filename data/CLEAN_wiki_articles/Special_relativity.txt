@@ -1,0 +1,573 @@
+copyright
+
+special relativity
+
+ school wikipedia selection related subject general physics
+
+special theory relativity proposed inby albert
+einstein articleon electrodynamics moving bodies
+three century earlier galileo principle relativitystated uniform motion relative waabsolute welldefined state rest person deck ship
+may rest opinion someone observing shore
+would say moving einstein theory combine galilean
+relativity postulate observer always measure
+speed light matter state uniform
+linear motion
+theory variety surprising consequence seemviolate common sense verified experimentally
+special relativity overthrow newtonian notion absolute spacetime stating distance time depend observertime space perceived differently depending observeryield equivalence matter energy expressed famous
+equation emc speed light special relativity
+agrees newtonian mechanic common realm applicability
+experiment velocity small compared speed
+light
+
+theory called special applies principlerelativity inertial frame einstein developed general
+relativity apply principle generally frametheory includes effect gravity special relativity doesnt
+account gravity deal accelerations
+
+although special relativity make relative quantitytime would imagined absolute based everyday
+experience also make absolute others wouldthought relative particular state speed light
+observer even motion relativeone another special relativity reveals velocity
+certain phenomenonlightbut rather fundamental featureway space time tied together particular special
+relativity state impossible material objecttravel fast light
+
+history motivation see article history special
+relativity
+
+postulates
+
+first postulatespecial principle relativitythe lawphysic inertial frame referenceword privileged inertial frame reference
+second postulateinvariance cthe speed light vacuum
+universal constant independent motionlight source
+
+power einstein argument stem mannerderived startling seemingly implausible result two simple
+assumption founded analysis observation observer
+attempting measure speed light propagation getanswer matter observer system componentmoving
+
+consequences
+
+einstein said consequence special relativity
+found examination lorentz transformations
+
+transformation hence special relativity lead different
+physical prediction newtonian mechanic relative velocities
+become comparable speed light speed light much
+larger anything human encounter effects
+predicted relativity initially counterintuitive
+time dilationthe time lapse two event invariant
+one observer another dependent relative
+speed observer reference frame twin paradox
+concern twin fly spaceship travelling near
+speed light return discover twin aged
+muchrelativity simultaneitytwo event happening two different
+location occur simultaneously one observer may occurdifferent time another observer lack absolute
+simultaneity
+lorentz contractionthe dimension length objectmeasured one observer may smaller resultmeasurement object made another observer egladder paradox involves long ladder travelling near speedlight contained within smaller garage
+composition velocitiesvelocities speed simply
+add example rocket moving atthe speed light
+relative observer rocket fire missile atofspeed light relative rocket missile doe exceed
+speed light relative observer exampleobserver would see missile travel speed ofthe
+speed light
+inertia momentumas object velocity get closerspeed light becomes difficult accelerate
+equivalence mass energy emcmass energyconverted one another play equivalent role eggravitational force falling apple partly due kinetic
+energy subatomic particle made
+simultaneity
+
+first equation lorentz transformation termcoordinate differences
+
+delta tgamma leftdelta tfracv delta right
+
+clear two event simultaneous framesatisfying delta tare necessarily simultaneousanother inertial frame satisfying delta tonlyevent colocal frame satisfying delta xwillsimultaneous another frame
+time dilation length contraction
+
+writing lorentz transformation inverse termcoordinate difference get
+
+delta tgamma leftdelta tfracv delta right
+delta xgamma delta delta
+
+delta tgamma leftdelta tfracv delta right
+delta xgamma delta delta
+suppose clock rest unprimed system two
+consecutive tick clock characterized xifwant know relation time tickmeasured system use first equation find
+
+delta tgamma delta 
+
+show time two tick seenmoving frame larger time tickmeasured rest frame clock phenomenon called time
+dilation
+
+similarly suppose measuring rod rest unprimed
+system system length rod written xwant find length rod measured moving system
+must make sure measure distance end pointrod simultaneously primed frame wordmeasurement characterized twhich combinefourth equation find relation length x
+
+delta xfracdelta xgamma
+
+show length rod measured moving
+frame shorter length rest framephenomenon called length contraction lorentz contraction
+
+effect merely appearance explicitly related
+way measuring time interval colocal eventdistance simultaneous events
+
+see also twin paradox
+
+causality prohibition motion faster light
+
+diagramlight cone
+enlarge
+diagramlight cone
+
+diagramthe interval timelike framereference event event occur locationspace separated occurring different time precedes frame precedes frame hypothetically
+possible matter information travel bcausal relationship cause effect
+
+interval diagram spacelike frame
+reference event event occur simultaneously
+separated space however also frameprecedes shown frame precedespossible causeandeffect relationship exist eventc logical paradox would result example wacause effect would frame referenceeffect preceded cause another way lookingtechnology allowed fasterthanlight motion
+would also function time machine therefore oneconsequence special relativity assuming causalitypreserved logical principle information material object
+travel faster light hand logical situation
+clear case general relativity open
+question whether fundamental principlepreserve causality therefore prevents motion faster light
+general relativity
+
+even without consideration causality strong
+reason fasterthanlight travel forbidden special
+relativity example constant force applied object
+limitless amount time integrating fdpdt givemomentum grows without bound simply pmv
+approach infinity approach observeraccelerating appears though object inertia increasing
+produce smaller acceleration response force
+behaviour fact observed particle accelerators
+
+composition velocities
+
+observer see object moving along axisvelocity wthen observer system framereference moving velocity x direction respectswill see object moving velocity w
+wfracwvwvc
+
+equation derived space time transformations
+notice object moving speed lightsystem wcthen also moving speedlight system also v smallrespect speed light recover intuitive galilean
+transformation velocity approx 
+mass momentum energy
+
+addition modifying notion space time special relativity
+force one reconsider concept mass momentum energy
+important construct newtonian mechanic special
+relativity show fact concept different
+aspect physical quantity much wayshow space time interrelated
+
+couple equivalent way define momentum energy
+sr one method conservation law law remain
+valid must true every possible reference frame
+however one doe simple thought experiment usingnewtonian definition momentum energy one seequantity conserved one rescue ideaconservation making small modification definitionaccount relativistic velocity new definitiontaken correct one momentum energy 
+given object invariant mass traveling velocity energy
+momentum given even defined
+egamma 
+
+vec pgamma vec 
+
+wherethe lorentz factor given
+gammafracsqrtbeta
+
+whereis velocity ratio speed light term 
+occurs frequently relativity come lorentz
+transformation equations
+
+relativistic energy momentum related formula
+
+ep c 
+
+referred relativistic energymomentum equation
+
+velocity much smaller lightcan approximated
+using taylor series expansion one find
+e approx cbeginmatrix frac endmatrix 
+
+vec approx vec 
+
+barring first term energy expression discussedformula agree exactly standard definition newtonian
+kinetic energy momentum special
+relativity must agree newtonian mechanic low velocities
+
+looking formula energy one see object
+rest vandthere nonzero energy remaining
+
+erestm 
+
+energy referred rest energy rest energy doecause conflict newtonian theory constant
+far kinetic energy concerned differenceenergy meaningful
+
+taking formula face value see relativity masssimply another form energy ineinstein remarked special
+relativity
+
+theory mass unalterable magnitude magnitude
+dependent indeed identical amount energy
+
+formula becomes important one measure massdifferent atomic nucleus looking difference mass one
+predict nucleus extra stored energy released
+nuclear reaction providing important information useful
+development nuclear bomb implicationformula thcentury life made one famous
+equation science
+
+relativistic mass
+
+introductory physic course older textbook special
+relativity sometimes define relativistic mass increasevelocity body increase according geometric interpretation
+special relativity often deprecated term massreserved mean invariant mass thus independent inertial
+frame invariant
+
+using relativistic mass definition mass object may vary
+depending observer inertial frame wayproperty length may defining quantity may
+sometimes useful simplifies calculationrestricting specific frame example consider bodyinvariant mass moving velocity relative observers
+reference system observer defines relativistic massbody
+mgamma
+relativistic mass confused longitudinaltransverse mass definition used aroundandbased inconsistent application law newton used
+fma variable mass relativistic mass correspondsnewton dynamic mass pmv fdpdt
+
+note also body doe actually become massiveproper frame since relativistic mass differentobserver different frame mass frame independent
+invariant mass using relativistic mass used
+reference frame specified isnt already obviousimplied also almost without saying increaserelativistic mass doe come increased number atomobject instead relativistic mass atom subatomic
+particle increased
+
+physic textbook sometimes use relativistic mass allowsstudent utilize knowledge newtonian physic gainintuitive grasp relativity frame choice usuallyrelativistic mass also consistent concept time
+dilation length contraction
+
+force
+
+classical definition ordinary force given newtons
+second law original form
+
+vec fdvec pdt
+
+valid relativity
+
+many modern textbook rewrite newton second law
+vec vec
+form valid relativity situationrelativistic mass varying
+
+formula replaced relativistic case
+vec fgamma vec agamma fracvec cdot vec
+ac vec 
+seen equation ordinary force acceleration vectornecessarily parallel relativity
+
+however fourvector expression relating fourforce fmuinvariant mass fouracceleration amu restorsequation form
+
+fmumamu
+
+geometry spacetime
+
+sr flat dimensional minkowski space examplespacetime space however similar standard 
+dimensional euclidean space fortunately fact easywork
+differential distanceds cartesian space defined
+dsdxdxdx
+
+dxdxdx differential three spatial
+dimension geometry special relativity fourth dimension
+time added unit equationdifferential distance becomes
+
+dsdxdxdxc 
+wished make time coordinate look like space
+coordinate could treat time imaginary xictincase equation becomes symmetric
+
+dsdxdxdxdx
+
+suggests fact profound theoretical insightshow special relativity simply rotational symmetryspacetime similar rotational symmetry euclidean space
+euclidean space euclidean metric spacetime usminkowski metric according misnerultimatelydeeper understanding special general relativity come
+study minkowski metric described ratherdisguised euclidean metric using ict time coordinate
+
+reduce spatial dimension toso representphysic space
+
+dsdxdxc 
+see null geodesic lie along dualcone
+
+imagesrjpg
+
+defined equation
+
+dsdxdxc 
+
+dxdxc 
+equation circle rcdt extendthree spatial dimension null geodesic dimensional
+cone
+
+imagesrjpg
+
+dsdxdxdxc 
+dxdxdxc 
+null dualcone represents line sight point space
+look star say light star
+receiving year old looking linesight null geodesic looking event 
+sqrtxxx meter away second pastreason null dual cone also known light conepoint lower left picture represents starorigin represents observer line represents null
+geodesic line sight
+
+imagesrjpg
+
+cone region information pointreceiving cone section informationpoint sending
+
+geometry minkowski space depicted using minkowski
+diagram also useful understanding manythoughtexperiments special relativity
+
+physic spacetime
+
+see write equation special relativitymanifestly invariant form position event spacetimegiven contravariant four vector whose component
+xnuleftt zright
+
+xt xy superscriptcontravariant index section rather exponent exceptindicate square subscript covariant index also
+range zero three spacetime gradient field 
+
+partial phifracpartial phipartial quad
+partial phifracpartial phipartial quad
+partial phifracpartial phipartial quad
+partial phifracpartial phipartial 
+metric tranformations coordinates
+
+recognised fourdimensional nature spacetimedriven employ minkowski metricgiven component validinertial reference frame
+etaalphabetabeginpmatrix endpmatrix
+
+reciprocal
+etaalphabetabeginpmatrix endpmatrix
+
+recognise coordinate transformation inertial
+reference frame given lorentz transformation tensorfor
+special case motion along xaxis
+lambdamunubeginpmatrix gammabetagammac 
+betagamma cgamma
+endpmatrix
+
+simply matrix boost like rotation coordinate whereindicates row andindicatescolumn alsoandare defined
+betafracvc gammafracsqrtbeta
+
+generally transformation one inertial frame ignoring
+translation simplicity another must satisfy
+
+etaalphabetaetamunu lambdamualpha
+lambdanubeta 
+
+implied summation muand nufromto 
+righthand side accordance einstein summation
+convention poincar group general grouptransformation preserve minkowski metricphysical symmetry underlying special relativity
+
+proper physical quantity given tensor transform
+one frame another use well known tensor transformation
+law
+
+tleftiiiprightleftjjjqrigh
+
+lambdaiilambdaiilambdaip
+ip
+lambdajjlambdajjlambdajq
+jq
+tleftiiiprightleftjjjqright
+
+lambdajkjkis reciprocal matrixlambdajkjk
+
+see useful transform position eventunprimed coordinate system primed system calculate
+
+beginpmatrix z endpmatrix 
+xmulambdamunu xnu beginpmatrix gamma 
+betagammacbetagamma cgamma
+endpmatrix beginpmatrix z endpmatrixbeginpmatrix gamma gammabeta
+xc gamma xbeta gamma cty endpmatrix
+
+lorentz transformation given tensor transform
+rule
+
+squared length differential position fourvector
+dxmuconstructed using
+
+mathbfdxetamunudxmu dxnuc cdot
+dtdxdydz
+
+invariant invariant mean take valueinertial frame scalarrank tensorappears trivial transformation notice line
+element mathbfdx negative dtausqrtmathbfdxc
+differential proper time mathbfdxpositive sqrtmathbfdx differential proper distance
+
+primary value expressing equation physic tensor
+form manifestly invariant poincar
+group special tedious calculation
+check fact also constructing equation often find
+equation previously thought unrelated fact closely
+connected part tensor equation
+
+velocity acceleration
+recognising physical quantity tensor also simplifiestransformation law first note velocity fourvector ugiven
+umufracdxmudtaubeginpmatrix gammagamma
+vxgamma vygamma endpmatrix
+
+recognising turn awkward looking law composition
+velocity simple statement transforming velocity
+fourvector one particle one frame another also hainvariant form
+
+mathbf uetanumu unu umuc 
+
+velocity fourvectors magnitude cexpression fact thingcoordinate rest relativity least always moving
+forward time acceleration vector given amu 
+dmathbf umudtaugiven differentiating equation
+byproduces
+
+etamunuamu unu
+
+relativity acceleration fourvector velocity
+vector orthogonal
+
+momentum
+momentum energy combine covariant vector
+
+pnum cdot etanumu umubeginpmatrix 
+px pzendpmatrix
+
+invariant mass
+
+invariant magnitude momentum vector
+mathbfpetamunupmu pnuecp 
+
+work invariant first arguing sincescalar doesnt matter reference frame calculatetransforming frame total momentum zero
+
+mathbfperestcm cdot 
+
+see rest energy independent invariant rest energy
+calculated even particle system motiontranslating frame momentum zero
+
+rest energy related mass according celebrated
+equation discussed
+erestm 
+note mass system measured centre momentum
+frame total momentum zero given total energysystem frame may equal sum individual
+system mass measured frames
+
+force
+use newton third law motion force must definedrate change momentum respect time coordinate
+requires force defined unfortunatelytensor contains component force vector
+among components
+
+particle traveling one transform force
+particle comoving reference frame observers
+reference frame yield vector called fourforcerate change energy momentum fourvectorrespect proper time covariant version fourforce
+fnufracd pnud taubeginpmatrix taud pxd taud pyd taud pzd
+tau endpmatrix
+
+tauis proper time
+
+rest frame object time component four force
+zero unless theinvariant mass object changingcase negative rate change time general
+though component four force equalcomponent threeforce three force definedrate change momentum respect coordinate time fracd four force defined rate change
+momentum respect proper time fracd tau 
+
+continuous medium density force combinedensity power form covariant vector spatial partresult dividing force small cell space volume
+cell time component negative power
+transferred cell divided volume cellused section electromagnetism
+
+relativity unifying electromagnetism
+
+lorentz transformation electric field moving charge
+nonmoving observer reference frame result appearance
+mathematical term commonly called magnetic field conversely
+magnetic field generated moving charge disappears becomes
+purely electrostatic field comoving frame reference
+maxwell equation thus simply empirical fit special
+relativistic effect classical model universe electric
+magnetic field reference frame dependent thus intertwined
+one speaks electromagnetic field special relativity providestransformation rule electromagnetic field one inertial
+frame appears another inertial frame
+
+electromagnetism
+maxwell equation form already consistentphysical content special relativity must rewritemake manifestly invariant
+
+charge density rhoand current density jxjyjzare
+unified currentcharge vector
+
+jmubeginpmatrix rhojx jzendpmatrix
+
+law charge conservation becomes
+
+partialmu jmu
+
+electric field exeyezand magnetic induction
+bxbybzare unified rankantisymmetric
+covariant electromagnetic field tensor
+
+fmunubeginpmatrixexeyezex
+bzbyeybzbxezbybx
+endpmatrix
+
+density lorentz force fmuexerted matterelectromagnetic field becomes
+
+fmufmunujnu 
+
+faraday law induction gauss law magnetism combineform
+
+partiallambda fmunu partial fnu lambda
+partialnu flambda 
+although appear beequations actually reducesfour independent equation using antisymmetryelectromagnetic field one either reduce identityor
+render redundant equation except witheither
+ororor 
+
+electric displacement dxdydzand magnetic field
+hxhyhzare unified rankantisymmetric
+contravariant electromagnetic displacement tensor
+
+mathcaldmunubeginpmatrixdxdydz 
+dxhzhydyhzhxdzhy 
+hxendpmatrix
+
+ampere law gauss law combine form
+
+partialnu mathcaldmu nujmu 
+
+vacuum constitutive equation
+mu mathcaldmunuetamualpha etanubeta
+falphabeta
+
+antisymmetry reduces theseequations six independent
+equations
+
+energy density electromagnetic field combine poynting
+vector maxwell stress tensor form stressenergy
+tensor flux density momentum vector rank
+mixed tensor
+talphapifalphabeta mathcaldpibeta 
+frac deltaalphapi fmunu mathcaldmunu
+
+deltaalphapi kronecker delta upper indexlowered withit becomes symmetric part sourcegravitational field
+
+conservation linear momentum energy electromagnetic
+field expressed
+fmupartialnu tmunu
+
+fmuis density lorentz force equation
+deduced equation considerable effort
+
+status
+
+special relativity accurate gravitational potentialmuch c strong gravitational field one must use
+general relativity becomes special relativity limitweak field small scale planck lengthquantum effect must taken consideration resultingquantum gravity however macroscopic scale absencestrong gravitational field special relativity experimentally
+tested extremely high degree accuracyand thus accepted
+physic community experimental result appearcontradict reproducible thus widely believeddue experimental errors
+
+freedom one select one defines unitlength time physic possible make one two
+postulate relativity tautological consequence definitions
+one cannot postulate simultaneouslycombined consequence independent one choice
+definition length time
+
+special relativity mathematically selfconsistentorganic part modern physical theory notably quantum
+field theory string theory general relativity limiting
+case negligible gravitational fields
+
+newtonian mechanic mathematically follows special relativitysmall velocity compared speed lightthus newtonian
+mechanic considered special relativity slow moving
+body see status special relativity detailed
+discussion
+
+key experiment mentioned led special relativity
+troutonnoble experiment showed torque capacitor
+independent position inertial reference framesuch
+experiment led first postulate
+famous michelsonmorley experiment gave supportpostulate detecting absolute reference velocity waachievable stated contrary many
+alternative claim said little invariancespeed light respect source observer velocity
+source observer travelling togethervelocity times
+
+number experiment conducted test special relativity
+rival theory include
+kaufman experimentelectron deflection exact accordancelorentzeinstein prediction
+hamar experimentno ether flow obstruction
+kennedythorndike experimenttime dilation accordancelorentz transformations
+rossihall experimentrelativistic effect fastmoving
+particle halflife
+experiment test emitter theory demonstrated speedlight independent speed emitter
+
+addition particle accelerator run almost every day somewhereworld routinely accelerate measure propertyparticle moving near lightspeed many effect seen particle
+accelerator highly consistent relativity theorydeeply inconsistent earlier newtonian mechanics
+

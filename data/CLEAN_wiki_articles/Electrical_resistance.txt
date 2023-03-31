@@ -1,0 +1,176 @@
+copyright
+
+electrical resistance
+
+ school wikipedia selection related subject electricityelectronics
+
+k resistor identified electronic color codemultimeter could used verify value
+k resistor identified electronic colour codemultimeter could used verify value
+
+electrical resistance measure degree object
+opposes electric current unit electrical
+resistance ohm reciprocal quantity electrical
+conductance measured siemens electrical resistance shareconceptual parallel mechanical notion friction
+
+resistance object determines amount currentobject given voltage across object
+
+ifracvr
+
+
+r resistance object usually measured ohms
+equivalent jsc
+v voltage across object usually measured volts
+current object usually measured amperes
+
+wide variety material condition electrical
+resistance doe depend amount currentamount voltage across object resistance rconstant
+
+resistive loss
+
+current object resistance electrical energy converted heat ratepower equal
+pi cdot 
+
+
+p power measured watts
+
+current measured amperes
+
+r resistance measured ohms
+
+energy conversion useful application incandescent
+lighting electric heating considered lossapplication power transmission ideally conductor used
+connect electrical device together zero resistancereality superconductors achieve ideal common waycombat resistive loss conductor include using thicker wirehigher voltages
+
+resistance conductor
+
+dc resistance
+
+long current density totally uniform conductordc resistance conductor regular cross section computed
+
+rl cdot rho 
+
+
+l length conductor measured meters
+
+crosssectional area measured square meters
+
+greek rho electrical resistivity also called
+specific electrical resistance material measured ohm
+meter resistivity measure material abilityoppose flow electric current
+
+practical reason almost connection real conductoralmost certainly mean current density totally uniform
+however formula still provides good approximation long thin
+conductor wires
+
+ac resistance
+
+wire conduct highfrequency alternating currenteffective cross sectional area wire reducedskin effect
+
+formula applies isolated conductor conductor closeothers actual resistance higher proximity
+effect
+
+cause resistance
+
+metals
+
+metal consists lattice atom shell electrons
+also known positive ionic lattice outer electrons
+free dissociate parent atom travellattice creating sea electron making metal conductor
+electrical potential difference voltage applied across
+metal electron drift one end conductorinfluence electric field
+
+metal thermal motion ion primary sourcescattering electron due destructive interference free
+electron wave noncorrelating potential ionsthus prime
+cause metal resistance imperfection lattice also contribute
+resistance although contribution pure metalnegligible
+
+larger crosssectional area conductorelectron available carry current lowerresistance longer conductor scattering event occur
+electron path material higherresistance
+
+semiconductor insulators
+
+metal fermi level lie conduction band giving risefree conduction electron however semiconductor positionfermi level within band gap exactly half wayconduction band minimum valence band maximum intrinsic
+undoped semiconductor mean atkelvinfree conduction electron resistance infinite howeverresistance continue decrease charge carrier densityconduction band increase extrinsic doped semiconductors
+dopant atom increase majority charge carrier donating electrons
+conduction band accepting hole valence bandtype donor acceptor atom increasing dopant density leads
+reduction resistance highly doped semiconductor hence
+behave metallic high temperature contributionthermally generated carrier dominate contributiondopant atom resistance decrease exponentiallytemperature
+
+ionic liquidselectrolytes
+
+electrolyte electrical conduction happens band electronhole full atomic speciesions traveling carryingelectrical charge resistivity ionic liquid varies tremendously
+salt concentrationwhile distilled water almostinsulator salt water efficient electrical conductorbiological membrane current carried ionic salt small holes
+membrane called ion channel selective specific ions
+determine membrane resistance
+
+resistance various materials
+
+materialresistivity 
+ohmmeter
+metals
+semiconductor variable
+electrolytesvariable
+insulators
+
+band theory
+
+electron energy level insulator
+electron energy level insulator
+
+quantum mechanic state energy electron atom
+cannot arbitrary value rather fixed energy levels
+electron occupy value levelimpossible energy level grouped two band valence
+band conduction band latter generallyformer electron conduction band may move freely throughout
+substance presence electrical field
+
+insulator semiconductor atom substance influence
+valence band conduction band
+exists forbidden band energy level electrons
+cannot occupy order current flow relatively large
+amount energy must furnished electron leap across
+forbidden gap conduction band thus large voltages
+yield relatively small currents
+
+differential resistance
+
+resistance may depend voltage current differential
+resistance incremental resistance slope resistance definedslope graph particular point thus
+
+rfrac mathrmdu mathrmdi 
+
+quantity sometimes called simply resistance although two
+definition equivalent ohmic component ideal
+resistor graph monotonic ha peaktrough differential resistance negative values
+voltage current property often known negative
+resistance although correctly called negative differential
+resistance since absolute resistance still positive
+
+temperaturedependence
+
+near room temperature electric resistance typical metal
+conductor increase linearly temperature
+
+rrat
+
+thermal resistance coefficient
+
+electric resistance typical intrinsic non doped
+semiconductor decrease exponentially temperature
+
+r eat
+
+extrinsic doped semiconductor far complicated
+temperature profile temperature increased starting absolute
+zero first decrease steeply resistance carrier leave
+donor acceptor donor acceptorlost carrier resistance start increase slightly
+due reducing mobility carrier much metalhigher temperature behave like intrinsic semiconductorcarrier donorsacceptors become insignificant comparedthermally generated carriers
+
+electric resistance electrolyte insulator highly
+nonlinear case case dependent therefore generalized
+equation given
+
+frequency dependent resistance
+
+wire resistance increase rate dbdecade wire radius much
+greater skin depth
+

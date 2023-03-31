@@ -1,0 +1,367 @@
+copyright
+
+automatic number plate recognition
+
+ school wikipedia selection related subject road transport
+
+
+featured article click information
+system must able deal different style licence plates
+enlarge
+system must able deal different style licence plates
+
+automatic number plate recognition anpr see also namemass surveillance method optical character recognition
+image read licence plate vehicle ofsystems
+scan number plate around one per second car travellingtomphkmh use existing closedcircuit television
+roadrule enforcement camera one specifically designedtask used various police force methodelectronic toll collection payperuse road monitoring traffic
+activity red light adherence intersection
+
+anpr used store image captured camera welltext licence plate configurable storephotograph driver system commonly use infrared lightingallow camera take picture time day powerful
+flash included least one versionintersectionmonitoring camera serving illuminate picture
+make offender aware mistake anpr technology
+tends region specific owing plate variation placeplace
+
+software aspect system run standard hardwarelinked application database first seriesimage manipulation technique detect normalise enhanceimage number plate finally optical character recognition
+ocr extract alphanumerics licence plate anpralpr
+system generally deployed one two basic approach one
+allows entire process performed lane locationrealtime transmits image many laneremote computer location performs ocr processlater point time done lane site information
+captured plate alphanumeric datetime lane identificationinformation required completed somewhere around
+millisecond information small data packet easily
+transmitted remote computer processingnecessary stored lane later retrievalarrangement typically large number used server
+farm handle high workload found london
+congestion charge project often system requirement
+forward image remote server require larger
+bandwidth transmission mediums
+
+concern system centered privacy feargovernment tracking citizen movement medium reportmisidentification high error rate howeverdeveloped system become much accurate reliable
+
+names
+
+anpr sometimes known various terms
+automatic licence plate recognition alpr
+automatic vehicle identification avi
+car plate recognition cpr
+licence plate recognition lpr
+
+technology
+
+font dutch plate changed improve plate recognition
+font dutch plate changed improve plate recognition
+
+anpr optical character recognition ocr image takencamera dutch vehicle registration plate switched different
+style inone change made font introducing
+small gap letter r make distinct
+therefore legible system licence plate
+arrangement use variation font size positioninganpr
+system must able cope difference order truly
+effective complicated system cope international
+variant though many program individually tailoredcountry
+
+camera used include existing roadrule enforcementclosedcircuit television camera well mobile unitusually attached vehicle system use infrared camera take
+clearer image plates
+
+algorithms
+
+stepsandthe licence plate normalised brightnesscontrast character segmented ready ocr
+enlarge
+stepsandthe licence plate normalised brightnesscontrast character segmented ready ocr
+
+six primary algorithm software requiresidentifying licence plate
+plate localisationresponsible finding isolatingplate picture
+plate orientation sizingcompensates skewplate adjusts dimension required size
+normalisationadjusts brightness contrast image
+character segmentationfinds individual characterplates
+optical character recognition
+syntacticalgeometrical analysischeck character positions
+country specific rules
+
+complexity subsection program determines
+accuracy system third phase normalisationsystem use edge detection technique increase picture
+difference letter plate backing median filter
+may also used reduce visual noise image
+
+difficulties
+
+number possible difficulty software mustable cope include
+poor image resolution usually plate far away
+sometimes resulting use lowquality camera
+blurry image particularly motion blur
+poor lighting low contrast due overexposure reflectionshadows
+object obscuring part plate quite often tow bardirt plate
+different font popular vanity plate countryallow plate eliminating problem
+circumvention techniques
+
+early anpr system unable read white silver letteringblack background permitted vehicle built prior 
+enlarge
+early anpr system unable read white silver letteringblack background permitted vehicle built prior 
+
+problem corrected within softwareprimarily left hardware side system work solutions
+difficulty increasing height camera may avoid
+problem object vehicle obscuring plateintroduces increase problem adjustingincreased skew plate
+
+many country use licence plate retroreflectivethis
+return light back source thus improves contrastimage country character platereflective giving high level contrast reflective
+background lighting condition camera make useinfrared imaging normal colour filter lensinfrared lightsource next benefit greatlyinfrared wave reflected back plate possible
+dedicated anpr camera however camera usedpurpose must rely heavily software capabilityfullcolour image required well useanprretrieved detail necessary one infraredenabled
+camera one normal colour camera working together
+blurry image make ocr difficultanpr system fast
+shutter speed avoid motion blur
+enlarge
+blurry image make ocr difficultanpr system fast
+shutter speed avoid motion blur
+
+avoid blurring ideal shutter speed dedicated
+camera set second car moving slower
+speed could result image blurred read usingocr software especially camera much highervehicle slowmoving traffic camera lower level
+vehicle angle approaching camera shutter
+speed doe need fast shutter speed ofcan cope
+traffic moving tomphkmh andup tomph 
+kmh
+
+car towbars may obscure one two character licence
+plate bike bike rack also obscure number plate thoughcountry jurisdiction new south wale bike
+plate supposed fitted
+
+smallscale system allow error licence plate
+used giving specific vehicle access barriered areadecision may made acceptable error rate one character
+likelihood unauthorised carsimilar licence plate seen quite small however levelinaccuracy would acceptable application anpr
+system
+
+circumvention techniques
+
+vehicle owner used variety technique attempt evade
+anpr system roadrule enforcement camera general one method
+increase reflective property lettering makelikely system unable locate plate producehigh enough level contrast able read typically
+done using plate cover spray though claim regardingeffectiveness latter disputed jurisdictioncover illegal covered existing lawcountry law disallow use sprays
+
+thetoll route ontario canada police caught several
+advanced technique motorist attempted one driversetup allowed lift wire driver seatwould show different plate cruising camera
+zone user attempted smear licence platedirt utilise cover mask plate
+
+novelty frame around texas licence plate made illegal 
+septemberby senate billbecause caused problemanpr device law made class misdemeanour punishablefine class punishable fineu anddays jail proven ownerdeliberately obscure plates
+
+custom car rear panel inset licence
+plate angle change alignment character relative
+reading grid since state longer require new
+plate year perhaps easiest way disable recognitionsimply allow reflective paint plate become degraded
+age therefore unreadable
+
+anpr system cannot read plate flag imageattention human operator looking see ableidentify alphanumerics possible lookupdatabase using wildcard character part plate obscured
+use car detail make model example refine search
+
+order avoid surveillance penalty charge haupsurge car cloning particularly london usually
+achieved copying registration plate another car similar
+model age difficult detect especially cloners
+may change registration plate travel behaviour hinder
+investigations
+
+police enforcement
+
+closedcircuit television camera used takeimage scanned automatic number plate recognition systems
+enlarge
+closedcircuit television camera used takeimage scanned automatic number plate recognition systems
+
+licence plate identifiedcrossreferenced police database primary objectiveidentify vehicle stolen used crimeviolation law system also linkedinsurance database monitor vehicle currently insured
+
+onnovemberbritish police constable sharon beshenivskyshot killed robbery bradford cctv networklinked anpr system able identify getaway car
+track movement leading arrest six suspectlaunch may supt geoff dodd west yorkshire police calledanpr system revolutionary tool detecting crime
+
+glutton system northern ireland
+
+ina system one hundred anpr camera codenamed gluttoninstalled feed automated british military intelligence
+system northern ireland camera also installedbritish mainland including unspecified port east west
+coasts
+
+project laser united kingdom
+
+marchplans announced set nationwide systemoverautomatic number plate recognition camera united
+kingdom starting inbritain become first countryevery journey every vehicle monitored recorded
+
+followed successful rollout project spectrumpolice force england wale supplied home office
+anpr capable mobile unit back office subsequent
+series trial commenced inwhen vehicleoperator service agency vosa given funding home officework police standard unit develop project laser using
+equipment supplied project spectrum aim running
+anpr system nationwide initially trialled nine police
+force ran betweenseptemberand marchthose police
+forcegreater manchester
+north wales
+avon somerset
+northamptonshire
+metropolitan police service
+kent
+west yorkshire
+staffordshire
+west midlands
+
+second phase project ran betweenjuneandjune
+involvedpolice force total dvla also involved
+project laser using system gather detail unregistered
+unlicensed vehicle without valid mot certificateinsurance cover
+
+eventually database link cctv system town
+centre meaning vehicle filmed one many cameras
+protecting bedford high street instance checkeddatabase movement wanted car traced helpserious crime investigations
+bedfordshire police
+
+project seen success despite home office report showing
+driver vehicle licensing agency dvla trial error
+rate towith claim system contributing
+
+excess ofarrests per officer per yearten timenational average
+police standard unit
+
+finding went show error rate dropped towhen
+infrared system updated software used
+
+second phase project aroundmillion number plates
+spotted total withmillionof matchingentry one databasesvehicles stopped 
+directly anpr system leading toarrests 
+total issue offinesstolen
+vehicle worthmillion totalworth drugworth stolen good also recovered primary goalsecond phase however see well cost anpr
+system could covered final conclusion le thanof
+expenditure incurred recouped home office claiming
+failure driver pay fine contributed low
+figure continued recommend system deployed throughout
+uk report pdf
+
+funding place construction national anpr data
+centre capable holdingmillion anpr read per daycomplete marchand form basis vehicle movement
+database 
+
+suggestion use network could extended
+catch driver using mobile phone illegally failingwear seat belt 
+
+spec cameras
+
+another use anpr speed camera worktracking vehicle travel time two fixed point therefore
+calculate average speed currently systemaccepted reliable court spec brand cameras
+claimed advantage traditional speed cameramaintaining steady legal speed extended distance ratherencouraging heavy braking approach specific camera locationsubsequent acceleration back illegal speed accident ratetended reduced substantially place spec camerainstalled however significantly expensivetraditional cameras
+
+longest stretch spec camera found road
+scotland withmiles monitored glasgow ayr
+
+traffic control
+
+many city district developed traffic control systemhelp monitor movement flow vehicle around road network
+typically involved looking historical data estimates
+observation statisticcar park usage
+pedestrian crossing usage
+number vehicle along road
+area low high congestion
+frequency location cause road works
+
+cctv camera used help traffic control centre givinglive data allowing traffic management decision maderealtime using anpr footage possible monitortravel individual vehicle automatically providing information
+speed flow various route detail highlight
+problem area occur help centre make
+informed incident management decisions
+
+county united kingdom worked siemens trafficdevelop traffic monitoring system control centrepublic project hampshire county council romanse
+provide interactive realtime web site showing detailtraffic city site show information car parks
+ongoing road work special event footage taken cctv cameras
+anpr system used provide average driving time along
+particular route giving driver ability choose onetake romanse also allows traveller see current situation using
+mobile device internet connection wap gprs thus allowing alerted problem ahead
+
+uk company trafficmaster used anpr sinceto estimate
+average traffic speed nonmotorway road without resultskewed local fluctuation caused traffic light similarcompany operates network overanpr camerasbut claims
+four central digit identifiednumberplate data retained 
+
+electronic toll collection
+
+toll roads
+
+fastrak system orange county anpr radio transponders
+enlarge
+fastrak system orange county anpr radio transponders
+
+ontariosetr highway combination anpr radio
+transponder toll vehicle entering exiting road radio
+antenna located junction detect transponders
+logging unique identity vehicle much wayanpr system doe without anpr second system wouldpossible monitor traffic driver opt renttransponder per month charged video toll
+charge using road heavy vehiclegross weight overkg required use one using either
+system user highway notified usage charge post
+
+numerous electronic toll collection network use
+combination radio frequency identification anprinclude
+citylink melbourne australia
+fastrak california united states
+highwayin israel
+tunnel hong kong
+autopista central santiago chile site spanish
+ezpass new york new jersey massachusetts fast lanestates
+pike pas oklahoma
+
+charge zonesthe london congestion charge
+
+london congestion charge scheme two hundred thirty cameras
+anpr help monitor vehicle charging zone
+enlarge
+london congestion charge scheme two hundred thirty cameras
+anpr help monitor vehicle charging zone
+
+london congestion charge example system charges
+motorist entering payment area transport london tfl anpr
+system charge motorist daily fee ofpaid pmenter leave move around within congestion charge zone
+betweenam andpm monday friday fine travelling
+within zone without paying charge areper infractionpaid deadline doubling toper infraction thereafter
+
+two hundred thirty cctvstyle camera whichare installed
+edge zone currently use thecameras within
+zone intended pick car missed entry andor
+exit well moving solely within zonealso number mobile camera unit may deployed anywhere
+zone
+
+estimated aroundof vehicle moving within zonecaught camera video stream transmitted data centre
+located central london anpr software deducesregistration plate vehicle second data centre providesbackup location image data
+
+front back number plate captured vehicle going
+outthis give four chance capture number
+plate vehicle entering exiting zone listcompared list car whose ownersoperators paid enter
+zonethose paid fined registered ownervehicle looked database provided dvlagovernment investigation found significant portiondvlas database incorrect furthermore car owners
+reponsibility report dvla sell car
+
+controversy
+
+introduction anpr system led fear misidentification
+furthering style surveillancein united states
+gregg easterbrook oppose call machineissue speeding ticket redlight ticket beginningslippery slope towards automated justice system
+
+machine classifies person offender cant
+confront accuser accuserwise establish principle machine saysomething illegal presumed guilty
+
+similar criticism raised country easterbrook
+also argues technology employed maximise revenuestate rather promote safety
+
+fallibility older system alarming one criticlondon congestion charge scheme noting misread plate misread
+plate appeared screenof everythat appeared least four
+incorrect lead charge made incorrectlyvehicle owner payin order issued proof
+offence improvement technology drastically
+decreased error rate false accusation still frequent enough
+problem
+
+concern include storage information could usedidentify people store detail driving habit daily
+life contravening data protection act along similar
+legislation see personally identifiable information lawuk strict system cctv footage identify
+individuals
+
+uses
+
+anpr system may also used forby
+section control measure average vehicle speed longer
+distances
+border crossings
+filling station log driver drive away without paying
+car park road entry system control access
+marketing tool log pattern use
+traffic management system determine traffic flow usingtime take vehicle pas two anpr sites
+traffic management system determine traffic flow usingtime take vehicle pas two anpr sites
+anpr used
+anpr used
+
+retrieved 
+httpenwikipediaorgwikiautomaticnumberplaterecognition
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

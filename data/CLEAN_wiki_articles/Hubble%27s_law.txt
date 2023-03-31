@@ -1,0 +1,190 @@
+copyright
+
+hubble law
+
+ school wikipedia selection related subject space astronomy
+
+physical cosmology
+
+age universe
+big bang
+blueshift
+comoving distance
+cosmic microwave background
+dark energy
+dark matter
+flrw metric
+friedmann equations
+galaxy formation
+hubble law
+inflation
+largescale structure
+lambdacdm model
+metric expansion space
+nucleosynthesis
+observable universe
+redshift
+shape universe
+structure formation
+timeline big bang
+timeline cosmology
+ultimate fate universe
+universe
+
+related topics
+astrophysics
+general relativity
+particle physics
+quantum gravity
+
+
+hubble law statement physical cosmology redshift
+light coming distant galaxy proportionaldistance law first formulated edwin hubble milton
+humason inafter nearly decade observation considered
+first observational basis expanding space paradigmtoday serf one often cited piece evidencesupport big bang recent calculation constant
+using satellite wmap began inyielding valuekm mpc thedata figure refined 
+kmsmpc
+
+discovery
+
+decade hubble made observation numberphysicist mathematician established consistent theoryrelationship space time using einstein field
+equation general relativity applying general principlequestion nature universe yielded dynamic solution
+conflicted prevailing notion static universe
+
+however scientist continued pursue dynamical universe
+discovered could characterized metric cameknown discoverer namely friedmann lematre robertson
+walker metric applied einstein equationsocalled friedmann equation emerged characterized expansion
+universe based parameter known today scale factor
+considered scale invariant form proportionality
+constant hubble law idea expanding spacetime would
+eventually lead big bang steady state theories
+
+advent modern cosmology considerable talkwa size shape universe ina famous debate
+took place harlow shapley heber curtisissue shapley arguing small universe size milky
+way galaxy curtis arguing universe much largerissue would resolved coming decade hubble improved
+observations
+edwin hubble
+enlarge
+edwin hubble
+
+edwin hubble professional astronomical observing work
+mount wilson observatory time world powerful
+telescope observation cepheid variable star spiral nebulae
+enabled calculate distance object surprisingly
+object discovered distance placed well
+outside milky way nebula first described island
+universe later moniker galaxy wouldapplied
+combining measurement galaxy distance vesto sliphers
+measurement redshift associated galaxy hubble
+discovered rough proportionality object distanceredshift though considerable scatter known due
+peculiar velocity hubble able plot trend linegalaxy studied obtained value hubble constantkm mpc much higher currently accepted value
+due error distance calibration error determining
+distance continue plague modern astronomer see articlecosmic distance ladder details
+
+inthe first good estimate hkmsmpc publishedallan sandage would decade consensus achieved
+see measuring hubble constant
+hubble discovery published albert einstein abandonedwork cosmological constant designed allowstatic solution equation would later term workgreatest blunder since belief static universe waprevented predicting expanding universe einstein would
+make famous trip mount wilson thank hubbleproviding observational basis modern cosmology
+
+interpretation
+
+discovery linear relationship recessional velocity
+distance yield straightforward mathematical expressionhubble law follows
+
+vhd
+
+v recessional velocity due redshift typically
+expressed h hubble constant correspondsvalue often termed hubble parameter valuetime dependent friedmann equation taken timeobservation denoted subscriptthis valuethroughout universe given conformal time proper
+distance light traveled galaxy rest frame
+observer measured mega parsec mpc
+
+relatively nearby galaxy velocity estimatedgalaxy redshift using formula vzc speed
+light far away galaxy determined redshift
+z using relativistic doppler effect however best waycalculate recessional velocity associated expansion ratespacetime considering conformal time associatedphoton traveling distant galaxy distant object larger violation special relativity
+however metric expansion associated physical
+object velocity
+
+using hubble law determine distance velocity dueexpansion universe used since gravitationally
+interacting galaxy move relative independentexpansion universe relative velocity called peculiar
+velocity need accounted applying hubble law finger
+god effect one result phenomenon discovered inby
+benjamin kenneally system gravitationally boundgalaxy planetary system subject hubble lawexpand
+
+mathematical derivation idealized hubble lawuniformly expanding universe fairly elementary theorem geometry
+dimensional cartesiannewtonian coordinate spaceconsidered metric space entirely homogeneous isotropic
+property vary location direction simply statedtheorem
+two point moving away origin along
+straight line speed proportional distanceorigin moving away speed
+proportional distance apart
+
+ultimate fate universe age universedetermined measuring hubble constant today extrapolating
+observed value deceleration parameter uniquely
+characterized value density parametersa socalled closed
+universecomes end big crunch considerably
+younger hubble age open universeexpands forever
+ha age closer hubble age accelerating
+universe inhabit age universe coincidentally
+close hubble age
+enlarge
+ultimate fate universe age universedetermined measuring hubble constant today extrapolating
+observed value deceleration parameter uniquely
+characterized value density parametersa socalled closed
+universecomes end big crunch considerably
+younger hubble age open universeexpands forever
+ha age closer hubble age accelerating
+universe inhabit age universe coincidentally
+close hubble age
+
+value hubble parameter change time either increasingdecreasing depending sign socalled deceleration
+parameter defined
+qhleftdhoverdth right
+
+universe deceleration parameter equal zero follows
+ht time since big bang nonzero
+timedependent value simply requires integration friedmann
+equation backwards present time time comoving
+horizon size zero
+
+may define hubble age also known hubble timehubble period universe ormillion
+yearshkmsmpc hubble age come tomillion yearh kmsmpc ormillion year kmsmpc distance
+galaxy approximately zch small redshift zexpressing aslightyear per year distance expressed
+simply timesmillion lightyears
+
+wa long thought wa positive indicating expansion
+slowing due gravitational attraction would implyage universe h aboutmillion
+year instance value ofone theoretical
+possibility would give age universe hdiscovery inthat apparently negative mean universe
+could actually older fact independent estimateage universe come fairly close 
+olbers paradox
+
+expansion space summarized big bang interpretationhubble law relevant old conundrum known olbers paradox
+universe infinite static filled uniform
+distribution star every line sight sky would endstar sky would bright surface star
+however night sky largely dark since astronomers
+thinker proposed many possible way resolveparadox currently accepted resolution depends part uponbig bang theory universe exists finite amount time
+light finitely many star chance reach yet
+paradox resolved additionally expanding universe
+distant object recede cause light emanatingredshifted diminished brightnesspartially resolve paradox according big bang theoryeffect contribute finite duration universe historyimportant two darkness night skyprovides kind confirmation big bang
+
+measuring hubble constant
+
+second half century value hestimated betweenandkmsmpc value hubble
+constant topic long rather bitter controversygrard vaucouleurs claimed value wasand allan sandage
+claimed value wasina debate moderated john
+bahcall gustav tammann sidney van den bergh heldsimilar fashion earlier shapleycurtis debate two
+competing value difference partially resolvedintroduction lambdacdm model universe latemodel observation highredshift cluster xraymicrowave wavelength using sunyaevzeldovich effect measurements
+anisotropy cosmic microwave background radiationoptical survey gave value aroundfor constantparticular hubble key project led wendy freedman
+carnegie observatory gave accurate optical determinationmaywith final estimate ofkmsmpc consistentmeasurement based upon sunyaevzeldovich effect observations
+many galaxy cluster similar accuracy highest accuracy
+cosmic microwave background radiation determination 
+kmsmpc wmap inandkmsmpcfor
+measurement towithparsec approximated times
+meter metric system time 
+msm hertz consistency measurement three
+method lends support measured value hlambdacdm model
+
+value wa measured standard candle observation type supernova determined negative impliedsurprise many astronomer expansion universecurrently accelerating although hubble factor still
+decreasing time see article dark energylambdacdm model
+
+augustusing nasa chandra xray observatory teamnasa marshall space flight centre msfc found hubble constantbekilometers per second per megaparsec megaparsec equalmillion light year uncertainty 
+spaceflightnowchandra independently determines hubble constant

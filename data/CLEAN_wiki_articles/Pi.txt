@@ -1,0 +1,612 @@
+copyright
+
+pi
+
+ school wikipedia selection related subject mathematics
+
+lowercasethe lower case letter used constant
+circle diameter isits circumference 
+enlarge
+circle diameter isits circumference 
+
+mathematical constantis irrational real number approximately
+equal towhich ratio circle circumferencediameter euclidean geometry many mathematics
+physic engineering also known archimedes constantconfused archimedes number ludolphs number
+
+letter 
+
+name greek letteris spelling usedtypographical context greek letter availableusage could problematic referring constantsymbolis always pronounced like pie english conventional
+english pronunciation letter
+
+constant namedbecause first letter greek
+wordsperiphery andperimeter circumference
+
+unicode character ucgreek small letter 
+definition
+
+area circlearea shaded square
+enlarge
+area circlearea shaded square
+
+euclidean plane geometryis defined either ratiocircle circumference diameter ratio circles
+area area square whose side radius constant 
+may defined way avoid concept arc lengtharea example twice smallest positive xcosxthe formul illustrate equivalent
+definitions
+
+numerical value
+
+numerical value oftruncated todecimal place
+
+
+thedigits given circumference circlewould fit observable universe ignoring curvature space
+could computed error size proton
+nevertheless exact value ofhas infinite decimal expansion
+decimal expansion never end doe repeat sinceisirrational number indeed transcendental number infinite
+sequence digit fascinated mathematician layman alikemuch effort last century put computing
+digit investigating number property despite much
+analytical work supercomputer calculation determined
+overtrillion digit ofno simple pattern digit ever
+found digit ofare available many web pagesoftware calculatingto billion digit personal
+computer see history numerical approximation 
+
+calculating 
+
+formula given calculating digit ofhave desirable
+mathematical property may difficult understand withoutbackground trigonometry calculus nevertheless possible
+computeusing technique involving algebra geometry
+
+example
+
+pi 
+fracfracfracfracfrac
+
+
+series easy understand impractical useconverges tovery slowly requires thantermsnarrow value totwo place billion term achieve
+accuracy ten places
+
+one common classroom activity experimentally measuring valueinvolves drawing large circle graph paper measuringapproximate area counting number cell inside circle
+since area circle known
+api 
+derived using algebra
+
+piar
+
+process work mathematically well experimentallycircle radius drawn centre pointany
+point whose distance origin r fall inside
+circle pythagorean theorem give distance point
+xy centre
+
+dsqrtxy
+
+mathematical graph paper formed imagining square centered
+around point x integer r
+square whose centre resides inside circle countedtesting whether point 
+sqrtxyr
+
+total number point satisfying condition thus approximates
+area circle used calculateapproximation 
+
+mathematically formula written
+
+pi approx fracr sumxrrsumyrr
+bighbox sqrtxyr hbox otherwisebig
+
+word begin choosing value consider points
+xy integer r startingaddfor point whose distance originis ler finished divide sum representing area circleradius r find approximation ofcloser approximations
+produced using larger value 
+example set tothen points
+
+
+considered thepoints
+found inside circle approximate area isandis
+calculated approximatelyresults value rshown table
+rareaapproximation 
+
+
+
+
+
+
+
+
+
+similarly complex approximation ofgiven involve
+repeated calculation sort yielding closer closer
+approximation increasing number calculations
+
+properties
+
+constantis irrational number cannot written
+ratio two integer proven inby johann
+heinrich lambert
+
+furthermoreis also transcendental proven ferdinand von
+lindemann inthis mean polynomial rational
+coefficient whichis root important consequencetranscendence ofis fact constructiblecoordinate point constructed compassstraightedge constructible number impossible squarecircle impossible construct using compassstraightedge alone square whose area equal area given
+circle
+
+history
+
+use symbol 
+
+often william jones book new introduction mathematics 
+cited first text greek letterwas usedconstant notation became particularly popular leonhard
+euler adopted year latercf history 
+
+early approximations
+
+main article history numerical approximation 
+
+value ofhas known form since antiquity earlyth century babylonian mathematician using
+withinof true value
+
+egyptian scribe ahmes wrote oldest known text giveapproximate value forciting middle kingdom papyrus corresponding
+value ofdivided byor 
+
+sometimes claimed bible state thatbasedpassage inkingsgiving measurement round basinacubit diameter acubit circumference rabbi nehemiah
+explained diameter outside outsidecircumference inner brim give approximate valuemay suffice measurement given round
+number also basin may exactly circular thoughverse claim completely round nkj
+principle archimedes method approximate 
+enlarge
+principle archimedes method approximate 
+
+archimedes syracuse discovered considering perimetersided polygon inscribing circle inscribed thatis
+betweenandthe average two valueroughly 
+
+chinese mathematician liu hui computedtogood three
+decimal place adand suggested thatwas good
+approximation
+
+indian mathematician astronomer aryabhata century
+gave approximationcorrectrounded four decimal place also acknowledged factwa approximation quite advanced time period
+
+chinese mathematician astronomer chongzhi computedtobetweenandand gave two approximation 
+andin century
+
+indian mathematician astronomer madhava sangamagramath century computed value ofafter transforming power
+series expansion ofinto form
+
+pisqrtleftover
+cdotovercdot overcdot
+cdotsright
+
+using firstterms series compute rational
+approximation ofcorrect todecimal place asby
+adding remainder term original power series ofheable computeto accuracy ofdecimal places
+
+persian astronomer ghyath addin jamshid kashani 
+correctly computedtodigits base ofwhich equivalent
+todecimal digit
+
+
+bythe german mathematician ludolph van ceulen finished
+computing firstdecimal place ofit said waproud accomplishment inscribedtombstone
+
+inthe slovene mathematician jurij vega improved john machins
+formula fromand calculated firstdecimal place forof
+firstwere correct held world record foryears
+untilwhen william rutherford calculateddecimal placefirstwere correct
+
+english amateur mathematician william shank man independent
+mean spent overyears calculatingtodecimal places
+accomplished inind ferguson found shankmade mistake decimal place succeeding
+digit fallacious byferguson recalculated 
+decimal place aid mechanical desk calculator
+
+numerical approximations
+
+due transcendental nature ofthere closed form
+expression number term algebraic number functions
+formul calculatingusing elementary arithmetic invariably
+include notation aswhich indicates formulareally formula infinite sequence approximation tothe
+term included calculation closer tothe resultget none result beexactly
+
+consequently numerical calculation must use approximation offor
+many purposesoris close enough although engineer often
+usesignificant figure orsignificant figures
+precision approximationsandwithand 
+significant figure respectively obtained simple
+continued fraction expansion ofthe approximation 
+best one may expressed threedigit
+fourdigit numerator denominator
+
+earliest numerical approximation ofis almost certainly value
+case little precision required may acceptable
+substitute thatis underestimate follows factratio perimeter inscribed regular hexagondiameter circle
+
+improvement mentioned historical
+approximation done help computers
+
+formul
+
+geometry
+
+constantappears many formul geometry involving circles
+spheres
+geometrical shape formula
+circumference circle radius diameter cpi rpi
+area circle radius api rfrac 
+area ellipse semiaxes api 
+volume sphere radius diameter vfrac r 
+frac 
+surface area sphere radius diameter api rpi
+
+volume cylinder height radius vpi h 
+surface area cylinder height radius api pi rhpi rh 
+volume cone height radius vfrac r 
+surface area cone height radius api sqrtr 
+hpi rpi rsqrtrh 
+
+formula consequence formulacircumference example area circle radius raccumulated summing annulus infinitesimal width using integral
+aintr r drpi rthe others concern surfacesolid revolution
+
+also angle measure ofdegrees equal toradians
+
+analysis
+
+many formula analysis containincluding infinite seriesinfinite product representation integral socalled special
+functions
+area unit disc
+
+int sqrtxdxpi
+
+half circumference unit circle
+
+intfracdxsqrtxpi
+
+franois viteproof
+
+fracsqrt cdot fracsqrtsqrt cdot
+fracsqrtsqrtsqrt cdot cdotsfracpi
+
+leibniz formulaproof
+
+sumninfty fracnnfrac 
+fracfracfracfrac 
+cdotsfracpi
+
+wallis productproof
+
+prodninfty leftfracnn right
+nfrac cdot frac cdot
+frac cdot frac cdot frac cdot
+frac cdot frac cdot frac cdots 
+fracpi
+
+faster product see sondowand sondow web page
+
+leftfrac rightleft frac
+cdotrightleft frac cdotcdot
+rightleft frac cdotcdot
+cdotrightcdotsfracpi
+
+nth factor nth root product
+
+prodkn kkn choose 
+symmetric formula see sondow 
+
+frac displaystyle prodninfty left
+fracn right
+displaystylesumninfty frac 
+frac displaystyleleftfrac rightleft
+frac rightleftfrac right
+cdots displaystyle fracfrac 
+fraccdotspi
+
+baileyborweinplouffe algorithm see baileyand bailey web
+page
+
+sumkinftyfrackleftfrac 
+frac kfrac kfrac kright
+pi
+
+chebyshev series luke math tabl aid comp
+
+sumkinftyfracksqrtkk 
+fracpi
+sumkinftyfracksqrtkkf
+racpi
+
+integral formula calculus see also error functionnormal distribution
+
+intinftyinfty exdxsqrtpi
+
+basel problem first solved euler see also riemann zeta
+function
+
+zeta fracfracfrac 
+fraccdotsfracpi
+zeta fracfracfrac 
+fraccdotsfracpi
+generally rational multiple npositive integer 
+gamma function evaluated 
+
+gammaleft rightsqrtpi
+
+stirlings approximation
+
+n sim sqrt n leftfracnerightn
+
+euler identity called richard feynman remarkable
+formula mathematics
+
+ei 
+property euler totient function see also farey sequence
+
+sumkn phi sim fracnpi
+
+application residue theorem
+
+ointfracdzzpi 
+
+path integration closed curve aroundorigin traversed standard anticlockwise direction
+
+continued fractions
+
+besides simple continuedfraction representation
+display discernible patternhas many generalized
+continuedfraction representation generated simple rule
+including two
+
+fracpicfraccfraccfrac 
+cfraccfraccfrac 
+cfracddots
+
+picfraccfraccfraccfrac
+cfraccfracddots
+
+representation available wolfram function site
+
+number theory
+
+result number theory
+probability two randomly chosen integer coprime
+
+probability randomly chosen integer squarefree
+
+average number way write positive integer sum
+two perfect square order matter sign 
+
+probability average random taken limiting
+sense consider probability set integers
+n take limit approach infinity
+product ofp prime 
+
+theory elliptic curve complex multiplication derivesapproximation
+
+pi approx lnoversqrt
+
+valid aboutdigits
+
+dynamical system ergodic theory
+
+consider recurrence relation
+
+xixixi 
+
+almost every initial value unit interval 
+
+limn infty fracn sumin sqrtxi 
+fracpi
+
+recurrence relation logistic map parameter known dynamical system theory see also ergodic theory
+
+physics
+
+numberappears routinely equation describing fundamental
+principle universe due small part relationshipnature circle correspondingly spherical coordinate
+systems
+cosmological constant
+
+lambdapi c rho
+
+heisenberg uncertainty principle
+
+delta delta ge frachpi
+
+einstein field equation general relativity
+
+rikgik overlambda gikpi gc tik
+
+coulomb law electric force
+
+ffracleftqqright epsilon 
+magnetic permeability free space
+
+mupi cdot mathrmna
+
+probability statistics
+
+probability statistic many distribution whose
+formul containincluding
+probability density function pdf normal distributionmeanand standard deviation 
+
+fxover sigmasqrtpi exmu sigma
+
+pdf standard cauchy distribution
+
+fxfracpix
+
+note since intinftyinfty fxdxfor pdf
+fx formul used produce integral formulae
+
+
+semiinteresting empirical approximation ofis based buffons
+needle problem consider dropping needle length repeatedlysurface containing parallel line drawn unit apart slneedle dropped time time come rest
+crossing line xthen one may approximateusing
+
+pi approx fracnlxs
+
+practical matter approximation poor convergesslowly
+
+another approximation ofis throw point randomly quarter
+circle radiusthat inscribed square length
+area unit circle approximated pointquarter circletotal points
+
+efficient methods
+
+early year computer first expansion ofto 
+decimal place computed maryland mathematician daniel shanks
+team united state naval research laboratory nrldr shank son oliver shank also mathematician statefamily connection william shank factfamily root central europe
+
+daniel shank team used two different power seriescalculating digital offor one known error would
+produce value slightly high knownerror would produce value slightly low hence long two
+series produced digit high confidencecorrect firstdigits ofwere publishedu naval research laboratory
+
+none formul given serve efficient wayapproximatingfor fast calculation one may use formulamachins
+
+fracpiarctanfracarctanfrac
+
+together taylor series expansion function arctanx
+formula easily verified using polar coordinate complex
+number starting
+icdotii
+
+formul kind known machinlike formulae
+
+many expression forwere developed publishedincredibly intuitive indian mathematician srinivasa ramanujanworked mathematician godfrey harold hardy england number
+years
+
+extremely long decimal expansion ofare typically computedgausslegendre algorithm borweins algorithm salaminbrent
+algorithm invented inhas also used
+
+first one million digit ofandare available project
+gutenberg see external link record decemberby
+yasumasa kanada tokyo university stand atdigits
+computed septemberon node hitachi
+supercomputer withterabyte main memory carry 
+trillion operation per second nearly twice many computer
+used previous recordbillion digit following
+machinlike formul used
+fracpiarctanfracarctanfrac
+arctanfracarctanfrac
+k takano
+
+fracpiarctanfracarctanfrac
+arctanfracarctanfrac
+f w strmer
+
+approximation many digit longerpractical use except testing new supercomputer normality 
+always depend infinite string digit endfinite computation
+
+indavid bailey peter borwein simon plouffe publishedpaper baileyon new formula foras infinite series
+
+pisumkinfty frack left frack 
+frackfrackfrack 
+right
+
+formula permit one fairly readily compute kth binaryhexadecimal digit ofwithout compute preceding digit bailey website contains derivation wellimplementation various programming language pihex project
+computed bit around quadrillionth bit ofwhich turn
+
+fabrice bellard claim beaten efficiency record setbailey borwein plouffe formula calculate binary
+digit
+pifrac sumninfty fracnn
+leftfracnfracnfracn 
+fracnfracnfracn 
+fracn right
+
+formul used compute estimate ofinclude
+
+fracpi sumkinftyfrackk
+fracleftfracleftfracleftfrac
+cdotsrightrightright
+newton
+
+fracpifracsqrt suminftyk
+frackkk ramanujan
+
+converges extraordinarily rapidly ramanujans work basis
+fastest algorithm used turn millenniumcalculate 
+
+fracpisuminftyk frack kkk david chudnovsky gregory chudnovsky
+
+memorizing digits
+
+recent decade seen surge record number digits
+memorized
+enlarge
+recent decade seen surge record number digits
+memorized
+
+even long computer calculatedmemorizing record
+number digit became obsession people current world
+record isdecimal place set octoberby akira
+haraguchi previous recordwas set personjulyand record previous thatwas heldhiroyuki goto
+
+many way memorizeincluding use piemspoem representin way length word
+letter represents digit example piemneed drink alcoholic nature course heavy
+lecture involving quantum mechanic notice first word 
+letter second word hasthe third hasthe fourth hasthe
+fifth hasand cadaeic cadenza contains first 
+digit ofin manner piems related entire fieldhumorous yet serious study involves use mnemonic techniques
+remember digit ofknown piphilology see mnemonicexample language similar method memorization
+however method prof inefficient large memorization method include remembering pattern numberinstance yearappears first fifty digit 
+open questions
+
+pressing open question aboutis whether normal
+numberwhether digit block occurs expansion ofjustoften one would statistically expect digit produced
+completely randomly true every basebasecurrent knowledge point weak egeven known digitsoccur infinitely oftendecimal expansion 
+
+bailey crandall showed inthat existencementioned baileyborweinplouffe formula similar formul implynormality baseofand various constant reduced
+plausible conjecture chaos theory see bailey mentioned
+web site details
+
+also unknown whetherand algebraically independent
+however known least one ande transcendental
+see lindemannweierstrass theorem
+
+naturality
+
+noneuclidean geometry sum angle triangle mayle thanradians ratio circle circumference
+diameter may also differ fromthis doe changedefinition ofbut doe affect many formul whichappears
+particularis affected shape universephysical constant mathematical constant defined
+independently physical measurement nonetheless occurs
+often physics
+
+example consider coulomb law units
+
+ffracpi epsilon fracleftq qrightr
+
+
+r surface area sphere radius rform convenient way describing inverse square
+relationship force distance point source would
+course possible describe law less
+convenient way case convenient planck chargeused written
+ffracq 
+thus eliminate need 
+
+trivia
+
+marchin date format mark daycelebrated many lover ofincidentally also einsteins
+birthday
+julypi approximation day celebratedin european
+date formatis popular approximation ofnoteday celebrated approximation day
+sometimes jokingly referredincredible simulation
+singer kate bushsalbumaerial contains song titled 
+singsto decimal place howeverunknown reason omits th decimal placepreceded achievement several year swedish indie
+math lyric artist moniker matthew matics loses
+track decimal point series
+swedish jazz musician karl sjlin wrote recordedperformed song based called song followeddecimal every number representing certain noteexample e etc song performed jazz
+song thus making harmony liberal
+john harrisonfamed winning longitude prize
+devised meantone temperament musical tuning system derivedcalled lucy tuning
+user acom search engine eligible amazoncom
+program offering discount ofon purchases
+heywood bank song eighteen wheel big rig hasinger count final verse reach eight hundred
+billion going chorus
+instanisaw gob proved unit disk defined
+using nonstandard norm distance ratio circumference
+diameter always betweenandthese valueattained unit circle shaperegular hexagon parallelogram respectively see unit discdetails
+john squire stone rose mentionsin song writtensecond band seahorse called something tell song
+wa recorded full full band appears bootleg
+never released secondalbum recording song endlyric whats secret life itsyeah
+yeah
+hard phirms fourth track horse grass pipreceded intro discus topic likeeducational television program many digit recitedvideo appeared online inspiredbuilding googleplex numbered 
+inthe indiana general assembly passed billcould deduced wa equal toor incorrect
+value indiana senate postponed bill indefinitely
+preventing becoming law
+bloodhound gang song called three point one four
+daniel tammet hold european record rememberingrecounting recounting digit 
+hour onmarch 
+weebl bob episoderiot weebl statefight forpies
+

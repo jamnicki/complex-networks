@@ -1,0 +1,139 @@
+copyright
+
+neutron
+
+ school wikipedia selection related subject general physics
+
+neutron
+classification
+
+
+subatomic particle
+fermion
+hadron
+baryon
+nucleon
+neutron
+
+properties
+
+
+masskg
+mevc
+radiusaboutm
+electric chargec
+spin
+magnetic dipole momentn
+quark compositiondownup
+
+physic neutron subatomic particle net electric
+charge mass ofmevckg slightlyproton spin isits antiparticle calledantineutron neutron along proton nucleon
+
+nucleus atom except common isotopehydrogen protium consists single proton consistsproton neutron number neutron determines isotopeelement example carbon isotope hasprotons 
+neutron carbon isotope hasprotons andneutrons
+isotope atom element atomic number
+different mass due different number neutrons
+
+neutron classified baryon consists two quarks
+one quark
+
+stability
+
+outside nucleus free neutron unstable mean
+lifetime ofseconds aboutminutes decaying emitting
+electron antineutrino become proton
+
+hboxntohboxphboxeoverlinenumathrme
+
+decay mode known beta decay also occur within certain
+unstable nucleus proton also transform neutronprocess electron capture sometimes called inverse beta decaybeta decay electron capture type radioactive decay
+
+particle inside nucleus typically resonance neutrons
+proton transform one another emissionabsorption pions
+
+interactions
+
+neutron interacts four fundamental interactionelectromagnetism weak nuclear strong nuclear gravitational
+interactions
+
+although neutron zero net charge may interact
+electromagnetically two way first neutron magnetic
+moment order proton second composedelectrically charged quark thus electromagnetic interactionprimarily important neutron deep inelastic scatteringmagnetic interactions
+
+neutron experience weak interaction beta decayproton electron electron antineutrino experiencegravitational force doe energetic body however gravityweak may neglected particle physic experiments
+
+important force neutron strong interactioninteraction responsible binding neutron three
+quark one quark two quark single particleresidual strong force also responsible binding nuclei
+nuclear force nuclear force play leading roleneutron pas matter unlike charged particle photonneutron cannot lose energy ionizing atom rather neutron goes
+way unchecked make headon collision atomic
+nucleus reason neutron radiation extremely penetrating
+dangerous
+
+detection
+
+common mean detecting charged particle looking track
+ionization cloud chamber doe work neutrons
+directly neutron elastically scatter atom createionization track detectable experimentsimple carry mean detecting neutron consistingallowing interact atomic nucleus commonly used
+
+common method detecting neutron involves converting energy
+released reaction electrical signal nuclides
+li u np usefulpurpose good discussion neutron detection found chapter 
+book radiation detection measurement glenn knoll john
+wileysons 
+
+uses
+
+neutron play important role many nuclear reactionexample neutron capture often result neutron activation inducing
+radioactivity particular knowledge neutron behaviour
+ha important development nuclear reactor nuclear
+weapons
+
+cold thermal hot neutron radiation commonly employed neutron
+scattering facility radiation used similar way one
+us xrays analysis condensed matter neutroncomplementary latter term atomic contrast different
+scattering cross section sensitivity magnetism energy rangeinelastic neutron spectroscopy deep penetration matter
+
+development neutron lens based total internal reflection
+within hollow glass capillary tube reflection dimpled
+aluminium plate driven ongoing research neutron microscopy
+neutrongamma ray tomography
+
+one use neutron emitter detection light nuclei
+particularly hydrogen found water molecule fast neutron
+collides light nucleus loses large fraction energy
+measuring rate slow neutron return probereflecting hydrogen nucleus neutron probe may determinewater content soil
+
+discovery
+
+inwalther bothe becker germany foundenergetic alpha particle emitted polonium fell certainlight element specifically beryllium boron lithium unusually
+penetrating radiation produced first radiation thought
+gamma radiation although penetrating gamma
+ray known detail experimental result difficult
+interpret basis next important contributionreported inby irne joliotcurie frdric joliot paris
+showed unknown radiation fell paraffinhydrogencontaining compound ejected proton high
+energy inconsistent assumed gamma ray
+nature new radiation detailed quantitative analysisdata became increasingly difficult reconcile hypothesis
+finally later inthe physicist james chadwick england
+performed series experiment showing gamma ray hypothesis
+wa untenable suggested fact new radiation consisteduncharged particle approximately mass protonperformed series experiment verifying suggestionuncharged particle eventually called neutron apparentlylatin root neutral greek ending imitationelectron proton
+
+current developments
+
+existence stable cluster four neutron tetraneutrons
+ha hypothesised team led franciscomiguel marquscnrs laboratory nuclear physic based observationdisintegration beryllium nucleus particularly
+interesting current theory suggests clusterstable therefore exist
+
+experiment institut lauelangevin ill attemptedmeasure electric dipole separation charge withinneutron consistent electric dipole moment zero
+result important developing theory beyondstandard model see frontier article experiment web page
+
+antineutron
+
+antineutron antiparticle neutron discovered
+bruce cork yeara year antiprotondiscovered
+
+cptsymmetry put strong constraint relative propertyparticle antiparticle therefore open stringent tests
+fractional difference mass neutron antineutron
+issince difference aboutstandard
+deviation away zero doe give convincing evidence
+cptviolation
+

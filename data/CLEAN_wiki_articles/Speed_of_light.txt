@@ -1,0 +1,345 @@
+copyright
+
+speed light
+
+ school wikipedia selection related subject general physics
+
+speed light vacuum important physical constant
+denoted letter constant latin word celeritas
+meaning swiftness speed electromagnetic radiation
+vacuum visible light
+
+metric unit exactlymetres per second
+kmh note speed definitionmeasurement since fundamental unit length metredefined since octoberin term speed light one
+metre distance light travel vacuum inofsecond converted imperial unit speed lightapproximatelymiles per second ormiles
+per hour almost one foot per nanosecond
+
+transparent translucent material medium like glassair lower speed vacuum ratio cslower speed called refractive index medium changegravity however warp space light travelmaking appear curve around massive object give risephenomenon gravitational lensing large assemblymatter refract light far away source produce
+multiple image similar optical distortions
+
+overview
+
+one consequence law electromagnetism maxwells
+equation speed electromagnetic radiation doedepend velocity object emitting radiation thusinstance light emitted rapidly moving light source would
+travel speed light coming stationary light
+source although colour frequency energy momentumlight shifted called relativistic doppler
+effect one combine observation principlerelativity one concludes observer measure speedlight vacuum regardless reference frameobserver velocity object emitting lightone view fundamental physical constant fact
+used basis theory special relativityworth noting constant speed rather lightfundamental special relativity thus light somehow
+manipulated travel c directly affecttheory special relativity
+
+observer travelling large velocity find distancetime distorted dilated accordance lorentz
+transforms however transforms distort time distanceway speed light remains constant person travelling
+near speed light would also find colour light ahead
+shifted toward violet end spectrum behind
+redshifted lorentz transformation classical
+explanation shifting harmony
+
+information could travel faster one reference frame
+causality would violated reference frameinformation would received sent effect
+could observed cause due special relativitys
+time dilation ratio external observer perceived time
+time perceived observer moving closer closerspeed light approach zero something could move fasterlight ratio would real number violationcausality never observed
+light cone defines location causal contactenlarge
+light cone defines location causal contact
+put another way information propagates pointregion defined light cone interval diagramright istimelike frame referenceevent event occur location space separatedoccurring different time precedes bframe precedes frame frame reference
+event event occur simultaneously thushypothetically possible matter information travelb causal relationship cause beffect
+
+hand interval diagram right 
+spacelike frame reference eventevent occur simultaneously separated space see
+simultaneity however also frame precedes cshown precedes barring way travelling faster
+light possible matter informationtravel c thus causal connection
+c
+
+according currently prevailing definition adopted inthe
+speed light exactlymetres per second approximately
+metre per second thirtycentimetres one foot per
+nanosecond value defines permittivity free space
+si unit
+varepsilonpi quad mathrminkg morfm
+
+permeability free spaceis dependent cdefined unit
+mupiquad mathrmin kgaorna 
+
+constant appear maxwell equation describe
+electromagnetism related
+c fracsqrtvarepsilonmu
+
+astronomical distance sometimes measured light yeardistance light would travel one year roughly
+kilometre aboutmiles especiallypopularised text also light travel large finite
+speed take time light cover large distance thussee light distant object universe actually
+seeing light emitted long time ago see literally
+distant past
+
+mnemonic
+
+since ninedigit sequence bit hard rememberseveral useful mnemonic use lettertelephone keypad
+constant remember well light velocity
+way remember constant light velocity
+
+either one obtain numberby
+translating bolded letter digits
+
+communication gps
+
+speed light relevance communication example
+given equatorial circumference earth iskmckms theoretical shortest amount time pieceinformation travel half globe along surface iss
+
+actual transit time longer part speed light
+slower aboutin optical fibre straight line rarely
+occur global communication situation also delaycreated signal pass electronic switch signal
+regenerator typical time offor australia japan computertocomputer ping speed light additionally
+affect wireless communication design
+
+another consequence finite speed light communications
+spacecraft instantaneous especially distances
+increase delay significant communication houston
+ground control apollowhen became first spacecraftorbit moon every question houston wait nearly 
+second answer arrive even astronaut replied
+immediately
+
+effect form basis global positioning system gpssimilar navigation system one position determined means
+delay light signal received number satellites
+carrying accurate atomic clock carefully
+synchronized remarkable work properly method
+requires take account among many effect relative
+motion satellite receiver interplanetary
+scale finite speed light originally discovered seefollowing
+line showing speed light scale model earthmoon
+enlarge
+line showing speed light scale model earthmoon
+
+similarly instantaneous remote control interplanetary spacecraftimpossible take time earthbased controllerreceive information craft take hour controllers
+become aware problem respond instructionspacecraft receive instructions
+
+speed light also concern short distancesupercomputer speed light imposes limit quickly data
+sent processor processor operates atghzsignal travel maximum ofmm single cycle
+processor must therefore placed close minimise
+communication latency clock frequency continue increasespeed light eventually become limiting factorinternal design single chips
+
+physics
+
+interaction transparent materials
+
+refractive index material indicates much slower speed
+light medium vacuum slower speed light
+material cause refraction demonstrated prismcase prism splitting white light spectrum colours
+refraction known dispersion
+enlarge
+refractive index material indicates much slower speed
+light medium vacuum slower speed light
+material cause refraction demonstrated prismcase prism splitting white light spectrum colours
+refraction known dispersion
+
+passing material light slowed cratio called refractive index material speed light
+air slightly c denser medium waterglass slow light much fraction asandof reduction speed also responsible bending lightinterface two material different index phenomenon
+known refraction
+
+since speed light material depends refractive index
+refractive index depends frequency light light
+different frequency travel different speedmaterial cause distortion electromagnetic waveconsist multiple frequency called dispersion
+
+note speed light referred observed measured
+speed medium true speed light observedvacuum may noted light emergedmedium change back original speed without
+gaining energy mean one thingthat light speed
+wa never altered first place
+
+sometimes claimed light slowed passageblock medium absorbed reemitted atomtravelling full speed vacuum atomexplanation incorrect run problem try useexplain detail refraction beyond simple slowingsignal
+
+classically considering electromagnetic radiation like wave
+charge atom primarily electron interfereelectric magnetic field radiation slowing progress
+
+full quantummechanical explanation essentiallyha cope discrete particle nature see photon matter
+efield creates phonons medium photon mixphonons resulting mixture called polariton travelspeed slower light
+
+fasterthanlight observation experiments
+
+blue glow swimming pool nuclear reactor cherenkov
+radiation emitted result electron travelling fasterspeed light water
+enlarge
+blue glow swimming pool nuclear reactor cherenkov
+radiation emitted result electron travelling fasterspeed light water
+
+ha long known theoretically possible 
+phase velocity light exceed one recent experiment madegroup velocity laser beam travel extremely short distances
+caesium atom attimes however possibleuse technique transfer information faster velocity
+information transfer depends front velocity speedfirst rise pulse zero move forwardproduct group velocity front velocity equalsquare normal speed light material
+
+exceeding group velocity light manner comparableexceeding speed sound arranging people distantly spacedline asking shout one anothershort interval one timing looking wristwatch
+dont wait hear previous person
+shouting another example seen watching ocean wave washing
+shore narrow enough angle waveshoreline breaker travel along wave length much fasterwave movement inland
+
+speed light may also appear exceeded phenomena
+involving evanescent wave tunnelling experiment indicate
+phase velocity evanescent wave may exceed howeverwould appear neither group velocity front velocity
+exceed possible informationtransmitted faster 
+quantum mechanic certain quantum effect may transmittedspeed greater indeed action distance longperceived problem quantum mechanic see epr paradox
+interpretation quantum mechanic example quantum states
+two particle entangled state one particle fixes
+state particle say one must spinandmust spinuntil particle observed exist
+superposition two quantum statesandifparticle separated one observed determinequantum state quantum state second particledetermined automatically interpretation quantum
+mechanic one presumes information quantum statelocal one particle one must conclude second particle
+take quantum state instantaneously soon first
+observation carried however impossible controlquantum state first particle take observedinformation transmitted manner law physics
+also appear prevent information transferredclever way led formulation rulenocloning theorem nocommunication theorem
+
+socalled superluminal motion also seen certain astronomical
+object jet radio galaxy quasar howeverjet actually moving speed excess speed light
+apparent superluminal motion projection effect causedobject moving near speed light small angle line
+sight
+
+although may sound paradoxical possible shock waveformed electromagnetic radiation charged particle travels
+insulating medium disrupts local electromagnetic
+field medium electron atom mediumdisplaced polarised passing field charged particle
+photon emitted electron medium restore
+equilibrium disruption passedconductor disruption restored without emitting photon
+normal circumstance photon destructively interfereradiation detected however disruption
+travel faster photon travel photons
+constructively interfere intensify observed radiationresult analogous sonic boom known cherenkov radiation
+
+ability communicate travel fasterthanlight popular
+topic science fiction particle travel faster light
+dubbed tachyons proposed particle physicist yet
+observed
+
+physicist notably joo magueijo john moffat proposed
+past light travelled much faster current speedlight theory called variable speed light vslsupporter claim ability explain many cosmological
+puzzle better rival inflation model universe
+however yet gain wide acceptance
+
+inphysicists alain hach louis poirier made historysending pulse group velocity three time light speedlong distance first time transmitted metre cable
+made coaxial photonic crystal
+
+slow light experiments
+
+refractive phenomenon rainbow due slower speed
+light medium water case
+enlarge
+refractive phenomenon rainbow due slower speed
+light medium water case
+
+light travelling medium vacuum travelc result time lag polarization responsemedium incident light however certain materialexceptionally high group index correspondingly low group
+velocity ina team scientist led lene hau ableslow speed light pulse aboutmetres per secondable momentarily stop beam
+
+inmikhail lukin scientist harvard universitylebedev institute moscow succeeded completely halting lightdirecting mass hot rubidium gas atomlukins word behaved like tiny mirror due interference
+pattern two control beams
+
+history
+
+relatively recent time speed light largely matter
+conjecture empedocles maintained light somethingmotion therefore time elapsed travelling
+aristotle said contrary light due presencesomething movement furthermore lightfinite speed would great aristotle assertedstrain upon power belief great believe
+one ancient theory vision light emittedeye instead reflected eye another sourcetheory heron alexandria advanced argument speed
+light must infinite since distant object star appear
+immediately one open one eyes
+
+medieval early modern theories
+
+islamic philosopher avicenna alhazen believed light hafinite speed although philosopher agreed aristotlepoint
+
+philosopher ancient india also held speed lightfinite century scholar sayana wrote comment verse
+rig veda
+
+thus remembered sun traverseyojanashalf nimesa
+
+sayanas statement come close actual speed lightha called astonishing blind hit historyscience
+
+johannes kepler believed speed light infinite since
+empty space present obstacle francis bacon arguedspeed light necessarily infinite since something travel
+fast perceived ren descartes argued speedlight finite sun earth moon would noticeablyalignment lunar eclipse since misalignmentobserved descartes concluded speed light infinite fact
+descartes convinced speed light finitewhole system philosophy would demolished
+
+measurement speed light
+
+isaac beeckman proposed experimentin person would
+observe flash cannon reflecting mirror one mile
+away galileo proposed experimentwith apparent claimperformed year earlier measure speed light
+observing delay uncovering lantern perception
+distance away experiment carried accademia
+del cimento florence inwith lantern separatedone mile delay observed robert hooke explained negative
+result galileo pointing observationestablish infinite speed light speed mustgreat descartes criticised experiment superfluousobservation eclipse power detectfinite speed gave negative result
+rmers observation occultation earth
+enlarge
+rmers observation occultation earth
+
+first quantitative estimate speed light made 
+ole rmer studying motion jupiter satellite telescope possible time orbital revolution enters exit jupiter shadow regular interval rmer observed revolved around jupiter every 
+hour earth closest jupiter also observedearth jupiter moved apart k exitshadow would begin progressively later predicted clear
+exit signal took longer reach earth earthjupiter moved apart result extra time tooklight cross extra distance planetaccumulated interval one signal nextopposite case approaching shown
+opposite g quite familiar doppler effectbasis observation rmer estimated would take light
+minute cross diameter orbit earthtwice astronomical unit modern estimate closer 
+minute andseconds
+
+around time astronomical unit estimatedmillion kilometre astronomical unit rmers time estimate
+combined christiaan huygens estimated speed light
+beearth diameter per minute aboutkilometres
+per secondmiles per second well currently
+accepted value still much faster physical phenomenon
+known
+
+isaac newton also accepted finite speed bookopticksfact report accurate value ofearth diameter per
+second seems inferred whether rmers
+data otherwise known effect subsequently
+observed rmer spot rotating surface jupiter
+later observation also showed effect threegalilean moon difficult observe thus layingrest objection raised
+
+even observation finite speed light mayestablished everyones satisfaction notably jeandominique
+cassinis observation james bradleythe
+hypothesis infinite speed considered discredited bradley
+deduced starlight falling earth appear comeslight angle could calculated comparing speedearth orbit speed light aberration light
+called observed aboutof degree bradley
+calculated speed light aboutkilometres per second
+mile per second slightly lecurrently accepted value aberration effect studied
+extensively succeeding century notably friedrich georg
+wilhelm struve magnus nyren
+diagram fizeaufoucault apparatus
+enlarge
+diagram fizeaufoucault apparatus
+
+first successful measurement speed light usingearthbound apparatus carried hippolyte fizeau 
+fizeaus experiment conceptually similar proposedbeeckman galileo beam light directed mirror several
+thousand metre away way source mirrorbeam passed rotating cog wheel certain raterotation beam could pas one gap wayanother way back slightly higher lower ratebeam would strike tooth pas wheel knowingdistance mirror number teeth wheel rate
+rotation speed light could calculated fizeau reported
+speed light askilometres per second fizeaus method
+wa later refined marie alfred cornuand joseph perrotin 
+
+
+leon foucault improved fizeaus method replacing cogwheel
+rotating mirror foucault estimate published inwas
+kilometre per second foucault method also used simon
+newcomb albert michelson michelson began lengthy careerreplicating improving foucault method
+
+inmichelson used rotating prism measure time took
+light make round trip mount wilson mount san antoniocalifornia precise measurement yielded speed ofmiles
+per secondkilometres per second
+
+relativity
+
+work james clerk maxwell known speedelectromagnetic radiation constant defined electromagnetic
+property vacuumpermittivity permeability
+schematic representation michelson interferometer usedmichelsonmorley experiment
+enlarge
+schematic representation michelson interferometer usedmichelsonmorley experiment
+
+inthe physicist albert michelson edward morley performed
+influential michelsonmorley experiment measure speedlight relative motion earth goal measure
+velocity earth luminiferous aether medium
+wa thought necessary transmission lightshown diagram michelson interferometer halfsilvered
+mirror used split beam monochromatic light two beams
+travelling right angle one another leaving splitter
+beam reflected back forth mirror several times
+number beam give long equal path length
+actual michelsonmorley experiment used mirror shown
+recombined produce pattern constructive destructive
+interference slight change speed light along arminterferometer apparatus moving earthproposed aether would change amount time beam
+spent transit would observed changepattern interference event experiment gave null
+result
+
+ernst mach among first physicist suggestexperiment actually amounted disproof aether theory
+development theoretical physic already begun providealternate theory fitzgeraldlorentz contraction explainednull result experiment
+
+uncertain whether albert einstein knew resultmichelsonmorley experiment null result experiment
+greatly assisted acceptance theory relativity einsteins
+theory require aether entirely consistentnull result experiment aether exist speed
+light direction constant speed lightone fundamental postulate together causalityequivalence inertial frame special relativity
+

@@ -1,0 +1,216 @@
+copyright
+
+gnulinux naming controversy
+
+ school wikipedia selection related subject website internet
+
+
+featured article click information
+fsf artwork gnu gnu mascot penguin tux linux kernel
+mascot representing viewpoint gnulinux gnu general
+public license gpl used linux kernel wellgnu software armor characters
+enlarge
+fsf artwork gnu gnu mascot penguin tux linux kernel
+mascot representing viewpoint gnulinux gnu general
+public license gpl used linux kernel wellgnu software armor characters
+
+gnulinux term promoted free software foundation fsf
+founder richard stallman supporter operating systems
+include fsfs gnu utility linux kernel debian
+gnulinux term name people simply
+use term linux whole system
+
+fsf argues term gnulinux gnu longstanding
+project develop free operating system arguekernel final small piece proponent linux term
+contend user developer overwhelmingly chosen keep
+shorter name since gnu one many contributoroperating system whole name change justified
+
+linuxbased operating system many component includinglinux kernel software developed gnu project wellsubstantial amount software window systemauthor linux kernel reported largest single
+component smaller total amount code developed
+gnu project typical linux distribution determining exactly
+constitutes operating system per mattercontinuing debate however since single authoritydetermine demarcation
+
+history
+
+history linux closely tied gnu operating
+system plan gnu made inand september year
+announced publicly software development work beganjanuarygnu complete unixlike operating system
+composed entirely free software bywhen first versionlinux kernel released gnu midlevel portionoperating system almost complete upper level couldsupplied window system lower level kernel device
+driver systemlevel utility daemon still mostly lacking
+early linux kernel developer adapted linux specifically work
+gnu later gnu developer learned linuxadapted part gnu work linux thus filled last major
+gap gnu operating system gnu kernel gnu hurd stillinfancy hurd followed ambitious design proved
+unexpectedly difficult implement marginally
+usable
+
+inthe yggdrasil linux distribution adopted name
+linuxgnux name gnulinux first used debian 
+gnu junebulletin linux referred free unix clone
+many gnu utility library januaryedition
+term gnulinux used instead maystallman released
+emacswith system target linux changed lignux also
+suggesting alternative linuxbased gnu system gnulinux
+system stallman later used gnulinux exclusively
+
+argument gnulinux
+
+fsf advocate gnulinux simply large numbergnu component used linuxbased system quantity gnu
+source code goal gnu project specifically
+develop complete operating system
+
+going pick name system basedwrote program system appropriate single choice
+would gnu dont think right way consider
+question gnu project project develop
+specific software packagesmany people made major
+contribution free software systemdeserve credit reason integrated systemandcollection useful programsis gnu project
+set make one made list program neededmake complete free system systematically wrote found
+people write everything list
+
+fsf argues name issue important way crediting
+technical contribution gnu project idealismgnu freesoftware philosophy opposed opensource
+movement
+
+calling system gnulinux recognizes role idealism
+played building community help public recognizepractical importance ideals
+
+calling variant gnu system linux play hands
+people choose software based technical
+advantage caring whether respect freedom
+
+ordinary understanding operating system includeskernelthe specific subsystem directly interfacehardwareand theuserland software employed user
+application software control computer moreovername gnu name linux intentionally related name
+unix unix always conceptually included libraryuserland tool well kernel therelease noteversionstoof linux released gnu
+general public license versiontorvalds wrote
+
+sadly kernel get nowhere get working system
+need shell compiler library etc separate parts
+may stricter even looser copyrighttool used linux gnu software gnu
+copyleft tool arent distributionask gnu
+info
+
+use word linux refer kernel operating
+system entire distribution often lead confusiondistinction three many important gnu packagekey part almost every linux distribution medium sources
+frequently make erroneous statement claiming entire
+linux operating system rather simply kernel writtenscratch torvalds inthat torvalds directs developmentcomponent graphical interface gnu toolnew release kernel involve similar degree uservisible
+change new version proprietary operating systemmicrosoft window many thing besides kernel change
+simultaneously
+
+confusion legal threat public relation campaigns
+apparently directed kernel launchedsco group alexis tocqueville institution adtimisinterpreted many commentator assume whole operating
+system targeted organisation even accuseddeliberately exploiting confusion
+
+generally scos caldera ibm complaint vague confusingwhether accusation involve linux kernel gnulinux
+operating system linux distribution linux applicationwhatever mike angelo mozillaquest magazine 
+
+sco used linux mean free software free
+software constituting unixlike operating system confusion
+free software foundation warned pastshown misleading consequence foundationoften predictedeben moglen 
+
+guess glad world found hard say
+gnulinux sco fell right pit equating linuxkernel gnulinux everything kernel plusapplicationspamela jones groklaw 
+
+particular stallman criticized theken brownadti reportcapitalizing common confusion linux kernelstallman say linus really wrote full gnu operating
+system associated software generally used
+linux kernel lisa stapleton linuxinsider 
+
+response suggestion stallmans renaming effort stemegotism personal pique rms responded interestgiving credit gnu project
+
+people think want ego fedcourse asking call stallmanix
+
+stallman admitted irritation although beliefjustified
+
+thread annoying please imagine like seeidealistic project stymied made ineffective people
+dont usually give credit done youreidealist like ruin whole decade
+
+response another common argument see fsf
+acknowledges many people contributed gnulinuxshort name cannot credit argues cannot
+justify calling system linux
+
+since long namegnuxapachelinuxtexperlpythonfreeciv becomes absurdpoint set threshold omit namemany secondary contribution one obvious right
+place set threshold wherever set wont argue
+itbut one name cannot result concernfairness giving credit possible threshold levellinux cant fair give credit one secondary
+contribution linux omitting principal contribution
+gnu
+
+argument linux
+
+linux far widespread name people therefore
+simply adopt usage reference naming controversy
+appear infrequently mainstream source linux hahistorical momentum name torvalds usedcombined system sincewhile stallman began asking peoplecall system gnulinux mid timelinux name already become popular linux shorter easier
+say gnulinux particularly given stallmans suggested
+pronunciation guhnuslashlinux guhnupluslinux
+
+eric raymond writes linux entry jargon file
+
+people object name linux used refer
+kernel entire operating system claimproxy underlying territorial dispute people insistterm gnulinux want fsf get credit linux
+rms stallman friend wrote many userlevel
+tool neither theory term gnulinux gainedminority acceptance
+
+linus torvalds said documentary revolution askedname gnulinux justified
+
+well think justified justified actually
+make gnu distribution linuxthe way thinkred hat linux fine suse linux debian linuxactually make distribution linux get name
+thing calling linux general gnu linux thinkridiculous
+
+editorial linux journal expressed common speculationstallmans advocacy combined name attempt unfairly ride
+coattail linux fame
+
+perhaps rms frustrated linus got glory rms
+wanted
+see stallmans response linux journal article
+quote linus torvalds saying
+
+umm discussion gone quite long enough thankmuch doesnt really matter people call linux longcredit given credit due side personally
+ill much continue call linux
+
+similar vein debate name operating systemsometimes characterized trivial distraction john dvorak
+wrote
+
+unfortunately linux community spends much energything nomenclature like name gnulinux versus linux
+
+others suggested regardless merit stallmans
+persistence sometimes seems lost cause make gnu look
+bad example larry mcvoy author proprietary software
+bitkeeper used manage linux kernel development opinedclaiming credit make one look foolish greedy
+
+many user vendor prefer name linux pointinclusion nongnu nonkernel tool apache http server
+x window system desktop environment enduser operating
+system based linux kernel stated jim gettys originator
+x
+
+lot people bus dont hear clamorsupport gnu essential manycomponent cant take wheel away end functional
+vehicle engine seat recommend happybus
+
+see fsf response acknowledges practical limitcredit draw different conclusion
+
+mainstream usage name linux often usedstandard example concept software content may
+freely modified redistributed even usage generallymention gnu free software specifically
+
+case gnulinux inapplicable
+
+embedded system handheld device linux kernelused component gnu alternative like uclibc
+busybox replacing gnu tool even single application
+running processon bare kernel everyone including fsf
+agrees gnulinux appropriate namecircumstance almost linuxbased desktop server usegnu component glibc gnu library coreutils bash
+
+pronunciation
+
+article contains nonstandard pronunciation informationrewritten using international phonetic alphabet please
+see wikipediamanual style pronunciation help
+
+although gnulinux often pronounced gnu linux stallmanadvocated explicit pronunciation slash prevent confusing
+implication linux kernel gnu project
+
+prefer pronounce gnuslashlinux gnupluslinuxreason say gnulinux much pronesuggest misleading interpretation gnu emacs
+version emacs developed gnusay gnu linux people think mean version linuxwa developed gnu fact
+
+given stallman pronounces gnu guhnu pronounce hard
+g would make guhnuslashlinux guhnupluslinux
+
+retrieved 
+httpenwikipediaorgwikignulinuxnamingcontroversy
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

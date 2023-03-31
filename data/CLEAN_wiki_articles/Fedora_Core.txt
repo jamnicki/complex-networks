@@ -1,0 +1,263 @@
+copyright
+
+fedora core
+
+ school wikipedia selection related subject software
+
+caption fedora core
+
+fedora corerunning gnome
+websitefedoraprojectorg
+company
+developerfedora project
+familylinux
+source modelopen source
+latest stable releasecoreoctober
+update methodyum
+package managerrpm package manager
+supported platformsi amd powerpc
+kernel typemonolithic kernel
+default user interface gnome
+licensevarious
+working statecurrent
+
+fedora core rpmbased linux distribution developedcommunitysupported fedora project sponsored red hat name
+derives red hat characteristic fedora used shadowman
+logo however fedora community project existed volunteer
+group providing extra software red hat linux distribution
+red hat got involved direct sponsor
+
+fedora aim complete generalpurpose operating system
+containing free open source softwarefedora designedeasily installed configured simple graphical installer
+systemconfig suite configuration tool installation
+system includes option use gnu grub boot loader facilitating
+use fedora conjunction another operating system
+package dependency easily downloaded installed
+yum utility new release fedora come every sixeight month fedora ship gnome kde spanscdssingle dvd although first two required network
+installation available single smallmb bootiso image
+installer support installation via http ftp nfs remote
+installation progress monitored via vnc
+
+name fedora core distinguishes main fedora packagefedora extra project provides addons fedora core
+
+fedora derived original red hat linux distributionproject envisages conventional linux home user use fedora
+core intends replace consumer distribution red hat
+linux support fedora come greater community although
+red hat staff work red hat doe provide official supportfedora
+
+fedora sometimes called fedora linux fedora core linux though
+actually official name
+
+features
+
+fedora core gnome default desktop environmentfedora developer attention usability improvement gnome
+codebase meant occasion backported
+improvement nofocussteal feature gnomefedora core 
+fedora core many gui configuration tool written pygtkthing firewall printing user management
+fedora core fedora extra combined overpackages
+list major packages
+
+versions
+
+compiz aiglx support fedora core 
+enlarge
+compiz aiglx support fedora core 
+
+stable releases
+
+octoberthe fedora development team released fedora core 
+fc release name zod
+
+caption fedora core
+
+versionnamedate
+zodoctober
+bordeauxmarch
+stentzjune
+heidelberg november
+tettnangmay
+yarrownovember
+
+test releases
+
+fedora development cycle progress series test releasedelivered giving user preview coming allowingtesting feedback fedora coreincluded three test releases
+
+development releases
+
+development version distribution red hat often
+referred bleeding edgein red hat fedora refers
+repository known codename rawhide new packageend fedora later red hat enterprise linux first added
+fedora development tree fedora development rapid may
+break time developer tester usemain distribution
+
+maintained fedora legacy
+
+fedora legacy project community project handle releases
+fedora core team stopped maintaining updatewish cannot upgrade
+
+fedora corefc release name stentz released june
+amd powerpc architecture transferredfedora legacy augustit included gnomeand kde 
+gcca gcjcompiled version eclipse ide version 
+linux kernel
+fedora core 
+enlarge
+fedora core 
+
+fedora corefc release name heidelberg released november
+amd architecture transferredfedora legacy januaryit included gnomeand kde 
+xorg serverthe xen virtualizer versionof linux
+kernel
+
+discontinued
+
+fedora corefc release name tettnang reached release may 
+wa transferred fedora legacy aprilit
+included versionof linux kernel gnomekdeand
+selinux version also replaced xfree xorg serverrelease occasioned many complaint probleminstallation dualbooting window actually causedissue thekernels handling partitions
+
+fedora corefc internal codename cambridge release name yarrow
+wa released novemberand transferred fedora legacynovemberimprovements red hat linuxincluded automated
+update yum improved laptop support acpi cpufreqprelinking faster program start time amd version appearedmarch 
+
+fedora legacy support fedora coreandended august 
+day legacy support fedora corebegan
+
+repository extra software
+
+fedora core includes core set package downloadinginstalling program codecs distributed coreseveral repository available package generally compatible
+thirdparty repository though alwayscase also occasional overlap packaging error cause
+one package negatively affect package distributed different
+repositories
+
+official repositories
+
+fedora core fedora extra fedora legacy official repositories
+project fedora core maintained red hat fedora extramaintained group volunteer affiliated official
+fedora project fedora extra currently included base
+distribution default repository extra configurationrequired enable fedora legacy repository also includedfedora coreand version enabled default
+
+unofficial repositories
+
+repository designed compatible fedora core
+although may compatiblerepository discontinued active support earlier versionfedora core keep repository around convenienceuser previous versions
+livna thirdparty repository maintained group packagers
+supporting fedora corethrough 
+
+must use extra compatible rpmforge
+repositories
+
+rpmforge containing package matthias saou dag wieersdry previously available three different
+repository supporting fedora corethroughrpmforgecompatible fedora extra similar livna
+freshrpms maintained matthias saou supporting fedora core
+
+dag maintained dag wieers supporting fedora core 
+
+dry maintained dry verachtert supporting fedora core
+
+planetccrma maintained fernando lopezlezcano supporting
+fedora corethrough 
+kderedhat excellent source kde support fedora core
+maintained group packagers support fedora coreupdated kde desktop rpm general kde applicationbluetooth support
+grey sector containing mostly mplayer related packagebinary packaged codecs legal issuerepository maintained mplayer developer
+fedoraxgl containing package required enable xgl fedora
+dribble containing package focus fun software
+multimedia game emulator recommendedrepository used livna
+atrpms maintained axel thimm supporting fedora core 
+
+
+update base package ahead core administrators
+consider bad idea update base package outsideofficial channel
+atrpms also used extensively fedora mythtvologya
+popular howto resource installing mythtv fedora core
+maintained jarod wilson
+
+legal status
+
+fedora core fedora extra fedora legacy project followpackaging guideline fedora project maintain
+package free open source software legally distributable
+anywhere world repository may different policies
+example livna project maintains package may legal
+issue within united state downloaded end
+user
+
+repository also maintain sourceonly package requireuser download prebuilt binary may availablepublic package script unpacks repacks binaryformat suitable deployment rpmbased systems
+
+software update utilities
+
+main tool install software repository command yum
+graphical tool called pirut available upper menu barname package manager together update program pup
+package update part standard installation since fedora core
+yumex synaptic two graphical alternative preferredreviewer available extra kyum also nice graphical
+frontend use kde
+
+software update installation cdrom possible directly
+yum pup pup die startupconnected network workaround possible defining yum
+configuration file new installation source point local
+mounted cdrom filemediacdrom using functionalityalso possible dump repository onto dvd actualizecomputer
+fedora coremaintainers extra repositories
+advocated use aptrpm update managementbeing writtenc fewer cpu cycle therefore suitable older
+computer fedora corea new version apt includedextra capable using native yum metadata multilib
+capable refer httpfedoraprojectorgwikitoolsaptinformation
+
+another useful tool work repository fedora helperit
+installs configures missing codecsmp supportexample livnaorg repository another tool helpmix repository fedora frog
+
+offline repositories
+
+machine need updated connected network
+repository created updated createportable repository 
+make directory yum yumbase yumupdateswant local apache serve repository intranetinside varwwwhtml
+copy rpm distribution inside base
+create header packet command createrepo
+base use varwwwhtmlyumbase set apache
+download update look real mirrorlist hereand rsync pick changestored update repository rsync usecommand rsync avrt rsyncrepository excludedebug
+yourpathyumupdates
+
+fedora core red hat enterprise linux
+
+fedora came result new business strategy red hat
+implemented late inred hat position red hat enterprise
+linux businessoriented linux distribution official
+support distribution red hat enterprise linux rhel
+release branched fedora core led criticobserve fedora core user effect beta tester rhel
+
+see red hat enterprise linux page version fedora core
+corresponding red hat enterprise linux versions
+
+trademark dispute
+
+red hat tangled dispute creator fedora
+repository management software name red hatattempted secure trademark rights
+
+trivia
+
+linux website powered fedora core
+server run wikimedia mostly powered fedora core
+sonys playstationsupports fedora fedora besides
+yellow dog linux work yet
+
+distribution based fedora core
+
+berry linuxa mediumsized fedora corebased distributionprovides support japanese english
+fox linuxa fedora corebased distribution made italy designed
+basic home computing task browsing web writing
+printing document using multimedia burning discs
+linux mobile systema fedora corebased distribution designedboot usb mass storage device keydrives
+linuxtle thai distribution produced nectec
+raqtweaks rackstar appliance server
+yellow dog linuxa fedora corebased distribution powerpc
+platform
+aurora sparc linuxa fedora corebased distribution sparc
+platform
+yoper
+
+fedora wiki also list derived distributions
+
+commercial community distribution vendor
+
+red hat release fedora core started popular trend amongst
+commercial linux distribution vendor creating community
+distribution closely related commercial distributioncommunity distribution acting open development lab leadingcommercial distribution
+
+see commercial community linux distribution vendor
+

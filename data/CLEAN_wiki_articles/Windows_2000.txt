@@ -1,0 +1,524 @@
+copyright
+
+window 
+
+ school wikipedia selection related subject software
+
+window 
+part microsoft window family
+screenshot
+screenshot windowsprofessional
+developer
+microsoft
+web site wwwmicrosoftcomwindows
+release information
+release datefebruaryinfo
+current versionsp rollupseptemberinfo
+source modelclosed source
+licensemicrosoft eula
+kernel typehybrid kernel
+support status
+extended support period security update provided unpaid
+
+windowsalso referred wink preemptible
+interruptible graphical businessoriented operating systemdesigned work either uniprocessor symmetric multiprocessor
+bit intel computer part microsoft window line
+operating system released februaryitsucceeded window octoberand window serverin
+april 
+
+windowsis classified hybrid kernel operating systemarchitecture divided two mode user mode kernel modekernel mode provides unrestricted access system resourcefacilitates user mode heavily restricted designedapplications
+
+windowswas made available four edition professional server
+advanced server datacenter server additionally microsoft offered
+windowsadvanced server limited edition releasedrun bit intel itanium microprocessor editionwindowshave common functionality including many system utilities
+microsoft management console standard system management
+application disk defragmentation utility support people
+disability improved number new assistive
+technology microsoft included increased support different
+language locale information version operating system
+support window filesystem ntfsthe encrypting file system
+well basic dynamic disk storage windowsserver
+family additional functionality including ability provide
+active directory service hierarchical framework resources
+distributed file system file system support sharing files
+faultredundant storage volume windowscan installeddeployed corporate desktop either attended unattended
+installation unattended installation rely use answer files
+fill installation information performedbootable using microsoft system management server system
+preparation tool
+
+microsoft marketed windowsas secure window weve
+ever shipped however become target numberhighprofile virus attack code red nimdasix year release continues receive patch security
+vulnerability nearmonthly basis
+
+history
+
+windowsis continuation microsoft window lineoperating system replacing predecessor window 
+originally called window ntmicrosoft changed name windows
+octoberit also first window versionreleased without code name though windowsservice packwas
+codenamed asteroid windowsbit codenamed janusconfused windowswhich codenamefirst beta windowswas released septemberand
+several beta released betawhich releasedaprilfrom microsoft issued three release candidates
+july novemberand finally released operating
+system partner decemberthe public received full
+version windowson februaryand press immediately
+hailed stable operating system microsoft ever
+released informationweek summarized release test showsuccessor ntis everything hoped would courseisnt perfect either wired news later described resultfebruary launch lackluster novell impressedmicrosofts new directory service architecture foundle scalable reliable novell directory services
+nd technology
+
+originally windowswas planned replace windowsand
+window nthowever later changed instead updated
+version windowscalled windowssecond edition releasedsuccessor windowsinmicrosoft started
+development project called window neptune supposedhomeuser edition windowshowever project laggedproduction timeand one alpha release built windowreleased substitute neptune project cancelledfavour whistler window element neptune
+project included windowswere ability upgrade
+windowsor windowsand support fat file system
+
+septembermicrosoft released windowsdatacenter
+server targeted largescale computing system support 
+processors
+
+four service pack released windowsservice packsp
+augustservice packsp mayservice pack
+sp augustand last service pack june 
+microsoft stated release service pack 
+instead made available update rollup service pack 
+microsoft phased development java virtual machine
+jvm windowsin service pack 
+
+windowshas since superseded newer microsoft operating
+system microsoft replaced windowsserver product windows
+serverand windowsprofessional window professional
+
+architecture
+
+windowsoperating system architecture consists two layers
+user mode kernel mode many different module withinlayers
+enlarge
+windowsoperating system architecture consists two layers
+user mode kernel mode many different module withinlayers
+
+windowsis highly modular system consists two main
+layer user mode kernel mode user mode refers mode
+user program run program limited termsystem resource access kernel modeunrestricted access system memory external device user
+mode application access system resource executiverun kernel mode
+
+user mode
+
+user mode windowsis made subsystem capable passing request appropriate kernel mode driver using manager two subsystem make user mode layer window 
+environment subsystem integral subsystem
+
+environment subsystem designed run application writtenmany different type operating system application however
+run lower priority kernel mode process three
+main environment subsystems
+win subsystem run bit window application also supports
+virtual machine vdms allows msdos bit windows
+xwin application run windows
+environment subsystem support bit characterbased application emulates osand bitgraphical application used later
+posix environment subsystem support application strictly
+written either posix standard related iso iec
+standards
+
+integral subsystem look operating system specific functions
+behalf environment subsystem consists security
+subsystem grantsdenies access handle logons workstation
+service help computer gain network access server service
+let computer provide network services
+
+kernel mode
+
+kernel mode windowshas full access hardware system
+resource computer kernel mode stop user mode serviceapplication accessing critical area operating systemaccess
+executive interface user mode subsystem deals
+io object management security process managementcontains various component including
+object manager special executive subsystemexecutive subsystem must pas gain access windows
+resource essentially resource management
+infrastructure service allows windowsto object
+oriented operating system
+io manager allows device communicate usermode
+subsystem translating usermode read write commandpassing device drivers
+security reference monitor srm primary authorityenforcing security rule security integral subsystem
+ipc manager short interprocess communication manager manages
+communication client environment subsystemserver component executive
+virtual memory manager manages virtual memory allowing windows
+use hard disk primary storage device although
+strictly speaking secondary storage
+process manager handle process thread creationtermination
+pnp manager handle plug play support device detection
+installation boot time
+power manager power manager coordinate power eventgenerates power irps
+display system handled device driver containedwinksys window manager component driverresponsible drawing window menu gdigraphical
+device interface component responsible taskdrawing line curve rendering font handling palettes
+
+windowshardware abstraction layer hal layerphysical hardware computer rest operating
+system designed hide difference hardware therefore
+provide consistent platform run application hal includes
+hardware specific code control interface interrupt
+controller multiple processors
+
+hybrid kernel sits hal executive provides
+multiprocessor synchronization thread interrupt schedulingdispatching trap handling exception dispatching hybrid kernel
+often interface process manager responsibleinitialising device driver bootup necessary getoperating system running
+
+common functionality
+
+certain feature common across edition windowsamong
+ntfsthe microsoft management console mmcencrypting file system efs dynamic basic disk storage usability
+enhancement multilanguage locale support windowsalso
+ha several standard system utility included standard wellfeature microsoft introduced new feature protect critical
+system file called window file protection prevents programs
+exception microsofts update program replacing
+critical window system file thus making system inoperable
+
+microsoft recognized infamous blue screen death stop
+error could cause serious problem server neededconstantly running provided system setting would allow
+server automatically reboot stop error occurred also
+included option dump firstkb memory disk
+smallest amount memory useful debugging purposes
+also known minidump dump kernel memorydump entire content memory disk well writeevent happened windowsevent log order improve
+performance computer running windowsas server operating
+system microsoft gave administrator choice optimizingoperating system memory processor usage pattern background
+service applications
+
+ntfs 
+
+microsoft released third version ntfs file systemalso
+known versionas part windowsthis introduced quotas
+filesystemlevel encryption sparse file reparse point sparse
+file allow efficient storage data set large
+yet contain many area zero reparse point allowobject manager reset file namespace lookup let file system
+driver implement changed functionality transparent manner
+reparse point used implement volume mount point junctions
+hierarchical storage management native structured storage single
+instance storage volume mount point directory junction allowfile transparently referred one file directory location
+another
+
+encrypting file system
+
+encrypting file system efs introduced strong filelevel
+encryption window allows folder drive ntfs volume
+encrypted transparently end user efs work conjunction
+efs service microsofts cryptoapi efs file system
+runtime library fsrtl septemberits encryption hacompromised
+
+efs work encrypting file bulk symmetric key also knownfile encryption key fek used takerelatively smaller amount time encrypt decrypt large amounts
+data asymmetric key cipher used symmetric key
+used encrypt file encrypted public key
+associated user encrypted fileencrypted data stored header encrypted filedecrypt file file system private key userdecrypt symmetric key stored file headerus symmetric key decrypt file donefile system level transparent user
+
+also case user losing access key supportrecovery agent decrypt file built efs
+
+basic dynamic disk storage
+
+windowsintroduced logical disk manager dynamic storage
+version windowssupport three type dynamic disk
+volume along basic storage simple volume spanned volumestriped volumes
+simple volume volume disk space one disk
+spanned volume multiple disk spanning todisks one
+disk fails data volume lost
+striped volume also known raid striped volume storedata across several disk stripe allows better
+performance disk read writes balanced across
+multiple disks
+
+windowsalso added support iscsi protocol
+
+accessibility support
+
+microsoft made effort increase usability windowsfor
+people visual auditory impairment disabilities
+included several utility designed make systemaccessible
+filterkeys group keyboard related supportpeople typing issue include
+slowkeys window told disregard keystrokeheld certain time period
+bouncekeys multiple keystroke one key ignored
+within certain timeframe
+repeatkeys allows user slow rate keys
+repeated via keyboard keyrepeat feature
+togglekeys turned window play sound either
+cap lock num lock scroll lock key pressed
+mousekeys allows cursor moved around screen vianumeric keypad instead mouse
+screen keyboard assist familiar given
+keyboard allowing use mouse enter characterscreen
+serialkeys give windowsthe ability support speech
+augmentation devices
+stickykeys make modifier key alt ctrl shift become
+stickyin word user press modifier key
+release key press combination key normallymodifier key must remain pressed activate sequence
+activated pressing shifttimes quickly
+screen magnifier assist user visual impairmentmagnifying part screen place mousenarrator microsoft narrator assist user visual impairments
+system message appear narrator read
+via sound system
+high contrast theme assist user visual impairments
+soundsentry designed help user auditory impairments
+windowswill show visual effect sound played
+sound system
+
+languagelocale support
+
+windowshas support many language englishsupport arabic armenian baltic central european cyrillic
+georgian greek hebrew indic japanese korean simplified chinese
+thai traditional chinese turkic vietnamese western european
+language also support many different locale listfound microsofts website
+
+game support
+
+windowsincluded versionof directx application
+programming interface commonly used game developer window 
+majority game written recent version directx could
+therefore run windowsin contrast window ntwhich
+provided support directx 
+
+system utilities
+
+windowsintroduced microsoft management console mmcused create save open administrative tooltool called console console allow administratoradminister windowscomputers one centralised computer
+console contain one many specific administrative tools
+called snapins snapins either standalone performs one
+function extension add functionality existing snapin
+order provide ability control snapins seenconsole mmc allows console created author modecreated user mode author mode allows snapins added new
+window created portion console treedisplayed console saved user mode allows consoledistributed restriction applied user mode console full
+access granted user make whatever change desirelimited access user cannot add consoleview multiple window console limited access
+user cannot add console also cannot view multiple
+window console
+
+main tool come windowscan found computer
+management console found administrative tool control
+panel contains event viewera mean seeing eventwindow equivalent log file system information viewerability view open shared folder shared folder sessiondevice manager tool view local user groupwindowscomputer also contains disk management snapin
+contains disk defragmenter well disk management
+utility lastly also contains service viewer allows
+user view installed service stop startdemand well configure servicecomputer starts
+
+windowscomes bundled two utility edit windows
+registry one act like window regeditexe programcould edit registry permission manner windows
+nt regedtexe program could regeditexe leftside tree view
+begin computer list loaded hive regedtexe
+ha leftside tree view hive windowtree display key regeditexe represents three componentvalue name type data separate column table
+regedtexe represents list string regeditexewritten win api support rightclicking entrytree view adjust property setting regedtexealso written win api requires action performed
+top menu bar regeditexe directly portedwindowsit doe support permission editing permissionexist window therefore way access full
+functionality registry regedtexe usolder multiple document interface mdi newer versionregedit use window wa first system integratetwo program one adopting regeditexe behaviouradditional functionality
+
+system file checker sfc also come bundled windowsit
+command line utility scan system file verifies whether
+signed microsoft work conjunction windows
+file protection mechanism also repopulate repairfile dllcache folder
+
+recovery console
+
+recovery console application run outsideinstalled copy window enables user perform
+maintenance task cannot run inside installed copy
+cannot feasibly run another computer copy windows
+usually used recover system error causing
+booting fail would render tool useless
+
+present simple command line interface commandlimited one checking repairing hard drive repairing
+boot information including ntldr replacing corrupted system files
+fresh copy enablingdisabling servicedriver next boot
+
+console accessed one two ways
+starting windowscd choosing enterrecovery console instead continuing setupinstalling recovery console via winntexe cmdcons
+switch however console used system
+boot point ntldr start
+server family functionality
+
+windowsserver family consists windowsserver windows
+advanced server windowsdatacenter server
+
+edition windowsserver following servicefunctionality builtin
+routing remote access service rras support facilitating
+dialup vpn connection support radius authentication
+network connection sharing network address translation unicast
+multicast routing
+dns server including support dynamic dns active directory
+relies heavily dns
+microsoft connection manager administration kit connection
+point services
+support distributed file system dfs
+hierarchical storage management support service runconjunction ntfs automatically transfer fileused period time expensive storage media
+fault tolerant volume namely support mirrored raid
+group policy part active directory
+intellimirror collection technology finegrained
+management windowsprofessional desktop roaming profiles
+software installation setting management
+kerberos authentication
+public key infrastructure pki support
+terminal service support remote desktop protocol rdp
+internet information server 
+
+distributed file system
+
+distributed file system dfs allows share multiple
+different location logically grouped one folder dfs
+root user try access share exists dfs root
+user really looking dfs link dfs server
+transparently redirects correct file server sharedfs root exist windowsversion partserver family one dfs root exist server
+
+two way implementing dfs windowsthrough
+standalone dfs domainbased dfs standalone dfs allowsdfs root exist local computer thus doe use
+active directory domainbased dfs root exist within active directory
+information distributed domain controllers
+within domainthis provides fault tolerance dfs dfs roots
+exist domain must hosted domain controllerdomain member server file root information replicated via
+microsoft file replication service frs
+
+active directory
+
+new way organizing window network domain groupresource called active directory introduced window 
+obsoleted window traditional domain model active directorys
+hierarchical nature allowed administrator builtin way manage
+user computer policy user account automatically deploy
+program update greater degree scalabilitycentralization provided previous window version onemain reason many corporation migrated windowsuser
+information stored active directory also provided convenient phone
+booklike function end user active directory domain varysmall installation hundred object large installations
+million object active directory contains abilityorganise link group domain contiguous domain name space
+form tree group tree existing outside namespace
+linked together form forests
+
+active directory service installed window 
+server advanced server datacenter server computer cannotinstalled windowsprofessional computer however windows
+professional first client operating system able exploit
+active directory new functionality part organizations
+migration window client continued function clients
+upgraded windowsprofessional point active
+directory domain could switched native mode maximum
+functionality achieved
+
+active directory requires new dns server support srv resource
+record organization existing dns infrastructureupgraded support functionality also requires onedomain controller exist hold active directory databaseprovide active directory directory services
+
+volume fault tolerance
+
+along support simple spanned striped volume server
+family windowsalso support fault tolerant volume typetype supported mirrored volume raid volumes
+mirrored volume volume contains several disk data
+written one mirrored disk means
+one disk fails data totally recovereddisk mirrored volume also known raid
+raid volume raid volume consists multiple diskus blocklevel striping parity data distributed acrossmember disk disk fail array parity blocks
+surviving disk combined mathematically data
+block surviving disk reconstruct datafailed drive onthefly work various levelsuccess
+
+versions
+
+microsoft released various version windowsto caterdifferent market business need released window 
+professional windowsserver windowsadvanced serverwindowsdatacenter server
+windowsprofessional designed desktop operating
+system business power user basic unitwindowsand common offer greater securitystability many previous window desktop operating
+system support two processor address 
+gb ram system requirement pentium processor mhz
+greater leastmb rammb hard drive spacecdrom drive recommended pentium iimb ramgbhard drive space cdrom drive
+windowsserver product share user interfacewindowsprofessional contain additional componentrunning infrastructure application software significant
+component server product active directoryenterprisewide directory service based ldap additionally
+microsoft integrated kerberos network authentication replacingoftencriticised ntlm authentication system used previous
+version also provided purely transitivetrust relationship
+windowsdomains forest collection onewindowsdomains share common schema
+configuration global catalogue linked twoway
+transitive trust furthermore windowsintroduced dns
+server allows dynamic registration addresses
+windowsadvanced server variant windowsserver
+operating system designed mediumtolarge business offers
+clustering infrastructure high availability scalabilityapplication service including main memory support 
+gigabyte physical address extension pae systemability way smp support tcpip load balancing
+enhanced twonode server cluster based microsoft
+cluster server msc window serverenterprise
+edition limited editionbit version windowsadvanced
+server made available via oem channel also supports
+failover load balancing
+windowsdatacenter server variant window 
+server designed large business move large
+quantity confidential sensitive data frequently viacentral server advanced server support clustering
+failover load balancing system requirement normal
+compatible vast amount power
+pentiumclass cpu atmhz higherup toare
+supported one machine
+mb ramup togb supported one machine
+approximatelygb available disk space
+
+deployment
+
+windowscan deployed site via various methodinstalled onto server via traditional medium via via
+distribution folder reside shared folder installationattended unattended attended installation requires manual
+intervention operator choose option installingoperating system unattended installation scripted via answer
+file predefined script form ini file haoption filled already winntexe winntexe programus answer file automate installation unattended
+installation performed via bootable using microsoft
+system management server via system preparation tool
+sysprep via running winntexe program using syspart
+switch via running remote installation service ris
+
+syspart method started standardised reference computer 
+though hardware need similarand copy required
+installation file reference computer hard drivetarget computer hard drive hard drive doe needtarget computer may swapped time hardware
+configuration still needing done later winntexe program
+must also passed unattend switch point valid answer
+file file point location one valid
+installation sources
+
+sysprep allows duplication disk image existing windows
+server installation multiple server meanapplication system configuration setting copied acrossnew windowsinstallations also meanreference target computer must hals acpi support
+mass storage devicesthough windowsautomatically detects
+plug play device primary reason using sysprepdeploying windowsto site standard hardwareneed fast method installing windowsto computersystem different hals mass storage device acpi supportmultiple image would need maintained
+
+system management server used upgrade system window 
+multiple system operating system upgradedprocess must running version window upgraded
+window ntwindows ntwindowsand windowsosrxversion must running client agent receive
+software installation operation using allows installationhappen wide geographical area provides centralised control
+upgrade systems
+
+remote installation service mean automatically install
+windowsprofessional windowsserver local
+computer network central server imagesupport specific hardware configuration security settingconfigured computer reboots service generates new
+unique security sid machine requiredlocal account given right identifier clashwindowsprofessional computer network requires
+client computer able boot network via eithernetwork interface card preboot execution environment pxe
+boot rom installed network card installedsupported remote boot disk generator remote computer must
+also meet net specification server run mustwindowsserver server must able access network dns
+service dhcp service active directory services
+
+total cost ownership
+
+octobermicrosoft commissioned idc determine total cost
+ownership tco enterprise application windowsversus
+tco linux enterprise application idc lookedsecurity infrastructure task web serving accordingreport windowshad lower tco four infrastructure items
+linux lower tco web serving idcs report basedtelephone interview executive manager ofnorth
+american company determined usingspecific workload file print security networking services
+
+idc determined four area windowshad better tco
+linuxover period five year average organizationemployeeswere use file print network infrastructure
+security infrastructure determined however linuxbetter tco windowswhen came web serving report
+also found greatest cost procurementsoftware hardware staffing cost downtime report
+take consideration impact downtimeprofitability business although apply 
+productivity factor order recognize employeeentirely unproductive period infrastructure downtime
+though find linux server unplanned downtimewindowsservers found linux server ran less
+workload per server windowsservers also found none
+business interviewed used way smp linux computer idc
+also take account specific application serversservers
+need low maintenance provided specific vendorwhen
+performed study report emphasise tco waone factor considering whether use particular platformalso noted management server software improved became
+better packaged overall picture shownreport could change
+
+security flaws
+
+number potential security issue noted window 
+common complaint default windowsinstallations
+contain numerous potential security problem many unneeded services
+installed enabled active local security
+policy addition choice insecure default accordingsans common flaw found remotely exploitable
+buffer overflow vulnerabilitiesother flaw operating system
+received criticism include use vulnerable encryption
+technique 
+
+computer worm first came public spotlight period
+windowswas dominant server operating system code red
+code red famous highly visible worldwide press
+worm exploited vulnerability indexing service windows
+internet information service augusttwo major
+worm named sobig worm blaster worm began attack
+million microsoft window computer resulting largest
+downtime cleanup cost date thezotob wormblamed security compromise windowsmachines homeland
+security new york time abc cnn
+
+service packs
+
+throughout life windowshas received four full service packs
+one rollup update package latest service packwindowsmany windowsusers hoping window 
+service packbut microsoft cancelled project earlydevelopment service packwent become update rollupfor
+service packmicrosoft state update meet customers
+need better whole new service packand still help
+windowscustomers secure reduce support costallow system support current generation computer
+hardware
+
+windowsis extended support phasemicrosoft lifecycle policy future service packwindowsonly critical update provided window 
+unpaid
+

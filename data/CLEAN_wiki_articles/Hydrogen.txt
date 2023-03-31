@@ -1,0 +1,442 @@
+copyright
+
+hydrogen
+
+ school wikipedia selection related subject chemical elements
+
+
+featured article click information
+
+
+nonehydrogenhelium
+
+
+h
+
+li
+
+periodic tableextended periodic table
+
+general
+name symbol number hydrogen 
+chemical series nonmetals
+group period blocks
+appearance colorless
+atomic massgmol
+electron configurationelectron per shell 
+physical properties
+phase gas
+densityckpa
+gl
+melting pointk
+cf
+boiling pointk
+cf
+triple pointkkpa
+critical pointkmpa
+heat fusion hkjmol
+heat vaporization hkjmol
+heat capacityc jmolk
+
+caption vapor pressure
+
+ppakkk
+tk
+
+atomic properties
+crystal structure hexagonal
+oxidation states
+amphoteric oxide
+electronegativitypauling scale
+ionization energy stkjmol
+atomic radiuspm
+atomic radius calcpmbohr radius
+covalent radiuspm
+van der waals radiuspm
+miscellaneous
+thermal conductivitykmwmk
+speed sound gascms
+ca registry number 
+selected isotopes
+
+caption main article isotope hydrogen
+
+isonahalflife dmdemevdp
+hh stable withneutrons
+hh stable withneutron
+h traceyhe
+
+references
+
+hydrogenipa hadrdn latin hydrogenium ancient
+greekhudor water ancient greekgeinomaibeget sire chemical element periodic tablesymbol atomic number ofat standard temperaturepressure colorless odorless nonmetallic tasteless highly
+flammable diatomic gas atomic mass ofg mol
+hydrogen lightest element also abundant
+constituting roughlyof universe elemental mass starmain sequence mainly composed hydrogen plasma state
+elemental hydrogen relatively rare earth industrially
+produced hydrocarbon free hydrogen used
+captively meaning locally production site largest
+market equally divided fossil fuel upgrading hydrocracking ammonia production mostly fertilizer
+market however hydrogen easily produced water usingprocess electrolysis
+
+common naturally occurring isotope hydrogen single
+proton neutron ionic compound take eitherpositive charge becoming cation composed bare protonnegative charge becoming anion known hydride hydrogenform compound element present waterorganic compound play particularly important role acidbase
+chemistry many reaction involve exchange protons
+soluble molecule neutral atomschrdinger equation solved analytically studyenergetics bonding hydrogen atom played key roledevelopment quantum mechanics
+
+nomenclature
+
+word hydrogen several different meanings
+name element
+atom sometimes called dot abundant spaceessentially absent earth dimerizes
+diatomic molecule occurs naturally trace amountearth atmosphere chemist increasingly refer hdihydrogen distinguish molecule atomic hydrogenhydrogen found compounds
+atomic constituent within organic compound watermany chemical compounds
+
+elemental form hydrogen confused hydrogenappears chemical compounds
+
+history
+
+discovery 
+hydrogen gas wa first artificially produced formally
+described von hohenheim also known paracelsus
+via mixing metal strong acid unawareflammable gas produced chemical reaction new chemical
+element inrobert boyle rediscovered described reaction
+iron filing dilute acid result production
+hydrogen gas inhenry cavendish first recognize
+hydrogen gas discrete substance identifying gasmetalacid reaction inflammable air findinggas produce water burned cavendish stumbled hydrogenexperimenting acid mercury although wrongly assumedhydrogen liberated component mercury rather acid
+wa still able accurately describe several key propertyhydrogen usually given credit discovery element
+inantoine lavoisier gave element name hydrogenlaplace reproduced cavendish finding water produced
+hydrogen burned lavoisier name gas
+one first h balloon wa obtained
+reacting sulphuric acid metallic iron infamously wa used
+hindenburg airship destroyed midair fire
+
+role history quantum theory
+
+relatively simple atomic structure consistingproton electron hydrogen atom together spectrum
+light produced absorbed centraldevelopment theory atomic structure furthermorecorresponding simplicity hydrogen molecule corresponding
+cation allowed fuller understanding naturechemical bond followed shortly quantum mechanical
+treatment hydrogen atom developed mids
+
+one first quantum effect explicitly noticedunderstood time maxwell observation half century
+full quantum mechanical theory arrived observedspecific heat capacity unaccountably departsdiatomic gas room temperature begin increasingly resemble
+monatomic gas cryogenic temperature according quantum
+theory behaviour arises spacing quantized
+rotational energy level particularly widespaced low mass widely spaced level inhibit equal
+partition heat energy rotational motion hydrogen low
+temperature diatomic gas composed heavier atomwidely spaced level exhibit effect
+
+natural occurrence
+
+ngca giant region ionized hydrogen triangulum galaxy
+enlarge
+ngca giant region ionized hydrogen triangulum galaxy
+
+hydrogen abundant element universe making upof
+normal matter mass overby number atom elementfound great abundance star gas giant planet molecular
+cloud associated star formation hydrogen playvital role powering star protonproton reaction nuclear
+fusion
+
+throughout universe hydrogen mostly found atomicplasma state whose property quite different molecular
+hydrogen plasma hydrogen electron proton bound
+together resulting high electrical conductivity high
+emissivity producing light sun starcharged particle highly influenced magnetic electric
+field example solar wind interact earths
+magnetosphere giving rise birkeland current aurora
+hydrogen found neutral atomic state interstellar
+medium large amount neutral hydrogen found damped
+lymanalpha system thought dominate cosmological baryonic
+density universe redshift 
+ordinary condition earth elemental hydrogen existsdiatomic gas data see table however hydrogen gasrare earth atmosphereppm volume light
+weight enables escape earth gravity easily
+heavier gas although atom molecule abundantinterstellar space difficult generate concentratepurify earth earth hydrogen formchemical compound hydrocarbon water hydrogen gasproduced bacteria algae natural componentflatus methane hydrogen source increasing importance
+
+hydrogen atom
+
+electron energy levels
+
+depiction hydrogen atom protium showing van der waals
+radius proton nucleus
+enlarge
+depiction hydrogen atom protium showing van der waals
+radius proton nucleus
+
+ground state energy level electron hydrogen atomev equivalent ultraviolet photon roughlynm
+
+energy level hydrogen calculated fairly accurately using
+bohr model atom conceptualizes electronorbiting proton analogy earth orbit sun
+however electromagnetic force attracts electron protonone another planet celestial object attractedgravity discretization angular momentum
+postulated early quantum mechanic bohr electron bohr
+model occupy certain allowed distance protontherefore certain allowed energy accurate descriptionhydrogen atom come purely quantum mechanical treatmentus schrdinger equation calculate probability densityelectron around proton treating electron matter wave
+reproduces chemical result shape hydrogen atomnaturally particlebased bohr model although energyspectral result modeling system fully usingreduced mass nucleus electron one would twobody
+problem celestial mechanic yield even better formulahydrogen spectrum also correct spectral shift isotopes
+deuterium tritium small adjustment energy levelhydrogen atom correspond actual spectral effect maydetermined using full quantum mechanical theory correctseffect special relativity see dirac equationaccounting quantum effect arising production virtual
+particle vacuum result electric field see quantum
+electrodynamics
+
+hydrogen gas electronic ground state energy level splithyperfine structure level magnetic effect quantum
+mechanical spin electron proton energy atomproton electron spin aligned higheraligned transition two state occuremission photon magnetic dipole transition radio
+telescope detect radiation produced processused map distribution hydrogen galaxy
+
+isotopes
+
+protium common isotope hydrogen one proton one
+electron unique among stable isotope neutron see
+diproton discussion others exist
+enlarge
+protium common isotope hydrogen one proton one
+electron unique among stable isotope neutron see
+diproton discussion others exist
+
+hydrogen three naturally occurring isotope denoted hh highly unstable nucleus h synthesized
+laboratory observed nature
+h common hydrogen isotope abundancethanbecause nucleus isotope consistssingle proton given descriptive rarely used formal
+name protium
+
+h stable hydrogen isotope known deuteriumcontains one proton one neutron nucleus deuterium
+comprisesof hydrogen earthradioactive doe represent significant toxicity hazard
+water enriched molecule include deuterium insteadnormal hydrogen called heavy water deuterium compounds
+used nonradioactive label chemical experimentsolvent nmr spectroscopy heavy water usedneutron moderator coolant nuclear reactor deuteriumalso potential fuel commercial nuclear fusion
+
+h known tritium contains one proton two neutronnucleus radioactive decay beta decayhalflife ofyears small amount tritium occur naturally
+interaction cosmic ray atmospheric gases
+tritium also released nuclear weapon testused nuclear fusion reaction tracer isotope
+geochemistry specialized selfpowered lighting devices
+tritium routinely used chemical biological labeling
+experiment radiolabel become common
+
+hydrogen element different name isotopes
+common use today early study radioactivity various
+heavy radioactive isotope given name namelonger used symbol instead hsometimes used deuterium tritium corresponding symbol
+p already use phosphorus thus availableprotium iupac state use commonpreferred
+
+elemental molecular forms
+
+first track observed liquid hydrogen bubble chamber
+enlarge
+first track observed liquid hydrogen bubble chamber
+
+two different type diatomic hydrogen moleculediffer relative spin nucleus orthohydrogen form
+spin two proton parallel form triplet stateparahydrogen form spin antiparallel form singletstandard temperature pressure hydrogen gas contains aboutof
+para form andof ortho form also known normal
+form equilibrium ratio orthohydrogen parahydrogen depends
+temperature since ortho form excited state hahigher energy para form unstable cannotpurified low temperature equilibrium state composed
+almost exclusively para form physical property pure
+parahydrogen differ slightly normal formorthopara distinction also occurs hydrogencontaining
+molecule functional group water methylene
+
+uncatalyzed interconversion para ortho increases
+increasing temperature thus rapidly condensed contains large
+quantity highenergy ortho form convert para form
+slowly orthopara ratio condensed important
+consideration preparation storage liquid hydrogenconversion ortho para exothermic produce enough heatevaporate hydrogen liquid leading loss liquefied
+material catalyst orthopara interconversion iron
+compound used hydrogen cooling
+
+chemical physical properties
+
+solubility adsorption characteristic hydrogen various
+metal important metallurgy many metal suffer
+hydrogen embrittlement developing safe way store use
+fuel hydrogen highly soluble many compound composedrare earth metal transition metal dissolvedcrystalline amorphous metal hydrogen solubility metalinfluenced local distortion impurity metal crystal
+lattice
+
+combustion
+
+hydrogen combust rapidly air blamed disaster
+hindenburg may
+enlarge
+hydrogen combust rapidly air blamed disaster
+hindenburg may
+
+hydrogen gas highly flammable burn concentration low
+ash air enthalpy combustion hydrogen 
+kjmol combusts according following balanced equation
+
+hgogholkj
+
+mixed oxygen across wide range proportion hydrogen
+explodes upon ignition hydrogen burn violently air
+hydrogenoxygen flame nearly invisible naked eyeillustrated faintness flame main space shuttle
+engine opposed easily visible flame shuttle
+booster thus difficult visually detect hydrogen leak
+burning hindenburg zeppelin flame seen adjacent picture
+covering skin zeppelin contained carbonpyrophoric aluminium powder may started fire another
+characteristic hydrogen fire flame tend ascend
+rapidly gas air causing damage hydrocarbon
+fire twothirds hindenburg passenger survived deathfalling gasoline burns
+
+h reacts directly oxidizing element violentspontaneous reaction occur room temperature chlorinefluorine forming corresponding hydrogen halide hydrogen chloride
+hydrogen fluoride
+
+compounds
+
+covalent organic compounds
+
+h reactive standard condition doe form
+compound element million hydrocarbon knownformed direct reaction elementary hydrogencarbon hydrogen form compound elementelectronegative halogen f br chalcogens
+se compound hydrogen take partial positive
+charge bonded fluorine oxygen nitrogen hydrogenparticipate form strong noncovalent bonding called hydrogen
+bonding critical stability many biological
+molecule hydrogen also form compound electronegative
+element metal metalloids takepartial negative charge compound often known hydrides
+
+hydrogen form vast array compound carbongeneral association living thing compound camecalled organic compound study property knownorganic chemistry study context living organismknown biochemistry definition organic compoundrequired contain carbon classic historical example
+urea however also contain hydrogen sincecarbonhydrogen bond give class compoundparticular chemical characteristic carbonhydrogen bond required
+definition word organic chemistry latter
+definition perfect however definition urea would
+included organic compound
+
+inorganic chemistry hydride also serve bridging ligands
+link two metal center coordination complex functionparticularly common groupelements especially boranes boron
+hydride aluminium complex well clustered carboranes
+
+hydrides
+
+compound hydrogen often called hydride term used
+fairly loosely chemist term hydride usually impliesh atom acquired negative anionic character denoted existence hydride anion suggested lewis infor
+group saltlike hydride demonstated moers 
+electrolysis molten lithium hydride lih producedstoichiometric quantity hydrogen anode hydridegroup metal term quite misleading considering
+low electronegativity hydrogen exception group hydride beh polymeric lithium aluminium hydride
+alh anion carry hydridic center firmly attachedaliii although hydride formed almost maingroup
+element number combination possible compound varies
+widely example overbinary borane hydride known
+one binary aluminium hydride binary indium hydride hayet identified although larger complex exist
+
+proton acids
+
+oxidation formally give proton speciecentral discussion acid though term proton used loosely
+refer positively charged cationic hydrogen denoted hbare proton cannot exist solution strong tendency
+attach atom molecule electron avoidconvenient fiction naked solvated proton solution acidic
+aqueous solution sometimes considered contain hydronium ion
+ho organized cluster form oxonium
+ion found water solution solvents
+
+although exotic earth one common ion universe
+h ion known protonated molecular hydrogentriatomic hydrogen cation
+
+production
+
+h produced chemistry biology laboratory oftenbyproduct reaction industry hydrogenationunsaturated substrate nature mean expelling reducing
+equivalent biochemical reactions
+
+laboratory syntheses
+
+laboratory usually prepared reaction acidmetal zinc
+
+znhznh
+
+aluminium produce upon treatment acid also base
+
+alhoalohh
+
+electrolysis water simple method producing hydrogen
+although resulting hydrogen necessarily le energy content
+wa required produce low voltage current runwater gaseous oxygen form anode gaseous hydrogen
+form cathode typically cathode made platinumanother inert metal producing hydrogen storage however
+gas burnt site oxygen desirable assistcombustion electrode would made inert metals
+iron instance would oxidize thus decrease amountoxygen given theoretical maximum efficiency electricity used
+v energetic value hydrogen produced betweenbellona
+report hydrogen
+
+hoaqhgog
+
+industrial syntheses
+
+hydrogen prepared several different way economically
+important process involve removal hydrogen hydrocarbons
+commercial bulk hydrogen usually produced steam reformingnatural gas high temperaturescf steam
+water vapor reacts methane yield carbon monoxide 
+chhocoh
+
+reaction favored low pressure nonetheless conducted
+high pressuresatminhg since high pressure hmarketable product product mixture known assynthesis
+gas often used directly production methanol
+related compound hydrocarbon methane usedproduce synthesis gas varying product ratio one many
+complication highly optimized technology formationcoke carbon
+
+chch
+
+consequently steam reforming typically employ excess 
+additional hydrogen steam reforming recoveredcarbon monoxide water gas shift reaction especiallyiron oxide catalyst reaction also common industrial
+source carbon dioxide
+
+cohocoh
+
+important method production include partial oxidation
+hydrocarbons
+
+chocoh
+
+coal reaction serve prelude shift
+reaction
+chocoh
+
+nb hydrogen sometimes produced consumed industrial
+process without separated haber processproduction ammonia world fifth produced industrial
+compound hydrogen generated natural gas
+
+biological syntheses
+
+h product type anaerobic metabolism produced
+several microorganism usually via reaction catalyzed ironnickelcontaining enzyme called hydrogenases enzyme catalyze
+reversible redox reaction component two
+proton two electron evolution hydrogen gas occurstransfer reducing equivalent produced pyruvate fermentation
+water
+
+water splitting water decomposed component
+proton electron oxygen occurs light reactionphotosynthetic organism organismsincluding alga
+chlamydomonas reinhardtii cyanobacteriahave evolved second
+step dark reaction proton electron reduced
+form gas specialized hydrogenases chloroplast
+effort undertaken genetically modify cyanobacterial
+hydrogenases efficiently synthesize gas even presenceoxygen
+
+rarer mechanistically interesting route production
+also exist nature nitrogenase produce approximately one equivalent
+h equivalent reduced ammoniaphosphatase reduce phosphite 
+applications
+
+large quantity needed petroleum chemical
+industry largest application processing
+upgrading fossil fuel production ammoniakey consumer petrochemical plant include
+hydrodealkylation hydrodesulfurization hydrocracking hseveral important h used hydrogenating agent
+particularly increasing level saturation unsaturated fats
+oil found item margarine productionmethanol similarly source hydrogen manufacturehydrochloric acid also used reducing agent metallic
+ores
+
+apart use reactant ha wide application physics
+engineering used shielding gas welding methodatomic hydrogen welding used rotor coolantelectrical generator power station highest
+thermal conductivity gas liquid used cryogenic
+research including superconductivity study since lighter
+air little density airwa widely used lifting agent balloon airships
+however use curtailed hindenburg disaster convinced
+public gas dangerous purpose
+
+hydrogen rarer isotope also specific applications
+deuterium hydrogen used nuclear fission applicationmoderator slow neutron nuclear fusion reaction deuterium
+compound application chemistry biology studyreaction isotope effect tritium hydrogen produced nuclear
+reactor used production hydrogen bomb isotopic
+label bioscience radiation source luminous paints
+
+triple point temperature equilibrium hydrogen defining
+fixed point temperature scale
+
+hydrogen energy carrier
+
+used ingredient rocket fuel several
+decade hydrogen specifically widely discussed
+context energy hydrogen energy source sinceabundant natural resource energy used produceultimately extracted however could become
+useful carrier energy elucidated united states
+department energysreport among various alternative
+energy strategy building energy infrastructure hydrogen
+third abundant element earth surfaceasprimary carrier connects host energy source diverse end
+us may enable secure clean energy future nationhydrogen would locally converted usable energy either via
+combustion fossil fuel electrochemical conversionelectricity fuel cell
+
+one theoretical advantage using carrierlocalization concentration environmentally unwelcome aspecthydrogen manufacture example sequestration couldconducted point production methane hydrogen could
+also produced using electrolysis water method howevercurrently three six time expensive production natural
+gas hightemperature electrolysis promise greater efficiency
+investigated currently however hydrogen productionexpensive relative energy storage chemical bulkhydrogen produced least expensive methodnoted employ methane currently practiced creates
+greenhouse gas emissions
+

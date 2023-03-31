@@ -1,0 +1,286 @@
+copyright
+
+openbsd
+
+ school wikipedia selection related subject software
+
+
+featured article click information
+
+caption openbsd
+
+openbsd logo puffy pufferfish
+free functionalsecure
+websitewwwopenbsdorg
+company
+developerthe openbsd project
+familybsd
+source modelopen source
+latest stable releasenovember
+package manageropenbsd package tool port collection
+supported platformsamd alpha mipspowerpc sparc
+sparc vax zaurus others
+kernel typemonolithic
+default user interface modified pdksh fvwm licensemostly bsd
+working statecurrent
+prerequisites
+computer operating system
+unix unixlike
+software licensing
+computer insecurity
+
+openbsd freely available unixlike computer operating system
+descended berkeley software distribution bsd unix derivative
+developed university california berkeley forkednetbsd oldest three popular bsdbased operating
+system still active today freebsd project
+leader theo raadt latethe project widely knowndeveloper insistence open source code quality documentation
+uncompromising position software licensing focus security
+code correctness project coordinated raadts home
+calgary alberta canada logo mascot puffypufferfish
+
+openbsd includes number security feature absent optionaloperating system tradition developer auditingsource code software bug security problem project
+maintains strict policy licensing prefers open source bsd
+licence variantsin past led comprehensive
+licence audit move remove replace code licence found
+le acceptable
+
+common bsdbased operating system openbsd
+kernel userland program shell common tool like
+cat developed together single source repository
+thirdparty software available binary package may built
+source using port collection
+
+openbsd currently run ondifferent hardware platform including
+dec alpha intel hewlettpackard parisc amd amdmotorolaprocessors apple powerpc machine sun sparcsparcbased computer vax sharp zaurus
+
+history popularity
+
+openbsdcd cover original mascot puffy
+appeared release 
+enlarge
+openbsdcd cover original mascot puffy
+appeared release 
+
+decembernetbsd cofounder theo raadt asked resign
+position senior developer member netbsd core team
+access source code repository revoked reason
+wholly clear although claim due
+personality clash within netbsd project mailing
+list raadt criticized sometimes abrasive
+personality book free peter wayner claim raadt began rub people wrong way splitnetbsd linus torvalds described difficultinterviewer admits apprehensive meeting many
+different feeling interviewer describes raadts
+transformation founding openbsd desire take careteam find straightforwardness refreshing deny
+talented coder security guru
+proportion user bsd variant bsd usage surveyparticipant permitted indicate multiple bsd variants
+enlarge
+proportion user bsd variant bsd usage surveyparticipant permitted indicate multiple bsd variants
+
+octoberde raadt founded openbsd new project forkednetbsdthe initial release openbsdwas made july 
+followed october year openbsdsinceproject followed schedule release every six monthmaintained supported one year latest release
+openbsdappeared november
+
+widely openbsd used hard ascertain developercollect publish usage statisticsource information nascent bsd certification project performed
+usage survey revealed thatof bsd usersof 
+respondent using openbsd placing second four major
+bsd variant behind freebsd withand ahead netbsd 
+distrowatch website wellknown linux community often
+used reference popularity publishes page hitlinux distribution operating system cover august
+place openbsd place fairly closeaverage withhits per day freebsd place withhits
+per day number linux distribution rangestatistic possible conclude openbsdsubstantial presence bsd world somewhere around thirduserbase freebsd unnoticed wider open source
+free software operating system community
+
+licensing
+
+openbsdrunning xorg jwm window manager
+enlarge
+openbsdrunning xorg jwm window manager
+
+goal openbsd project maintain spiritoriginal berkeley unix copyright permitted relatively
+unencumbered unix source distribution end internet
+system consortium isc licence simplified version bsd
+licence wording removed unnecessary berne
+convention preferred new code mit bsd licenceaccepted widely used gnu general public license considered
+overly restrictive comparison code licensedlicence project see undesirable longer
+accepted addition base system addition existing code
+licence actively replaced relicensed possible
+except case gnu compiler collection gccsuitable replacement creating one wouldtimeconsuming impractical despite openbsd madesignificant stride area particular note development
+openssh based original ssh suite developedopenbsd team first appeared openbsdandsingle popular ssh implementation available standardpackage many operating system also worth mentioningdevelopment licence restriction imposed ipfilterpf packet filter first appeared openbsdandavailable dragonfly bsd netbsd freebsd recently openbsd
+release seen gpl licensed tool diff grep gzip dc size replaced bsd licensed equivalent openbsd developeralso behind openbgpd openospfd openntpd opencvs bsd licensed
+alternative existing software
+
+june oftriggered concern darren reed modification
+ipfilters licence wording systematic licence auditopenbsd port source tree undertaken codehundred file throughout system found unlicensed
+ambiguously licensed use term licenceensure licence properly adhered attempt made
+contact relevant copyright holder piece coderemoved many replaced others including multicast
+routing tool mrinfo mapmbone licensed xeroxresearch relicensed openbsd could continue use
+also note audit removal software
+produced daniel bernstein openbsd port treetime bernstein requested modified version codeapproved prior redistribution requirement openbsd
+developer unwilling devote time effort removal ledclash bernstein felt removal softwareuncalled cited netscape web browser much free
+accusing openbsd developer hypocrisy permitting netscaperemain removing software openbsd project stancenetscape although open source licence conditionmuch easier meet asserted bernstein demandcontrol derivative would lead great deal additional work
+removal appropriate way complyrequirement present daniel bernstein software still
+absent port tree
+
+security code auditing
+
+shortly openbsds creation theo raadt contactedlocal security software company named secure network inc sni
+developing network security auditing tool called ballista
+later renamed cybercop scanner sni purchased network
+associate intended find attempt exploit possible
+software security flaw coincided well raadtsinterest security two agreed cooperate relationship
+wa particular use leading release openbsdand
+helped form focal point project openbsd developer would
+attempt right proper secure even costease speed functionality bug within openbsd became harderfind exploit security company found difficult
+cost effective handle obscure problem yearcooperation two party decided goal togethermet parted ways
+
+junethe openbsd website featured slogan
+
+
+openbsd
+
+remote computer hole default install nearlyyears
+
+
+openbsd
+
+junemark dowd internet security system disclosed bugopenssh code implementing challengeresponse authenticationwa first far vulnerability discovered openbsd
+default installation allowing attacker remote access root
+accountit extremely serious partly due widespread useopenssh time bug affected considerable numberoperating system problem necessitated adjustmentslogan openbsd website
+
+openbsd
+
+one remote hole default install thanyears
+
+
+openbsd
+
+statement criticized little enableddefault install openbsd release included softwarelater found remote hole however project maintainsslogan intended refer default installcorrect measure one fundamental idea behind openbsddrive system simple clean secure defaultexample openbsds minimal default fit standard computer
+security practice enabling service possible production
+machine project open source code auditing practices
+argued important element security system
+openbsd current bootingsaw security change malloc
+function
+enlarge
+openbsd current bootingsaw security change malloc
+function
+
+openbsd includes large number specific feature designedimprove security including api toolchain alterationstrlcpy strlcat function static bound checker memory
+protection technique guard invalid accesspropolice stackghost w xor page protection featurewell alteration malloc cryptography randomization
+feature including network stack enhancement additionblowfish cipher password encryption reduce riskvulnerability misconfiguration allowing privilege escalationprogram written adapted make use privilege
+separation privilege revocation chrooting privilege separationtechnique pioneered openbsd inspired principleleast privilege program split two part one
+performs privileged operation otheralmost alwaysbulk coderuns without privilege privilege revocationsimilar involves program performing necessary operationprivilege start dropping chrooting
+involves restricting application one section file system
+prohibiting accessing area contain private system
+file developer applied feature openbsd versioncommon application including tcpdump apache web server
+due licensing issue later apacheseriesheavily patchedrelease
+
+project policy continually auditing code security
+problem work developer marc espie described never finished 
+question process specific bug huntedwent list several typical step bug found including
+examining entire source tree similar issues
+trying find whether documentation ought amended
+investigating whether possible augment compilerwarn specific problem along dragonfly bsd openbsd
+one two open source operating system policyseeking example classic c code convertingmodern ansi equivalentthis involves functional changepurely readability consistency reason standard code style
+kernel normal form dictate code must look ordereasily maintained understood must applied codeconsidered inclusion base operating system existing
+code actively updated meet style requirements
+
+uses
+
+openbsds security enhancement builtin cryptography firewall suit use security industry particularlyfirewall intrusiondetection system vpn gateway also
+commonly used server need resistant cracking
+attempt attack due inclusion spamd daemon
+occasionally see use mail filtering applications
+
+several proprietary system based openbsd
+including profense armorlogic aps various security appliances
+made vantronix gmbh syswall syscall network solution genugate genubox genu mbh hiobmessenger topx rtmx
+rtmx inc rtmx genu contributed back
+openbsd rtmx sent patch add posix compliancesystem genu funded development smpplatform several open source operating system also derived
+openbsd notably anonymos miro bsd welldefunct ekkobsd microbsd gentooopenbsd addition codemany openbsd system tool used recent versionmicrosofts service unix extension window operating
+system provides unixlike functionality originally basedbsdlite core force security product window basedopenbsds firewall also project use openbsd
+part image embedded system including opensoekrisflashdist together tool like nsh allow ciscolike
+embedded device created
+openbsdrunning xorg default fvwm window manager
+enlarge
+openbsdrunning xorg default fvwm window manager
+
+openbsd ship window system following xfree licence
+change includes recent xorg release older xfree 
+release also available legacy video cardpossible use openbsd desktop workstation making usedesktop environment window manager give desktopwide range appearance openbsd port tree contains manypopular tool desktop use including desktop environments
+gnome kde xfce web browser mozilla firefox operamultimedia program addition graphical software many usavailable port tree compiling posix compliant
+software also available compatibility layer allow binary
+code compiled operating system including linux freebsd
+sunos hpux run however since hardware providergraphic card manufacturer ati nvidia refuse release open
+source driver documentation capabilityhardware openbsd lack accelerated graphic support
+
+openbsds performance usability occasionally criticized
+performance scalability test famously felix von leitners
+test often show openbsd lag behind operating systems
+openbsd user developer countered assertingalthough performance certainly given consideration security
+reliability correctness seen important openbsd also
+relatively small project particularly compared freebsdlinux developer time sometimes seen better spent security
+enhancement performance optimisation critic usability often
+point lack userfriendly configuration tool bare
+default installation spartan intimidating installersee much rebuttal performance preferencesimplicity reliability security one reviewer admits running
+ultrasecure operating system bit work
+
+distribution marketing
+
+openbsd available freely various way sourceretrieved anonymous cvsup binary releasedevelopment snapshot downloaded either ftp http
+prepackaged set ordered online small fee complete
+assortment sticker copy release theme song
+artwork bonus one projects
+source income funding hardware bandwidth expenses
+encourage sale official openbsd make small
+install iso image available download rather provide full
+release isos
+
+common several operating system openbsd portpackage system allow easy installation managementprogram part base operating system originally
+based freebsd port tree system quite distinct
+additionally major change made since therelease
+including replacement package tool tool availableuser manipulate package capable version writtenperl marc espie contrast freebsd openbsd port systemintended source used create end product packages
+installing port first creates package installs using
+package tool package built bulk openbsd teamprovided download release openbsd also unique among
+bsds port base operating system developedreleased together version mean portpackage released exampleare suitable usevice versa policy lends great deal stabilitydevelopment process mean software portlatest openbsd release lag somewhat latest version
+available author
+
+around time openbsdrelease original mascot bsd
+daemon trident aureola replaced puffy traditionally
+said pufferfish fact pufferfish posse spikeimage puffy closer similar specie porcupinefish
+puffy selected blowfish encryption algorithm usedopenssh strongly defensive image porcupinefishspike deter predator quickly became popular mainly
+appealing image fish distinctionbsd daemon also used freebsd horde daemon usednetbsd puffy made first public appearance openbsdand
+since appeared number guise teeshirtsposter included puffiana jones famed hackologistadventurer seeking lost raid puffathy little alberta girl
+must work taiwan save day sir puffy ramsayfreedom fighter little bob beckley took richgave puff daddy famed rapper political icon
+
+number release openbsd become notorious catchy
+song interesting often comical artwork promotional
+material early openbsd release cohesive themedesign starting openbsdthe release song posters
+teeshirts release produced single style
+theme sometimes contributed semaka plaid tongued
+devil first done lightly intended add humour
+concept evolved become part openbsd
+advocacy release expanding moral political point
+important project often parody past themeincluded openbsdthe hacker lost raid parodyindiana jones linked new raid tool featured partrelease wizard making debut openbsdbasedwork pink floyd parody wizard relatedproject recent wireless hacking openbsd puffbarbarian including rockstyle song parody conanbarbarian alluding open documentation
+
+addition slogan used teeshirts poster releases
+project occasionally produce material years
+catchphrase included sending script kiddy devnull since
+functional secure freechoosesecure defaultinsider slogan available teeshirts made developer
+gathering world class security much price
+cruise missile crufty old octopus proclaiming shuthack
+
+books
+
+number book openbsd published including
+mastering freebsd openbsd security yanek korff paco hope
+bruce potter isbn 
+building firewall openbsd second edition jacek
+artymiak isbn 
+secure architecture openbsd brandon palmer jose
+nazario isbn 
+absolute openbsd unix practical paranoid michael lucas isbn 
+building linux openbsd firewall wes sonnenreich tom
+yates isbn 
+openbsd packet filter book netbsd freebsd
+dragonfly openbsd published reed medium service isbn
+
+

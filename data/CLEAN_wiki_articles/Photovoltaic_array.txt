@@ -1,0 +1,135 @@
+copyright
+
+photovoltaic array
+
+ school wikipedia selection related subject engineering
+
+photovoltaic module composed individual cell array linked assembly modules
+enlarge
+photovoltaic module composed individual cell array linked assembly modules
+
+photovoltaic array linked collection photovoltaic modules
+one shown picture right photovoltaic
+pv module made multiple interconnected cell cells
+convert solar energy directcurrent electricity modulesometimes called solar panel although term better appliessolarthermal water air heating panel photovoltaic modules
+distinguish solar cell conveniently
+sized packaged weatherresistant housing easy installation
+deployment residential commercial industrial applications
+application study photovoltaic device knownphotovoltaics
+
+pv cell operate via photovoltaic effect describescertain material convert sunlight electricity absorb
+energy sun cause current flow two
+oppositely charged layer individual solar cell provide relatively
+small amount power electrical output significantconnected together cell module array connectedseries parallel typically combination create desired
+peak voltage output
+
+history
+
+induring industrial revolution alexandre edmond becquerel
+father nobel laureate henri becquerel discoveredphotovoltaic effect explains electricity generated
+sunlight claimed shining light electrode submerged
+conductive solution would create electric currenthowever
+despite extensive research development discovery
+photovoltaic power continued inefficientphotovoltaic cell used mainly purpose measuring
+light overyears later inrussell ohl invented solar
+cell following invention transistor
+
+applications
+
+solar panel small yacht sea charge thevolt
+battery toamperes full direct sunlight
+enlarge
+solar panel small yacht sea charge thevolt
+battery toamperes full direct sunlight
+
+solar photovoltaic panel frequently applied satellite power
+however cost production reduced recent yearwidespread use production technological advanceexample single crystal silicon solar cell largely replaced
+le expensive multicrystalline silicon solar cell thin film
+silicon solar cell also developed recently lower costproduction yet see solar cell although reduced energy
+conversion efficiency single crystalline wafer also
+much easier produce comparably lower costs
+
+together storage battery photovoltaics become commonplace
+certain lowpower application signal buoy deviceremote area simply connection electricity main would
+impractical experimental form even used power
+automobile race world solar challenge across
+australia many yacht land vehicle use charge onboard
+batteries
+
+pv performance
+
+larger solar array provide electricity habitation isolated
+sunny areas
+enlarge
+larger solar array provide electricity habitation isolated
+sunny areas
+
+high noon cloudless day equator sun deliverskwm earth surface plane perpendicularsun ray array track sunday greatly enhance energy collection however tracking device add
+cost require maintenance common arrayfixed mount tilt array face due southnorthern hemisphere southern hemisphere point due
+north tilt angle horizontal varied seasonfixed set give optimal array output peak
+electrical demand portion typical year
+
+factor affect performance accounting cloudfact world equator sun
+set evening correct measure solar power insolation
+average number kilowatthours per square meter per dayweather latitude united state europe typical
+insolation range fromkwhmday northern clime 
+kwhmday sunniest region typical solar panelaverage efficiency ofwith best commercially available panels
+atthus photovoltaic installation southern latitudeeurope united state may expect produce kwhmdaytypicalwatt solar panel square meter sizepanel may expected producekwh every day averagetaking account weather latitude
+
+sahara desert cloud cover better solar angle
+one obtain closer towm unpopulated area sahara
+desert overmillion covered solar panel would
+provideterawatts total earth current energy comsumptionaroundtw given moment including oil gas coal nuclear
+hydroelectric power
+
+photovoltaic cell electrical output extremely sensitiveshading even small portion cell module arrayshaded remainder sunlight output falls
+drammatically due internal shortcircuitingthe electrons
+reversing course shaded portion junctionextremely important array shadedtree architectural feature flag pole obstructions
+
+module output life also degraded increased temperature
+allowing ambient air flow possible behind modules
+reduces problem however effective module life typically 
+year replacement cost considered well
+
+solar photovoltaic panel spacecraft
+
+solar panel stardust spacecraft nasa image
+enlarge
+solar panel stardust spacecraft nasa image
+
+solar panel used spacecraft particularlyinner part solar system designed pivotspacecraft always direct path solar
+ray order optimise amount energy generated solar panels
+spacecraft equipped fresnel lens concentrates
+sunlight effort maximize electric productionfact sun mostly source energyconstruction solar cell spacecraft could one highest
+cost journeying outer part solar system beyond
+nuclear reactor radioisotope thermal generator preferredsun ray weak massive distance powerspacecraft
+
+esa researching possibility solar power satellitewould generate electricity space beam earth via laser
+microwave addition solar power considered used
+propulsion mechanism lieu chemical propulsion
+
+theory construction
+
+solar panel top parking meter note particular
+installation shaded may perform desired
+enlarge
+solar panel top parking meter note particular
+installation shaded may perform desired
+
+crystalline silicon gallium arsenide typical choicematerial solar cell gallium arsenide crystal grown
+especially photovoltaic use silicon crystal available
+lessexpensive standard ingot ingot produced mainlyconsumption microelectronics industry polycrystalline silicon
+ha lower conversion efficiency also lower cost
+
+manufacturing process crystalline silicon ingot sliced
+waferthin disk polished remove slicing damage dopantsintroduced soup metallic conductor deposited onto
+surface thin grid sunfacing side usually flat
+sheet solar panel constructed cell cut
+appropriate shape protected radiation handling damage
+front surface bonding cover glass cemented ontosubstrate either rigid panel flexible blanket electrical
+connection made series parallel determine total output
+voltage cement substrate must thermally conductive
+cell heat absorbing infrared energyconverted electricity since cell heating reduces operating
+efficiency desirable minimize heating resulting
+assembly called solar panel solar arrays
+

@@ -1,0 +1,449 @@
+copyright
+
+protein
+
+ school wikipedia selection related subject general biology
+
+representation structure myoglobin showing coloured
+alpha helix protein first structure solved
+xray crystallography
+enlarge
+representation structure myoglobin showing coloured
+alpha helix protein first structure solved
+xray crystallography
+
+protein large organic compound made amino acid arrangedlinear chain joined together carboxyl atom one amino
+acid amine nitrogen another bond called peptide
+bond sequence amino acid protein defined geneencoded genetic code although genetic code specifies 
+standard amino acid residue protein often chemically
+altered posttranslational modification either protein
+function cell part control mechanism proteins
+also work together achieve particular function often
+associate form stable complexes
+
+like biological macromolecule polysaccharidenucleic acid protein essential part living organismparticipate every process within cell many protein enzymes
+catalyze biochemical reaction vital metabolismprotein structural mechanical function proteins
+cytoskeleton form system scaffolding maintains
+cell shape protein also important cell signaling immune
+response cell adhesion cell cycle protein alsonecessary component diet since animal cannot synthesiseamino acid must obtain essential amino acid food
+process digestion animal break ingested protein
+free amino acid used protein synthesis
+
+name protein come greekprota meaningprimary importance first described named jns jakob
+berzelius inhowever central role living organismfully appreciated untilwhen james sumner showedenzyme urease protein first protein structure solved
+included insulin myoglobin first sir frederick sanger
+anobel prize second max perutz sir
+john cowdery kendrew inboth protein threedimensional
+structure amongst first determined xray diffraction
+analysis myoglobin structure nobel prize chemistrydiscoverers
+
+biochemistry
+
+resonance structure peptide bond link individual amino
+acid form protein polymer
+enlarge
+resonance structure peptide bond link individual amino
+acid form protein polymer
+section protein structure showing serine alanine residues
+linked together peptide bond carbon shown whitehydrogen omitted clarity
+enlarge
+section protein structure showing serine alanine residues
+linked together peptide bond carbon shown whitehydrogen omitted clarity
+
+protein linear polymer built fromdifferent lalpha amino
+acid amino acid share common structural feature includingalpha carbon amino group carboxyl group variable
+side chain bonded proline show little differencefashion containing unusual ring nend amine groupforce conh amide sequence fixed conformation side
+chain standard amino acid detailed list standard
+amino acid varying chemical property produce proteins
+threedimensional structure therefore critical protein
+function amino acid polypeptide chain linked peptide
+bond formed dehydration reaction linked protein
+chain individual amino acid called residue linked
+series carbon nitrogen oxygen atom known main
+chain protein backbone peptide bond two resonance forms
+contribute double bond character inhibit rotation around
+axis alpha carbon roughly coplanar two
+dihedral angle peptide bond determine local shape assumed
+protein backbone
+
+due chemical structure individual amino acidprotein chain directionality end protein free
+carboxyl group known cterminus carboxy terminusend free amino group known nterminus amino
+terminus
+
+ambiguity usage word protein
+polypeptide peptide protein generally used refercomplete biological molecule stable conformation peptidegenerally reserved short amino acid oligomers often lackingstable dimensional structure however boundary two
+illdefined usually lie nearresidues polypeptiderefer single linear chain amino acid usually regardlesslength often implies absence single defined conformation
+
+synthesis
+
+protein assembled amino acid using information encodedgene protein unique amino acid sequencespecified nucleotide sequence gene encoding protein
+genetic code set threenucleotide set called codonthreenucleotide combination stand amino acid example
+atg stand methionine dna contains four nucleotidetotal number possible codon ishence redundancy
+genetic code amino acid specified one
+codon gene encoded dna first transcribed pre messenger
+rna mrna protein rna polymerase organismprocess premrna also known primary transcript using various
+form posttranscriptional modification form mature mrna
+used template protein synthesis ribosome
+prokaryote mrna may either used soon produced
+bound ribosome moved away nucleoidcontrast eukaryote make mrna cell nucleus translocate
+across nuclear membrane cytoplasm protein
+synthesis take place rate protein synthesis higherprokaryote eukaryote reach toamino acid per
+second
+
+process synthesizing protein mrna template knowntranslation mrna loaded onto ribosome read three
+nucleotide time matching codon base pairing
+anticodon located transfer rna molecule carry amino
+acid corresponding codon recognizes enzyme aminoacyl
+trna synthetase charge trna molecule correct amino
+acid growing polypeptide often termed nascent chain
+protein always biosynthesized nterminus cterminus
+
+size synthesized protein measured numberamino acid contains total molecular massnormally reported unit dalton synonymous atomic mass
+unit derivative unit kilodalton kda yeast proteinaverageamino acid long andkda mass largest known
+protein titins component muscle sarcomeremolecular mass almostkda total length almost 
+amino acids
+
+chemical synthesis
+
+short protein also synthesized chemically laboratoryfamily method known peptide synthesis rely organic
+synthesis technique chemical ligation produce peptidehigh yield chemical synthesis allows introductionnonnatural amino acid polypeptide chain attachmentfluorescent probe amino acid side chain method useful
+laboratory biochemistry cell biology though generallycommercial application chemical synthesis inefficientpolypeptide longer aboutamino acid synthesized
+protein may readily assume native tertiary structurechemical synthesis method proceed cterminus nterminus
+opposite biological reaction
+
+structure proteins
+
+three possible representation threedimensional structureprotein triose phosphate isomerase left allatom representation
+colored atom type middle cartoon representation illustratingbackbone conformation colored secondary structure right
+solventaccessible surface representation colored residue type
+acidic residue red basic residue blue polar residue green
+nonpolar residue white
+enlarge
+three possible representation threedimensional structureprotein triose phosphate isomerase left allatom representation
+colored atom type middle cartoon representation illustratingbackbone conformation colored secondary structure right
+solventaccessible surface representation colored residue type
+acidic residue red basic residue blue polar residue green
+nonpolar residue white
+
+protein fold unique dimensional structure shapeprotein naturally fold known native state although
+many protein fold unassisted simply structural
+propensity component amino acid others require aidmolecular chaperone efficiently fold native states
+biochemist often refer four distinct aspect proteins
+structure
+primary structure amino acid sequence
+secondary structure regularly repeating local structures
+stabilized hydrogen bond common examplealpha helix beta sheet secondary structure local
+many region different secondary structure presentprotein molecule
+tertiary structure overall shape single protein molecule
+spatial relationship secondary structure one
+another tertiary structure generally stabilized nonlocal
+interaction commonly formation hydrophobic core
+also salt bridge hydrogen bond disulfide bondeven posttranslational modification term tertiary
+structure often used synonymous term fold
+quaternary structure shape structure resultinteraction one protein molecule usually called
+protein subunit context function partlarger assembly protein complex
+
+addition level structure protein may shiftseveral related structure performing biological functioncontext functional rearrangement tertiaryquaternary structure usually referred asconformationstransition called conformational changechange often induced binding substrate moleculeenzyme active site physical region proteinparticipates chemical catalysis
+molecular surface several protein showing comparative sizes
+left right antibody igg hemoglobin insulinhormone adenylate kinase enzyme glutamine synthetaseenzyme
+enlarge
+molecular surface several protein showing comparative sizes
+left right antibody igg hemoglobin insulinhormone adenylate kinase enzyme glutamine synthetaseenzyme
+
+protein informally divided three main classcorrelate typical tertiary structure globular protein fibrous
+protein membrane protein almost globular proteinsoluble many enzyme fibrous protein often structural
+membrane protein often serve receptor provide channelpolar charged molecule pas cell membrane
+
+special case intramolecular hydrogen bond within protein poorly
+shielded water attack hence promoting dehydration
+called dehydrons
+
+structure determination
+
+discovering tertiary structure protein quaternary
+structure complex provide important clueprotein performs function common experimental method structure
+determination include xray crystallography nmr spectroscopyproduce information atomic resolution cryoelectron
+microscopy used produce lowerresolution structural information
+large protein complex including assembled virusvariant known electron crystallography also produce
+highresolution information case especiallytwodimensional crystal membrane protein solved structureusually deposited protein data bank pdb freely available
+resource structural data thousand proteinobtained form cartesian coordinate atomprotein
+
+many known gene sequence solved protein
+structure set solved structure biased toward
+protein easily subjected experimental
+condition required one major structure determination
+method particular globular protein comparatively easycrystallize preparation xray crystallography remainsoldest common structure determination technique membrane
+protein contrast difficult crystallizeunderrepresented pdb structural genomics initiativeattempted remedy deficiency systematically solving
+representative structure major fold class protein structure
+prediction method attempt provide mean generating plausible
+structure protein whose structure experimentally
+determined
+
+cellular functions
+
+protein chief actor within cell said carryingduty specified information encoded geneexception certain type rna biological moleculerelatively inert element upon protein act protein makehalf dry weight coli cell macromoleculedna rna make onlyandrespectively total
+complement protein expressed particular cell cell typeknown proteome
+enzyme hexokinase shown simple ballandstick molecular
+model scale top righthand corner two substrates
+atp glucose
+enlarge
+enzyme hexokinase shown simple ballandstick molecular
+model scale top righthand corner two substrates
+atp glucose
+
+chief characteristic protein enables carrydiverse cellular function ability bindmolecule specifically tightly region protein
+responsible binding another molecule known binding site
+often depression pocket molecular surfacebinding ability mediated tertiary structure protein
+defines binding site pocket chemical properties
+surrounding amino acid side chain protein bindingextraordinarily tight specific example ribonuclease
+inhibitor protein bind human angiogenin subfemtomolar
+dissociation constantm doe bindamphibian homolog onconasem extremely minor chemical changes
+addition single methyl group binding partnersometimes suffice nearly eliminate binding exampleaminoacyl trna synthetase specific amino acid valine
+discriminates similar side chain amino acid
+isoleucine
+
+protein bind protein well smallmolecule
+substrate protein bind specifically copymolecule oligomerize form fibril process occurs
+often structural protein consist globular monomerselfassociate form rigid fiber proteinprotein interaction also
+regulate enzymatic activity control progression cell
+cycle allow assembly large protein complex carrymany closely related reaction common biological function
+protein also bind even integrated cell membranes
+ability binding partner induce conformational changeprotein allows construction enormously complex signaling
+networks
+
+enzymes
+
+bestknown role protein cell duty enzymes
+catalyze chemical reaction enzyme usually highly specific
+catalyst accelerate one chemical reaction enzymes
+effect reaction involved metabolism catabolismwell dna replication dna repair rna synthesis enzymes
+act protein add remove chemical group process
+known posttranslational modification aboutreactionsknown catalyzed enzyme rate acceleration conferredenzymatic catalysis often enormousas much fold increase
+rate uncatalyzed reaction case orotate
+decarboxylase
+
+molecule bound acted upon enzyme known substrates
+although enzyme consist hundred amino acid usually
+small fraction residue come contactsubstrate even smaller fractionresidues average 
+directly involved catalysis region enzymebind substrate contains catalytic residue knownactive site
+
+cell signalling ligand transport
+
+mouse antibody cholera bind carbohydrate antigen
+enlarge
+mouse antibody cholera bind carbohydrate antigen
+
+many protein involved process cell signaling signal
+transduction protein insulin extracellular
+protein transmit signal cellsynthesized cell distant tissue others membrane
+protein act receptor whose main function bindsignaling molecule induce biochemical response cell many
+receptor membrane protein binding site exposedcell surface effector domain within cell mayenzymatic activity may undergo conformational change detectedprotein within cell
+
+antibody protein component adaptive immune system whose main
+function bind antigen foreign substance bodytarget destruction antibody secretedextracellular environment anchored membrane specialized cell known plasma cell enzyme limited binding
+affinity substrate necessity conductingreaction antibody constraint antibody binding
+affinity target extraordinarily high
+
+many ligand transport protein bind particular small biomoleculestransport location body multicellular
+organism protein must high binding affinityligand present high concentration must also releaseligand present low concentration target tissues
+canonical example ligandbinding protein haemoglobintransport oxygen lung organ tissuevertebrate close homologs every biological kingdom
+
+transmembrane protein also serve ligand transport proteinalter permeability cell membrane small moleculeion membrane alone hydrophobic core polarcharged molecule cannot diffuse membrane protein contain internal
+channel allow molecule enter exit cell many ion
+channel protein specialized select particular ion
+example potassium sodium channel often discriminateone two ions
+
+structural proteins
+
+structural protein confer stiffness rigidity otherwise fluid
+biological component structural protein fibrous proteins
+example actin tubulin globular soluble monomerpolymerize form long stiff fiber comprise cytoskeleton
+allows cell maintain shape size collagenelastin critical component connective tissue cartilage
+keratin found hard filamentous structure hair
+nail feather hoof animal shells
+
+protein serve structural function motor proteinmyosin kinesin dynein capable generating
+mechanical force protein crucial cellular motilitysinglecelled organism sperm many sexually reproducing
+multicellular organism also generate force exertedcontracting muscles
+
+method study
+
+commonly studied biological moleculeactivity structure protein examined vitrovivo vitro study purified protein controlled environments
+useful learning protein carry functionexample enzyme kinetics study explore chemical mechanismenzyme catalytic activity relative affinity various
+possible substrate molecule contrast vivo experimentprotein activity within cell even within whole organismprovide complementary information protein functionregulated
+
+protein purification
+
+order perform vitro analysis protein must purified away
+cellular component process usually begin cell
+lysis cell membrane disrupted internal
+content released solution known crude lysateresulting mixture purified using ultracentrifugationfractionates various cellular component fraction containing
+soluble protein membrane lipid protein cellular organelles
+nucleic acid precipitation method known saltingconcentrate protein lysate various typechromatography used isolate protein proteininterest based property molecular weight net chargebinding affinity level purification monitored using gel
+electrophoresis desired protein molecular weight knownspectroscopy protein distinguishable spectroscopic features
+enzyme assay protein enzymatic activity
+
+natural protein series purification step may necessary
+obtain protein sufficiently pure laboratory applicationsimplify process genetic engineering often used add
+chemical feature protein make easier purify without
+affecting structure activity tag consistingspecific amino acid sequence often series histidine residue 
+histag attached one terminus protein result
+lysate passed chromatography column containing
+nickel histidine residue ligate nickel attachcolumn untagged component lysate pas unimpeded
+
+cellular localization
+
+protein different cellular compartment structure taggedgreen fluorescent protein
+enlarge
+protein different cellular compartment structure taggedgreen fluorescent protein
+
+study protein vivo often concerned synthesislocalization protein within cell although many
+intracellular protein synthesized cytoplasmmembranebound secreted protein endoplasmic reticulumspecific protein targeted specific organellecellular structure often unclear useful technique assessing
+cellular localization genetic engineering express cellfusion protein chimera consisting natural protein interest
+linked areporter green fluorescent protein gfpfused protein position within cell cleanly efficiently
+visualized using microscopy shown figure opposite
+
+another genetic engineering application known sitedirected
+mutagenesis researcher alter protein sequence hencestructure cellular localization susceptibility regulation
+followed vivo gfp tagging vitro enzyme
+kinetics binding studies
+
+proteomics bioinformatics
+
+total complement protein present cell cell typeknown proteome study largescale data sets
+defines field proteomics named analogy related field
+genomics key experimental technique proteomics include protein
+microarrays allow detection relative levellarge number protein present cell twohybrid screening
+allows systematic exploration proteinprotein
+interaction total complement biologically possibleinteraction known interactome systematic attemptdetermine structure protein representing every possible fold
+known structural genomics
+
+large amount genomic proteomic data available variety
+organism including human genome allows researcherefficiently identify homologous protein distantly related organisms
+sequence alignment sequence profiling tool performspecific sequence manipulation restriction enzyme map open
+reading frame analysis nucleotide sequence secondary
+structure prediction data phylogenetic treeconstructed evolutionary hypothesis developed using special
+software like clustalw regarding ancestry modern organismgene express field bioinformatics seek assemble
+annotate analyze genomic proteomic data applying
+computational technique biological problem gene finding
+cladistics
+
+structure prediction simulation
+
+complementary field structural genomics protein structure
+prediction seek develop efficient way provide plausible models
+protein whose structure yet determined
+experimentally successful type structure prediction known
+homology modeling relies existence template structure
+sequence similarity protein modeled structural
+genomics goal provide sufficient representation solved
+structure model remain although producing
+accurate model remains challenge distantly related
+template structure available suggested sequence
+alignment bottleneck process quite accurate models
+produced perfect sequence alignment known many
+structure prediction method served inform emerging field
+protein engineering novel protein fold alreadydesigned complex computational problem predictionintermolecular interaction molecular dockingproteinprotein interaction prediction
+
+process protein folding binding simulated using
+technique derived molecular dynamic increasingly take
+advantage distributed computing foldinghome projectfolding small alphahelical protein domain villin
+headpiece hiv accessory protein successfully
+simulated silico hybrid method combine standard molecular
+dynamic quantum mechanic calculation allowed exploration
+electronic state rhodopsins
+
+nutrition
+
+microorganism plant biosynthesize allstandard amino
+acid animal must obtain amino acid diet
+key enzyme biosynthetic pathway synthesize certain amino
+acidssuch aspartokinase catalyzes first stepsynthesis lysine methionine threonine aspartatearepresent animal amino acid organism cannot synthesize
+referred essential amino acid designation
+often used specifically identify essential humanamino acid present environment microorganismconserve energy taking amino acid environmentdownregulating biosynthetic pathway bacteria often
+engineered laboratory lack gene necessarysynthesizing particular amino acid providing selectable markersuccess transfection introduction foreign dna
+
+animal amino acid obtained consumption foods
+containing protein ingested protein brokendigestion typically involves denaturation proteinexposure acid degradation action enzyme called
+protease ingestion essential amino acid critical health
+organism since biosynthesis protein includeamino acid inhibited low concentration amino acidalso important dietary source nitrogen ingested amino
+acid especially essential used directly
+protein biosynthesis instead converted carbohydrates
+gluconeogenesis also used starvation conditions
+generate glucose body protein particularlyfound muscle
+
+history
+
+protein recognized distinct class biological moleculeeighteenth century antoine fourcroy others memberclass called albuminoid eiweisskrper matires
+albuminoides recognized ability coagulateflocculate various treatment heat acid wellknown
+example start nineteenth century included albumenegg white blood serum albumin fibrin wheat glutensimilarity cooking egg white curdling milk
+wa recognized even ancient time example name albumeneggwhite protein coined pliny elder latin
+albus ovi egg white
+
+advice jns jakob berzelius dutch chemist gerhardus
+johannes mulder carried elemental analysis common animalplant protein everyones surprise protein nearlyempirical formula roughly chnoindividual sulfur phosphorus atom mulder published findings
+two papersand hypothesized one basic
+substance grundstoff protein synthesizedplant absorbed animal digestion berzelius waearly proponent theory proposed name proteinsubstance letter datedjuly 
+
+name protein propose organic oxide fibrinalbumin wanted derive greek wordbecause
+appears primitive principal substance animal
+nutrition
+
+mulder went identify product protein degradationamino acid leucine found nearly correct
+molecular weight ofda
+
+minimum molecular weight suggested mulders analysis roughly
+kda hundred time larger molecule studied
+hence chemical structure protein primary structureactive area research untilwhen fred sanger sequenced
+insulin correct theory protein linear polymeramino acid linked peptide bond proposed independentlysimultaneously franz hofmeister emil fischerconference inhowever scientist scepticallong macromolecule could stable solution consequently numerous
+alternative theory protein primary structure proposed
+eg colloidal hypothesis protein assembly small
+molecule cyclol hypothesis dorothy wrinchdiketopiperazine hypothesis emil abderhaldenpyrrolpiperidine hypothesis troensgardmosttheory difficulty accounting fact digestion
+protein yielded peptide amino acid protein finally
+shown macromolecule welldefined compositioncolloidal mixture theodor svedberg using analytical
+ultracentrifugation possibility proteinnoncovalent association macromolecule shown gilbert
+smithson adair measuring osmotic pressure hemoglobinlater frederic richards study ribonucleasemass spectrometry protein long useful techniqueidentifying posttranslational modification recentlyprobing protein structure
+
+protein difficult purify milligram
+quantity even using modern method hence early studies
+focused protein could purified large quantity blood egg white various toxin digestivemetabolic
+enzyme obtained slaughterhouse many technique protein
+purification developed world war project lededwin joseph cohn purify blood protein help keep soldier alive
+late armour hot dog purifiedkgone million
+milligram pure bovine pancreatic ribonuclease made freely
+available scientist around world generous act made rnase
+main protein basic research next decades
+resulting several nobel prizes
+
+study protein folding began inwith famous paperhenrietta chick j martin showedflocculation protein composed two distinct processprecipitation protein solution preceded another
+process called denaturation protein became much less
+soluble lost enzymatic activity became chemically
+reactive mids tim anson alfred mirsky proposeddenaturation reversible process correct hypothesisinitially lampooned scientist unboiling egg anson
+also suggested denaturation twostate allornone
+process one fundamental molecular transition resulteddrastic change solubility enzymatic activity chemical
+reactivity noted free energy change upon
+denaturation much smaller typically involvedchemical reaction inhsien hypothesized denaturation
+wa protein folding purely conformational change resultedexposure amino acid side chain solvent accordingcorrect hypothesis exposure aliphatic reactive side
+chain solvent rendered protein soluble reactive
+whereas loss specific conformation caused lossenzymatic activity although considered plausible hypothesisimmediately accepted since little known protein
+structure enzymology factor could accountchange solubility enzymatic activity chemical reactivityearly chris anfinsen showed foldingribonuclease fully reversible external cofactor needed
+verifying thermodynamic hypothesis protein foldingfolded state represents global minimum free energyprotein
+
+hypothesis protein folding followed researchphysical interaction stabilize folded protein structurecrucial role hydrophobic interaction hypothesized dorothy
+wrinch irving langmuir mechanism might stabilizecyclol structure although supported bernal otherscorrect hypothesis rejected along cyclol hypothesis
+wa disproven linus pauling among others
+instead pauling championed idea protein structurestabilized mainly hydrogen bond idea advanced initiallywilliam astburyremarkably pauling incorrect theoryhbonds resulted correct model secondary structure
+element protein alpha helix beta sheethydrophobic interaction restored correct prominencefamous article inby walter kauzman denaturation based partly
+work kaj linderstromlang ionic nature proteindemonstrated bjerrum weber arne tiselius linderstromlang
+showed charge generally accessible solventbound 
+
+secondary lowresolution tertiary structure globular
+protein investigated initially hydrodynamic methodanalytical ultracentrifugation flow birefringence spectroscopic
+method probe protein structure circular dichroism
+fluorescence nearultraviolet infrared absorbance developed
+first atomicresolution structure proteinsolved xray crystallography nmrofthe protein data bank nearlyatomicresolution
+structure protein recent time cryoelectron microscopy
+large macromolecular assembly computational protein structure
+prediction small protein domain two method approaching atomic
+resolution
+

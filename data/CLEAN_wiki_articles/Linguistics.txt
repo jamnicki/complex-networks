@@ -1,0 +1,309 @@
+copyright
+
+linguistics
+
+ school wikipedia selection related subject linguistics
+
+linguistics
+theoretical linguistics
+phonetics
+phonology
+morphology
+syntax
+semantics
+lexical semantics
+statistical semantics
+structural semantics
+prototype semantics
+stylistics
+prescription
+pragmatics
+applied linguistics
+psycholinguistics
+sociolinguistics
+generative linguistics
+cognitive linguistics
+computational linguistics
+descriptive linguistics
+historical linguistics
+comparative linguistics
+etymology
+history linguistics
+list linguists
+unsolved problems
+
+linguistics scientific study language someone engagesstudy called linguist linguistics theoreticalapplied
+
+theoretical general linguistics study language structure 
+grammar meaningsemantics study grammar encompasses
+morphology formation alteration word syntax rules
+determine way word combine phrase sentences
+
+linguistics compare languagescomparative linguistics explores
+history order find universal property languageaccount development originshistorical linguistics
+slightly separate general linguistics subfieldsphonology study role sound particular languages
+phonetics study sound produced perceived
+
+applied linguistics put linguistic theory practice areas
+foreign language teaching speech therapy translationspeech pathology
+
+linguistic inquiry pursued wide variety specialist may
+harmonious agreement rus rymer flamboyantly put
+
+linguistics
+
+linguistics arguably hotly contested propertyacademic realm soaked blood poet theologians
+philosopher philologist psychologist biologist anthropologists
+neurologist along whatever blood gotgrammarian 
+
+
+linguistics
+
+division specialty subfields
+
+central concern theoretical linguistics characterizenature human language ability competence explainindividual know said know language explain
+individual come know languages
+
+human setting aside extremely pathological case achieve
+competence whatever language spoken signed casesign language around growing apparently
+little need conscious instruction nonhumans therefore
+basic innate property human causeable use language discernable genetic process
+responsible difference language individualacquire whatever language exposed child regardless
+parentage ethnic origin
+
+linguistic structure pairing meaning soundexternalization linguist may specialize subpartlinguistic structure arranged following terms
+sound meaning
+phonetics study sound human language
+phonology phonemics study pattern languages
+basic sounds
+morphology study internal structure words
+syntax study word combine form grammatical
+sentences
+semantics study meaning wordslexical semantics
+fixed word combinationsphraseology combine
+form meaning sentences
+pragmatic study utterance used literally
+figuratively otherwise communicative acts
+discourse analysis study sentence organised texts
+
+independent significance area universally
+acknowledged however many linguist would agreedivision overlap considerably nevertheless area core
+concept foster significant scholarly inquiry research
+
+intersecting specialty domain field arranged around
+kind external factor considered example
+language acquisition study language acquired
+historical linguistics diachronic linguistics studylanguage whose historical relation recognizablesimilarity vocabulary word formation syntax
+psycholinguistics study cognitive processrepresentation underlying language use
+sociolinguistics study social pattern linguistic
+variability
+clinical linguistics application linguistic theoryarea speechlanguage pathology
+
+variation
+
+substantial part linguistic investigation naturedifference among language world naturevariation important understanding human linguistic
+ability general human linguistic ability narrowly
+constrained biological property specie languages
+must similar human linguistic ability unconstrained
+language might vary greatly
+
+different way interpret similarity among languages
+example latin language spoken roman developedspanish spain italian italy similarity spanishitalian many case due descended latinprinciple two language share property property might
+either due common inheritance due propertyhuman language faculty
+
+often possibility common inheritance essentially ruled
+given fact learning language come quite easilyhuman assumed language spoken leastlong biologically modern human probably least
+fifty thousand year independent measure language changeexample comparing language ancient text daughter
+language spoken today suggest change rapid enough makeimpossible reconstruct language spoken long agoconsequence common feature language spoken different
+part world normally taken evidence common
+ancestry
+
+even striking documented case sign languagedeveloped community congenitally deaf people couldexposed spoken language property sign languages
+shown conform generally many propertyspoken language strengthening hypothesis properties
+due common ancestry general characteristicway language learned
+
+loosely speaking collection property languages
+share referred asuniversal grammar however
+much debate around topic term used several
+different ways
+
+universal property language may partly due universal aspects
+human experience example human experience waterfact human language word water probablyunrelated fact challenging question regarding universal
+grammar generally require one control factor clearly
+experience part process individual learn languages
+experience enough since animal raised around
+people learn extremely little human language
+interesting example suppose human languages
+distinguish noun verb generally believed true
+would require sophisticated explanation since nounverb exist world apart language make use
+general property could due general propertyhuman cognition due property human cognitionspecific language little understood human cognitiongeneral allow meaningful distinction made result
+generalization often stated theoretical linguistics withoutstand taken whether generalization could bearing
+aspect cognition
+
+property language
+
+ha understood since time ancient greeklanguage tend organized around grammatical categorynoun verb nominative accusative present pastvocabulary grammar language organized aroundfundamental categories
+
+addition making substantial use discrete category language
+ha important property organizes element recursive
+structure allows example noun phrase contain another
+noun phrase chimpanzee lip clause containclause think raining though recursion grammar
+wa implicitly recognized much earlier example jespersenimportance aspect language fully realizedpublication noam chomsky book syntactic structurepresented formal grammar fragment english priordetailed description linguistic system phonological
+morphological system tend closed admit little
+creativity
+
+chomsky used contextfree grammar augmented transformations
+since contextfree grammar written substantial
+fragment various language example gpsg englishha demonstrated human language include crossserial
+dependency cannot handled adequately contextfree
+grammar requires increased power example transformations
+
+example naturallanguage clause involving crossserial
+dependency dutch
+
+ik denk dat jan piet kinderen zag helpen zwemmen
+think jan piet child saw help swim
+think jan saw piet help child swim
+
+important point noun phrase verb cluster
+jan piet kinderen identified verb verb
+cluster zag helpen zwemmen leftright order
+
+mean natural language formalism must relatively powerful
+term generative capacity model currently usedlfg hpsg
+minimalism powerful general powerfulcomputationally tractable principle implementationscaled
+detail selected division subfields
+
+contextual linguistics
+
+contextual linguistics may include study linguisticsinteraction academic discipline whereas core
+theoretical linguistics language studied sakeinterdisciplinary area linguistics consider language interacts
+rest world
+
+sociolinguistics anthropological linguistics linguistic
+anthropology social science consider interactionlinguistics society whole
+
+critical discourse analysis rhetoric philosophy interact
+linguistics
+
+psycholinguistics neurolinguistics combine medical sciencelinguistics
+
+crossdisciplinary area linguistics include language
+acquisition evolutionary linguistics computational linguisticscognitive science
+
+applied linguistics
+
+whereas theoretical linguistics concerned findingdescribing generality within particular language amonglanguage applied linguistics take result findingapplies area often applied linguistics refersuse linguistic research language teaching resultlinguistic research used many area well
+
+many area applied linguistics today involve explicit usecomputer speech synthesis speech recognition use phoneticphonemic knowledge provide voice interface computers
+application computational linguistics machine translation
+computerassisted translation natural language processingextremely fruitful area applied linguistics comeforefront recent year increasing computing powerinfluence great effect theory syntax semantics
+modelling syntactic semantic theory computer constrains
+theory computable operation provides rigorous
+mathematical basis
+
+today term applied linguistics used mostly refersecond language acquisition top applied linguistics programusually one good emphasis second language acquisition
+either linguistic cognitive point view
+
+diachronic linguistics
+
+whereas core theoretical linguistics concerned studying
+language particular point time usually present
+diachronic linguistics examines language change time
+sometimes century historical linguistics enjoys rich
+history study linguistics grew historical linguistics
+strong theoretical foundation study language change
+
+university united state nonhistoric perspective
+seems upper hand many introductory linguistics classes
+example cover historical linguistics cursorily shiftfocus nonhistoric perspective started saussure became
+predominant noam chomsky
+
+explicitly historical perspective include historicalcomparative
+linguistics etymology
+
+prescription description
+
+research currently performed name linguistics purely
+descriptive linguist seek clarify nature language without
+passing value judgment trying chart future language directions
+nonetheless many professional amateur also
+prescribe rule language holding particular standardfollow
+
+prescriptivists tend found among rank language educators
+journalist actual academic disciplinelinguistics hold clear notion right wrongmay assign responsibility ensuring next
+generation use variety language likely leadsuccess often acrolect particular language reasonintolerance incorrect usage may include distrustneologism connection sociallydisapproved dialect basilects simple conflict pet theory extreme version
+prescriptivism found among censor whose personal missioneradicate word structure consider destructive
+society
+
+descriptivists hand accept prescriptivists
+notion incorrect usage might describe usageha mind simply idiosyncratic may discoverregularity rule usage question follows contrastcommon prescriptive assumption bad usage unsystematic
+within context fieldwork descriptive linguistics refersstudy language using descriptivist approach descriptivist
+methodology closely resembles scientific methodologydisciplines
+
+speech versus writing
+
+contemporary linguist work assumption spoken
+language fundamental thus important studywritten language reason perspective include
+speech appears human universal whereasmany culture speech community lack written
+communication
+people learn speak process spoken language easilymuch earlier writing
+number cognitive scientist argue brain innate
+language module knowledge thought comestudying speech writing particularly since language speech
+held evolutionary adaptation whereas writingcomparatively recent invention
+
+course linguist agree study written languageworthwhile valuable linguistic research methods
+corpus linguistics computational linguistics written language
+often much convenient processing large amountlinguistic data large corpus spoken language difficultcreate hard find typically transcribed written
+additionally linguist turned textbased discourse occurring
+various format computermediated communication viable site
+linguistic inquiry
+
+study writing system case consideredbranch linguistics
+
+history linguistics
+
+early indian vedic textsrig vedasuggeststructure language language composed sentence four
+stage evolution expressed three tense past present
+future sentence composed word two distinct
+form existence vocal form word perceptional formmeaning word recognized mainly verb represent
+real world act noun take seven case dependingmode participation real world actsthe number sevencritical message noun inflectedappropriate case indicate mode participation concerned
+acts
+
+sanskrit grammarian pini cbc earliest known
+linguist often acknowledged founder linguisticsfamous formulating therules sanskrit morphologytext adhyy still use today pinis grammarsanskrit highly systematised technical inherent analytic
+approach concept phoneme morpheme root
+recognized western linguist two millennium laterrule fully describe sanskrit morphology without redundanceconsequence grammar focus brevity highly unintuitive
+structure reminiscent contemporary machine language opposed
+human readable programming language sophisticated logical
+rule technique widely influential ancient modern
+linguistics
+
+south indian linguist tolkppiyar rd century wrotetolkppiyam grammar tamil also still use today
+bhartrihari cwas another important author indic
+linguistic theory theorized act speech madefour stage first conceptualization idea secondverbalization sequencing third delivery speechatmospheric air speaker last comprehension
+speech listener interpreter work pinilater indian linguist bhartrihari significant influence many
+foundational idea proposed ferdinand saussure professor
+sanskrit widely considered father modern structural
+linguistics
+
+middle east persian linguist sibawayh made detailedprofessional description arabic inin monumental work
+alkitab alnahwthe book grammar bringing
+many linguistic aspect language light bookdistinguished phonetics phonology
+
+early scholar linguistics include jakob grimm devised
+principle consonantal shift pronunciation known grimms
+law inkarl verner discovered verner law august
+schleicher created stammbaumtheorie johannes schmidtdeveloped wellentheorie wave model inferdinand saussure founder modern structural linguistics edward
+sapir leader american structural linguistics onefirst explored relation language studyanthropology methodology strong influencesuccessor noam chomsky formal model language
+transformationalgenerative grammar developed influenceteacher zellig harris turn strongly influencedleonard bloomfield dominant one
+chomsky remains far influential linguist world
+today linguist working framework headdriven phrase
+structure grammar hpsg lexical functional grammar lfg stressimportance formalization formal rigor linguistic description
+may distance somewhat chomsky recent work
+minimalist program transformational grammar connecting
+closely earlier work chomsky linguist workingoptimality theory state generalization term violable rules
+greater departure mainstream linguistics linguists
+working various kind functional grammar cognitive
+linguistics tend stress nonautonomy linguistic knowledgenonuniversality linguistic structure thus departing
+importantly chomskian paradigm

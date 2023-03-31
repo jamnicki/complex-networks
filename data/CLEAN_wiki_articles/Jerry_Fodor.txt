@@ -1,0 +1,331 @@
+copyright
+
+jerry fodor
+
+ school wikipedia selection related subject philosophers
+
+western philosophy
+thcentury philosophy
+namejerry alan fodor
+birthunited states
+schooltradition analytic philosophy rationalism cognitivism
+functionalism
+main interestsphilosophy mind philosophy language cognitive
+science
+notable ideasmodularity mind language thought
+influenceshilary putnam jerome bruner franz joseph gall noam
+chomsky
+influencedernest lepore zenon pylyshyn george rey murat aydede
+steven pinker
+
+jerry alan fodor bornis american philosopher cognitive
+scientist currently teaching rutgers university new jersey
+author many work field philosophy mindcognitive science laid groundwork modularitymind language thought hypothesis among ideas
+
+fodor argues mental state belief desirerelation individual mental representation maintains
+representation correctly explained termlanguage thought mind language thought
+actually existing thing codified brainuseful explanatory tool fodor adheres speciefunctionalism maintaining thinking mental processes
+consist primarily computation operating syntaxrepresentation make language thought
+
+fodor significant part mind perceptuallinguistic process structured term module organs
+defined causal functional role modules
+relatively independent central
+processing part mind global domain
+specific character fodor suggests character modules
+permit possibility causal relation external objects
+turn make possible mental state contents
+thing world central processing parthand take care logical relation various
+content input outputs
+
+although fodor originally rejected idea mental state must
+causal externally determined aspect recent years
+devoted much writing study philosophy language
+problem meaning reference mental
+content contribution area include socalled
+asymmetric causal theory reference many argumentsemantic holism fodor strongly opposes attempt reduce realm
+mental physical argues mental statemultiply realizable hierarchy explanatory levels
+science generalization law higherlevel
+theory psychology linguistics example cannot capturedlowlevel explanation behaviour neuron synapses
+
+biography
+
+jerry fodor born new york city inwhere continuesreside wife beloved cat two grown children
+received degree summa cum laude columbia university
+inand phd philosophy princeton university inunder
+direction hilary putnam fromfodor faculty
+massachusetts institute technology cambridge
+massachusetts fromhe full professor city
+university new york cuny sincehe state new
+jersey professor philosophy cognitive science rutgers
+university new jersey besides interest philosophy fodorpassionate follower opera regularly writes popular columnlondon review book subject
+
+one fodors notable colleague rutgers new mysterian
+philosopher colin mcginn described fodor words
+
+fodor gentle man inside burly body prone even
+burlier style arguing shy voluble time 
+formidable polemicist burdened sensitive soul
+disagreeing jerry philosophical issue especially one dear
+heart chastening experience quicknessmind inventiveness sharp wit tangledfirst cup coffee morning adding jerry fodorfaculty rutgers university instantly put map fodor
+common consent leading philosopher mind world
+today met england seventy andfoundgenuine article intellectually speaking thoughalways see eye eye
+
+fodor member honorary society phi beta kappaamerican academy art science received numerous awards
+honor new york state regent fellow woodrow wilson fellow
+princeton university chancellor greene fellow princeton
+university fullbright fellow oxford university fellowcenter advanced study behavioural science guggenheim
+fellow
+
+fodor nature mental states
+
+book propositional attitudesfodor introduced key
+idea mental state relation individual mental
+representation despite change many positionyear idea intentional attitude relational remained
+unchanged original formulation present time
+
+book attempted show mental representations
+specifically sentence language thought necessaryexplain relational nature mental state fodor considers two
+alternative hypothesis first completely denies relational
+character mental state second considers mental statetwoplace relation latter position subdividedcarnapian view relation individualsentence natural language fregean viewindividual proposition expressed sentences
+fodors position instead properly accountnature intentional attitude necessary employthreeplace relation individual representationpropositional contents
+
+considering mental state threeplace relation way
+representative realism make possible hold togetherelement necessary solution problem mental
+representation object belief desirealso domain mental process operateconsidered ideal link syntactic notion mental
+content computational notion functional architecturenotion according fodor best explanation mental
+processes
+
+functional architecture mind
+
+typical phrenology chart show module precise physical
+location brain
+enlarge
+typical phrenology chart show module precise physical
+location brain
+
+following path plowed linguist noam chomsky fodor developed
+strong commitment idea psychological nativism nativismbelief innateness many cognitive function concepts
+fodor position emerges naturally criticismbehaviourism associationism criticism also ledformulation wellknown hypothesis modularity mind
+
+historically question mental architecture divided
+two contrasting theory nature facultyfirst described horizontal view see mental
+process interaction faculty domain
+specific example judgement remains judgement whetherjudgement perceptual experience judgementunderstanding language second described vertical
+view claim mental faculty domain specific
+genetically determined associated distinct neurological
+structure
+vertical vision traced back century movement
+called phrenology founder franz joseph gall gall claimedmental faculty could associated specific physical areabrain hence someone level intelligence example could
+literally read size particular bumpposterior parietal lobe simplistic view modularity hadisproven course last century
+
+fodor revived idea modularity without notion precise
+physical localizability became onearticulate proponent thepublication monograph
+modularity mind two property modularity particular
+informational encapsulation domain specificity make possibletie together question functional architecture mental
+content ability elaborate information independentlybackground belief individual two property allow
+permit fodor give atomistic causal account notionmental content main idea word properties
+content mental state depend rather exclusivelyinternal relation system part alsocausal relation external world
+
+fodors notion mental modularity informational encapsulationdomain specifity taken expanded muchchagrin cognitive scientist zenon pylyshynevolutionary psychologist steven pinker henry plotkin
+among many others fodor complains pinker plotkinmember sarcastically call new synthesis taken
+modularity similar idea way far insists mindmassively modular contrary researchers
+would believe mind still long wayexplained computational model
+
+intentional realism
+
+theory content essaysfodor take another
+central notion question reality mental
+representation fodor need justify representational realismjustify idea content mental state expressedsymbolic structure lot
+
+fodors criticism dennett
+
+fodor start criticism socalled standard realismview characterized according fodor two distinct assertions
+one regard internal structure mental stateasserts state nonrelational concernsemantic theory mental content assertsisomorphism causal role contentinferential web belief among modern philosopher mindmajority view seems first two assertionfalse second true fodor departs viewaccepting truth first thesis rejecting stronglytruth second
+
+particular fodor criticizes instrumentalism daniel dennett
+dennett maintains possible realist regardintentional state without commit oneself realitymental representation according fodor one remainslevel analysis possibility explainingintentional strategy works
+
+isa standard objection instrumentalismdifficult explain psychology beliefsdesires works
+well psychology beliefsdesires fact
+falseas putnam boyd others emphasizedpredictive success theory truth theory
+surely presumed inference evenlikely dealing theory playpredictively crowned success obviouswhy
+presumption militate favour realist
+conceptionof interpretation beliefsdesires
+
+productivity compositionality thought
+
+fodor also positive argument favour reality mental
+representation term lot maintains languageexpression thought language systematic thoughts
+must also systematic systematicity natural language tendsexplained term two basic concept productivitycompositionality fact systematicity productivity depend
+compositional structure language mean language hacombinatorial semantics thought also combinatorial
+semantics must language thought
+
+second argument fodor provides favour representational
+realism involves process thought argument touchrelation representational theory mind modelarchitecture sentence mentalese require unique processelaboration require computational mechanism certain
+type syntactic notion mental representation hand hand
+idea mental process calculation actform symbol elaboratecomputational theory mind consequently defence model
+architecture based classic artificial intelligence passes
+inevitably defence reality mental representations
+
+fodor formal notion thought process also haadvantage highlighting parallel causal rolesymbol content express view syntaxplay role mediation causal role symbols
+content semantic relation symbolimitated syntactic relation inferential relations
+connect content two symbol imitated formal
+syntax rule regulate derivation one symbol another
+
+nature content
+
+beginning fodor adhered causal notion
+mental content meaning idea content contrasts
+sharply inferential role semantics fodor subscribed
+earlier career fodor criticizes inferential role semantics
+irs commitment extreme form holism excludespossibility true naturalization mental naturalization
+must include explanation content atomistic causal terms
+
+antiholism
+
+fodors criticism holism many various identifiescentral problem different notion holism idea
+determining factor semantic evaluation notionepistemic bond briefly epistemic bond meaning
+p considered someone relevant determinationmeaning meaning holism strongly depends notionidentity content mental state holismdetermined totality epistemic bondsand makerealism mental state impossibility
+
+people differ absolutely general wayestimation epistemic relevance follow holism
+meaning individuate intentional state waytotality epistemic bond consequencetwo people matter two temporal sectionperson never intentional state
+therefore two people never subsumedintentional generalization therefore intentional
+generalization never successful thereforehope intentional psychology
+
+asymmetric causal theory
+
+criticized idea semantic evaluation concerninternal relation unit symbolic system wayopen fodor adopt externalist position respect mental
+content meaning fodor recent year problemnaturalization mental tied possibility givingsufficient condition piece world relativeexpress represents true another piece nonintentional
+nonsemantic term goal achieved withinrepresentational theory mind challenge devisecausal theory establish interpretation primitive
+nonlogical symbol lot fodors initial proposaldetermines symbol water mentalese expressproperty occurrence symbol certain
+causal relation water intuitive version causal
+theory fodor call crude causal theory accordingtheory occurrence symbol express propertycause occurrence term horse example sayhorse horse order necessarysufficient certain property occurrence symbol
+horse lawlike relation certain propertydetermine something occurrence horse
+
+main problem theory erroneous representations
+two unavoidable problem idea symbol
+express property necessarypresence property cause occurrence firsthorse cause occurrence horse secondhorse cause occurrence horse sometimes ahorses caused
+horse timeswhen exampledistance condition low visibility one confused cowhorsethe horse caused cow case symboldoesnt express property disjunction properties
+b crude causal theory therefore incapabledistinguishing case content symbol disjunctive
+case isnt give rise fodor calls
+problem disjunction
+
+fodor responds problem defines slightly
+le crude causal theory according approach necessary
+break symmetry base crude causal theory fodor
+must find criterion distinguishing occurrence caused
+true caused false point departure
+according fodor false case ontologically
+dependent true case reverse trueasymmetry dependencein word true contentfalse one b first subsist independently
+second second occur existence
+first
+
+point view semantics error must accidents
+extension horse cow cannot
+required meaning horse cow called
+horse hand horse meanmean error horse would neverpossible cow called horse putting two things
+together seen possibility falsely saying
+horse presupposes existence semantic basis
+saying truly vice versa put terms
+crude causal theory fact cow cause one say
+horse depends fact horse cause one say
+horse fact horse cause one say horsedepend fact cow cause one say horse
+
+functionalism
+
+various philosopher donald davidson hilary
+putnam fodor tried resolve puzzle developing waypreserve explanatory efficacy mental causation socalled
+folk psychology adhering materialist vision world
+violate generality physic proposalfirst reject thendominant theory philosophymind behaviorism type identity theory problemlogical behaviorism failed account causationmental state causation seems essential psychological
+explanation especially one considers behavioureffect single mental eventcause rather effectchain mental eventscauses typeidentity theoryhand failed explain fact radically different physical
+system find identical mental state besides
+deeply anthropocentric human thinking
+organism universe typetype theory also failed deal
+accumulating evidence neuroscience every single human
+brain different others hence impossibilityreferring common mental state different physical systems
+manifest different specie alsoorganism species
+illustration multiple realizability stand mental stand physical seen one instantiate
+one vice versa causal relation staterepresented arrow etc
+enlarge
+illustration multiple realizability stand mental stand physical seen one instantiate
+one vice versa causal relation staterepresented arrow etc
+
+solution problem according fodor foundfunctionalism hypothesis designed overcome failings
+dualism reductionism without going detailidea important function mental state
+regardless physical substrate implementfoundation view lie principle multiple
+realizability mental view examplecomputer instantiate realize functional state
+though made completely different material stuff see graphic
+right basis functionalism classifed formtoken materialism
+
+criticism
+
+many fodors idea challenged wide varietyphilosopher diverse orientation example languagethought hypothesis accused either falling preyinfinite regress superfluous specifically simon blackburn
+suggested article inthat since fodor explains learning
+natural language process formation confirmationhypothesis lot leaf open questionlot considered languagerequires yet another fundamental representational substrateform confirm hypothesis lotlearned natural language learning requires representational
+substrate lot order learned shouldntsaid lot representational
+substrate representational subtrate infinitumhand representational substrate required
+lot required learning natural
+language case lot would superfluous fodorresponse argues lot unique doelearned via antecedent language innate
+
+yet another argument againt lot formulated daniel dennettbasic point argument would seembasis evidence behavior toward computer alsoregard unconscious behavior explicit
+representation necessary explanation propositional
+attitude game chess computer program often
+attribute attitude computer saying thingthink queen moved left attribute
+propositional attitude computer help explain
+predict behaviour various context yet one would suggest
+computer actually thinking believing somewhere inside
+circuit equivalent propositional attitude believekick guy butt mentalese obviously true
+suggests dennett many everyday automatic behaviordesiring breathe clear air stuffy environment
+
+fodors selfproclaimed extreme concept nativism criticized
+linguist philosopher language kent bach example
+take fodor task criticism lexical semanticspolysemy fodor claim lexical structure verbs
+keep get make put suggests alternatively
+keep simply express concept keep fodor capitalizes conceptdistinguish property name entitystraightforward onetoone mapping individual words
+concept keep clothes keep receipt keep
+washing hand share concept keepfodors theory concept presumably lock unique external
+property keeping true retain must pickdifferent property retain receipt since one cant retain ones
+cloth retain washing one hand fodors theory also problem
+explaining concept fast contributes differentlycontent fast car fast driver fast track fast time whether
+differing interpretation fast sentencespecified semantics english result pragmatic
+inference matter debate fodors response kindcriticism expressed bluntly concept people sometimes usedsay exist must ambiguous look differencechair exist number exist familiar reply godifference existence chair existence numbers
+seems reflection strikingly like difference numbers
+chair since latter explain former dont
+also need exist polysemic
+
+make fodors view concept difficult acceptcritic simply insistence large perhaps
+implausible number primitive undefinable example
+fodor considers concept bachelor effect island trapezoid
+vixen week primitive innate unanalyzablefall category call lexical concepts
+language single word view
+bach argues concept vixen almost certainly composedconcept female fox bachelor single male
+books
+
+hume variation oxford university pressisbn 
+compositionality paperswith lepore oxford university
+pressisbn 
+mind doesnt work way scope limitcomputational psychology mit pressisbn 
+critical condition mit pressisbn concept cognitive science went wrong thejohn locke
+lecture oxford university pressisbnpdf
+book
+elm expert mentalese semantics thejean
+nicod lecture mit pressisbn 
+holism consumer update e lepore grazer
+philosophische studien volrodopi amsterdamisbn
+
+theory content essay mit pressisbn
+
+psychosemantics problem meaning philosophy mind
+mit pressisbn 
+modularity mind essay faculty psychology mit press
+isbn 
+representation essay foundation cognitive science
+harvard press mit press usisbn 
+language thought harvard university pressisbn
+
+psychology language bever garrett mcgraw
+hillisbn 
+psychological explanation random houseisbn 
+structure language jerrold katz prentice hall
+isbn 
+

@@ -1,0 +1,140 @@
+copyright
+
+caesar cipher
+
+ school wikipedia selection related subject cryptography
+
+
+featured article click information
+action caesar cipher replace plaintext letterone fixed number place alphabet exampleshift three plaintext becomes eciphertext
+enlarge
+action caesar cipher replace plaintext letterone fixed number place alphabet exampleshift three plaintext becomes eciphertext
+
+cryptography caesar cipher also known caesar ciphershift cipher caesar code caesar shift one simplestwidelyknown encryption technique type substitution
+cipher letter plaintext replaced letter
+fixed number position alphabet example
+shift ofa would replaced would become emethod named julius caesar used communicate
+generals
+
+encryption step performed caesar cipher often incorporated
+part complex scheme vigenre cipher still
+ha modern application rot system single alphabet
+substitution cipher caesar cipher easily brokenpractice offer essentially communication security
+
+example
+
+transformation represented aligning two alphabetcipher alphabet plain alphabet rotated left rightnumber position instance caesar cipher usingright rotation three place shift parameter hereis usedkey
+
+plain abcdefghijklmnopqrstuvwxyz
+cipher defghijklmnopqrstuvwxyzabc
+
+encipher message simply look letter messageplain line write corresponding letter cipher
+line decipher reverse
+
+plaintext quick brown fox jump lazy dog
+ciphertext wkh txlfn eurzq ira mxpsv ryhu wkh odcb grj
+
+encryption also represented using modular arithmeticfirst transforming letter number according schemebzencryption letter shift ndescribed mathematically
+enxxn mod 
+
+decryption performed similarly
+
+dnxxn mod 
+
+replacement remains throughout message cipher
+classed type monoalphabetic substitution opposedpolyalphabetic substitution
+
+history usage
+
+caesar cipher named julius caesar used alphabetshift three
+enlarge
+caesar cipher named julius caesar used alphabetshift three
+
+caesar cipher named julius caesar accordingsuetonius used shift three protect messagemilitary significance
+
+anything confidential say wrote cipher
+changing order letteralphabet word could made anyone wishdecipher get meaning must substitutefourth letter alphabet namelyotherssuetonius life julius caesar
+
+caesar first recorded use schemesubstitution cipher known used earlier julius
+caesar nephew augustus also used cipher shift one
+
+whenever wrote cipher wrote c brest letter principle using x 
+suetonius life augustus 
+
+evidence julius caesar used complicated systemwell one writer aulus gellius refers lost treatiseciphers
+
+even rather ingeniously written treatisegrammarian probus concerning secret meaning lettercomposition caesar epistlesaulus gellius 
+
+unknown effective caesar cipher timelikely reasonably secure leastcaesar enemy would literate let alone able consider
+cryptanalysis assuming attacker could read messagerecord time technique solution simple
+substitution cipher earliest surviving record date century arab world discovery frequency analysis
+
+th century personal advertisement section newspapers
+would sometimes used exchange message encrypted using simple
+cipher scheme kahndescribes instance lover engagingsecret communication enciphered using caesar cipher times
+even late asthe caesar cipher use russian army
+employed replacement complicated cipherproved difficult troop master germanaustrian cryptanalyst little difficulty decryptingmessages
+
+caesar cipher found today childrens toy secret
+decoder ring caesar shift thirteen also performedrot algorithm simple method obfuscating text usedinternet forum obscure text joke punchlines story
+spoiler used method encryption
+
+vigenre cipher caesar cipher different shiftposition text value shift defined usingrepeating keyword singleuse keyword long message
+chosen randomly onetime pad cipher unbreakableuser maintain keywords secrecy keywords shortermessage egcomplete victory used historically introducecyclic pattern might detected statistically advanced
+version frequency analysis
+
+breaking cipher
+
+decryption
+shift candidate plaintext
+exxegoexsrgi
+dwwdfndwrqfh
+cvvcemcvqpeg
+buubdlbupodf
+attackatonce
+zsszbjzsnmbd
+yrryaiyrmlac
+
+haahjrhavujl
+gzzgiqgzutik
+fyyfhpfytshj
+
+caesar cipher easily broken even ciphertextonly
+scenario two situation consideredan attacker knowguess sort simple substitution cipher used
+specifically caesar scheme andan attacker
+know caesar cipher use doe know shift
+value
+
+first case cipher broken using techniques
+general simple substitution cipher frequency analysis
+pattern word solving likely attackerquickly notice regularity solution deduce caesar
+cipher specific algorithm employed
+distribution letter typical sample english language
+text distinctive predictable shape caesar shift rotates
+distribution possible determine shiftexamining resultant frequency graph
+enlarge
+distribution letter typical sample english language
+text distinctive predictable shape caesar shift rotates
+distribution possible determine shiftexamining resultant frequency graph
+
+second instance breaking scheme evenstraightforward since limited number possible
+shiftsin english tested turn brute
+force attack one way write snippetciphertext table possible shiftsa technique sometimes
+known completing plain component example givenciphertext exxegoexsrgi plaintext instantly recognisableeye shift four another way viewing methodletter ciphertext entire alphabet writtenreverse starting letter attack accelerated
+using set strip prepared alphabet writtenreverse order strip aligned form ciphertext along
+one row plaintext appear one rows
+
+another brute force approach match frequency distribution
+letter graphing frequency letterciphertext knowing expected distribution letters
+original language plaintext human easily spotvalue shift looking displacement particular
+feature graph known frequency analysis example
+english language plaintext frequency letter eusually frequent z typically least frequentparticularly distinctive computer also measuringwell actual frequency distribution match expected
+distribution example chisquare statistic used
+
+natural language plaintext likelihoodone plausible decryption although extremely short plaintexts
+multiple candidate possible example ciphertext mpqy
+could plausibly decrypt eitheraden know assumingplaintext english similarly aliip doll wheelafccp jolly cheer see also unicity distance
+
+multiple encryption decryption provide additional security
+two encryption say shift shift bequivalent encryption shift mathematical terms
+encryption various key form group

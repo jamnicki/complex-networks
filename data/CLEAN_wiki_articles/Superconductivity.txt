@@ -1,0 +1,264 @@
+copyright
+
+superconductivity
+
+ school wikipedia selection related subject electricityelectronics
+
+magnet levitating hightemperature superconductor cooled
+liquid nitrogen persistent electric current flow surface
+superconductor acting exclude magnetic fieldmagnet meissner effect current effectively formelectromagnet repels magnet
+magnet levitating hightemperature superconductor cooled
+liquid nitrogen persistent electric current flow surface
+superconductor acting exclude magnetic fieldmagnet meissner effect current effectively formelectromagnet repels magnet
+
+superconductivity phenomenon occurring certain materialextremely low temperature characterized exactly zero electrical
+resistance exclusion interior magnetic fieldmeissner effect
+
+electrical resistivity metallic conductor decrease gradually
+temperature lowered however ordinary conductorcopper silver impurity defect impose lower limit
+even near absolute zero real sample copper show nonzero
+resistance resistance superconductor hand
+drop abruptly zero material cooled critical
+temperature typicallykelvin electrical current
+flowing loop superconducting wire persist indefinitelypower source like ferromagnetism atomic spectral lines
+superconductivity quantum mechanical phenomenon cannotunderstood simply idealization ofperfect conductivityclassical physics
+
+superconductivity occurs wide variety material including
+simple element like tin aluminium various metallic alloyheavilydoped semiconductor superconductivity doe occurnoble metal like gold silver ferromagnetic metals
+
+inthe discovery family cuprate perovskite ceramic
+material known hightemperature superconductors critical
+temperature excess ofkelvins spurred renewed interestresearch superconductivity several reason topic pure
+research material represented new phenomenon explainedcurrent theory superconducting state persistsmanageable temperature commercial applicationfeasible especially material even higher critical
+temperature could discovered
+
+elementary property superconductors
+
+physical property superconductors vary material
+material heat capacity critical temperaturesuperconductivity destroyed handclass property independent underlying material
+instance superconductors exactly zero resistivity low
+applied current magnetic field present existence
+universal property implies superconductivitythermodynamic phase thus posse certain distinguishing properties
+largely independent microscopic details
+
+zero electrical resistance
+
+electric cable accelerator cern top regular cable lep
+bottom superconducting cable lhc
+electric cable accelerator cern top regular cable lep
+bottom superconducting cable lhc
+
+simplest method measure electrical resistance samplematerial place electrical circuit seriescurrent source measure resulting voltage across sample
+resistance sample given ohm law rfracvi 
+voltage zero mean resistance zerosample superconducting state
+
+superconductors also able maintain current applied
+voltage whatsoever property exploited superconducting
+electromagnet found mri machine experimentdemonstrated current superconducting coil persistyear without measurable degradation experimental evidence points
+current lifetime leastyears theoretical
+estimate lifetime persistent current exceed lifetimeuniverse
+
+normal conductor electrical current may visualizedfluid electron moving across heavy ionic lattice electrons
+constantly colliding ion latticecollision energy carried current absorbedlattice converted heat essentially vibrational
+kinetic energy lattice ion result energy carriedcurrent constantly dissipated phenomenonelectrical resistance
+
+situation different superconductor conventional
+superconductor electronic fluid cannot resolved individual
+electron instead consists bound pair electron knowncooper pair pairing caused attractive forceelectron exchange phonons due quantum mechanicenergy spectrum cooper pair fluid posse energy gap
+meaning minimum amount energy must suppliedorder excite fluid therefore larger thermal
+energy lattice given k boltzmann constanttemperature fluid scattered lattice
+cooper pair fluid thus superfluid meaning flow without
+energy dissipation
+
+class superconductors known type superconductors
+including known hightemperature superconductors extremely
+small amount resistivity appears temperature farnominal superconducting transition electrical currentapplied conjunction strong magnetic field maycaused electrical current due motionvortex electronic superfluid dissipatesenergy carried current current sufficiently small
+vortex stationary resistivity vanishesresistance due effect tiny comparednonsuperconducting material must taken accountsensitive experiment however temperature decrease far enough
+nominal superconducting transition vortex become
+frozen disordered stationary phase known vortex
+glass vortex glass transition temperature resistance
+material becomes truly zero
+
+superconducting phase transition
+
+behavior heat capacity resistivityatsuperconducting phase transition
+behaviour heat capacity resistivityatsuperconducting phase transition
+
+superconducting material characteristic superconductivity
+appear temperature lowered critical temperature
+tc value critical temperature varies materialmaterial conventional superconductors usually critical
+temperature ranging thank aroundk solid mercury
+example critical temperature ofk ofthe
+highest critical temperature found conventional superconductork magnesium diboride mgb although material displays
+enough exotic property doubt classifyingconventional superconductor cuprate superconductors much
+higher critical temperature ybacuo one first cuprate
+superconductors discovered critical temperature ofk
+mercurybased cuprates found critical temperatures
+excess ofk explanation high critical
+temperature remains unknown electron pairing due phonon exchanges
+explains superconductivity conventional superconductorsexplain superconductivity newer superconductorshigh 
+onset superconductivity accompanied abrupt changevarious physical property hallmark phase
+transition example electronic heat capacity proportional
+temperature normal nonsuperconducting regimesuperconducting transition suffers discontinuous jumpthereafter cease linear low temperature varies instead
+e constantthis exponential behaviour onepiece evidence existence energy gap
+
+order superconducting phase transition long matterdebate experiment indicate transition secondorder
+meaning latent heat seventy calculations
+suggested may actually weakly firstorder due effect
+longrange fluctuation electromagnetic field recently
+wa shown theoretically help disorder field theoryvortex line superconductor play major roletransition second order within type regimefirst order latent heat within type regimetwo region separated tricritical point
+
+meissner effect
+
+superconductor placed weak external magnetic field field penetrates superconductor short distance 
+called london penetration depth decay rapidlyzero called meissner effect defining
+characteristic superconductivity superconductorslondon penetration depth order ofnm
+
+meissner effect sometimes confused kind diamagnetism
+one would expect perfect electrical conductor according lenzs
+law changing magnetic field applied conductorinduce electrical current conductor creates opposing
+magnetic field perfect conductor arbitrarily large current
+induced resulting magnetic field exactly cancelapplied field
+
+meissner effect distinct superconductor
+expels magnetic field changing suppose
+material normal state containing constant internal
+magnetic field material cooled critical
+temperature would observe abrupt expulsion internal
+magnetic field would expect based lenzs law
+
+meissner effect explained brother fritz heinz
+london showed electromagnetic free energysuperconductor minimized provided
+
+nablamathbfhlambda mathbfh
+
+h magnetic field andis london penetration depth
+
+equation known london equation predictsmagnetic field superconductor decay exponentially whatever
+value posse surface
+
+meissner effect break applied magnetic fieldlarge superconductors divided two class accordingbreakdown occurs type superconductors superconductivityabruptly destroyed strength applied field risecritical value depending geometry sample one may
+obtain intermediate state consisting region normal material
+carrying magnetic field mixed region superconducting
+material containing field type superconductors raisingapplied field past critical value lead mixed stateincreasing amount magnetic flux penetrates material
+remains resistance flow electrical currentlong current large second critical field
+strength superconductivity destroyed mixed stateactually caused vortex electronic superfluid sometimes
+called fluxons flux carried vortex quantized
+pure elemental superconductors except niobium technetium
+vanadium carbon nanotube type almost impurecompound superconductors type 
+theory superconductivity
+
+since discovery superconductivity great effortdevoted finding worktheoretical condensed matter physicist arrived solid
+understanding conventional superconductivity pairremarkable important theory phenomenological ginzburglandau
+theoryand microscopic bcs theorygeneralizations
+theory form basis understanding closely related
+phenomenon superfluidity fall lambda
+transition universality class extent similar
+generalization applied unconventional superconductorswell still controversial
+
+history superconductivity
+
+superconductivity discovered inby heike kamerlingh onneswa studying resistance solid mercury cryogenic temperatures
+using recentlydiscovered liquid helium refrigeranttemperature ofk observed resistance abruptly
+disappeared discovery awarded nobel prizephysic 
+
+subsequent decade superconductivity found severalmaterial inlead found superconduct atk 
+niobium nitride found superconduct atk
+
+next important step understanding superconductivity occurredmeissner ochsenfeld discovered superconductors
+expelled applied magnetic field phenomenon comeknown meissner effect inf london showedmeissner effect consequence minimizationelectromagnetic free energy carried superconducting current
+
+inthe phenomenological ginzburglandau theorysuperconductivity devised landau ginzburg theory
+combined landau theory secondorder phase transitionschrdingerlike wave equation great success explainingmacroscopic property superconductors particular abrikosov
+showed ginzburglandau theory predicts divisionsuperconductors two category referred typetype abrikosov ginzburg awarded thenobel prizework landau died 
+
+also inmaxwell reynolds al found critical
+temperature superconductor depends isotopic massconstituent element important discovery pointedelectronphonon interaction microscopic mechanism responsible
+superconductivity
+
+complete microscopic theory superconductivity finally
+proposed inby bardeen cooper schrieffer independently
+superconductivity phenomenon explained nikolay bogolyubovbcs theory explained superconducting current superfluidcooper pair pair electron interacting exchangephonons work author awarded nobel prize
+
+bcs theory set firmer footing inwhen bogoliubov
+showed bcs wavefunction originally derived
+variational argument could obtained using canonical
+transformation electronic hamiltonian ingorkov showed
+bcs theory reduced ginzburglandau theory closecritical temperature
+
+inthe first commercial superconducting wire niobiumtitanium
+alloy developed researcher westinghouse year
+josephson made important theoretical prediction supercurrent
+flow two piece superconductor separated thin layer
+insulator phenomenon called josephson effectexploited superconducting device squid usedaccurate available measurement magnetic flux quantumthus coupled quantum hall resistivity plancks
+constant josephson awarded nobel prize work
+
+untilphysicists believed bcs theory forbade
+superconductivity temperature aboutk year
+bednorz mller discovered superconductivity lanthanumbased
+cuprate perovskite material transition temperature ofk
+nobel prize physicsit shortly found paul w chu
+university houston wu university alabama
+huntsville replacing lanthanum yttrium making
+ybco raised critical temperature tok important
+liquid nitrogen could used refrigerantatmospheric pressure boiling point nitrogen iskimportant commercially liquid nitrogen produced cheaply
+onsite raw material prone problems
+solid air plug etc helium piping many cuprate
+superconductors since discovered theorysuperconductivity material one major outstanding
+challenge theoretical condensed matter physics
+
+applications
+
+superconductors used make powerful
+electromagnet known man including used mri machinebeamsteering magnet used particle accelerator also
+used magnetic separation weakly magnetic particleextracted background nonmagnetic particlepigment industries
+
+superconductors also used make digital circuit based rapid single flux quantum technology microwave
+filter mobile phone base stations
+
+superconductors used build josephson junctionbuilding block squid superconducting quantum interference
+device sensitive magnetometer known series josephson
+device used define volt depending particular
+mode operation josephson junction used photon detector
+mixer large resistance change transitionnormal superconducting state used build thermometercryogenic microcalorimeter photon detectors
+
+early market arising relative efficiency sizeweight advantage device based hts outweigh additional costs
+involved
+
+promising future application include highperformance transformers
+power storage device electric power transmission electric motors
+eg vehicle propulsion vactrains maglev trains
+magnetic levitation device fault current limiter however
+superconductivity sensitive moving magnetic fieldapplication use alternating current transformerdifficult develop rely upon direct current
+
+superconductors popular culture
+
+superconductivity long staple science fiction onefirst mention phenomenon occurred robert heinlein novel
+beyond horizonnotably use fictional room
+temperature superconductor major plot point ringworld
+novel larry niven first published inorganic superconductors
+featured science fiction novel physicist robert forward
+
+superconductivity popular device science fiction duesimplicity underlying conceptzero electrical resistanceand
+rich technological possibility example superconducting
+magnet could used generate powerful magnetic field usedbussard ramjet type spacecraft commonly encountered science
+fiction troublesome property real superconductorsneed cryogenic cooling often circumvented postulatingexistence room temperature superconductors many story attribute
+additional property fictional superconductors ranginginfinite heat conductivity thermal superconductivity nivens
+novel real superconductors conduct heat poorly though superfluid
+helium immense finite heat conductivity providing powerinterstellar travel device stargate movie series
+
+movie terminatorjudgment day cpu destroyed
+terminatoris found superconductive room temperature
+
+tv series stargate atlantis cast member problempower supply solution store power electrical
+storm superconductive material wall city
+
+superconductors technology required civilization seriescomputer game order build spaceship alpha centauri hence
+achieving space victory superconductors also early technology
+another sid meiers game alpha centauri
+
+moviestrangers candy student science class build
+superconductor made soup cans
+
+movie joe versus volcano industrialist need mineral
+called bubaru make superconductors

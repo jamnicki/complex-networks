@@ -1,0 +1,237 @@
+copyright
+
+elementary group theory
+
+ school wikipedia selection related subject mathematics
+
+mathematics group usually defined
+g set andis associative binary operation obeyingfollowing rule axioms
+
+aclosure g g
+aassociativity c gabcabc
+aidentity contains element often denoted eg aeeaa call elementidentity show unique later
+ainverses exists element bg abbae call inverse show
+b unique later
+
+closure associativity part definition associative
+binary operation sometimes omitted particularly closure
+
+notes
+theis necessarily multiplication addition workwell many standard operations
+whenis standard operation use standard symbol instead
+examplefor addition
+whenis addition commutative operation except
+multiplication identity usually denoted byandinverse operation always denoted something
+thanoftento avoid confusion multiplication
+whenis multiplication noncommutative operationidentity usually denoted byand inverse athe
+operation often omitted often written g usually pronounced group underwhen affirming
+group example theorem say ggroup 
+group often referred group simply
+g operationis fundamental descriptiongroup
+
+examples
+
+r group
+
+real number group addition 
+
+closure clear adding two number give another number
+associativity clear c abcabc
+identityfor aa hence denotationfor
+identity
+inverse aa hence denotationinverse
+
+r group
+
+real number group multiplication 
+
+identity 
+inverse sohas inverse
+
+r group
+
+real number withoutr group multiplication 
+
+closure clear multiplying two number give another
+number
+associativity clear c abcabc
+identityfor aa hence denotationfor
+identity
+inverse hence denotation 
+inverse
+
+basic theorems
+
+inverse relation commutative
+
+theoremfor ae
+expanding get
+aa aeaea aby ahasinverse denotedaa aaeaby associativityeaa aetherefore 
+identity relation commutative
+
+theoremfor eaa
+expanding eaaaaa aaa aae associativityprevious theorem
+aeatherefore eaa
+
+latin square property
+
+theoremfor g exists unique gaxb
+certainly least one exists let b
+x closureaxaa substituting aa baa associativityaa ebb identitythus always exists satisfying axb
+show unique axbxex
+exa axa axa thus b
+
+similarly g exists unique ya
+b
+
+identity unique
+
+theoremthe identity element group unique
+aeaapply theoremwith 
+alternative proof suppose ha two identity element f
+say efe also eff theoremhence 
+f
+
+result speak identity element ratheridentity element different group discussedcompared often used identify identity 
+inverse unique
+
+theoremthe inverse element unique
+equivalently axe 
+xathen axeapply theoremwith
+alternative proof suppose element g two inverse k say hhehgkhgkekk equalities
+justified theoremand theoremrespectively
+
+result speak inverse element ratherinverse
+
+inverting twice get back started
+
+theoremfor belonging group aa
+ae
+therefore conclusion follows theorem 
+
+inverse 
+theoremfor belonging group ab 
+abb aabb aaeaaae
+therefore conclusion follows theorem 
+
+cancellation
+
+theoremfor axy belonging group axay
+xy xaya axayaxa axa exey
+xy
+xayaxaayaa 
+xaayaa 
+xeye
+xy
+
+repeated use 
+
+theoremfor every group define
+
+beginmatrixaaaaamboxm times
+aaaamboxn timesendmatrix
+
+
+
+beginmatrix amanamnanam endmatrix
+
+
+beginmatrix anm amn endmatrix
+
+
+beginmatrix aaaa mboxn
+time endmatrix
+
+however operation notedwe note
+
+beginmatrixaaaaamboxm times
+aaaamboxn timesendmatrix
+
+
+
+beginmatrix nma mnamananama
+endmatrix
+
+
+beginmatrix naaaaaa mboxn
+time endmatrix
+
+nm mathbbz generalizes associativity
+
+group nontrivial element order 
+
+theorema group nontrivial element orderis
+abelian word element group satisfy gge
+anyelements h ghhg
+let h anyelements group gh also member using given condition know ghghegghghge
+gghghhgeh
+gghghhgeh
+ehgegh
+hggh
+since group operation commute group abelian
+
+definitions
+
+given group gif total number element finite
+group called finite group order group gnumber element finite group cardinalitygroup finite order group written le frequently 
+
+subset g called subgroup group h satisfies
+axiom group using operatorand restrictedsubset thus subgroup h alsogroup obeys theorem restricted ordersubgroup number element 
+proper subgroup group subgroup identicalg nontrivial subgroup usually proper subgroup contains element 
+theoremif subgroup identity h
+identical identity g
+h hehh since must also heh
+theoremehe
+
+theoremif subgroup h element hinverse h identical inverse g
+let k element hke since must also
+g hhe theoremkh 
+
+given subset often want determine whetheralso subgroup one handy theorem cover casefinite infinite group
+theoremif nonempty subset subgroup ab abisb abise since aaeeaaisb ababisthus axiom closure identity inversesatisfied associativity inherited subgroup
+conversely subgroup obeys axiomgroup
+noted identity identical identity
+e b biabis
+intersection two subgroup subgroup
+
+theoremthe intersection nonempty set subgroupgroup subgroup
+let set subgroup let khi
+e member every theoremso empty
+h element kh hi
+previous theorem hkis therefore hkis therefore k hkis previous theorem khi subgroup gfact subgroup 
+group define write xand general
+xxxx time similarly write n n
+
+theoremlet element group set integer subgroup 
+subgroup type called cyclic subgroup subgrouppower often written say generates
+
+exists positive integer ane sayelement order g smallest sometimeswritten oan
+
+
+subset element writerefer subset made element formelement similarly write indicateset element form write subset made
+element form elementelement
+h subgroup left coset set form
+ah right coset subset form 
+useful theorem cosets stated without proof
+
+theorem subgroup x element geither xhyh yh empty intersection
+
+theorem subgroup every left right coset g
+contains number elements
+
+theorem subgroup g disjoint unionleft right cosets 
+theorem subgroup number distinct left
+cosets number distinct right cosets 
+define index subgroup group written ghnumber distinct left cosets g
+
+theorem deduce important lagranges theorem
+relating order subgroup order group
+
+lagranges theorem subgroup ghgh
+
+finite group also allows state
+
+lagranges theorem subgroup finite group gorder divide order 
+theorem order group prime number groupcyclic
+
+

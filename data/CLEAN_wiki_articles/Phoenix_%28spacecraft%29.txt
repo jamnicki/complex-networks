@@ -1,0 +1,145 @@
+copyright
+
+phoenix spacecraft
+
+ school wikipedia selection related subject space transport
+
+conceptual drawing
+enlarge
+conceptual drawing
+
+phoenix planned multiagency mar lander headeduniversity arizona lunar planetary laboratorydirection nasa scheduled launch augustitpartnership university nasa canadian space agencyaerospace industry phoenix scheduled land mayinplanet watericerich northern polar region dig robotic
+arm arctic terrain searching information historywater search environment suitable microbial life mars
+
+history
+
+augustnasa selected university arizona phoenix
+mission launch inas hoped first new
+line smaller lowcostscout mission agencys
+exploration mar program selection result intense
+twoyear competition proposal institution 
+million nasa award six time larger single
+research grant university arizona history
+
+dr peter smith university arizona lunar planetary
+laboratory selected lead mission principal investigator
+mission named phoenix mythological birdrepeatedly reborn ash like mythological bird 
+phoenix contains several previously built component lander used
+themission modified mar surveyorlander
+cancelled inalong several instrumentprevious polar lander mission lockheed martin kept
+nearlycomplete lander environmentallycontrolled storage since
+
+
+phoenix partnership university nasa centeraerospace industry science instrument operationuniversity arizona responsibility nasa jet propulsion laboratory
+pasadena california manage project provide mission
+design control lockheed martin space system denver colorado
+build test spacecraft canadian space agencyprovide meteorological station including innovative laserbased
+atmospheric sensor coinvestigator institution include malin
+space science system max planck institute solar system research
+nasa ames research centre nasa johnson space centre optech
+incorporated seti institute texas university tuft university
+university colorado university michigan university neuchtel
+switzerland university texas dallas universitywashington washington university louis york university
+
+junefollowing critical review project planning
+progress preliminary design nasa approved mission proceed
+planned purpose review confirm nasa confidence
+mission
+
+mission
+
+mission two goal one study geologic historywater key unlocking story past climate changesecond search evidence habitable zone may existicesoil boundary biological paydirt phoenixs
+instrument suitable uncovering information geological
+possibly biological history martian arcticphoenix first mission return data eitherpole contribute nasa main strategy mar exploration
+follow water
+
+spacecraft launched boeing deltavehiclelaunch window starting augustafter ten month transit
+phoenix would land mayand begin asol primary
+missionalthough likely continue operate much longer
+
+scientific payload
+
+carry improved version university arizona panoramic
+camera volatilesanalysis instrument illfated mar polar
+lander well experiment built mars
+surveyorlander including jpl trenchdigging robot armchemistrymicroscopy instrument science payload also includesdescent imager suite meteorological instruments
+
+robotic arm 
+robotic arm designed extend baselander ability trench half metersurface take sample dirt watericeanalyzed instrument lander arm designedbuilt jet propulsion laboratory alliance spacesystems llc
+pasadena california alliance delivered engineering
+model flight version arm jpl testingintegration
+
+robotic arm camera rac
+
+robotic arm camera attached robotic armscoop fullcolour camera able take
+picture area well verify sample scoopreturn able examine grain arearobotic arm dug camera made university
+arizona max planck institute germany
+
+surface stereo imager ssi
+
+surface stereo imager primary camera spacecraft
+stereo camera described higher resolution upgrade
+imager used mar pathfinder mar polar landerexpected take many stereo image martian arcticalso able using sun reference measure atmospheric
+distortion martian atmosphere due dust airfeature camera provided university arizonacolaboration max planck institute solar system research
+
+thermal evolved gas analyzer tega
+
+tega combination hightemperature furnace mass
+spectrometer used bake sample martian dustdetermine content dust hasdifferent ovensize large ballpoint pen able analyze
+one sample total ofdifferent sample team membermeasure much water vapor carbon dioxide gas givenmuch waterice sample contain mineral presentmay formed wetter warmer past climate instrument
+also capable measuring organic volatile toppb
+tega built university arizona universitytexas dallas
+
+mar descent imager mardi
+
+mar descent imager used take picture martian
+soil lander descends begin take pictureaeroshell departs aboutmiles martian soil images
+also help pinpoint exactly lander landedused take picture landing site usedfind potential target also used learn arealander land typical surrounding terrainbuilt malin space science systems
+
+mardi lightest camera ever land mar wellefficient useswatts power imaging
+process compared many watt used space
+cameras
+
+microscopy electrochemistry conductivity analyzer meca
+
+meca combination wet chemistry lab optical atomic force
+microscope thermal electrical conductivity probebuilt jet propulsion laboratory
+
+using instrument researcher examine soil particle small
+asmicrometres across measure electrical thermal
+conductivity soil particle using probe robotic arm scoop
+one interesting experiment wet chemistry
+laboratory
+
+robotic arm scoop soil put one four wet
+chemistry lab cell water added stirringarray electrochemical sensor measure dozen dissolved ions
+sodium magnesium calcium sulfate waterleached soil important give information biological compatibility soilpossible indigenous mirobes future earth visitor sensoralso measure conductivity soilwater mixture telling
+u wet soil super acidic alkaline salty fulloxidant destroy life
+
+meteorological station met
+
+met record daily weather course phoenix
+mission equipped variety temperature pressure
+sensor also equipped lidar laser imaging
+detection ranging used find amount number
+dust particle air built canadian space
+agency
+
+engineering information
+
+phoenix lander built lockheed martin parts
+built cancelled mar surveyorlander walocked away clean room several year missionfunded nasa scout program
+
+many part used previous spacecraft
+many updated lander contains following subsystems
+computer system commanding spacecraft handling data
+electrical system containing solar array batteries
+telecommunication system communicate directlyearth well mar odyssey mar reconnaissance orbiter
+sophisticated guidance system ensure spacecraft land
+successfully
+propulsion system land safely consisting ofhydrazine
+engines
+structure spacecraft
+several mechanical system move part spacecraft
+sophisticated thermocontrol system ensure spacecraftget cold
+

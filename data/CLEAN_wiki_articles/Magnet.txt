@@ -1,0 +1,273 @@
+copyright
+
+magnet
+
+ school wikipedia selection related subject electricityelectronics
+
+iron filing magnetic field generated bar magnet
+enlarge
+iron filing magnetic field generated bar magnet
+
+magnet object magnetic field form
+permanent magnet electromagnet permanent magnetrely upon outside influence generate field occur
+naturally rock also manufactured electromagnets
+rely upon electric current generate magnetic fieldwhencurrent increase doe field
+
+magnet attracted repelled material material
+strongly attracted magnet said high
+permeability example material high permeability include
+iron steel liquid oxygen example something low
+permeability weakly attracted magnetic field
+water low permeability actually slightly repelled
+magnetic field everything measurable permeability people
+gas even vacuum outer space
+
+si unit magnetic field strength tesla unittotal magnetic flux weberwebertesla flowing 
+square meter large amount magnetic flux
+
+physical origin magnetism
+
+permanent magnets
+
+normal piece matter composed particle protons
+neutron electron fundamental property
+quantum mechanical spin spin give one particleassociated magnetic field factaverage microscopic piece matter contains huge numberparticle would expected matter would magnetic even
+antimatter would magnetic characteristic however everyday
+experience show case
+
+within atom molecule spin particlehighly ordered result pauli exclusion principle however
+longrange ordering spin atommolecule without longrange ordering net magnetic field
+magnetic moment one particle canceledmagnetic moment particles
+
+permanent magnet special longrange ordering doe exist
+highest degree ordering exists within magnetic domaindomain likened microscopic neighborhoodstrong reinforcing interaction particle resultgreat deal order greater degree ordering withindomain greater resulting field
+longrange ordering resulting strong net magnetic fieldone hallmark ferromagnetic material
+
+electronic generation magnetism
+
+electron play primary role generating magnetic field within
+atom electron exist either individually pair withingiven orbital paired individual pair
+always opposite spinone one fact spins
+opposite orientation mean two cancel one anotherelectron paired net magnetic field generated
+
+atom electron unpaired magnetunpaired electron atom unpaired electronferromagnetic order material become ferromagneticmust unpaired electron present unpaired
+electron must interact one another long rangeoriented direction specific electron
+configuration atom well distance atomlead longrange ordering electron exist lower
+energy state share orientation
+
+electromagnets
+
+electromagnet simplest form wire coiled
+one loop coil known solenoid electric
+current flow along coil magnetic field generated aroundcoil orientation field determined via right
+hand rule strength field influenced several factors
+number loop determines surface area interactionamount current determines amount activity material
+core determines electrical resistance loop wire
+greater current stronger field
+coil wire empty centre tend generateweak field different ferromagnetic paramagnetic itemplaced centre core effect magnifyingmagnetic field example iron nail addition soft ironcommonly used purpose addition typematerial result several hundred thousandfold increasefield strength
+
+distance large compared magnet dimensionobserved magnetic field obeys inverse cube law meanfield strength inversely proportional third powerdistance magnet
+
+case electromagnet contact flat metal plateforce needed separate two greatest two surfaces
+machined flat possible flatter surfacepoint contact smaller magnetic circuits
+reluctance magnetic field
+
+electromagnet find many place ranging particle
+accelerator electric motor junkyard crane magnetic
+resonance imaging machine also specialized applications
+involve simple magnetic dipole quadrupole
+magnet used focus particle beams
+
+enough electric current passed coilelectromagnet magnetic force neighboring loop wirecause electromagnet crushed magnetic field
+
+characteristic magnets
+
+permanent magnet dipoles
+
+magnet least two pole magnet least
+one north pole least one south pole pole pairthing inside magnet concept used discusdescribe magnet image top page pole look
+like specific location highest surface intensityfield occurs pole doe meanspecific locations
+
+understand concept pole imagined rowpeople facing direction standing line
+face end line back end line
+one place face backs
+person front face end back person
+back end face line divided two shorter
+line one shorter line still face end back
+end even line pulled completely apartindividual standing around one individual still haface back continue without end
+
+hold true magnet one placenorth south pole magnet divided two two
+magnet result magnet north south
+pole smaller magnet dividedresulting piece north south poleinstance material continues broken smallersmaller piece point piece smallretain net magnetic field wont become individual northsouth pole though instead lose abilitymaintain net field material however dividedmolecular level still maintain net field north
+south pole theory involving possibility north
+south magnetic monopoles magnetic monopole everfound
+
+northsouth pole designation earth magnetic field
+
+standard naming system pole magnet important
+historically term north south reflect awarenessrelationship magnet earth magnetic field freely
+suspended magnet eventually orient northtosouthattraction north south magnetic pole earth
+end magnet point toward earth geographic north
+pole labeled north pole magnet correspondinglyend point south south pole magnet
+
+earth current geographic north thus actually magnetic
+south confounding situation magnetised rock ocean
+floor show earth magnetic field reversedpast system naming likely backward timefuture
+
+fortunately using electromagnet right hand ruleorientation field magnet defined without reference
+earth geomagnetic field
+
+avoid confusion geographic magnetic north south
+pole term positive negative sometimes used poles
+magnet positive pole seek geographical north
+
+common magnet electromagnets
+
+magnet many toy mtic magnetic rod connectedmetal sphere construction
+enlarge
+magnet many toy mtic magnetic rod connectedmetal sphere construction
+magnetic recording medium common vhs tape contain reelmagnetic tape information make video soundencoded magnetic coating tape common audio cassettes
+also rely magnetic tape similarly computer floppy disks
+hard disk record data thin magnetic coating
+
+credit debit atm card card magnetic
+strip one side strip contains necessary
+information contact individual financial institutionconnect accounts
+
+common television computer monitor majority tvcomputer screen rely part electromagnet generateimagesee article cathode ray tube information
+plasma screen lcd rely different technology entirely
+
+loudspeaker microphone loudspeaker actually relycombination permanent magnet electromagnet speaker
+fundamentally device convert electric energy signal
+mechanical energy sound electromagnet carrysignal generates changing magnetic field pushpull field generated permanent magnet pushing
+pulling move cone creates sound speakers
+rely technology vast majority standard
+microphone based upon concept run reversemicrophone cone membrane attached coil wirecoil rest inside specially shaped magnet sound vibrates
+membrane coil vibrated well coil moves
+magnetic field voltage generated coil see
+lenzs law voltage wire electric signal
+representative original sound
+
+magnetic hand separator heavy minerals
+enlarge
+magnetic hand separator heavy minerals
+electric motor generator electric motor much like
+loudspeaker rely upon combination electromagnetpermanent magnet much like loudspeaker convert electric
+energy mechanical energy generator reverseconvert mechanical energy electric energy
+
+transformer transformer device transfer electric
+energy two winding electrically isolatedlinked magnetically
+
+chuck chuck used metalworking field hold objects
+object held securely magnetpermanent electromagnetic chuck may used magnet also
+used type fastening device magnetic
+base magnetic clamp refrigerator magnet
+
+magic naturally magnetic lodestone well iron magnetused conjunction fine iron grain called magnetic sand
+practice africanamerican folk magic known hoodoo
+stone symbolically linked people name ritually
+sprinkled magnetic sand reveal magnetic field one
+stone may utilized bring desired thing person pair
+stone may manipulated bring two people closer togetherlove
+
+artmillimetre thicker vinyl magnet sheet may attachedpainting photograph ornamental article allowing
+stuck refrigerator metal surfaces
+
+magnetization materials
+
+ferromagnetic material magnetized following ways
+placing item external magnetic field resultitem retaining magnetism removal vibration hashown increase effect ferrous material alignedearth magnetic field subject vibration frame conveyor shown acquire significant
+residual magnetism
+placing item solenoid direct current passing
+strokingan existing magnet moved one end itemrepeatedly direction
+placing steel bar magnetic field heating high
+temperature finally hammering cooldone laying magnet northsouth direction earths
+magnetic field case magnet strongeffect permanent
+
+demagnetizing materials
+
+permanent magnet demagnetized following ways
+heating magnet past curie point destroy long range
+ordering
+contact stroking one magnet another random fashion
+demagnetize magnet stroked casematerial high coercive field cannotdemagnetized permanent magnets
+hammering jarring destroy long range ordering within
+magnet
+magnet placed solenoid alternating
+current passed long range ordering
+disrupted much way direct current cause
+ordering
+
+electromagnet soft iron core ceasing flowcurrent eliminate magnetic field however slight field may
+remain core material result hysteresis
+
+type permanent magnets
+
+stack ferrite magnets
+enlarge
+stack ferrite magnets
+rare earth types
+neodymium magnet powerful permanent magnets
+samariumcobalt magnets
+types
+ceramic magnets
+plastic magnets
+alnico magnets
+
+magnetic forces
+
+magnetized item interact item specific ways
+
+magnet ferromagnetic materials
+
+magnet brought close enough ferromagnetic materialmagnetized magnet strongly attractferromagnetic material regardless orientation northsouth pole magnet attract item equal
+strength
+
+magnet diamagnetic materials
+
+definition diamagnetic material weakly repel magnetic field
+occurs regardless northsouth orientation field
+
+magnet paramagnetic materials
+
+definition paramagnetic material weakly attractedmagnetic field occurs regardless northsouth orientation
+field
+
+calculating magnetic force
+
+calculating attractive repulsive force two magnetgeneral case extremely complex operation dependsshape magnetization orientation separation magnets
+
+force two monopoles
+
+force two magnetic monopoles follows
+
+fmu mmoverpi 
+
+f force unit newton
+pole strength unit amperemeter
+permeability intervening medium unit tesla
+meter per ampere henry per meter
+r separation unit meter
+
+since magnetic monopoles theoretical constructionequation doe describe physically realisable arrangementstated simplest possible calculation magnetic
+force reality one complex formula givenuseful
+
+force two close attracting surfaces
+
+ffracabmu
+
+
+area surfaceb flux density teslas
+permeability space equalsx 
+teslameterampere
+
+force two bar magnets
+
+force two identical cylindrical bar magnet placed
+endtoend given
+fleftfrac left right
+pimulright leftfracxfrac 
+xlfracxl right
+
+
+b flux density polearea polel length magnetr radius magnetx separation two magnet

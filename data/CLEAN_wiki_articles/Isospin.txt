@@ -1,0 +1,103 @@
+copyright
+
+isospin
+
+ school wikipedia selection related subject general physics
+
+physic specifically particle physic isospin isotopic spin
+isobaric spin symmetry strong interaction appliesinteraction neutron proton isospin symmetrysubset flavour symmetry seen broadly interactionbaryon meson isospin symmetry remains important conceptparticle physic close examination symmetry historically
+led directly discovery understanding quarkdevelopment yangmills theory
+flavour particle physics
+flavour quantum numbers
+lepton number baryon number electric charge weak hypercharge weak isospin isospin hyperchargestrangenesscharm bottomness topness
+
+ybscbt
+qizy
+qtzyw
+bl
+
+
+related topics
+cpt symmetry
+ckm matrix
+cp symmetry
+chirality
+
+symmetry
+
+isospin introduced werner heisenberg explain several related
+symmetries
+mass neutron proton almost identicalnearly degenerate thus often called nucleon although
+proton positive charge neutron neutralalmost identical respects
+strength strong interaction pair nucleons
+independent whether interacting protons
+neutrons
+mass pion mediate strong interactionnucleon particular masspositivelycharged pion identicalnegativelycharged pion nearly massneutral pion
+
+quantum mechanic hamiltonian symmetry symmetry
+manifest set state almostenergy state degenerate particle physic mass
+thing energy since emc near
+massdegeneracy neutron proton point symmetryhamiltonian describing strong interaction neutron doeslightly higher mass mass degeneracy exact protoncharged neutron however case wouldgeneral quantum mechanic appearance symmetryimperfect perturbed force give riseslight difference states
+
+su
+
+heisenberg contribution note mathematical formulation
+symmetry certain respect similar mathematical
+formulation spin whence name isospin derivesprecise isospin symmetry given invariancehamiltonian strong interaction action lie
+group neutron proton assigned doublet
+spin fundamental representation pionassigned triplet spin adjoint representationsu
+
+case regular spin isospin described two
+number total isospin component spin
+vector given direction proton neutronbelong doublet proton isospinup
+neutron isospindown pion belonging
+triplet andandhave respectively
+
+yangmills
+
+isospin symmetry central original formulation yangmills
+theory pion proposed gauge bosontheory understood isospin symmetry true
+gauge symmetry initial confusion historically importantdevelopment overall idea gauge invariance
+
+relationship flavour
+
+discovery subsequent close analysis additional particles
+meson baryon made clear concept isospin
+symmetry could broadened even larger symmetry groupcalled flavour symmetry kaon propertystrangeness became better understood started become clearseemed part enlarged general symmetry
+contained isospin subset larger symmetry namedeightfold way murray gellmann promptly recognizedcorrespond adjoint representation immediately led
+gellmanns proposal existence quark quark would
+belong fundamental representation flavour symmetry
+fundamental rep conjugate quarkantiquark higher representation mesonbaryon could assembled short theory lie group lie
+algebra modelled physical reality particleexceptional unexpected way
+
+discovery meson charm led expansionflavour symmetry discovery upsilon mesoncorresponding top bottom quark led current flavour symmetry isospin symmetry one little cornerbroader symmetry strong theoretical reason confirmedexperiment lead one believe thing stopquark found
+
+isospin symmetry quarks
+
+framework standard model isospin symmetryproton neutron reinterpreted isospin symmetryquark technically nucleon doublet seenproduct single quark thus doublet pair quarksinglet state proton wave function term quark
+flavour eigenstates described
+vert pranglevert urangle fracsqrt left vert
+udranglevert durangle rightmbox perms
+
+neutron
+vert nranglevert drangle fracsqrt left vert
+udranglevert durangle rightmbox perms
+
+perm stand permutation vert ranglequark flavour eigenstate vert rangle quark flavour
+eigenstate although technically correct waydenoting proton neutron term quark flavour eigenstates
+almost always glossed simply referred
+uud udd
+
+similarly isopsin symmetry pion given
+vert piranglevert uoverline drangle
+vert piranglefracsqrt leftvert uoverline
+uranglevert overlined rangle right
+vert piranglevert doverline urangle
+
+overline denotes usual complex conjugate representationsu equivalently antiquark
+
+weak isospin
+
+quark also feel weak interaction however mass
+eigenstates strong interaction exactlyeigenstates weak interaction thus still pair
+quark take part weak interactionquite strong quark difference givenrotation whose magnitude called cabibbo anglegenerally ckm matrix

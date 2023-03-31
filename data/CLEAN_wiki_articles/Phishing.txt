@@ -1,0 +1,217 @@
+copyright
+
+phishing
+
+ school wikipedia selection related subject website internet
+
+
+featured article click information
+phishing attempt disguised official emailfictional bank attempt trick bank member giving away
+account information confirming phishers linked
+website
+enlarge
+phishing attempt disguised official emailfictional bank attempt trick bank member giving away
+account information confirming phishers linked
+website
+
+computing phishing criminal activity using social engineering
+technique phishers attempt fraudulently acquire sensitive
+information password credit card detail masquerading
+trustworthy person business electronic communication
+phishing typically carried using email instant message
+although phone contact used well attempt dealgrowing number reported phishing incident include legislation user
+training technical measures
+
+first recorded mention phishingaltonlineserviceamericaonline usenet newsgroup january
+although term may appeared even earlier print edition
+hacker magazinethe term phishing variant fishing
+probably influenced phreaking alludes useincreasingly sophisticated lure fish user financial
+information password word may also linked leetspeakph common substitution popular theoryportmanteau password harvesting example folk etymology
+
+early phishing aol
+
+would later phish aol originally used
+fake algorithmically generated credit card number create accounts
+aol could last week even month aol broughtmeasure lateto prevent early aol cracker resortedphishing legitimate accounts
+
+phishing aol closely associated warez communityexchanged pirated software phisher might pose aol staff member
+send instant message potential victim asking reveal
+password order lure victim giving sensitive
+information message might include text verifyaccount confirm billing information victimsubmitted password attacker could access use victims
+account criminal purpose spamming phishingwarezing aol generally required customwritten programaohell phishing became prevalent aol added lineinstant message stating one working aol askpassword billing information
+
+afteraols policy enforcement respect phishing warez
+became stricter forced pirated software aol server aol
+simultaneously developed system promptly deactivate accounts
+involved phishing often victim could respondshutting warez scene aol caused phishers leave
+service many phishersoften young teensgrewhabit
+
+recent phishing attempts
+
+chart showing increase phishing report octoberto
+june 
+enlarge
+chart showing increase phishing report octoberto
+june 
+
+recent phishing attempt targeted customer bankonline payment service email supposedly internal revenue
+service also used glean sensitive data taxpayer first example sent indiscriminatelyhope finding customer given bank service recent
+research shown phishers may principle able establish
+bank potential victim relationship sendappropriate spoofed email victim targeted versionphishing termed spear phishing social networking sitealso target phishing since personal detail siteused identity theft experiment show success rate 
+phishing attack social networks
+
+phishing techniques
+
+method phishing use form technical deception designed
+make link email appear belong spoofed
+organization misspelled url use subdomains common
+trick used phishers example url
+httpwwwyourbankcomexamplecom another common trick make
+anchor text link appear valid url link
+actually phishers site
+
+one method spoofing link use web address containing thesymbol
+used include username password web url
+contrary standard example link
+httpwwwgooglecommemberstripodcom might deceive casual
+observer believing link open pagewwwgooglecom whereas link actually directs browser page
+memberstripodcom using username wwwgooglecomuser page would open normally url subsequently
+disabled internet explorer mozilla opera web browsers
+opting instead present warning message give user option
+continuing site cancelling
+
+phishing scam use javascript command order alteraddress bar done either placing picture legitimate
+entity url address bar closing original address
+bar opening new one containing legitimate url
+
+another popular method phishing attacker bankservice script victim type attack known
+crosssite scripting particularly problematicdirect user sign bank service web page
+everything web address security certificates
+appears correct reality link website craftedcarry attack although difficult spot without
+specialist knowledge flaw used inagainst paypal
+
+problem url found handlinginternationalized domain name idn web browser might allow
+visually identical web address lead different possibly
+malicious website despite publicity surrounding flaw known
+idn spoofing homograph attack known phishing attackyet taken advantage
+phishing attack require fake website incidentmessage claimed bank told user dialphone number regarding problem bank accountphone number dialed prompt told user enter account
+number pin number provided voice provider
+
+phishing examples
+
+paypal phishing example
+example phishing email targeted paypal users
+enlarge
+example phishing email targeted paypal users
+
+example paypal phish right spelling mistake emailpresence address link visible tooltipyellow box clue phishing attempt another
+giveaway lack personal greeting although presencepersonal detail guarantee legitimacy
+
+southtrust bank example
+
+second example targeted southtrust bank user phisher
+ha used image make harder antiphishing filter detect
+scanning text commonly used phishing emails
+
+southtrust supportidsouthtrustcom
+johnsmithexamplecom
+subject southtrust bank important notification
+date thujunbrt
+
+damage caused phishing
+
+damage caused phishing range loss access emailsubstantial financial loss style identity theft becoming
+popular ease unsuspecting people often
+divulge personal information phishers including credit card
+number social security number mother maiden namealso fear identity thief obtain information
+simply accessing public records
+
+information acquired phishers may use persons
+detail create fake account victim name ruin victims
+credit even prevent victim accessing accounts
+
+estimated mayand mayapproximately 
+million computer user united state suffered loss causedphishing totaling approximatelymillion usd business lose
+estimatedbillion usd year client become victimunited kingdom loss web banking fraudmostly phishing
+almost doubled infrom inwhilein 
+user claimed lost phishing 
+
+antiphishing
+
+several different technique combat phishing including
+legislation technology created specifically protectphishing
+
+social responses
+
+one strategy combating phishing train user dealphishing attempt user education promising especiallytraining provides direct feedback user successotherwise one newer phishing tactic phishing emails
+targeted specific company known spear phishing haharnessed train user various location including west point
+military academy juneexperiment spear phishingof
+west point cadet sent fake email trickedrevealing personal information
+
+user contacted account needing verifiedtake step avoid phishing attempt contacting companysubject email check email legitimatetyping trusted web address company websiteaddress bar browser bypass link suspected
+phishing message
+
+nearly legitimate email message company customers
+contain item information readily availablephishers company like paypal always address customers
+username email email address usergeneric fashion dear paypal customer likely attempt
+phishing email bank credit card company often
+include partial account number therefore one alwayssuspicious message doe contain specific personal
+information phishing attempt earlyhowever used highly
+personalized information making unsafe rely personal
+information alone sign message legitimateanother recent study concluded part presenceinformation doe significantly affect success rate phishing
+attack suggesting user pay attentiondetail anyway
+
+antiphishing working group industry law enforcement
+association suggested conventional phishing technique could
+become obsolete future people increasingly awaresocial engineering technique used phishers proposepharming malware become common toolstealing information
+
+technical responses
+
+antiphishing software available may identify phishing contents
+website act toolbar display real domain namevisited website spot phishing attempt email microsofts
+new browser mozillas firefoxand opera versionwill
+include form antiphishing technology site maychecked list known phishing site sitesuspect software may either warn user block site outright
+firefoxuses google antiphishing software may alsoinstalled spam filter also help protect userphishers reduce number phishingrelated emails
+user receive approach introduced mid similarprinciple using host file block web advert involves
+switching using special dns service filter known
+phishing domain work browser
+
+site added verification tool allow user see secret
+image user selected advance image doe appear
+site legitimate bank america together
+challenge question ask user informationknown user bank featureform twoway authentication twofactor authentication still
+susceptible attack suffered scandinavian bank
+nordea late 
+
+monitoring takedown
+
+several company offer bank entity likely sufferphishing scamsservices monitor analyze assist shutting
+phishing website individual contribute reporting
+phishing volunteer industry group phishtank
+
+legal responses
+
+januarythe ftcfederal trade commission filedfirst lawsuit suspected phisher defendant californian
+teenager allegedly created used webpage designed look like
+america online website could steal credit card numbers
+country followed lead tracingarresting phishers phishing kingpin valdir paulo almeidaarrested brazil leading one largest phishing crime rings
+inyears stole betweenandmillion usd authorities
+jailed two men junefor role phishing scamcase connected secret service operation firewalltargeted notorious carder website ineight peoplearrested japanese police suspicion phishing fraud creating
+bogus yahoo japan web site netting themselvesmillion yen 
+thousand usd
+
+united state democratic senator patrick leahy introducedantiphishing act ofon marchthe federal antiphishing
+bill proposes criminal create fake web site spam bogus
+email order defraud consumer could receive finereceive jail term five years
+
+microsoft also joined effort crack phishingmarchmicrosoft filedfederal lawsuit district court western district washington lawsuits
+accusejohn doe defendant using various method obtain
+password confidential information marchalso saw microsoft
+partner australian government teach law enforcement
+official combat various cyber crime including phishing
+microsoft announced planned furtherlawsuits outside umarch 
+
+aol reinforced effort phishing earlywith three
+lawsuit seeking total ofmillion usd theamendments
+virginia computer crime act
+

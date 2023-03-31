@@ -1,0 +1,168 @@
+copyright
+
+wave
+
+ school wikipedia selection related subject general physics
+
+wave disturbance propagates space spacetime
+often transferring energy mechanical wave exists medium
+deformation capable producing elastic restoring
+force wave electromagnetic radiation probably gravitational
+radiation travel vacuum without medium waves
+travel transfer energy one point another littlepermanent displacement particle medium little
+associated mass transport instead oscillation around
+fixed positions
+
+many year scientist trying work problemenergy transfer one place anotherespecially sound light
+energy
+
+characteristics
+
+surface wave water
+enlarge
+surface wave water
+
+periodic wave characterized crest high trough lows
+may usually categorized either longitudinal transverse
+transverse wave vibration perpendiculardirection propagation wave example include wavestring electromagnetic wave longitudinal wavevibration parallel direction propagation wave
+example include sound waves
+
+object bob ripple pond experiences
+orbital trajectory ripple simple transverse
+sinusoidal waves
+aat deep water bat shallow water circular movementsurface particle becomes elliptical decreasing depth
+progression wavecresttrough
+enlarge
+aat deep water
+bat shallow water circular movement surface particle
+becomes elliptical decreasing depth
+progression wave
+crest
+trough
+
+ripple surface pond actually combinationtransverse longitudinal wave therefore point surface
+follow orbital paths
+
+wave common behaviour number standard situations
+wave experience following
+reflectionthe change direction wave due hittingreflective surface
+refractionthe change direction wave due entering
+new medium
+diffractionthe circular spreading wave happensdistance wave move opening equal distance
+interferencethe superposition two wave comecontactdispersionthe splitting wave frequency
+rectilinear propagationthe movement wave straight lines
+
+polarization
+
+wave polarized oscillate one directionpolarization transverse wave describes directionoscillation plane perpendicular direction travel
+longitudinal wave sound wave exhibit polarization
+wave direction oscillation alongdirection travel wave polarized using polarizing
+filter
+
+examples
+
+example wave include
+ocean surface wave perturbation propagatewater
+radio wave microwave infrared ray visible light ultraviolet
+ray xrays gamma ray make electromagnetic radiationcase propagation possible without mediumvacuum electromagnetic wave travel atmvacuum
+sounda mechanical wave propagates air liquidsolids
+seismic wave earthquake three types
+called l
+gravitational wave fluctuation gravitational
+field predicted general relativity wave nonlinear
+yet observed empirically
+inertial wave occur rotating fluid restoredcoriolis force
+
+mathematical description
+
+wave described mathematically using series parameters
+
+amplitude wave commonly notated another lettermeasure maximum disturbance medium one wave cycle
+illustration right maximum vertical distance
+baseline wave unit amplitude dependtype wavewaves string amplitude expresseddistance meter sound wave pressure pascalelectromagnetic wave amplitude electric field
+voltsmeter amplitude may constant case wavecw continuous wave may vary time andor positionform variation amplitude called envelope wave
+
+wavelength denoted asis distance two sequential
+crest trough generally unit metre also
+commonly measured nanometre optical partelectromagnetic spectrum
+
+wavenumber associated wavelength relation
+
+kfrac pilambda 
+
+wave represented simple harmonic motion
+enlarge
+wave represented simple harmonic motion
+
+period time one complete cycle oscillationwave frequency also frequently denoted asis many
+period per unit time example one second measuredhertz related
+ffract 
+
+word frequency period wave reciprocal
+angular frequencyrepresents frequency term radians
+per second related frequency
+omegapi ffrac pit 
+
+two velocity associated wave firstphase velocity give rate wave propagates
+given
+vpfracomegak 
+
+second group velocity give velocityvariation shape wave amplitude propagatespace rate information transmittedwave given
+vgfracpartial omegapartial 
+wave equation
+
+wave equation differential equation describesevolution harmonic wave time equation slightly
+different form depending wave transmittedmedium traveling considering onedimensional wavetravelling rope along xaxis velocity vamplitude generally depends wave
+equation
+fracvfracpartial upartial tfracpartial
+upartial 
+
+three dimension becomes
+
+fracvfracpartial upartial tnabla 
+
+nabla laplacian
+
+velocity depend type wave medium
+transmitted
+
+general solution wave equation one dimension givendalembert
+uxtfxvtgxvt 
+
+viewed two pulse travelling rope opposite
+direction x direction x directionsubstitute replacing direction zdescribe wave propagating three dimensions
+
+schrdinger equation describes wavelike behaviour particles
+quantum mechanic solution equation wave functions
+used describe probability density particle
+quantum mechanic also describes particle property waves
+light sound atomic scale
+traveling waves
+
+wave remain one place called standing waveseg
+vibration violin string wave moving called
+traveling wave disturbance varies timedistance expressed mathematically
+uazt omega tkzphi
+
+azt amplitude envelope wave wave
+number andis phase phase velocity wavegiven
+vpfracomegak lambda 
+whereis wavelength wave
+
+propagation strings
+
+speed wave traveling along string directly
+proportional square root tension linear
+density 
+
+vsqrtfractmu
+
+transmission medium
+
+medium carry wave called transmission mediumclassified one following categories
+linear medium amplitude different waveparticular point medium added
+bounded medium finite extent otherwise unbounded
+medium
+uniform medium physical property unchangeddifferent location space
+isotropic medium physical propertydifferent directions
+

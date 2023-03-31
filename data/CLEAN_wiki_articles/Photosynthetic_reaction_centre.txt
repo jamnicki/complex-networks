@@ -1,0 +1,177 @@
+copyright
+
+photosynthetic reaction centre
+
+ school wikipedia selection related subject general biology
+
+photosynthetic reaction centre protein sitelight reaction photosynthesis reaction centre contains
+pigment chlorophyll phaeophytin absorb light
+promoting electron higher energy level within pigmentfree energy created used reduce electron acceptorcritical production chemical energy photosynthesis
+
+reaction centre present green plant many bacteria
+algae green plant two reaction centre known photosystem
+photosystem structure centre complex
+involving multisubunit protein reaction centre foundrhodopseudomonas bacteria currently better understood sincefewer protein example green plants
+
+capturing light energy
+
+reaction centre laid way capture energy
+photon using pigment molecule turn usable form
+light energy absorbed directly pigment
+molecule passed resonance transfer antenna
+pigment release two electron electron transport chain
+
+light made small bundle energy called photon photon
+right amount energy hit electron raiseelectron higher energy level electron stablelowest energy level ground state orbit electron
+ha least amount energy electron higher energy levelreturn ground state manner analogous ball fallingstaircase release energy processexploited photosynthetic reaction centre
+
+electron rise higher energy level increasereduction potential molecule mean greater
+tendency donate electron key conversion light energy
+chemical energy green plant electron transport chainfollows many electron acceptor including phaeophytin quinone
+plastoquinone cytochrome ferredoxin ultimately resultreduced molecule nadph passage electronelectron transport chain also result pumping protons
+hydrogen ion chlorplasts stroma lumen resulting
+proton gradient across thylakoid membrane usedsynthesis atp using atp synthase atp nadph usedcalvin cycle fix carbon dioxide triose sugars
+
+bacteria
+
+structure
+
+bacterial photosynthetic reaction centre
+bacterial photosynthetic reaction centre
+
+bacterial photosynthetic reaction centre important
+model understand structure chemistry biological
+process capturing light energy roderick claytonfirst purify reaction centre complex purple bacteria
+however first crystal structure determined hartmut michel
+johann deisenhofer robert huber shared nobel
+prize inthis also significant since first
+structure membrane protein complex
+
+four different subunit found important functionphotosynthetic reaction centre subunit shown blue
+purple image structure span plasma membrane
+structurally similar one another 
+transmembrane polypeptide helix four bacteriochlorophyll bchlb
+molecule two bacteriophaeophytin molecule bph molecule two
+quinone qb ferrous ion associated subunit subunit shown gold lie cytoplasmic
+side plasma membrane cytochrome subunit shown green
+contains four ctype heme located periplasmic surface
+outer membrane
+
+reaction centre contains two pigment serve collecttransfer energy photon absorption bchb bph bchb roughly
+resembles chlorophyll molecule found green plant dueminor structural difference peak absorption wavelength shifted
+infrared wavelength long bph hastructure bchb central magnesium ion replaced two
+protons
+
+mechanism
+
+light reaction
+enlarge
+light reaction
+
+process start light absorbed two bchlb moleculelie near periplasmic side membrane pair chlorophyll
+molecule often called special pair absorbs photon roughly
+nm thus called p standing pigmentp absorbs photon ejects electron transferred
+another molecule bchl bph subunitinitial charge separation yield positive charge pnegative charge bph process take place inpicoseconds
+seconds
+
+charge bph could undergo charge
+recombination state would waste highenergy electron
+convert absorbed light energy heat several factorreaction centre structure serve prevent first transfer
+electron bph relatively slow compared two
+redox reaction reaction centre faster reactions
+involve transfer electron bph bph oxidisedbph electron acceptor quinone transferelectron p reduced hemecytochrome subunit reaction centre
+
+highenergy electron resides tightly bound quinone
+molecule transferred exchangeable quinone molecule molecule loosely associated protein fairly easy
+detach two highenergy electron required fully
+reduce qh taking two proton cytoplasmprocess reduced quinone diffuses membraneanother protein complexcytochrome bccomplexoxidised process reducing power usedpump proton across membrane periplasmic spaceelectron cytochrome bccomplex transferred
+soluble cytochrome intermediate called cytochrome cperiplasm cytochrome subunit thus flow electronsystem cyclical
+
+green plants
+
+oxygenic photosynthesis
+
+inthe chemist joseph priestly carried seriesexperiment relating gas involved respirationcombustion first experiment lit candle placedupturned jar short period time candle burned
+carried similar experiment mouse confined
+space burning candle found mouse died short time
+candle extinguished however could revivifyfoul air placing green plant area exposinglight priestlys observation first experimentdemonstrated activity photosynthetic reaction centre
+
+injan ingenhousz carried thanexperiments spread
+overmonths attempt understand really goingwrote discovery book entitled experiment upon
+vegetable ingenhousz took green plant immersed water
+inside transparent tank observed many bubble risingsurface leaf whenever plant exposed light
+ingenhousz collected gas given plantperformed several different test attempt determine gas
+wa test finally revealed identity gasplacing smoldering taper gas sample relight
+test proved oxygen joseph priestly calledde phlogisticated air
+
+inprofessor robert emerson undergraduate student william
+arnold used repetitive flash technique precisely measure small
+quantity oxygen evolved chlorophyll algae chlorella
+experiment proved existence photosynthetic unit gaffron
+wohl later interpreted experiment realized light
+absorbed photosynthetic unit transferred reaction
+occurs reaction centre photosystem take placecyanobacteria algae green plants
+
+photosystem 
+photosystem photosystem generates electroneventually reduce nadp photosystem present thylakoid
+membrane inside chloroplast site photosynthesis green
+plant structure photosystem remarkably similarbacterial reaction centre theorized share common
+ancestor
+
+core photosystem consists two subunit referredtwo subunit similar subunit present
+bacterial reaction centre photosystem differsbacterial reaction centre many additional subunitbind additional chlorophyll increase efficiency overall
+reaction catalyzed photosystem ii
+beginmatrix lightqh longrightarrowo 
+qhendmatrix
+
+q represents plastoquinone oxidized form qh represents
+plastoquinol reduced form process reducing quinone
+comparable take place bacterial reaction
+centre photosystem obtains electron oxidizing waterprocess called photolysis molecular oxygen byproductprocess reaction supply atmosphereoxygen fact oxygen green plant originatedwater first deduced canadianborn american biochemist martin
+david kamen used radioactive isotope oxygen trace
+path oxygen water gaseous molecular oxygenreaction catalyzed reactive centre photosystem containing
+four manganese ions
+
+reaction begin excitation pair chlorophyll
+molecule similar bacterial reaction centre duepresence chlorophyll opposed bacteriochlorophyll
+photosystem absorbs light shorter wavelength pairchlorophyll molecule reaction centre often referredp photon absorbed resulting highenergy
+electron transferred nearby pheophytin moleculeright pair diagram coloured greyelectron travel pheophytin molecule two plastoquinone
+molecule first tightly bound second loosely boundtightly bound molecule shown pheophytin moleculecoloured red loosely bound molecule leftalso coloured red flow electron similarbacterial reaction centre two electron required fully reduce
+loosely bound plastoquinone molecule well uptake
+two protons
+
+difference photosystem bacterial reaction centre
+source electron neutralizes pair chlorophyll
+molecule bacterial reaction centre electron obtained
+reduced compound heme group cytochrome subunit
+
+difference photosystem bacterial reaction centre
+source electron neutralizes pair pigment
+molecule photoinduced charge separation taken placep molecule carry positive charge strong oxidant
+extract electron two water molecule boundmanganese centre directly pair centreleft pair diagram contains four manganese ioncalcium ion chloride ion tyrosine residue manganese used
+capable existing four oxidation state mn mn manganese also form strong bondoxygencontaining molecule water
+
+every time absorbs photon emits electron gainingpositive charge charge neutralized extractionelectron manganese centre sits directlyprocess oxidizing two molecule water requires four electrons
+water molecule oxidized manganese centresource electron reduce two molecule qh
+
+photosystem
+electron left photosystem transferredcytochrome complex plastocyanin blue copper protein
+electron carrier plastocyanin complex carry electron
+neutralize pair next reaction centre photosystem
+
+photosystem bacterial reaction centre pairchlorophyll molecule initiate photoinduced charge separationpair referred reference wavelengthchlorophyll molecule absorb light maximally lies
+centre protein photoinduced charge separationinitiated electron travel pathwaychlorophyllmolecule situated directly pquinone molecule situated directly three fes
+cluster finally interchangeable ferredoxin complex
+ferredoxin soluble protein containing cluster coordinated
+four cysteine residue positive charge left pneutralized transfer electron plastocyanin thusoverall reaction catalyzed photosystem
+beginmatrixlightpccufdoxlongrightarrow 
+pccufdred endmatrix
+
+cooperation photosystems creates electron flow
+ho nadp pathway called zschemeredox diagram p resembles letter 
+retrieved 
+httpenwikipediaorgwikiphotosyntheticreactioncentre
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

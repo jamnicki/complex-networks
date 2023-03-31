@@ -1,0 +1,91 @@
+copyright
+
+podcast
+
+ school wikipedia selection related subject website internet
+
+orange square wave introduced mozilla firefoxindicate feed present webpage mutual agreement
+icon also adopted microsoft internet exploreropera
+enlarge
+orange square wave introduced mozilla firefoxindicate feed present webpage mutual agreement
+icon also adopted microsoft internet exploreropera
+
+podcast multimedia file distributed internet using
+syndication feed playback mobile device personal
+computer like radio mean content methoddelivery latter may also termed podcasting host author
+podcast often called podcaster
+
+though podcasters web site may also offer direct downloadstreaming content podcast distinguisheddigital audio format ability downloaded automatically
+using software capable reading feed format atom
+
+history
+
+concept podcasting suggested early asandtechnical component available bythen implementedprogram radio userlandinregular podcasts started showingwellknown web site software support spread
+
+name
+
+editor new oxford american dictionary declared podcasting
+theword year defining term digital recordingradio broadcast similar program made available internet
+downloading personal audio player
+
+name aroused controversy implying one need ipodlisten podcasts fact portable medium player play
+creative technology maker ipod competitor zen statezencast website podcast short personal demand
+broadcast definition didnt exist use creative
+
+alternate name proposed recently netcast
+suggested podcaster technology journalist leo laporte partlyresponse ceaseanddesist letter sent apple companyindividual using word pod product name noneterm yet received wide use podcast
+
+mechanics
+
+publishsubscribe model podcasting version push
+technology information provider chooses fileoffer feed subscriber chooses among available feed
+channel user pulling individual fileweb strong pull aspect receiver freesubscribe unsubscribe vast array channel earlier
+internet push service pointcast allowed much limited
+selection content
+
+podcasting automatic mechanism whereby multimedia computer files
+transferred server client pull xml files
+containing internet address medium file generalfile contain audio video also could image text pdffile type
+
+content provider begin making file example audio
+file available internet usually done postingfile publicly available webserver however bittorrent trackers
+also used technically necessary file
+publicly accessible requirement fileaccessible known uri generalpurpose internet address
+file often referred one episode podcast
+
+content provider acknowledges existence filereferencing another file known feed feed listurl episode show may accessed listusually published format although atom also usedprovides information publish date titleaccompanying text description series episodes
+feed may contain entry episode seriestypically limited short list recent episodecase many news feed standard podcasts consist feedone author recently multiple author able contribute
+episode single podcast feed using concept public
+podcasting social podcasting
+
+content provider post feed webserver locationfeed posted expected permanent locationknown feed uri perhaps often feed url content
+provider make feed uri known intended audience
+
+consumer type software known aggregator sometimes
+called podcatcher podcast receiver subscribe manage
+feeds
+
+podcast specific aggregator usually alwayson programstart computer started run backgroundwork exactly like newsreader someone would use manage web
+subscription manages set feed uris added userdownloads specified interval every two hourfeed data substantively changed previously checked
+feed added application list program
+determines location recent item automatically
+downloads user computer interestingly estimated
+perhaps onlyof podcasts actually consumed portable
+medium playersare consumed ontodownloaded deleted without listenedapplication itunes also automatically make newly
+downloaded episode available user portable medium player
+
+downloaded episode played replayed archivedcomputer file
+
+conserve bandwidth user may opt search content usingonline podcast directory directory allow people listen
+online initially become familiar content providedr feed deciding subscribe broadband users
+bandwidth generally major consideration could fairlystated podcasting technology cameincrease global bandwidth broadband popularity
+
+uses
+
+podcastings initial appeal allow individual distribute
+radio show system quickly became used wide
+variety way including distribution school lessons
+official unofficial audio tour museum conference meeting
+alert update police department distribute public
+safety messages
+

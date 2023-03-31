@@ -1,0 +1,229 @@
+copyright
+
+simcity
+
+ school wikipedia selection related subject computervideo games
+
+simcity
+early cover art simcity feature jukeboxlike designdifferent version depicting different city disasters
+developersmaxis
+nintendo ead snes version
+publishersbrderbund maxi nintendo electronic art superior
+software acornsoft
+designerswill wright simcity series
+release date see port versions
+genressimulation
+citybuilding game
+modessingle player
+ratingselspawindows
+esrb everyone wireless
+platformssee port versions
+inputkeyboardmouse
+
+simcity simulation citybuilding personal computer game first
+released inand designed wright simcity maxi first
+product since ported various personal computers
+game console enhanced several different versions
+including simcityinsimcityinand simcityin
+original simcity later rebranded simcity
+classic release sims inthe simcity seriesbestselling line computer game made maxis
+
+simcity spawned entire series sim game since releasesimcity similar simulation game released focusingdifferent aspect reality business simulation capitalism
+
+history
+
+simcity originally developed game designer wrightinspiration simcity came feature game raidbungeling bay allowed wright create mapdevelopment wright soon found enjoyed creating mapplaying actual game simcity born
+
+first version game developed commodorein
+would published another four yeargame sparked new paradigm computer gaming creating gamecould neither lost game publisher believepossible market sell game successfully brderbund
+declined publish title wright proposed pitched
+range major game publisher without success finally
+founder jeff braun thentiny maxi agreed publish simcity one
+two initial game company
+
+wright braun returned brderbund formally clear rightgame inwhen simcity near completion brderbund
+executive gary carlston daglow saw titleinfectious fun signed maxi distribution dealinitial game four year initial development
+simcity released amiga macintosh platform followedibm commodorelater 
+
+simcity predominantly singleplayer game exceptionnetwork edition simcityand obscure unix portoriginal simcity simcityalso make attempt multiplayer
+gaming ability share regional map cityplayer allowing player collaborate play real time
+
+objective
+
+objective simcity name game suggests build
+design city without specific goal achieve exceptscenario see player mark land zonedcommercial industrial residential add building change tax
+rate build power grid build transportation system manyaction order enhance city
+
+also player may face disaster including flooding tornadoes
+fire often air disaster even shipwreck earthquakeattack monster addition monster tornado trigger
+train crash running passing train later disastergame sequel included lightning strike volcano meteorattack extraterrestrial craft
+
+snes version later one also build rewardgiven mayor mansion casino etc
+
+scenarios
+
+original simcity kicked tradition goalcentered timed
+scenario could lost depending performanceplayermayor original city based real world cities
+attempted recreate general layout tradition carriedsimcityand special scenario pack scenarios
+either take place fictional timeline city siegefictional disaster handful available scenario basedactual historical events
+
+original scenariobernthe swiss capital clogged traffic mayor
+need reduce traffic improve city
+bostonthe city nuclear power plant suffers meltdown
+irradiating portion city mayor must rebuild contain
+toxic area return city prosperity early
+edition simcity lowerpower computer include
+nuclear power plant scenario alteredtornado strike city much like tokyo scenariomayor need limit damage rebuild
+detroitcrime depressed industry wreck citymayor need reduce crime reorganize city better
+develop scenario reference detroit declining state
+late century see also history detroit
+michigan
+rio janeirocoastal flooding resulted global
+warming rage city mayor must control problem
+rebuild early edition simcity lowerpower
+computer include flooding disasterscenario altered objective fighting high crime
+san franciscoan earthquake hit city mayor must
+control subsequent damage fire rebuild scenario
+reference thesan francisco earthquake
+tokyothe city attacked godzillatype monster 
+bowser snes version mayor need limit damage
+rebuild scenario strongly based original series
+godzilla films
+
+cd rerelease well amiga atari version included
+two additional scenarios
+dullsville usaboredom plague stagnating citymiddle united state mayor tasked turn dullsville
+metropolis withinyears
+hamburg germanybombing mayor governcity closing year world war rebuild later
+scenario reference bombing hamburg world war 
+addition later edition simcity super nintendo snes
+included basic two scenario two difficult
+scenario made available player completedoriginal scenarios
+la vegasaliens attack city invasion spreadseveral year stretching city resource somewhat
+similar hamburg scenario included casino feature well
+animated flying saucers
+freelandusing blank map without water form mayor must
+build gamedescribed megalopolis leastpeople
+time limit scenario similarearlier dullsville scenario freeland took advantage snes
+version clear delineation city size particularly
+metropolis megalopolis centre freeland series
+tree bear familiar head mario however player
+unable build reward building normal
+game
+
+port versions
+
+simcity originally released personal computer including
+amiga atari dosbased ibm successconverted several computer platform video game consoles
+including commodoremac osbased macintosh acorn archimedes
+amstrad cpc spectrum bbc micro acorn electron sega saturn super
+nintendo entertainment system sony playstation nintendogame boy
+advance epoc mobile phone internet window virtual console
+fmtowns news hyperlook sun unix game also availablemultiplayer version tcl various unix linux desqview
+operating system certain version sincerereleased various addons including extra scenarios
+
+caption notable versions
+
+platform versionrelease date comment image
+amiga vnaalongside simcity macintoshfirst original version simcity ran unexpanded amigas
+leastkilobyte memory distributed single
+kilobyte floppy disk
+v new title set requires memory
+amiga cdtv eufeatures new interface fitted remote
+control
+amstrad cpc veu 
+atari vnafeaturescolors
+bbc micro
+acorn electron vuk 
+commodorevna 
+macintosh vnafeatures high resolution monochrome graphics
+pc msdosnafeatures high resolution ega graphic speaker audio
+cdrom released interplay added multimedia contentform digitized photo sound liveaction video
+windowsna 
+super jp april
+na august 
+eu septemberpublished nintendo license maxis
+snes version simcity additional feature foundoriginal simcity including graphic changing match seasons
+tree green summer turn rusty brown fall whitewinter bloom cherry blossom spring civic reward
+building energetic greenhaired city advisor named wright wright would often pop informplayer problem city addition snes versionsimcity two additional bonus scenario accessibleoriginal scenario completed vega freeland see section
+scenario style building also resemble japan
+rather north america western releases
+
+nintendo also put stamp game dangerous
+disaster bowser attack city place generic
+movietype monster mario statue awarded megalopolis
+level ofinhabitants reached
+
+snes version simcity released wiis virtual
+console service
+zx spectrum simcity classic available palm simcitycom
+website classic live also released atelier software
+psionhandheld computer mobile phone 
+julyissue nintendo power stated development
+cartridge simcity wa found nintendo
+headquarters never released reportedly oneexistence
+additionally terrain editor architecture disk available
+tileset graphic setting ancient asia medieval wild
+west future europe future usa moon colony
+
+multi player simcity tcltk sgi indigo workstation
+multi player simcity tcl sgi indigo workstation
+version simcity bbc micro acorn electron acorn
+archimedes computer published superior software
+acornsoft programmer peter scott squeeze amiga
+version game order run ageing bbc
+micro acorn electron despite kept almostfunctionality amiga game similar graphic although
+using four colours
+dux software published unix version simcity news
+window system using hyperlook user interface environmentmultiplayer version simcity window system usingtcl user interface toolkit developed portedvarious platform hopkins
+
+sim game see list sim games
+
+critical acclaim legacy
+
+simcity critically acclaimed received significant recognition
+within year initial release decemberfrommaxi document sally vandershaf maxi coordinator game
+wa reported following awards
+best entertainment program 
+best educational program 
+best simulation program 
+critic choice best consumer programsoftware publishers
+association
+innovative publishercomputer game developers
+conference
+best game 
+member thegame hall fame macworld
+game yearcomputer gaming world
+second best simulation time fourth best simulation time amiga info
+editor choice award best simulationcompute
+editor choice award best recreation programmacuser
+
+best computer strategy gamevideo gamescomputer
+entertainment
+best game designer year wright simcity 
+computer entertainer
+best century computer gamecharles robert award
+software award excellencetechnology learning
+best educational programeuropean computer leisure award
+tild dor golden award original gametilt france
+game yearamiga annual australia
+world class awardmacworld australia
+
+addition simcity origin award best militarystrategy computer game ofinand multiplayer version game also nominated inas best productyear unix world
+
+legacy
+
+subsequent success simcity speaks sim gametype developedwith wright maxi developing myriad
+title including simearth simfarm simtown street simcity
+simcopter simant simlife simisle simpark simsafari sim theme park
+sims well simsville simmars never
+released also obtained license title developedjapan simtower let take atrain called atrain
+outside japan recent development simssequel simsan upcoming release spore originally goingtitled simeverythinga name wright thought might
+accurately describe trying achieve three simcity
+sequel also spawnedsimcitysimcityand simcity 
+present fifth simcity revealed chief financial officer
+warren jenson pipeline
+
+simcity inspired new genre video game software toyopenended set objective developed trying duplicate
+simcitys success successful definitely wrightsims went best selling computer gametime idea pioneered simcity incorporatedrealworld application well example visitorville simulatescity based website statistics
+

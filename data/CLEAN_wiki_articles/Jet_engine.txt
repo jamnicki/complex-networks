@@ -1,0 +1,871 @@
+copyright
+
+jet engine
+
+ school wikipedia selection related subject engineering
+
+prattwhitney turbofan engine eagle testedrobin air force base georgia usa tunnel behind engine
+muffle noise allows exhaust escape mesh cover front
+engine left photo prevents foreign object including
+people pulled engine huge volume air
+rushing inlet
+enlarge
+prattwhitney turbofan engine eagle testedrobin air force base georgia usa tunnel behind engine
+muffle noise allows exhaust escape mesh cover front
+engine left photo prevents foreign object including
+people pulled engine huge volume air
+rushing inlet
+
+jet engine engine discharge fast moving jet fluidgenerate thrust accordance newton third law motionbroad definition jet engine includes turbojet turbofan rockets
+ramjet water jet common usage term generally
+refers gas turbine brayton cycle engine used produce jethigh speed exhaust gas special propulsive purpose jet engines
+familiar modern world gas turbine sometimes
+mistakenly referred particular application jet engine
+rather way around
+
+history
+
+jet engine dated back first century heroalexandria invented aeolipile used steam power directed
+two jet nozzle cause sphere spin rapidlyaxis far known never used supplying mechanical
+power potential practical application hero inventionjet engine recognized simply consideredcuriosity
+
+jet propulsion literally figuratively tookinvention rocket chinese century rocket
+exhaust initially used modest way firework gradually
+progressed propel quite fearsome weaponrytechnology stalled hundred years
+
+problem rocket simply inefficient useful
+general aviation instead piston enginemany different form rotary static radial aircooledliquidcooled inline type powerplant availableaircraft designer acceptable long low performance
+aircraft required indeed available
+
+however engineer beginning realize conceptuallypiston engine selflimiting term maximum performance
+could attained limit essentially one propeller
+efficiency seemed peak blade tip approached speedsound engine thus aircraft performance ever increase
+beyond barrier way would found radically
+improve design piston engine wholly new typepowerplant would developed motivation behind
+development gas turbine engine commonly called jet
+engine would become almost revolutionary aviationwright brother first flight
+
+earliest attempt jet engine hybrid designexternal power source supplied compression system called
+thermojet secondo campini air first compressed fan
+driven conventional piston engine mixed fuelburned jet thrust example type designhenri coands coand aircraft much later campini caproni
+cc japanese tsu engine intended power ohka kamikaze
+plane towards end world war none entirely successful
+cc ended slower designtraditional engine propeller combination
+jet engine airflow simulation
+enlarge
+jet engine airflow simulation
+
+key practical jet engine gas turbine used extract
+energy drive compressor engine gas turbine
+wa idea developed patent stationary
+turbine granted john barber england inthe first gas
+turbine successfully run selfsustaining built inby
+norwegian engineer gidius elling first patent jet propulsion
+issued inlimitations design practical engineering
+metallurgy prevented engine reaching manufacture main
+problem safety reliability weight especially sustained
+operation
+w engine flew gloster first british
+aircraft fly turbojet engine gloster meteor
+enlarge
+w engine flew gloster first british
+aircraft fly turbojet engine gloster meteor
+
+inaircraft apprentice frank whittle formally submitted ideas
+turbojet superior onjanuaryin england
+whittle submitted first patent granted inthe patent showed
+twostage axial compressor feeding singlesided centrifugal
+compressor whittle would later concentrate simpler centrifugal
+compressor variety practical reasons
+
+inhans von ohain started work similar design germany
+seemingly unaware whittle work
+
+whittle first engine running aprilitliquidfuelled included selfcontained fuel pump von ohains
+engine well beingmonths behind whittle relied gas
+supplied external pressure selfcontained whittles
+team experienced nearpanic engine would stop evenfuel switched turned fuel leakedengine accumulated pool engine would stop tillleaked fuel burned whittle unfortunately failed secure
+proper backing project fell behind von ohainrace get jet engine air
+
+ohain approached ernst heinkel one larger aircraft
+industrialist day immediately saw promisedesign heinkel recently purchased hirth engine companyohain master machinist max hahn set new
+division hirth company first hesengine
+running septemberunlike whittle design ohain used hydrogen
+fuel supplied external pressure subsequent designs
+culminated gasolinefuelled hesoflbfknfitted heinkels simple compact heairframe flownerich warsitz early morning augustfrom marienehe
+aerodrome impressively short time development hewas
+world first jet plane
+
+meanwhile whittle engine starting look useful power
+jet ltd started receiving air ministry money ina flyable
+version engine called capable oflbfknthrust fitted gloster airframe specially builtfirst flew mayat raf cranwell
+picture early centrifugal engine goblin sectioned
+show internal components
+enlarge
+picture early centrifugal engine goblin sectioned
+show internal components
+
+one problem early design called
+centrifugalflow engine compressor worked throwing
+accelerating air outward central intake outer
+periphery engine air compresseddivergent duct setup converting velocity pressureadvantage design wa already well understood
+implemented centrifugal supercharger however given
+early technological limitation shaft speed engine
+compressor needed large diameter producepower required disadvantage air flowbent flow rearward combustion sectionturbine tailpipe
+
+austrian anselm franz junker engine division junker motorenjumo addressed problem introduction axialflow
+compressor essentially turbine reverse air comingfront engine blown towards rear enginefan stage convergent duct crushed setnonrotating blade called stator divergent duct processnowhere near powerful centrifugal compressor numberpair fan stator placed series get needed
+compression even added complexity resulting engine
+much smaller diameter thus aerodynamic jumoassigned next engine numberand result jumo 
+engine many lesser technical difficulty solved mass
+production engine started inas powerplantworld first jetfighter aircraft messerschmitt meand later
+world first jetbomber aircraft arado arbecause hitler
+insisted mebe designated bomber delay causedfighter version arrive late decisively impact germanys
+position world war nonetheless rememberedfirst use jet engine service following end wargerman jet aircraft jet engine extensively studiedvictorious ally contributed work early soviet jet
+fighter legacy axialflow engine seen factpractically jet engine fixed wing aircraftinspiration design
+cutaway junker jumoengine
+enlarge
+cutaway junker jumoengine
+
+centrifugalflow engine improved since introductionimprovement bearing technology shaft speed engineincreased greatly reducing diameter centrifugal compressor
+short engine length remains advantage design
+patricularly use helicopter also engine componentrobust axialflow compressor liable foreign object
+damage
+
+british engine also licensed widely see tizard
+mission famous design nene would also powerussr jet aircraft technology exchange american design would
+come fully
+types
+
+large number different type jet engineget propulsion high speed exhaust jet
+type description advantage disadvantages
+water jet squirt water back boat run shallow
+water powerful harmful wildlife efficientpropeller vulnerable debris
+thermojet primitive airbreathing jet engine essentiallysupercharged piston engine jet exhaust heavy inefficientunderpowered
+turbojet generic term simple turbine engine simplicity design
+efficient supersonic speed basic design miss many
+improvement efficiency power subsonic flight relatively
+noisy
+turbofan first stage compressor greatly enlarged provide bypass
+airflow around engine core quieter due greater mass flow lower
+total exhaust speed efficient useful range subsonic
+airspeed reason cooler exhaust temperature greater
+complexity additional ducting usually multiple shaft large
+diameter engine need contain heavy blade subject fodice damage top speed limited due potential shockwavesdamage engine common form jet engine use today usedairliner like boeingand military jet afterburner
+often added supersonic flight
+rocket carry propellant onboard emits jet propulsionmoving part machto machefficient high speed 
+machor thrustweight ratio overno complex air inlet
+high compression ratio high speedhypersonic exhaust good
+costthrust ratio fairly easy test work vacuumindeed works
+best exoatmospheric kinder vehicle structure high speed
+need lot propellant low specific impulsetypically 
+second extreme thermal stress combustion chamber make reuse
+harder typically requires carrying oxidiser onboard increases
+risk extraordinarily noisy
+ramjet intake air compressed entirely speed oncoming airduct shape divergent moving part machto mach 
+efficient high speedmachor lightestairbreathing jet thrustweight ratio toat optimum speed must
+high initial speed function inefficient slow speed due
+poor compression ratio difficult arrange shaft poweraccessory usually limited small range speed intake flow
+must slowed subsonic speed noisy fairly difficult test
+finicky keep lit
+turbopropturboshaft similar strictly jet alla gas
+turbine engine used powerplant drive propeller shaft rotor
+case helicopter high efficiency lower subsonic
+airspeed knot plus high shaft power weight limited top speed
+aeroplane somewhat noisy complex transmission
+propfanunducted fan turboprop engine drive one propellers
+similar turbofan without fan cowling higher fuel efficiency
+potentially noisy turbofan could lead higherspeed
+commercial aircraft popular fuel shortages
+development propfan engine limited typicallynoisy turbofan complexity
+pulsejet air compressed combusted intermittently insteadcontinuously design use valve simple design commonly
+used model aircraft noisy inefficient low compression ratio
+work poorly large scale valve valved design wearquickly
+pulse detonation engine similar pulsejet combustion occursdetonation instead deflagration may may need valves
+maximum theoretical engine efficiency extremely noisy part subjectextreme mechanical fatigue hard start detonation practicalcurrent use
+airaugmented rocket essentially ramjet intake aircompressed burnt exhaust rocket machto mach 
+also run exoatmospheric good efficiency machtosimilar
+efficiency rocket low speed exoatmospheric inlet
+difficulty relatively undeveloped unexplored type cooling
+difficulty noisy
+scramjet similar ramjet without diffuser airflowentire engine remains supersonic mechanical part operatehigh mach number machtowith good efficiency stilldevelopment stage must high initial speed function
+machcooling difficulty poor thrustweight ratio 
+extreme aerodynamic complexity airframe difficulty testing
+difficultiesexpense
+turborocket turbojet additional oxidizer oxygenadded airstream increase max altitude close existing
+design operates high altitude wide range altitudeairspeed airspeed limited range turbojet engine carrying
+oxidizer like lox dangerous
+precooled jetslace intake air chilled low temperatureinlet passing ramjet turbojet engine easily tested
+ground high thrustweight ratio possibletogether
+good fuel efficiency wide range airspeed mach 
+combination efficiency may permit launching orbit single
+stage rapid intercontinental travel exists lab
+prototyping stage example include sabre atrex
+
+type comparison
+
+comparative suitability left right turboshaft low bypassturbojet fly atkm attitude various speed horizontal axis 
+speed vertical axis carry logical meaning
+enlarge
+comparative suitability left right turboshaft low bypassturbojet fly atkm attitude various speed horizontal axis 
+speed vertical axis carry logical meaning
+efficiency function speed different jet type although
+efficiency plummet speed greater distance covered turns
+efficiency per unit distance per mile roughly
+independent speed jet engine group however airframes
+become inefficient supersonic speeds
+enlarge
+efficiency function speed different jet type although
+efficiency plummet speed greater distance covered turns
+efficiency per unit distance per mile roughly
+independent speed jet engine group however airframes
+become inefficient supersonic speeds
+dependence energy eficiencyfrom exhaust speedairplane
+speed ratio enlarge
+dependence energy eficiencyfrom exhaust speedairplane
+speed ratio 
+motion impulse engine equal air mass multiplied
+speed engine emits mass
+
+im 
+air mass per second exhaust speedword plane fly faster engine emits air masshigher speed emits air per second speed
+however plane fly certain velocity air moves
+towards creating opposing ram drag air intake
+
+v
+
+type jet engine air intake provides bulkgas exiting exhaust conventional rocket motor howeverair intake oxidizer fuel carried within
+airframe therefore rocket motor ram drag gross
+thrust nozzle net thrust engine consequentlythrust characteristic rocket motor completely differentair breathing jet engine
+
+air breathing engine useful velocity gasengine greater airplane velocity net engine
+thrust gas emitted velocity cvpushing moment actually equal
+sm 
+turboprop wide rotating fan take accelerateslarge mass air till limited speed propeller
+driven airplane plane speed exceeds limit propellerlonger provide thrust 
+turbojet similar engine accelerate much smaller massair burned fuel emit much higher speeds
+possible laval nozzle suitablesupersonic higher speeds
+
+side energy efficiency higher engine
+push large possible mass air speed comparableairplane velocity exact formula given literature
+etafracfraccv
+
+low bypass turbofan mixed exhaust two air flows
+running different speed c pushing momentengine
+sm cvm 
+air mass blown exhausts
+engine effective lower speed pure jethigher speed turboshafts propeller generalinstance thekm attitude turboshafts effectiveaboutmach low bypass turbofan become effectivemach true jet become effective mixed exaust engines
+speed approachesmachthe speed sound
+
+rocket engine best suited high speed altitudegiven throttle thrust efficiency rocket motor improves
+slightly increasing altitude backpressure fall thus
+increasing net thrust nozzle exit plane whereasturbojet turbofan falling density air enteringintake hot gas leaving nozzle cause net thrustdecrease increasing altitude
+
+turbojet engines
+
+turbojet engine simplest form simply gas turbinenozzle attached
+enlarge
+turbojet engine simplest form simply gas turbinenozzle attached
+
+turbojet engine type internal combustion engine often usedpropel aircraft air drawn rotating compressor viaintake compressed successive stage higher
+pressure entering combustion chamber fuel mixedcompressed air ignited flame eddy flame holdercombustion process significantly raise temperature gas hot
+combustion product leaving combustor expand turbine
+power extracted drive compressor althoughexpansion process reduces gas temperature pressure exit
+turbine parameter usually still well ambient
+condition gas stream exiting turbine expands ambient
+pressure via propelling nozzle producing high velocity jetexhaust plume jet velocity exceeds aircraft flight
+velocity net forward thrust upon airframe
+
+normal circumstance pumping action compressor
+prevents backflow thus facilitating continuousflow processengine indeed entire process similar fourstroke
+cycle induction compression ignition expansion exhaust
+taking place simultaneously different section engine
+efficiency jet engine strongly dependent upon overall
+pressure ratio combustor entry pressureintake delivery pressureturbine inlet temperature cycle
+
+also perhaps instructive compare turbojet enginepropeller engine turbojet engine take relatively small mass air
+accelerate large amount whereas propeller take large
+mass air accelerates small amount highspeed
+exhaust turbojet engine make efficient high speeds
+especially supersonic speed high altitude slower aircraft
+required fly short stage gas turbinepowered propeller
+engine commonly known turboprop common muchefficient small aircraft generally use conventional piston
+engine drive propeller small turboprop getting smaller
+engineering technology improves
+
+turbojet described singlespool designsingle shaft connects turbine compressor higher overall
+pressure ratio design often two concentric shaft improve
+compressor stability engine throttle movement outer high
+pressure shaft connects compressor turbinehp spool combustor form core gas generatorengine inner shaft connects low pressure compressorlp turbine create spool spool free operate
+optimum shaft speed concorde used type
+
+turbofan engines
+
+modern jet engine actually turbofan low pressure
+compressor act fan supplying supercharged airengine core bypass duct bypass airflow either passseparate cold nozzle mix low pressure turbine exhaust
+gas expanding mixed flow nozzle
+
+forty year ago little difference civil military
+jet engine apart use afterburning supersonic
+applications
+
+civil turbofan today low specific thrust net thrust dividedairflow keep jet noise minimum improve fuel efficiency
+consequently bypass ratio bypass flow divided core flowrelatively high ratio fromup toare common single
+fan stage required low specific thrust implies low fan
+pressure ratio
+
+today military turbofan however relatively high specific
+thrust maximize thrust given frontal area jet noise
+le concern military relative civil uses
+multistage fan normally needed reach relatively high fan
+pressure ratio needed high specific thrust although high turbine
+inlet temperature often employed bypass ratio tendslow usually significantly 
+
+approximate equation calculating net thrust jet engine
+turbojet mixed turbofan
+fndotmvjfeva
+
+
+dotmintake mass flow rate
+
+vjfefully expanded jet velocity exhaust plume
+
+vaaircraft flight velocity
+
+dotmvjfe term represents gross thrustnozzle dotm term represents ram drag intake
+
+major components
+
+major component jet engine similar across major
+different type engine although engine typecomponent major part include
+air intake inlet
+standard reference frame jet engine aircraft
+subsonic aircraft air intake jet engine
+present special difficulty consists essentiallyopening designed minimise dragaircraft component however air reaching compressornormal jet engine must travelling speed sound even
+supersonic aircraft sustain flow mechaniccompressor turbine blade supersonic flight speeds
+shockwaves form intake system reduce recovered
+pressure inlet compressor supersonic intake use
+device cone ramp increase pressure recoverymaking efficient use shock wave system
+compressor fan
+compressor made stage stage consists vanes
+rotate stator remain stationary air drawn
+deeper compressor heat pressure increases
+energy derived turbine see passed alongshaft
+shaft
+carry power turbine compressor runs
+length engine may many three
+concentric shaft rotating independent speed many
+set turbine compressor service like bleedcool air may also run shaft
+combustor flameholders combustion chamber
+chamber fuel continuously burnedcompressed air
+turbine
+turbine act like windmill extracting energy hot
+gas leaving combustor energy used drivecompressor shaft bypass fan prop even
+gas turbinepowered helicopter converted entirelyrotational energy use elsewhere relatively cool air bledcompressor may used cool turbine blade vanes
+prevent melting
+afterburner reheat chiefly mainly military produce extra thrust burning extra fuel
+usually inefficiently significantly raise nozzle entry
+temperature exhaust owing larger volume flow lower density exit afterburner increased nozzle
+flow area required maintain satisfactory engine matching
+afterburner alight
+exhaust nozzle
+hot gas leaving engine exhaust atmospheric pressure vianozzle objective produce high velocity jetcase nozzle convergent fixed flow area
+supersonic nozzle
+nozzle pressure ratio nozzle entry pressureambient
+pressure high maximize thrust may worthwhile
+despite additional weight fit convergentdivergent laval nozzle name suggests initially type nozzle
+convergent beyond throat smallest flow area flow
+area start increase form divergent portionexpansion atmospheric pressure supersonic gas velocity
+continues downstream throat whereas convergent nozzle
+expansion beyond sonic velocity occurs externallyexhaust plume former process efficientlatter
+
+various component named constraint put
+together generate efficiency performanceperformance efficiency engine never takenisolation example fueldistance efficiency supersonic jet
+engine maximises machwhereas drag vehicle
+carrying increasing square law much extra dragtransonic region highest fuel efficiency overall
+vehicle thus typically mach 
+
+engine optimisation intended use important air
+intake design overall size number compressor stage setblade fuel type number exhaust stage metallurgy components
+amount bypass air used bypass air introduced many
+factor instance let consider design air intake
+
+air intakes
+
+subsonic inlets
+
+pitot intake operating modes
+enlarge
+pitot intake operating modes
+
+pitot intake dominant type subsonic applicationsubsonic pitot inlet little tube aerodynamic
+fairing around
+zero airspeed rest air approach intakemultitude direction directly ahead radially evenbehind plane intake lip
+
+low airspeed streamtube approaching lip largercrosssection lip flow area whereas intake design
+flight mach number two flow area equal high flight speeds
+streamtube smaller excess air spilling lip
+
+beginning aroundmach shock wave occur air
+accelerates intake throat
+
+careful radiusing lip region required optimize intake
+pressure recovery distortion throughout flight envelope
+
+supersonic inlets
+
+supersonic intake exploit shock wave decelerate airflowsubsonic condition compressor entry
+
+basically two form shock waves
+
+normal shock wave lie perpendicular direction flow
+form sharp front shock flow subsonic speeds
+microscopically air molecule smash subsonic crowdmolecule like alpha ray normal shock wave tend cause large
+drop stagnation pressure basically higher supersonic entry
+mach number normal shock wave lower subsonic exit mach
+number stronger shock greater lossstagnation pressure across shock wave
+
+conical dimensional oblique shock wave angled
+rearward like bow wave ship boat radiate flow
+disturbance cone ramp given inlet mach number
+weaker equivalent normal shock wave althoughflow slows remains supersonic throughout conical oblique
+shock wave turn flow continues new directionanother flow disturbance encountered downstream
+
+note comment made regardingdimensional conical shock waves
+generally also apply oblique shock waves
+
+sharplipped version pitot intake describedsubsonic application performs quite well moderate supersonic
+flight speed detached normal shock wave form aheadintake lip shock flow subsonic velocity however
+flight speed increase shock wave becomes stronger causinglarger percentage decrease stagnation pressure poorer pressure
+recovery early supersonic fighter super sabre used
+intake
+unswept lip generate shock wave reflected multiple times
+inlet reflection flow get subsonicbetter pressure recovery
+enlarge
+unswept lip generate shock wave reflected multiple times
+inlet reflection flow get subsonicbetter pressure recovery
+
+advanced supersonic intake excluding pitots
+
+exploit combination conical shock wave normal shock
+wave improve pressure recovery high supersonic flight speeds
+conical shock wave used reduce supersonic mach numberentry normal shock wave thereby reducing resultant overall
+shock losses
+
+b design shockonlip flight mach numberconicaloblique shock wave intercept cowl lip thus enablingstreamtube capture area equal intake lip area howevershockonlip flight mach number shock wave angle less
+oblique causing streamline approaching lip deflectedpresence coneramp consequently intake capture areale intake lip area reduces intake airflow
+depending airflow characteristic engine maydesirable lower ramp angle move cone rearward refocus
+shockwaves onto cowl lip maximise intake airflow
+
+c designed normal shock ducting downstreamintake lip flow compressorfan entry always
+subsonic however engine throttled backreduction corrected airflow compressorfansupersonic condition corrected airflow intake lip remains
+constant determined flight mach number intake
+incidenceyaw discontinuity overcome normal shock
+moving lower crosssectional area ducting decreasemach number entry shockwave weakens shockwave
+improving overall intake pressure recovery absolute
+airflow stay constant whilst corrected airflow compressor
+entry fall higher entry pressure excess intake airflow
+may also dumped overboard exhaust system preventconicaloblique shock wave disturbed normal shockforced far forward engine throttling
+
+many second generation supersonic fighter aircraft featured inlet
+cone used form conical shock wave type inlet
+cone clearly seen front english electric
+lightning mig aircraft example
+
+approach used air intake mounted sidefuselage half cone serf purposesemicircular air intake seen starfighter bac
+tsr
+
+intake biconic feature two conical surfaces
+first cone supplemented second oblique conical
+surface generates extra conical shockwave radiatingjunction two cone biconic intake usuallyefficient equivalent conical intake entry mach
+number normal shock reduced presence second
+conical shock wave
+
+sophisticated conical intake featured pratt 
+whitney could move conical spike fore aft withinengine nacelle preventing shockwave formed spikeentering engine stalling engine keeping close
+enough give good compression movable cone uncommon
+
+sophisticated design cone angle intakeone edge form ramp oblique shockwave formstart ramp century series jet featured several
+variant approach usually ramp outer vertical
+edge intake angled back inward towardsfuselage typical example include republic thunderchieff phantom
+concorde intake operating modes
+enlarge
+concorde intake operating modes
+
+later evolved ramp top horizontal edge
+rather outer vertical edge pronounced angle downwards
+rearward design simplified construction intakeallowed use variable ramp control airflow enginedesign since early feature style intakeexample tomcat panavia tornado concorde
+
+another point view like supersonic nozzle corrected
+nondimensional flow intake lipintake throat turbine one three fixedinlet throat made variable air bypassed aroundturbine directly fed afterburner unlike nozzleinlet either instable ineffiecient normal shock wave
+throat suddenly move lip thereby increasingpressure lip leading drag reducing pressure
+recovery leading turbine surge loss one 
+compressors
+
+compressor stage j
+enlarge
+compressor stage j
+
+axial compressor rely spinning blade aerofoil sections
+similar aeroplane wing aeroplane wing conditions
+blade stall happens airflow around stalled
+compressor reverse direction violently design compressor
+ha associated operating map airflow versus rotational speedcharacteristic peculiar type see compressor map
+
+given throttle condition compressor operates somewhere along
+steady state running line unfortunately operating linedisplaced transient many compressor fittedantistall system form bleed band variable geometry
+stator decrease likelihood surge another method split
+compressor two unit operating separate concentric
+shafts
+
+another design consideration average stage loadingkept sensible level either increasing number compression
+stage weightcost mean blade speed bladedisc
+stress
+
+although large flow compressor usually allaxial rear stages
+smaller unit small robust consequently stages
+often replaced single centrifugal unit small flow
+compressor often employ two centrifugal compressor connectedseries although isolation centrifugal compressor capablerunning quite high pressure ratio egimpeller stress
+consideration nh implication limit pressure ratioemployed high overall pressure ratio engine cycles
+
+increasing overall pressure ratio implies raising high pressure
+compressor exit temperature implies higher high
+pressure shaft speed maintain datum blade tip mach numberrear compressor stage stress consideration however may limit
+shaft speed increase causing original compressorthrottleback aerodynamically lower pressure ratio datum
+combustion chamber j
+enlarge
+combustion chamber j
+
+combustors
+
+great care must taken keep flame burning moderately fast
+moving airstream throttle condition efficientlypossible since turbine cannot withstand stoichiometric
+temperature resulting optimum combustion processcompressor air used quench exit temperaturecombustor acceptable level air used combustion considered
+primary airflow excess air used cooling called
+secondary airflow combustor configuration include annularcanannular
+
+turbines
+
+turbine stage j
+enlarge
+turbine stage j
+
+turbine expands high low pressurething turbine surge stall turbine need fewer stagecompressor mainly higher inlet temperature reducesdeltatt thereby pressure ratio expansion processblade curvature gas stream velocity higher
+
+designer must however prevent turbine blade vanemelting high temperature stress environment consequently
+bleed air extracted compression system often used cool
+turbine bladesvanes internally solution improved
+material andor special insulating coating disc mustspecially shaped withstand huge stress imposed rotating
+blade take form impulse reaction combination
+impulsereaction shape improved material help keep disc weight
+
+turbopumps
+
+turbopumps used raise fuel pressure pressurecombustion chamber injected turbopumpscommonly used rocket ramjet also known use
+turbopump usually driven gas turbine
+
+nozzles
+
+afterburner j
+enlarge
+afterburner j
+
+primary object nozzle expand exhaust streamatmospheric pressure thereby producing high velocity jet relative
+vehicle fully expanded jet velocity exceeds flight
+velocity forward thrust airframe
+
+simple convergent nozzle used many jet engine nozzle
+pressure ratio critical value abouta convergent
+nozzle choke resulting expansion atmospheric
+pressure taking place downstream throat smallest flow
+area jet wake although much gross thrust producedstill jet momentum additional pressure thrust come
+imbalance throat static pressure atmospheric
+pressure
+
+many military combat engine incorporate afterburner reheatengine exhaust system system lit nozzle throat
+area must increased accommodate extra exhaust volume flow
+turbomachinery unaware afterburner litvariable throat area achieved moving series overlapping
+petal approximate circular nozzle crosssection
+
+high nozzle pressure ratio much expansion take place
+downstream convergent nozzle somewhat inefficient
+consequently jet engine incorporate convergentdivergent
+nozzle allow expansion take place within nozzle
+maximise thrust however unlike condi nozzle usedconventional rocket motor device used jet engine
+ha complex variable geometry device cope wide
+variation nozzle pressure ratio encountered flight engine
+throttling increase weight costinstallation
+afterburner nozzle
+enlarge
+afterburner nozzle
+
+simpler two ejector nozzle createseffective nozzle secondary airflow springloaded petals
+subsonic speed airflow constricts exhaust convergent
+shape aircraft speed two nozzle dilate allows
+exhaust form convergentdivergent shape speeding exhaust
+gas past machmore complex engine actually use tertiary
+airflow reduce exit area low speed advantageejector nozzle relative simplicity reliability disadvantages
+average performance compared nozzle typerelatively high drag due secondary airflow notable aircraftutilized type nozzle include concorde saab viggen
+
+higher performance necessary use iris nozzletype overlapping petal mechanically adjusts petals
+hydraulics although complex ejector nozzlesignificantly higher performance smoother airflowemployed primarily highperformance fighter f
+f though also used highspeed bomber bbmodern iris nozzle additionally ability change anglethrust
+iris vectored thrust nozzle
+enlarge
+iris vectored thrust nozzle
+
+rocket motor also employ convergentdivergent nozzleusually fixed geometry minimize weight much
+higher nozzle pressure ratio experienced rocket motor condi nozzles
+much greater area ratio exitthroat fitted jet
+engines
+
+extreme high bypass ratio civil turbofan useextremely low area ratio thanarea ratio
+convergentdivergent nozzle bypass mixed exhaust stream
+control fan working line nozzle act variable
+geometry low flight speed nozzle unchoked mach
+number unity exhaust gas speed approachthroat slows slightly reach divergent
+section consequently nozzle exit area control fan matchlarger throat pull fan working line slightly away
+surge higher flight speed ram rise intake
+increase nozzle pressure ratio point throat becomes
+choked circumstance throat area dictatefan match smaller exit push fan working line
+slightly towards surge problem since fan surge margin
+much better high flight speeds
+
+cooling systems
+
+jet engine require high temperature gas good efficiency
+typically achieved combusting hydrocarbon hydrogen fuel
+combustion temperature high fmelting point materials
+
+cooling system employed keep temperature solid parts
+failure temperature
+
+air systems
+
+complex air system built turbine based jet engines
+primarily cool turbine blade vane discs
+
+air bled compressor exit pass around combustorinjected rim rotating turbine disc cooling air
+pass complex passage within turbine bladeremoving heat blade material air fairly hotvented via cooling hole main gas stream cooling airturbine vane undergoes similar process
+
+cooling leading edge blade difficultpressure cooling air inside cooling hole maymuch different oncoming gas stream one solutionincorporate cover plate disc act centrifugal
+compressor pressurize cooling air enters blade
+another solution use ultraefficient turbine rim sealpressurize area cooling air pass across rotating
+disc
+
+seal used prevent oil leakage control air coolingprevent stray air flow turbine cavities
+
+series labyrinth seal allow small flow bleed airwash turbine disc extract heat time pressurize
+turbine rim seal prevent hot gas entering inner partengine type seal hydraulic brush carbon etc
+
+small quantity compressor bleed air also used coolshaft turbine shroud etc air also used keeptemperature combustion chamber wall criticaldone using primary secondary airholes allow thin layerair cover inner wall chamber preventing excessive
+heating
+
+exit temperature dependent turbine upper temperature limit
+depending material reducing temperature also prevent
+thermal fatigue hence failure accesories may also needcooling system using air compressor outside air
+
+air compressor stage also used heating fan
+airframe antiicing cabin heat stage bleddepends atmospheric condition altitude
+
+rocket engines
+
+rocket engine extreme cooling requirement duesimultaneous combination high pressure typicallybar
+high temperaturesk typically found combustion
+chamber
+
+rocket engine often use liquid coolant typically propellantpassed around hot part engineregenerative coolingtechnique radiative cooling dump cooling used
+
+addition chamber normally designed injectors
+provide cooler gas circumference curtain cooling cool
+liquid film cooling however technique reduce performance
+somewhat due incompletely burnt propellant ejectednevertherless used many engines
+
+fuel system
+
+apart providing fuel engine fuel system also used
+control propeller speed compressor airflow cool lubrication
+oil fuel usually introduced atomized spray amountcontrolled automatically depending rate airflow
+
+sequence event increasing thrust throtttle opens
+fuel spray pressure increased increasing amount fuel
+burned mean exhaust gas hotterejected higher acceleration mean exert higher forces
+therefore increase engine thrust directly also increases
+energy extracted turbine drive compressor even
+faster increase air flowing enginewell
+
+obviously rate mass airflow matter since
+change momentum mass velocity produce force
+however density varies altitude hence inflow massalso vary altitude temperature etc mean throttle
+value vary according parameter without changing
+manually
+
+fuel flow controlled automatically usually 
+system one control pressure control flow
+input usually pressure temperature probeintake various point engine also throttle inputs
+engine speed etc required affect high pressure fuel
+pump
+
+fuel control unit fcu
+
+element something like mechanical computer determinesoutput fuel pump system valve changepressure used cause pump stroke thereby varying amountflow
+
+take possibility increased altitude reduced
+air intake pressure case chamber within fcuexpand cause spill valve bleed fuel causepump deliver fuel opposing chamber pressureequivalent air pressure spill valve backposition
+
+throttle opened release lessens pressure
+let throttle valve fall pressure transmitted
+backpressure valve air gap fuel flowclose fcu spill valve commonly calledincrease pressure cause higher flow rate
+
+engine speed governor used prevent engineoverspeeding capability disregarding fcu control
+doe use diaphragm sens engine speedterm centrifugal pressure caused rotating rotorpump critical value diaphragm cause another spill valveopen bleed away fuel flow
+
+way controlling fuel flow exampledashpot throttle lever throttle gear meshcontrol valve like rack pinion causing slide alongcylinder port various position moving throttlehence sliding valve along cylinder open closeport designed actuallyvalves viz throttlecontrol valve control valve used control pressure one
+side throttle valve give right oppositionthrottle control pressure doe controlling fuel
+outlet within cylinder
+
+example throttle valve moved let fuelmean throttle valve moved positionallows fuel flow side required
+pressure port opened keep pressure balancethrottle lever stay
+initial acceleration fuel required unit adapted
+allow fuel flow opening port particular
+throttle position change pressure outside air altitude
+speed aircraft etc sensed air capsule
+
+fuel pump
+
+fuel pump used raise fuel pressure pressurecombustion chamber fuel injected fuel pumpusually driven main shaft via gearing
+
+turbopumps commonly used liquidfuelled rocket rely
+expansion onboard gas turbine
+
+ramjet turbopumps use ram air expanding turbine
+
+engine starting system
+
+fuel system explained one thesystems required
+starting engine actual ignitionairfuel mixture chamber usually auxiliary power unitused start engine starter motor high
+torque transmitted compressor unit optimum speedreached flow gas turbine sufficientturbine take number different starting methods
+electric hydraulic pneumatic etc
+
+electric starter work gear clutch plate linkingmotor engine clutch used disengage optimum
+speed achieved usually done automatically electric
+supply used start motor well ignition voltage
+usually built slowly starter gain speed
+
+military aircraft need started quicker electric
+method permit hence use method turbine
+starter impulse turbine impacted burning gascartridge geared rotate engine also connectedautomatic disconnect system cartidge set alight electrically
+used turn turbine
+
+another turbine starter system almost exactly like little engine
+turbine connected engine via gear howeverturbine turned burning gasesusually fuelisopropylnitrate stored tank sprayed combustion
+chamber ignited spark plug everythingelectrically controlled speed etc
+
+commercial aircraft usually use called auxiliary power unit
+apu normally small gas turbine thus one could sayusing apu using small jet engine start larger one
+high pressure air compressor section apu bledsystem pipe engine directedstarting system bleed air directed mechanism start
+engine turning begin pulling air rotating speedengine sufficient pull enough air support combustion
+fuel introduced ignited engine ignites reaches
+idle speed bleed air shut
+apus boeing airbus aircraft respectively 
+seen extreme rear aircrafttypical location apu commercial airliner althoughmay within wing rootor aft fuselagedc mdexample military transport carry apus onemain landing gear podsc
+
+apus also provide enough power keep cabin light pressure
+system engine valve usedcontrol airflow usually electrically controlledautomatically close predetermined speed part starting
+sequence engine fuel combined supplied airburned instead using air usually produce power per
+unit weight
+
+usually apu started electric starter motorswitched proper speed automatically main engine
+start reach right condition auxiliary unitswitched disengages slowly
+
+hydraulic pump also used start engine gears
+pump electrically controlled ground
+
+ignition
+
+usually areigniter plug different positioncombustion system high voltage spark used ignite gases
+voltage stored low voltage supply providedstarter system build right value releasedhigh energy spark depending various condition igniter
+continues provide spark prevent combustion failingflame inside go
+course event flame doe mustprovision relight limit altitude air speedengine obtain satisfactory relight
+
+lubrication system
+
+lubrication system serf ensure lubrication bearingmaintain sufficiently cool temperature mostly eliminating
+friction
+
+lubrication system whole able prevent foreign
+material entering plane reaching bearing gearmoving part lubricant must able flow easilyrelatively low temperature disintegrate breakhigh temperatures
+
+usually lubrication system subsystem deal individually
+pressure engine scavenging breather
+
+pressure system component oil tank deaerator main oil
+pump main oil filterfilter bypass valve pressure regulating valve
+prv oil coolerby pas valve tubingjets
+usually flow tank pump inlet prv pumpedmain oil filter bypass valve oil coolerfilter jet bearings
+
+using prv method control mean pressure feed
+oil must critical value usually controlled valves
+leak excess oil back tank exceeds critical
+value valve open certain pressure oil kept movingconstant rate bearing chamber
+
+engine speed increase pressure within bearing chamber
+also increase mean pressure differencelubricant feed chamber reduces could reduce slow rateoil needed even result prvs adjust
+spring force value using pressure change bearing
+chamber proportionally keep lubricant flow constant
+
+advanced designs
+
+j combined ramjetturbojet
+
+sr prattwhitney engine rather unusual could
+convert flight largely turbojet largelycompressorassisted ramjet high speed machthe engine
+used variable geometry vane direct excess air throughbypass
+pipe downstream fourth compressor stageafterburnerof thrust high speed generatedway giving much higher thrust improving specific impulsepermitting continuous operation machthe name
+coined configuration turboramjet
+
+precooled turbojets
+
+engine may need operate low hypersonic speed could
+theoretically much higher performance heat exchanger used
+cool incoming air low temperature allows lighter materials
+used combustors inject fuel ordinarily fuel flow
+must reduced high speed prevent turbine meltinggreatly reduces thrust precooling air avoids
+idea lead plausible design like sabre might permit
+singlestagetoorbit atrex might permit jet engineused booster space vehicles
+
+nuclearpowered ramjet
+
+project pluto nuclearpowered ramjet intended usecruise missile rather combusting fuel regular jet engines
+air heated using hightemperature unshielded nuclear reactor
+raised specific impulse engine stupendous amounts
+ramjet predicted able fly month supersonic
+speed machat treetop height however obvious way
+stop taken great disadvantage
+unfortunately reactor unshielded dangerousaround flight path vehicle although exhaust
+wasnt radioactive
+
+scramjets
+
+main article scramjet
+
+scramjets evolution ramjet able operatemuch higher speed ramjet kind airbreathing
+engine capable reaching share similar structureramjet speciallyshaped tube compress airmoving part ramair compression scramjets however operate
+supersonic airflow entire engine thus scramjetsdiffuser required ramjet slow incoming airflow
+subsonic speeds
+
+scramjets start working speed least machandtheoretical maximum speed machdue aerodynamic heatinghigh speed scramjets expected heavy coolingresult pose challenge engineers
+
+trivia
+
+scrapheap challenge team made big truck turbocharger
+crude working turbojet engine
+j engine believed capable machbut
+sr airframe attached got hot exceed mach
+
+jetengined aircraft appear cooling earth slightly 
+global dimming short term heating long
+term global warming
+severe winter ofin britain instances
+jet engine blowing forward mounted railway truckused snow clearance
+

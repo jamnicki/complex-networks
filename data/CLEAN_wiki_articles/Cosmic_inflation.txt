@@ -1,0 +1,371 @@
+copyright
+
+cosmic inflation
+
+ school wikipedia selection related subject space astronomy
+
+physical cosmology
+
+age universe
+big bang
+comoving distance
+cosmic microwave background
+dark energy
+dark matter
+flrw metric
+friedmann equations
+galaxy formation
+hubble law
+inflation
+largescale structure
+lambdacdm model
+metric expansion space
+nucleosynthesis
+observable universe
+redshift
+shape universe
+structure formation
+timeline big bang
+timeline cosmology
+ultimate fate universe
+universe
+
+related topics
+astrophysics
+general relativity
+particle physics
+quantum gravity
+
+
+physical cosmology cosmic inflation idea nascent
+universe pass phase exponential expansiondriven negativepressure vacuum energy density direct
+consequence expansion observable universe
+originated small causallyconnected region inflation answerclassic conundrum big bang cosmology doe universe
+appear flat homogeneous isotropic accordancecosmological principle one would expect basisphysic big bang highly curved inhomogeneous universe
+inflation also explains origin largescale structurecosmos quantum fluctuation microscopic inflationary region
+magnified cosmic size become seed growth structure
+universe see galaxy formation evolution structure
+formation
+
+inflation first proposed alan guth inand givenmodern form independently andrei linde andreas albrechtpaul steinhardt
+
+detailed particle physic mechanism responsible inflation
+known basic picture make number predictionconfirmed observational test inflation thus considered
+part standard hot big bang cosmology hypothetical particle
+field thought responsible inflation calledinflaton
+
+overview
+
+inflation posit period exponential expansionearly universe expansion exponentialdistance two fixed observer increasing exponentially
+due metric expansion space spacetime propertycalled sitter space form expansion specialphysical condition one moment next stablerate expansion called hubble parameter nearly constantuniverse consequently highly symmetric state inflationoften called epoch accelerated expansion distance
+two fixed observer increasing accelerating ratemove apart however doe mean hubble parameter
+increasing see deceleration parameter
+
+cosmic inflation important effect smoothinginhomogeneity anisotropy curvature space pushes
+universe simple state completely
+dominated inflaton field significant
+inhomogeneity tiny quantum fluctuation inflaton
+another major problem solved inflation dilutes exotic
+heavy particle extension standard model particle
+physic predict heavy particle magnetic monopolesfound nature however universe hot enough
+form particle period inflation wouldobserved nature would rare quite likely
+none observable universe together effects
+called inflationary nohair theorem analogyhair theorem black holes
+
+expanding universe energy density fallingvolume universe increasing example universe filled
+ordinary matter dust density matter goinverse volume linear dimension double density goes
+factor eight hubble parameter fall roughlyfactor three similarly universe filled radiation
+density hubble parameter diminish even quicklyuniverse expands linear dimension doubled average energy
+density universe reduced factor sixteenhubble parameter fall factor four according standard
+big bang theory universe largely filled matterearly universe filled radiation formprimordial plasma density matter radiation actually fall
+faster density inhomogeneity curvature exotic
+particle overall contribution actually
+growing present universe explain presentlysmall cosmic inflation energy density inflatonhubble parameter change slowly relative rateexpansion universe contribution disappear
+quickly leaving empty symmetric universe
+
+inflation must continue long enough observable universe came
+single small inflationary hubble volume necessaryensure universe appears flat homogeneous isotropiclargest observable scale ensure generally thoughtuniverse expanded factor leastduring
+inflation end inflation process called reheating occurs
+inflaton particle decay radiation starts
+hot big bang known long inflation lastedusually thought extremely short compared ageuniverse assuming energy scale inflation 
+andgev suggested simplest model periodinflation responsible observable universe probably lasted
+roughlyseconds
+
+motivation
+
+inflation resolve several problem big bang cosmologypointed problem suggest universe
+ha wildly absurd initial condition resolved nicelycontext cosmic inflation
+
+horizon problem
+
+horizon problem problem determining universe
+appears statistically homogeneous isotropic accordancecosmological principle gas molecule canister gasdistributed homogeneously isotropically thermal
+equilibrium gas throughout canister enough timeinteract dissipate inhomogeneity anisotropy situation
+quite different big bang model without inflationgravitational expansion doe give early universe enough timeequilibrate big bang matter radiation knownstandard model two widely separated region observable
+universe cannot equilibrated never comecausal contact history universe back earliest
+time possible send light signal two
+region interaction impossibleequilibrated hubble radius radiationmatterdominated universe expands much quickly physical
+length point communication comingcommunication historically two proposed solution phoenix
+universe george lematre related oscillatory universerichard chase tolman mixmaster universe charles misner
+lematre tolman proposed universe undergoing numbercycle contraction expansion could come thermal
+equilibrium model failed however buildupentropy several cycle misner made ultimately incorrect
+conjecture mixmaster mechanism made universechaotic could lead statistical homogeneity isotropy
+
+flatness problem
+
+another problem flatness problem sometimes called one
+dicke coincidence cosmological
+constant problem known densitymatter universe comparable critical density necessary
+flat universe universe whose large scale geometryusual euclidean geometry rather noneuclidean hyperbolicspherical geometry therefore regardless shape universe
+contribution spatial curvature expansion universe
+could much greater contribution matteruniverse expands curvature redshift away slowly matter
+radiation extrapolated past present finetuning
+problem contribution curvature universe mustexponentially small sixteen order magnitude density
+radiation big bang nucleosynthesis example problemexacerbated recent observation cosmic microwave background
+demonstrated universe flat accuracypercent
+
+magnetic monopole problem
+
+magnetic monopole problem sometimes called exotic relics
+problem problem suggests early universehot large number heavy stable magnetic monopoles would
+produced problem grand unified theorypopular proposed high temperatures
+early universe electromagnetic force strongweak nuclear force actually fundamental force arise due
+spontaneous symmetry breaking much simpler gauge theory
+theory predict number heavy stable particleyet observed nature notorious magnetic
+monopole kind stable heavy knot magnetic field
+monopoles expected copiously produced grand unified
+theory high temperature persistedpresent day high precision magnetic monopoles shown
+exist nature whereas according big bang theory
+without cosmic inflation copiously producedhot dense early universe since become primary constituent
+universe
+
+history
+
+inflation proposed inby alan guth mechanismresolving problem several precursorimportantly work willem sitter demonstratedexistence highly symmetric inflating universe called sitter
+space sitter however didnt apply cosmological
+problem interested guth contemporary guth alexei
+starobinsky argued quantum correction gravity would replace
+initial singularity universe exponentially expanding
+state demosthenes kazanas anticipated part guths worksuggesting exponential expansion could eliminate particle
+horizon perhaps solve horizon problem sato suggestingexponential expansion could eliminate domain wall another kindexotic relic however guth first assemble complete
+picture initial condition problem could solvedexponentially expanding state
+physical size hubble radius solid line functionlinear expansion scale factor universe cosmic
+inflation hubble radius constant physical wavelengthperturbation mode dashed line also shown plot illustratesperturbation mode grows larger horizon cosmic
+inflation coming back inside horizon grows rapidly
+radiation domination cosmic inflation never happenedradiation domination continued back gravitational singularity
+mode would never inside horizon early
+universe causal mechanism could ensured universe
+wa homogeneous scale perturbation mode
+enlarge
+physical size hubble radius solid line functionlinear expansion scale factor universe cosmic
+inflation hubble radius constant physical wavelengthperturbation mode dashed line also shown plot illustratesperturbation mode grows larger horizon cosmic
+inflation coming back inside horizon grows rapidly
+radiation domination cosmic inflation never happenedradiation domination continued back gravitational singularity
+mode would never inside horizon early
+universe causal mechanism could ensured universe
+wa homogeneous scale perturbation mode
+
+guth proposed early universe cooled trappedfalse vacuum high energy density much likecosmological constant early universe cooled trapped
+metastable state supercooled could decay
+process bubble nucleation via quantum tunneling
+bubble true vacuum spontaneously form sea false vacuum
+rapidly begin expanding speed light guth recognizedmodel problematic model reheat properly
+bubble nucleated generate radiation
+radiation could generated collision bubble walls
+inflation lasted long enough solve initial conditions
+problem collision bubble became exceedingly rare even
+though bubble expanding speed light bubblefar enough apart expansion space causing distance
+expand much faster
+
+problem solved andrei linde independently andreas
+albrecht paul steinhardt model named new inflationslowroll inflation guths model became known old inflation
+model instead tunneling false vacuum state
+inflation occurred scalar field rolling potential energy
+hill field roll slowly compared expansionuniverse inflation occurs however hill becomes steeper
+inflation end reheating occur
+
+eventually shown new inflation doe produceperfectly symmetric universe tiny quantum fluctuationinflaton created tiny fluctuation form primordial seeds
+structure created later universe fluctuations
+first calculated viatcheslav mukhanov v chibisovsoviet union analyzing starobinskys similar model context
+inflation worked independently workmukhanov chibisov threeweeknuffield workshopearly universe cambridge university fluctuationcalculated four group working separately courseworkshop stephen hawking starobinsky guth soyoung james
+bardeen steinhardt michael turner
+
+observational status
+
+inflation concrete mechanism realizing cosmological
+principle basis model physical cosmologyaccount homogeneity isotropy observable universeaddition account observed flatness absence magnetic
+monopoles since guths early work observationreceived confirmation impressively detailed
+observation cosmic microwave background made wilkinson
+microwave anisotropy probe wmap satellite analysis showuniverse flat accuracy least percenthomogeneous isotropic part 
+
+addition inflation predicts structure visibleuniverse today formed gravitational collapseperturbation formed quantum mechanical fluctuationinflationary epoch detailed form spectrumperturbation called nearlyscaleinvariant gaussian random fieldharrisonzeldovich spectrum specific two free
+parameter amplitude spectrum spectral indexmeasure slight deviation scale invariance predictedinflation perfect scale invariance corresponds idealized sitter universe inflation predicts observed perturbations
+thermal equilibrium called
+adiabatic isentropic perturbation structureperturbation confirmed wmap satellite cosmic
+microwave background experiment galaxy survey especiallyongoing sloan digital sky survey experiment shownone part ininhomogeneities observed exactly form
+predicted theory moreover slight deviation scale
+invariance measured spectral index equal one
+scaleinvariant spectrum simplest model inflation
+predict quantity betweenandthe wmap satellite
+ha measured nsand shown different onelevel two standard deviationsthis considered important
+confirmation theory inflation
+
+number theory inflation proposed make
+radically different prediction generally much fine
+tuning necessary physical model however inflationvaluable robustly predicts initial conditionuniverse based two adjustable parameter spectral
+index change small range amplitudeperturbation except contrived model true regardlessinflation realized particle physics
+
+occasionally effect observed appear contradictsimplest model inflation firstyear wmap data suggestedspectrum might nearly scaleinvariant might instead
+slight curvature however thirdyear data revealedeffect statistical anomaly another effect remarked upon
+since first cosmic microwave background satellite cosmic
+background explorer amplitude quadrupole momentcosmic microwave background unexpectedly low low
+multipoles appear preferentially aligned ecliptic plane
+claimed signature nongaussianity thus
+contradicts simplest model inflation others suggested
+effect may due new physic foreground
+contamination even publication bias
+
+experimental program underway test inflationprecise measurement cosmic microwave background particular
+high precision measurement socalled bmodespolarization background radiation evidencegravitational radiation produced inflation also show
+whether energy scale inflation predicted simplest models
+gev correct measurement expectedperformed planck satellite although unclear signal
+visible contamination foreground sourceinterfere measurement forthcoming measurementofcentimeter radiation radiation emitted absorbed
+neutral hydrogen first star turned may measure
+power spectrum even greater resolution cosmic
+microwave background galaxy survey although knownmeasurement possible interference radio
+source earth galaxy great
+
+ofit unclear relationship period cosmic
+inflation dark energy dark energy broadly similarinflation thought causing expansionpresentday universe accelerate however energy scale dark
+energy much lowergev roughlyorders magnitude less
+scale inflation
+
+theoretical status
+
+unsolved problem physic theory cosmic inflation
+correct detail epochhypothetical inflaton field giving rise inflation
+
+early proposal guth thought inflaton wahiggs field field explains mass elementary
+particle known inflaton cannot higgs field
+model inflation relied property grand unified
+theory since simplest model grand unification failed
+thought many physicist inflation includedsupersymmetric theory like string theory supersymmetric grand
+unified theory promising suggestion brane inflation present
+however inflation understood principally detailed
+prediction initial condition hot early universeparticle physic largely hoc modelling despitestringent observational test inflation passed many open
+question theory
+
+finetuning problem
+
+one severe challenge inflation arises need
+fine tuning inflationary theory new inflationslowroll condition must satisfied inflation occurslowroll condition say inflaton potential must flat
+compared large vacuum energy inflaton particles
+must small mass order new inflation theory linde
+albrecht steinhardt successful therefore seemeduniverse must scalar field especially flat potentialspecial initial conditions
+
+andrei linde proposed theory known chaotic inflationsuggested condition inflation actually satisfied
+quite generically inflation occur virtually universe
+begin chaotic high energy state scalar fieldunbounded potential energy however model inflaton field
+necessarily take value larger one planck unit reason
+often called large field model competing new
+inflation model called small field model situationprediction effective field theory thought invalidrenormalization cause large correction could prevent
+inflation problem yet resolved cosmologists
+argue small field model inflation occurmuch lower energy scale better model inflationinflation depends quantum field theory semiclassical
+approximation quantum gravity important way hacompletely reconciled theories
+
+robert brandenberger commented finetuning another situation
+amplitude primordial inhomogeneity produced inflation
+directly tied energy scale inflation strong
+suggestion scale aroundgev ortimesplanck energy natural scale navely planck scalesmall value could seen another form finetuning calledhierarchy problem energy density given scalar potentialbycompared planck density usually
+considered critical problem however scaleinflation corresponds naturally scale gauge unification
+
+eternal inflation
+
+cosmic inflation generally eternal process continues
+forever although scalar field new inflation classically
+rolling potential quantum fluctuation occasionally bringback region inflaton fluctuates upwards expand
+much faster region inflaton lower potential
+energy thus inflation end region regioncontinues growing exponentially thus continuedominate term physical volume steady statefirst described alexander vilenkin inflation endregion quantum mechanical fluctuation keep goingmajority universe called eternal inflation shown
+linde inflation theory unbounded potentialeternal usually called chaotic eternal inflationwidely thought steady state cannot continue indefinitelypast roughly speaking inflationary spacetimesimilar sitter space incomplete without contracting region
+however unlike sitter space fluctuation contracting
+inflationary space inevitably collapse form gravitational
+singularity instead matching onto expanding spacetime therefore
+thought inflationary steady state must supplemented
+theory initial condition universeinterpretation disputed linde however
+
+initial conditions
+
+author tried resolve circumvent failurepast eternal inflation proposing model eternally inflating
+universe beginning model solve problem eternal
+inflation postulating special initial hypersurfaceuniverse minimum size arrow time
+originates
+
+proposal attempt describe creation universenothing quantum cosmology subsequent onset inflation
+vilenkin proposed scenario inflationary universecreated nothing famously hartle hawking proposedconcrete theory noboundary proposal initial creationuniverse hawking expects inflation arise naturally
+
+alan guth described inflationary universe ultimate free
+lunch new universe similar continually producedvast inflating background gravitational interaction case
+circumvent violate first law thermodynamicsenergy conservation second law thermodynamics arrow
+time problem however generally agreed uponinflation begun solves initial condition problem big
+bang author argued inflation actually exacerbatesinitial condition problem much likely inflationbegin early universe universe windpresent state quantum fluctuation donald page
+criticised inflation ground page emphasizedthermodynamic arrow time big bang type theory necessarily
+requires low entropy initial condition page argued wouldextremely improbable according rather solvingproblem inflation theory aggravates itthe reheatingthermalization end inflation era increase entropy making
+necessary initial state universe evenorderly big bang theory inflation phase
+
+hawking page later found ambiguous result attemptedcompute probability inflation hartlehawking initial
+state author argued since inflation eternalprobability doesnt matter long precisely zerostart inflation perpetuates quickly dominatesuniverse recently lisa dyson matthew kleban leonard susskind
+argued using holographic principle spontaneous inflationexceedingly improbable albrecht lorenzo sorbo arguedprobability inflationary cosmos consistent todays
+observation emerging random fluctuation preexistent
+state compared noninflationary cosmos overwhelmingly favours
+inflationary scenario simply seed amountnongravitational energy required inflationary cosmosmuch required noninflationary alternativeoutweighs entropic considerations
+
+another problem occasionally mentionedtransplanckian problem transplanckian effect since energy
+scale inflation planck scale relatively closequantum fluctuation made structureuniverse smaller planck length inflation
+therefore ought correction planckscale physicparticular unknown quantum theory gravity hadisagreement magnitude effect whetherthreshold detectability completely undetectable
+
+reheating
+
+end inflation called reheating thermalizationlarge potential energy decay particle fill universe
+radiation nature inflaton knownprocess still poorly understood although believed take
+place parametric resonance
+
+model inflation
+
+another kind inflation called hybrid inflation extensionnew inflation introduces additional scalar fieldone scalar field responsible normal slow roll inflation
+another trigger end inflation inflation continuedsufficiently long becomes favorable second field decay
+much lower energy state unlike model inflation
+many version hybrid inflation eternal
+
+inflation string theory
+
+discovery flux compactifications opened wayreconciling inflation string theory new theory called brane
+inflation suggests inflation arises dbrane fallingdeep klebanovstrassler throat different theoryordinary inflation governed diracborninfeld action
+different one dynamic still
+understood appears special condition necessary
+inflation occurs tunneling two vacuum string
+landscape process tunneling two vacuum kind old
+inflation new inflation must occur mechanism
+
+alternative inflation
+
+string theory requires addition three spatial
+dimension observe exist additional dimensioncurled compactified see also kaluzaklein theory extra
+dimension appear frequent component supergravity modelapproach quantum gravity begs questionfour spacetime dimension become large rest become
+unobservably small attempt address question called string
+gas cosmology proposed robert brandenberger cumrun vafa
+model focus dynamic early universe consideredhot gas string brandenberger vafa show dimensionspacetime expand string wind aroundefficiently annihilate string onedimensional
+object largest number dimension two stringgenerically intersect presumably annihilate three
+therefore one argues likely number noncompact
+large spatial dimension three current work model centers
+whether succeed stabilizing size compactified
+dimension produce correct spectrum primordial density
+perturbation recent review see 
+
+ekpyrotic cyclic model also considered competitorinflation model solve horizon problem expanding
+epoch well big bang generate required spectrum
+primordial density perturbation contracting phase leading
+big crunch universe pass big crunch emerges
+hot big bang phase sense reminiscentoscillatory universe proposed richard chase tolman howevertolmans model total age universe necessarily finite
+model necessarily whether correct
+spectrum density fluctuation produced whetheruniverse successfully navigate big bangbig crunch transition
+remains topic controversy current research

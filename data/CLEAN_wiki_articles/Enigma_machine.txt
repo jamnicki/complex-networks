@@ -1,0 +1,516 @@
+copyright
+
+enigma machine
+
+ school wikipedia selection related subject cryptography engineering
+
+plugboard keyboard lamp fingerwheels rotor emerging
+inner lid threerotor german military enigma machine
+version labels
+enlarge
+plugboard keyboard lamp fingerwheels rotor emerging
+inner lid threerotor german military enigma machine
+version labels
+
+featured article click information
+
+history cryptography enigma portable cipher
+machine used encrypt decrypt secret message precisely
+enigma family related electromechanical rotor machine 
+comprising variety different models
+
+enigma used commercially early also
+adopted military governmental service numbernationsmost famously nazi germany world war 
+german military model wehrmacht enigma versioncommonly discussed machine gained notoriety allied
+cryptologist able decrypt large number messageenciphered machine intelligence gainedsourcecodenamed ultrawas significant aid allied war
+effort exact influence ultra debated typical
+assessment end european war hastened two
+year decryption german ciphers
+
+although enigma cipher cryptographic weakness wapractice combination significant factorallowed codebreakers read message mistake operators
+procedural flaw occasional captured machine codebook
+
+article discus enigma machine componentprocedure history technique enigmabroken see cryptanalysis enigma discussionenigmaderived intelligence put use see ultra
+enigma cipher machine
+enigma machine
+enigma rotor details
+cryptanalysis enigma
+cyclometer
+perforated sheets
+bomba
+bombe
+ultra
+
+description
+
+like rotor machine enigma machine combinationmechanical electrical system mechanical mechanism consistskeyboard set rotating disk called rotor arranged adjacently
+along spindle stepping mechanism turn onerotor key press exact mechanism variescommon form righthand rotor step every key
+stroke occasionally motion neighbouring rotortriggered continual movement rotor result different
+cryptographic transformation key press
+
+mechanical part act way form varying electrical
+circuitthe actual encipherment letter performed
+electrically key pressed circuit completed current
+flow various component ultimately light one many
+lamp indicating output letter example encryptingmessage starting anx operator would first press keyz lamp might light would first letter ciphertext
+operator would proceed encipher fashion
+explain enigma use wiring diagram leftsimplify example four component shownreality arelamps key plug wiring inside rotors
+current flow batterythrough depressed
+bidirectional letterswitchto plugboardthe plugboard
+allows rewiring connection keyboardand fixed entry
+wheelnext current proceeds theunused closed 
+plugvia entry wheelthrough wiring three
+wehrmacht enigma four kriegsmarine rotorsand entersreflectorthe reflector return current via different path
+back rotorsand entry wheeland proceedsplug connected cableto plug another
+bidirectional switchto lightup lamp
+
+continual changing electrical path unitrotation rotor cause pin contact change
+letter typed implement polyalphabetic encryptionprovided enigma high security time
+
+rotors
+
+left side enigma rotor showing flat electrical contacts
+single turnover notch visible left edge rotor
+enlarge
+left side enigma rotor showing flat electrical contacts
+single turnover notch visible left edge rotor
+right side rotor showing pin electrical contactroman numeral identifies wiring rotor
+enlarge
+right side rotor showing pin electrical contactroman numeral identifies wiring rotor
+
+rotor alternatively wheel drumswalzen german formheart enigma machine approximatelycm diameter rotor
+disc made hard rubber bakelite series brass
+springloaded pin one face arranged circle side
+corresponding number circular electrical contact pins
+contact represent alphabettypically theletters assumed rest description placed
+sidebyside pin one rotor rest contactneighbouring rotor forming electrical connection inside body
+rotor set ofwires connects pin one sidecontact complex pattern wiring differs every
+rotor
+three enigma rotor shaft placed use
+enlarge
+three enigma rotor shaft placed use
+
+rotor performs simple type encryptiona
+simple substitution cipher example pin correspondingletter might wired contact letter opposite
+face complexity come use several rotor series 
+usually three fourand regular movement rotorprovides much stronger type encryption
+
+placed machine rotor set one ofpositions
+turned hand using grooved fingerwheel protrudes
+internal cover closed shown figuresooperator know position rotor alphabet tyre letter
+ring attached around outside disk withlettersnumber one seen window indicatingposition rotor operator early enigma modelalphabet ring fixed complication introduced later versionfacility adjust alphabet ring relative core wiring
+position ring known ringstellung ring setting
+
+rotor contain notch sometimes multiple notch usedcontrol stepping rotor military versionnotch located alphabet ring
+exploded view enigma rotorthree rotor sequence
+notched ring
+marking dot contact
+alphabet ring
+plate contacts
+wire connections
+pin contacts
+springloaded ring adjusting lever
+hub
+finger wheel
+ratchet wheel
+
+army air force enigma came equipped several rotorfirst issued three ondecemberthis changedfive three chosen insertion machinemarked roman numeral distinguish iii ivv single notch located different point alphabet
+ring must intended security measureultimately allowed polish clock method british banburismus
+attacks
+
+naval version wehrmacht enigma always issuedrotor service first six sevenfinally eight additional rotor named vii viiidifferent wiring two notch cut nresulting frequent turnover
+
+fourrotor naval enigma machine accommodated extra rotorspace threerotor version accomplishedreplacing original reflector thinner reflector addingspecial fourth rotor fourth rotor one two type betagamma never step manually placed 
+positions
+
+stepping motion
+
+stepping motion enigma three ratchet pawl green pushunison first rotorthe ratchet red always engaged
+step keypress second rotoris engaged
+notch first rotor aligned pawlstep next keypress third rotoris engaged
+notch second rotor aligned pawlsimply slide curved ring
+enlarge
+stepping motion enigma three ratchet pawl green pushunison first rotorthe ratchet red always engaged
+step keypress second rotoris engaged
+notch first rotor aligned pawlstep next keypress third rotoris engaged
+notch second rotor aligned pawlsimply slide curved ring
+
+avoid merely implementing simple substitution cipher rotors
+turn consecutive press key ensurescryptographic transformation different position producingformidable polyalphabetic substitution cipher
+
+common arrangement utilises ratchet pawl mechanismrotor affixed ratchet withteeth group pawl engage
+teeth ratchet pawl pushed forward unisonkeypress machine pawl engages teeth ratchet
+rotor advance one step
+
+wehrmacht enigma rotor affixed adjustable
+notched ring five basic rotor one notchadditional naval rotor vii viii two notchcertain point rotor notch align pawl allowingengage ratchet next rotor subsequent key press
+pawl aligned notch simply slidesurface ring without engaging ratchet singlenotch
+rotor system second rotor advanced one position every 
+advance first rotor similarly third rotor advanced one
+position everyadvances second rotor second rotor
+also advance time third rotor meaning second
+rotor step twice subsequent key pressesdouble stepping 
+resulting reduced period
+
+double stepping cause rotor deviate normal
+odometer double step occurs follows first rotor steptake second rotor one step second rotor moved
+step notchposition third pawl dropnext step pawl push ratchet third rotoradvance also push second rotor notch
+advancing second rotor second time row
+
+three wheel single notch first second
+wheel machine period ofnotx 
+xbecause double stepping second rotor see bottompage reference section link pdf filedouble stepping historically message limited couplehundred letter risk repeating position
+within single message
+
+make room naval fourth rotor beta gamma introduced
+inthe reflector changed thin model special thin
+fourth rotor placed change mademechanism since three pawl fourth rotor never
+step manually set one itspositions
+
+pressing key rotor step electrical circuitconnected
+enigma rotor assembly three movable rotor sandwiched
+two fixed wheel entry wheel rightreflector marked left
+enlarge
+enigma rotor assembly three movable rotor sandwiched
+two fixed wheel entry wheel rightreflector marked left
+
+entry wheel
+
+entry wheel eintrittswalze german entry stator connects
+plugboard present otherwise keyboard lampboardrotor assembly exact wiring used comparatively
+little importance security proved obstacleprogress polish cryptanalyst marian rejewski deductionrotor wiring commercial enigma connects key order
+sequence keyboard rightarrow rightarrow e
+rightarrow however military enigma connectsstraight alphabetical order rightarrow rightarrow c
+rightarrow etc took inspired piece guesswork rejewski
+realise modification able solveequations
+
+reflector
+
+exception early model last rotorfollowed reflector german umkehrwalze patented feature
+distinctive enigma family amongst various rotor machines
+designed period reflector connects output last
+rotor pair redirecting current back rotordifferent route reflector ensures enigma selfreciprocal
+conveniently encryption decryption howeverreflector also give enigma property letter encryptwa severe conceptual flaw cryptological mistake
+subsequently exploited codebreakers
+
+commercial enigma model reflector inserted one
+two different position model reflector set 
+possible position although doe move enciphermentabwehr enigma reflector stepped encryptionsimilar way wheels
+
+german army air force enigma reflector fixeddoe rotate appeared four version original version
+wa marked replaced umkehrwalze onnovembera
+third version umkehrwalze wa used briefly inpossiblyerror solved hutthe fourth version first observed 
+januaryis rewireable reflector called umkehrwalze allowing
+enigma operator alter connection part key
+settings
+
+plugboard
+
+plugboard steckerbrett positioned front machine
+key use toconnectionsphotograph two pair letter swapped enlarge
+plugboard steckerbrett positioned front machine
+key use toconnectionsphotograph two pair letter swapped 
+plugboard steckerbrett german permit variable wiringcould reconfigured operator visible front panelfiguresome patch cord seen lidintroduced german army version inand soon adoptednavy well plugboard contributes great deal strengthmachine encryption extra rotor would enigma
+without plugboardunsteckered enigmacan solved relatively
+straightforwardly using hand method technique generally
+defeated addition plugboard codebreakers resortedspecial machine solve
+cable placed onto plugboard connects letter pairexample q might steckered pair effect swap
+letter main rotor scrambling unitexample operator press signal diverted qentering rotor several steckered pair tomightused one time
+
+current flow keyboard plugboard proceedsentryrotor eintrittswalze letter plugboard two
+jack inserting plug disconnect upper jackkeyboard lower jack entryrotor letterplug end crosswired cable inserted another
+letter jack switching connection two letters
+schreibmax printing unit could attachedenigma removing need laboriously writing letters
+indicated light panel
+enlarge
+schreibmax printing unit could attachedenigma removing need laboriously writing letters
+indicated light panel
+
+accessories
+
+enigma uhr attachment
+enlarge
+enigma uhr attachment
+
+handy feature used enigma schreibmaxlittle printer could print theletters small paper
+ribbon away need second operator readlamp write letter schreibmax placed topenigma machine connected lamp panel installprinter lamp cover lightbulb removed besides
+convenience could improve operational security printer
+could installed remotely signal officer operatingmachine longer see received plaintext information
+
+another accessory remote lamp panel machineequipped extra panel wooden case enigma wider
+could store extra panel lamp panel versioncould connected afterwards requiredschreibmax lamp panel lightbulb removed remote
+panel made possible person read decrypted text without
+operator seeing
+inthe luftwaffe introduced extra plugboard switch calleduhr clock little box containing switch 
+position replaced default plug connecting plugs
+determined daily key sheet operator could turnswitch one thepositions position resultingdifferent combination plug wiring plug connections
+unlike default plug pairwise
+
+mathematical description
+
+enigma transformation letter specified
+mathematically product permutation assuming threerotor
+german armyair force enigma let denote plugboard
+transformation denote reflector lmr denote actionleft middle right rotor encryption eexpressed
+eprmlulmrp
+
+key press rotor turn changing transformationexample right hand rotor rotated positiontransformation becomes iri whereis cyclic permutation
+mapping b forth similarly middlelefthand rotor represented k rotation encryption function described
+epirijmjklkuklkjm
+jirip
+
+procedure using enigma
+
+use enigma required list daily key setting wellnumber auxiliary document procedure german naval enigma
+elaborate secure procedure usedservice navy codebooks also printed red watersoluble
+ink pink paper could easily destroyedrisk seized enemy codebook takencaptured uboat enlarge
+use enigma required list daily key setting wellnumber auxiliary document procedure german naval enigma
+elaborate secure procedure usedservice navy codebooks also printed red watersoluble
+ink pink paper could easily destroyedrisk seized enemy codebook takencaptured uboat 
+german military usage communication divided number
+different network using different setting enigma
+machine communication net termed key bletchley park
+assigned codenames red chaffinch sharkunit operating network assigned setting list enigma
+period time message correctly encrypteddecrypted sender receiver set enigmaway rotor selection order starting positionplugboard connection need identical settingagreed beforehand distributed codebooks
+
+enigma machine initial state cryptographic key several
+aspects
+wheel order walzenlagethe choice rotor orderfitted
+initial position rotorschosen operator different
+message
+ring setting ringstellungthe position alphabet ring
+relative rotor wiring
+plug setting steckerverbindungenthe connection plugs
+plugboard
+late version wiring reconfigurable reflector
+
+enigma designed secure even rotor wiring knowneavesdropper although practice wiring kept secretsecret wiring total number possible configuration hacalculated aroundapproximatelybits known
+wiring operational constraint reduced around
+bit user enigma assured securitylarge number possibility feasible adversaryeven begin try every possible configuration brute force attack
+
+indicators
+
+key kept constant set time period typicallyday however different initial rotor position chosenmessage number message sent encryptedidentical nearidentical setting cryptanalyst several
+message depth might able attack message using
+frequency analysis counter different starting positionrotor chosen message similar conceptinitialisation vector modern cryptography starting positiontransmitted ciphertext exact method used termed
+indicator procedureweak indicator procedure allowedinitial break enigma
+figurewith inner lid placed enigma ready use
+finger wheel rotor protrude lid allowingoperator set rotor current positionhere rdkpis
+visible operator set windows
+enlarge
+figurewith inner lid placed enigma ready use
+finger wheel rotor protrude lid allowingoperator set rotor current positionhere rdkpis
+visible operator set windows
+
+one earliest indicator procedure exploited makeinitial break enigma polish cryptanalyst procedure
+wa operator set machine accordancesetting list included global initial position rotors
+grundstellungground setting aoh say operator would turn
+rotor aoh visible rotor windowpoint operator would choose arbitrary starting position
+particular message operator might select einbecame message setting encryption session operator
+would type ein machine twice allow detecting
+transmission error result would encrypted indicatorthe
+ein typed twice might turn xhtloa would transmitted
+along message finally operator would spinrotor message setting ein example textactual message typed
+receiving end operation reversed operator setmachine initial setting typed first six lettermessage xhtloa example einein would producedmoving rotor ein receiving operator would typerest ciphertext deciphering message
+
+weakness came two factor use global ground setting
+wa later changed operator selected initial
+position encrypt indicator sent initial positionclear second problem repetition indicatorwa actually security flaw message key encoded twice
+resulting relation first fourth second fifththird sixth character security problem enabled polish
+cipher bureau break prewar enigma message however 
+german changed procedure increase security
+
+war codebooks used set rotorringsettings message operator selected random start
+position let say wza random message key let say sxtmoved rotor wza start position encoded message key
+sxt let assume result uhl set message
+key sxt start position encoded message nexttransmitted start position wza encoded message key uhlmessage receiver set start position accordingfirst trigram wza decoded second trigram uhl obtainsxt message key next used sxt message key start position
+decode message way ground setting differentnew procedure avoided security flaw double encoded message
+keys
+
+procedure used wehrmacht luftwaffekriegsmarine procedure sending message enigma far
+complex elaborate prior encryption enigmamessage encoded kurzsignalheft code bookkurzsignalheft contained table converted sentencefourletter group kind expression many different topics
+listed logistic matter refueling rendezvous
+supply ship position grid list name harbors
+country weapon weather condition enemy position ship date
+time table possible situation topic listed
+another codebook contained kenngruppen spruchschlssel key
+identification message key detail kurzsignale german
+uboats
+
+abbreviation guidelines
+
+army enigma machine used thealphabet character signs
+replaced rare character combination space omittedreplaced x generally used point full stopsign different part armed force wehrmacht
+replaced comma question sign frage fraqkriegsmarine however replaced comma question signud combination acht eight richtung directionreplaced aqt riqtung two three four zero replaced
+centa mille myria
+
+wehrmacht luftwaffe transmitted message groupfive character kriegsmarine using four rotor enigmafourcharacter group frequently used name word varied
+much possible word like minensuchboot minesweeper couldwritten minensuchboot minboot mmmboot mmm make
+cryptanalysis harder thancharacters one messageforbidden longer message divided several part using
+message key detail see tony sale translationgeneral procedure officer staff procedure
+
+history development machine
+
+far single design numerous model variants
+enigma family earliest enigma machine commercial
+model dating early starting midsvarious branch german military began use enigma makingnumber change order increase security additionnumber nation either adopted adapted enigma designcipher machines
+selection seven enigma machine paraphernalia exhibitedusa national cryptologic museum left right modelcommercial enigmaenigma tenigma gunidentified 
+luftwaffe air force enigmaheer army enigmakriegsmarine
+naval enigmam
+enlarge
+selection seven enigma machine paraphernalia exhibitedusa national cryptologic museum left right modelcommercial enigmaenigma tenigma gunidentified 
+luftwaffe air force enigmaheer army enigmakriegsmarine
+naval enigmam
+
+commercial enigma
+
+februarygerman engineer arthur scherbius appliedpatent cipher machine using rotor richard ritter
+founded firm scherbiusritter approached german navy
+foreign office design neither interestedassigned patent right gewerkschaft securitas founded
+chiffriermaschinen aktiengesellschaft cipher machine stock
+corporation onjulyscherbius ritter boarddirectors
+enigma logo
+enlarge
+enigma logo
+
+chiffriermaschinen began advertising rotor machineenigma model
+awhich exhibited congress international postal
+union inandthe machine heavy bulky incorporating
+typewriter measuredcm weighed aboutkg model
+b introduced similar construction bearingenigma name model quite unlike later versiondiffered physical size shape also cryptographicallylacked reflector
+
+reflectoran idea suggested scherbius colleague willi korn 
+wa first introduced enigma cmodel reflectorkey feature enigma machines
+rare rotor printing enigma
+enlarge
+rare rotor printing enigma
+
+model wa smaller portable predecessor lacked
+typewriter relying instead operator reading lamp hence
+alternative name glowlamp enigma distinguish modelb enigma quickly became extinct giving way enigmaversion widely used example going sweden
+netherlands england japan italy spain poland
+
+military enigma
+
+navy first branch german military adopt enigma
+version named funkschlssel radio cipher putproduction byand introduced service inthe
+keyboard lampboard containedlettersazandwhich
+arranged alphabetically opposed qwertzu orderingrotor hadcontacts letter wired bypass rotors
+unencrypted three rotor chosen set fivereflector could inserted one four different position denoted
+andthe machine revised slightly july 
+
+byjulythe german armyreichswehr introducedversion enigmathe enigma revised enigma june
+enigma also known wehrmacht service enigmawa used extensively german military servicegovernment organisation railwayworld war major difference enigma commercial
+enigma model addition plugboard swap pair letters
+greatly increasing cryptographic strength machinedifference included use fixed reflector relocation
+stepping notch rotor body movable letter rings
+navy eventually agreed inbrought service navy
+version army enigma designated funkschlsselarmy used three rotor time greater security navy
+specified choice three possible five
+
+decemberthe army issued two extra rotor three
+rotor chosen set five inthe navy added tworotor another allow choice three rotorset eight augustthe air force also introducedwehrmacht enigma communication fourrotor enigmaintroduced navy uboat traffic onfebruarycallednetwork known triton shark ally extra
+rotor fitted space splitting reflectorcombination thin reflector thin fourth rotor
+
+wa also large eightrotor printing model enigma duringpolish codebreakers detected usehighlevel military communication soon withdrawnuse found unreliable jam frequently
+enigma used abwehr four rotor plugboardmultiple notch rotors
+enlarge
+enigma used abwehr four rotor plugboardmultiple notch rotors
+
+abwehr used enigma abwehr enigma enigma variant
+wa fourwheel unsteckered machine multiple notchrotor model equipped counter incremented upon
+key press also known counter machinezahlwerk enigma
+fourwheel swiss enigma made germany used rewired rotors
+enlarge
+fourwheel swiss enigma made germany used rewired rotors
+
+country also used enigma machine italian navy adoptedcommercial enigma navy cipher spanish also used commercial
+enigma civil war british codebreakers succeededbreaking machine lacked plugboard swiss usedversion enigma called model swiss military diplomatic
+use similar commercial enigma machinebroken number party including poland france britainunited state latter codenamed indigo enigma model
+codenamed tirpitz manufactured use japanese
+
+ha estimated thatenigma machine constructed
+end second world war ally sold captured enigma
+machine still widely considered secure number developing
+countries
+
+surviving enigmas
+
+enigma machine display warsaw
+enlarge
+enigma machine display warsaw
+
+effort break enigma disclosed since
+interest enigma machine grown considerablynumber enigma public display museum ueurope deutsches museum munich threefourwheel german military variant well several older civilian
+version functional enigma display nsa national
+cryptologic museum fort meade visitor try hand
+encrypting message deciphering code also examplecomputer history museum united state bletchley parkunited kingdom australian war memorial canberraaustralia well number location germany uk elsewhere number also private hands
+
+occasionally enigma machine sold auction price unusual
+
+replica machine available various form includingexact reconstructed copy naval model enigma implemented
+electronics enigmae various computer software simulatorpaperandscissors analogues
+
+rare abwehr enigma machine designated wa stolenbletchley park museum onaprilin september man identifying
+master sent note demandingand threateneddestroy machine ransom paid early october 
+bletchley park official announced would pay ransomstated deadline passed word blackmailer shortly
+afterwards machine sent anonymously bbc journalist jeremy
+paxman three rotor missing novemberan antiques
+dealer named dennis yates arrested telephoning sunday
+time arrange return missing part enigma machine
+wa returned bletchley park incident october 
+yates sentenced ten month prison admitting handling
+stolen machine blackmailing bletchley park trust director
+christine large although maintained actingintermediary third party yates released prisonserving three months
+
+enigma derivatives
+
+enigma influential field cipher machine designnumber rotor machine derived british typex
+wa originally derived enigma patentstypex even includes
+feature patent description omitted actual
+enigma machine owing need secrecy cipher systems
+royalty paid use patent british
+government japanese enigma clone codenamed green american
+cryptographer little used contained four rotor mounted
+vertically cryptologist william friedman designedmachine similar enigma logical operation althoughconstruction
+
+unique rotor machine constructed inby netherlandsbased
+tatjana van vark unusual device inspired enigma makes
+use point rotor allowing letter number punctuation
+used rotor containsparts
+japanese developed enigma clone codenamed green american
+cryptographer although little used
+enlarge
+japanese developed enigma clone codenamed green american
+cryptographer although little used
+tatjana van varks enigmainspired rotor machine constructed 
+rotor machine containcontacts comparedoriginal enigma 
+enlarge
+tatjana van varks enigmainspired rotor machine constructed 
+rotor machine containcontacts comparedoriginal enigma 
+
+fiction
+
+robert harrisnovel enigma set backdrop world
+war bletchley park cryptologist working read enigmabook made thefilm enigma starring kate winsletdougray scott film criticized many historical
+inaccuracy earlier film dealing somewhat superficiallypolish aspect subject thesekret enigmy enigma
+secret
+
+neal stephenson novel cryptonomicon also feature world war military cryptography including enigma bletchley parkalso take considerable historical liberties
+
+interactive fiction game jigsaw graham nelson contains puzzle
+player must decrypt message simplified versionenigma puzzle generally accepted annoyinggame perhaps measure hard decrypt
+message produced original machines
+
+jonathan mostowsfilm describes fictional voyageamerican submariner hijacked german submarine obtainenigma machine machine used film authentic enigma
+obtained collector reallife capture enigma machine
+british royal navy happened long time americans
+joined war
+
+friedrich kittlerstransgramophone film typewriter
+examines use enigma similar device relationsymbolic order jacques lacan
+
+wolfgang petersensfilm boot includes enigma machineevidently fourrotor kriegsmarine variant appears many
+scene probably capture flavour daytoday enigma use
+aboard world war uboat
+

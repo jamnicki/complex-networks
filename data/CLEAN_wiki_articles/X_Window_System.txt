@@ -1,0 +1,447 @@
+copyright
+
+x window system
+
+ school wikipedia selection related subject software
+
+caption window system
+
+maintainerxorg foundation
+stable releasemay
+preview release rcoctober 
+
+git developmentvarious
+osmultiple
+usewindowing system
+licensemit license
+websitewwwxorg
+kde 
+enlarge
+kde 
+gnome 
+enlarge
+gnome 
+
+computing window system commonly x protocolassociated software provide windowing bitmap displayprovides standard toolkit protocol build graphical user
+interface gui unix unixlike operating system openvms
+supported almost modern operating systems
+
+x provides basic framework gui environment drawingmoving window screen interacting mouse andor
+keyboard doe mandate user interfaceindividual client
+program handle visual styling xbased
+environment varies greatly different program may present radically
+different interfaces
+
+x feature network transparency machine application programs
+client application run differ user local machine
+display server usage term client server
+revers people often expect server refersuser local display display server rather remote
+machine
+
+x originated mit inthe current protocol version appeared septemberthe xorg foundation lead project
+current reference implementation versionrelease 
+available free software mit license similar permissive
+license 
+
+x clientserver model network transparency
+
+x clientserver model server communicates various
+client program server accepts request graphical output
+window sends back user input keyboard mousetouchscreen server may function oneapplication displaying window another display system
+system program controlling video output dedicated piece hardware
+
+clientserver terminologythe user terminal server
+remote application clientsoften confuses new users
+term appear reversed take perspectiveprogram rather enduser hardware local
+x display provides display service program actserver remote program service thus actclient
+example server take input keyboard mousedisplay screen web browser terminal emulator runuser workstation system updater run remote servercontrolled user machine note remote application
+run would locally
+example server take input keyboard mousedisplay screen web browser terminal emulator runuser workstation system updater run remote servercontrolled user machine note remote application
+run would locally
+
+communication protocol server client operates
+networktransparently client server may runmachine different one possibly different architectureoperating system run either case clientserver even communicate securely internet tunnelingconnection encrypted network session
+
+start remote client program displaying local server user
+typically open terminal window telnet ssh remote
+machine tell display user machine export
+displayusers machine remote machine running bashstart client client connect local serverremote application display local screen accept
+input local input device alternatively local machine
+may run small helper program connect remote machine start
+desired client application
+practical example remote client include
+administering remote machine graphically
+running computationally intensive simulation remote unix
+machine displaying result local window desktop
+machine
+running graphical software several machine controlled
+single display keyboard mouse
+
+design principle 
+inbob scheifler jim gettys set early principlex
+add new functionality unless implementor cannot complete
+real application withoutimportant decide system decideserve world need rather make system
+extensible additional need met upwardly
+compatible fashion
+thing worse generalizing one examplegeneralizing exampleproblem completely understood probably bestprovide solutiongetpercent desired effect forpercentwork use simpler solution see also worse better
+isolate complexity much possible
+provide mechanism rather policy particular place user
+interface policy client hands
+
+first principle modified design xadd new functionality unless know real applicationrequire
+x largely kept principle since reference
+implementation developed view extension improvementimplementation whilst remaining almost entirely compatibleoriginalprotocol
+
+user interfaces
+
+x deliberately contains specification application user
+interface button menu window title barinstead user softwaresuch window manager gui widget toolkits
+desktop environment applicationspecific gui point
+saleprovidedefine detail typical interface varied tremendously years
+
+window manager control placement appearance application
+window may interface akin microsoft windows
+macintosh example include kwin kde metacity gnome
+radically different control tiling window manager
+window manager may barebones twm basic window
+manager supplied offer functionality vergingfull desktop environment enlightenment
+
+many user use full desktop environment includeswindow manager various application consistent interface gnome
+kde popular desktop environment unix standard
+environment common desktop environment cdefreedesktoporg initiative address interoperability desktops
+component needed competitive desktop
+
+x responsible keyboard mouse interaction graphical
+desktop certain keyboard shortcut become associated controlaltbackspace terminates currently running sessioncontrolalt conjunction function key switchassociate virtual console
+
+implementations
+
+xorg reference implementation serf canonical
+implementation due liberal licensing numbervariation free proprietary appeared commercial unix
+vendor tended take reference implementation adapthardware usually customising heavily adding
+proprietary extensions
+
+toxfree provided common variant free
+unixlike system xfree started port compatible
+pc end become greatest sourcetechnical innovation de facto steward development 
+sincehowever xorg reference implementation forkxfree become predominant
+
+computer aficionado often associate unix servers
+also exist natively within graphical environments
+hewlettpackards openvms operating system includes version xcde known decwindows standard desktop environment apples
+mac v panther includes xapp based xfree 
+xr better mac integration thirdparty servers
+macintosh systemandincluded macx
+
+microsoft window doe come support many
+thirdparty implementation exist free software cygwinx
+xming weirdmind weirdx proprietary product xmanager
+xdeep wiredx exceed xwin normally serve control
+remote clients
+
+another windowing system microsoft windowmac host x system generally run rootless meaninghost windowing environment look root window background
+associated menu manages geometry hosted windows
+although server exceed example also create root
+window remote client display separate windowhost system
+
+x terminals
+
+network computing device ncdk terminal
+enlarge
+network computing device ncdk terminal
+
+x terminal smart terminal run server thin
+client architecture became popular building inexpensive
+terminal park many user simultaneously use large
+server use much aligns original intentionmit project
+
+x terminal explore network local broadcast domain usingx display manager control protocol generate list available
+host run client initial host need runx display manager
+
+dedicated hardware terminal become common pcx server typically provides functionality lower cost
+
+limitation criticism 
+unixhaters handbook devoted entire chapter xwindows
+disaster problem late earlyx ideal window systemby gajewska manassemccormack detailed problem protocol recommendationimprovement
+
+video hardware
+
+performance edge graphical computingadvanced graphic function manufacturer typically implementproprietary driver generally writing window largest
+consumermarket first xfree xorg serverreverseengineered driver many older card however high
+performance video market offersstateoftheart productvendor regard programming detail trade secret patentable
+invention wish reveal
+
+user interface features
+
+x deliberately contains specification user interfaceinterapplication communication resulted several vastly
+different interface application always quite
+worked together icccm specification client
+interoperability reputation difficult implement correctly
+standard effort motif cde remedy matters
+ha frustrated user programmer long time graphics
+programmer generally address consistency application lookfeel communication coding specific desktop environmentspecific widget toolkit also avoids deal directly
+icccm
+
+x protocol provides facility handling sound leavingoperating system provide support audio hardware sound
+playback user increasingly expect sound led various
+incompatible sound subsystem programmer simply use local
+osspecific sound apis first generation clientserver sound
+system included rplay network audio system recent efforts
+produced esound gnome art kde inthe xorg
+foundation announced development medium application server
+remedy problem however none generally used
+solution problem
+
+network
+
+example tunnelling application ssh
+enlarge
+example tunnelling application ssh
+
+one cannot currently detach client session one serverreattach another virtual network computing vnc work
+ha started add facility workarounds vncviewers
+exist make current xserver screen available via vnc
+
+network traffic server remote client default
+encryption attacker packet sniffer intercept read
+user address issue tunneling ssh ssh
+implementation support tunneling application althoughsometimes disabled default
+
+clientserver separation
+
+x design requires client server operate separatelydevice independence separation client server incur
+overhead compared operating system graphicintegrated early version microsoft windowmac advocate recommendedtomb ram reasonable
+performance mids seemed bloated comparedwindow mac 
+current version window mac quartz internal subsystem
+separation similar clientserver divide comparable
+performance resource usage kde gnomeoverhead come network roundtrip delay time clientserverlatency rather protocol best
+solution performance issue involve paying attention application
+designa common misconception network feature resultexcessive complexity used locally network
+capability cause undesirable performance hit modern implementation use local socket shared memory requiringlittle overhead
+
+competitor 
+graphic unixlike system use almost universally nevertheless
+people attempted writing alternative replacements
+x historical alternative include sun news failedmarket nexts display postscript eventually became apples
+quartz mac 
+modern attempt address criticism replacing completely
+include berlin fresco window system alternativeseen negligible takeup however commentator widely doubtviability replacement doe preserve
+backwardscompatibility 
+competitor attempt avoid overhead working
+directly hardware project include directfbsmall fbui direct rendering infrastructure aim provide
+reliable kernellevel interface framebuffer may makeeffort redundant
+
+way achieve network transparency graphical services
+include
+svg terminal protocol update scalable vector graphics
+svg content browser nearrealtime
+virtual network computing vnc lowlevel systemsends compressed bitmap across network unix
+implementation includes server
+citrix metaframe xlike product microsoft windows
+tarantella provides java client use web browsers
+
+history
+
+predecessors
+
+several bitmap display system preceded xerox came alto
+starfrom apple came lisaandmacintoshthe unix world andrew projectand rob
+pike blit terminal 
+
+x derives name successor pre window system called letter directly following latin alphabet window
+system ran operating system used network protocol
+supporting terminal graphic window server maintaining
+display lists
+
+origin early development
+
+original idea emerged mit inas collaboration
+jim gettys project athena bob scheifler mit
+laboratory computer science scheifler needed usable display
+environment debugging argus system project athena joint
+project digital equipment corporation dec mit ibmprovide easy access computing resource student neededplatformindependent graphic system link together heterogeneous
+multiplevendor system window system developmentcarnegie mellon university andrew project make licences
+available alternative existed
+
+project solved creating protocol could run
+local application call remote resource mid initial
+port unix ran onefifth speed may 
+scheifler replaced synchronous protocol asynchronous
+protocol display list immediate mode graphic make versionx became first windowing system environment offer
+true hardwareindependence vendorindependence
+
+scheifler gettys ron newman set work progressed rapidly
+released versionin januarydec preparing release
+first ultrix workstation judged windowing system likely
+become available time dec engineer ported dec qvss
+display microvax
+
+second quarter ofx acquired colour support functiondec vaxstationiigpx forming became versionalthough mit
+licensed outside group fee decidedtime license future version became knownmit license appeared september 
+
+group brown university ported versionto ibm rtpcproblem reading unaligned data forced incompatible
+protocol change leading versionin latebyoutside
+organization started asking release took place
+januarythat februaryxr became first
+version achieve wide deployment dec hewlettpackard
+releasing product based group ported apollosun workstation even ibm pcat demonstrationfirst commercial application mechanical computeraided
+engineering system ran vaxes displayed running server took place autofact trade show time last
+version xr appeared december 
+
+although offered interesting powerful functionalitybecome obvious protocol could use hardwareneutral
+redesign became widely deployed mit alone wouldresource available complete redesignhappened dec western software laboratory foundproject smokey wallace dec wsl jim gettys proposed dec
+wsl build make freely available term x process started maywith protocol finalised
+august alphatesting software started february 
+betatesting may release finally occurred september
+
+
+x protocol design led scheifler got extensively discussedopen mailing list nascent internet therefore represents one
+first largescale free software projects
+
+mit consortium consortium inc
+
+inwith success becoming apparent mit wishedrelinquish stewardship junemeeting nine
+vendor vendor told mit believed needneutral party keep fragmenting marketplace january
+mit consortium formed nonprofit vendor groupscheifler director direct future development xneutral atmosphere inclusive commercial educational interests
+jim fulton joined januaryand keith packard marchas
+senior developer jim focusing xlib font window managers
+utility keith reimplementing server donna conversechris peterson joined later year focusing toolkits widget
+set working closely ralph swick mit project athena mit consortium produced several significant revision first
+releasexr february 
+
+inthe consortium inc nonprofit corporation formedsuccessor mit consortium released may 
+init took stewardship motif toolkitcommon desktop environment unix system consortium dissolved
+end ofproducing final revision legacy
+increasing commercial influence development
+
+open group
+
+mid consortium passed stewardship open group
+vendor group formed earlyby merger open software
+foundation xopen
+
+open group released earlycontroversially departed traditional liberal licensing term open
+group sought assure funding developmentthe new terms
+would prevented adoption many project xfree
+even commercial vendor xfree threatened fork 
+open group relicensed traditional licenseseptemberthe open group last release came patch 
+
+xorg xfree
+
+xfree originated infrom server ibm compatibles
+included inwritten thomas roell mark snitily donated mit consortium snitily graphics
+consulting service sgcs xfree evolved time one
+port leading popular implementation facto steward development 
+
+maythe open group formed xorg xorg supervised release
+version onward development time become
+moribundmost technical innovation since consortiumdissolved taken place xfree projectinthe xfree
+team joined xorg honorary nonpaying memberencouragedvarious hardware company interested using xfree linuxstatus popular version 
+bywhile popularity linux hence installed basex surged xorg remained inactiveand active development
+took place largely within xfree however considerable dissent
+developed within xfree xfree project sufferedperception far cathedrallike development model developers
+could get commit access vendor maintain extensive
+patch setsin marchthe xfree organization expelled keith
+packard joined xfree end original mit consortium considerable illfeeling 
+
+xorg xfree began discussing reorganisation suited properly
+nurturing development xjim gettys pushing strongly
+open development model since leastgettys packardseveral others began discussing detail requirementeffective governance open development
+
+finally echo licensing dispute xfree released
+versionin februaryunder restricted license many
+project relying found unacceptablethe added clauselicense based upon original bsd license advertising clause
+wa viewed free software foundation debianincompatible gnu general public licenseother group saw
+restriction spirit original openbsd threatening fork example license issue combined
+difficulty getting change left many feeling time
+wa ripe fork 
+
+xorg foundation
+
+earlyvarious people xorg freedesktoporg formedxorg foundation open group gave control xorg
+domain name marked radical change governance whereas steward sinceincluding previous xorgvendor organization foundation led software
+developer used community development based bazaar model
+relies outside involvement membership openedindividual corporate membership formsponsorship several major corporation hewlettpackard sun
+microsystems currently support xorg foundation
+
+foundation take oversight role development technical
+decision made merit achieving rough consensus among
+community member technical decision made boarddirector sense strongly modelled technically
+noninterventionist gnome foundation foundation doe employ
+developers
+
+foundation released xorg server aprilbased
+xfree xr change merged gettys packardtaken last version xfree old license making
+point open development model retaining gpl compatibility
+brought many old xfree developer board 
+
+xr came septemberit added significant new features
+including preliminary support translucent windowsophisticated visual effect screen magnifier thumbnailersfacility integrate immersive display system suns
+project looking glass croquet project external applications
+called compositing manager provide policy visual appearance
+
+future directions
+
+xorg foundation freedesktoporg main line development started progress rapidly developers
+intend release present future version usable finished
+product merely base vendor build product upon
+
+decemberxorg released monolithic source
+tree legacy user source code separatedindependent module maintainable separate projectsthe
+foundation released mayabout four monthconsiderable feature improvement 
+
+sufficiently capable combination hardware operating
+system xorg plan access video hardware via opengldirect rendering infrastructure dri dri first appearedxfree versionand became standard latermany
+operating system started add kernel support hardware
+manipulation work proceeds incrementally
+
+nomenclature
+
+people computer trade commonly shorten phrase window
+system simply term window manner
+microsoft window officially endorsed though hacommon use since early history ha used
+deliberately literary effect example unixhaters
+handbook
+
+release history
+
+version release date important changes
+x junefirst use name fundamental changes
+distinguishing product x januaryfirst version licensed handful outside
+companies
+x septembercolour first release mit license
+x lateibm rtpc running others
+xr january 
+xr februaryfirst release outside mit uwm made standard window
+manager
+xr decemberlast version x septemberfirst release current protocol
+xr februaryfirst consortium release
+xr octoberxdm
+xr decemberxdmcp twm brought standard window
+manager application improvement shape extension new fonts
+xr septemberpex xcmscolour management font server
+x video extension
+xr mayicccm interclient exchange session
+management synchronization extension image extension xtest
+extension input big request xcmisc xfree changes
+xr marchx double buffer extension keyboard extension
+x record extension
+xr
+xr broadway decemberweb functionality lbx last consortium release tag subset xrnew feature xprint xlib implementationvertical writing userdefined character support
+xr marchxinerama
+xr internal xorg release made publicly available
+xr august
+xr aprilbug fix xfree changes
+xr aprilfirst xorg foundation release incorporating
+xfree full enduser distribution removal xie pexlibxml
+xr septemberwindow translucency xdamage distributed
+multihead xfixes composite xevie
+xr septembersecurity fix libxpm
+xr februarybug fix driver updates
+xr
+xr decemberexa major source code refactoringfromsourcecode base modular autotooled version becameand
+monolithic imake version frozen 
+xr mayexa enhancement kdrive integrated aiglxplatform support enhancement 
+xrremoval lbx builtin keyboard driver xace
+xcb autoconfig improvement cleanups
+

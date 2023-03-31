@@ -1,0 +1,67 @@
+copyright
+
+imperative programming
+
+ school wikipedia selection related subject computer programming
+
+computer science imperative programming contrasteddeclarative programming programming paradigm describes
+computation statement change program state muchway imperative mood natural language express commandtake action imperative program sequence commandcomputer perform commonly used synonym imperative programming
+procedural programming
+
+imperative programming language stand contrast typelanguage functional logical programming languages
+functional programming language haskell sequence
+statement global state imperative languagelogical programming language like prolog often thoughtdefining computed rather computationtake place imperative programming language
+overview
+
+hardware implementation almost computer imperative
+nearly computer hardware designed execute machine codenative computer written imperative stylelowlevel perspective program state defined contentmemory statement instruction native machine
+language computer higherlevel imperative language use
+variable complex statement still followparadigm recipe process checklist computer programs
+also familiar concept similar style imperative
+programming step instruction physical world holds
+state since basic idea imperative programmingconceptually familiar directly embodied hardwarecomputer language imperative style
+
+assignment statement general perform operation information
+located memory store result memory later use
+highlevel imperative language addition permit evaluationcomplex expression may consist combination arithmetic
+operation function evaluation assignmentresulting value memory looping statement allow sequencestatement executed multiple time loop either executestatement contain predefined number timeexecute repeatedly condition change conditional
+branching statement allow block statement executedcondition met otherwise statement skippedexecution sequence continues statement following block
+unconditional branching statement allow execution sequencetransferred part program include jump
+calledgoto many language subprogram procedure
+call
+
+history
+
+earliest imperative language machine languageoriginal computer language instruction simple
+made hardware implementation easier hindered creationcomplex program fortran developed john backus ibm startingwa first major programming language remove obstacles
+presented machine code creation complex program fortran
+wa compiled language allowed named variable complex
+expression subprogram many feature commonimperative language next two decade saw developmentnumber major highlevel imperative programming languagelate algol developed order allow
+mathematical algorithm easily expressed even servedoperating system target language computer cobol 
+basicwere attempt make programming syntax look
+like english pascal developed niklaus wirth
+c created dennis ritchie working bell
+laboratory wirth went design modula modula oberon
+need united state department defense jean ichbiah
+team honeywell began designing ada inafter year
+project define requirement language specification
+wa first published inwith revision inand 
+
+saw rapid growth interest objectoriented
+programming language imperative style added
+feature support object last two decade century
+saw development considerable number programming
+language smalltalk originally conceived alan kay inwas
+released inby xerox palo alto research centre drawingconcept another objectoriented languagesimulaconsidered world first objectoriented programming
+language developed late sbjarne stroustrup designed
+c objectoriented language based c first implemented
+inin late notable imperative languages
+drawing objectoriented concept perl released larry wall
+inpython released guido van rossum inphp releasedrasmus lerdorf inand java first released sun microsystems
+
+example languages
+
+canonical example imperative programming language fortran
+algol others include pascal ada
+
+categoryimperative programming language provides exhaustive list

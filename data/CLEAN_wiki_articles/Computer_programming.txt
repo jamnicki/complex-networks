@@ -1,0 +1,152 @@
+copyright
+
+computer programming
+
+ school wikipedia selection related subject computer programming
+
+output process computer programming often shortenedprogramming coding source code written programming
+language code may modification existing sourcesomething completely new process writing source code requires
+expertise many different subject including knowledgeapplication domain algorithm implement desired behaviour
+
+within software engineering programming implementationregarded one phase software development process
+
+going debate extent writingprogram art engineering discipline
+
+another going debate extent programming language
+used writing program effect form final program takes
+debate analogous surrounding sapir whorf hypothesis
+linguistics
+
+programming languages
+
+different programming language support different style programming
+called programming paradigm choice language used mayindividual choice may dictated company policy ideallyprogramming language best suited task hand selected
+tradeoff ideal involve finding enough programmer know
+language build team availability compilerlanguage efficiency program written given
+language execute
+
+history programming
+
+wired plug board ibmaccounting machine
+enlarge
+wired plug board ibmaccounting machine
+
+earliest programmable machine machine adjust
+capability based upon changing program saidjacquard loom developed inthe machine usedseries pasteboard card hole punched hole pattern
+represented pattern loom follow weaving cloth
+loom could produce entirely different weave using different sets
+card innovation later refined herman hollerith ibm
+development famous ibm punch card usedvariety machine called unit record equipment perform data
+processing task unit record equipment programmed changing
+wiring plugboard early computer used similar programming
+methods
+box punch card several program decks
+enlarge
+box punch card several program decks
+
+invention von neumann architecture allowed programstored computer memory early program painstakingly
+crafted using instruction particular machine oftenbinary notation every model computer would likely need
+different instruction task later assembly languages
+developed let programmer specify instructiontext format entering abbreviation operation code insteadnumber specifying address symbolic form add total
+infortran first higher level programming languageinvented allowed programmer specify calculation entering
+formula directly yxxthe program textsource converted machine instruction using special program
+called compiler many language developed including ones
+commercial programming cobol program mostly still
+entered using punch card paper tape see computer programmingpunch card era mids mass storage device computer
+terminal became inexpensive enough program could createdtyping directly computer text editor developedallowed change correction made much easilypunch cards
+
+time progressed computer made giant leap areaprocessing power brought newer programing languages
+abstracted underlying hardware althoughabstracted language require additional overhead cases
+huge increase speed modern computer brought little
+performance decrease compared earlier counterpart benefitabstracted language allow easier
+learning curve people familiar older lowerlevel
+programming language also allow experienced
+programmer develop simple application quickly despitebenefit large complicated program programdependent speed still require faster relatively lowerlevel
+language today hardware concern raisedoriginal fortran language
+
+throughout second half twentieth century programming waattractive career developed country formprogramming increasingly subject offshore outsourcing
+importing software service country usuallylower wage making programming career decision developed countries
+complicated increasing economic opportunity less
+developed area unclear far trend continuedeeply impact programmer wage opportunities
+
+example computer programming languages
+
+almost evolutionary order
+fortran generalpurpose procedural imperative programming
+language especially suited numeric computationscientific computing originally developed john backusinternational business machine corporation ibmscientific engineering applications
+c compiled procedural imperative programming language made
+popular basis unix
+shell scripting particular using either variant bourne
+shell shell popular among unix hacker althoughexact implementation varies among different shell core
+principle remain intact providing facility program
+flow also seen placing emphasis using external
+program although shell feature functions
+internally known builtins shell scripting used primarilysystem administration especially task need automated
+run specific time backup monitoring file system
+maintenance among others also used tool rapid
+prototyping exact design program yet clear
+enough full implementation often compiled language like
+c whilst shell script relatively simple possible
+create complex powerful program many implementations
+smalltalk inventedwas important fundament object
+oriented programming started new programming paradigmsignificantly influenced whole art programming smalltalkpure object oriented language minimalistic syntax
+possible nearly everything done inside class
+library even standard control structure implementedclass library nothing exists besides object oolanguages
+clarity simplicity
+pascal generalpurpose structured language namedfamous mathematician philosopher blaise pascal wapopular whilst popularity pascal
+ha waned principal use teaching programming
+language derived object pascal still use
+basic beginner purpose symbolic instruction codeinvented john kemeny thomas kurtz dartmouth collegebecame widely used language microcomputer first hit
+market many dialect basicproduced early dialect lacked important featurestrong data typing procedure function basic typically
+seen language learning programming prototyping rather
+enterprise development true today since many
+basic compiler offer structured programming advantages
+languages
+visual basic microsofts implementation basicintegrated development environment
+objectivec reflective object oriented programming language
+add smalltalkstyle messaging today used
+primarily mac gnustep two environment basedopenstep standard primary language usednextstep openstep cocoa application framework generic
+objectivec program make use libraryalso compiled system supported gcc includesobjectivec compiler
+c compiled programming language based supportobjectoriented programming one widely used
+programming language currently available often considered
+industrystandard language game developmentalso often used write type computer software
+application wa developed bjarne stroustrup based
+programming language c retains syntax many
+familiar function also add various concept associated
+programming paradigm classes
+c objectoriented programming language developedmicrosoft part net initiative ha procedural
+object oriented syntax based includes aspectseveral programming language notably delphi visual
+basic java particular emphasis simplification less
+symbolic requirement le decorative requirementjava though developed microsoft standardizedecma international standard organization
+java object oriented interpreted programming languagegained popularity past year ability run
+many platform including solaris linux microsoft window mac
+system developed sun microsystems
+lisp family functional sometimes scripted programming
+language often used object pascal object oriented derivative pascal developed
+apple computer today primarily knownlanguage borland delphi also used kylix chromevarious open source object pascal implementationfreepascal
+delphi language name object pascal derivative
+primary language later version borlands delphi
+studio integrated development environment
+perl one first widely used crossplatform interpreted
+language perl owes much syntax semantics cunix shell
+python interpreted dynamically typed objectoriented
+language unique syntax feature likesignificance indentation though strictly speakinginterpreted language usage domain follows java ruby much like python though feature constructs
+closely related found perl lisp also
+basis popular web application framework named rubyrails
+php newer programming language focus web designha clike syntax
+
+software development
+
+software mass noun computer program dataaccompanying documentation software license also consideredessential part software even though dont involveactual coding
+
+creating software involves
+requirement analysis
+specification
+software architecture
+coding
+compilation
+software testing
+documentation
+integration
+maintenance
+

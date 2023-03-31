@@ -1,0 +1,235 @@
+copyright
+
+mitochondrion
+
+ school wikipedia selection related subject general biology
+
+electron micrograph mitochondrion showing mitochondrial matrix
+membranes
+electron micrograph mitochondrion showing mitochondrial matrix
+membranes
+
+cell biology mitochondrion plural mitochondrion greek
+mitos threador khondrion granulemembraneenclosed organelle found eukaryotic cells
+mitochondrion sometimes described cellular power plants
+convert food molecule energy form atp via
+process oxidative phosphorylation typical eukaryotic cell
+contains aboutmitochondria occupy roughly one fifthtotal volume mitochondrion contain dna independentdna located cell nucleus according endosymbiotic theory
+mitochondrion descended freeliving prokaryotes
+
+mitochondrion structure
+
+simplified structure typical mitochondrion
+enlarge
+simplified structure typical mitochondrion
+
+mitochondrion contains inner outer membrane composedphospholipid bilayers protein two membrane howeverdifferent property doublemembraned organization
+aredistinct compartment within mitochondrionouter membrane intermembrane space space outer
+inner membrane inner membrane cristae space formedinfolding inner membrane matrix space withininner membrane mitochondrion range fromtomicrometerssize
+
+outer membrane
+
+outer mitochondrial membrane encloses entire organelle
+ha proteintophospholipid ratio similar eukaryotic plasma
+membrane aboutby weight contains numerous integral proteins
+called porins contain relatively large internal channelnm permeable molecule ofdaltons less
+larger molecule traverse outer membrane active
+transport also contains enzyme involved diverse activities
+elongation fatty acid oxidation epinephrine
+adrenaline degradation tryptophan
+
+inner membrane
+
+inner mitochondrial membrane contains protein four typefunctions
+carry oxidation reaction respiratory
+chain
+atp synthase make atp matrix
+specific transport protein regulate passagemetabolite matrix
+protein import machinery
+
+contains thandifferent polypeptide high
+proteintophospholipid ratio thanby weightprotein forphospholipids additionally inner membranerich unusual phospholipid cardiolipin usually
+characteristic bacterial plasma membrane unlike outer
+membrane inner membrane doe contain porins highly
+impermeable almost ion molecule require special membrane
+transporter enter exit matrix additionmembrane potential across inner membrane
+
+inner mitochondrial membrane compartmentalized numerous
+cristae expand surface area inner mitochondrial
+membrane enhancing ability generate atp typical liver
+mitochondrion example surface area including cristaefive time outer membrane mitochondrion cells
+greater demand atp muscle cell containcristae typical liver mitochondria
+
+mitochondrial matrix
+
+image cristae rat liver mitochondrion
+enlarge
+image cristae rat liver mitochondrion
+
+matrix space enclosed inner membrane matrix
+contains highly concentrated mixture hundred enzymeaddition special mitochondrial ribosome trna several
+copy mitochondrial dna genome enzyme major
+function include oxidation pyruvate fatty acid citric
+acid cycle
+
+mitochondrion posse genetic material machinerymanufacture rna protein see protein synthesisnonchromosomal dna encodes small number mitochondrial peptide 
+human integrated inner mitochondrial membrane
+along protein encoded gene reside host cells
+nucleus
+
+mitochondrial functions
+
+although well known mitochondrion convert organic
+material cellular energy form atp mitochondrion playimportant role many metabolic taskapoptosisprogrammed cell death
+glutamatemediated excitotoxic neuronal injury
+cellular proliferation
+regulation cellular redox state
+heme synthesis
+steroid synthesis
+
+mitochondrial function performed specific typecell example mitochondrion liver cell contain enzymeallow detoxify ammonia waste product protein metabolism
+mutation gene regulating function resultmitochondrial diseases
+
+energy conversion
+
+dominant role mitochondrion production atpreflected large number protein inner membranetask done oxidising major product glycolysis
+pyruvate nadh produced cytosol processcellular respiration also known aerobic respiration dependent
+presence oxygen oxygen limited glycolytic
+product metabolised anaerobic respiration processindependent mitochondrion production atp glucoseapproximatelyfold higher yield aerobic respiration
+compared anaerobic respiration
+
+pyruvate citric acid cycle
+
+pyruvate molecule produced glycolysis actively transported
+across inner mitochondrial membrane matrixoxidized combined coenzyme form acetyl coanadh
+
+acetyl coa primary substrate enter citric acid cycle
+also known tricarboxylic acid tca cycle krebs cycleenzyme citric acid cycle located mitochondrial
+matrix exception succinate dehydrogenase boundinner mitochondrial membrane citric acid cycle oxidisesacetyl coa carbon dioxide process produce reduced
+cofactor three molecule nadh one molecule fadhsource electron electron transport chainmolecule gtp readily converted atp
+
+nadh fadh electron transport chain
+
+redox energy nadh fadh transferred oxygenseveral step via electron transport chain energyrich
+molecule produced within matrix via citric acid cyclealso produced cytoplasm glycolysis reducing equivalents
+cytoplasm imported via malateaspartate shuttle
+system antiporter protein feed electron transport chain
+using glycerol phosphate shuttle protein complex inner
+membranenadh dehydrogenase cytochrome reductase cytochrome oxidase perform transfer incremental release energyused pump proton intermembrane space process
+efficient small percentage electron may prematurely reduce
+oxygen forming toxic free radical superoxide cause
+oxidative damage mitochondrion may contribute decline
+mitochondrial function associated aging process
+
+proton concentration increase intermembrane spacestrong electrochemical gradient established across inner
+membrane proton return matrix atp synthase
+complex potential energy used synthesize atp adp
+inorganic phosphate process called chemiosmosiswa first described peter mitchell awarded thenobel
+prize chemistry work later part thenobel prizechemistry awarded paul boyer john walkerclarification working mechanism atp synthase
+
+heat production
+
+certain condition proton reenter mitochondrial matrix
+without contributing atp synthesis process known proton
+leak mitochondrial uncoupling due facilitated
+diffusion proton matrix mediated proton channel
+called thermogenin result unharnessed potential energyproton electrochemical gradient released heat thermogenin
+found brown adipose tissue brown colour due high levelmitochondrion used generate heat nonshivering
+thermogenesis nonshivering thermogenesis primary mean heat
+generation newborn hibernating mammals
+
+storage calcium ions
+
+concentration free calcium cell regulate arrayreaction important signal transduction cell
+mitochondrion store free calcium process one important event
+homestasis calcium cell release calcium back
+cell interior initiate calcium spike waveevent coordinate process neurotransmitter release nerve
+cell release hormone endocrine cells
+
+origin
+
+mitochondrion contain ribosome dna formeddivision mitochondrion generally acceptedoriginally derived endosymbiotic prokaryote studymitochondrial dna often circular employ variant
+genetic code show ancestor socalled protomitochondrion
+wa member proteobacteria particularpremitochondrion probably related rickettsia althoughexact position ancestor mitochondrion amongalphaproteobacteria remains controversial endosymbiotic
+hypothesis suggests mitochondrion descended specialized
+bacteria probably purple nonsulfur bacteria somehow survived
+endocytosis another specie prokaryote cell type
+became incorporated cytoplasm ability symbiont
+bacteria conduct cellular respiration host cell relied
+glycolysis fermentation would provided considerable
+evolutionary advantage similarly host cell symbiotic bacteria
+capable photosynthesis would also advantage cases
+number environment cell could survive wouldgreatly expanded
+
+relationship developed leastbillion year agomitochondrion still show sign ancient origin
+mitochondrial ribosome bacterial type contrastribosome found elsewhere cell prokaryotehigh proportion coding dna absence repeats
+mitochondrial gene transcribed multigenic transcriptcleaved polyadenylated yield mature mrna unlike nuclear
+cousin mitochondrial gene small generally lacking intronmany chromosome circular conforming bacterial pattern
+
+group unicellular eukaryote lack mitochondrionmicrosporidian metamonads archamoebae rrna treegroup appeared primitive eukaryote suggestingappeared origin mitochondrion knownartifact long branch attractionthey apparently derived
+group retain gene organelle derived mitochondrion mitosomes hydrogenosomes primitively amitochondriate
+eukaryote origin mitochondrion may playedcritical part development eukaryotic cells
+
+replication gene inheritance
+
+mitochondrion replicate dna divide mainly responseenergy need cell word growth divisionlinked cell cycle energy need cell high
+mitochondrion grow divide energy use low mitochondria
+destroyed become inactive cell division mitochondriondistributed daughter cell randomlydivision cytoplasm mitochondrion divide binary fission
+similar bacterial cell division unlike bacteria however
+mitochondrion also fuse mitochondrion sometimes new
+mitochondrion synthesized center rich proteins
+polysomes needed synthesis
+
+mitochondrial gene inherited mechanism nuclear
+gene fertilization egg sperm egg nucleus sperm
+nucleus contribute equally genetic makeup zygote
+nucleus contrast mitochondrion therefore mitochondrial
+dna usually come egg sperm mitochondrion enters
+egg almost always destroyed contributegene embryo paternal sperm mitochondrion markedubiquitin select later destruction inside embryoegg contains relatively mitochondrion mitochondria
+survive divide populate cell adult organism
+mitochondrion therefore case inherited female
+line
+
+maternal inheritance mitochondrial dna seenorganism including animal however mitochondrion species
+sometimes inherited father norm amongst
+certain coniferous plant although pine yew treesuggested occur low level humans
+
+uniparental inheritance mean little opportunitygenetic recombination different lineage mitochondrionreason mitochondrial dna usually thought reproducingbinary fission however several claim recombinationmitochondrial dna controversially human recombination
+doe occur whole mitochondrial dna sequence representssingle haplotype make useful studying evolutionary
+history populations
+
+mitochondrial genome many fewer gene related
+eubacteria thought descended althoughlost altogether many seem transferrednucleus thought relatively common evolutionary
+time organism cryptosporidium actuallymitochondrion lack dna presumably genes
+either lost transferred
+
+uniparental inheritance mitochondrion thought resultintragenomic conflict seen petite mutant mitochondria
+yeast specie possible evolution separate
+male female sex mechanism resolve organelle
+conflict
+
+use population genetic studies
+
+nearabsence genetic recombination mitochondrial dna makeuseful source information scientist involved population
+genetics evolutionary biology mitochondrial dnainherited single unit haplotype relationshipmitochondrial dna different individual representedgene tree pattern gene tree used inferevolutionary history population classic examplehuman evolutionary genetics molecular clock usedprovide recent date mitochondrial eve often interpreted
+strong support recent modern human expansion africa
+another human example sequencing mitochondrial dnaneanderthal bone relatively large evolutionary distancemitochondrial dna sequence neanderthal living humaninterpreted evidence lack interbreedingneanderthal anatomically modern humans
+
+however mitochondrial dna reflects history femalepopulation may give representative picture history
+population whole example dispersal primarily
+undertaken male picked mitochondrial
+study partially overcome use patrilineal
+genetic sequence available mammalnonrecombining region ychromosome provides source
+broadly study also include nuclear dna providecomprehensive evolutionary history population unfortunately
+genetic recombination mean study difficultanalyse
+
+fiction
+
+midiclorians star war universe fictional
+lifeforms inside cell provide force george lucas took
+inspiration endosymbiotic theory
+madeleine lengles novel wind door posit fictional
+farandolae mitochondrion mitochondrioncells
+hideaki senas novel parasite eve video game basedmitochondrion independent organism using animalplant form transportation causing major biological
+disaster decide set free
+

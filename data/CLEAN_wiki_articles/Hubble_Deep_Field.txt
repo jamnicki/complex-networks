@@ -1,0 +1,226 @@
+copyright
+
+hubble deep field
+
+ school wikipedia selection related subject space astronomy
+
+hubble deep field
+enlarge
+hubble deep field
+
+hubble deep field hdf image small regionconstellation ursa major based result seriesobservation hubble space telescope cover area 
+arcsecond across equivalent angular size tennis balldistance ofmetres image assembled fromseparate
+exposure taken space telescope wide field planetary
+cameraover ten consecutive day decemberand december 
+
+
+field small foreground star milky way
+lie within thus almost theobjects imagegalaxy among youngest distant known
+revealing large number young galaxy hdfbecome landmark image study early universesource almostscientific paper since created
+
+three year hdf observation taken regionsouth celestial hemisphere imaged similar way namedhubble deep field south similarity two regions
+strengthened belief universe uniform large scales
+earth occupies typical region universecosmological principle ina deeper image known hubble
+ultra deep field constructed total eleven dayobservation image deepest sensitive astronomical
+image ever made visible wavelengths
+
+conception
+
+dramatic improvement hubble imaging capabilitycorrective optic installed encouraged attempt obtaindeep image distant galaxies
+enlarge
+dramatic improvement hubble imaging capabilitycorrective optic installed encouraged attempt obtaindeep image distant galaxies
+
+one key aim astronomer designed hubble space
+telescope use high optical resolution study distant
+galaxy level detail possible ground
+positioned atmosphere hubble avoids atmospheric airglow
+allowing take sensitive visible ultraviolet light images
+obtained seeinglimited groundbased telescopegood adaptive optic correction becomes available visiblegroundbased telescope may become competitive althoughtelescope mirror suffered spherical aberrationtelescope launched init could still used take images
+distant galaxy previously obtainablelight take billion year reach earth distant
+galaxy see billion year ago thus
+extending scope research increasingly distant galaxies
+allows better understanding evolve
+
+spherical aberration corrected space shuttle
+mission sts inthe excellent imaging capabilitytelescope used study increasingly distant faint galaxies
+medium deep survey used wfpc take deep imagerandom field instrument used scheduled
+observation time dedicated program focusedgalaxy already known groundbased observationstudy revealed substantial differenceproperty galaxy today existed several billion
+year ago
+
+toof hsts observation time designated directors
+discretionary time typically awarded astronomerwish study unexpected transient phenomenon supernovahubble corrective optic shown performing well robert
+williams director space telescope science institute
+decided devote substantial fraction time duringto
+study distant galaxy special institute advisory committee
+recommended wfpc used image typical patch skyhigh galactic latitude using several optical filter working
+group set develop implement project
+
+target selection
+
+hdf field centre image one degree acrossshow unremarkable nature patch sky
+enlarge
+hdf field centre image one degree acrossshow unremarkable nature patch sky
+
+field selected observation needed fulfil several
+criterion high galactic latitude dustobscuring matter plane milky way disc prevents
+observation distant galaxy target field avoid known
+bright source visible light foreground starinfrared ultraviolet xray emission facilitate later studies
+many wavelength object deep field also needed
+region low background infraredcirrusdiffuse wispy infrared emission believed caused warm dust
+grain cool cloud hydrogen gash regions
+
+criterion considerably restricted field potential target
+area decided target hubbles
+continuous viewing zone cvzsthe area skyocculted earth moon hubble orbit working
+group decided concentrate northern cvznorthernhemisphere telescope keck telescopelarge array could conduct followup observations
+
+twenty field satisfying criterion initially
+identified three optimal candidate field selected
+within constellation ursa major radio snapshot observations
+ruled one field contained bright radio
+source final decision two madebasis availability guide star near field hubble
+observation normally require pair nearby startelescope fine guidance sensor lock exposuregiven importance hdf observation working group
+required second set backup guide star fieldeventually selected located right ascension hdeclination
+observations
+
+hdf located hubble northern continuous viewing zoneshown diagram
+enlarge
+hdf located hubble northern continuous viewing zoneshown diagram
+
+field selected observing strategydeveloped important decision determine filterobservation would use wfpc equipped fortyeight filters
+including narrowband filter isolating particular emission lineastrophysical interest broadband filter useful studycolour star galaxy choice filter usedhdf depended thethroughput filter total
+proportion light allows spectral coverage
+available filter bandpasses overlapping little possible
+desirable
+
+end four broadband filter chosen centred wavelengths
+ofnm nearultravioletnm blue lightnm red light
+andnm near infrared quantum efficiency hubbles
+detector quite low atnm noise observationwavelength primarily due ccd noise rather sky background
+thus observation could conducted time high
+background noise would harmed efficiency observationpassbands
+
+image target area chosen filter taken ten
+consecutive day hubble orbited earth 
+time total exposure time wavelength werehours 
+nmhoursnmhoursnm andhoursnm
+divided intoindividual exposure prevent significant damageindividual image cosmic ray cause bright streak appear
+strike ccd detectors
+
+data processing
+
+section hdf aboutarcseconds across four
+wavelength used construct final versionnm top left 
+nm top rightnm bottom left andnm bottom right
+enlarge
+section hdf aboutarcseconds across four
+wavelength used construct final versionnm top left 
+nm top rightnm bottom left andnm bottom right
+
+production final combined image wavelength wacomplex process bright pixel caused cosmic ray impactexposure removed comparing exposure equal length taken one
+identifying pixel affected cosmic
+ray one exposure trail space debrisartificial satellite present original imagecarefully removed
+
+scattered light earth evident quarterdata frame removed taking image affected scattered
+light aligning unaffected image subtractingunaffected image affected one resulting imagesmoothed could subtracted bright frameprocedure removed almost scattered light affected
+images
+
+theindividual image cleaned cosmicray hitcorrected scattered light combined scientists
+involved hdf observation pioneered technique called 
+drizzling pointing telescope varied minutely
+set exposure pixel wfpc ccd chip recorded
+area skyarcseconds diameter changingdirection telescope pointing leexposure resulting image combined using sophisticated
+imageprocessing technique yield final angular resolution better
+value hdf image produced wavelength final
+pixel size ofarcseconds
+
+data processing yielded four monochrome image onewavelength combining full colour image released
+public fairly arbitrary process one image designated
+red green blue three image combined givecolour image wavelength image takencorrespond wavelength red green blue lightcolour final image give approximate representationactual colour galaxy image choice filters
+hdf majority hubble image primarily designed
+maximize scientific utility observation rathercreate colour corresponding human eye would actually
+perceive
+
+content deep field
+
+final image revealed plethora distant faint galaxydistinct galaxy could identified imageirregular spiral galaxy clearly visible although galaxies
+field pixel across hdf thought
+contain fewer ten galactic foreground star farmajority object field distant galaxies
+
+fifty blue pointlike object hdf many seemassociated nearby galaxy together form chainarc likely region intense star formation others
+may distant quasar astronomer initially ruled possibility
+pointlike object white dwarfblue consistent theory white dwarf evolution
+prevalent time however recent work found many
+white dwarf become bluer age lending support ideahdf might contain white dwarf 
+
+scientific results
+
+detail hdf illustrate wide variety galaxy shapes
+size colour found distant universe
+enlarge
+detail hdf illustrate wide variety galaxy shapes
+size colour found distant universe
+
+hdf data provided extremely rich material cosmologistanalyse ofalmostpapers based hdfappeared astronomical literature one fundamental
+finding discovery large number galaxy high
+redshift values
+
+universe expands distant object recede earth
+faster called hubble flow light distant
+galaxy significantly affected doppler shifting reddens
+radiation receive quasar high
+redshift known galaxy redshift greater 
+known hdf image produced hdf however
+contained many galaxy redshift high ascorrespondingdistance aboutbillion light yearsdue redshiftdistant object hdf actually visible hubble
+image detected image hdf taken longer
+wavelength groundbased telescopes
+
+hdf galaxy contained considerably larger proportiondisturbed irregular galaxy local universe galaxy
+collision merger common young universemuch smaller today believed giant elliptical galaxies
+form spiral irregular galaxy collide
+
+wealth galaxy different stage evolution also
+allowed astronomer estimate variation rate star
+formation lifetime universe estimateredshift hdf galaxy somewhat crude astronomer believestar formation occurring maximum ratebillion years
+ago decreased factor aboutsince 
+
+another important result hdf small numberforeground star present year astronomer puzzlingnature socalled dark matter mass seemsundetectable observation implied made aboutofmass universe one theory dark matter might consistmassive astrophysical compact halo objectsmachosfaintmassive object red dwarf planet outer regiongalaxy hdf showed however significant
+number red dwarf outer part galaxy
+
+subsequent observations
+
+hubble deep field south look similar original hdf
+demonstrating cosmological principle
+enlarge
+hubble deep field south look similar original hdf
+demonstrating cosmological principle
+hubble ultra deep field corroborates smallest
+redest galaxy aboutare distantimaged optical telescope
+enlarge
+hubble ultra deep field corroborates smallest
+redest galaxy aboutare distantimaged optical telescope
+
+hdf landmark observational cosmology much still remains
+learned sincethe field observed many
+groundbased telescope well space telescopewavelength radio xray
+
+veryhigh redshift object discovered within hdf usingnumber groundbased telescope particular via james clerk
+maxwell telescope high redshift object meancannot seen visible light generally detected infrared
+submillimetre wavelength survey hdf instead
+
+important spacebased observation included chandra
+xray observatory infrared space observatory iso xray
+observation revealed six source hdf foundcorrespond three elliptical galaxy one spiral galaxy one active
+galactic nucleus one extremely red object thought distant
+galaxy containing large amount dust absorbing blue light
+emission 
+
+iso observation indicated infrared emission fromgalaxies visible
+optical image attributed large quantity dust
+associated intense star formation groundbased radio image taken
+using vla revealed seven radio source hdfcorrespond galaxy visible optical images
+
+saw creation hdf counterpart southern celestial
+hemisphere hdfsouth created using similar observing strategy
+hdfs similar appearance original hdfsupport cosmological principle largest scaleuniverse homogenous
+

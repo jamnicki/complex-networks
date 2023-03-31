@@ -1,0 +1,148 @@
+copyright
+
+absolute zero
+
+ school wikipedia selection related subject general physics
+
+absolute zero refers temperature system thermically
+inert theoretical system neither emits absorbs heat
+energy absolute zero temperature known bekc
+possible cool substance near absolute zeronever actually achieved
+
+absolute zero point particle minimum energy
+determined quantum mechanical effect calledzeropoint energy
+
+international agreement absolute zero defined preciselyk
+kelvin scale thermodynamic absolute temperature
+scale celsius scale absolute zero also
+precisely equivalent tor rankine scale also thermodynamic
+temperature scale andf fahrenheit scale
+
+whilst scientist cannot fully achieve state zero heat energysubstance made great advancement achieving
+temperature ever closer absolute zero matter exhibit odd
+quantum effect inthe nist achieved record cold temperature
+ofnk billionth kelvin inresearchers mit
+eclipsed new record ofpknk
+
+history
+
+establish instrument measure range temperature 
+galileo galilei invented rudimentary water thermometer onefirst discus possibility absolute cold scale
+wa robert boyle hisnew experiment observations
+touching cold stated dispute primum frigidumwell known among naturalist contending earth otherswater others air modern nitreseeming agree
+body nature supremely cold
+participation body obtain quality
+
+limit degree cold
+
+question whether limit degree cold possible
+zero must placed first attackedfrench physicist guillaume amontons inin connectionimprovement air thermometer instrument temperatures
+indicated height column mercury sustained
+certain mass air volume spring course varied
+heat exposed amontons therefore arguedzero thermometer would temperaturespring air reduced nothing scale used
+boilingpoint water marked atand meltingpointice atso zero scale equivalent 
+centigrade scale
+
+remarkably close approximation modern value czero airthermometer improved johann
+heinrich lambert pyrometriewho gave value cobserved temperature might regarded absolute cold
+
+value order absolute zero however
+universally accepted period laplace lavoisierinstance treatise heatarrived value ranging
+fromtobelow freezingpoint water thoughtcase must leastbelow john daltonchemical philosophy gave ten calculation value finally
+adopted natural zero temperature
+
+lord kelvin work
+
+j joule determined mechanical equivalent heat
+lord kelvin approached question entirely different pointview indevised scale absolute temperatureindependent property particular substance based
+solely fundamental law thermodynamics followedprinciple scale constructed zero placed
+atat almost precisely point zeroairthermometer
+
+record temperature near absolute zero
+
+shown law thermodynamics absolute zeronever achieved artificially though possible reach
+temperature arbitrarily close use cryocoolers
+principle ensures machine 
+efficient
+
+low temperature vicinity absolute zero matter
+exhibit many unusual property including superconductivity
+superfluidity boseeinstein condensation order studyphenomenon scientist worked obtain ever lower temperatures
+septembermit announced record cold temperature 
+pk ork boseeinstein condensate sodium
+atom performed wolfgang ketterle colleaguemit
+
+februarythe boomerang nebula temperaturecelsius coldest place known outsidelaboratory nebula islightyears earthconstellation centaurus
+
+novembernuclear spin temperature belowpkreported experiment helsinki universitytechnology low temperature lab however temperature
+one particular degree freedoma quantum property called
+nuclear spinnot overall average thermodynamic temperature
+possible degree freedom
+
+thermodynamics near absolute zero
+
+temperature neark nearly molecular motion ceaseadiabatic process pure substance ideally form perfect
+crystal trightarrowplancks strong form third lawthermodynamics state entropy perfect crystal vanishesabsolute zero however lowest energy state degenerateone microstate cannot true original nernst heat
+theorem make weaker controversial claim entropy
+change isothermal process approach zero
+limt todelta
+implies entropy perfect crystal simply approachconstant value
+
+nernst postulate identifies isotherm coincidentadiabat salthough isotherm adiabats distinct
+two adiabats intersect adiabat intersectisotherm consequently adiabatic process initiated nonzero
+temperature lead zero temperaturecallen 
+
+even stronger assertion impossible procedurereduce temperature system zero finite numberoperationsguggenheim 
+
+perfect crystal one internal lattice structure
+extends uninterrupted direction perfect orderrepresented translational symmetry along three usually
+orthogonal every lattice element structureproper place whether single atom molecular groupingsubstance two stable crystalline formdiamond graphite carbon kind chemical
+degeneracy question remains whether zero entropyteven though perfectly ordered
+
+perfect crystal never occur practice imperfection even
+entire amorphous material simply get frozen low temperatures
+transition stable state occur
+
+using debye model specific heat entropy pure crystal
+proportional twhile enthalpy chemical potentialproportional tguggenheim pthese quantity drop toward
+tlimiting value approach zero slopespecific heat least limiting value definitely zero
+borne experiment belowk even detailed
+einstein model show curious drop specific heat factspecific heat vanish absolute zero crystals
+likewise coefficient thermal expansion maxwell relations
+show various quantity also vanish phenomenonunanticipated
+
+since relation change gibbs free energyenthalpy entropy
+delta gdelta delta 
+
+follows decrease h approach long
+bounded experimentally found chemical
+reaction exothermic release heat directionfound going toward equilbrium even room temperature
+low enough fact gtpusually implies
+hin opposite direction reaction wouldcourse absorb heat
+
+slope temperature derivative h
+converge equal zero twhich ensures h
+nearly considerable range temperatures
+justifying approximate empirical principle thomsenberthelot say equilibrium state system
+proceeds one evolves greatest amount heat ieactual process exothermic one callen 
+
+absolute temperature scales
+
+mentioned absolute thermodynamic temperature conventionally
+measured kelvinscelsiussize degree increasingly rarelyrankine scalefahrenheitsize degree absolute temperatureuniquely determined multiplicative constant specifiessize degree ratio two absolute temperatures
+tt scale transparent definition
+come classical maxwellboltzmann distribution energies
+quantum analog fermidirac statistic particlehalfinteger spin boseeinstein statistic particle integer
+spin give relative number particledecreasing exponential function energy macroscopic
+level definition given term efficiencyreversible heat engine operating hotter colder thermal
+reservoirs
+
+negative temperatures
+
+certain semiisolated system example system noninteracting
+spin magnetic field achieve negative temperature however
+actually colder absolute zero however
+thought hotter energy flow negative
+temperature system system positive temperature upon
+contact
+

@@ -1,0 +1,203 @@
+copyright
+
+thermodynamics
+
+ school wikipedia selection related subject general physics
+
+thermodynamics greek thermos meaning heat dynamics
+meaning power branch physic study effectchange temperature pressure volume physical systemmacroscopic scale analyzing collective motion particles
+using statistic roughly heat mean energy transit dynamics
+relates movement thus essence thermodynamics studymovement energy energy instills movement historically
+thermodynamics developed need increase efficiencyearly steam engines
+typical thermodynamic systemheat move hot boiler cold
+condenser work extracted
+enlarge
+typical thermodynamic systemheat move hot boiler cold
+condenser work extracted
+
+starting point thermodynamic consideration laws
+thermodynamics postulate energy exchangedphysical system heat work also postulate existencequantity named entropy defined systemthermodynamics interaction large ensemble objectstudied categorized central concept systemsurroundings system composed particle whose average motions
+define property turn related one anotherequation state property combined express internal
+energy thermodynamic potential useful determining
+condition equilibrium spontaneous processes
+
+tool thermodynamics describes system respondchange surroundings applied wide varietytopic science engineering engine phase transitions
+chemical reaction transport phenomenon even black holeresult thermodynamics essential field physicchemistry chemical engineering cell biology biomedical
+engineering material science name
+history
+
+sadi carnotthe father thermodynamics
+enlarge
+sadi carnotthe father thermodynamics
+
+short history thermodynamics begin german scientist otto
+von guericke inbuilt designed world first vacuum
+pump created world first ever vacuum known magdeburg
+hemisphere driven make vacuum order disprove
+aristotle longheld supposition nature abhors vacuum
+shortly thereafter irish physicist chemist robert boylelearned guerickes design inin coordination english
+scientist robert hooke built air pump using pump boylehooke noticed pressuretemperaturevolume correlation time
+boyle law formulated state pressure volumeinversely proportional inbased conceptassociate boyle named denis papin built bone digesterclosed vessel tightly fitting lid confined steamhigh pressure generated
+
+later design implemented steam release valve kept machine
+exploding watching valve rhythmically movepapin conceived idea piston cylinder enginehowever follow design nevertheless 
+based papins design engineer thomas savery built first
+engine although early engine crude inefficientattracted attention leading scientist time onescientist sadi carnot father thermodynamics 
+published reflection motive power fire discourseheat power engine efficiency paper outlined basic
+energetic relation carnot engine carnot cyclemotive power mark start thermodynamics modern
+science
+
+term thermodynamics coined james joule designate
+science relation heat power 
+thermodynamics functional term used william thomsons
+paper account carnot theory motive power heatfirst thermodynamic textbook written inby william rankinecivil mechanical engineering professor universityglasgow
+
+classical thermodynamics
+
+classical thermodynamics original early variationthermodynamics concerned thermodynamic state propertyenergy work heat law thermodynamicslacking atomic interpretation precursory form classical
+thermodynamics derives physicist robert boylespostulate
+pressure given quantity gas varies inverselyvolume constant temperature equation form pvkconstant semblance thermoscience began develop
+construction first successful atmospheric steam engines
+england thomas savery inand thomas newcomen inthe
+first second law thermodynamics emerged simultaneouslyprimarily work william rankine rudolf clausius
+william thomson lord kelvin
+
+statistical thermodynamics
+
+development atomic molecular theory late century thermodynamics given molecular interpretationfield called statistical thermodynamics thoughtbridge macroscopic microscopic property systems
+essentially statistical thermodynamics approachthermodynamics situated upon statistical mechanic focusderivation macroscopic result first principleopposed historical predecessor phenomenological thermodynamics
+give scientific description phenomenon avoidancemicroscopic detail statistical approach derivemacroscopic property temperature volume pressure energy entropy
+etc property moving constituent particleinteraction including quantum phenomenon found
+successful thus commonly used
+
+chemical thermodynamics
+
+chemical thermodynamics study interrelation heatchemical reaction physical change state withinconfines law thermodynamics yearsthe
+american mathematical physicist willard gibbs published seriesthree paper famous equilibrium heterogeneous
+substance showed thermodynamic process couldgraphically analyzed studying energy entropy volume
+temperature pressure thermodynamic system manner
+determine process would occur spontaneously early
+th century chemist gilbert lewis merle randall eguggenheim began apply mathematical method gibbsanalysis chemical processes
+
+thermodynamic systems
+
+enlarge
+
+important concept thermodynamics system systemregion universe study system separatedremainder universe boundary may imaginaryconvention delimits finite volume possible
+exchange work heat matter systemsurroundings take place across boundary five dominant
+class systems
+isolated systemsmatter energy may cross boundary
+adiabatic systemsheat may cross boundary
+diathermic systemsheat may cross boundary
+closed systemsmatter may cross boundary
+open systemsheat work matter may cross boundary
+
+isolated system time internal differencesystem tend even pressure temperature tend equalize
+density difference system equalizing processes
+gone practically completion considered statethermodynamic equilibrium
+
+thermodynamic equilibrium system property definition
+unchanging time system equilibrium much simpler easier
+understand system equilibrium oftenanalyzing thermodynamic process assumedintermediate state process equilibrium also
+considerably simplify situation thermodynamic processdevelop slowly allow intermediate stepequilibrium state said reversible processes
+
+thermodynamic parameters
+
+central concept thermodynamics energy abilitywork stipulated first law total energy system
+surroundings conserved may transferred bodyheating compression addition matter extracted body
+either cooling expansion extraction matter comparison
+mechanic energy transfer result force causes
+displacement product two amount energy
+transferred similar way thermodynamic system thoughttransferring energy result generalized force causinggeneralized displacement product two amount
+energy transferred thermodynamic forcedisplacement pairknown conjugate variable common conjugate thermodynamic
+variable pressurevolume mechanical parameters
+temperatureentropy thermal parameter chemical
+potentialparticle number material parameters
+
+thermodynamic instruments
+
+two type thermodynamic instrument meterreservoir thermodynamic meter device measureparameter thermodynamic system case thermodynamic
+parameter actually defined term idealized measuring
+instrument example zeroth law state two bodythermal equilibrium third body also thermal
+equilibrium principle noted james maxwell
+inasserts possible measure temperatureidealized thermometer sample ideal gas constant pressure
+ideal gas law pvnrt volume sample used
+indicator temperature manner defines temperature
+although pressure defined mechanically pressuremeasuring device
+called barometer may also constructed sample ideal
+gas held constant temperature calorimeter deviceused measure define internal energy system
+
+thermodynamic reservoir system largeappreciably alter state parameter brought contact
+test system used impose particular valuestate parameter upon system example pressure reservoirsystem particular pressure imposes pressure upontest system mechanically connected earths
+atmosphere often used pressure reservoir
+
+important two type instrument distinctmeter doe perform task accurately behaves likereservoir state variable trying measureexample thermometer act temperature reservoir would
+alter temperature system measured reading
+would incorrect ideal meter effect state variables
+system measuring
+
+thermodynamic states
+
+system equilibrium given set conditionsaid definite state state systemdescribed number intensive variable extensive variables
+property system described equation state
+specifies relationship variable state maythought instantaneous quantitative description system
+set number variable held constant
+
+thermodynamic processes
+
+thermodynamic process may defined energetic evolutionthermodynamic system proceeding initial state final state
+typically thermodynamic process distinguishedprocess energetic character according parametertemperature pressure volume etc held fixed furthermoreuseful group process pair variable
+held constant one member conjugate pair six common
+thermodynamic process shownisobaric process occurs constant pressure
+isochoric process isometricisovolumetric process occursconstant volume
+isothermal process occurs constant temperature
+isentropic process occurs constant entropy
+isenthalpic process occurs constant enthalpy
+adiabatic process occurs without loss gain heat
+
+law thermodynamics
+
+thermodynamics four law general validitydepend detail interactionsystem studied hence applied systemone know nothing balance energy matter
+transfer example include einstein prediction spontaneous
+emission around turn century current researchthermodynamics black holes
+
+four lawzeroth law thermodynamics stating thermodynamic
+equilibrium equivalence relation
+
+two thermodynamic system separately thermal
+equilibrium third also thermal
+equilibrium
+first law thermodynamics conservation energy
+
+change internal energy closed
+thermodynamic system equal sum amountheat energy supplied system work donesystem
+
+second law thermodynamics entropy
+
+total entropy isolated thermodynamic system
+tends increase time approaching maximum value
+
+third law thermodynamics absolute zero temperature
+
+system asymptotically approach absolute zerotemperature process virtually cease entropy
+system asymptotically approach minimum value
+also stated entropy perfectly crystalline
+body absolute zero temperature zero
+see also boseeinstein condensate negative
+temperature
+
+thermodynamic potentials
+
+derived energy balance equation thermodynamic
+system exist energetic quantity called thermodynamic
+potential quantitative measure stored energysystem four well known potentialinternal energyu
+helmholtz free energy auts
+enthalpyhupv
+gibbs free energygupvts
+
+potential used measure energy change system evolve
+initial state final state potential used dependsconstraint system constant temperaturepressure internal energy internal energy system
+enthalpy internal energy system plus energy related
+pressurevolume work helmholtz gibbs free energyenergy available system useful work temperature
+volume pressure temperature fixed respectively
+

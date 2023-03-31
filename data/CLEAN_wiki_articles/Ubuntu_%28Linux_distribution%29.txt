@@ -1,0 +1,397 @@
+copyright
+
+ubuntu linux distribution
+
+ school wikipedia selection related subject software
+
+caption ubuntu
+
+ubuntufeisty fawn running gnome
+websitehttpwwwubuntucom
+company
+developercanonical ltd ubuntu foundation
+familylinux
+source modelfree open source software
+latest stable releasefeisty fawnapril
+latest unstable releasegutsy gibbonoctober
+available languagesmultilingual
+update methodapt synaptic
+package managerdpkg
+supported platformsi amd powerpc playstationultrasparc
+kernel typemonolithic kernel linux
+default user interfacegnome
+working statecurrent
+
+ubuntuipa pronunciation ubuntu widely used linux
+distribution predominantly targeted personal computer baseddebian gnulinux ubuntu concentrate usability regular releases
+ease installation freedom legal restriction ubuntusponsored canonical ltd private company founded south african
+entrepreneur mark shuttleworth
+
+name distribution come zulu xhosa conceptubuntu roughly defined belief universal bond
+sharing connects humanity ubuntus sloganlinuxhuman encapsulates one main goalsmaking linuxavailable easy use
+
+recent version ubuntufeisty fawn releasedaprilversiongutsy gibbon scheduled releaseoctober
+
+history development
+
+originally referred nonameyetcom ubuntus first releaseoctoberversionfollowing ymm standard begantemporary fork debian gnulinux aim drawingdebians code regularly order allow new version ubuntu
+released every six month step six month gnome
+release cycle contrast generalpurpose fork debian
+xandros linspire libranet canonical remains closedebians philosophy ubuntu predominantly free software
+rather making inclusion proprietary application partbusiness model
+
+ubuntu debians advanced packaging tool manage installed
+package ubuntu package generally based package debians
+unstable repository however always compatibleseveral ubuntu developer also maintainer packages
+within debians repository ubuntu change contributed back
+debian made rather announced release
+time ian murdock founder debian criticised ubuntu april
+incompatibility package debian
+sarge saying ubuntu diverged far remain compatible
+
+bug ubuntu tracked launchpad web interfaceintegrates bazaar version control system similar waysourceforges integration cvs
+
+ubuntu currently funded mark shuttleworth canonical ltd
+julycanonical announced creation ubuntu
+foundation provided initial funding millionpurpose foundation ensure support developmentfuture version ubuntu ofthe foundation remains
+dormant shuttleworth describes foundation emergency fund
+canonicals involvement end
+
+maydell announced would sell desktop laptopubuntu preinstalled also stated customer would ablebuy support ubuntu dell support coming canonical
+
+features
+
+usability
+
+ubuntu gnome default desktop environment intendedprovide free simple intuitive interface whilst offering full
+range desktop application including openofficeorg mozilla firefox
+gimp aim avoid overlap default feature set rather
+providing many different variant similar packages
+
+initial ubuntu installation user greeted default
+desktop desktop icon orangebrown user interface
+unusual operating system nearly others use bluedefault colour application located application menu
+desktop launcher menu topleft corner open windowviewed taskbar along bottom screen ubuntuavailable overlanguages also allows user submit
+additional translation using rosetta translation tool
+
+ubuntus focus usability includes widespread use sudo
+tool allows user carry administrative task without
+initiating potentially unsafe superuser session
+
+distribution
+
+ubuntu ship iso image fit single alternatively
+case older version dapper drakeltsreleased feisty fawnmailed free anyone requesting via
+canonicals shipit service intended reduce amounttime take download ubuntu possibility losing partinstallation software andor aid usercomfortableable burn iso image many linux distributions
+necessitate downloading multiple iso image hourinstallation process ubuntu one distributioninstalled quickly single additionallyubuntu version sincecan downloaded free
+
+since versionlts ubuntus disc served live cdinstall disc disc boot fully featured desktop
+allowing user see whether hardware compatibleexperiment application available also allows user
+install ubuntu hard disk using ubiquity applicationpreserve document created live desktop alternate install
+disc using textmode debianinstaller also available aimed
+towards lower system specification towards administrators
+installing ubuntu many system complex disk partitioning
+
+live also contains collection free open source
+application including mozilla firefox mozilla thunderbird abiword
+blender clamav prepared collaboration opencd project
+installed window running cddrive
+
+two type release one desktop laptop computers
+one server desktop laptop version availablex computer server edition availableplatform addition sparc doe ship live using
+textmode installer exclusively
+
+accessibility
+
+ubuntu emphasizes accessibility internationalisation reachmany people possible since versionutf default
+character encoding highvisibility theme screenreading software
+onscreen keyboard come ubuntu
+
+canonicals rosetta tool part launchpad webbased
+application allows ubuntu user contribute translationubuntu software straightforward way
+
+ease installation
+
+ubuntu installed using live livedistro user may boot
+computer instead hard diskready install launch installer guideprocess
+
+detail installation process found main ubuntu
+site easy ubuntu linux
+
+installation ubuntu also offer automatic updating feature
+user permission system find retrieve installconfigure software updates
+
+community
+
+ubuntu place particular emphasis community involvementdevelopment process
+
+ubuntu number official web forum discussionoperating system encouraged canonical host number mailing
+list project developer mailing list ubuntus
+developer conference remain open user ubuntus regular
+development conference open general public
+
+user encouraged make use fridge community weblog
+intended keep user informed ubunturelated news
+
+human user interface theme ubuntu characterised shadebrown orange art intended mimic african tribal imagery
+illustration human global community feature prominently
+ubuntu promotional artwork
+
+package classification support
+
+browsing ubuntu core package synaptic
+browsing ubuntu core package synaptic
+
+ubuntu divide software four section called componentreflect difference licensing level support availablecomponent main restricted universe multiverse
+
+main universe contain software meet ubuntu license
+requirement correspond roughly debian free software
+guideline main may also contain binary firmware selected fonts
+used supported software cannot modified without permission
+case redistribution unencumbered
+
+nonfree device driver remain restricted componentsupport present importance limited due lack
+limited access source code
+
+intended main restricted contain software neededgeneraluse desktop operating system unsupported programplaced universe free multiverse nonfree multiverse
+contains software package may infringe international
+patent copyright law example include softwareenables playback patented medium format due questionable
+legal status unofficial dvddecoding part world
+libdvdcss removed ubuntus official repository still
+downloaded videolan project website encoding decoding
+library many proprietary medium format window mediumalso unavailable default
+
+ubuntu backports officially recognized project backport newer
+version certain software available unstable
+version ubuntu repository comprehensive mostly
+consists userrequested package approved meet
+quality guidelines
+
+unofficial utility easyubuntu automatix aim automate
+installation configuration software officially
+packaged ubuntu legal philosophical reasonrecommended ubuntu development team accusedbreaking updates
+
+ubuntu certification system thirdparty proprietary software
+canonical manage special repository certified proprietary
+package named commercial includes software canonicalobtained special permission distribute writingrepository includes opera web browser realplayer media
+player
+
+releases
+
+restricted driver manager feisty fawn
+restricted driver manager feisty fawn
+
+ubuntu release alliterative code name version number
+based year month release example aprilsawrelease offeisty fawn canonical provide support security
+update ubuntu version formonths releasethree current version ubuntudapper lts long term support
+edgy eft andfeisty fawn
+
+list releases
+
+version release date code name sub version supported notes
+octoberwarty warthog sounder aprilinitial
+release support x powerpc shipit
+aprilhoary hedgehog array octoberinclusionupdatemanagerupgradenotifier kickstart compatibility improved
+laptop support
+octoberbreezy badger colony aprilgraphical boot
+process progress bar usplash oem installer support launchpad
+tracking gcc 
+ltsjunedapper drake flight junedesktops livecd
+installer one disc ubiquity installer first longterm support
+release
+juneservers
+octoberedgy eft knot aprilautomated problem
+report upstart
+aprilfeisty fawn herd octobermigration assistant
+kvm easy codecrestricted driver installation desktop effect wpa
+support powerpc longer officially supported
+planned foroctobergutsy gibbon tribe april 
+planning progress
+legend
+longer supported still supported current prerelease version planned
+
+change releases
+
+first releaseintroduced update manager improved
+laptop capabilitieswas first release allow bugreported via launchpad also intoduced graphical progress bar
+bootup third releaselts first includelive installer disc four month later 
+introduced automatic problem report new startup manager called
+upstart latest releaseincludes wireless wpa support
+easier installation restricted codecs optional desktop effects
+wobble moving window installation wizard
+detect window account transfer dataalso kvm virtualisation support plannedreleaseinclude graphical desktop effect unattended installationclicknrun options
+
+long term support
+
+ubuntu support periods
+ubuntu support periods
+
+releaselts codenamed dapper drake first long term
+support release ubuntu canonical intends support lts releases
+update longer ubuntu release package updateplanned paid technical support available three yeardesktop five year server
+
+ubuntults initially included gnomemozilla firefox 
+openofficeorgxorggccand versionoflinux kernel first maintenance release versionappeared
+onaugustand still distributed alongside recent
+releases
+
+versionwas first distributed single compact disc
+served live install disc disc bootfullfeatured desktop allowing user see whether hardware
+compatible experiment application availableinstall ubuntu hard disk using ubiquity graphical installer
+installation process preserve document created live
+desktop alternate install disc using textmode debianinstaller
+available download aimed people lower system
+specification administrator installing many systemcomplex disk partitioning including use lvm raid
+
+longer support cycle shipit program continued ship
+dapper rather switching newer edgy eft however since 
+aprilfeisty fawn available ordering shipit
+website
+
+next lts release expected released ineither
+gutsyor gutsy 
+
+edgy eft
+
+following ubuntu release versionknown edgy eft
+debuted new feature new system init daemon replacement
+called upstart well improvement memory usageapplication like evolution nautilus led increasespeed system boot application launch compared version
+major application release include gnomemozilla
+firefoxopenofficeorgxorg servergccand
+versionof linux kernel
+
+like previous release edgy allows direct upgradeprevious version upgrading versionis performed
+automatically like normal package upgrade requiring special switch
+update manager method distupgrade featureaptget recommended user reported serious troubleprocess
+
+development
+
+next stable release ubuntucodenamed gutsy gibbon
+currently release scheduled foroctobergutsyplanned also include version containing softwaremodified redistributed free software conjunctiongnewsense
+
+system requirements
+
+current ubuntu releaserequiresmegabytes raminstalled hard disk requires least three gigabyteharddisk space installed usual desktop installationserver installation requires ram hard disk space
+
+known problems
+
+upgrading ubuntufrom previous version known cause
+boot process fail main symptom partial boot followed
+command prompt showing several process failing due unknown
+stanza critical file necessary booting ubuntu contains typo
+ha caused problem currently best way solveproblem reformat hard drive partition containing ubuntu
+complete reinstall ubuntu live supportsolving problem may found ubuntu team wiki
+
+variants
+
+kubuntu 
+kubuntu 
+xubuntu 
+xubuntu 
+
+variant ubuntu divided two broad categories
+subset distribution created within ubuntucustom installer live highlight certain aspectsoftware within distribution variously referredsubproject flavour analogous custom
+distribution debian community
+derivative ubuntu created individual grouporganization working outside ubuntu project usingtracking ubuntu software project technically forkubuntu
+
+officialinternal variants
+
+several official variant ubuntu available releases
+simultaneous ubuntus package drawnrepositorykubuntu kde instead gnome default desktop
+environment
+edubuntu designed school environment equally
+suitable kid use home
+xubuntu xfce default desktop environmentdesigned powerful computers
+ubuntu server edition provides server applications
+
+kubuntu ubuntu edubuntu ordered shipit
+service
+
+unofficial derivatives
+
+derivates include unofficial variant usually use alternate
+windowing systems
+elbuntu enlightenment window manager
+fluxbuntu fluxbox window manager intended use
+machine slow run full desktop environment well
+linux clinic aim create medical friendly ubuntu
+distribution
+uberyl ubuntu based distribution beryl automatixdefault
+ubuntu lite share similar goal intended use machineslow run full desktop environmentbut icewm instead
+ubuntu studio release geared towards multimedia productionus gnome desktop environment
+nubuntu fluxbox lightweight aim appealexperienced linux user particularly area network
+security
+
+specific derivatives
+
+mark shuttleworth also endorsed creation ubuntu
+distribution using free software foundationapproved free
+software release planned coincide gutsy gibbonproject similar goal gnewsense released november 
+gnewsense official version ubuntu
+linuxmce linux medium centre edition alternativemicrosofts window medium centre based ubuntu
+scibuntu aim make scientific program accessible
+
+wa widely rumoured google would distributing ubuntu
+derivative called goobuntu google confirmed createdmodified version ubuntu insisted plandistribute outside company
+
+xubuntu confused xubuntu pcxboxenabled
+version ubuntu gnulinux distribution xubuntu standalone
+independent distribution install process bootloaderkernel kernel modulesare customized xbox
+
+support
+
+ubuntu website offer commercial community support
+community support free commercial requires payments
+
+community support available form forum irc channels
+blog documentation
+
+ubuntus documentation list extensive guide branchubuntu ubuntu server version kubuntu xubuntualso extensive documentation help installation amd
+powerpc sparc hppa machine extract official
+ubuntu book also included documentation available htmlpdf form
+
+community documentation alternative official
+documentation community documentation available many
+language limited hebrew german french russian
+italian korean chinese community documentation availabletopic installation maintenance hardware applications
+switching operating system drivers
+
+version supported formonths release long term support
+lts edition supported four six years
+
+community
+
+ubuntuwomen womenoriented project ubuntu sponsoredcanonical provide platform encouragement womancontribute free open source software
+
+started januarythe goal ubuntuwomen supplementinspire woman aware technical aspect ubuntu
+world woman communicate openly ask questionvolunteer mentor getting involved project one gets
+opportunity create new floss software
+
+participation ubuntuwomen open men woman using
+ubuntu
+
+eachoneteachone mentoring program woman interactexpert volunteer specific technical documentation translation
+field provides necessary information supportgrow ubuntu world
+
+response
+
+statistic google trend suggest since lategooglereceiving increasingly search ubuntupopular linux distribution ubuntu page distrowatch hafrequently accessed comprehensive list linux
+distribution year ubuntu awarded reader award
+best linux distribution thelinuxworld conference expo
+london favourably reviewed online print
+publication debconfin maymark shuttleworth statedaboutmillion breezy distributed ubuntus
+shipit program many reviewer ubuntu point main partubuntus success community ubuntu voted distributionlinuxquestionsorg
+
+french parliament decided switch ubuntu june 
+
+ubuntu canonical received criticism free
+software community decision include larger numberproprietary driver default installation versionand
+result decided make driver optional ubuntualso received criticism debian community citing ubuntu
+developer forked significantly enough cause break
+debian ubuntu developers
+retrieved 
+httpenwikipediaorgwikiubuntulinuxdistribution
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

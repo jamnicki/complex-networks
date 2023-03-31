@@ -1,0 +1,673 @@
+copyright
+
+hubble space telescope
+
+ school wikipedia selection related subject space transport
+
+nasaesa hubble space telescope
+hubble space telescope space shuttle discoverysecond servicing mission sts
+organization nasaesa
+wavelength regime optical ultraviolet nearinfrared
+type orbit elliptical
+orbit heightkm
+orbit periodmin
+orbit velocityms
+acceleration due gravityms
+launch date april
+deorbit date around 
+nssdc b
+masskglb
+website httpwwwnasagovhubble httphubblenasagov
+httphubblesiteorg httpwwwspacetelescopeorg
+physical characteristics
+telescope style ritcheychretien reflector
+diametermin
+collecting area approxmft
+effective focal lengthmft
+instruments
+nicmos infrared cameraspectrometer
+ac optical survey camera
+wfpc wide field optical camera
+stis optical spectrometercamera failed
+fgs three fine guidance sensors
+
+hubble space telescope hst telescope orbit aroundearth named astronomer edwin hubble discoverygalaxy outside milky way creation hubble lawcalculates rate universe expanding position
+outside earth atmosphere allows take sharp optical images
+faint object since launch init become one
+important instrument history astronomyresponsible many groundbreaking observation helped
+astronomer achieve better understanding many fundamental problems
+astrophysics hubble ultra deep field deepestsensitive astronomical optical image ever taken
+
+original conception inuntil launch projectbuild space telescope beset delay budget problems
+immediately launch found main mirror
+suffered spherical aberration severely compromisingtelescope capability however servicing mission 
+telescope restored planned quality became vital
+research tool well public relation boon astronomy hst
+part nasa great observatory series compton gamma
+ray observatory chandra xray observatory spitzer space
+telescope hubble collaboration nasa european
+space agency
+
+future hubble uncertain stabilising gyroscopefailing todayits redundancy exhaustedanother failure ability point compromised must
+replaced manned service mission addition without reboost
+increase diameter orbit drag cause reenter
+earth atmosphere sometime afterfollowing columbia
+space shuttle disaster nasa decided repair missionastronaut would unreasonably dangerous organization later
+reconsidered position octobernasa
+administrator mike griffin gave green light final hubble
+servicing mission flown discovery earlier may 
+repair hubble allow telescope functionleastwhen successor launched
+
+hubble successor telescope james webb space telescope jwstdue launched inand far superior hubble many
+astronomical research program however jwst observeinfrared replace hubble ability observevisible ultraviolet part spectrum jwst projectinternational collaboration nasa esa canadian space
+agency
+
+conception design aims
+
+proposal precursors
+
+lyman spitzer father space telescope
+enlarge
+lyman spitzer father space telescope
+
+history hubble space telescope traced back farastronomer lyman spitzer wrote paper entitled astronomical
+advantage extraterrestrial observatory discussedtwo main advantage spacebased observatory wouldgroundbased telescope first angular resolution smallest
+separation object clearly distinguished wouldlimited diffraction rather turbulenceatmosphere cause star twinkle known astronomerseeing time groundbased telescope limitedresolution ofarcseconds compared theoretical
+diffractionlimited resolution aboutarcsec telescopemirrorm diameter second major advantage wouldspacebased telescope could observe infrared ultraviolet light
+strongly absorbed atmosphere
+
+spitzer devoted much career pushing space telescopedeveloped ina report national academy sciences
+recommended development space telescope part space
+program inspitzer appointed head committee given
+task defining scientific objective large space
+telescope
+
+spacebased astronomy begun small scale following world
+war scientist made use development rocket technology
+taken place first ultraviolet spectrum sunobtained inan orbiting solar telescope launched inby
+uk part ariel space program andsaw national
+aeronautics space administration nasa launch first
+orbiting astronomical observatory oao mission oaos battery failed
+three day terminating mission followed oao
+carried ultraviolet observation star galaxylaunch inuntilwell beyond original planned
+lifetime one year
+
+oao mission demonstrated important role spacebased
+observation could play astronomy andsaw developmentnasa firm plan spacebased reflecting telescope mirror
+diameter known provisionally large orbiting telescopelarge space telescope lst launch slated forthese plans
+emphasised need manned maintenance mission telescopeensure costly program lengthy working lifeconcurrent development plan reusable space shuttle
+indicated technology allow soon become
+available
+
+quest funding
+
+continuing success oao program encouraged increasingly
+strong consensus within astronomical community lstmajor goal innasa established two committee one plan
+engineering side space telescope projectdetermine science goal missionestablished next hurdle nasa obtain fundinginstrument would far costly earthbased
+telescope congress questioned many aspect proposed
+budget telescope forced cut budget planning
+stage time consisted detailed studypotential instrument hardware telescope inpublic
+spending cut instigated gerald ford led congress cuttingfunding telescope project
+
+response nationwide lobbying effort coordinated
+among astronomer many astronomer met congressman senatorperson large scale letterwriting campaign organisednational academy science published report emphasising need
+space telescope eventually senate agreed budget
+half originally refused congress
+
+funding issue led something reduction scaleproject proposed mirror diameter reduced fromm tom
+cut cost allow compact effective
+configuration telescope hardware proposed precursorm
+space telescope test system used main satellite
+wa dropped budgetary concern also prompted collaborationeuropean space agency esa agreed provide funding supply
+instrument telescope well solar cells
+would power return european astronomerguaranteed leastof observing time telescope congress
+eventually approved funding forand design
+lst began earnest aiming launch date ofduring
+early telescope named edwin hubble made
+one greatest scientific breakthrough centurydiscovered universe expanding
+
+construction engineering
+
+polishing hubble primary mirror begin perkinelmer
+corporation danbury connecticut maythe engineer pictureddr martin yellin optical engineer working perkinelmerproject
+enlarge
+polishing hubble primary mirror begin perkinelmer
+corporation danbury connecticut maythe engineer pictureddr martin yellin optical engineer working perkinelmerproject
+
+space telescope project given goahead workprogram divided many institution marshall space
+flight centre msfc given responsibility design
+development construction telescope goddard space
+flight centre given overall control scientific instruments
+ground control centre mission marshall commissioned optics
+company perkinelmer design build optical telescope assembly
+ota fine guidance sensor space telescope lockheedcommissioned construct spacecraft telescope would
+housed
+
+optical telescope assembly ota
+
+mirror optical system telescope crucial
+part designed exacting specification telescopes
+typically mirror polished accuracy tenthwavelength visible light space telescope waused observation ranging ultraviolet near infraredten time better resolution best previous telescopemirror needed polished accuracy ofof wavelength
+visible light aboutnanometres
+
+perkinelmer intended use extremely sophisticated
+computercontrolled polishing machine grind mirrorrequired shape case cuttingedge technology randifficulty kodak commissioned construct backup mirror
+using traditional mirrorpolishing technique kodak mirrorpermanent display smithsonian institution constructionperkinelmer mirror began inusing ultralow expansion glass
+keep mirror weight minimum consisted inchthick top
+bottom plate sandwiching honeycomb lattice
+
+mirror polishing began inand continued maynasa
+report time questioned perkinelmers managerial structurepolishing began slip behind schedule budget save
+money nasa halted work backup mirror put launch date
+telescope back octoberthe mirror completedend ofwith addition reflective coating aluminium
+nm thick protective coating magnesium fluoridenm thick
+increased mirror reflectivity ultraviolet light
+
+however doubt continued expressed perkinelmers
+competence project importance budgettimescale producing rest ota continued inflateresponse schedule described unsettled changing daily
+nasa postponed launch date telescope april 
+perkinelmers schedule continued slip rate one month
+per quarter time delay reached one day day work
+nasa forced postpone launch date first marchseptemberby time total project budget risenu billion
+
+spacecraft systems
+
+early stage hubble construction 
+enlarge
+early stage hubble construction 
+
+spacecraft telescope instrument housed
+wa another major engineering challenge would adequately
+withstand frequent passage direct sunlight darknessearth shadow would generate major change temperaturestable enough allow extremely accurate pointingtelescope would required shroud multilayered insulation
+keep temperature within telescope stable surroundlight aluminium shell telescope instrument sit
+within shell graphiteepoxy frame keep working parttelescope firmly aligned
+
+construction spacecraft telescopeinstrument would housed proceeded somewhat smoothlyconstruction ota lockheed still experienced budgetschedule slippage summer ofconstructionspacecraft wasover budget three month behind schedulemsfc report said lockheed tended rely nasa direction rather
+take initiative construction
+
+ground support
+
+inthe space telescope science institute stsci established
+something power struggle nasa scientific
+community large stsci operated associationuniversity research astronomy aura physically located
+homewood campus john hopkins university baltimoreone theus university seven international affiliates
+comprise aura consortium
+
+stsci responsible scientific operation telescopedelivery data product astronomer function nasawanted keep inhouse scientist keen see based
+academic establishment engineering support provided nasa
+contractor personnel goddard space flight centregreenbelt marylandmiles south stsci hubble operationmonitoredhours per day four team flight controller make
+hubble flight operation team
+
+space telescope european coordinating facility establishedgarching bei mnchen near munich provide similar support
+primarily european astronomers
+
+challenger disaster
+
+earlythe planned launch date october year looked
+feasible challenger disaster brought space programhalt grounding space shuttle fleet forcing launchhubble postponed several year telescope partkept clean room launch could rescheduled costly
+situation pushed overall cost project still higher
+
+eventually following resumption shuttle flight inthe
+launch telescope scheduled forin preparationfinal launch dust accumulated mirror sincecompletion removed jet nitrogen systems
+tested extensively ensure fully functional finally
+onaprilshuttle mission sts saw discovery launchtelescope successfully planned orbit
+
+original total cost estimate aboutmillion dollartelescope cost billion construct hubbles
+cumulative cost day estimated several times
+higher still expenditure estimated betweenand 
+billion usd europe financial contribution atmillion euros
+estimate 
+
+instruments
+
+shuttle mission sts lift carrying hubble orbit
+enlarge
+shuttle mission sts lift carrying hubble orbit
+
+launched hst carried five scientific instrument wide
+field planetary camera wfpc goddard high resolution
+spectrograph ghrs high speed photometer hsp faint object camera
+foc faint object spectrograph wfpc wahighresolution imaging device primarily intended optical
+observation built nasa jet propulsion laboratoryincorporated set offilters isolating spectral line particular
+astrophysical interest instrument contained four ccd chip three
+wide field chip fourth planetary
+camera pc took image longer effective focal length
+wf chip giving greater magnification
+
+ghrs spectrograph designed operate ultravioletwa built goddard space flight centre conjunction ball
+aerospace could achieve spectral resolution ofalso
+optimised ultraviolet observation foc foalso capable highest spatial resolutioninstrument hubble rather ccds three instrument used
+photoncounting digicons detector foc constructedesa martin marietta corporation built fos
+
+final instrument hsp designed built university
+wisconsinmadison optimised visible ultraviolet
+light observation variable star astronomical objects
+varying brightness could take tomeasurements per
+second photometric accuracy aboutor better
+
+hsts guidance system also used scientific instrumentthree fine guidance sensor fgs primarily used keeptelescope accurately pointed observation alsoused carry extremely accurate astrometry measurement accurate
+withinarcseconds achieved
+
+flawed mirror
+
+within week launch telescope image returned showed
+wa serious problem optical system althoughfirst image appeared sharper groundbased imagetelescope failed achieve final sharp focus best image
+quality obtained drastically lower expected image point
+source spread radius one arcsecond insteadpoint spread function concentrated within circlearcsec
+diameter specified design criteria
+
+analysis flawed image showed cause problemprimary mirror ground wrong shape althoughwa probably accurately figured mirror ever madevariation prescribed curve thanofwavelength light flat edge mirrorbarelymicrometres required shape difference
+wa catastrophic introducing severe spherical aberration flawlight reflecting edge mirror focus different
+point light reflecting centre aberration meant
+image space telescope marginally betterbest image obtainable ground
+
+origin problem
+
+extract wfpc image show light star spreadwide area instead concentrated pixels
+enlarge
+extract wfpc image show light star spreadwide area instead concentrated pixels
+
+working backwards image point source astronomer determined
+conic constant mirror wasinsteadintendedthe number also derived analysingnull correctors instrument accurately measure curvaturepolished surface used perkinelmer figure mirror well
+analysing interferograms obtained ground testingmirror
+
+commission headed lew allen director jet propulsion
+laboratory established determine error couldarisen allen commission found null corrector usedperkinelmer incorrectly calibrated spot metering
+scale end cap worn away wrongly believed valid
+scale null corrector wrongly spaced bymm
+
+polishing mirror perkinelmer analysedsurface two null correctors correctly
+indicated mirror suffering spherical aberration
+test specifically designed eliminate possibilitymajor optical aberration written quality guidelinecompany ignored test result believed two null
+correctors accurate primary devicereporting mirror perfectly figured
+
+commission blamed failing primarily perkinelmer relations
+nasa optic company severely strainedtelescope construction due frequent schedule slippage cost
+overrun nasa found perkinelmer regarded telescope
+mirror crucial part business also secureknowledge nasa could take business elsewherepolishing begun commission heavily criticised
+perkinelmer managerial failing nasa also criticised
+picking quality control shortcoming relying
+totally test result single instrument
+
+design solution
+
+flaw meant hubble could obtain data goodachievable large groundbased telescope night good
+seeing vastly greater cost nasa telescope becamebutt many joke project popularly regarded white
+elephant however design telescope always incorporated
+servicing mission astronomer immediately began seek potential
+solution problem could applied first servicing
+mission scheduled 
+
+kodak ground backup mirror hubble wouldimpossible replace mirror orbit expensivetimeconsuming bring telescope temporarily back earthrefit instead fact mirror ground precisely
+wrong shape led design new optical componentexactly error opposite sense addedtelescope servicing mission effectively acting spectacles
+correct spherical aberration
+
+way instrument designed two different setcorrectors required design wide field planetary
+camera wfpc included four relay mirror direct light onto four
+separate ccd chip making camera relay mirrorreplacement wide field planetary cameracould figuredcorrect aberration however instrument lackedintermediate surface could figured wayrequired external correction device
+
+costar
+
+system designed correct spherical aberration light
+focused foc ghrs called corrective optics
+space telescope axial replacementcostar consisted essentially
+two mirror light path one would figuredcorrect aberration fit costar system onto telescope
+one instrument removed astronomers
+selected high speed photometer sacrificed costar built
+ball aerospace
+
+first three year hubble mission optical
+correction could fitted telescope still carried large
+number observation spectroscopic observation particularbadly affected aberration many imaging projects
+cancelled space telescope longer gave decisive
+advantage groundbased observation despite setbackfirst three year saw numerous scientific advance astronomers
+worked optimise result obtained using sophisticated image
+processing technique deconvolution
+astronaut work hubble first servicing mission
+enlarge
+astronaut work hubble first servicing mission
+improvement hubble image first service mission
+enlarge
+improvement hubble image first service mission
+
+servicing mission new instruments
+
+servicing mission 
+
+telescope always designed could regularly
+serviced problem mirror came lightfirst servicing mission assumed much greater importanceastronaut would carry extensive work telescopeinstall corrective optic seven astronaut selectedmission trained intensively use hundredspecialised tool would need used missionsts
+endeavour took place decemberand involved installationseveral instrument equipment total ofdays
+
+importantly high speed photometer replacedcostar corrective optic package wfpc replaced wide
+field planetary camerawfpc internal optical
+correction system addition solar array drive
+electronics replaced well four gyroscope usedtelescope pointing system two electrical control unitelectrical component two magnetometer onboard computers
+upgraded finally telescope orbit boostedslowly decaying three year due drag tenuous upper
+atmosphere
+
+januarynasa declared mission complete successshowed first many much sharper image mission one
+complex ever undertaken involving five lengthy periodextravehicular activity resounding success enormous
+boon nasa well astronomer fully
+capable space telescope
+
+subsequent servicing missions
+
+subsequent servicing mission dramatic gavespace telescope new capability servicing missiondiscovery 
+sts februaryreplaced ghrs space
+telescope imaging spectrograph stis near infrared cameramultiobject spectrometer nicmos replaced engineering science
+tape recorder new solid state recorder repaired thermal
+insulation boosted hubble orbit nicmos built ball
+aerospace contained heat sink solid nitrogen reduce thermal
+noise instrument shortly installedunexpected thermal expansion resulted part heat sink coming
+contact optical baffle led increased warming
+rate instrument reduced original expected lifetimeyear aboutyears
+
+servicing mission discoverysts took place december 
+replaced six gyroscope one failed rendered telescope
+unusable week mission replaced fine guidance
+sensor computer installed voltagetemperature improvement
+kit vik prevent battery overcharging replaced thermal
+insulation blanket new computer based radiation hardened
+inteland permit computing task previously
+performed computer ground handled boardspacecraft
+hubble payload bay prior release beautiful glowing
+color earth background smbsts
+enlarge
+hubble payload bay prior release beautiful glowing
+colour earth background smbsts
+
+servicing mission columbiasts marchsawinstallation new instrument foc replacedadvanced camera survey also saw revival nicmos
+run coolant inthe wa built nasaball aerospace new cooling system installed reducedinstrument temperature enough usable althoughwa cold original design called 
+
+mission replaced solar array third time new
+array smaller generating power new arrayderived built iridium comsat systemtwothirds size old array resulting dragtenuous reach upper atmosphere providingmore
+power additional power allowed instrument board hubble
+run simultaneously reduced vibration problem occurred
+old rigid array entered left direct sunlight
+hubble power distribution unit also replaced order correct
+problem sticky relay procedure required complete
+electrical power spacecraft first time sincelaunched
+
+completion servicing mission considerably enhanced hubbles
+capability two instrument primarily affected mission
+ac nicmos together imaged hubble ultra deep field
+
+scientific results
+
+important discoveries
+
+one hubble famous image pillar creation starforming eagle nebula
+enlarge
+one hubble famous image pillar creation starforming eagle nebula
+
+hubble helped resolve longstanding problem astronomy
+well turning result required whole new theoryexplain among primary mission target measure
+distance cepheid variable star accurately everthus constrain value hubble constant measurerate universe expanding also relatedage launch hubble estimate hubble constant
+typically error tobut hubble measurement cepheid
+variable virgo cluster distant galaxy clusters
+provided measured value accuracy ofwhich consistent
+accurate measurement made since hubble launch using
+techniques
+
+hubble helped refine age universe also cast
+doubt future astronomer highz supernova search team
+supernova cosmology project used telescope observe
+distant supernova uncovered evidence far decelerating
+influence gravity expansion universe mayfact accelerating acceleration later measuredaccurately groundbased spacebased telescopeconfirmed hubble finding cause accelerationcurrently poorly understood
+
+collision comet shoemakerlevywith jupiter inwasfortuitously timed astronomer coming monthservicing missionhad restored hubble optical performance hubble
+image planet sharper taken since passagevoyagerinand crucial studying dynamiccollision comet jupiter event believed occurevery century also used study objectouter reach solar system including dwarf planet pluto
+eris
+
+major discovery made using hubble data include protoplanetary
+disksproplyds orion nebula evidence presenceextrasolar planet around sunlike star optical counterparts
+stillmysterious gammaray bursts
+
+unique legacy hubble hubble deep field hubble ultra deep
+field image utilized hubble unmatched sensitivity visible
+wavelength create image small patch skydeepest ever obtained optical wavelength image reveal
+galaxy billion light year away generated wealthscientific paper providing new window early universe
+
+impact astronomy
+
+distant galaxy deep space hubble ultra deep field
+photograph
+enlarge
+distant galaxy deep space hubble ultra deep field
+photograph
+
+many objective measure show enormous impact hubble dataastronomy overpapers based hubble data published
+peerreviewed journal countless appearedconference proceeding looking paper several yearpublication onethird astronomy paper citations
+onlyof paper based hubble data citationaverage paper based hubble data receives twice many
+citation paper based nonhubble data thepapers
+published year receive citation aboutare
+based hubble data
+
+although hst clearly significant impact astronomical
+research financial cost impact largestudy relative impact astronomy different sizetelescope found paper based hst data generatetimes
+many citation groundbased telescope william
+herschel telescope hst cost abouttimes much buildmaintain even hubble launch groundbased speckle imaging
+could provide higher resolution image bright object hubble
+achieve recently development adaptive opticextended highresolution imaging capability groundbased
+telescope infrared imaging faint object groundbased
+imaging done much lower cost key
+consideration debate future space telescope see
+
+using telescope
+
+anyone apply time telescope restrictions
+nationality academic affiliation competition timetelescope extremely intense ratio time requested time
+available oversubscription ratio typically range betweenand
+
+
+call proposal issued roughly annually time allocated
+cycle lasting approximately one year proposal divided
+several category general observer proposalcommon covering routine observation snapshot observationtarget require onlyminutes telescope
+time including overhead acquiring targetsnapshot observation used fill gap telescope
+schedule cannot filled regular programs
+
+astronomer may make target opportunity proposalobservation scheduled transient event covered proposal
+occurs scheduling cycle addition tooftelescope time designated director discretionary time
+astronomer apply use time time yeartypically awarded study unexpected transient phenomenonsupernova dd time included observationled production hubble deep field hubble ultra deep
+field first four cycle telescope time observations
+carried amateur astronomer discussed
+observation scheduling
+
+hubble low orbit mean many target spend much orbit behind
+earth
+enlarge
+hubble low orbit mean many target spend much orbit behind
+earth
+
+scheduling observation hubble simple mattersituated lowearth orbit reached space
+shuttle servicing mission mean astronomical
+target occulted earth slightly halforbit observation cannot take place telescope passsouth atlantic anomaly due elevated radiation levelalso sizable exclusion zone around sun precluding
+observation mercury moon earth cannot observed
+however socalled continuous viewing zone cvz roughly
+degree plane hubble orbit targetocculted long period due precession orbitlocation cvz move slowly period eight weeklimb earth always within aboutof region withincvz brightness scattered earthshine may elevated long
+period cvz observations
+
+hubble orbit upper atmosphere orbit changetime way accurately predictable densityupper atmosphere varies according many factor meanhubble predicted position six week time could errortokm observation schedule typically finalisedday advance longer lead time would mean chance
+target would unobservable time dueobserved
+
+amateur observations
+
+first director stsci riccardo giacconi announced 
+intended devote director discretionary timeallowing amateur astronomer use telescope total timeallocated hour per cycle excited great interest
+among amateur astronomers
+
+proposal amateur time stringently peer reviewedcommittee leading amateur astronomer time awardedproposal genuine scientific merit duplicate
+proposal made professional required unique
+capability space telescope totalamateur astronomers
+awarded time telescope observation carriedbetweenandone study transition cometsuv
+search emission asteroid time however budget
+reduction stsci made support work amateur astronomers
+untenable amateur program carried
+hubble data
+
+transmission earth
+
+hubble data initially stored spacecraft launchedstorage facility oldfashioned reeltoreel tape recorderreplaced solid state data storage facilityservicing missionsand onboard storage facility data
+transferred ground via tracking data relay satellite
+system system satellite designed satellite lowearth
+orbit communicate mission control facilityaboutof orbit data transmitted tdrss ground
+station goddard space flight centre archiving
+
+archive
+
+hubble data eventually made available via public archivehttparchivestscieduhst data usually proprietaryavailable
+principal investigator astronomer designatedpifor one year taken apply director
+stsci extend reduce proprietary periodcircumstances
+
+observation made director discretionary time exemptproprietary period released public immediately
+calibration data flat field dark frame also publicly
+available straight away data archive fits
+format suitable astronomical analysis public
+use hubble heritage project process release publicsmall selection striking image jpeg tiff formats
+
+pipeline reduction
+
+astronomical data taken ccds must undergo several calibration
+step suitable astronomical analysis stscideveloped sophisticated software automatically calibrates data
+requested archive using best calibration files
+available onthefly processing mean large data requests
+take day processed returned processdata calibrated automatically known pipeline
+reduction increasingly common major observatories
+
+astronomer may wish retrieve calibration filerun pipeline reduction software locally may desirable
+calibration file selected automatically needused
+
+data analysis
+
+hubble data analysed using many different package stsci
+develops custommade stsdas space telescope science data analysis
+system software software contains program needed run
+pipeline reduction raw data file well manyastronomical image processing tool tailored requirementhubble data software run module iraf popular
+astronomical data reduction program
+
+outreach activities
+
+horsehead nebula selected public observed hubble
+th anniversary
+enlarge
+horsehead nebula selected public observed hubble
+th anniversary
+
+ha always important space telescope capturepublic imagination given considerable contribution taxpayers
+construction operational cost difficult early
+year faulty mirror severely dented hubble reputationpublic first servicing mission allowed rehabilitationcorrected optic produced numerous remarkable images
+
+several initiative helped keep public informedhubble activity hubble heritage project establishedproduce highquality image public consumptioninteresting striking object observed heritage teamcomposed amateur professional astronomer well people
+background outside astronomy emphasis artistic nature
+hubble images
+
+addition stsci maintains several comprehensive websitegeneral public containing hubble image informationobservatory outreach effort coordinated officepublic outreach established ensure taxpayer saw benefit investment space telescope
+program
+
+heritage project granted small amount time observe
+object scientific reason may image takenenough wavelength construct full colour imagecelebrate anniversary launch hubble nasa polled
+internet user find would like hubble observe
+overwhelmingly selected horsehead nebulaa heritage
+project image nebula released onaprilthe anniversary launch
+
+future
+
+equipment failure
+
+wfpc image small region tarantula nebula large
+magellanic cloud
+enlarge
+wfpc image small region tarantula nebula large
+magellanic cloud
+
+past servicing mission exchanged old instrument new ones
+avoiding failure making possible new type science without
+servicing mission instrument eventually failaugustthe power system space telescope imaging
+spectrograph stis failed rendering instrument inoperableelectronics originally fully redundant first setelectronics failed mayit seems unlikely science
+functionality salvaged without servicing mission
+
+hubble gyroscope stabilize orbit point
+accurately steadily astronomical target normally three
+gyroscope required operation observation still possible
+two gyro area sky viewed wouldsomewhat restricted observation requiring accurate pointing
+would difficult init decided switchtwogyroscope mode regular telescope operation meanextending lifetime mission switch mode made
+augustleaving hubble two gyroscope use two
+backup estimate failure rate gyro indicatehubble may one gyro byafter telescope would
+rendered unusable
+
+addition predicted gyroscope failure hubble eventually
+require change battery robotic servicing mission including
+would tricky requires many operation failuremight result irreparable damage hubble howeverobservatory designed shuttle servicing missionwould receive power connection space shuttlefact may utilized adding external power source additional
+battery rather changing internal ones
+
+onjunethe main camera stopped workingthirdgeneration instrument installed columbia space
+shuttle crew init built redundant set electronics
+wa brought use onjune science operation resumed
+onjuly onseptemberthe failed though 
+octoberthe problem diagnosed resolved
+
+orbital decay
+
+hubble orbit earth extremely tenuous upper atmospheretime orbit decay due drag reboostedshuttle mean reenter earth atmosphere
+sometime betweenandwith exact date dependingactive sun impact upper atmosphere statehubble gyro also impact reentry date controllable
+telescope made minimize atmospheric dragtelescope would burn reentry part main mirrorsupport structure would probably survive leaving potentialdamage even human fatality estimated ainchance
+human fatality completely uncontrolled reentry
+
+addition external propulsion module allow controlled reentry
+currently investigated nasa wouldexecuted expected natural reentry date potentially late
+
+
+nasa original plan safely deorbiting hubble retrieveusing space shuttle see sts hubble telescope wouldlikely displayed smithsonian institutionproblem method cost shuttle flightu million estimate mandate retire space
+shuttle byand risk shuttle crew
+
+debate final servicing mission
+
+space shuttle columbia originally scheduled visit hubble
+februarythe task servicing mission would
+include replacing fine guidance sensor two broken gyroscopes
+placing protective blanket top torn insulation replacingwide field planetary camerawith new wide field cameraand
+installing cosmic origin spectrograph however thennasa
+administrator sean okeefe decided order prevent repeat
+columbia disaster future shuttle must able reachsafehaven international space stationinflight problem develop would preclude shuttle landing
+safely shuttle incapable reaching hstmission future manned service mission cancelled
+
+decision assailed numerous astronomer felthubble telescope valuable enough merit risk successor
+jwst ready well thedeadline stop
+shuttle flight whilst hubble image ultraviolet jwst
+limited infrared however many astronomer feel strongly
+servicing hubble take place costservicing come jwst budget break space observing
+capability decommissioning hubblecommissioning successor major concern astronomers
+given great scientific impact many space telescope observations
+onjanuarysean okeefe said would review decision
+cancel final servicing mission hubble space telescope due
+public outcry request congress nasa look way
+save hubble space telescope
+
+onjulyan official panel national academyscience made recommendation hubble telescope preserved
+despite apparent risk report urged nasa takeaction would preclude space shuttle servicing missionhubble space telescope augustsean okeefe requestedgoddard space flight centre prepare detailed proposalrobotic service mission expected proposal take 
+month produceany mission likely cost excess 
+billion take place 
+
+arrival aprilof new nasa administrator mike
+griffin changed status manned unmanned
+rescue mission griffin stated reconsiderpossibility manned servicing mission soon appointment
+authorized nasa goddard space flight centre proceedpreparing manned hubble maintenance flight saying would make
+final decision flight next two shuttle missions
+go well hubble serviced mission sts currently
+scheduled send discovery telescope sometime inattime griffin canceled plan robotic rescue mission calling
+feasible
+
+octoberthe final goahead given missionnasa administrator mike griffin day mission tentatively
+scheduled launch spring fall ofwill install
+fresh battery fix guidance system install wide field camera
+cosmic origin spectrograph instrumentdeveloped built ball aerospace boulder coloradoinstallation wide field cameraand cosmic origin
+spectrograph instrument board hst ball
+aerospacebuilt
+
+hubble origin probe
+
+nasa esa currently investigating building followonhubble space telescope called hubble origin probeif approved
+would ready launch untilthe probe would probably
+use atlas rocket ride orbit would also incorporate
+new technology design reduce weight respectoriginal mission would onetime fiveyear run would
+receive servicing space shuttle mission stilldebated currently unfunded

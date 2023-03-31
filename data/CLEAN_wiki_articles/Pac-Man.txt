@@ -1,0 +1,491 @@
+copyright
+
+pacman
+
+ school wikipedia selection related subject computervideo games
+
+pacman
+imagepacmanpng
+screenshot original arcade version game showingghost starting position centre screenpacman four energizer visible near cornerscreen
+developer namco
+publisher midwaynamco japan
+designer toru iwatanigame designer
+hideyuki mokajima san programmer
+toshio kaisoundmusic
+release date jpn october
+na october
+genre maze
+mode toplayers alternating turns
+platform arcade game atariataricommodoregame
+boy gba intellivision mobile phone msx nec ngpc nes
+sega game gear snes spectrum ipod xbox live arcade wii virtual
+console
+input way joystick
+arcade cabinet standard upright miniupright cocktail
+arcade system namco pacman
+arcade cpu zilog zmhz
+arcade sound system namco wsg channel monomhz
+arcade display vertically orientedpalette colors
+
+pacman arcade game developed namco licenseddistribution usa midway first released japan 
+immensely popular original release present day pacman
+universally considered one classic medium
+virtually synonymous video game icon popular
+culture upon release game became social phenomenonsold bevy merchandise also inspired animated television
+series toppop single
+
+pacman released arcade video game north america
+primarily space shooter space invader defenderasteroid visible minority sport game mostly
+derivative pong pacman succeeded creating new genreappealing male female pacman often creditedlandmark video game history among famous
+arcade game time character also appears 
+officially licensed game sequel well numerous
+unauthorized clone bootlegs
+
+gameplay
+
+player control pacman move maze eating
+pacdots dot eaten pacman taken next stage
+ghost roam maze trying catch pacman ghost touches
+pacman life lost life lost game ends
+pacman gameplay life usually lost digginggrave easy situate pacman within maze escape
+ghost impossible
+
+near corner maze four large round powerup objects
+known energizer power pellet provide pacmantemporary ability eat ghost ghost turn deep blue
+reverse direction immediately pacman eats energizermove slowly vulnerable ghost worth
+andpoints sequence value reset backtime another power pellet eaten advantageousplayer eat four ghost pellet ghost eaten
+eye return ghost pen regeneratednormal colour may happen ghost still blue
+ghost near pen eaten ghost flash whitefive time become dangerous amount timeghost remain vulnerable varies one board nexttime period generally becomes shorter game progress starting
+th board key continuing boardtoend ghost longer turn blue though eating energizer
+still cause reverse direction theregular dotlevel worth ten point energizer worth fifty points
+additionally prize commonly referred fruit even though
+several fruit appear twice boardghost peneating fruit score extra bonus pointprize change throughout game point value increase see
+table right
+
+pacman awarded bonus life one time atpointsdefault setting dip switch inside machine changerequired point tooror disable bonus life
+altogether
+
+fruit appear middle maze sometimes pacman eat
+bonus point level get higher fruit scorepoints
+
+history
+
+game developed primarily namco employee toru iwatanieighteen month original title pronounced pakkuman 
+pakkumanand inspired japanese onomatopoeic phrase
+pakupaku taberupakupaku taberuwhere pakupaku
+describes sound mouth movement widely openedclosed succession although often cited characters
+shape inspired pizza missing slice admitted 
+interview halftruth character design also came
+simplifying rounding japanese character mouth
+kuchias well basic concept eating iwatanis effortappeal wider audiencebeyond typical demographic young
+boy teenagerswould eventually lead adding elementmaze result game entitled puck man first launched
+japan inby namco game received lukewarm responsespace invader game similar type far populartime
+
+following year however game picked manufactureu bally division midway altered title pacman see
+american audience welcomed breakaway convention setspace invader resulted unprecedented popularity revenue
+rivaled successful predecessor even iwatani impressed
+u sale game soon became worldwide phenomenon withinvideo game industry resulting numerous sequel merchandising
+tieins pacmans success bred imitation entire genremazechase video game soon emerged none equalled originalprofit popularity
+
+competitor distributor taken completely surprisepacmans success north america inmarketing executivesaw pacman trade show prior release completely overlookedgame along classic defender lookedracing car game called rallyx game outdo yearappeal pacman game caught immediatelypublic quickly became far popular anything seengame industry pacman outstripped asteroid greatest
+selling arcade game time would sell 
+units
+
+localization
+
+north american market name changed puck manpacman actually closer original japanese pronunciation
+puck similar spelling pronunciation common
+english expletive vandal could easily change puck man
+pacman machine found throughout europe
+side side comparison different artwork stylemidway namco version
+side side comparison different artwork stylemidway namco version
+
+midway released pacman united state company also
+redesigned cabinet artwork namcostyle artwork wacostly mass produce well considered stylishamerican market puck man painted overall white featuring
+multicolored artwork side cheerful puckman characterdifferent pose pacman painted yellow simpleeasytostencil artwork side front
+
+unique original game design inspired game publisherinnovative rather conservative encouraged speculate
+game design broke existing genre pacman introducedelement humor video game designer sought imitateappealed wider demographic teenage boy flockedactionoriented game many popular video gameincluding qbert donkey kong frogger partially owepublication success pacman
+
+killer list videogames list pacman thevideo gametime topmost popular video game list pacmanvideo game general type often cited identifying
+cultural experience generation particularly older members
+sometimes called baby busters
+
+fruitobject point valueboards
+cherries
+strawberry
+peach
+apple
+melon
+galaxian flagship
+bell
+keyand
+intermissions
+
+opening board game linearity games
+progression interrupted intermissionshumorous animated
+scene featuring pacman ghost three different
+intermissions
+blinky chase pacman screen blinky reappearsvulnerable blue monster coming opposite direction chased
+giant pacman intermission play board 
+blinky chase pacman across screen pelt get caught
+tack floor part ripped revealingpinkness intermission play board 
+blinky corner pelt sewn back chase pacman
+across screen blinky reappears coming back opposite
+direction pinked dragging pelt behind intermission
+play boardsand 
+
+perfect play
+
+perfect pacman game defined one player completeslevel maximum point score without losing lifefirst game verified twin galaxy intergalactic
+scoreboard julybilly mitchell hollywood achieved
+feat six hour attain maximum possible scorepoint necessary mitchell eat every fruit
+every power pellet every blue ghost every dot forboards
+without losing single life
+
+splitscreen level
+
+game technically end player given new boards
+clear long pacman doe lose life however
+due glitch game right side boardgarbled mess text symbol rendering level unplayableoccurs bug subroutine draw fruitbottom screen indicate current level normallyfruit displayed regardless current screen sincelevel number stored single byte levelffhexadecimal roll toin subroutine andfruitdrawn corrupting bottom screen entire right halfmaze enthusiast refer final levelsplitscreen level simply ending althoughclaim someone enough knowledge maze pattern play
+generally considered impossible cleared via
+legitimate means
+
+however decemberan eightyearold boy named jeffrey yee
+received letter president ronald reagan congratulatingworldwide record ofpoints score possibleplayer passed splitscreen level whether event
+happened described remained heated debate amongst video game
+circle since supposed occurrence septemberwalter day
+chief scorekeeper twin galaxy intergalactic scoreboard took
+u national video game team tour east coast visit
+video game player claimed could getsplitscreen video game player could demonstrate ability
+later inbilly mitchell offeredto anyone could
+provably pas splitscreen level january
+evidence anyone could
+
+tinkering detail splitscreen levelrevealed playable arcade game emulator mame romgame equipped rack test within dip switchautomatically clear level dot soon beginmethod make reaching longmythical board easier
+thus making detailed analysis possible also allowsdemonstration happens board cleared
+
+right side map doe exist pacmanghost move freely throughout right side screen barring
+garbled symbol fractured piece maze
+symbol also entail power pill must eatenplayer continue unlike unglitched board pacman loseslife pill right side screen reseteaten maze fracture blockade placed many
+location difficultif impossibleto locate
+board cleared game restarts first board without
+error repeating throughhowever powerups
+intermission repeat opening game monsters
+retain speed invulnerability power pelletlater boards
+
+related games
+
+ports
+
+pacman one game consistently rereleased
+two decade released atari 
+atariatari bit computer etc intellivisioncommodoreand nintendo entertainment systemandin
+handheld world released game boysega game
+gearneogeo pocket colourpacman special colour
+edition game boy colourapple ipod fifth generation
+pacman collection game boy advanceandunlockable pac roll nintendo however hawidely distributed namcos longrunning namco museum series
+starting playstation inand continuing day every
+major console well psp game boy advance anniversary collectionan xboxport released via xbox
+live arcade augustpacman also availableoriginal form part gametap service septembera
+port released play popular ipod music player alongarcadepuzzle game pacman never ported atari 
+home video game system however effort hackpreexisting pacman cartridge create original pacmanwell pacvariants 
+ataricartridge
+ataricartridge
+
+namco repeatedly rereleased game arcade innamco
+released year reunion game combined pacman galagaone cabinet play original pacman machine movejoystick order press start button appearsone insert one coin left right
+left right left done correctly one hear sound pacman change colour press pacman start button one
+able play pacman noted pacman
+machine far easier locate today arcade dedicated
+pacman innamco released board openly featuring threegame year reunion board honour pacmans anniversary
+
+namcos wireless division released line pacman game cell
+phone instarting original arcade version following
+pacman game extension like pacman bowling pacman
+pinball division namco network america inc also launchednetworked game pacman prize inpacman mobile games
+available brew java platform across major cellular
+carrier well palm pda window phones
+
+atari 
+
+atariversion pacman developed published atari
+init first port arcade game atarilicensee video game console right although atari sold seven
+million unit tenmillion user base port mayrushed market quality widely criticized atari
+manufactured twelve million cartridge expectation
+game would increase number sale consoleleft large unsold inventory writtenoff
+incurring large financial loss company onecatalyst led video game crash 
+
+gallery
+
+port screenshots
+atariataricommodoreintellivision
+
+msxnessam coupxbox
+
+sequels
+
+pacman spawned numerous sequel though none popular
+original significant title pacman
+originally created unauthorized hack original game called
+crazy otto small group known general computer corporationwa eventually sold bally midway without namcos permission crazy
+otto actually seen photograph time magazine mislabeledoriginal pacman game featured several improvementchange original pacman including faster gameplaymaze new intermission moving bonus item consider pacman superior game original even bestentire series eventually bally midway struck deal namco make
+pacman officially licensed sequel although american
+company continued release several unauthorized spinoff game later
+pacman plus baby pacman professor pacmantitle generally considered inferior unimportant
+serving oversaturate market pacman games
+
+clone bootlegs
+
+unauthorized pirate version game also creatednotably hanglyman mangling hungryman one variantreplaced pacman character head popeyeanother hack hanglyman called caterpillar pacman made inby
+phi game one play caterpillar ghostreplaced four spiders
+
+another popular clone game piranha replaced pacmanmunching fish maze replaced coral reef ghosts
+replaced squid earlier variant littleghost extended sprite tentacle brief reference
+game even included pacman seriesunderwater scene fish shown eating ghostsquid
+
+acorn software division acornsoft released exceptionally
+accurate clone pacman called snapper bbc micro acorn
+electron home computer allegedly receiving sternly worded
+cease desist letter atari acornsoft modified game
+changing maze layout character graphics
+
+game called pacdude also released freeware almost
+pacman clone difference available download
+via official site httppacdudegamewikis
+
+addition soon release original pacman manymazethemed video game entered arcade marketmake trax thief
+lady bug mouse trap prominent home video
+game market munchkin actually withdrawn atari
+successfully sued creator citing imitation pacman
+character blatant undisguised
+
+several handheld version released inmost using vfd
+technology playability handheld game agelimited today standard since ghost pacman positionrepresented immovable fixedcell character litaccordingly game title included following
+pacman tomy
+pacman entex
+pacman coleco official adaptation game coleco
+pacman shaped like miniature midway arcade cabinet
+epoch man epoch lcdbased game seen national
+lampoon vacationin rus hand
+
+texas instrument released clone called munch man home
+computer line inin player lay tracklink munch man parlance progress maze
+instead eating pillsa change made avoid possible
+lawsuit midway
+
+inleisure allied released ghostmuncher galaxian game
+wa dual bootleg pacman galaxian one could change game
+dip switch bootleg color sound nameghost changed galaxian bootleg also spedsignificantly
+
+data east released locknchase inhere pacman replacedthief stealing coin bank vault ghost replacedpolice thief could temporarily block passage doorpopular port game released mattel intellivision
+
+microhardmagic game released funny strip wamaze game clone pacman pacman featuring nudity
+
+also best yesterday released game called maniac
+merged pacman game hangman time limit one
+notable feature turbo boost temporarily making pacman faster upon acquiring turbo boost phrase thunderbirdgo would heard another feature added background music
+
+increative dimension released pacman clone called cdman
+cdman ate dot ran enemy spider sharks
+
+inchristophe dinechin wrote pacman clone series calculator
+
+insemicom released hyper pacmana clone similar pacmania
+bombermanstyle element followed sequel
+called twinklein version pacman orange wears
+sunglasses
+
+inesd released multi champ deluxe multi champ deluxeadultoriented multigame system player chooses girlone six game object win game save
+girl game include clone pacman
+
+ingenie released puckman pokemon teamed pacmanpokmon playercontrols puckman playercontrols pikachus
+head
+
+egames released several clone pacman including maze
+man chomper maze made without licenseprompted lawsuit including hasbro atari america elorg games
+discontinued term settlement
+
+grandpa pacman unofficial sequel created lafe travis games
+pc available freeware grandpa pacman hasmazes
+masterintermissions anddifferent prize gobble
+inan open source pacman clone called njam releasedsource code freely available gpl license besides regular
+gameplay feature two multiplayer mode player play
+either together also networking support
+four player play simultaneously game availablewindow linux mac many operating systems
+
+directvs new interactive channel game lounge feature game called
+hot wheel monster truck smashdown red monster truck take place
+pacman monster truck replace ghost otherwise
+game play much like regular pacman
+
+topfield digital set top box also feature pacman clone game along
+clone tetri clone brick part extras
+included menus
+
+nonvideo games
+
+inmilton bradley released board game based pacmananother based pacman several pocket game card
+game also produced
+
+group student computer science department simon
+fraser university developed lifesized pacman system using
+laptop cell phone tracking track location dots
+ghost pacman become regular activity computer
+science frosh week usually played downtown vancouver
+
+pacman also available download play thgeneration ipods
+
+pacman popular culture
+
+great deal pacman merchandise marketedtshirts toy handheld video game imitation pastaalso aforementioned saturday morning cartoon called pacman
+show based game produced hannabarbera lasted
+two year fromtoit also basis pacman
+christmas special titled christmas come pacland seriesspecial nickname given pacmans enemy game 
+blinky pinky inky clydebecame official name sue
+wa new ghost colored purple led evil mezmaron
+employed plot raid power pellet forest
+
+maker thedisney featurefilm tron sneaked tiny pacman
+one quick shot sark ordering tank sentgiving character movie cameo appearance effect
+
+pacmaninspired set crop circle located near grazely
+reading england viewable satellite imaging map google
+sightseeing
+
+video gameoriented webcomic penny arcade gabe almost always
+seen wearing yellow shirt black outline pacmanstrip reveal room decorated pacman sheetmatching curtain car license plate read pcmnfn pacman
+fan mike krahulik penny arcade artist gabealterego actually tattoo pacman eating pellet aroundarm
+
+vg cat another video game webcomic also pacman onelogo logo identical pacman however colored blue
+instead yellow catlike tail added along tiny
+catlike ear atop
+themovie club dread featured live version pacman playedcoconut petes tropical island four bikiniclad girl would
+chase one man hedge maze drinking cup alcoholequivalent power pellet character dressed costumes
+resembling various fruit piece game
+
+pacman appears character drawn together episodegay
+bash comic twist pacman revealed actually pacman
+drag
+
+weird yankovics music video forwhitenerdy flares
+arranged shape pacman shown backgroundscenes
+
+animated series class ofon episode hunt red
+blobtober pacman like screen kid headscene philly phil pull grape hole also eddie makes
+classic wakka wakka wakka noise
+
+pacman shown almost thirty second high speed 
+cult movie koyaanisqatsi
+
+video games
+
+namco often put character pacman gameactual opponent subtle reference prominent uses
+include ridge racer series game wangan midnight maximum
+tune addition similar namco capcom pacman appearsstatue tale symphonia also part alternative costume
+presea based namco character klonoa another tales
+game tale abyss playable character jade curtiss main outfit
+ha belt buckle shaped like pacmanpacman appears eating belt hole much like ingame
+pacman eating dot talims costume soul calibur iiifeature pacman emblem necklace
+
+pacman playable character mario kart arcade mario
+kart arcade gpgames fact pacman one first
+nonnintendo character appear nintendo game pacmanred ghost blinky also playable klonoa namco character
+always wear blue cap little pacman curiouslymark erased namco capcom pacmans appearance
+statue single stage
+
+pacman made guest appearance kick manalso knownkick object kickman catch falling balloon head
+unicycle rider level game pacman might
+descend familiar sound effect eat alreadycaught
+balloon bonus point ghost appeared well higher levels
+
+anna kournikovas smash court tennis featured pacman secret
+unlockable character looked exactly like render unlock
+player complete time square court street
+tournament six times
+
+wolfenstein dthere secret level remakeone maze pacman complete pacman ghost would
+chase player could killed dot replacedtreasure item power pill replaced extra lives
+
+baten kaitos pacman appeared cardweapon unlockedperforming combo involving fruit
+
+carving pacman eating pill along ghost pacman
+could seen fighting game mortal kombat
+
+jak iii daxter needed code get sky
+factory went pacmanlike game get codes
+
+top secret map showing protagonist travel berlin
+changed pacman game
+
+simpson burn play generic version pacman
+
+section raider lost arcade futurama episode 
+anthology interest planet express crew general
+pacman went pacman maze zoidberg ate
+various ingame item including key dot said
+tasted like stale marshmallow fruit phillip fryokay another guy pacman inadvertently killedlaser fire space invader fry asked amy wong tend widow
+pacman
+
+episode family guy showed flashback pacman
+broke pacman ghost try cheer lettingeat depressed acknowledge instead sitting
+silently staring ahead smoking cigarette
+
+stewie griffin untold story family guy movie briantelling stewie get fruit pacman game stewie replies
+cant get fruit ghost right
+game featuring pacman
+
+screenshot level pacbox descent 
+screenshot level pacbox descent 
+
+sky kidalong inky special flag rallyxpooka dig dug pacman appears one hidden namco
+character appear sometimes blowing enemy unitworthpoints picked
+sky kid deluxepacmans role exactlyoriginal sky kid
+
+ordyneafter buying stock bomber miyuki chans shop
+winning one dream ltd pacman sit front
+yichir tomaris sunday chin ship held placegreen claw suck enemy shot spit back
+shot suck bigger becomespowerful shot spit one player
+may special weapon time
+
+tinkle pitafter getting powerup look like
+pacmans face nameless protagonist turn pacmanenemy turn ghost short time eat
+bonus points
+
+tekkenand tekkenif number win indicated
+option set fruit one winsfights arcade mode
+two player pacman appear icon
+
+soul edgepacman stand top namco logoannouncer say company name camera zoomlogo white background
+
+mod doom wa created could change enemy
+creature pacman character feature game
+remained
+baten kaitos eternal wing lost ocean pacman magnus
+obtained comboing large amount fruit magnus
+version pacman pacland obtained similar
+way
+
+ridge racer typefeatures racing team called pac racing
+club car decorated pacman name character
+also upon unlocking every single car game player
+unlocks pacman car essentially giant pacmanappears pacman world wheel engine rear
+
+ridge racer feature pacman race unlocked player
+drive total player race pacmanlittle red roadster theghosts moped player
+win also unlock ghost race time trial free
+run modes
+
+ridge racerfeatures grueling pac man bos racenormal ridge racer track beating pacman one unlockspacman car
+
+baten kaitos originspacman magnus given onetake care quzman eat magnus aroundforcing one trap inedible magnus eatingcertain number magnus transform paclandeventually pacmania
+
+level descentmultiplayer created tributepacman pacbox
+
+guild war bos named glamron skill called pacmanskill enables glamron rush directly player encounters
+
+blast corp rareware pacman tribute secret level
+featuring pacman styled game play maze one usedgame bulldozer light beacon way pacman eats dots
+
+ridge racerhas car special class pacmanspaceship speed display shaped like pacman
+

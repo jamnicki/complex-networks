@@ -1,0 +1,579 @@
+copyright
+
+energy
+
+ school wikipedia selection related subject general physics
+
+general word energy refers concept paraphrased
+potential causing change therefore one sayenergy cause change word used several
+different context use word mainstream science haprecise welldefined meaning case oftenmany usages
+
+common definition energy work certain force
+gravitational electromagnetic etc due varietyforce energy many different form gravitational electric heat
+etc grouped two major category kinetic energypotential energy according definition energy haunit work force applied distance unitenergy joule equal one newton applied one meterexample energy direction space therefore considered
+scalar quantity
+
+energy conserved quantity meaning cannot createddestroyed converted one form another thustotal energy universe always remains constant
+lightning highly visible form energy transfer
+enlarge
+lightning highly visible form energy transfer
+
+etymology
+
+etymology term greekmeansmean work thesuffix form abstract noun compound
+epic greek meant divine action magical operation
+wa later used aristotle meaning activity operationvigour diodorus siculus force engine
+
+historical perspective
+
+concept energy distant past used explain easily
+observable phenomenon effect observed propertyobject change generally construedchange could fact explained sort energy soon
+idea energy could stored object took rootscientific thought concept energy came embrace idea
+potential change well change effects
+potential realized come many different formspiritualism reflected change person physical
+science reflected different form energyexample electrical energy stored battery chemical energy
+stored piece food along oxygen needed burnthermal energy water heater kinetic energy moving
+train inthomas young first use term energy
+instead viva refer product mass object
+velocity squared gustavegaspard coriolis describedkinetic
+energy inin modern sense inwilliam rankine
+coined termpotential energy
+
+development steam engine required engineer develop concepts
+formula would allow describe mechanicalthermal efficiency system engineer sadi carnot
+james prescott joule mathematician mile clapeyronhermann von helmholtzand amateur julius robert von mayer
+contributed notion ability perform certain
+task called work somehow related amount energysystem nature energy elusive however argued
+year whether energy substance caloric merelyphysical quantity momentum
+
+william thomsonlord kelvin amalgamated lawlaw thermodynamics aided rapid developmentexplanation chemical process using concept energyrudolf clausius josiah willard gibbs walther nernst also led
+mathematical formulation concept entropy ludwig
+boltzmann introduction law radiant energy joef
+stefan
+
+alecture undergraduate student california
+institute technology richard feynman celebrated physic teacher
+nobel laureate said concept energy
+
+
+energy
+
+fact wish law governing natural phenomena
+known date known exception lawitexact far know law called conservation energystate certain quantity call energychange manifold change nature undergoesabstract idea mathematical principle saynumerical quantity doe change something
+happens description mechanism anything concrete
+strange fact calculate numberfinish watching nature trick calculatenumber
+
+energy
+
+feynman lecture physic vol 
+
+energy natural sciences
+
+concept energy transformation useful explaining
+natural phenomenon law conservation energy equally useful
+direction transformation explained help energyoften influenced entropy consideration also
+
+exact context various natural phenomenon transformations
+varies one natural science another example
+physics
+
+transformation constitutes context energy physics
+change position movement object brought
+action force thus context physics
+energy said ability work work said done
+physic object howsoever small size mass moved
+across distance howsoever short action force
+
+mathematically work equal force multiplied distance
+accurately force integrated certain path
+
+wint mathbff cdot mathrmdmathbfs
+
+equation say work equal integraldot product forcemathbffon bodyinfinitesimal body translationmathbfs 
+
+depending kind force involved work force results
+change corresponding kind energy gravitational
+electrostatic kinetic etc
+instrument used physicist measure energy
+enlarge
+instrument used physicist measure energy
+
+unit energy thus exactly unit workjoulessi work frame dependent defined
+relative certain initial state reference state system
+energy also becomes frame dependent example although speeding
+bullet kinetic energy reference frame nonmoving
+observer zero kinetic energy proper comoving
+reference framebecause take zero work accelerate bullet
+zero speed zero speed course selection reference
+state reference frame completely arbitraryand usuallydictated maximally simplify problem dealt however
+total energy system cannot decreased simple choice
+reference frame minimal energy remaining system
+associated invariant mass system special
+frame called centerofmomentum frame centreofmass frame
+total energy system invariant massrelativistic mass related einstein famous equation emc
+
+concept quantized energy product quantum mechanicsystem described schrodinger equation bound
+system solution equation lead certain permitted
+state characterized energy level realm wave
+mechanic energy related frequency electromagnetic
+radiation planck equation h plancks
+constant andthe frequency
+
+according einstein theory special relativity mass energy
+equivalent example process electron
+positron annihilation mass converted completelyenergy energy also participates gravitational interactionrelationship two
+edelta 
+
+amount rest mass released surroundingsactive energy heat light kinetic energy
+c speed light vacuum
+
+chemistry
+
+atom molecule central concept chemistry madeelectron proton therefore coulombic force work
+rearrangement atom formation decompositionmolecule energy associated movement chargecall chemical energy
+
+chemical reaction invariably absorbs release heat light
+according chemical thermodynamics chemical transformationpossible socalled free energy decrease concept free
+energy synthesis energy entropy free energy useful
+concept chemistry energy consideration alonesufficient decide possibility chemical reaction according
+second law thermodynamics entropy universe must
+increase process including chemical process energytransformed one form another including heatform long second law violated example gas may
+expand thus allow heat workpossible net entropy universe increase duegas expansion decrease due disappearance heat
+
+concept energy level find application various kindspectroscopy elucidation atomic molecular structurebased phenomenon presence certain lineabsorption emission spectra
+emission spectrum iron
+emission spectrum iron
+
+line called appear linear featuredispersion spectrum see example might producedprism diffraction grating postulated due certain
+specific amount energy involved transition atommolecule one state another charactistic magnitude
+energy associated characteristic frequencywavelength light electromagnetic radiation lines
+spectrum direct clue energetic change permittedhappen certain energy others
+
+speed chemical reaction given temperature relatedyet another concept activation energy activation energy echemical reaction visualized height barrierenergy separating two minimum energy chemically reacting
+system energy reactant energy product thus
+according statistical mechanic rate chemical reactionproportional boltzmann population factor eektpopulation molecule energy greater equal ethr temperature exponential dependence reaction ratetemperature known arrhenius equation
+
+biology
+
+growth development metabolism central phenomenonstudy biology cannot explained without invokingenergy concept indeed sustenance life critically
+dependent energy transformation living organism surviveexchange energy within without living organism chemical
+bond constantly broken made make exchangetransformation energy possible chemical bond often
+bond carbohydrate including sugars
+flowchart cellular respiration
+
+chemical bond include bond chemical compoundimportant cell metabolism example moleculeatp fat oil molecule along oxygen common
+store concentrated energy biological process onetherefore assert transformation energy less
+concentrated form driving force biological processchemical process responsible life biological
+organism molecular biology biochemistry fact scientific
+study concerning making breaking chemical bondmolecule found biological organisms
+
+natural phenomenon exchange metabolic energybiological organism also increase entropy universe nearly
+energy transformation studied biology due chemical
+synthesis decomposition ultimately brought energy
+absorbed photon sunlight insolationphotosynthesis total energy captured photosynthesis green
+plant solar radiation aboutxjoules energy per
+yearthis aboutof total sunlight energy reaches
+earth
+
+predatorprey relationship food chain effect energy
+transformation within ecosystem studied ecology
+
+meteorology
+
+meteorological phenomenon like wind rain hail snow lightning
+tornado hurricane result energy transformations
+brought solar energy planet earth haestimated average total solar incoming radiationinsolation aboutwatts per square meter incident summit
+atmosphere equator midday figure knownsolar constant although amount varies little yearresult solar flare prominence sunspot cycle someof
+immediately reflected planetary albedo resultcloud snowfield even reflected light water rockvegetation energy received tropicreradiated energy radiated polereceived climatic homeostasis maintained transferenergy tropic pole transfer energydrive wind ocean current like biological processmeteorological process involve transformation energyconcentrated form sunlight concentrated formfar infrared radiation heat radiation much smaller
+characteristic temperature occur earth thus diffused
+many photon however energy may temporarily locally stored
+process sudden release stored sourceresponsible dramatic process mentioned example
+kinetic energy snowavalanche hurricane duesudden release energy previously captured solar radiations
+volcano release stored energy surfaceearth originating radioactive decay gravitational sortingearth core mantle energy left formation
+enlarge
+volcano release stored energy surfaceearth originating radioactive decay gravitational sortingearth core mantle energy left formation
+
+geology
+
+continental drift mountain range volcano earthquakephenomenon result energy transformation earths
+crust recent study suggest earth transforms aboutx
+j joule per second per kilogram given earth massaboutxkilograms mean rate energy
+transformation inside earth aboutxjs 
+terawatts
+
+study neutrino radiated earth see kamland
+scientist recently estimated aboutterawatts rate
+energy transformation due radioactive decay principallypotassiumthoriumand uraniumand remaining 
+terawatts continuous gravitational sorting coremantle earth energy left formationearth aboutbillion year ago sorting represents continuing
+gravitational collapse earth maximally compact object
+consistent composition process releases
+gravitational potential energy magnitude energy
+source decline time based halflife alone haestimated current radioactive energy planet represents
+le thanof available time planetformed
+
+result geological force continental accretion subductionsea floor spreading account forof earth energyremainingof geological tectonic energy come hotspots
+produced mantle plume resulting shield volcano like hawaii
+geyser activity like yellowstone flood basalt like iceland
+
+tectonic process driven heat earth interiorprocess simple heat engine work via upward
+buoyancyinduced motion hot low density magma expansionheat process metamorphose weathered rock importantly
+energy view orogeny period liftmountain range potential energy represented mountain
+range weight height thus represents heat coreearth partly transformed gravitational potential
+energy potential energy may suddenly released landslidetsunami similarly energy release drive earthquake
+represents stress rock mechanical potential energyha similarly stored tectonic process earthquake thus
+ultimately represents kinetic energy releasedelastic potential energy rock turn storedheat energy released radioactive decay gravitational collapseearth interior
+
+energy responsible geological process erosion
+deposition result interaction solar energygravity estimatedof total insolation used drivewater cycle water vapour condenses fall rain dissolves
+small amount carbon dioxide making weak acid acid acting
+upon metallic silicate form rock produce chemical
+weathering removing metal leading production rocks
+sand carried wind water downslope gravitydeposited edge continent sea physical weatheringrock produced expansion ice crystal left waterjoint plane rock geologic cycle continuederoded rock later uplifted mountains
+
+astronomy cosmology
+
+phenomona star nova supernova quasar gamma ray bursts
+universe highestoutput energy transformation matterstellar phenomenon including course solar activity drivenvarious kind energy transformation energy transformations
+either gravitational collapse matter usually molecular
+hydrogen various class astronomical object star black
+hole etc nuclear fusion lighter element primarily
+hydrogen
+dark energy believed make upof universe
+enlarge
+dark energy believed make upof universe
+
+light element primarily hydrogen helium created big
+bang light element spread fast thinlybig bang process see nucleosynthesis form stable
+mediumsized atomic nucleus like iron nickel fact allowslater energy release intermediatesized element formedera formation atom power steady energyreleasing
+reaction star also contributes sudden energy releases
+nova gravitational collapse matter black holealso thought power energetic process generally seen
+center galaxy see quasar general active
+galaxies
+
+cosmologist still unable explain cosmological phenomena
+purely basis known conventional form energy example
+related accelerating expansion universetherefore invoke yet unexplored form energy called dark energyaccount certain cosmological observations
+
+method measurement
+
+method measurement energy often deploy methodmeasurement still fundamental concept science viz mass
+distance radiation temperature time electric charge electric
+current conventionally technique often employedcalorimetry thermodynamics relies measurementtemperature thermometer bolometer measurement intensity
+radiation
+
+different form energy interrelations
+
+heat form energy partly potential energy partly kinetic
+energy
+enlarge
+heat form energy partly potential energy partly kinetic
+energy
+
+context natural science energy several
+different form thermal chemical electrical radiant nuclear etc
+basic textbook broadly group form energy two
+broad categorieskinetic energy potential energy howeverform energy resist easy classification caselight energy familiar type energy heatcircumstance varying mix potential kinetic energy
+
+kinetic
+
+kinetic energy energy due motion body particle within
+
+thermal energy often referred heat kind kinetic energy
+partly motion atom molecule within
+solid liquid gas case ideal gas perhaps oneha analyzed mathematically maximum detail kinetic
+energy particle comprise ideal gas expressedequipartition theorem equal frac tsoenergy per particle proportional temperature monatomic gas
+n particle three degree freedom internal
+energy
+overlineekt nkt
+
+k boltzmann constant absolute temperature
+whereas internal energy kinetic ideal gas low
+temperature higher temperature gas liquidsolid energy vibration within molecule thus
+whenever energy due vibration half storedkinetic energy half electromagnetic potential energy
+particles
+
+similarly radiation energy also commonly known light energyoften portrayed carried moving photon electrical
+energy portrayed transferred one place another
+movement electron however close examination revealsreally true radiation energy cannot neatly categorized
+classical kinetic energy since photon invariant massthus energy required accelerate velocity thus
+associated motion cannot calculated usingkinetic equations
+
+electrical energy electric current due motion
+electron one end conducting wire anothersimply
+speed electron end wire thuskinetic energy sourse energy
+delivered load electric current fact induced
+motion charge one end wire introduction electric
+field electric field wave currentdrive established conductor speed almost equalspeed light vcsqrtcx msec household
+copper aluminium wire polyvinil chloride insulationconduction electron move tiny fraction speedmmsec
+current energy electric current carriedelectric field magnetic field currentas givenpoynting vector wire made good conductorpractically electric energy flow outside wireelectric field thus poynting vector flux inside conductive wirenegligible enters low conductive load poynting vector
+tilt inward electric energy flux transformed load
+heat light kinetic energy form energy
+
+potential
+
+potential energy energy due position object
+relative object analogous concept wealth
+indicates capacity individual organizationinfluence people society form energy positivenegative either work done object forcework done object force negative energy thusmathematical construct reference another systemfundamental interaction nature linked kind potential
+energy
+
+gravitational potential energy
+
+gravitational potential energy work gravitational force
+rearrangement mutual position interacting massessay
+mass moved apart crate lifted closer
+together meteorite fall earth massobject considered point mass work thusgravitational potential energy equal
+epggmm 
+
+two mass question
+r distanceg gravitational constant
+
+case small displacement near earth surfacegmrg formula result widely used emgh
+approximation gravitational potential energy
+
+electric potential energy
+
+electric potential energy work electric forcerearrangement position charge also includes common
+chemical potential energy energy required break chemical bonds
+obtained forming energy released lightningburning litre fuel oil using amount electrical
+power electricalwiring system common exampleelectromagnetic potential energy quantitatively electromagnetic
+potential energy
+epeq piepsilon 
+
+q electric charge object question
+r distanceelectric constant vacuum
+
+use electrical energy electrical wiring systemelectric potential energy available represented electrical
+potential difference measured volt conductoramount charge transferred released
+energy joule given voltage multiplied coulomb charge
+transferred
+
+magnetic potential energy
+
+energy also stored magnetic field fieldintrinsic property certain particle also often result
+relative motion electric charge electrical currentexample superconducting magnetic energy storage work viamechanism magnetic potential energy magnetic potential energyclosely related electric potential energy since typepotential mediated electromagnetic field high power
+application magnetic potential energy perhaps familartype energy storage allows transfer power withinelectrical transformer
+
+thermal potential energy
+
+potential thermal energy part thermal energymade kinetic thermal energy thus stored electric
+potential energy potential electrical part thermal energystored deformation atomic bond thermal motion atoms
+atom oscillate around position equilibriumkinetic energy motion also potential energydisplacement equilibrium energy significant portion
+half thermal energy stronglybonded system solidliquid rest thermal energy kinetic energyatom however potential part thermal energy smaller
+fraction thermal energy gas carry halfthermal energy various kind kinetic energy gas
+atoms
+
+chemical potential energy
+
+potential chemical energy energy may potentiallyliberated bond chemical structure rearranged energy
+never stored chemical bond except negative quantity always requires energy break bond net energy mayreleased weak chemical bond broken stonger bondmade mixture fuel oxygen example stores
+chemical energy compared product combustion ieenergy stored fuel rather exists potential
+energy converted heat fuel combine oxygen
+common example chemical potential rechargable battery
+food item energy stored item
+actually system itemplusoxygen chemical
+fuel explosive example nitroglycerine requiresecond reactant substance release potential energy evencase energy released doe come bondmolecule rather released stronger bondproduct decomposes case nitroglycerinepowerful bond new produced explodes
+
+elastic potential energy
+
+potential elastic energy energy stored elastic natureobject elastic energy actually several type sometimeskind electric potential energy metal springcase energy released charged atom compressed
+allowed move apart however case compressed
+ideal gas rubber band potential energy storedelectrical potential rather stored lowentropy arrangement
+atom allow rapid conversion thermal energy work
+rearranged higherentropy structures
+
+ideal case metal spring described hooke lawstored elastic energy equal
+epefrac x
+
+
+k spring constant dependent individual spring
+x deformation object
+
+nuclear potential energy
+
+nuclear potential energy along electric potential energy
+provides energy released nuclear fission nuclear fusion
+process case strong nuclear force bind nuclear particles
+strongly closely reaction completed weak
+nuclear force different strong force provide potential
+energy certain kind radioactive decay beta decayenergy released nuclear process large relativistic
+change mass much several part per thousand
+
+nuclear particle like proton neutron destroyedfission fusion process collection mass
+individually free mass differenceliberated heat radiation nuclear reaction heatradiation missing mass often escape system
+measured energy sun also called solar
+energy example form energy conversion sun
+process hydrogen fusion convert aboutmillion metric tonsolar matter per second light radiated space
+
+transformation energy
+
+one form energy often readily transformed anotherhelp device instance battery chemical energyelectrical energy dam gravitational potential energy kinetic
+energy moving water blade turbine ultimatelyelectric energy electrical generator similarly case
+chemical explosion chemical potential energy transformedkinetic energy thermal energy short time yet another
+example pendulum highest point kinetic energy
+zero gravitational potential energy maximumlowest point kinetic energy maximum equaldecrease potential energy one unrealistically assumesfriction conversion energy processes
+perfect pendulum continue swinging forever
+
+energy converted matter vice versa althoughenergy matter continue exhibit rest mass throughoutprocess thus closed system conversion matter energyenergy matter make difference system mass equation
+emc mathematically derived independently albert einsteinhenri poincar reflects equivalence mass energyequation state liberated active energy light heat
+radiation equivalent unit inactive matter enormous
+witnessed tremendous energy liberated nuclear
+bomb conversely mass equivalent unit energy miniscule
+loss energy system difficult measure
+weight unless energy loss large example energy
+transformation matter particle found high energy nuclear
+physic however energy form exhibit rest mass evenha converted new particles
+
+law conservation energy
+
+energy context natural science subject lawconservation energy according law neither created
+produced destroyed transformed
+
+according first law thermodynamics total inflow energy
+system must equal total outflow energy system
+plus change energy contained within system lawused branch physic frequently violated short
+enough period time energy mathematically
+defined yet see quantum electrodynamics shell concept
+noether theorem relates conservation energy time
+invariance physical laws
+
+law fundamental principle physic followstranslational symmetry time property phenomenoncosmic scale make independent location time
+coordinate put differently yesterday today tomorrowphysically indistinguishable fact energy defined
+arbitrary short period time quantum mechanic followsdefinition energy operator result mathematicallymutual uncertainty time energy known uncertainty
+principle
+
+delta delta frac hpi
+
+despite seemingly insignificant principle made profound
+impact understanding many phenomenon realm particle
+physic led introduction concept virtual particles
+carry momentum exchange real particleresponsible creation known fundamental forceaccurately known fundamental interaction virtual photonsimply lowest quantum mechanical energy state photon also
+responsible spontaneous radiative decay exited atomicnuclear state casimir force van der waals bond forces
+observable phenomena
+
+energy society
+
+context society word energy synonymous energy
+resource often refers substance like fuel petroleum
+product electric power installation difference vis
+energy natural science lead confusion energy
+resource represent usable energy conserved nature
+way energy conserved context physics
+people often talk energy crisis need conserve energy
+something contrary principle energy conservation natural
+science effort normally referred energy conservationactually effort targeted conserving currently available
+energy resource applied useful work
+
+economics
+
+energy consumption per caput per countryred hue indicate
+increase green hue decrease consumptionenlarge
+energy consumption per caput per countryred hue indicate
+increase green hue decrease consumption
+production consumption energy resource importantglobal economy economic activity requires energy resources
+whether manufacture good provide transportation run computermachine grow food feed worker even harvest new
+fuel thus way human society existing energy
+resource develops mean production acquisitiondefining characteristic economy progression animal
+power steam power internal combustion engineelectricity key element development modern
+civilization cost energy resource depends demandproduction particular time scarcity cheap fuel key
+concern future energy development
+
+attempt made defineembodied energythe sum
+total energy expended deliver good service travels
+economy
+
+environment
+
+consumption energy resource turning lightapparently harmless however producing energy requires resources
+contributes air water pollution many electric power plants
+burn coal oil natural gas order generate electricityenergy need burning fossil fuel produce readily
+available instantaneous supply electricity also generates
+air pollutant including carbon dioxide sulfur dioxidetrioxide sox nitrogen oxide nox carbon dioxideimportant greenhouse gas thought responsiblefraction rapid increase global warming seen especially
+temperature record century compared tenthousand year worth temperature record readice core taken artic regions
+
+burning fossil fuel electricity generation also release trace
+metal beryllium cadmium chromium copper manganese
+mercury nickel silver environment also actpollutant certain renewable energy technology polluteenvironment way therefore help contributecleaner energy future world renewable energy technologies
+available electricity production include biofuels solar power
+tidal power wind turbine hydroelectric power etc however serious
+environmental concern articulated several environmental
+activist regarding mode electricity generation accordingpollution invariably produced manufactureretirement material associated machinery usedtechnology central way avoid downside expanding energy
+production energy conservation
+
+exploration research
+
+scientist realized known energy resource maysuffice forever thus urgent need explore new avenues
+include prospecting newer territory rich oil gasmethod producing energy resource using methodexplored littlewhile scientist busy exploringpossibility cold fusion many country diverting significant
+economic resource towards space explorationspace explorationlong duration demand compact energy resource huge
+consumption energy resource large size spacecraft cannotmet chemical portable energy resource carried boardearth mission outer solar system compact nuclear power
+source form nuclear reactor radioisotope thermoelectric
+generator necessity proposed explore
+annihilation matter purpose although practical wayproducing significant amount antimatter storingpresently known yet another field research explore future
+source energy artificial photosynthesis processactively researched convert carbon dioxide useful fuel
+biomass without intervention plants
+
+management
+
+since cost energy become significant factorperformance economy society management energy resourcebecome crucialenergy management involves utilizing available
+energy resource effectively minimum incremental
+cost many time possible save expenditure energy without
+incorporating fresh technology simple management techniqueoften energy management practice using energyefficiently eliminating energy wastage balance justifiable
+energy demand appropriate energy supply process couples
+energy awareness energy conservation
+
+politics
+
+since energy play essential role industrial societyownership control energy resource play increasing rolepolitics national level government may seek influencesharing distribution energy resource among various sectionsociety pricing mechanism even owns resources
+within border may also seek influence use energy
+individual business attempt tackle environmental
+issues
+
+recent international political controversy regarding energy
+resource context iraq war political analysts
+maintain hidden reason bothandwarstraced strategic control international energy resource others
+counter analysis number related economics
+according latter group analyst ha spent 
+billion iraq compared background current value 
+billion per year budget entire oil import dependence see
+energy wars
+
+production
+
+producing energy sustain human need essential social
+activity great deal effort activityeffort limited towards increasing productionelectricity oil newer way producing usable energy resources
+available energy resource explored one effort
+explore mean producing hydrogen water though hydrogen
+use environmentally friendly production requires energyexisting technology make efficient researchunderway explore enzymatic decomposition biomass see hydrogen
+economy
+
+form conventional energy resource also used new
+way coal gasification liquefaction recent technologybecoming attractive realization oil reservepresent consumption rate may rather short lived see alternative
+fuels
+
+transportation
+
+energy resource essential ingredient modetransportation society transportation energy resourcebecoming equally important energy resource invariably located far
+place consumed therefore transportation
+always question energy resource like liquid gaseous
+fuel transported using tanker pipeline electricity
+transportation invariably requires network grid cabletransportation energy whether tanker pipeline transmission
+line pose challenge scientist engineer policy makereconomist make riskfree efficient
+
+usage
+
+ever since humanity discovered various energy resource availablenature busy inventing device commonly knownmachine make life comfortable using oneenergy resource thus although primitive man knew utilityfire cook food invention many device like gas burners
+microwave oven increased usage energy purpose
+alone manifold trend field social
+activity construction social infrastructure manufacturingfabric covering porting printing decorating example
+textile air conditioning communication information moving
+people andor good automobiles
+
+links
+
+look energy wiktionary free dictionary look energywikinews free news look energy wikiquote free
+quotation look energy wikibooks free book look energy
+wikisource free source look energy common free
+repository look energy wikispecies directory species
+principle energetics
+list energy topics
+order magnitude energy
+

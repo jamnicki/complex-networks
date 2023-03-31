@@ -1,0 +1,108 @@
+copyright
+
+fundamental theorem arithmetic
+
+ school wikipedia selection related subject mathematics
+
+number theory fundamental theorem arithmetic unique
+factorization theorem state every natural number greater 
+written unique product prime number instance
+
+timestimes
+
+timestimes
+
+possible factorization oforinto prime
+number representation collapse repeated prime factorpower easier identification multiplicationcommutative order factor irrelevant usually written
+smallest largest
+
+many author take natural number begin withwhich haprime factorization thus theoremof hardywrighttakesform every positive integer exceptis product primetheoremtheir fundamental asserts uniqueness numberisprime since product number often
+convenient include theorem empty product rule
+see example calculating gcd
+
+applications
+
+fundamental theorem arithmetic establishes importanceprime number prime number basic building blockpositive integer sense positive integerconstructed product prime one unique construction
+finding prime factorization integer allows derivationdivisor prime nonprime
+
+example factorization ofshows positive
+divisor ofmust form abc take one
+thevalues inwhere take one thevaluesc take one thevalues inmultiplying
+number independent option together produce totalpositive divisors
+
+prime factorization two number known greatest
+common divisor least common multiple found quicklyinstance shown greatest common divisor
+ofandishowever prime factorizations
+known use euclidean algorithm generally requires
+much calculation factoring two numbers
+
+fundamental theorem ensures additive multiplicative
+arithmetic function completely determined valuepower prime numbers
+
+proof
+
+theorem essentially first proved euclid first full
+correct proof found disquisitiones arithmeticae carl
+friedrich gauss
+
+although first sight theorem seems obvious doe hold
+general number system including many ring algebraic
+integer first pointed ernst kummer ininwork fermat last theorem recognition failure one
+earliest development algebraic number theory
+
+euclid proof
+
+proof consists two step first step every numbershown product zero prime second proof
+show two representation may unified single
+representation
+
+nonprime composite numbers
+
+suppose positive integer cannot writtenproduct prime must smallest number letn number cannot bebecause conventioncannot prime number either since prime number productsingle prime must composite number thus
+
+nab
+
+b positive integer smaller since nsmallest number cannot written product primeb written product prime
+nab
+
+written product prime well contradictionminimal counterexample argument
+
+proof infinite descent
+
+proof uniqueness prime factorization given integer
+us infinite descent assume certain integer writtenleast two different product prime number must
+exist smallest integer property denote two
+factorization ppm qqn
+spppmqqqn
+
+pi withim equal withjnwould otherwise smaller integer factorizable two wayremoving prime factor common product violatingassumption assumed without loss generality prime factor smaller withjn take exist integer r
+qpdrp
+
+andrpq cant beas would make qmultiple prime multiplying side result
+ppmdrp qqndqqn 
+rqqnp
+
+second term last expression must equal integer
+called ie
+
+krqqnp
+
+gives
+
+pkrqqn
+
+value side equation obviously smallerstill large enough factorizable since smallerp two prime factorization get side kr written product prime must differentcontradiction smallest integer factorizableone way thus original assumption must false
+
+proof using abstract algebra
+
+let integer finite group therefore hacomposition series definition factor composition series
+simple hence factor composition series znform prime number since order znproduct order factor composition seriesgive factorization prime number jordanhlder
+theorem say composition series unique hence prime
+factorization must unique
+
+retrieved 
+httpenwikipediaorgwikifundamentaltheoremofarithmetic
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

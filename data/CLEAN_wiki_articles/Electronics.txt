@@ -1,0 +1,182 @@
+copyright
+
+electronics
+
+ school wikipedia selection related subject engineering
+
+field electronics comprises study use systemoperate controlling flow electron charge carriers
+device thermionic valve vacuum tube semiconductors
+design construction electronic circuit solve practical
+problem integral technique field electronics
+engineering equally important hardware design computer
+engineering application electronics involve transmission
+either information power deal information
+
+study new semiconductor device surrounding technologysometimes considered branch physic article focusengineering aspect electronics
+
+overview electronic system circuits
+
+commercial digital voltmeter checking prototype
+enlarge
+commercial digital voltmeter checking prototype
+
+electronic system used perform wide variety taskmain electronic circuitcontrolling processing data
+conversion tofrom distribution electric power
+
+application involve creation andor detectionelectromagnetic field electric current electrical energy
+used time prior late century transmit
+data telegraph telephone line development electronics
+grew exponentially advent radio
+
+one way looking electronic system divide 
+parts
+inputselectronic mechanical sensor transducerdevice take signalsinformation external sourcephysical world antenna technology networkconvert signalsinformation current voltage digital
+highlow signal within system
+
+signal processorsthese circuit serve manipulate interpret
+transform inputted signal order make usefuldesired application recently complex signal processing haaccomplished use digital signal processors
+
+outputsactuators device transducertransform currentvoltage signal back useful physical form
+eg accomplishing physical task rotatingelectric motor
+
+example television set contains theseparts televisions
+input transforms broadcast signal received antenna fedcable currentvoltage signal useddevice signal processing circuit inside television extract
+information signal dictate brightness colour sound
+level output device convert information back physical
+form cathode ray tube transforms electronic signal visible
+image screen magnetdriven speaker convert signalaudible sound mar electronics
+
+electronic device components
+
+electronic component indivisible electronic building block
+packaged discrete form two connecting leadmetallic pad component intended connected together
+usually soldering printed circuit board createelectronic circuit particular function exampleamplifier radio receiver oscillator component may packaged
+singly resistor capacitor transistor diode etc less
+complex group integrated circuit operational amplifier resistor
+array logic gate etc active component sometimes called devices
+rather components
+
+type circuits
+
+analog circuits
+
+hitachi adjustable frequency drive chassis enlarge
+hitachi adjustable frequency drive chassis
+
+analog electronic appliance radio receiverconstructed combination type basic circuit analog
+circuit use continuous range voltage opposed discrete
+level digital circuit number different analog circuits
+far devised huge especially circuit defined
+anything single component system containing thousandcomponents
+
+analog circuit sometimes called linear circuit although many
+nonlinear effect used analog circuit mixers
+modulators etc good example analog circuit include vacuum tube
+transistor amplifier operational amplifier oscillators
+
+analog circuitry day may use digital even microprocessor
+technique improve upon basic performance circuittype circuit usually called mixed signal
+
+sometimes may difficult differentiate analogdigital circuit element linear nonlinear
+operation example comparator take continuous
+range voltage put one two level digital
+circuit similarly overdriven transistor amplifier takecharacteristic controlled switch essentially two leveloutput
+
+digital circuits
+
+digital circuit electric circuit based number discrete
+voltage level digital circuit common physical
+representation boolean algebra basis digital
+computer engineer term digital circuit digital
+system logic interchangeable context digital
+circuit case number different state nodetwo represented two voltage level labeled low high often
+low near zero volt high higher level
+depending supply voltage use
+
+computer electronic clock programmable logic controller used
+control industrial process constructed digital circuits
+digital signal processor another example
+
+buildingblocks
+logic gates
+adders
+binary multipliers
+flipflops
+counters
+registers
+multiplexers
+schmitt triggers
+
+highly integrated devices
+microprocessors
+microcontrollers
+application specific integrated circuitasic
+digital signal processor dsp
+field programmable gate array fpga
+
+mixedsignal circuits
+
+mixedsignal circuit refers integrated circuit icanalog circuit digital circuit combined single
+semiconductor die circuit board mixedsignal circuits
+becoming increasingly common mixed circuit contain analog
+digital component analog digital converter digitalanalog converter primary example exampletransmission gate buffers
+
+heat dissipation thermal management
+
+heat generated electronic circuitry must dissipated prevent
+immediate failure improve long term reliability techniqueheat dissipation include heatsinks fan air coolingform computer cooling water cooling techniques
+use convection conductionradiation heat energy
+
+noise
+
+noise associated electronic circuit noise generally
+defined unwanted signal present inputcircuit noise signal distortion causedcircuit
+
+electronics theory
+
+mathematical method integral study electronicsbecome proficient electronics also necessary become
+proficient mathematics circuit analysis
+
+circuit analysis study method solving generally linear
+system unknown variable voltage certain nodecurrent though certain branch network common analytical
+tool spice circuit simulator
+
+also important electronics study understandingelectromagnetic field theory
+
+electronic test equipment
+
+electronic test equipment used create stimulus signalcapture response electronic device test dutsway proper operation dut proven faultdevice traced repaired
+
+practical electronics engineering assembly requires use many
+different kind electronic test equipment rangingsimple inexpensive test light consisting light
+bulb test lead extremely complex sophisticatedautomatic test equipment
+
+computer aided design cad
+
+today electronics engineer ability design circuit using
+premanufactured building block power supply resistors
+capacitor semiconductor transistor integrated
+circuit electronic design automation software program include
+schematic capture program ewbelectronic work benchorcad eagle layout editor used make circuit diagram printed
+circuit board layouts
+
+construction methods
+
+many different method connecting component usedyear instance beginning point point wiring using tag
+board attached chassis used connect various electrical
+innards cordwood construction wire wrap method used
+modern day electronics use printed circuit board highly
+integrated circuits
+
+branch pages
+
+digital electronics
+analogue electronics
+microelectronics
+fuzzy electronics
+electronic device circuits
+integrated circuit
+optoelectronics
+semiconductor
+semiconductor device
+

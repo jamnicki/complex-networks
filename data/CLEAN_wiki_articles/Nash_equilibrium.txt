@@ -1,0 +1,202 @@
+copyright
+
+nash equilibrium
+
+ school wikipedia selection related subject mathematics
+
+nash equilibrium
+solution concept game theory
+relationships
+subset ofrationalizability correlated equilibrium
+superset ofevolutionary stable strategy subgame perfect equilibrium
+perfect bayesian equilibrium trembling hand perfect equilibrium
+significance
+proposed byjohn forbes nash
+used forall noncooperative games
+exampleprisoners dilemma
+
+game theory nash equilibrium named john forbes nashproposed kind solution concept game involving twoplayer player anything gain changingstrategy unilaterally player chosen strategy
+player benefit changing strategyplayer keep unchanged current set strategy
+choice corresponding payoff constitute nash equilibrium
+
+concept nash equilibrium exactly originalnash antoine augustin cournot showed findcall nash equilibrium cournot duopoly game consequently
+author refer nashcournot equilibrium however nash
+showed first time dissertation noncooperative games
+nash equilibrium must exist finite gamenumber player nash proven player
+zerosum game john von neumann oskar morgenstern 
+
+formal definition
+
+let game set strategy profile fset payoff profile player inn
+chooses strategy resulting strategy profile xxxn
+player obtains payoff fix note payoff dependsstrategy profile chosen strategy chosen playerwell strategy chosen player strategy
+profile nash equilibrium deviationstrategy single player profitable
+fix geq fixxixi
+xixn
+
+game pure strategy ne mixed extension
+choosing pure strategy stochastically fixed
+frequency nash proved allow mixed strategy players
+choose strategy randomly according preassigned probabilities
+every nplayer game every player choose finitely
+many strategy admits least one nash equilibrium
+
+proof sketch
+
+leti mixed strategy profile player exceptplayer define best response correspondence playerbi relation set probability distributions
+opponent player profile set player strategyelement
+bii
+
+best response toi define
+
+bsigmabsigma time bsigma times
+cdots time bnsigman 
+
+one use kakutani fixed point theorem prove hafixed point asuch sigmabsigmasince brepresents best responseplayer tothe existence fixed point profstrategy set best response player could
+better deviating therefore nash equilibrium
+
+examples
+
+competition game
+
+caption competition game
+
+playerchoosesplayerchoosesplayerchoosesplayer 
+chooses 
+playerchooses
+playerchooses
+playerchooses
+playerchooses
+
+consider following twoplayer game player simultaneously
+choose whole number fromtoboth player win minimumtwo number point addition one player chooses larger
+number give two pointgame unique nash equilibrium player choosing
+choice strategy improved one players
+lower number one player numbertable left example starting green squareplayer interest move purple square choosingsmaller number player interest move blue
+square choosing smaller number game modifiedtwo player win named amount choosenumber otherwise win nothing arenash equilibria
+
+coordination game
+
+caption coordination game
+
+playeradopts strategyplayeradopts strategy 
+playeradopts strategya c
+playeradopts strategyc bd
+coordination game classicsymmetric two player two
+strategy game payoff matrix shown rightpayoff according db player thus cooperate
+either two strategy receive high payoff playergame agree one two strategy order receive
+high payoff player agree lower payoff rewarded
+example coordination game setting two technologies
+available two firm compatible productelect strategy become market standard firm agreechosen technology high sale expected firmfirm agree standard technology sale resultstrategy nash equilibrium game
+
+driving road choose either drive leftdrive right road also coordination gameexample payoffsmeaning crash andmeaning crashcoordination game defined following payoff matrix
+
+caption driving game
+
+drive left drive right
+drive left
+drive right
+
+case two pure strategy nash equilibriumchoose either drive left right admit mixed
+strategy pure strategy chosen random subjectfixed probability three nash equilibriumcase two seen purestrategy formprobability arefor player onefor player two
+andfor player onefor player two respectively
+add another probability player
+prisoner dilemma
+
+watch difference orientation payoff
+matrix
+
+prisoner dilemma payoff matrix depictedcoordination game cadb dbplayer improves situation switching strategyto strategy
+matter player decides prisoner dilemma
+thus single nash equilibrium player choosing strategy 
+betraying long made interesting case studyfact betray globally inferior remain
+loyal globally optimal strategy unstableequilibrium
+
+ian stewart put sometimes rational decision arent sensible
+
+nash equilibrium payoff matrix
+
+easy numerical way identify nash equilibrium payoff
+matrix especially helpful two person game playertwo strategy case formal analysis may becomelong rule doe apply case mixed stochastic
+strategy interest rule follows first
+payoff number duplet cell maximum column
+cell second number maximum rowcellthen cell represents nash equilibrium
+
+apply rule matrix
+
+caption payoff matrix
+
+option option option optionoption option 
+using rule quickly much faster formal
+analysis see nash equlibria cell abcc indeed cell bai maximum first columnmaximum second row abis maximumsecond column andis maximum first row cell
+cc cell either one duplet membermaximum corresponding row columns
+
+said actual mechanic finding equilibrium cellobvious find maximum column check second membertuple maximum row yesyouve got nash
+equilibrium check column way find cell nxn
+matrix may betweenand pure strategy nash equilibria
+
+stability
+
+concept stability useful analysis many kindequilibrium also applied nash equilibria
+
+nash equilibrium mixed strategy game stable small
+change specifically infinitesimal change probability one
+player lead situation two condition hold
+player change better strategy new
+circumstance
+player change playing strictly worse
+strategy
+
+case met player small changemixedstrategy return immediately nash equilibriumequilibrium said stable condition one doe holdequilibrium unstable condition one holdlikely infinite number optimal strategy player
+changed john nash showed latter situation could arise
+range welldefined games
+
+driving game example stable unstable
+equilibrium equilibrium involving mixedstrategies 
+probability stable either player change probabilities
+slightly disadvantage opponentreason change strategy turn 
+equilibrium instability either player change probabilities
+player immediately better strategy either 
+
+stability crucial practical application nash equilibria
+since mixedstrategy player perfectly knowninferred statistical distribution actiongame case unstable equilibrium unlikely arisepractice since minute change proportion strategy
+seen lead change strategy breakdownequilibrium
+
+note stability equilibrium related distinct
+stability strategy
+
+occurrence
+
+game unique nash equilibrium played among players
+certain characteristic true definitioncharacteristic strategy set adopted sufficient
+condition met playerplayer utmost maximize expected
+payoff described game
+player flawless execution
+player sufficient intelligence deduce solution
+common knowledge player meet conditions
+including one must player knowplayer meet condition also must knowknow meet know know know
+meet
+condition met
+
+example game theory problem condition met
+first condition met game doe correctly
+describe quantity player wish maximize case
+particular reason player adoptequilibrium strategy instance prisoner dilemmadilemma either player happy jailed indefinitely
+pong equilibrium played perfectlycomputer make human computer game interestingprogrammer add small error execution violating second
+condition
+many case third condition met even though
+equilibrium must exist unknown due complexitygame instance chinese chess known mayknown player playing tictactoe small
+child desperately want win meeting criteria
+fourth criterion common knowledge may met evenplayer fact meet criterion player wrongly
+distrusting others rationality may adopt counterstrategies
+expected irrational play opponent behalfmajor consideration inchicken arm race example
+
+condition met
+
+due limited condition actually observed
+rarely treated guide daytoday behaviour observed
+practice human negotiation however theoretical concepteconomics evolutionary biology ha explanatory powerpayoff economics money evolutionary biology gene
+transmission fundamental bottom line survival agents
+failing maximize whatever reason competedmarket environment ascribed ability teststrategy conclusion drawn thestability theory
+situation assumption strategy observedactually ha often borne research
+

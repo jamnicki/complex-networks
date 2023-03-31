@@ -1,0 +1,408 @@
+copyright
+
+acorn computers
+
+ school wikipedia selection related subject company computing
+hardware infrastructure
+
+
+featured article click information
+acorn computers
+typeformerly public acorn group plclsegbdefunct
+foundedcambridge england december 
+headquarters cambridge england
+key peoplechris curry
+steve furber
+hermann hauser
+andy hopper
+sophie wilson
+industrycomputer hardware
+productsmicrocomputer system
+atom
+bbc micro aka proton
+archimedes range
+riscpc range
+acorn network computer
+phoebe
+revenuena
+employeesunknown
+sloganno slogan
+websiteformerly wwwacorncom
+
+acorn computer british computer company establishedcambridge england inthe company produced number computers
+especially popular included acorn
+electron bbc micro acorn archimedes acorn bbc micro
+computer dominated educational computer marketearly drawing many comparison apple though
+company broken several independent operation 
+leaf impressive legacy particularly development risc
+personal computer number acorn former subsidiary notably
+arm holding live today
+
+although new company licensed acorn trademark sellrange branded laptop computer company staffone technology associated previous incarnation company
+
+prehistory
+
+onjulyclive sinclair founded sinclair radionics develop
+sell electronic device calculator failureblack watch wristwatch calculator market move ledlcd led financial problem sinclair approached national
+enterprise board neb help losing control companyneb sinclair encouraged chris curry leave radionics get
+science cambridge soc running junesoc launchedmicrocomputer kit curry wanted develop sinclair
+could persuaded development hermann
+hauser friend curry visiting socs officegrown interested product
+
+cpu ltd 
+
+curry hauser decided pursue joint interestmicrocomputer ondecemberthey set cambridge processor
+unit ltd cpu vehicle cpu soon obtained
+consultancy contract develop microprocessorbased controllerfruit machine ace coin equipment ace wale ace project
+wa started office space obtained market hill cambridge
+initially ace controller based scmp microprocessorsoon switch awas made
+
+microcomputer systems
+
+cpu financed development based microcomputer system
+using income designandbuild consultancy systemlaunched januaryas first product acorn computer ltdtrading name used cpu keep risk two different lines
+business separate acorn chosen microcomputer system
+wa expandable growthoriented also attractionappearing beforeapple telephone directory
+
+around time cpu andy hopper set orbis ltd commercialise
+cambridge ring networking system hopper worked phd
+wa soon decided bring cpu directorcould promote cpu interest university cambridge computer
+laboratory cpu purchased orbis hopper orbis shareexchanged share cpu ltd cpu role gradually changedacorn brand grew soon cpu simply holding company acorn
+wa responsible development work point currydisagreement sinclair formally left science cambridgejoin acorn employee market hill little
+later
+acorn systemupper board one shipped onapril 
+enlarge
+acorn systemupper board one shipped onapril 
+
+acorn microcomputer later renamed acorn systemwas designed
+sophie wilson semiprofessional system aimedengineering laboratory user price low enougharoundto appeal serious enthusiast well wasmall machine built two card one led display keypad
+cassette interface circuitry left keypadrest computer including cpu almostcpu signal accessible via eurocard connector
+
+systemmade easier expand system putting cpu
+card systemin inch eurocard rack allowed number
+optional addition systemtypically shipped keyboard
+controller external keyboard text display interface cassette
+operating system builtin basic interpreter
+
+systemmoved adding floppy disk support systemby
+including larger case second drive systemwas largely
+similar systembut included newermhz version
+
+atom
+
+development started science cambridge may 
+learning probably prompted curry conceive atom project
+target consumer market curry another designer nick toop
+worked curry home fen developmentmachine time acorn computer ltd incorporated
+curry moved acorn fulltime
+
+wa curry wanted target consumer marketother factions
+within acorn including engineer happymarket considering home computer rather frivolous product
+company operating laboratory equipment market keep
+cost give doubter reason object atom
+curry asked industrial designer allen boothroyd design casecould also function external keyboard microcomputer
+system internals systemwere placed inside keyboard
+creating quite typical setup inexpensive home computerearly sthe relatively successful acorn atom
+
+facilitate software development proprietary local area network
+installed market hill decided includeeconet atom launch computer show march
+eight networked atom demonstrated functionallowed file shared screen remotely viewed keyboards
+remotely slaved
+
+bbc micro electron
+
+atom market acorn could begin thinkreplacement new bit processor coming onto market 
+move direction great deal discussion
+hauser suggested compromisean improved based machine far
+greater expansion capability proton acorn technical staffwanted atom saw protonopportunity right
+
+one development proposed proton tubeproprietary interface allowing second processor addedcompromise would make affordablemachine mass
+market could expanded sophisticated expensive
+processor tube enabled processing farmed second
+processor leaving theto perform data inputoutput later
+year tube would play important role developmentacorn processor
+
+earlythe bbc education department conceived idea
+computer literacy programme mostly followup bbc
+documentary mighty micro christopher evansuk national physical laboratory predicted coming microcomputer
+revolution influential documentaryso muchquestion asked parliament result questiondepartment industry doi became interested programmebbc enterprise saw opportunity sell machine goseries bbc engineering instructed draw objective
+specification computer accompany series
+
+eventually pressure doi choose british
+system bbc chose newbrain newbury laboratoryselection revealed extent pressure brought bearsupposedly independent bbcs computer literacy projectnewburyowned national enterprise board government agency operating
+close collaboration doi choice also somewhat
+ironic given newbrain started life sinclair radionics
+project sinclair preference developingscience cambridge led curry leaving soc found cpu
+hauser neb moved newbrain newbury sinclair left
+radionics went soc
+
+inthe department education science debegun microelectronics education programme introduce
+microprocessing concept educational material inthroughdoi allocated funding assist local education
+authority supply school range computer bbc
+micro one popular parallel continuedfund material computer software applied
+computing project plus teacher training
+
+although newbrain heavy development newbury soon
+became clear going able produce 
+certainly time literacy programme bbcs
+specification bbcs programme initially scheduled autumn
+moved back springafter curry sinclair found
+bbcs plan bbc allowed manufacturersubmit proposal bbc visited acorn givendemonstration proton shortly afterwards literacy programme
+computer contract awarded acorn proton launched
+early inas bbc micro aprilacorn queens
+award technology bbc micro award paid special tribute
+bbc micros advanced design commended acorndevelopment microcomputer system many innovative features
+
+aprilsinclair launched spectrum curry conceivedelectron acorn subpound competitor many way cutdown
+bbc micro used one acorndesigned ula reproducefunctionality problem producing ulas led short supply
+electron although launched augustwasmarket sufficient number capitalise thechristmas sales
+period acorn resolved avoid problem inand negotiated new
+production contracts
+
+acorn computer group plc 
+
+bbc micro sold spectacularly wellso much acorn profits
+rose mereinto julyin september
+cpu share liquidated acorn floated unlisted
+security market acorn computer group plc acorn computer ltd
+microcomputer division minimum tender price pgroup came existence market capitalisation 
+million cpu founder herman hauser chris curry leapt instantly
+paper millionaire bracket hausersmillion share made
+worth currysmillion share translated
+new risc architecture
+
+even time atom acorn considering movetheprocessor bit acorn communicator developedusing thebeing key example
+
+ibm wa launched onaugustalthough versionmachine aimed enthusiast market much like bbc microreal area success business successor xt
+extended technology introduced earlythe successmachine variety zbased cpm machinebusiness sector demonstrated viable market especially
+given sector ability cope premium pricedevelopment business machine looked like good idea acorndevelopment programme started create business computer using
+acorn existing technologythe bbc micro mainboard tubesecond processor give cpm msdos unixxenix workstations
+
+acorn business computer abc plan required number second
+processor made work bbc micro platformdeveloping acorn implement tube protocolprocessor chosen process finding duringthatobvious candidate replace thebecause manycycle
+uninterruptible instruction example interrupt response times
+thewere slow handle communication protocolhost based bbc micro coped easily developmentnational semiconductor based model abc range later sold
+cambridge workstation shown sophie wilson steve furber
+value memory bandwidth also showed anmhzwas
+completely trounced performance term amhzfurthermore
+apple lisa shown acorn engineer neededdevelop windowing systemand going easymhz based system graphic acorn would need new
+architecture
+
+acorn tested available processor foundwanting ruled existing cpu clear developers
+acorn seriously consider designing processor
+acorn engineer came across paper berkeley risc projectcould handle truth class graduate student could
+create competitive bit processor acorn wouldproblem trip western design centre phoenix showed furber
+wilson need massive resourcestateoftheart facilities
+
+sophie wilson set developing instruction set writingsimulation processor bbc basic ran bbc microsecond processor convinced acorn engineerright track could howeverwould need resource time wilson approach hauser
+explain afoot goahead given small
+team put together implement wilson model hardware
+
+official acorn risc machine project started octobervlsi
+technology inc chosen silicon partner since already
+supplied acorn rom custom chip vlsi produced first
+arm silicon onaprilit worked first time cameknown arm first practical application second
+processor bbc micro used develop simulation
+software finish work support chip vidc ioc memcspeed operation cad software used developing arm
+wilson subsequently coded bbc basic arm assembly languageindepth knowledge obtained designing instruction set allowed
+code dense making arm bbc basic extremely good test
+arm emulator
+
+wa secrecy surrounding arm cpu project olivetti
+negotiating take controlling share acorn inthey
+told development team negotiations
+finalised inacorn queen awardtechnology arm
+
+financial problems
+
+acorn watershed year wasit gone public home
+computer market collapsed year atari sold apple
+nearly went bust acorn solved one problemthroughout history production volumes
+
+electron launched inbut problem supplyulas meant acorn able capitalise 
+christmas selling perioda successful advertising campaign including
+tv advertisement led toorders malaysian
+supplier able supplymachines apparently
+strong demand electron proved illusory rather wait
+parent bought commodore spectrum childrens
+present ferranti solved production problem inproduction
+reached anticipated volume contract acorn negotiated
+supplier flexible enough allow volumereduced quickly unanticipated situationsupplieselectron built acorn real trouble end yearhadunsold electron hand paidneeded storedat additional expense
+
+acorn also spending large portion reserve development
+bbc master developed arm project underwayacorn business computer entailed lot development workultimately proved something flop based
+version ever sold cambridge workstation obtaining
+federal approval bbc micro order expand united
+state proved drawnout expensive process proved futile 
+expansion device intended sold bbc
+micro tested radiation emission reduced
+around sunk operation ntsc modified bbc
+micros sold barely however make appearanceschool supergirl thefilm supergirl movie
+
+olivetti subsidiary 
+
+dire financial situation brought head february 
+one acorn creditor issued windingup petitionshort period negotiation curry hauser signed agreementolivetti onfebruary italian computer company took 
+stake acorn formillion went way covering acorns
+million loss previous six month valuation fellacorn peak valuation september 
+olivetti took controlling share acorn withof shares
+
+bbc master archimedes
+
+bbc master launched februaryand met great
+success fromtoaboutsystems soldcostingmainly school university numberenhanced version launchedfor example masterwhich
+hadkb ram internalprocessor msdos
+compatibility master turbo second
+processor
+
+first commercial use arm architecture arm
+development system tubelinked second processor bbc master
+allowed one write program new system soldaroundand included arm processor three support chip 
+mb ram set development tool enhanced versionbbc basic
+
+second armbased product acorn archimedes desktopcomputer
+released mid archimedes popular united kingdom
+australasia ireland considerably powerfuladvanced offering day market already
+stratifying pcdominated world acorn continued produce
+updated model archimedes including laptoplaunched risc top specification includedmhz strongarm processor sold mainly education
+specialist enthusiast markets
+
+arm ltd
+
+acorn silicon partner vlsi tasked finding new
+application arm cpu support chip hausers active book
+company developing handheld device arm cpu
+developer created static version processor armas
+
+apple developing entirely new computing platform newton
+various requirement set processor term power
+consumption cost performance also need fully
+static operation clock could stopped timeacorn risc machine came close meeting demandstill deficiency arm exampleintegral memory management unit function providedmemc support chip acorn resource develop
+one
+
+apple acorn began collaborate developing armdecided would best achieved separate companybulk advanced research development section acorndeveloped arm cpu formed basis arm ltd companyspun novemberacorn group apple computer incashareholding arm vlsi investor first arm
+licensee
+
+settop boxes
+
+inacorn online medium founded exploit projected
+videoondemand vod boom interactive television systemwould allow user select watch video content networkseptemberthe cambridge trial videoondemand service set
+acorn online medium anglia television cambridge cableadvanced telecommunication module ltd atmlthe trial involved
+creating wide area atm network linking tvcompany subscribers
+home delivering service home shopping online education
+software downloaded ondemand world wide web wide area
+network used combination fibre coaxial cable switches
+housed roadside cabinet cambridge cable existing
+network olivetti research laboratory developed technology usedtrial icl video server provided service via atm switches
+manufactured atml another company set hauser hoppertrial commenced speed ofmbits home subsequently
+increased tombits
+
+subscriber used acorn online medium settop box first six
+month trial involvedvod terminal second phaseexpanded coverhomes andschools furtherterminals
+test lab number organisation gradually joinedincluding natwest bank bbc post office tesco local
+education authority
+
+bbc education tested delivery radioondemand programme primary
+school new educational service education onlineestablished deliver material open university television
+programme educational software netherhall secondary schoolprovided inexpensive video server operated providertrial service anglia polytechnic university taking similar
+role time later hoped online medium could floated
+separate company predicted videoondemand boom never
+really materialised
+
+network computers
+
+bbcs money programme screened interview larry
+ellison octoberacorn online medium managing director malcolm
+bird realised ellison network computer basically acorn
+settop box initial discussion oracle corporationolivetti hauser acorn week later bird dispatchedsan francisco acorn latest set top box oracle already
+talked seriously computer manufacturer including sun apple
+contract putting together blueprint machinealso rumour industry said oracle working
+reference design bird visit oracle ellison visited
+acorn deal reached acorn would define reference
+standard
+
+ellison expecting announce februarysophie
+wilson put charge project midnovember draft
+nc specification ready januarythe formal detailcontract acorn oracle worked pcbdesigned ready put production februaryacorn
+network computing founded augustit launched acorn
+network computer
+
+wa hoped network computer would create significant new
+sector acorn network computing would major player either
+selling product earning money licence fee paidmanufacturer right produce ncend two acorn network computing major project creation
+new consumer device operating system galileoconjunction digital semiconductor arm new strongarm
+chipset sasa galileo main feature guaranteecertain quality service process resources
+cpu memory etc required ensure reliable operation would kept
+available regardless behaviour process sported higher clock rate existing strongarm cpuimportantly mediafocussed coprocessor attached medium processor
+amp wa first release target galileo
+
+incorporated stb business area separate
+company acorn reorganised manufacturing wholly
+owned subsidiary acorn risc technology art
+
+final break acornand ongoing developmenttechnology
+
+acorn last real hope becoming major player computer
+industry fizzled settop box takingexpected network computer bit flop 
+traditional reaching type price thought justify
+design increase bandwidth home slow come
+making web connection something luxury latebetweenandolivetti disposed interest acorn group
+series structured transaction raising acorn
+restructured operation bringing subsidiary company back
+together division within acorn acorn risc technology becameworkstation division closed latewhen acorn finally
+stopped producing desktopcomputers favour settop boxlast machine codenamed phoebe riscpcwas nearly fully developed
+time project abandonment therefore never
+produced volume sold public notably numberdistinctive yellow case produced sold cheaply
+
+arm however gone strength strength inthe company
+underwent initial public offering ipo reregistered public
+company name arm holding plc completed ipolisted share trading london stock exchangequotation nasdaq national market morgan stanley dean witter
+acted global coordinator bookrunner offering well
+sponsor broker listing london exchange
+
+januaryacorn group changed name acorn computer ltdelementltd recast image armthatdeveloper intellectual property case digital
+signal processing dsp market around time arm share valueincreased point capital value acorn group plcworth value itsholding arm situation led
+shareholder press acorn sell stake arm providereturn investment situation also led arm consider
+taking action since financially weak shareholderacorn putting arm vulnerable position acorn computer group
+plc purchased onjuneby morgan stanley dean witter
+investment limited transaction involved delisting acorn
+group plc result shareholding arm distributed
+acorn shareholders
+
+morgan stanley sold settopbox division pace forand
+pace thereby acquired control risc onjulyan acorn
+management team led stan boland bought dsp business element 
+msdw formillionits net asset value element 
+subsequently securedmillion firstround fundingbessemer venture partner atlas venture hausers amadeus capital
+partner headquarters cambridge engineering
+facility bristol headhunted alcatels top digital subscriber
+line dsl engineer including designer analogue frontenddigital xdsl modem software specialist asymmetric dsl
+adsl high rate dsl vdsl system thereby acquiredengineering centre mechelen belgium elementcontinueddevelop dsp product purchased broadcom november
+formillionmillion
+
+operating system developed phoebe risc oscodename ursula
+wa made available riscpc user riscos ltd licensedoperating system continues develop support sell risc today however market still competitive two strandcurrently developed risc osis available bitbit version acorn riscpc wellmicrodigitals riscstations computer mico alpha omega plus newly developed range advantagesix also workvirtualacorn range emulator bitonly risc osfrom
+castle used iyonix computer settop box castlecurrently considering opensource branch hopingachieve reunification two branches
+
+new company license acorn trademark 
+
+earlythe dormant acorn trademark licensed french
+company aristideco antiquaire marque new company basednottingham april internet news portal claimed company
+wa relaunch new company exhibited computer cts
+show birmingham nec early may company
+distributed leaflet inviting people part oneexciting brand relaunches history joining reseller
+program
+
+transpired new company sell range laptop
+computer employ staff previous incarnation acorn
+computersthe system use microsoft window rather risc operating system used acorn previous systemcompany doe support older acorn technology company
+launched onseptemberand employsmembers staff
+
+onjulynominets dispute resolution service drs ruleddomain name acorncomputerscouk transferred new
+acorn computer enthusiast roy johnson company madecomplaint drs contending use acorn computer company
+name illegal caused much confusion continuesdetrimental acorn extremely misleading despitefact johnson appeared operating website sinceleastfive year new acorn registeredcompany mail johnson registered address returned royal
+mail marked addressee gone away
+
+reuse acorn computer ltd name caused amountconfusion controversy particularly amongst user acorns
+previous products
+

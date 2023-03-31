@@ -1,0 +1,513 @@
+copyright
+
+cpu cache
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+
+featured article click information
+diagram cpu memory cache
+diagram cpu memory cache
+
+cpu cache cache used central processing unitcomputer reduce average time access memory cachesmaller faster memory store copy datafrequently used main memory location long memory accesses
+cached memory location average latency memory accesses
+closer cache latency latency main memory
+
+diagram right show two memory locationmemory datum cache line different design rangesize fromtobytes size cache line usually larger
+size usual access requested cpu instructionrange fromtobytes location memory also haindex unique number used refer locationindex location main memory called address location
+cache tag contains index datum main
+memory cached cpu data cache entrycalled cache line cache blocks
+
+processor wish read write location main memory
+first check whether memory location cacheaccomplished comparing address memory locationtag cache might contain address processor
+find memory location cache say cache hit
+ha occurred otherwise speak cache miss casecache hit processor immediately read writes datacache line proportion access result cache hitknown hit rate measure effectivenesscache
+
+case cache miss cache allocate new entrycomprises tag missed copy data memoryreference applied new entry casehit miss slow require data transferred
+main memory transfer incurs delay since main memorymuch slower cache memory
+
+detail operation
+
+order make room new entry cache miss cache
+generally evict one existing entry heuristicus choose entry evict called replacement policy
+fundamental problem replacement policy must
+predict existing cache entry least likely usedfuture predicting future difficult especially hardware
+cache use simple rule amenable implementation circuitry
+variety replacement policy chooseperfect way decide among one popular replacement policy lru
+replaces least recently used entry
+
+data written cache must point writtenmain memory well timing write controlledknown write policy writethrough cache every writecache cause write main memory alternatively writeback
+cache writes immediately mirrored memory insteadcache track location written locations
+marked dirty data location written back main
+memory data evicted cache reasonmiss writeback cache often require two memory accessservice one read new location memorywrite dirty location memory
+
+intermediate policy well cache maywritethrough writes may held store data queue
+temporarily usually multiple store processed together
+reduce bus turnaround improve bus utilization
+
+data main memory cached may changed entities
+case copy cache may become outofdate stale
+alternatively cpu update data cache copydata cache become stale communication protocolcache manager keep data consistent knowncoherency protocols
+
+time taken fetch datum memory read latency matters
+cpu often run thing waitingdatum cpu reach state called stall cpus
+become faster stall due cache miss displace potential
+computation modern cpu execute hundred instructiontime taken fetch single datum memory various techniqueemployed keep cpu busy time outoforder cpus
+pentium pro later intel design example attempt execute
+independent instruction instruction waitingcache miss data pentiumuses simultaneous multithreading 
+hyperthreading intels terminology allow second programuse cpu first program wait data come main
+memory
+
+associativity
+
+memory location cached cache locations
+enlarge
+memory location cached cache locations
+
+recall replacement policy decides cache copyparticular entry main memory replacement policyfree choose entry cache hold copy cachecalled fully associative extreme entry main
+memory one place cache cache direct
+mapped many cache implement compromise described set
+associative example level data cache amd athlonway set associative mean particular location main
+memory cached either oflocations level data
+cache
+
+location main memory cached either two
+location cache one logical question twosimplest commonly used scheme shown righthand diagram
+use least significant bit memory locations
+index index cache memory two entryindex one good property scheme tag storedcache include part main memory address
+specified cache memory index since cache tags
+fewer bit take area read compared
+faster
+
+scheme suggested skewed cacheindex wayis direct index wayis formed
+hash function good hash function propertyaddress conflict direct mapping tend conflict
+mapped hash function likelyprogram suffer unexpectedly large number conflict
+miss due pathological access pattern downside extra
+latency computing hash function additionally comes
+time load new line evict old line may difficultdetermine existing line least recently used new
+line conflict data different index way lru tracking
+nonskewed cache usually done perset basis
+
+associativity tradeoff ten place replacement
+policy put new cache entry cache checkedhit ten place must searched checking place takepower area potentially time hand cacheassociativity suffer fewer miss see conflict missrule thumb doubling associativity direct mappedway way way effect hit ratedoubling cache size associativity increase beyond way much
+le effect hit rate generally done reasons
+see virtual aliasing
+one advantage direct mapped cache allows simple
+fast speculation address computed one cache
+index might copy datum known cache entry
+read processor continue work data
+finish checking tag actually match requested
+address
+
+idea processor use cached data tag
+match completes applied associative cache well subset
+tag called hint used pick one possible
+cache entry mapping requested address datumused parallel checking full tag hint technique works
+best used context address translation explained
+
+cache misses
+
+cache miss refers failed attempt read write piecedata cache result main memory access much
+longer latency three kind cache misses
+
+cache read miss instruction cache generally causedelay processor least thread executionwait stall instruction fetched main memory
+
+cache read miss data cache usually cause delayinstruction dependent cache read issued continue
+execution data returned main memorydependent instruction resume execution
+
+cache write miss data cache generally cause least delay
+write queued limitationexecution subsequent instruction processor continuequeue full
+
+order lower cache miss rate great deal analysis hadone cache behaviour attempt find best combinationsize associativity block size sequence memory
+reference performed benchmark program saved address traces
+subsequent analysis simulate many different possible cache designlong address trace making sense many variables
+affect cache hit rate quite confusing one significant
+contribution analysis made mark hill separated
+miss three category known three compulsory miss miss caused first referencedatum cache size associativity make differencenumber compulsory miss prefetching helplarger cache block size form prefetching
+
+capacity miss miss occur regardlessassociativity block size solely due finite sizecache curve capacity miss rate versus cache size givemeasure temporal locality particular reference stream
+note useful notion cache fullempty near capacity cpu cache almost always nearly
+every line filled copy line main memorynearly every allocation new line requires evictionold line
+
+conflict miss miss could avoidedcache evicted entry earlier conflict missbroken mapping miss unavoidable given
+particular amount associativity replacement missdue particular victim choice replacement policy
+
+miss rate versus cache size integer portion spec cpu
+enlarge
+miss rate versus cache size integer portion spec cpu
+
+graph right summarizes cache performance seeninteger portion spec cpu benchmark collected hill
+cantinthese benchmark intended represent kindworkload engineering workstation computer might seegiven day see different effect three cgraph
+
+far right cache size labelled infcompulsory miss wish improve machine performancespecint increasing cache size beyondmib essentially
+futile thats insight given compulsory misses
+
+fullyassociative cache miss rate almost representativecapacity miss rate difference data presentedsimulation assuming lru replacement policy showingcapacity miss rate would require perfect replacement policy ieoracle look future find cache entryactually going hit
+
+note approximation capacity miss rate fall steeply
+betweenkib andkib indicates benchmark haworking set roughlykib cpu cache designer examiningbenchmark strong incentive set cache size tokib
+rather thankib note benchmark amountassociativity make akib cache perform well akib
+way even directmappedkib cache
+
+finally note betweenkib andmib large difference
+directmapped fullyassociative cache differenceconflict miss rate ofonchip secondary cache tendrange smaller cache fast enough primary
+cache larger cache become large produce economically
+onchipitaniumhas amib level onchip cache largest
+shipping onchip cache inthe insight looking conflict
+miss rate secondary cache benefit great deal high
+associativity
+
+benefit well known late early cpu
+designer could fit large cache onchip could get
+sufficient bandwidth either cache data memory cache tag
+memory implement high associativity offchip cache desperate
+hack attempted mips used expensive offchip dedicated
+tag srams embedded tag comparators large drivermatch line order implement amib way associative cachemips used ordinary sram chip tag tag accessway took two cycle reduce latency would guessway cache would hit access
+
+address translation
+
+general purpose cpu implement form virtual memorysummarize program running machine see simplified
+address space contains code data programprogram place thing address space without regardprogram address spaces
+
+virtual memory requires processor translate virtual addresses
+generated program physical address main memoryportion processor doe translation knownmemory management unit mmu fast path mmu perform
+translation stored awkwardly named translation lookaside
+buffer tlb cache mapping operating systems
+page table
+
+purpose present discussion three important
+feature address translation
+latency physical address available mmu time
+perhaps cycle virtual address availableaddress generator
+
+aliasing multiple virtual address map single physical
+address processor guarantee update single
+physical address happen program order deliverguarantee processor must ensure one copyphysical address resides cache given time
+
+granularity virtual address space broken pageinstance agib virtual address space might cutkib page independently mapped
+may multiple page size supported see virtual memoryelaboration
+
+historical note first virtual memory system slow
+required access page table held main memory
+every programmed access main memory cacheeffectively cut speed machine half first hardware
+cache used computer system actually data instruction
+cache rather tlb
+
+existence different physical virtual address raisequestion whether virtual physical address usedcache index tag motivation use virtual address speed
+virtuallyindexed virtuallytagged data cache cut mmu entirely
+loaduse recurrence latency recurrence load
+latency crucial performance cpu modern level
+cache virtually indexed least allows mmus tlb
+lookup proceed parallel fetching data cache
+ram
+
+virtual indexing always best choice introducesproblem virtual aliasesthe cache may multiple locations
+store value single physical address costdealing virtual alias grows cache size result
+level larger cache physically indexed
+
+virtual tagging uncommon tlb lookup finishcache ram lookup physical address available timetag compare need virtual tagging large caches
+tend physically tagged small low latency
+cache virtually tagged recent generalpurpose cpu virtual
+tagging superseded vhints described
+virtual indexing virtual aliases
+
+usual way processor guarantee virtually aliased addresses
+act single storage location arrange one virtual
+alias cache given time
+
+whenever new entry added virtuallyindexed cacheprocessor search virtual alias already resident evicts
+first special handling happens cache missspecial work necessary cache hit help keep fast
+path fast
+
+straightforward way find alias arrangemap location cache happens instance
+tlb egkib page cache direct mapped 
+kib less
+
+modern level cache much larger thankib virtual memory
+page stayed size cache egkib virtually
+indexed virtual address four cache locationcould hold physical location aliased different virtual
+address cache miss four location must probedsee corresponding physical address match physical
+address access generated miss
+
+probe check set associative cache usselect particular match akib virtually indexed cacheway set associative used withkib virtual memory pagespecial work necessary evict virtual alias cache misses
+check already happened checking cache
+hit
+
+using amd athlon example akib level data
+cachekib page way set associativity level data
+cache suffers missof thekib kib possible virtual
+alias already checked seven cycletag check hardware necessary complete check virtual
+aliases
+
+virtual tag vhints
+
+virtual tagging possible great advantage virtual tagassociative cache allow tag match proceed
+virtual physical translation done however
+coherence probe eviction present physical addressaction hardware must mean convertingphysical address cache index generally storing
+physical tag well virtual tag comparison physically
+tagged cache doe need keep virtual tag simpler
+
+virtual physical mapping deleted tlb cache
+entry virtual address flushed
+somehow alternatively cache entry allowed pagemapped tlb entry flushedaccess right page changed page table
+
+also possible operating system ensure virtual
+alias simultaneously resident cache operating system
+make guarantee enforcing page coloring described
+early risc processor sparc took approach
+ha used recently hardware cost detectingevicting virtual alias fallen software complexityperformance penalty perfect page coloring risen
+
+useful distinguish two function tagassociative cache used determine way entry
+set select used determine cache hitmissed second function must always correctpermissible first function guess get wrong answer
+occasionally
+
+processor early sparcs cache virtualphysical tag virtual tag used way selectionphysical tag used determining hit miss kind cache
+enjoys latency advantage virtually tagged cachesimple software interface physically tagged cache bearadded cost duplicated tag however also miss processing
+alternate way cache line indexed probedvirtual alias match evicted
+
+extra area latency mitigated keeping virtual
+hint cache entry instead virtual tag hintsubset hash virtual tag used selecting way
+cache get data physical tag likevirtually tagged cache may virtual hint match physical
+tag mismatch case cache entry matching hint must
+evicted cache access cache fill address
+one hint match since virtual hint fewer bitvirtual tag distinguishing one another virtually hinted
+cache suffers conflict miss virtually tagged cache
+
+perhaps ultimate reduction virtual hint foundpentiumwillamette northwood core processorvirtual hint effectivelybits cache way set
+associative effectively hardware maintains simple permutation
+virtual address cache index cam necessaryselect right one four way fetched
+
+page coloring
+
+large physically indexed cache usually secondary cache runproblem operating system rather application controls
+page collide one another cache difference page
+allocation one program run next lead differencecache collision pattern lead large differenceprogram performance difference make difficultget consistent repeatable timing benchmark runlead frustrated sale engineer demanding operating system
+author fix problem
+
+understand problem consider cpu amib physically
+indexed directmapped level cache andkib virtual memory pages
+sequential physical page map sequential location cache
+afterpages pattern wrap around labelphysical page colour ofto denote cachego location within physical page different color cannot
+conflict cache
+
+programmer attempting make maximum use cache may arrange
+program access pattern onlymib data need cached
+given time thus avoiding capacity miss also
+ensure access pattern conflict miss one waythink problem divide virtual page program
+us assign virtual color way physical colors
+assigned physical page programmer arrange
+access pattern code two pagevirtual colour use time wide literature
+optimization loop nest optimization largely coming
+high performance computinghpc community
+
+snag page use given moment may
+different virtual color may physical colors
+fact operating system assigns physical page virtual
+page randomly uniformly extremely likely pages
+physical colour location pages
+collide cache birthday paradox
+
+solution operating system attempt assign
+different physical colour page different virtual colortechnique called page coloring although actual mappingvirtual physical colour irrelevant system performance odd
+mapping difficult keep track little benefitapproach page coloring simply try keep physicalvirtual page color
+operating system guarantee physical page mapone virtual color virtual aliasprocessor use virtually indexed cache need extra
+virtual alias probe miss handling alternativelyflush page cache whenever change one virtual colour
+another mentioned approach used early
+sparc designs
+
+cache hierarchy modern processor
+
+modern processor multiple interacting cache chip two issues
+driven development modern cache hierarchy
+
+specialized caches
+
+first issue pipelined cpu access memory multiple
+point pipeline instruction fetch virtualtophysical address
+translation data fetch simple example see classic risc
+pipeline natural design use different physical cachepoint one physical resource hascheduled service two point pipeline thus pipeline
+naturally end least three separate cache instruction
+tlb data specialized particular role
+
+victim cache
+
+victim cache cache used hold block evicted cpu cache
+due conflict capacity miss victim cache liemain cache refill path hold block evicted
+cache miss technique used reduce penalty
+incurred cache miss
+
+original victim cache pa small
+fullyassociative cache later processor amd k
+used large secondary cache victim cache avoid
+duplicate storage content large primary cache
+
+trace cache
+
+one extreme example cache specialization trace
+cache found intel pentiummicroprocessors trace cachemechanism increasing instruction fetch bandwidth decreasing
+power consumption case pentiumby storing traceinstruction already fetched decoded mechanism
+wa first proposed eric rotenberg steve bennett jim smiththeirpaper trace cache low latency approach high bandwidth
+instruction fetching
+
+trace cache store instruction either decoded
+retired generally instruction added trace
+cache group representing either individual basic block dynamic
+instruction trace basic block consists group nonbranch
+instruction ending branch dynamic trace trace path
+contains instruction whose result actually usedeliminates instruction following taken branch sinceexecuted dynamic trace concatenation multiple basic
+block allows instruction fetch unit processor fetch
+several basic block without worry branchexecution flow
+
+trace line stored trace cache based program counter
+first instruction trace set branch predictions
+allows storing different trace path startaddress representing different branch outcomeinstruction fetch stage pipeline current program counter
+along set branch prediction checked trace cache
+hit hit trace line supplied fetchdoe regular cache memoryinstruction trace cache continues feed fetch unittrace line end misprediction pipeline
+miss new trace start built
+
+trace cache also used processor like intel pentiumto
+store already decoded microoperations translation complex instruction next time instruction neededdecoded
+see full text smith rotenberg bennett paper citeseer
+
+harvard architecture
+
+pipeline separate instruction data cache saidharvard architecture originally phrase referred machineseparate instruction data memory wayprogram alter instructions
+
+multilevel caches
+
+second issue fundamental tradeoff cache latencyhit rate larger cache better hit rate longer latencyameliorate tradeoff many computer use multiple level cache
+small fast cache backed larger slower cachelatency difference main memory fastest cache become
+larger processor begun utilize many three levels
+onchip cache example initanium began shippingamib unified levelcache onchip ibm powerseries 
+mib levelcache chip shared among several processors
+
+multilevel cache generally operate checking smallest level 
+cache first hit processor proceeds high speedsmaller cache miss next larger cache checkedmain memory checked
+
+multilevel cache introduce new design decision instanceprocessor like intel pentiumandas wellrisc data cache may also cachecache called inclusive processor like amd athlon
+exclusive cachesdata guaranteed onel caches
+
+advantage exclusive cache store dataadvantage larger larger cache miss hit access hitting cache line exchangedline exchange quite bit workcopying line l inclusive cache
+implementation inclusive cache guarantee datal cache also cache one advantage strictly inclusive
+cache external device processormultiprocessor system wish remove cache line processor
+need processor check cache cache
+hierarchy enforce inclusion cache mustchecked well drawback correlationassociativities l cache cache doeleast much way cache together effective
+associativity cache restricted
+
+another advantage inclusive cache larger cache use
+larger cache line reduces size secondary cache tags
+secondary cache order magnitude largerprimary cache data order magnitude largercache tag tag area saved comparable incremental
+area needed store cache data 
+mentioned larger computer sometimes another cache
+l cache main memory called cache cacheimplemented separate chip cpu ofmay
+range size fromtomegabytes chip cachegenerally cost well excess ofto implement benefits
+depend application access pattern highend workstations
+server available cache option implementedmicroprocessor die increasing speed reducing cost
+substantially example intels xeon product codenamed tulsa
+featuresmib ondie cache shared two processor cores
+
+finally end memory hierarchy cpu register
+file considered smallest fastest cachesystem special characteristic scheduledsoftwaretypically compiler allocates register hold
+value retrieved main memory see especially loop nest
+optimization register file sometimes also hierarchy cray
+circahadaddress andscalar data registergenerally usable also set ofaddress 
+scalar data register took longer access faster
+main memory register providedcray data cache cray howeverinstruction cache
+
+example 
+illustrate specialization multilevel cachingcache hierarchy amd athlonwhose core design knownk 
+example hierarchy example hierarchy 
+k hasspecialized cache instruction cache instruction
+tlb data tlb data cache cache specialized
+instruction cache keep copy ofbyte line memoryfetchesbytes cycle byte cache storedten bit rather thanwith extra bit marking boundaries
+instruction example predecoding cacheparity protection rather ecc parity smaller
+damaged data replaced fresh data fetchedmemory always uptodate copy instructions
+
+instruction tlb keep copy page table entry ptescycle instruction fetch virtual address translated
+tlb physical address entry eitheror
+byte memory tlbs split two section one
+keep ptes mapkib one keep ptes mapmibmib split allows fully associative match circuitrysection simpler operating system map different
+section virtual address space different size ptes
+
+data tlb two copy keep identical entry two
+copy allow two data access per cycle translate virtual
+address physical address like instruction tlb tlb
+split two kind entries
+
+data cache keep copy ofbyte line memory split
+intobanks storingkib data fetch two byte
+data cycle long data different banktwo copy tag eachbyte line spread
+among allbanks tag copy handle one two accesses
+per cycle
+
+k also multiplelevel cache secondlevel
+instruction data tlbs store ptes mappingkibinstruction data cache various tlbs filllarge unified cache cache exclusive instruction data cache mean byte lineone instruction cache data cache cache however possible line data cachepte also one tlbsthe operating systemresponsible keeping tlbs coherent flushing portionpage table memory updated
+
+k also cache information never storedmemoryprediction information cache showndiagram usual class cpu ha fairly complex
+branch prediction table help predict whether branchtaken table predict target branch jumps
+information associated instructionlevelinstruction cache unified secondary cache
+
+k interesting trick store prediction informationinstruction secondary cache line secondary cacheprotected accidental data corruption alpha particle
+strike either ecc parity depending whether lineevicted data instruction primary cache since parity
+code take fewer bit ecc code line instruction
+cache spare bit bit used cache branch
+prediction information associated instruction net
+result branch predictor larger effective history
+table better accuracy
+
+hierarchies
+
+processor kind predictor storetoload
+bypass predictor dec alphaand various specialized
+predictor likely flourish future processors
+
+predictor cache sense store information
+costly compute terminology used discussing
+predictor cache one speaks hitbranch predictor predictor generally thought part
+cache hierarchy
+
+k keep instruction data cache coherent hardware
+mean store instruction closely followingstore instruction change following instructionprocessor like alpha mips family reliedsoftware keep instruction cache coherent storeguaranteed show instruction stream program calls
+operating system facility ensure coherency idea save
+hardware complexity assumption selfmodifying code rare
+
+implementation
+
+cache read common cpu operation takesingle cycle program execution time tends sensitivelatency level data cache hit great deal design effortoften power silicon area expended making cache fastpossible
+
+simplest cache virtually indexed directmapped cachevirtual address calculated adder relevant portionaddress extracted used index sram returnloaded data data byte aligned byte shifterbypassed next operation need tag
+checking inner loopin fact tag need even read
+later pipeline load instruction retiredtag loaded data must read checked virtual
+address make sure cache hit miss cacheupdated requested cache line pipeline restarted
+
+associative cache complicated form tag must
+read determine entry cache select nway
+setassociative level cache usually read possible tag data parallel chooses data associatedmatching tag level cache sometimes save power reading tags
+first one data element read data sram
+read path way associative cache
+read path way associative cache
+
+diagram right intended clarify mannervarious field address used address bit labelled
+little endian notation bitis significant bitis least
+significant diagram show srams indexing multiplexing
+akib way setassociative virtually indexed virtually
+tagged cache withb line read width virtual address
+
+cache iskib hasb line justlines
+cache read two time tag sram 
+row pair ofbit tag although function virtual
+address bitsthroughcould used index tag data
+srams simplest use least significant bits
+
+similarly cache iskib ab read pathread two way access data sram isrows bybytes
+wide
+
+modern cache might bekib way setassociative virtually
+indexed virtually hinted physically tagged withb line read width physical address read path recurrencecache look similar path instead tags
+vhints read matched subset virtual address
+later pipeline virtual address translatedphysical address tlb physical tag read onevhint supply way cache read finallyphysical address compared physical tag determine hit
+ha occurred
+
+sparc design improved speed cachegate delay collapsing virtual address adder sram
+decoder see sum addressed decoder
+

@@ -1,0 +1,393 @@
+copyright
+
+emacs
+
+ school wikipedia selection related subject software
+
+caption emacs
+
+emacs logo
+gnu emacsinterface running graphical environment
+maintainer gnu project
+stable releasefeb
+preview releasedecember
+crossplatform
+available language englishuse text editor
+license gpl
+website wwwgnuorgsoftwareemacs
+
+emacs class text editor possessing extensive setfeature popular computer programmertechnically proficient computer users
+
+gnu emacs part gnu project active developmentpopular version gnu emacs manual describesextensible customizable selfdocumenting realtime display editor
+also portable ported implementationemacs ofthe latest release gnu emacs version 
+
+original emacs set editor macro teco editorwritten inby richard stallman initially put together guy
+steele inspired idea tecmac tmacs pairtecomacro editor written guy steele dave moon richard
+greenblatt charles frankston others many version emacsappeared year nowadays two commonly
+used gnu emacs started richard stallman inand still
+maintained xemacs fork gnu emacs startedha remained mostly compatible use powerful extension
+language emacs lisp allows handle task rangingwriting compiling computer program browsing web
+
+people make distinction capitalized word emacs
+used refer editor derived version created richard
+stallman particularly gnu emacs xemacs lowercase word
+emacs used refer large number independent
+emacs reimplementations word emacs often pluralizedemacsen analogy example debians compatible emacs
+package named emacsencommon plural given collins
+english dictionary emacsen
+
+unix culture emacs one two main contendertraditional editor war 
+history
+
+caption emacs
+
+emacs
+xemacs
+emacs lisp
+notable smaller emacsen
+microemacs
+mg
+freemacs
+zile
+
+emacs began life mit labintroduction default editor incompatible timesharing system
+operating system lab pdp pdp computers
+wa line editor known teco unlike modern text editor teco
+treated typing editing document display separate mode like
+later would typing character teco placecharacter directly document one write seriesinstruction teco command language telling enterrequired character time edited text wadisplayed screen behaviour similar program still use
+
+richard stallman visited stanford lab inorand saw
+lab editor editor intuitive wysiwyg behaviourused almost universally modern text editor impressedfeature stallman returned mit carl mikkelsen onehacker lab added displayediting mode called
+controlr teco allowing screen display updatedtime user entered keystroke stallman reimplemented moderun efficiently added macro feature teco displayediting
+mode allowing user redefine keystroke run teco
+program
+
+new version teco instantly popular lab soon
+accumulated large collection custom macro whose names
+often ended mac mac stood macro two years
+later guy steele took project unifying overly diverse
+keyboard command set single set one night joint
+hacking steele stallman latter finished implementation
+included facility extending documenting new macro
+set resulting system called emacs stood editing
+macro according stallman picked name emacs wa use abbreviation time alsopointed thatemackbolios name popular ice cream
+store boston within walking distance mit textformatting
+program used later named bolio dave moon frequented
+store however stallman like ice creameven know choosing name emacs ignorancebasis hacker koan emacs bolio
+
+stallman realized danger much customization defacto
+forking set certain condition usage later wrote
+
+emacs distributed basis communal sharingmean improvement must given backincorporated distributed
+
+original emacs like teco ran pdp line behaviour
+wa different enough teco considered text editorright quickly became standard editing programwa also ported tenex top operating systemmichael mcmahon unix initially contributor early
+version emacs include kent pitman earl killian eugene
+ciccarelli
+
+emacsen
+
+many emacslike editor written following yearcomputer system including sine sine emacs eine eineemacs zwei zwei eine initially lisp machine
+written michael mcmahon daniel weinreb names
+mean one two german respectively althoughcorrectly spelled eins inbernard greenberg wrote multics
+emacs honeywells cambridge information system lab
+
+first emacslike editor run unix gosling emacs written
+inby james gosling later invented java programming
+language written notably used languagelisplike syntax known mocklisp extension language init
+wa proprietary software
+
+gnu emacs
+
+installman began working gnu emacs produce free software
+alternative gosling emacs initially based gosling emacs
+stallman replaced mocklisp interpreter heart true
+lisp interpreter entailed replacing nearly codebecame first program released nascent gnu project gnu emacs
+written provides emacs lisp implemented cextension language first widely distributed version gnu emacs
+waswhich appeared inversionstonever existed
+earlier version gnu emacs numbered sometime
+versionthe decision made drop theathought major number would never change versionthe first
+public release made march
+
+like gosling emacs gnu emacs ran unix however gnu emacsfeature particular fullfeatured lisp extension languageresult soon replaced gosling emacs facto emacs editor
+unix
+
+untilgnu emacs development relatively closed point
+wa used example cathedral development stylecathedral bazaar project since adopted public
+development mailing list anonymous access development takes
+place single trunk versionthe current
+maintainer richard stallman
+
+xemacs
+
+enlarge
+
+beginning inlucid emacs developed jamie zawinskiothers lucid inc based early alpha version gnu emacs 
+codebases soon diverged separate development team gavetrying merge back single program onefamous early fork free software program lucid emacssince renamed xemacs gnu emacs remain two popular
+variety use today
+
+implementations
+
+gnu emacs initially targeted computer bit flat
+address space leastmib ram timecomputer considered high end left opening smaller
+reimplementations noteworthy one listedmicroemacs portable implementation originally writtendave conroy developed daniel lawrence exists
+many variation editor used linus torvalds
+mg originally called micrognuemacs offshoot microemacs
+intended closely resemble gnu emacs installeddefault openbsd
+jove jonathan version emacs nonprogrammable emacs
+implementation unixlike system jonathan payne
+freemacs version extension language based text
+macro expansion within originalkib flat memory limit
+
+licensing
+
+gnu emacs gnu package general remains policyaccept significant code contribution copyright holder
+executes suitable disclaimer assignment copyright
+interest although one exception made policy mule
+multilingual extension handle unicode advanced
+method dealing language script code sincecopyright holder japanese government copyright assignment
+wa possible doe apply extremely minor code
+contribution bug fix strict definition minorguideline thanlines code considered minorpolicy intended facilitate copyleft enforcement fsf
+defend software court case one arises requirement
+gnu emacs maintainer assumed affect contributionpeople claim even affect performance inabilitygnu emacs handle large file efficient manner could blamed
+mentioned requirement repelling serious developer however
+according stallman important programfree good aspect enforcement provides legal
+confidence gnu emacs free software licensethe gnu general
+public licenseand free software itselfan intellectual work
+many copyright contributors
+
+features
+
+remainder article discus modern emacs gnu emacsxemacs incarnation emacs widely used todayterm emacs used refer programsimilar feature xemacs started fork gnu emacs subsequent
+version remained compatible gnu emacs
+
+spite ofor perhaps ofits venerable background emacs
+one powerful versatile text editor existencenoted primarily text editor word
+processor huge feature set geared toward helping usermanipulate piece text rather manipulating fontcharacter printing document though emacs well
+emacs brings host feature bear deceptively
+simpleseeming task text editing ranging commandmanipulate word paragraph deleting moving moving
+forth syntax highlighting making source
+code easier read executing keyboard macro performing
+arbitrary batch editing command defined user
+
+rich variety feature found emacs result unusual
+design almost functionality editor rangingbasic editing operation insertion characterdocument configuration user interface controlleddialect lisp programming language known emacs lisplisp environment variable even entire function modified
+fly without recompile even restart editorresult behaviour emacs modified almost without limit
+either directly user commonly loading bodyemacs lisp code known variously library packageextensions
+
+emacs contains large number emacs lisp librarythirdparty library found internet many libraries
+implement computer programming aid reflecting emacs popularity among
+programmer emacs used integrated development environment
+ide allowing programmer edit compile debug code
+within single interface library perform unusual
+function example listedcalc powerful numerical calculator
+calendarmode keeping appointment calendar diaries
+doctor implementation eliza performs basic rogerian
+psychotherapy
+dunnet text adventure
+ediff working diff file interactively
+emerge comparing file combiningemacsw web browser
+erc irc client
+gnu fullfeatured newsreader email client
+mule multilingual extension emacs allowing editing text
+written multiple language somewhat analogous unicode
+info online helpbrowser
+emacswiki lispbased wiki software emacs
+planner personal information manager emacs
+tetris
+pong
+
+downside emacs lispbased design performance overhead
+resulting loading interpreting lisp code systems
+emacs first implemented emacs often noticeably slower
+rival text editor several joke acronym allude eight
+megabyte constantly swapping day eight megabytes
+wa lot memory emacs make computer slow eventually mallocs
+computer storage eventually make computer sick however
+modern computer fast enough emacs seldom felt slow
+fact emacs start quickly modern word processors
+joke acronym describe user interface escape meta alt
+control shift
+
+platforms
+
+emacs one ported nontrivial computer programworld run wide variety operating system includingunixlike system gnulinux various bsds solaris aix irix mac
+x etc msdos microsoft window openvms unix systemfree proprietary frequently provide emacs bundledoperating system
+
+emacs run text terminal graphical user interface gui
+environment unixlike operating system emacs x window
+system produce gui either directly using widget toolkit
+motif lesstif gtk emacs also use native
+graphical system mac using carbon interfacemicrosoft window graphical interface provides menubars toolbars
+scrollbars context menus
+
+editing modes
+
+emacs adapts behaviour type text editingentering editing mode called major mode major mode defined
+ordinary text file source code many programming languages
+html document tex latex document many type text
+major mode tweak certain emacs lisp variable make emacs
+behave conveniently particular type textparticular usually implement syntax highlighting using different
+font color display keywords comment forth major
+mode also provide special editing command example major modes
+programming language usually define command jumpbeginning end function
+
+behaviour emacs customized using minor modes
+one major mode associated buffer time
+multiple minor mode simultaneously active examplemajor mode programming language defines different minor
+mode popular indent styles
+
+customization
+
+many user emacs customize editor suit needthree primary way customize emacs first customize
+extension allows user set common customization variables
+colour scheme using graphical interfaceintended emacs beginner want work emacs lisp
+code
+
+second collect keystroke macro replayautomate complex repetitive task often done adhoc
+basis macro discarded use although macro saved
+invoked need
+
+third method customizing emacs using emacs lisp usually
+usersupplied emacs lisp code stored file called emacsloaded emacs start emacs file often used set
+variable key binding different default settingdefine new command user find convenient many advanced users
+emacs file hundred line long idiosyncratic
+customizations cause emacs diverge wildly default
+behaviour
+
+body emacs lisp code generally useful often packaged
+library distributed user many thirdparty
+library found internet example library
+called wikipediamode editing wikipedia article evenusenet newsgroup gnuemacssources used posting new
+library thirdparty library eventually make wayemacs thus becoming standard library
+
+documentation
+
+first emacs included powerful help library displaydocumentation every single command variable internal
+function may originated techniqueemacs described selfdocumenting term doe mean
+emacs writes documentation rather presents
+documentation user feature make emacs
+documentation accessible example user findcommand bound particular keystroke simply entering k
+run command describekey followed keystrokefunction included documentation string specifically usedshowing user request practice giving functions
+documentation string subsequently spread various programming
+language lisp java
+
+emacs help system useful beginner alsoadvanced user writing emacs lisp code documentationfunction variable enough help system usedbrowse emacs lisp source code builtin libraryinstalled thirdparty library therefore convenientprogram emacs lisp using emacs
+apart builtin documentation emacs unusually long
+detailed wellwritten manual electronic copy gnu emacs
+manual written richard stallman included gnu emacsviewed builtin info browser xemacs similar manual
+forked gnu emacs manual time xemacs
+software two manual emacs lisp reference manual bill
+lewis richard stallman dan laliberte programming emacs
+lisp robert chassell also included apart electronic
+version three manual also available book form published
+free software foundation
+
+emacs also builtin tutorial emacs started file
+edit display instruction performing simple editing
+command invoking tutorial
+
+internationalization
+
+emacs support editing text written many human languages
+support many alphabet script writing systemcultural convention emacs provides spell checking many languages
+calling external program ispell many encoding systems
+including utf supported xemacs versionhas partial unicode
+support emacshas similar support emacswill bettereffort use emacsspecific encoding internally
+necessitating conversion upon load save utf becomeemacsinternal encoding later version xemacsand
+likely emacs 
+
+however emacs user interface english hatranslated language exceptionbeginner tutorial
+
+visually impaired blind user subsystem called
+emacspeak allows editor used audio feedback
+
+license
+
+source code including emacs lisp componentfreely available examination modification redistribution
+term gnu general public license gpl older versions
+gnu emacs documentation released adhoc license
+required inclusion certain text modified copygnu emacs user manual example included obtain
+gnu emacs richard stallmans political essaythe gnu manifesto
+xemacs manual inherited older gnu emacs manuals
+fork occurred license newer versiongnu emacs documentation meanwhile gnu free documentation
+license make use invariant section require inclusion
+document additionally requiring manual proclaim
+gnu manuals
+
+using emacs
+
+commands
+
+unix shell file opened editing typing emacs
+filename filename entered doe exist filecreated name example emacs xorgconf editxorgconf file current directory exists however emacs
+documentation recommends starting emacs without file name avoid
+bad habit starting separate emacs file edit
+visiting file single emacs process way get full
+benefit emacs
+
+normal editing mode emacs behaves like text editors
+character key cetc insert corresponding
+character arrow key move editing point backspace deletes
+text forth command invoked modified
+keystroke pressing control key andor meta key alt keyconjunction regular key every editing command actuallycall function emacs lisp environment even commandsimple typing insert character involves callingfunctionin case selfinsertcommand
+
+basic command shown found list
+emacs command control key ctrl denoted capital meta alt alt key capitalcommand keystroke description
+forwardword move forward past one word
+searchword search word buffer
+undo undo last change prior change pressed repeatedly
+keyboardquit abort current command
+fillparagraph wrap text fill paragraph
+findfile cf visit file specify name editor
+buffer
+savebuffer c save current editor buffer visited file
+savewithnewname cw save current editor buffer filename specify
+savebufferskillemacs cc offer save change exit emacs
+setmarker cspacec set marker want cutcopy
+cut cut text marker cursor
+copy copy text marker cursor
+paste paste text emacs clipboard
+kill buffer k kill current buffer
+
+note command savebuffer savebufferskillemacs use
+multiple modified keystroke example cc mean holding
+control key press holding control
+key press technique allowing command boundkeyboard use single keystroke alone popularized
+emacs got tecmac one teco macro collections
+immediately preceded emacs since made way modern
+code editor like visual studio
+
+emacs running graphical interface many commandinvoked menubar toolbar instead using keyboard
+however many experienced emacs user prefer use keyboard
+faster convenient necessary keystrokes
+memorized
+
+emacs command work invoking external programispell spellchecking gcc program compilation parsingprogram output displaying result emacs
+
+minibuffer
+
+minibuffer normally bottommost line emacs requests
+information text target search name file readsave similar information entered minibufferapplicable tab completion usually available
+
+file management display
+
+emacs keep text object called buffer user create new
+buffer dismiss unwanted one several buffer existtime buffer contain text loaded text fileuser edit save back disk buffer also used store
+temporary text documentation string displayed help
+library
+
+text terminal graphical mode emacs able splitediting area separate section referred sinceas
+window confusing system another concept
+window well one buffer displayedtime many example one section useddisplay source code program another displayresult compiling program graphical environment emacs
+also launch multiple graphicalenvironment window knownframe context emacs
+
+emacs pinky
+
+emacs dependence modifier key particularcontrol key pressed pinky finger heavy emacs userexperienced pain pinky finger see repetitive strain injury
+fatfinger dubbed emacs pinky advocate often cite reason switch alleviatesituation many emacs user transpose left control key left
+capslock key define control key also kinesiss
+contoured keyboard available reduce strain movingmodifier key altogether position easily
+pushed thumb microsoft natural keyboard large
+modifier key placed symmetrically side keyboardpressed palm
+

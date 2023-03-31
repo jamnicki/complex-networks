@@ -1,0 +1,174 @@
+copyright
+
+electricity
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+lightning strike nighttime thunderstorm energy radiated
+light powerful electric current flow earths
+atmosphere
+lightning strike nighttime thunderstorm energy radiated
+light powerful electric current flow earths
+atmosphere
+
+electricity fromelectron amber general termvariety phenomenon resulting presence flowelectric charge together magnetism constitutesfundamental interaction known electromagnetism includes many
+wellknown physical phenomenon lightning electromagnetic fields
+electric current put use industrial applications
+electronics electric power
+
+casual usage term electricity applied several related
+concept better identified precise terms
+electric potentialthe capacity electric field work
+typically measured volts
+electric currenta movement flow electrically charged
+particle typically measured amperes
+electric fieldan effect produced electric chargeexerts force charged object vicinity
+electrical energythe energy made available flowelectric charge electrical conductor
+electric powerthe rate electric energy convertedanother energy form light heat mechanical
+energy
+electric chargea connection conserved property subatomic
+particle determines electromagnetic interactions
+electrically charged matter influenced produces
+electromagnetic fields
+
+history electricity
+
+static electricity rubbing object fur knownancient greece parthian mesopotamia parthianmesopotamians may knowledge electroplating baseddiscovery baghdad battery resembles galvanic cell
+
+benjamin franklin conducted extensive research electricitytheory relationship lightning static electricity
+including famous kiteflying experimentwhich key attachedwet string kite lightning storm small spark struck
+finger showing lightning electricity sparkedinterest later scientist whose work provided basis modern
+electrical technology notably include luigi galvani
+alessandro voltamichael faraday 
+andrmarie ampreand georg simon ohmthe
+late early century produced giant electrical
+engineering nikola tesla samuel morse antonio meucci thomas
+edison george westinghouse werner von siemens charles steinmetz
+alexander graham bell william thomson baron kelvin
+franklin kite plaque
+franklin kite plaque
+
+concept detail
+
+electric potential
+
+electric potential difference two point definedwork done electrical force per unit charge movingpositive point charge slowly two point one points
+taken reference point zero potential electric
+potential point defined term work done per
+unit charge moving positive point charge reference point
+point potential determined isolated
+charge reference point usually taken infinitypotential measured voltsvoltjoule coulombelectric potential analogous temperature different
+temperature every point space temperature gradient
+indicates direction magnitude driving force behind heat
+flow similarly electric potential every pointspace gradient indicates direction magnitudedriving force behind charge movement
+
+electric current
+
+nikola tesla
+nikola tesla
+
+electric current flow electric charge intensitymeasured ampere example electric current include metallic
+conduction electron flow conductor conductormetal wire electrolysis ion charged atom flow
+liquid particle often move quite slowly
+electric field drive propagates closespeed light see electrical conduction information
+
+device use charge flow principle material called
+electronic devices
+
+direct current unidirectional flow alternating
+current revers direction repeatedly time averagealternating current zero energy capabilityrms valuezero
+
+ohm law important relationship describing behaviourelectric current relating voltage
+
+historical reason electric current said flowpositive part circuit negative part electric
+current thus defined called conventional current known
+depending condition electric current consistflow charged particle either direction evendirection positivetonegative convention widely used
+simplify situation another definition usedfor
+example electron currentit explicitly stated
+
+electric field
+
+michael faraday
+michael faraday
+
+concept electric field introduced michael faradayelectrical field force act two charge waygravitational field force act two mass howeverelectric field little bit different gravitational force depends
+mass two body whereas electric force dependselectric charge two body gravity pull masses
+together electric force attractive repulsive force
+charge sign positiverepulsive force two charge oppositeattractive force two body magnitudeforce varies inversely square distancetwo body also proportional product unsigned
+magnitude two charges
+
+electrical energy
+
+electrical energy energy stored electric field transported
+electric current energy defined ability work
+electrical energy simply one many type energy
+example electrical energy include
+energy constantly stored earth atmospherepartly released thunderstorm form lightning
+energy stored coil electrical generator
+power station transmitted wireconsumer consumer pay unit energy received
+energy stored capacitor releaseddrive current electrical circuit
+
+electric power
+
+electric power rate electrical energy producedconsumed measured watt symbol nuclear power station
+nuclear power station
+
+fossilfuel solarthermal nuclear biomass power station converts
+heat electrical energy faster station burn fuelhigher power output output power station usually
+specified megawatt million watt electrical energysent transmission line reach consumers
+
+every consumer appliance convert electrical energyform energy heat electric arc furnaceelectric heater light light bulb fluorescent lampmotion kinetic energy electric motor like power
+station appliance also rated watt depending rate
+convert electrical energy another form power
+station must produce electrical energy rateconnected appliance consume
+electrical engineering concept apparent power reactive
+power also used apparent power product rms voltagerms current measured voltamperes reactive powermeasured voltamperesreactive var
+
+nonnuclear electric power categorized either green brown
+electricity
+
+green power cleaner alternative energy source comparisontraditional source derived renewable energy resources
+produce nuclear waste example include energy produced
+wind water solar thermal hydro combustible renewableswaste however argue nuclear energy also formclean energy one many way future generationsupply energy modern day nuclear power techniqueable greatly minimize nuclear waste output nuclear plants
+
+electricity coal oil natural gas known traditional
+power brown electricity
+
+electric charge
+
+electric charge property certain subatomic particle electron proton interacts electromagnetic fieldcause attractive repulsive force electric charge
+give rise one four fundamental force natureconserved property matter quantified sensephrasequantity electricity used interchangeablyphrase charge electricity andquantity chargetwo type charge call one kind charge positivenegative experimentation find likecharged objects
+repel oppositecharged object attract one another magnitude
+force attraction repulsion given coulomb law
+

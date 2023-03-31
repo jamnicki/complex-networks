@@ -1,0 +1,578 @@
+copyright
+
+computer
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+part nasa columbia supercomputer
+enlarge
+part nasa columbia supercomputer
+
+computer machine manipulating data according listinstruction program
+
+ability store execute stored programsthatprogrammabilitymakes computer extremely versatile distinguishes
+calculator churchturing thesis mathematical
+statement versatility computer certain minimum
+capability principle capable performing taskcomputer perform therefore computer capability
+complexity ranging personal digital assistantsupercomputer able perform computational tasklong time storage capacity considerations
+computer wristwatch
+enlarge
+computer wristwatch
+
+computer take numerous physical form early electronic computersize large room consuming much power several hundred
+modern personal computer today computer made small enoughfit wrist watch powered watch battery however
+largescale computing facility still exist specialized scientific
+computation transaction processing requirement large
+organization society come recognize personal computerportable equivalent laptop computer iconinformation age people think computer
+however common form computer use today farembedded computer embedded computer small simple deviceoften used control devicesfor example usedcontrol machine fighter aircraft industrial robot digital
+camera even childrens toys
+
+history computing
+
+jacquard loom one first programmable devices
+enlarge
+jacquard loom one first programmable devices
+
+question earliest computer difficult onedefinition computer changed yeartherefore impossible definitively answer question many
+device called computer would longer qualifytoday standards
+
+originally term computer referred person performed
+numerical calculation human computer often aidmechanical calculating device example early mechanical computing
+device included abacus slide rule arguably astrolabe
+antikythera mechanism date aboutbc end
+middle age saw reinvigoration european mathematicsengineering wilhelm schickardsdevice firstnumber mechanical calculator constructed european engineers
+
+however none device fit modern definition computer
+could programmed injoseph marie jacquard
+made improvement textile loom used series punched
+paper card template allow loom weave intricate patterns
+automatically resulting jacquard loom consideredcomputer important step use punched
+card define woven pattern viewed early albeit
+limited form programmability
+
+incharles babbage first conceptualize designfully programmable mechanical computer called analytical
+engine due limit finance inability resist
+tinkering design babbage never actually built analytical
+engine
+
+largescale automated data processing punched card performed
+u census inby tabulating machine designed herman
+hollerith manufactured computing tabulating recording
+corporation ctr later became ibm end century number technology would later prove usefulrealization practical computer begun appear punched
+card boolean algebra vacuum tube thermionic valveteleprinter
+
+first half century many scientific computing
+need met increasingly sophisticated analog computerused direct mechanical electrical model problem basis
+computation however programmable generally
+lacked versatility accuracy modern digital computers
+
+caption defining characteristic five first operative digital
+computers
+
+computer nation shown working binary electronic programmable turing
+complete
+zuse germany mayyes punched film stock yes
+atanasoffberry computer usa summeryes yescolossus computer ukyes yes partially rewiringharvard mark iibm ascc usano punched paper tapeeniac usano yes partially rewiring yes
+yes function table rom yes
+
+succession steadily powerful flexible computing devices
+constructed gradually adding key
+feature seen modern computer use digital
+electronics largely invented claude shannon inandflexible programmability vitally important step defining one
+point along road first digital electronic computerdifficultnotable achievement include
+edsac one first computer implement stored program
+von neumann architecture
+enlarge
+edsac one first computer implement stored program 
+von neumann architecture
+atanasoffberry computerwhich used vacuum tube based
+computation binary number regenerative capacitor memory
+konrad electromechanical machine zwasfirst working machine featuring binary arithmetic measureprogrammability
+secret british colossus computerwhich limited
+programmability demonstrated device using thousandtube could reasonably reliable electronically
+reprogrammable used breaking german wartime codes
+harvard mark largescale electromechanical computer
+limited programmability
+u army ballistics research laboratory eniacwhich
+used decimal arithmetic first general purpose
+electronic computer although initially inflexible
+architecture essentially required rewiring changeprogramming
+
+several developer eniac recognizing flaw came far
+flexible elegant design came known stored
+program architecture von neumann architecture design first
+formally described john von neumann paperfirst draftreport edvac published ina number projectdevelop computer based stored program architecture commenced
+around time first completed great britain
+first demonstrated working manchester smallscale
+experimental machine ssem baby however edsac completedyear ssem perhaps first practical implementationstored program design shortly thereafter machine originally
+described von neumann paper edvacwas completed didnt see
+fulltime use additional two years
+
+nearly modern computer implement form stored program
+architecture making single trait word computer
+defined standard many earlier device would longer
+called computer today definition usually referredhistorical context technology usedcomputer changed dramatically since first electronic
+generalpurpose computer still use von neumann
+architecture design made universal computer practical
+reality
+microprocessor miniaturized device often implement stored
+program cpus
+enlarge
+microprocessor miniaturized device often implement stored
+program cpus
+
+vacuum tubebased computer use throughoutlargely replaced transistorbased devicesmaller faster cheaper used power reliablefactor allowed computer produced unprecedented commercial
+scale adoption integrated circuit technologysubsequent creation microprocessor intel 
+caused another leap size speed cost reliabilitycomputer become sufficiently small cheap replace simple
+mechanical control domestic appliance washing machines
+around time computer became widely accessible personal
+use individual form home computer ubiquitous
+personal computer conjunction widespread growthinternet since personal computer becoming commontelevision telephone almost modern electronic
+device contain computer kind
+
+stored program architecture
+
+defining feature modern computer distinguishesmachine programmed saylist instruction program given computerstore carry time future
+
+case computer instruction simple add one numberanother move data one location another send messageexternal device etc instruction readcomputer memory generally carried outexecutedorder given however usually specialized
+instruction tell computer jump ahead backwardsplace program carry executingcalled jump instruction branch furthermore jump
+instruction may made happen conditionally different
+sequence instruction may used depending resultprevious calculation external event many computer directly
+support subroutine providing type jump rememberslocation jumped another instruction returnpoint
+
+program execution might likened reading book person
+normally read word line sequence may times
+jump back earlier place text skip sectioninterest similarly computer may sometimes back repeatinstruction section programinternal condition met called flow control
+within program allows computer perform tasks
+repeatedly without human intervention
+
+comparatively person using pocket calculator perform basic
+arithmetic operation adding two number button
+press add together number fromtowould
+take thousand button press lot timewith near
+certainty making mistake hand computer mayprogrammed simple instruction example
+movsumset sum 
+movnumset num 
+loopaddnumsumadd num sum
+addnumaddto num
+cmpnumcompare num 
+bleloopif numgo back loop
+haltend program stop running
+
+told run program computer perform repetitive
+addition task without human intervention almost never
+make mistake modern complete taskmillionth second
+
+however computer cannot think sensesolve problem exactly way programmedintelligent human faced addition task might soon realize
+instead actually adding number one simply use
+equation
+
+nnn 
+
+arrive correct answerwith little work many
+modern computer able make decision speedexecution program guessing outcome certain
+jump instruction rearranging order instruction slightly
+without changing meaningbranch prediction speculative
+execution outoforder execution however computer cannot
+intuitively determine efficient way perform task givenoverall understandingtask big picture word computer programmed
+add number one one example wouldexactly without regard efficiency alternative solutions
+
+programs
+
+punched card containing one line fortran programcard read zyw labelled projidentification purposes
+enlarge
+punched card containing one line fortran programcard read zyw labelled projidentification purposes
+
+practical term computer program might include anywheredozen instruction many million instruction something like
+word processor web browser typical modern computerexecute billion instruction every second nearly never makemistake year operation
+
+large computer program may take team computer programmer yearwrite probability entire program written
+completely manner intended unlikely error computer
+program called bug sometimes bug benign affect
+usefulness program case might causeprogram completely failcrash yet case maysubtle problem sometimes otherwise benign bug may usedmalicious intent creating security exploit bug usuallyfault computer since computer merely execute instructions
+given bug nearly always result programmer error
+oversight made program design
+
+computer individual instruction stored machine code
+instruction given unique number operation code
+opcode short command add two number together would
+one opcode command multiply would different
+opcode simplest computer able performhandful different instruction complex computerseveral hundred choose fromeach unique numerical code since
+computer memory able store number also storeinstruction code lead important fact entire
+program list instruction representedlist number manipulated inside computer
+numeric data fundamental concept storing
+program computer memory alongside data operatecrux von neumann stored program architecturecase computer might store program memorykept separate data operates calledharvard architecture harvard mark computer modern von
+neumann computer display trait harvard architecturedesign cpu caches
+
+possible write computer program long listnumbersmachine language technique used many early
+computer extremely tedious practice especiallycomplicated program instead basic instruction givenshort name indicative function easy remembera
+mnemonic add sub mult jump mnemoniccollectively known computer assembly language converting
+program written assembly language something computeractually understand machine language usually done computer
+program called assembler machine language assembly
+language represent collectively termed lowlevel
+programming language tend unique particular typecomputer mean arm architecture computer mayfound pda handheld videogame cannot understand machine
+language intel pentium amd athloncomputer might
+pc
+
+though considerably easier machine language writing long
+program assembly language often difficult error prone
+therefore complicated program written abstract
+highlevel programming language able express needcomputer programmer conveniently thereby help reduce
+programmer error high level language usually compiledmachine language sometimes assembly languagemachine language using another computer program called compiler
+since high level language abstract assembly languagepossible use different compiler translate high level
+language program machine language many different typecomputer part mean software like video games
+may made available different computer architecturepersonal computer various video game consoles
+
+example
+
+suppose computer employed drive traffic light simple
+stored program might say
+turn lights
+turn red light wait sixty seconds
+turn red light turn green light wait sixty
+seconds
+turn green light turn amber light wait two
+seconds
+turn amber light
+jump instruction number 
+
+set instruction computer would cycle light
+continually red green amber back red told
+stop running program
+
+however suppose simple onoff switch connectedcomputer intended used make light flash redmaintenance operation performed program mightinstruct computerturn lights
+turn red light wait sixty seconds
+turn red light turn green light wait sixty
+seconds
+turn green light turn amber light wait two
+seconds
+turn amber light
+maintenance switch turned jump instruction
+number 
+turn red light wait one second
+turn red light wait one second
+jump instruction number 
+
+manner computer either running instructionnumbertoover running instructiontoover depending position switch
+
+computer work
+
+general purpose computer four main section arithmeticlogic unit alu control unit memory inputoutput device collectively termed partinterconnected bus often made group wires
+
+control unit alu register basic oftenhardware closely linked collectively known central
+processing unit cpu early cpu comprised many separate
+component since mids cpu typically constructed
+single integrated circuit called microprocessor
+
+control unit
+
+control unit often called control system central controller
+directs various component computer read interprets
+decodes instruction program one one control system
+decodes instruction turn series control signals
+operate part computer control systemadvanced computer may change order instructionimprove performance
+
+key component common cpu program counter special
+memory cell register keep track location memory
+next instruction readdiagram showing particular mips architecture instruction woulddecoded control system
+enlarge
+diagram showing particular mips architecture instruction woulddecoded control system
+
+control system function followsnotesimplified description step may performed
+concurrently different order depending type cpu
+read code next instruction cell indicatedprogram counter
+decode numerical code instruction setcommand signal systems
+increment program counter point next instruction
+read whatever data instruction requires cell memory
+perhaps input device location required
+data typically stored within instruction code
+provide necessary data alu register
+instruction requires alu specialized hardwarecomplete instruct hardware perform requested operation
+write result alu back memory locationregister perhaps output device
+jump back step 
+
+since program counter conceptually another set memory
+cell changed calculation done alu addingto
+program counter would cause next instruction readplacelocations program instruction modify
+program counter often known jump allow loops
+instruction repeated computer often conditional
+instruction execution example control flow
+
+noticeable sequence operation control unit
+go process instruction like short
+computer programand indeed complex cpu designanother yet smaller computer called microsequencer runmicrocode program cause event happen
+
+arithmeticlogic unit alu
+
+alu capable performing two class operation arithmetic
+logic
+
+set arithmetic operation particular alu support maylimited adding subtracting might include multiplyingdividing trigonometry function sine cosine etc square roots
+operate whole numbersintegers whilst others use
+floating point represent real numbersalbeit limited precision
+however computer capable performing simplest
+operation programmed break complex operations
+simple step perform therefore computerprogrammed perform arithmetic operationalthough take
+time alu doe directly support operation
+alu may also compare number return boolean truth value true
+false depending whether one equal greater less
+isgreater 
+
+logic operation involve boolean logic xoruseful creating complicated conditional statementprocessing boolean logic
+
+superscalar computer contain multiple alus process
+several instruction time graphic processorcomputer simd mimd feature often provide alusperform arithmetic vector matrices
+
+memory
+
+magnetic core memory popular main memory computerwa completely replaced semiconductor memory
+enlarge
+magnetic core memory popular main memory computerwa completely replaced semiconductor memory
+
+computer memory may viewed list cell numbers
+may placed read cell numbered address store
+single number computer may instructed put number 
+cell numberedor add number cell 
+number celland put answer cell 
+information stored memory may represent practically anything
+letter number even computer instruction may placed memory
+equal ease since cpu doe differentiate different
+type information software give significancememory see nothing series numbers
+
+almost modern computer memory cell set store
+binary number group eight bit called byte byteable representdifferent number either fromtoor 
+toto store larger number several consecutive byte may used
+typically two four eight negative number required
+usually stored two complement notationarrangement possible usually seen outsidespecialized application historical context computer may store
+kind information memory long somehow
+represented numerical form modern computer billion even
+trillion byte memory
+
+cpu contains special set memory cell called registerread written much rapidly main memory area
+typically two one hundred register dependingtype cpu register used frequently needed data
+item avoid access main memory every time data needed
+since data constantly worked reducing need access
+main memory often slow compared alu control units
+greatly increase computer speed
+
+computer main memory come two principal variety random access
+memory ram readonly memory rom ram read written
+anytime cpu command rom preloaded datasoftware never change cpu read romtypically used store computer initial startup instructions
+general content ram erased powercomputer turned rom retains data indefinitelypc rom contains specialized program called biosorchestrates loading computer operating system hard disk
+drive ram whenever computer turned reset embedded
+computer frequently disk drivesoftware required perform task may stored rom software
+stored rom often called firmware notionally
+like hardware software flash memory blur distinction
+rom ram retaining data turnedrewritable like ram however flash memory typically much slower
+conventional rom ram use restricted applications
+high speed required
+
+sophisticated computer may one ram cache
+memory slower register faster main memory
+generally computer sort cache designed move
+frequently needed data cache automatically often withoutneed intervention programmer part
+
+inputoutput 
+hard disk common device used computers
+enlarge
+hard disk common device used computers
+
+io mean computer receives informationoutside world sends result back device provide inputoutput computer called peripheral typical personal
+computer peripheral include input like keyboard mouseoutput display printer hard disk floppy diskoptical disc serve input output computer networkinganother form 
+practically device made interface digitally mayused computer engine control unit modern
+automobile might read position pedal steering wheel
+output oxygen sensor device monitor speedwheel output device include various light gauges
+driver see well engine control spark
+ignition circuit fuel injection system digital wristwatch
+computer read button cause number symbolshown liquid crystal display
+
+often device complex computer rightcpu memory graphic processing unit might contain fiftytiny computer perform calculation necessary display
+graphic modern desktop computer contain many smaller computers
+assist main cpu performing 
+multitasking
+
+computer may viewed running one gigantic program stored
+main memory system necessary giveappearance running several program simultaneously achieved
+computer switch rapidly running programturn one mean done special signal called
+interrupt periodically cause computer stop
+executing instruction something else insteadremembering executing prior interrupt computer
+may return task later several program runningtime interrupt generator may causing several hundred
+interrupt per second causing program switch time since modern
+computer typically execute instruction several order magnitude
+faster human perception many program may seem runningtime even though one ever executing given
+instant method multitasking sometimes termed timesharing
+since program allocated slice time turn
+
+era cheap computer principle use multitasking
+wa allow many people share computer
+
+seemingly multitasking would cause computer switching
+several program run slowlyin direct proportionnumber program running however program spend much
+time waiting slow inputoutput device completetask program waiting user click mousepress key keyboard take time sliceevent waiting occurred free timeprogram execute many program may run time
+without unacceptable speed loss
+
+multiprocessing
+
+cray designed many supercomputer used heavy multiprocessing
+enlarge
+cray designed many supercomputer used heavy multiprocessing
+
+computer may divide work one separate cpus
+creating multiprocessing configuration traditionally technique
+wa utilized large powerful computersupercomputer mainframe computer server however
+multiprocessor multicore multiple cpu single integrated
+circuit personal laptop computer become widely availablebeginning see increased usage lowerend market result
+
+supercomputer particular often highly unique architectures
+differ significantly basic storedprogram architecture
+general purpose computer often feature thousandcpu customized highspeed interconnects specialized computing
+hardware design tend useful specialized task due
+large scale program organization required successfully
+utilize available resource supercomputers
+usually see usage largescale simulation graphic renderingcryptography application well socalled 
+embarrassingly parallel tasks
+
+networking internet
+
+visualization portion route internet
+enlarge
+visualization portion route internet
+
+computer used coordinate information multiple
+location since military sage system first
+largescale example system led numberspecialpurpose commercial system like sabre
+
+computer engineer research institution throughout
+u began link computer together using telecommunications
+technology effort funded arpa darpacomputer network produced called arpanettechnology made arpanet possible spread evolvedtime network spread beyond academic military institutionbecame known internet emergence networking involvedredefinition nature boundary computerphrase john gage bill joy sun microsystems networkcomputer computer operating system applicationmodified include ability define access resourcecomputer network peripheral device stored
+information like extension resourceindividual computer initially facility available
+primarily people working hightech environmentspread application like email world wide web combined
+development cheap fast networking technology like
+ethernet adsl saw computer networking become ubiquitous almost
+everywhere fact number computer networkedgrowing phenomenally large proportion personal computers
+regularly connect internet communicate receive
+information wireless networking often utilizing mobile phone
+network meant networking becoming increasingly ubiquitous even
+mobile computing environments
+
+topics
+
+hardware
+
+term hardware cover part computertangible object circuit display power supply cables
+keyboard printer mouse hardware
+
+caption history computing hardware
+
+first generation mechanicalelectromechanical calculator antikythera
+mechanism difference engine norden bombsight
+programmable device jacquard loom analytical engine digicompdigicomp geniac harvard marksecond generation vacuum tube calculator atanasoffberry computer
+programmable device eniac edsac edvac univacthird generation discrete transistor ssi msi lsi integrated
+circuit mainframe system bunch
+minicomputer pdp pdp system system
+fourth generation vlsi integrated circuit minicomputer vaxbit microcomputer intelintel 
+bit microcomputer intelintelmotorolazilog
+z
+bit microcomputerzilog wdc 
+bit microcomputerpentiumarm architecture
+bit microcomputer powerpc mips sparc
+embedded computer
+personal computer desktop computer home computer laptop computer
+personal digital assistant pda portable computer tablet computer
+wearable computer
+server class computer
+theoreticalexperimental quantum computer
+chemical computer
+dna computing
+optical computer
+
+caption hardware topics
+
+peripheral deviceinputoutput input mouse keyboard joystick
+image scanner
+output monitor printer
+floppy disk drive hard disk optical disc drive teleprinter
+computer bus short range scsi pci usb
+long rangecomputer networking ethernet atm fddi
+
+software
+
+software refers part computer material form
+program data protocol etc software softwarestored hardware cannot easily modified bios romibm compatible sometimes termed firmware indicatefall area uncertainty hardware software
+
+caption computer software
+
+operating system unix bsd unix system aix hpux solarissunos
+freebsd netbsd irix
+gnulinux list linux distribution comparison linux
+distributions
+microsoft window window window window qdos pcdos msdos freedos
+mac mac classic mac embedded realtime list embedded operating systems
+experimental amoeba oberon bluebottle planfrom bell labs
+library multimedia directx opengl openal
+programming library standard library
+data protocol tcpip kermit ftp http smtp
+file format html xml jpeg mpeg png
+user interface graphical user interfacewimp microsoft windows
+gnome qnx photon cde gem
+text user interface command line interface shells
+application office suite word processing desktop publishing
+presentation program database management system schedulingtime
+management spreadsheet accounting software
+internet access browser email client web server mail transfer
+agent instant messaging
+design manufacturing computeraided design computeraided
+manufacturing plant management robotic manufacturing supply chain
+management
+graphic raster graphic editor vector graphic editor modeler
+animation editor computer graphic video editing image processing
+audio digital audio editor audio playback mixing audio synthesis
+computer music
+software engineering compiler assembler interpreter debugger text
+editor integrated development environment performance analysis
+revision control software configuration management
+educational edutainment educational game serious game flight
+simulator
+game strategy arcade puzzle simulation firstperson shooter
+platform massively multiplayer interactive fiction
+misc artificial intelligence antivirus software malware scanner
+installer package management system file manager
+
+programming languages
+
+programming language provide various way specifying programcomputer run unlike natural language programming languagedesigned permit ambiguity concise purely
+written language often difficult read aloudgenerally either translated machine language compilerassembler run translated directly run timeinterpreter sometimes program executed hybrid methodtwo technique thousand different programming
+languagessome intended general purpose others usefulhighly specialized applications
+
+caption programming languages
+
+list programming language timeline programming languages
+categorical list programming language generational listprogramming language alphabetical list programming language list
+esoteric programming language nonenglishbased programming
+languages
+commonly used assembly language arm mips commonly used high level language basic c cobol fortran
+java lisp pascal
+commonly used scripting language javascript python ruby php perl
+
+profession organizations
+
+use computer spread throughout societyincreasing number career involving computer following theme
+hardware software firmware brain people workindustry sometimes known irreverently wetware meatware
+
+caption computerrelated professions
+
+hardwarerelated electrical engineering electronics engineering
+computer engineering
+softwarerelated humancomputer interaction information technology
+software engineering system analyst web design
+
+need computer work well together able exchange
+information spawned need many standard organizations
+club society formal informal nature
+
+caption organizations
+
+standard groupsansi iec ieee ietf iso professional societiesacm siggraph iet
+free open source software group free software foundation mozilla
+foundation apache software foundation
+

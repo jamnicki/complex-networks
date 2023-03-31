@@ -1,0 +1,316 @@
+copyright
+
+polar coordinate system
+
+ school wikipedia selection related subject mathematics
+
+polar grid several angle labeled
+enlarge
+polar grid several angle labeled
+
+mathematics polar coordinate system twodimensional
+coordinate system point given angle distance
+central point known pole equivalent originfamiliar cartesian coordinate system polar coordinate system
+used many field including mathematics physic engineering
+navigation robotics especially useful situationrelationship two point easily expressed terms
+angle distance cartesian coordinate systemrelationship found trigonometric formula many
+type curve polar equation simplest meanrepresentation others means
+
+history
+
+known greek used concept angle radiusastronomer hipparchusbc tabulated table chord functions
+giving length chord angle references
+using polar coordinate establishing stellar positionspiral archimedes describes famous spiral function whose
+radius depends angle greek work however extendfull coordinate system
+
+various account first introduced polar coordinatepart formal coordinate system full history subjectdescribed harvard professor julian lowell coolidge origin polar
+coordinate grgoire saintvincent bonaventura cavalieri
+independently introduced concept time
+saintvincent wrote privately inand published 
+cavalieri published inwith corrected version appearingcavalieri first utilized polar coordinate solve problem
+relating area within archimedean spiral blaise pascal
+subsequently used polar coordinate calculate lengthparabolic arcs
+
+method fluxion writtenpublishedsir isaac newton
+wa first look upon polar coordinate method locating
+point plane newton examined transformationpolar coordinate nine coordinate system acta eruditorum
+jacob bernoulli used system point line called
+pole polar axis respectively coordinate specifieddistance pole angle polar axis bernoullis
+work extended finding radius curvature curve expressedcoordinates
+
+actual term polar coordinate attributed gregorio
+fontana used century italian writer term appeared
+english george peacockstranslation lacroixs
+differential integral calculus
+
+alexis clairaut leonhard euler credited extendingconcept polar coordinate three dimensions
+
+plotting point polar coordinates
+
+pointsand 
+enlarge
+pointsand 
+
+twodimensional coordinate system two polar
+coordinate radial coordinate andthe angular coordinate
+polar angle azimuth angle sometimes represented asor coordinate represents radial distance pole 
+coordinate represents anticlockwise counterclockwise angletheray sometimes called polar axis known positive
+xaxis cartesian coordinate plane
+
+example polar coordinateswould plotted point
+unit pole theray coordinateswould
+also plotted point negative radial distancemeasured positive distance opposite ray
+
+
+one important aspect polar coordinate system presentcartesian coordinate system ability express single point
+infinite number different coordinate general point
+rcan represented rn
+n integer coordinate point isthen
+regardless thecoordinate point located pole
+
+use radian measure
+
+angle polar notation generally expressed either degreeradian using conversionradthe choice depends largely
+context navigation application use degree measurephysic application specifically rotational mechanic use radian
+measure based ratio radius circlecircumference
+
+converting polar cartesian coordinates
+
+two polar coordinate andcan converted cartesian
+coordinate
+xr theta 
+yr sin theta 
+
+two formula andcan defined term x
+rsqrtxy 
+thetabegincases arctanfracyxmboxif mbox yge arctanfracyxpi mboxif mbox arctanfracyxpi mboxif fracpimboxif mbox fracpi 
+mboxif mbox endcases
+
+formulais obtained inor
+
+polar equations
+
+equation curve expressed polar coordinate knownpolar equation usually written function 
+
+polar equation may exhibit different form symmetryrr curve symmetrical horizontal
+ray symmetricverticalif rotationally
+symmetriccounterclockwise pole
+
+circle
+
+circle equation enlarge
+circle equation 
+general equation circle centre rand
+radius
+rr costhetavarphira
+
+simplified various way conform specific
+case equation
+
+rthetaa 
+
+circle centre pole radius
+line
+
+radial line running pole representedequation
+
+thetavarphi
+
+whereis angle elevation line isarctanslope line cartesian coordinate systemline doe run pole perpendicular radial
+line line cross lineperpendicularly point
+rhas equation
+
+rthetarsecthetavarphi
+
+polar rose
+
+polar rose equation rsin 
+enlarge
+polar rose equation rsin 
+
+polar rose famous mathematical curve look like petalled
+flower expressed polar equationgiven equations
+
+rthetaa kthetaor
+rthetaa sin ktheta 
+
+k integer equation produce kpetalled rose odd kpetalled rose even integerdisc formed number petal also integer note
+equation impossible make rose withmore
+multiple ofetc petal variable represents
+length petal rose
+
+archimedean spiral
+
+one arm archimedean spiral equation rfor
+enlarge
+one arm archimedean spiral equation rfor
+
+archimedean spiral famous spiral discoveredarchimedes also expressed polar equationrepresented equation
+
+rthetaabtheta
+
+changing parameter turn spiral controldistance arm always constant archimedean
+spiral two arm one forand one forthe two armsmoothly connected pole taking mirror image one arm
+across theline yield arm curvenotable one first known curve radiusfunction dependent angle basis polar
+coordinate system
+
+conic sections
+
+ellipse showing semilatus rectum
+enlarge
+ellipse showing semilatus rectum
+
+conic section one focus pole somewheretheray conic major axis lie along polar axis
+given
+rlovere theta
+
+e eccentricity semi latus rectumperpendicular distance focus major axis curveethis equation defines hyperbola eit definesparabola eit defines ellipse special case latter result circle radius 
+
+curves
+
+circular nature polar coordinate systemmuch simpler describe many curve equation polar rather
+cartesian form among best known curvelemniscates limaons cardioids
+
+complex numbers
+
+complex number written rectangular form abi alsoexpressed polar form two different ways
+rcosthetaisinthetaabbreviated mbox cistheta 
+r eitheta 
+
+equivalent per euler formula convertrectangular polar complex number following conversion
+formula used
+
+ar theta 
+br sin theta 
+therefore rsqrtab 
+
+operation multiplication division exponentiationfinding root complex number much easier use polar
+complex number rectangular complex number abbreviated form
+multiplication mbox cisthetar mbox cisvarphi 
+rr mbox cisthetavarphi 
+division fracr mbox cisthetar mbox cisvarphi 
+fracrr mbox cisthetavarphi 
+exponentiationde moivres formula mbox cisthetan 
+rn mbox cisntheta 
+
+calculus
+
+calculus applied equation expressed polar coordinates
+
+differential calculus
+
+find cartesian slope tangent line polar curve given point curve first expressed systemparametric equations
+
+xrthetacostheta 
+yrthetasintheta 
+
+differentiating equation respect toyields
+
+tfracdxdthetarthetacosthetarthetasintheta
+
+tfracdydthetarthetasinthetarthetacostheta
+
+
+dividing second equation first yield cartesian slopetangent line curve point r
+
+fracdydxfracrthetasinthetarthetacostheta
+rthetacosthetarthetasintheta
+
+integral calculus
+
+find area curve closed interval bbathe curve first expressed riemann sum first
+interval divided subintervals narbitrary positive integer thusthe length subintervalequal total length interval divided nnumber subintervals subinterval letmidpoint subinterval construct sectorcentre pole radius central anglethe areaconstructed sector therefore equaltfracrthetaideltathetahence total areasector
+sumin tfracrthetaideltatheta
+
+number subintervals increased approximationarea continues improve thus area curve rb defined
+limn infty sumin
+tfracrthetaideltatheta
+
+riemann sum integral
+
+fracintab rthetai dtheta
+
+vector calculus
+
+vector calculus also applied polar coordinate let
+mathbfr position vector rcosthetarsintheta 
+r anddepending time hatmathbfr unit vectordirection mathbfr hatboldsymboltheta unit vector
+right angle mathbfrthe first second derivativeposition
+fracdmathbfrdtdot rhatmathbfr 
+rdotthetahatboldsymboltheta 
+fracdmathbfrdtddot 
+rdotthetahatmathbfrrddotthetadot dotthetahatboldsymboltheta
+
+let mathbfa area swept line joining focuspoint curve limit dmathbfa half areaparallelogram formed mathbfr dmathbfr 
+
+dabeginmatrixfracendmatrix mathbfr times
+dmathbfr 
+
+total area integral dmathbfa respecttime
+
+three dimensions
+
+polar coordinate system extended three dimension two
+different coordinate system cylindrical spherical coordinate
+system include twodimensional polar coordinatesubset
+
+cylindrical coordinates
+
+point plotted cylindrical coordinates
+enlarge
+point plotted cylindrical coordinates
+
+cylindrical coordinate system coordinate systemessentially extends twodimensional polar coordinate systemadding third coordinate measuring height pointplane similar way cartesian coordinate systemextended three dimension third coordinate usually denoted
+h making three cylindrical coordinate 
+three cylindrical coordinate converted cartesian
+coordinate
+xr costheta
+yrsintheta
+zh 
+
+spherical coordinates
+
+point plotted using spherical coordinates
+enlarge
+point plotted using spherical coordinates
+
+polar coordinate also extended three dimension usingcoordinateswhereis distance poleisangle zaxis called colatitude zenith measured
+fromtoandis angle xaxis polar
+coordinate coordinate system called spherical coordinate
+system similar latitude longitude system used earth
+latitude complement ofdeterminedlongitude measured 
+three spherical coordinate converted cartesian coordinates
+
+x rhosinphicostheta
+rhosinphisintheta
+z rhocosphi
+
+applications
+
+robotics
+
+many robot capable movement use polar coordinate systemslightly modified version navigationconvenient artificial intelligence centre coordinate
+system pole always placed robot present location
+therefore robot need calculate withincoordinate system given time need determinedirection far move robot navigate using
+cartesian coordinate system distance angle requiredmovement would calculated using algebra trigonometrypolar coordinate system robot simply need told farmove direction given angle robot knows
+exactly 
+aviation
+
+air aircraft use slightly modified version polar
+coordinate system navigation coordinate system theray
+generally called headingis vertical angle continueclockwise rather counterclockwise direction heading 
+corresponds magnetic north headingsand 
+correspond magnetic east south west respectively thusaircraft travelingnautical mile due east travelingunits
+headingread ninerzero air traffic control
+
+archimedean spiral
+
+archimedean spiral many realworld application scroll
+compressor made two interleaved archimedean spiralsize used compressing liquid gas grooveearly gramophone record form archimedean spiral making grooves
+evenly spaced maximizing amount music could fit onto
+record although later changed allow better sound
+quality archimedean spiral also used dlp projection systems
+minimize rainbow effect making look multiple colors
+displayed time reality red green blue
+cycled extremely fast
+

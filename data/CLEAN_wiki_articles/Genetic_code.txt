@@ -1,0 +1,272 @@
+copyright
+
+genetic code
+
+ school wikipedia selection related subject general biology
+
+series codon short rna molecule codon consiststhree nucleotide representing single amino acid
+enlarge
+series codon short rna molecule codon consiststhree nucleotide representing single amino acid
+
+genetic code set rule information encodedgenetic material dna rna sequence translated protein 
+amino acid sequence living cell specifically code definesmapping tri nucleotide sequence called codon amino
+acid every triplet nucleotide nucleic acid sequence
+specifies single amino acid organism use nearly universal
+code referred standard genetic code even viruses
+cellular synthesize proteinprotein made using standard code time therefore code
+wa thought universal however notable exceptionalso possible single organism translate different partgenome different way example human protein synthesis
+mitochondrion relies modified genetic code variesstandard one
+
+cracking genetic code
+
+structure dna deciphered james watson francis
+crick rosalind franklin serious effort understand nature
+encoding protein began george gamov postulatedthreeletter code must employed encode thedifferent amino
+acid used living cell encode protein first elucidationcodon done marshall nirenberg heinrich matthaei 
+national institute health used cellfree systemtranslate polyuracil rna sequence uuuuu biochemical terms
+discovered polypeptide synthesized consistedamino acid phenylalanine thereby deducedpolyphenylalanine codon uuu specified aminoacid
+phenylalanine extending work nirenberg coworkersable determine nucleotide makeup codon orderdetermine order sequence trinucleotides boundribosome radioactivaly labeled aminoacyltrna useddetermine amino acid corresponded codon nirenbergs
+group able determine sequence ofout ofcodons
+subsequent work har gobind khorana identified rest code
+shortly thereafter robert holley determined structure
+transfer rna adapter molecule facilitates translationkhorana holley nirenberg shared nobel prizephysiology medicine work
+
+transfer information via genetic code
+
+genetic information carried organism genomeinscribed one dna case rna moleculefunctional portion dna rna molecule referred gene
+gene sequence inscribed dna rna composedtrinucleotide unit called codon coding single amino
+acid nucleotide subunit consists phosphate deoxyribose
+sugar one thenitrogenous nucleotide base grouped 
+category purine pyrimidine purine base adenineguanine larger consist two aromatic ringpyrimidine base cytosine thymine smaller consist
+one aromatic ring percentage adenine thyminemolecule always well percentage cytosine
+guanine due fact hydogen bond form
+nucleotide known base pairing rna
+however thymine substituted uracil deoxyribose
+substituted ribose
+
+proteincoding gene transcribed short template molecule
+related polymer rna known messenger rna mrnaturn translated ribosome amino acid chainpolypeptide fold resulting secondary tertiary
+structure process translation requires transfer rna specific
+individual amino acid amino acid covalently attachedguanosine triphosphate energy source numbertranslation factor trna anticodons complementary codons
+mrna charged covalently amino acid 
+terminal cca end individual trna charged specific amino
+acid enzyme known aminoacyl trna synthetases high
+specificity cognate amino acid trna high
+specificity enzyme major reason fidelityprotein translation maintained
+
+theoretically aredifferent codon combination possible
+triplet codon three nucleotide reality allcodonsstandard genetic code assigned either amino acid stop
+signal translation example rna sequence uuuaaaccc
+considered readingframe start first uconventiontothere three codon namely uuu aaaccc specifies one amino acid rna sequencetranslated amino acid sequence three amino acid long
+
+standard genetic code shown following table table 
+show amino acid thecodons specifies tableshows
+codon specify thestandard amino acid involvedtranslation called forward reverse codon tables
+respectively example codon aau represents amino acid
+asparagine ugu ugc represent cysteine standard threeletter
+designation asn cys respectively
+
+tablerna codon table
+
+caption table show thecodons amino acid codon
+code direction isto 
+
+nd base
+u g
+st
+base 
+uuu phef phenylalanine
+uuc phefphenylalanine
+uua leul leucine
+uug leulleucine
+
+ucu sers serine
+ucc sersserine
+uca sersserine
+ucg sersserine
+
+uau tyry tyrosine
+uac tyrytyrosine
+uaa ochre stop
+uag amber stop
+
+ugu cysc cysteine
+ugc cysccysteine
+uga opal stop
+ugg trpw tryptophan
+c
+
+cuu leulleucine
+cuc leulleucine
+cua leulleucine
+cug leulleucine
+
+ccu prop proline
+ccc propproline
+cca propproline
+ccg propproline
+
+cau hish histidine
+cac hishhistidine
+caa glnq glutamine
+cag glnqglutamine
+
+cgu argr arginine
+cgc argrarginine
+cga argrarginine
+cgg argrarginine
+
+auu ilei isoleucine
+auc ileiisoleucine
+aua ileiisoleucine
+aug metm methionine start
+
+acu thrt threonine
+acc thrtthreonine
+aca thrtthreonine
+acg thrtthreonine
+
+aau asnn asparagine
+aac asnnasparagine
+aaa lysk lysine
+aag lysklysine
+
+agu sers serine
+agc sersserine
+aga argr arginine
+agg argrarginine
+g
+
+guu valv valine
+guc valvvaline
+gua valvvaline
+gug valvvaline
+
+gcu alaa alanine
+gcc alaaalanine
+gca alaaalanine
+gcg alaaalanine
+
+gau aspd aspartic acid
+gac aspdaspartic acid
+gaa glue glutamic acid
+gag glueglutamic acid
+
+ggu glyg glycine
+ggc glygglycine
+gga glygglycine
+ggg glygglycine
+
+tablereverse codon table
+
+table show thestandard amino acid used proteincodon code amino acid
+ala gcu gcc gca gcgleu uua uug cuu cuc cua cug
+arg cgu cgc cga cgg aga agg lys aaa aag
+asn aau aacmet aug
+asp gau gacphe uuu uuc
+cys ugu ugcpro ccu ccc cca ccg
+gln caa cagser ucu ucc uca ucg aguagc
+glu gaa gagthr acu acc aca acg
+gly ggu ggc gga gggtrp ugg
+h cau cactyr uau uac
+ile auu auc auaval guu guc gua gug
+start augstopuag uga uaa
+
+salient features
+
+reading frame sequence
+
+note codon defined inital nucleotidetranslation start example string gggaaaccc readfirst position contains codon ggg aaa cccand readsecond position contains codon gga aac read
+starting third position gaa acc partial codonignored example every sequence thus read three
+reading frame produce different amino acid
+sequence given example glylyspro glyasp gluthr
+respectively doublestranded dna six possible reading
+frame three forward orientation one strand three
+reverse opposite strand
+
+actual frame protein sequence translated definedstart codon usually first aug codon mrna sequence
+mutation disrupt reading frame insertion deletionone two nucleotide base known frameshift mutationmutation may impair function resulting proteinformed thus rare vivo proteincoding sequence often
+misformed protein targeted proteolytic degradation one
+reason rareness frameshifted mutation inheritedprotein translated essential growthselective pressure organism face absence functional protein
+may cause lethality organism viable
+
+startstop codons
+
+translation start chain initiation codonstart codon unlike
+stop codon codon alone sufficient begin process
+nearby sequence initiation factor also required start
+translation common start codon aug also codemethionine start codon also used
+
+three stop codon given name uag amber uga opal
+sometimes also called umber uaa ochre amber named
+discoverer harris bernstein whose last name mean ambergerman two stop codon named ochre opalorder keep colour name theme stop codon also called
+termination codon signal release nascent polypeptide
+ribosome due binding release factor absencecognate trna anticodons complementary stop signals
+
+degeneracy genetic code
+
+many codon redundant meaning two codon codeamino acid degenerate codon may differ third
+position gaa gag code amino acid glutamic
+acid codon said fourfold degenerate nucleotidethird position specifies amino acid saidtwofold degenerate two four possible nucleotidethird position specify amino acid twofold degenerate
+codon equivalent third position nucleotide always either two
+purine two pyrimidine two amino acidspecified single codon one aminoacid methionine
+specified codon aug also specifies starttranslation tryptophan specified codon uggdegeneracy genetic code account existencesilent mutations
+
+degeneracy result triplet code designatesamino acidstop codon four base triplet codon required
+produce leastdifferent code example two
+base per codon onlyamino acid could coded 
+leastcodes required thengivespossible
+codon meaning degeneracy must exist
+
+property genetic code make faulttolerantpoint mutation example theory fourfold degenerate codons
+tolerate point mutation third position although codon
+usage bias restricts practice many organism twofold
+degenerate codon tolerate one three possible point
+mutation third position since transition mutation purinepurine pyrimidine pyrimidine mutation likelytransversion purine pyrimidine viceversa mutationequivalence purine pyrimidine twofold degenerate
+site add faulttolerance
+
+practical consequence redundancy errorgenetic code cause silent mutation error wouldaffect protein hydrophilicity hydrophobicitymaintained equivalent substitution amino acid examplecodon nun nany nucleotide tends code hydrophobic
+amino acid even single point mutation causemodified hemoglobin molecule sicklecell disease hydrophilic
+glutamate glu substituted hydrophobic valine valreduces solubility globin case mutation causes
+hemoglobin form linear polymer linked hydrophobic
+interaction valine group causing sicklecell deformation
+erythrocyte sicklecell disease generally caused novo mutation rather selected malarial regionsimilar way thalassemia heterozygous peopleresistance malarial plasmodium parasiteheterozygote
+advantage
+
+variable code amino acid allowed modified
+base first base anticodon trna basepair
+formed called wobble base pair modified base include inosine
+nonwatsoncrick basepair
+
+variations
+
+numerous variation standard genetic code foundmitochondrion energyproducing organelle found
+inside eukaryotic cell mycoplasma translate codon ugatryptophan ciliate protozoa also variation genetic
+code uag often uaa code glutamine variant also foundgreen algae uga code cysteine another variant found
+specie yeast candida cug code serineaddition rare case certain protein may also use alternate
+initiation start codons
+
+certain protein nonstandard amino acid substitutedstandard stop codon depending upon associated signal sequencemessenger rna uga code selenocysteine uag codepyrrolysine discussed relevant article detailed
+description variation genetic code found ncbi
+web site however may nonstandard interpretationyet known sequencing genome may reveal unique genetic
+code allow incorporation novel amino acidproteins
+
+origin genetic code
+
+despite variation exist genetic code used known
+form life earth similar since many possible
+genetic code thought similar utility one used
+earth life theory evolution suggests genetic code
+wa established early history life
+
+one ask question genetic code completely randomone set codonamino acid correspondence happened establish
+frozen early evolution although functionallymany possible transcription table would donewell already cursory look table show pattern suggest
+case
+
+three theme running many theory seekexplain evolution genetic code hence originpattern one illustrated recent aptamer experimentshow amino acid selective chemical affinitybase triplet code suggests current
+complex transcription mechanism involving trna associated enzymes
+may later development originally protein sequencedirectly templated base sequence another standard
+genetic code see today grew simpler earlier code
+process biosynthetic expansion ideaprimordial life invented new amino acid byproductmetabolism later backincorporatedmachinery genetic coding although much circumstantial evidencefound indicate originally number different amino
+acid used may considerably smaller today precisedetailed hypothesis exactly amino acid entered codeexactly order proved far controversial thirdnatural selection organized codon assignment genetic code
+minimize effect genetic errorsmutations

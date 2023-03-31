@@ -1,0 +1,749 @@
+copyright
+
+maxwell equations
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+
+electromagnetism maxwell equation set equation first
+presented distinct group later half nineteenth
+century james clerk maxwell describe interrelationship
+electric field magnetic field electric charge electric
+current
+
+although maxwell originator individual
+equation derived independently conjunctionmolecular vortex model faraday line force waperson first grouped equation together coherent
+set importantly introduced extra term ampres
+circuital law extra term time derivative electric field
+known maxwell displacement current maxwell modified
+version ampres circuital law enables set equationcombined together derive electromagnetic wave equation
+
+although maxwell equation known special relativityderived coulomb law special relativity one assumes
+invariance electric charge
+
+history maxwell equations
+
+maxwell equation set four equation found
+various place maxwellspaper physical line force
+express electric charge produce electric field gausss
+law experimental absence magnetic monopoles iiielectric current changing electric field produce magnetic fields
+ampres circuital law changing magnetic fields
+produce electric fieldsfaradays law induction
+
+apart maxwell amendment ampres circuital law noneequation original however maxwell uniquely rederivedhydrodynamically mechanically using vortex model faradays
+line force
+
+yearoliver heaviside selected four equationconjunction willard gibbs put modern vector
+notation give rise claim scientistmaxwell equation actual fact heaviside equations
+
+matter confused fact term maxwells
+equation also used describe set eight equation labelled
+h maxwellspaper dynamical theoryelectromagnetic field therefore help referring maxwells
+equation specify whether talking original eight
+equation modified heaviside four
+
+two set equation physically equivalent intentpurpose although gauss law actual equation appears
+set lorentz force appears equationoriginal eight solution faraday law electromagnetic
+induction appears heaviside four maxwellampre
+equation heaviside four amalgamation two equationoriginal eight
+
+summary modern heaviside versions
+
+symbol bold represent vector quantity whereas symbol italics
+represent scalar quantities
+
+general case
+
+name differential form integral form
+gauss law nabla cdot mathbfdrho oints mathbfd cdot
+mathrmdmathbfaqintv rho mathrmdv
+gauss law magnetism
+absence magnetic monopoles nabla cdot mathbfboints
+mathbfb cdot mathrmdmathbfa
+faraday law induction nabla time mathbfefracpartial
+mathbfb partial ointc mathbfe cdot mathrmdmathbfl
+ints fracpartialmathbfbpartial cdot mathrmd
+mathbfa
+ampres circuital law
+maxwell extension nabla time mathbfhmathbfj 
+fracpartial mathbfd partial ointc mathbfh cdot
+mathrmdmathbflints mathbfj cdot mathrmd mathbfa 
+ints fracpartialmathbfdpartial cdot mathrmd
+mathbfa
+
+following table provides meaning symbol unit
+measure
+symbol meaning unit measure
+mathbfe electric field volt per meter equivalently
+newton per coulomb
+magnetic permeability medium henry per meter newton per
+ampere squared
+net electrical current enclosed amperian line amperes
+q net electric charge enclosed gaussian surface coulombs
+mathbfh magnetic field
+also called auxiliary field ampere per meter
+mathbfd electric displacement field
+also called electric flux density coulomb per square meter
+mathbfb magnetic flux density
+also called magnetic induction
+also called magnetic field tesla equivalently
+weber per square meter
+rhofree electric charge density
+including dipole charge bound material coulomb per cubic
+meter
+mathbfj free current density
+including polarization magnetization current boundmaterial ampere per square meter
+mathrmdmathbfa differential vector element surface areainfinitesimally
+
+small magnitude direction normal surfacesquare meters
+mathrmdvdifferential element volume enclosed surfacecubic meters
+mathrmd mathbfl differential vector element path length
+tangential contour enclosing surface meters
+nabla cdot divergence operator per meter
+nabla time curl operator per meter
+
+although unit given various symbol maxwells
+equation unchanged many system unit requireminor modification others commonly used systemunit used engineering electronics practical
+physic experiment planck unit also known natural units
+used theoretical physic quantum physic cosmology older
+system unit cgs system also used
+
+order complete theory electromagnetism need add
+another equation heaviside group four maxwell equations
+force exerted upon charged particle electric fieldmagnetic field given lorentz force equation
+
+mathbffq mathbfemathbfv time mathbfb
+
+qi charge particle mathbfvisparticle velocity slightly different expressed cgs
+system unit
+extra equation appeared cartesian format equationoriginal eight maxwell equations
+
+maxwell equation generally applied macroscopic averagefield vary wildly microscopic scale vicinityindividual atom undergo quantum mechanical effectwell averaged sense one define quantities
+permittivity permeability materialmicroscopic maxwell equation ignoring quantum effect simply
+vacuumbut one must include atomic chargegenerally intractable problem
+
+linear materials
+
+linear material polarization density mathbfp coulombs
+per square meter magnetization density mathbfm ampere per
+meter given
+mathbfpchie varepsilon mathbfe
+
+mathbfmchim mathbfh
+
+mathbfd mathbfb field related mathbfemathbfh
+mathbfdvarepsilon mathbfemathbfp
+chie varepsilon mathbfevarepsilon
+mathbfe
+
+mathbfbmumathbfhmathbfm
+chim mathbfhmu mathbfh
+
+
+e electrical susceptibility material
+
+magnetic susceptibility material
+
+varepsilon electrical permittivity material
+magnetic permeability material
+
+actually extended handle nonlinear material well
+makinganddepend upon field strength see kerrpockels effects
+
+nondispersive isotropic mediaandare timeindependent
+scalar maxwell equation reduce
+nabla cdot varepsilon mathbferho
+
+nabla cdot mathbfh
+
+nabla time mathbfemu fracpartial mathbfh
+partial
+nabla time mathbfhmathbfjvarepsilon
+fracpartial mathbfe partial
+uniform homogeneous mediumandare constant independentposition thus furthermore interchanged spatial
+derivatives
+
+generallyandcan rank tensorsmatrices describing
+birefringent anisotropic material also although many purposes
+timefrequencydependence constant neglected
+every real material exhibit material dispersion whichandor
+depend upon frequency causality constrains dependenceobey kramerskronig relations
+
+vacuum without charge currents
+
+vacuum linear homogeneous isotropic dispersionless medium
+proportionality constant vacuum denoted byand
+neglecting slight nonlinearities due quantum effects
+
+mathbfdvarepsilon mathbfe
+
+mathbfbmu mathbfh
+
+since current electric charge present vacuumobtain maxwell equation free space
+
+nabla cdot mathbfe
+
+nabla cdot mathbfh
+
+nabla time mathbfemu fracpartialmathbfh
+partial
+nabla time mathbfhvarepsilon fracpartial
+mathbfe partial
+equation solution term travelling sinusoidal plane
+wave electric magnetic field direction orthogonalone another direction travel two fieldphase travelling speed
+
+cfracsqrtmu varepsilon
+
+maxwell discovered quantity simply speed lightvacuum thus light form electromagnetic radiationcurrently accepted value speed light permittivitypermeability summarized following table
+symbol name numerical value unit measure type
+cspeed lighttimesmeters per second defined
+varepsilon permittivitytimesfarads per meter
+derived
+mupermeabilitypi timeshenries per meter defined
+
+difference magnetic induction vector magnetic field
+vector 
+difference mathbfb vector mathbfh vector
+traced back maxwellspaper entitled faraday lines
+force later clarified concept sea molecular
+vortex appears hispaper physical line force 
+within context mathbfh represented pure vorticity
+spin whereas mathbfb weighted vorticity weighted
+density vortex sea maxwell considered magnetic
+permeabilityto measure density vortex sea hence
+relationship
+
+magnetic induction current
+
+mathbfbmu mathbfh
+
+wa essentially rotational analogy linear electric current
+relationship
+
+electric convection current
+
+mathbfjrho mathbfv
+
+whereis electric charge density movement mathbfbseen kind magnetic current vortex aligned axial
+plane mathbfh circumferential velocityvortices
+
+electric current equation viewed convective currentelectric charge involves linear motion analogy magnetic
+equation inductive current involving spin linear
+motion inductive current along direction mathbfb
+vector magnetic inductive current represents line forceparticular represents line inverse square law force
+
+extension consideration confirmsmathbfb mathbfhand mathbfj tothennecessarily follows gauss law equationcontinuity charge mathbfd mathbfeie mathbfb
+parallel mathbfdwhereas mathbfh parallelmathbfe 
+
+heaviside version detail
+
+ gauss law
+
+gauss law yield source sink electric charge
+
+nabla cdot mathbfdrho
+
+whereis free electric charge density unit cmincluding dipole charge bound material mathbfdelectric displacement field unit solutiongauss law coulomb law stationary charge vacuum
+
+equivalent integral form divergence theorem also knowngauss law
+oints mathbfd cdot mathrmdmathbfa 
+qmathrmenclosed
+
+mathrmdmathbfa area differential squareclosed surface outward facing surface normal definingdirection qenclosed free charge enclosed surface
+
+linear material mathbfd directly related electric
+field mathbfe via materialdependent constant calledpermittivity 
+
+mathbfdvarepsilon mathbfe 
+
+material treated linear long electric fieldextremely strong permittivity free space referredappears
+nabla cdot mathbfefracrhotvarepsilon
+
+mathbfe electric field unit vmtotal charge density including bound charge 
+approximatelypfm permittivity free spacecan
+also written varepsilon varepsilonrwhere rmaterial relative permittivity dielectric constant
+
+compare poissons equation
+
+ divergence magnetic field
+
+divergence magnetic field always zero hence magnetic
+field line solenoidal
+
+nabla cdot mathbfb
+
+mathbfb magnetic flux density unit tesla also
+called magnetic induction
+
+equivalent integral form
+
+oints mathbfb cdot mathrmdmathbfa
+
+mathrmdmathbfa area differential squaresurface outward facing surface normal defining direction
+
+like electric field integral form equation workintegral done closed surface
+
+equation related magnetic field structurestate given volume element net magnitude vector
+component point outward surface must equal net
+magnitude vector component point inward structurally
+mean magnetic field line must closed loop another
+way putting field line cannot originatesomewhere attempting follow line backwards sourceforward terminus ultimately lead back starting
+position hence mathematical formulation statement
+magnetic monopoles
+
+ faraday law electromagnetic induction
+
+nabla time mathbfefrac partial mathbfbpartial
+
+equivalent integral form
+ointc mathbfe cdot mathrmdmathbfl
+fracmathrmdmathrmd tint mathbfb cdot
+mathrmdmathbfa
+
+
+scriptstyle mathbfe electric field
+
+scriptstyle cpartial boundary surface
+conducting wire following contour introducedfield socalled electromotive force wire equalvalue integral field absence wire
+
+negative sign necessary maintain conservation energyimportant even name lenzs law
+
+equation relates electric magnetic field alsonumber practical application equation describeselectric motor electric generator work specificallydemonstrates voltage generated varying magnetic
+flux passing given area time uniformly
+rotating loop wire fixed magnetic field motorgenerator fixed excitation provided field circuitvarying voltage measured across armature circuittype motorsgenerators field circuit mounted rotor
+armature circuit mounted stator typemotorsgenerators reverse configuration
+
+maxwell equation apply righthanded coordinate system apply
+unmodified left handed system would reverse polaritymagnetic field inconsistent confusingly convention
+
+ ampres circuital law
+
+ampres circuital law describes source magnetic field
+
+nabla time mathbfhmathbfjfrac partial
+mathbfd partial
+mathbfh magnetic field strength unitrelated magnetic flux mathbfb constant calledpermeabilitymathbfbmu mathbfhand mathbfjcurrent density defined mathbfjrhoqmathbfvmathbfv vector field called drift velocity describes
+velocity charge carrier density describedscalar function second term right hand sideampres circuital law known displacement current
+
+wa maxwell added displacement current term ampres
+circuital law equationin hispaper physical lineforce addition mean either maxwell original eight
+equation modified heaviside four equation combined
+together obtain electromagnetic wave equation
+
+maxwell used displacement current conjunction original
+eight equation hispaper dynamical theoryelectromagnetic field derive electromagnetic wave equationmuch cumbersome fashion employed usingheaviside four modern textbook derive electromagnetic wave
+equation using heaviside four
+
+free space permeabilityis permeability free space
+defined exactlywbam alsopermittivity becomes permittivity free spacethus free
+space equation becomes
+
+nabla time mathbfbmu mathbfjmuvarepsilon
+fracpartial mathbfepartial
+equivalent integral form
+
+ointc mathbfb cdot mathrmdmathbflmu
+imathrmencircledmuvarepsilon ints fracpartial
+mathbfepartial cdot mathrmd mathbfa
+
+mathbfl edge open surface surfacecurve mathbfl edge iencircled current
+encircled curve mathbfl current surfacedefined equation beginmatriximathrmthrough aints
+mathbfjcdot mathrmdmathbfaendmatrixin situations
+integral form amperemaxwell law appears
+ointc mathbfb cdot mathrmdmathbflmu
+imathrmencimathrmdenc
+
+
+varepsilon ints fracpartial mathbfepartialcdot mathrmd mathbfa
+
+sometimes called displacement current
+
+electric flux density doe vary rapidly second termright hand side displacement flux negligibleequation reduces ampere law
+
+maxwell equation cgs units
+
+equation given international system unitsi short related unit system called cgs shortcentimetergramsecond equation take following form
+
+nabla cdot mathbfepirho
+
+nabla cdot mathbfb
+
+nabla time mathbfefracc fracpartial
+mathbfb partial
+nabla time mathbfbfracc fracpartial
+mathbfe partial tfracpic mathbfj
+
+c speed light vacuum electromagnetic
+field vacuum equation become
+
+nabla cdot mathbfe
+
+nabla cdot mathbfb
+
+nabla time mathbfefracc fracpartial
+mathbfb partial
+nabla time mathbfbfracc fracpartial
+mathbfepartial
+system unit relation magnetic induction
+magnetic field total magnetization take form
+
+mathbfbmathbfhpimathbfm
+
+linear approximation
+
+mathbfbpichim mathbfh
+
+vacuum zero therefore
+
+mathbfbmathbfh
+
+ferro ferri magnetic material much bigger
+
+
+mathbfbpichimmathbfh
+
+force exerted upon charged particle electric fieldmagnetic field given lorentz force equation
+
+mathbffq leftmathbfefracmathbfvc times
+mathbfbright
+
+qi charge particle mathbfvisparticle velocity slightly different siunit
+expression example magnetic field mathbfbhas
+unit electric field mathbfe
+
+formulation maxwell equation special relativity
+
+special relativity order clearly express factmaxwell equation vacuum take form inertial
+coordinate system vacuum maxwell equation written terms
+fourvectors tensor manifestly covariant form cgs
+units
+
+pi jbetapartial falphabetapartial xalphastackrelmathrmdef
+partialalpha falphabetastackrelmathrmdef
+falphabetaalpha
+
+
+partialgamma falphabetapartialbeta
+fgammaalphapartialalpha fbetagamma 
+stackrelmathrmdef falphabetagamma 
+fgammaalphabeta fbetagammaalpha 
+stackrelmathrmdef epsilondeltaalphabetagamma
+fbetagammaalpha
+
+wherejalpha currentfalphabeta field
+strength tensorepsilonalphabetagammadeltalevicivita symbol
+partial overpartial xalpha
+stackrelmathrmdef partialalpha 
+stackrelmathrmdef alpha 
+stackrelmathrmdef leftfracpartialpartial nablaright
+
+gradient repeated index summed accordingeinstein summation convention displayed result several
+common notations
+
+first tensor equation expression two inhomogeneous
+maxwell equation gauss law ampere law maxwells
+correction second equation expression homogenous
+equation faraday law induction absence magnetic
+monopoles
+
+maxwell equation term differential forms
+
+vacuum whereandare constant everywhere maxwell equations
+simplify considerably language differential geometrydifferential form used electric magnetic fieldjointly described form dimensional spacetime manifold
+maxwell equation reduce bianchi identity
+
+mathrmdboldf
+
+denotes exterior derivativea differential operator
+acting formsand source equation
+
+mathrmdboldfboldj
+
+dual hodge star operatoris linear transformationspace offorms space offorms defined metricminkowski space four dimension conformal classfield natural unit wherehere form jcalled electric current orcurrent form satisfyingcontinuity equation
+
+mathrmdboldj
+
+exterior derivative defined manifold formulation
+electromagnetism work dimensional oriented manifoldlorentz metric curved spacetime general relativity
+
+linear macroscopic theory influence matterelectromagnetic field described general linear
+transformation space form call
+
+clambdaniboldfmapsto boldginlambda
+
+constitutive transformation role transformationcomparable hodge duality transformation maxwell equations
+presence matter become
+
+mathrmdboldf
+mathrmdboldgboldj
+
+current form still satisfies continuity equation 
+
+field expressed linear combination exterior
+product basis form boldthetap 
+
+boldffpqboldthetapwedgeboldthetaq 
+
+constitutive relation take form
+
+gpqcpqmnfmn
+
+field coefficient function antisymmetric indices
+constitutive coefficient antisymmetriccorresponding pair hodge duality transformation leadingvacuum equation discussed obtained taking
+
+cpqmngmagnb epsilonabpq sqrtg
+
+scaling invariant tensor typedefined metric
+
+formulation electromagnetism generalises immediately 
+dimensional oriented manifold small adaptation manifold
+requiring even metric thus expression maxwell equations
+term differential form lead notational
+simplification whereas maxwell equation could written two
+tensor equation instead eight scalar equationpropagation electromagnetic disturbance continuity equation
+could derived little effort using differential form leads
+even simpler derivation result price one paysimplification however need knowledge technical
+mathematics
+
+conceptual insight formulation
+
+conceptual side point view physic shows
+second third maxwell equation grouped together
+called homogeneous one seen geometric identities
+expressing nothing else field derivesfundamental potential first last one seen
+dynamical equation motion obtained via lagrangian
+principle least action interaction term introduced
+gauge covariant derivative coupling field matter
+
+often time derivative third law motivates callingequation dynamical somewhat misleading sensepreceding analysis rather artifact breaking relativistic
+covariance choosing preferred time direction physical
+degree freedom propagated field equation one must
+include kinetic term f take accountnonphysical degree freedom removed gauge
+transformation aaad see also gauge fixing fadeevpopov
+ghosts
+
+original eight maxwell equations
+
+part iii dynamical theory electromagnetic fieldentitled general equation electromagnetic field pageof
+article pageof pdf link maxwell formulated eight
+equation labelled eight equation become known
+maxwell equation nowadays however reference maxwells
+equation invariably refer heaviside version heavisides
+version maxwell equation actually contain oneoriginal eight equation gauss law another heavisides
+four equation amalgamation maxwell law total currents
+equation ampres circuital law equation camalgamation maxwell actually originally madeequationin hispaperon physical line forceone modifies ampres circuital law include maxwells
+displacement current
+
+eight original maxwell equation listed modern
+vector notation
+
+law total currents
+
+mathbfjtotmathbfj 
+fracpartialmathbfdpartial
+b definition magnetic vector potential
+
+mu mathbfhnabla time mathbfa
+
+c ampres circuital law
+
+nabla time mathbfhmathbfjtot
+
+lorentz force electric field created convection
+induction charges
+
+mathbfemu mathbfv time mathbfh 
+fracpartialmathbfapartial tnabla phi
+
+e electric elasticity equation
+
+mathbfefracepsilon mathbfd
+
+f ohm law
+
+mathbfefracsigma mathbfj
+
+g gauss law
+
+nabla cdot mathbfdrho
+
+h equation continuity charge
+
+nabla cdot mathbfjfracpartialrhopartial
+notation
+
+mathbfh magnetic field maxwell calledmagnetic intensity
+mathbfj electric current densitymathbfjtot total current including displacement
+current
+mathbfd displacement field called electric
+displacement maxwell
+free charge density called quantity free
+electricity maxwell
+mathbfa magnetic vector potential called angular
+impulse maxwell
+mathbfe electric field called electromotive
+force maxwell confused scalar quantity
+called electromotive force
+electric potential maxwell also called electric
+potential
+electrical conductivity maxwell called inverseconductivity specific resistance calledresistivity
+
+maxwell consider completely general material initial
+formulation used linear isotropic nondispersive permittivityand
+permeabilityalthough also discussed possibilityanisotropic materials
+
+particular interest note maxwell includes mathbfv time mathbfh term expressionelectromotive force equation dwhich corresponds magnetic
+force per unit charge moving conductor velocity mathbfv 
+mean equation effectively lorentz forceequation first appeared equationin maxwellspaperon
+physical line force quite time lorentz thoughtnowadays lorentz force sits alongside maxwell equationadditional electromagnetic equation included partset
+
+maxwell derives electromagnetic wave equation 
+paper equation opposed using faraday lawelectromagnetic induction modern textbook maxwell however drops
+mu mathbfv time mathbfh term equationderiving electromagnetic wave equation considerssituation rest frame
+
+classical electrodynamics curvature line bundle
+
+elegant intuitive way formulate maxwell equation use
+complex line bundle principal bundle fibre uconnection nabla line bundle curvature boldf 
+nabla two form automatically satisfies
+mathrmdboldfand interpreted field strengthline bundle trivial flat reference connectionwrite nablamathrmdbolda form
+composed electric potential magnetic vector potential
+
+quantum mechanic connection used definedynamic system formulation allows natural description
+aharonovbohm effect experiment static magnetic
+field run long super conducting tubemeissner effect superconductor perfectly shield magnetic
+field magnetic field strength zero outside tube since
+electric field either maxwell tensor finspace time region outside tube experiment means
+definition connection nabla flat howeverconnection depends magnetic field tube sinceholonomy along non contractible curve encircling super conducting
+tube magnetic flux tube proper unitdetected quantum mechanically double split electron
+diffraction experiment electron wave traveling around tube
+holonomy corresponds extra phase shift leadshift diffraction pattern see michael murray line bundles
+pdf web link simple mathematical reviewformulation see also bott recent interactionmathematics physic canadian mathematical bulletinno
+pp 
+
+link relativity
+
+late century appearance velocity
+
+cfracsqrtvarepsilonmu
+
+equation maxwell equation thought express
+electromagnetism rest frame luminiferous aetherpostulated medium light whose interpretation considerably
+debated symbol represent permittivity permeabilityfree space michelsonmorley experiment conducted edward
+morley albert abraham michelson produced null resultchange velocity light due earth motionhypothesized ether however alternative explanation soughtgeorge fitzgerald joseph larmor hendrik lorentz larmor
+lorentzderived lorentz transformationnamed henri poincar one maxwell equationinvariant poincaranalysed coordination moving clocks
+exchanging light signal also established group propertylorentz transformation poincarthis culminatedeinstein theory special relativity postulated absence
+absolute rest frame dismissed aether unnecessaryestablished invariance maxwell equation inertial
+frame reference
+
+electromagnetic field equation intimate link special
+relativity magnetic field equation derivedconsideration transformation electric field equations
+relativistic transformation low velocity einstein
+motivated special theory noting descriptionconductor moving respect magnet must generate consistent
+set field irrespective whether frame magnet frameconductor frame
+
+relativity equation written even compact
+manifestly covariant form term rank antisymmetric
+fieldstrengthtensor unifies electric magnetic fields
+single object
+
+kaluza klein showed maxwell equationderived extending general relativity five dimensionstrategy using higher dimension unify different forceactive area research particle physics
+
+maxwell equation curved spacetime
+
+traditional formulation
+
+matter energy generate curvature spacetime subject
+general relativity curvature spacetime affect electrodynamics
+electromagnetic field energy momentum also generate
+curvature spacetime maxwell equation curved spacetimeobtained replacing derivative equation flat
+spacetime covariant derivative whether appropriate
+generalization requires separate investigation sourcedsourcefree equation become cgs units
+
+pi jbetapartialalpha falphabeta 
+gammaalphamualpha fmubeta 
+gammabetamualpha falpha 
+stackrelmathrmdef dalpha falphabeta 
+stackrelmathrmdef falphabetaalpha
+
+
+partialgamma falphabetapartialbeta
+fgammaalphapartialalpha fbetagamma 
+dgamma falphabetadbeta fgammaalpha 
+dalpha fbetagamma 
+
+
+gammaalphamubeta 
+
+christoffel symbol characterizes curvature spacetime
+covariant derivative
+
+formulation term differential forms
+
+formulation related differential form formulation
+maxwell equation follows implicitly chosen local
+coordinate therefore basis form every
+point open set coordinate defined usingbasisfield form
+
+boldffalphabeta mathrmdxalpha wedge
+mathrmdxbeta
+
+current form
+
+boldjpi cjalpha sqrtg 
+epsilonalphabetagammadelta mathrmdxbeta wedge
+mathrmdxgamma wedge mathrmdxdelta
+
+bianchi identity
+
+mathrmdboldfpartialgamma falphabeta 
+partialbeta fgammaalphapartialalpha
+fbetagammamathrmdxalphawedge
+mathrmdxbeta wedge mathrmdxgamma
+
+source equation
+
+mathrmdboldffalphabetaalphasqrtg 
+epsilonbetagammadeltaetamathrmdxgamma wedge
+mathrmdxdelta wedge mathrmdxetaboldj
+
+continuity equation
+
+mathrmdboldjpi cjalphaalpha
+sqrtg 
+epsilonalphabetagammadeltamathrmdxalphawedge
+mathrmdxbeta wedge mathrmdxgamma wedge
+mathrmdxdelta
+
+g usual determinant metric tensor 

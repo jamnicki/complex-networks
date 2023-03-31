@@ -1,0 +1,205 @@
+copyright
+
+waveparticle duality
+
+ school wikipedia selection related subject general physics
+
+physic chemistry waveparticle duality hold lightmatter exhibit property wave particle central
+concept quantum mechanic duality represents way addressinadequacy conventional concept like particle wavemeaningfully describe behaviour quantum object ideaduality rooted debate nature light matter
+dating back competing theory lightproposed christiaan huygens isaac newton workalbert einstein louis broglie many othersestablished object wave particle nature though
+phenomenon detectable small scaleatom suitable interpretation quantum mechanics
+provides overarching theory resolving ostensible paradox
+
+history
+
+thomas young sketch twoslit diffraction light 
+enlarge
+thomas young sketch twoslit diffraction light 
+
+close century case atomic theorymatter made particulate object atom well established
+electricity first thought fluid understood consistparticle called electron demonstrated thomsonresearch work rutherford investigated using
+cathode ray electrical charge would actually travel acrossvacuum cathode anode brief understood muchnature made particle time wave well
+understood together wave phenomenon diffractioninterference light believed wave thomas youngs
+doubleslit experiment effect fraunhofer diffractionclearly demonstrated wavelike nature light
+
+th century turned problem emergedviewpoint photoelectric effect analyzed inby albert
+einstein demonstrated light also possessed particlelike
+property confirmed discovery compton effect
+inlater diffraction electron would predictedexperimentally confirmed thus showing electron mustwavelike property addition particle properties
+
+confusion particle versus wave property eventually
+resolved advent establishment quantum mechanicfirst half century ultimately explained
+waveparticle duality provided single unified theoretical
+framework understanding matter may characteristics
+associated particle wave quantum mechanic hold every
+particle nature photon electron atom describedsolution differential equation typically schroedinger
+equation solution equation known wave functions
+inherently wavelike form diffractinterfere leading wavelike phenomenon observed yet
+also wave function interpreted describing probability
+finding particle given point space thus onelooking particle one find one probability density
+given square magnitude wave function
+
+one doe observe wavelike quality everyday objectassociated wavelength peoplesized object exceedingly
+small
+
+huygens newton earliest theory light
+
+earliest comprehensive theory light advanced christiaan
+huygens proposed wave theory light particular
+demonstrated wave might interfere form wavefront
+propagating straight line however theory difficultymatter soon overshadowed isaac newton corpuscular
+theory light newton proposed light consisted small
+particle could easily explain phenomenonreflection considerably difficulty could also explain
+refraction lens splitting sunlight rainbow
+prism
+
+newton immense intellectual stature theory went
+essentially unchallenged century huygens theoryforgotten discovery diffraction early century wave theory revived advent century scientific debate wave particle alreadythriving long time
+
+fresnel maxwell young
+
+early doubleslit experiment young fresnel
+provided evidence huygens theory experiment showedlight sent grid characteristic interference
+pattern observed similar pattern resultinginterference water wave wavelength light computed
+pattern maxwell late explained lightpropagation electromagnetic wave maxwell equations
+equation verified experiment huygens view became
+widely accepted
+
+einstein photons
+
+photoelectric effect incoming photon left strike metal
+plate bottom eject electron depicted flyingright
+enlarge
+photoelectric effect incoming photon left strike metal
+plate bottom eject electron depicted flyingright
+
+inalbert einstein provided explanation photoelectric
+effect hitherto troubling experiment wave theory light
+seemed incapable explaining postulating existence
+photon quantum light energy particulate qualities
+
+photoelectric effect observed shining lightcertain metal would lead electric current circuit
+presumably light knocking electron metal causing
+flow however also observed dim blue light
+wa enough cause current even strongest brightest red light
+caused current according wave theory strengthamplitude light wave proportion brightness bright
+light easily strong enough create large current
+yet oddly wa
+einstein explained conundrum postulating electrons
+knocked free metal incident photon photon
+carrying amount energy wa related frequencyof
+light
+eh 
+h planck constantxj second photons
+highenough frequency certain threshold value could
+knock electron free example photon blue lightsufficient energy free electron metal photonred light intense light threshold frequency
+could release electron amount lightthreshold frequency could release electron
+
+einstein awarded nobel prize physic infor theory
+photoelectric effect
+
+de broglie
+
+inlouisvictor broglie formulated broglie hypothesis
+claiming matter light wavelike naturerelated wavelengthlambda momentum 
+lambdafrachp
+
+generalization einstein equation sincemomentum photon given pec speedlight vacuum andc
+
+de broglie formula confirmed three year later electrons
+restmass observation electron diffraction
+two independent experiment university aberdeen george
+paget thomson passed beam electron thin metal filmobserved predicted interference pattern bell lab clinton
+joseph davisson lester halbert germer guided beamcrystalline grid
+
+de broglie awarded nobel prize physic inforhypothesis thomson davisson shared nobel prize physicexperimental work
+
+heisenberg
+
+waveparticle duality often expressed via heisenberg uncertainty
+principle state common form
+delta delta ge frachbar
+
+
+measure uncertainty imprecision measurement
+x particle position linear momentum
+respectively
+hbar reduced planck constant planck constant
+divided 
+
+however relationship hold generally two conjugate
+variable time energy angle rotation angular
+momentum follows broglie hypothesis appliedclassical field uncertainty relation implies measurement
+one variable result disturbance conjugate partnerproduct uncertainty always greater certain
+amount
+
+wave behaviour large objects
+
+similar experiment since conducted neutronproton among famous experiment estermannotto stern inauthors similar recent experiment atoms
+molecule claim larger particle also act like waves
+
+dramatic series experiment emphasizing action gravityrelation waveparticle duality conducted using
+neutron interferometer neutron one componentatomic nucleus provide much mass nucleus thusordinary matter neutron fermion thus posse important
+quality associate matter namely rigidness duefact obey pauli exclusion principle neutron
+interferometer act quantummechanical wave directly subject
+force gravity result surprising since
+gravity known act everythingeven deflecting lightacting photon poundrebka falling photon experimentselfinterference quantum mechanical wave massive fermion
+gravitational field never experimentally confirmed
+
+inthe diffraction fullerene researcheruniversity vienna reported fullerene rather largemassive object atomic mass aboutthe broglie
+wavelength ispicometers whereas diameter moleculeaboutnanometer abouttimes larger ofthislargest object quantummechanical wavelike propertydirectly observed farfield diffraction experimenterassumed argument waveparticle duality assumedvalidity broglie equation argument inthe vienna
+group meanwhile also demonstrated wavenaturetetraphenylporphyrina flat biodye extension aboutnm
+mass ofamu demonstration employednearfield talbot lau interferometerin interferometeralso found interference fringe fluorinated buckyball
+mass aboutamu composed ofatomslarge molecules
+already complex give experimental accessaspect quantumclassical interface certain decoherence
+mechanism 
+
+whether object heavier planck mass weightlarge bacterium broglie wavelength theoretically unclear
+experimentally unreachable planck mass particles
+compton wavelength would smaller planck lengthschwarzchild radius scale current theory physic may
+break need replaced general ones
+
+theoretical sketch remark philosophical inquiry
+
+examplesdiffraction interference doubleslit experiment phase
+noise laser proton teleportation quantum computing quantum
+cryptographybells theorem combination special relativity
+kleingordon equation dirac equation applicationframework given common mathematics behinddiscussed
+
+wave particle description made equivalent three steps
+particle state system described mathematicallynumber particle position quantum mechanics
+assigns every number every combination position complex
+number
+wave state system described mathematicallyfield distribution quantum field theory assigns every field
+distribution zero everywhere homogeneouscirculara
+complex number
+mathematically proven see fock space quantum field
+theory quantum description equivalentclassical description
+see also hilbert space path integral formulation mathematical
+formulation quantum mechanics
+
+complex number together make ket also called wave
+function name wave function problematic sounds
+wave particle time
+evolution ket governed partial differential equation
+generically called schrdinger equation mathematical tools
+learned classical physic solve equation stillapplied superposition eigenfunctions eigenvalue fdtd perturbation
+theory word particle wave time
+reality calculation admittedcoefficient differential equation derived rather
+unsymmetrical way respect particle waveunclear historical artifact
+
+ket still interpreted probability finding systemspecific state example allow even need partial
+measurement followed second time evolution ket followedmeasurement philosophical inquiry
+take place
+
+applications
+
+waveparticle duality exploited electron microscopysmall wavelength associated electron used view
+object much smaller visible using visible light
+
+retrieved 
+httpenwikipediaorgwikiwaveeparticleduality
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

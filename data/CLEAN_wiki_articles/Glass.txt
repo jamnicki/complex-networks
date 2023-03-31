@@ -1,0 +1,430 @@
+copyright
+
+glass
+
+ school wikipedia selection related subject material science
+
+glass made transparent flat shape colors
+shown sphere verrerie brehat brittany
+enlarge
+glass made transparent flat shape colors
+shown sphere verrerie brehat brittany
+
+glass uniform material arguable phase usually producedviscous molten material cool rapidly glass
+transition temperature without sufficient time regular crystal
+lattice form familiar form glass silicabased
+material used windows
+
+glass biologically inactive material formedsmooth impervious surface glass brittle breaksharp shard property modified changedaddition compound heat treatment
+
+common glass contains aboutweightof silicon dioxide sio
+major raw material sand quartz sand contains almost
+crystalline silica form quartz althoughalmost pure quartz may still contain small amountof iron
+oxide would colour glass sand usually enrichedfactory reduce iron oxide amount tolarge natural
+single crystal quartz purer silicon dioxide upon crushing
+used high quality specialty glass synthetic amorphous silica
+practicallypure raw material expensive
+specialty glasses
+
+property uses
+
+type glass scientific technical purposemyriad range application involving smallest devices
+dna microarrays football field sized enormously powerful
+neodymium doped glass shown laser used laser fusion
+applications
+enlarge
+type glass scientific technical purposemyriad range application involving smallest devices
+dna microarrays football field sized enormously powerful
+neodymium doped glass shown laser used laser fusion
+applications
+
+obvious characteristic ordinary glasstransparent visible light glassy materialtransparency due absence electronic transition staterange visible light ordinary glass homogeneous
+length scale greater wavelength visible light
+heterogeneity cause light scattered breaking coherent
+image transmission ordinary glass partially block uva wavelength
+betweenandnm completely block uvc uvb wavelengths
+shorter thannm due addition compound soda ash
+sodium carbonate
+
+pure sio glass also called fused quartz doe absorb light
+used application require transparency region
+although expensive type glass made pure
+made fibre optic cable hundred kilometre glass
+transparent infrared wavelength individual fibre givenequally transparent core siogeo glass haslightly different optical property germanium contributinghigher index refraction undersea cable section dopederbium amplify transmitted signal laser emission within
+glass amorphous sio also used dielectric
+material integrated circuit due smooth electrically
+neutral interface form silicon
+
+glass used making optical device categorized usingsixdigit glass code alternatively letternumber codeschott glass catalogue example low dispersion
+borosilicate crown glass highdispersion dense flint
+glass glass arranged composition refractive indexabbe number
+
+glass sometimes created naturally volcanic magma glasscalled obsidian usually black impurity obsidianraw material flintknappers used make extremely
+sharp knife since stone age collecting obsidian national
+park location may prohibited law countries
+toolmaking technique applied industriallymade
+glass
+
+glass ingredients
+
+pure silica sio melting point aboutc
+f made glass special application see fused
+quartz substance added common glass simplify
+processing one sodasodium carbonate naco lowers
+melting point aboutcf however soda makes
+glass water soluble usually undesirable lime 
+calcium oxide cao mgo aluminium oxide added provide
+better chemical durability resulting glass contains 
+topercent silica weight called sodalime glass
+sodalime glass account aboutpercent manufactured glass
+
+well soda lime common glass ingredient added
+change property lead glass lead crystal flint
+glass brilliant increased refractive index
+cause noticeably sparkle boron may added change
+thermal electrical property pyrex adding barium also
+increase refractive index thorium oxide give glass high
+refractive index low dispersion formerly used producing
+highquality lens due radioactivity replacedlanthanum oxide modern glass large amount iron usedglass absorbs infrared energy heat absorbing filtermovie projector ceriumiv oxide used glassabsorbs wavelength biologically damaging ionizing radiation
+
+glass include silica major constituent sometimes
+used fibre optic specialized technical applications
+include fluorozirconate fluoroaluminate chalcogenide
+glasses
+
+initalian scientist created new type glass using extreme
+pressure carbon dioxide substance named amorphous carbonia
+aco atomic structure resembling ordinary
+window glass 
+
+glass polymer
+
+innovative way making glass involves preparationpolymerization putting additive modify propertyglass problematic high temperature preparation
+destroys polymerizing glass possible embed
+active molecule enzyme add new level functionality
+glass vessel sol gel good example glass prepared
+way
+
+colors
+
+metallic additive glass mix produce variety colors
+cobalt added produce bluish colored decorative
+glass
+enlarge
+metallic additive glass mix produce variety colors
+cobalt added produce bluish colored decorative
+glass
+inside blue glass cup
+enlarge
+inside blue glass cup
+
+glass appears colorless naked eye thin thoughseen green thick aid scientific
+instrument however metal metal oxide added glass
+manufacture change colour
+ironii oxide result bluishgreen glass frequently usedbeer bottle together chromium give richer green
+colour used wine bottles
+sulfur together carbon iron salt used form iron
+polysulfides produce amber glass ranging yellowishalmost black borosilicate glass rich boron sulfur imparts
+blue colour calcium yield deep yellow colour
+manganese added small amount remove green tint
+given iron higher concentration give glassamethyst colour manganese one oldest glass additives
+purple manganese glass used since early egyptian history
+selenium like manganese used small concentrationdecolorize glass higher concentration impart reddish
+colour caused selenium atom dispersed glassimportant agent make pink red glass used togethercadmium sulfideit yield brilliant red colour knownselenium ruby
+small concentration cobalttoyield blue glass
+best result achieved using glass containing potash
+small amount used decolorizing
+tin oxide antimony arsenic oxide produce opaque white
+glass first used venice produce imitation porcelain
+toof copper oxide produce turquoise colour
+pure metallic copper produce dark red opaque glasssometimes used substitute gold productionrubycolored glass
+nickel depending concentration produce blue violet
+even black glass lead crystal added nickel acquires
+purplish colour nickel together small amount cobaltused decolorizing lead glass
+chromium powerful colorizing agent yielding dark green
+higher concentration even black colour together tin
+oxide arsenic yield emerald green glass chromium
+aventurine aventurescence achieved growth large
+parallel chromiumiii oxide plate also made glassadded chromium
+cadmium together sulfur result deep yellow colour often
+used glaze however cadmium toxic
+adding titanium produce yellowish brown glass titanium rarely
+used often employed intensify brighten
+colorizing additives
+metallic gold small concentration around 
+produce rich rubycolored glass ruby gold lower
+concentration produce intense red often marketed 
+cranberry colour caused size dispersion gold
+particle ruby gold glass usually made lead glass added
+tin
+uraniumtocan added give glass fluorescent yellow
+green coloururanium glass typically radioactive enough
+dangerous ground powder polishing
+sandpaper inhaled carcinogenic usedlead glass high proportion lead produce deep red
+colour
+silver compound notably silver nitrate produce rangecolor orangered yellow way glass heatedcooled significantly affect color producedcompound chemistry involved complex well
+understoodwow
+
+calculation glass properties
+
+glass property calculated statistical analysisglass database sciglass interglad desired glass
+property related crystallization liquidus temperature
+phase separation linear regression applied using polynomial
+function third degree image show example
+equation second degree cvalues glass component
+concentration like nao cao percent fractionbvalues coefficient total number glass
+component glass main component silica sio excludedequation overparametrization due constraint
+component sum tomany term equationneglected based correlation significance analysis
+detail example available glasspropertiescom
+
+mboxglass propertybsumin left bici 
+sumkin bikcick right
+
+liquidus temperature modeled using neural networks
+regression following article dreyfus dreyfus machine
+learning approach estimation liquidus temperatureglassforming oxide blend noncryst solid volp
+
+
+often required optimize several glass properties
+simultaneously including production cost performedmicrosoft excel followslisting desired property 
+entering model reliable calculation property basedglass composition including formula estimatingproduction costscalculation square differences
+desired calculated propertiesreduction sumsquare using solver option microsoft excel glass
+component variable possible weight desired
+property differently basic information principlefound article huff call computerized prediction
+glass composition property ceram soc vol 
+p 
+
+history glass
+
+phoenicia egypt
+
+piece obsidian
+enlarge
+piece obsidian
+
+naturally occurring glass obsidian used sincestone age according pliny elder phoenician made first
+glass pliny wrote tradition merchant ship ladennitrum soda potash moored place merchantpreparing meal beach stone proppot used lump nitrum ship fusedmixed sand shore flowed stream new
+translucent liquid thus origin glassphoenician used glass glaze pottery known earlybc however archaeological evidence support claim
+first glass made mesopotamia glass bead sealarchitectural decoration date aroundbc
+
+color natural glass green bluish green colourcaused naturally occurring iron impurity sand common glass
+today usually slight green blue tint arisingimpurity glassmaker learned make colored glass adding
+metallic compound mineral oxide produce brilliant hue red
+green bluethe color gemstone gemcutters learnedcut glass found clear glass excellent refractor light
+earliest known bead egypt made new kingdom
+aboutbc came variety color madewinding molten glass around metal bar highly prizedtrading commodity especially blue one reportedmagical powers
+coreformed amphoriskoscmin tall century cyprus
+enlarge
+coreformed amphoriskoscmin tall century cyprus
+
+egyptian also made small jar bottle using coreformed
+method glass thread wound around bag sand tied rodglass continually reheated fuse thread togetherglass kept motion required shape thickness
+wa achieved final step allow rod coolpuncture bag remove rod egyptian also formedfirst colored glass rod used create colorful beaddecoration also worked cast glassby century technology spread least greece first century many glass centre located around mediterraneaneastern end mediterranean glass blowing freeblowing
+mouldblowing discovered
+
+romans
+
+roman glass beaker century enlarge
+roman glass beaker century 
+advent roman empire saw development many new
+technique empire spread popularity glass
+conquest trade use glass object techniques
+used making glass spread far north scandinaviabritish isle china spreading technology resulted glass
+artist congregating arearoman glass
+enlarge
+roman glass
+
+alexandria egypt famous portland vase createdrhine valley bohemian glass developed byzantiumglass design became ornate process enamelling
+staining gilding developed window glass quite commonly
+used century example found karanis egypttranslucent thick fall empire emperor
+constatine moved byzantium use glass continued
+however rest empire use glass declined many
+previously known technique disappeared glass didnt completely gouse didnt become popular westresurgence century
+
+europe
+
+glass object th century foundisland torcello near venice form important linkroman time later importance city productionmaterial aboutad important technical breakthroughmade northern europe soda glass replaced glass mademuch readily available material potash obtained wood
+ash point northern glass differed significantlymade mediterranean area soda remained common use
+th century stained glass window
+enlarge
+th century stained glass window
+
+th century saw emergence germany new way making
+sheet glass blowing sphere swinging form cylinders
+cutting still hot flattening sheettechnique perfected century venice
+
+th century also saw emergence glass mirror islamic
+spain
+
+th century stained glass glass coloring
+impurity usually metal widely used
+
+centre glass making century veniceisland murano developed many new technique becamecentre lucrative export trade dinner ware mirrorluxury item made venetian murano glass significantly different
+wa local quartz pebble almost pure silicaground fine clear sand combined another locally
+occurring product called levant soda ash venetians
+held sole monopoly resulted venetian producingsuperior form glass resulted trade advantage
+glass producing lands
+
+history murano glassmaking
+
+muranos reputation centre glassmaking bornvenetian republic fearing fire destruction city mostly
+wood building ordered glassmaker move foundry murano
+inmurano glass still interwoven venetian glass muranos
+glassmaker soon island prominent citizen century glass maker allowed wear sword enjoyed immunity
+prosecution venetian state found daughters
+married venice affluent family course wacatch glassmaker werent allowed leave republic however many
+craftsman took risk set glass furnace surrounding
+city far afield england netherlands muranos
+glassmaker held monopoly quality glassmaking centuries
+developing refining many technology including crystalline glass
+enameled glass smalto glass thread gold aventurine
+multicolored glass millefiori milk glass lattimo imitation
+gemstone made glass today artisan murano still
+employing centuryold technique crafting everythingcontemporary art glass glass jewelry murano glass chandeliers
+wine stopper promovetro consortium setsafeguard promote defend original glass production island
+murano always synonym unique quality styleintroduction vetro artistico murano mark representsfundamental milestone consortium sole
+administrator italy abroad sincethe consortiumbody representing murano glasswork affix origin
+mark product make recognisable marketeffort oppose numerous attempt speculation imitation
+damage made italy symbol consortium authentic
+custodian murano art committed defending glass making
+tradition murano providing information consumerinitiative aimed heightening public awarenessunique precious inimitable product
+
+english glass still sufficiently poor anything witness saw
+closed window admissible evidence courtlate eventually venetian glass worker movedarea northern europe glass making spread
+crown glass process used mids process
+glassblower would spin aroundpoundkg molten glassend rod flattened disk approximatelyfeet 
+diameter disk would cut pane venetian glass
+wa highly prized th century arounda
+process casting glass developed led becomingmuch commonly used material invention glass pressing
+machine inallowed mass production inexpensive glass
+articles
+
+cylinder method creating flat glass first used united
+state america used commercially produce
+window type handblown sheet glass replacedth century rolled plate
+
+glass artifacts
+
+since glass strong nonreactive useful material
+many household object made glass drinking glass bowlbottle often made glass light bulb mirror cathode
+ray tube window laboratory research chemistry
+biology physic many field flask test tube lenslaboratory equipment often made glassapplication borosilicate glass pyrex usually usedstrength low coefficient thermal expansion gives
+greater resistance thermal shock allows greater accuracylaboratory measurement heating cooling experimentdemanding application quartz glass used althoughdifficult work glass massproduced using various
+industrial process large laboratory need much custom
+glassware keep glassblower staff volcanic glassobsidian long used make stone tool flint
+knapping technique easily adapted massproduced glass
+
+glass art
+
+glass sculpture dale chihuly aexhibition sponsoredglaxosmithkline kew garden london england piece isfeet
+high
+enlarge
+glass sculpture dale chihuly aexhibition sponsoredglaxosmithkline kew garden london england piece isfeet
+high
+handblown glass bead pendant illustrate myriad
+color shape glass art canadian nickel scale
+enlarge
+handblown glass bead pendant illustrate myriad
+color shape glass art canadian nickel scale
+
+even availability common glassware hand blownlampworked glassware remains popular artistry artistglass include dale chihuly lino tagliapietra kenji ito han godo
+frabel rene lalique louis comfort tiffany responsible
+extraordinary glass object term crystal glass derivedrock crystal come denote highgrade colorless glass often
+containing lead sometimes applied fine handblown glass
+edinburgh crystal brands
+
+someone work hot glass called glassblower lampworker
+technique fine glassware created warm glass
+refers technique manipulating glass kiln 
+
+cold work includes traditional stained glass work wellmethod shaping glass room temperature glass also cut
+diamond saw copper wheel embedded abrasivepolished give gleaming facet technique used creating
+waterford crystal art sometimes etched glass via useacid caustic abrasive substance traditionally done
+glass blown cast new mouldetch
+process invented art etched directly mould
+cast piece emerged mould image already
+surface glass reduced manufacturing costcombined wider use colored glass led cheap glasswarelater became known depression glass types
+acid used process extremely hazardous abrasive methods
+gained popularity
+
+object made glass include vesselsbowls vascontainer paperweight marble bead smoking pipe bongsculpture colored glass often used though sometimes glasspainted notable example painted glass include workcontemporary artist judith schaechter walter lieberman
+innumerable example exist use stained glassjohn farge boston trinity church lifesized
+sculpture among fine art jim gary
+
+harvard museum natural history collection extremely
+detailed model flower made painted glass lampworked
+leopold blaschka son rudolph never revealed method
+used make blaschka glass flower stillinspiration glassblower today see harvard museum natural
+history page exhibit information
+
+stained glass art form long history many churchbeautiful stainedglass windows
+
+glass buildings
+
+glass used building since century glass
+building include transparent material window internal
+glazed partition architectural features
+
+glass building safety type including wired toughened
+laminated glass glass fibre insulation common roofwall foamed glass made waste glass used lightweight
+closedcell insulation
+
+glass vehicles
+
+see also sunroof greenhouse windshield
+
+glass liquid
+
+one arguably justifiable belief glass liquidpractically infinite viscosity room temperature flows
+though slowly similar pitch glass generally treatedamorphous solid rather liquid though different viewjustified since characterizing glass either solid liquidentirely straightforward matterhowever notion glass
+flow appreciable extent extended period timesupported empirical evidence theoretical analysis
+
+myth doe exist glass rod tube bendweight time check robert john rayleigh son
+nobel prize winner john william rayleigh conductedexperiment ametrein longmillimetrein thick
+glass rod supported horizontally two pin agram
+lb weight middle apart initial bending 
+millimetrein position weight changeend experiment lasted foryears time
+another man worker general electric named spenser
+conducted similar experiment independently two monthrayleigh published result also disproved myth
+spenser suggested myth composedtube made hand naturally curvedbegin time straight tube taken awaycurved one remained people probably thought glass
+flowing
+
+clear answer question glass solid liquid
+term molecular dynamic thermodynamics possiblejustify various different view highly viscous liquidamorphous solid simply glass another state matterneither liquid solid
+
+behaviour antique glass
+
+observation old window often thicker bottomtop often offered supporting evidence viewglass flow matter century assumedglass uniform flowed new shape
+
+likely source belief pane glasscommonly made glassblower technique used spin molten
+glass create round mostly flat even plate crown
+glass process described plate cut fitwindow piece however absolutely flat edgedisk would thicker centrifugal force actually
+installed window frame glass would placed thicker side
+sake stability visual sparkle occasionallyglass found thinner side would causedcarelessness time installation
+
+mass production glass window pane early twentieth century
+caused similar effect glass factory molten glass poured
+onto large cooling table allowed spread resulting glass
+thicker location pour located centrelarge sheet sheet cut smaller window panenonuniform thickness modern glass intended window producedfloat glass uniform thickness
+
+several point indicate cathedral glass theorymisconceived
+writing american journal physic physicist edgarzanotto state predicted relaxation time geo room
+temperature isyears hence relaxation period
+characteristic flow time cathedral glass would even
+longer physmayin layman termwrote glass room temperature strongly solid
+side spectrum solid liquids
+medieval glass flowed perceptibly ancient romanegyptian object flowed proportionately morebutobserved
+glass flow rate allows change seennaked eye century change optical telescope
+mirror observable interferometry matterdaysbut also observed similarlypossible see newton ring decadeold fragmentwindow glassbut fact quite easily done
+glass refracting telescope objective lens large
+diameter observed sag weight causingloss focus due elastic deformationglass flowing time along chromatic
+aberration effect limit size refracting
+telescope largest refractor worldyerkes observatory telescope diameter ofcentimetres
+
+comparison pitch
+
+note pitch another seeminglysolid material fact highly
+viscous liquidbillion time viscous water property
+seen university queensland pitch drop experiment
+drop taken approximatelyyears fallbeaker
+

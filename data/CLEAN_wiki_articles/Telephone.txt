@@ -1,0 +1,284 @@
+copyright
+
+telephone
+
+ school wikipedia selection related subject engineering
+
+french rotary telephone
+enlarge
+french rotary telephone
+basic modern telephone
+enlarge
+basic modern telephone
+touchtone telephone
+enlarge
+touchtone telephone
+touchtone telephone keypad
+enlarge
+touchtone telephone keypad
+copy original phone graham bell muse art mtiers paris
+enlarge
+copy original phone graham bell muse art mtiers paris
+telephone sweden
+enlarge
+telephone sweden
+telephone handset
+enlarge
+telephone handset
+
+telephone phone telecommunication device usedtransmit receive sound commonly voice speech across
+distance telephone operate transmission electric
+signal complex telephone network allows almost phone
+user communicate almost
+introduction
+
+elementary telephone system consists three elements
+subscriber system must contain equipment
+necessary convert sound electrical signal backallows subscriber answer initiate call
+system must contain central switching facilityinterconnects subscribers
+finally system requires wiring mean connectsubscriber central switching facility
+
+three principal way subscriber may connectedtelephone network
+historically still commonly dedicated physical wire
+connection run overhead underground cables
+radio cordless cellular satellite radiotelephone
+voice internet protocol voip telephone use
+broadband internet connections
+
+history
+
+identity inventor electric telephone remainsdispute antonio meucci johann philipp real alexander graham bellelisha gray amongst others credited invention
+
+early history telephone confusing morass claim
+counterclaim clarified huge mass lawsuits
+hoped resolve patent claim individual much moneyexpended particularly bell telephone companyaggressive defense bell patent resulted much confusion
+additionally earliest investigator preferred publicationpopular press demonstration investor instead scientific
+publication demonstration fellow scientist importantnote probably single inventor telephonemodern telephone result work done many hand worthy
+recognition addition field last ten
+year however british government announcedrecognizes primarily educational purpose antonio meucci see
+first inventor telephone acknowledged
+even congress
+early development
+
+following brief summary history inventiontelephone
+antonio meucci demonstrates device later calledtelephone individual havana demonstration involves
+direct electrical connection people
+charles bourseul publishes description makebreak
+telephone transmitter receiver doe construct working
+instrument
+meucci demonstrates electric telephone new york
+johann philipp real demonstrates telephon using pressure
+contact transmitter makebreak design bourseulknitting needle receiver witness said heard human voices
+transmitted
+meucci demonstrates telephone staten island
+real manages transfer voice electrically distancefoot see real telephone
+attempt give musical automaton voice innocenzo
+manzetti invents speaking telegraph show interestpatenting device reported newspapers
+meucci read manzettis invention writes editors
+two newspaper claiming priority quoting first
+experiment inhe writes wish deny manzetti
+invention wish observe two thought couldfound contain discovery uniting two
+idea one easily reach certainty thingimportant read meuccis offer collaboration manzetti
+doe respond
+meucci file patent caveat statement intentionpatent
+elisha gray found western electric manufacturing company
+prof vanderwyde demonstrated reiss telephone new york
+julythomas edison note variable resistance carbon grains
+due pressure build rheostat based principle
+maygray invents electromagnet device transmitting musical
+tone receiver use steel diaphragms
+decembergray demonstrates musical tone devicetransmitted familiar melody telegraph wirepresbyterian church highland park illinois
+junealexander graham bell transmits sound plucked
+steel reed using electromagnet instruments
+julybell bidirectional gallows telephoneable transmit indistinct voicelike sound clear
+speech transmitter receiver identical
+membrane electromagnet instruments
+thomas edison experiment acoustic telegraphynovember build electrodynamic receiver doe exploit
+februaryelisha gray invents liquid transmitter use
+telephone doe build one
+februaryaboutam gray lawyer bringspatent office gray caveat telephone caveat wanotice intention file patent application
+februaryabout bell lawyer brings patent
+office bell patent application telephone bell lawyer
+requested registered immediately cash blotter
+two hour later elisha gray caveat registeredcash blotter although gray could convertedcaveat patent applicationmarchbells patentfor telephone granted
+marchbell transmits speech watson come want
+using liquid transmitter electromagnetic receiver
+maythomas edison file first patent applicationacoustic telegraphy
+januaryedison first succeeded transmitting wires
+many articulated sentence using carbon granule pressure
+sensitive variable resistance pressure diaphragm
+josephson januarybells patentis grantedelectromagnetic telephone using permanent magnet iron
+diaphragm call bell
+marchemile berliner invents microphone basedloose contact two metal electrode improvementreal telephone aprilfiles caveat inventionprocess
+apriledison file patent carbon graphite
+transmitter patentwas granted mayafter 
+year delay due litigation ina federal court ruled edison
+berliner inventor carbon transmitter edison
+wa granted patentfor carbon granule transmitteredison carbon granule transmitter bells
+electromagnetic receiver used improvement bell
+system many decade thereafter josephson 
+
+later history
+
+ericofon futuristic handset introduced
+enlarge
+ericofon futuristic handset introduced
+
+history additional invention improvement electrical
+telephone includes carbon microphone later replacedelectret microphone used almost telephone transmittermanual switchboard rotary dial automatic telephone exchange
+computerized telephone switch touch tone dialingdtmfdigitization sound using different coding technique including pulse
+code modulation pcm also used forwav aif filecompact discs
+
+newer system include telephony isdn dsl mobile cellular phone
+system cordless telephone third generation cell phone
+system promise include highspeed packet data transfer
+
+industry divided telephone equipment manufacturertelephone network operator telco operating company often holdnational monopoly united state bell system vertically
+integrated fully partially owned telephone companyprovided service aboutof telephone country also
+owned western electric manufactured purchased virtuallyequipment supply used local telephone companybell system divested local telephone company inin
+order settle antitrust suit brought united
+state department justice
+
+inbell lab british post office engineered first
+twoway conversation across atlantic
+
+first commercial transatlantic telephone call new york
+city london occurred january
+
+digital telephony
+
+public switched telephone network pstn gradually evolved
+towards digital telephony improved capacity quality
+network endtoend analog telephone network first
+modified upgrading longhaul transmission networksonet technology fibre optic transmission method digital
+transmission made possible carry multiple digitized switched
+circuit single transmission medium known multiplexingtoday end instrument remains analog analog signal reaching
+aggregation pointserving area interface sai central
+office coare typically converted digital signal digital loop
+carrier dlc often used placing digital network ever closer
+customer premise relegating analog local loop legacy
+status
+
+wireless phone systems
+
+termwireless mean radio refer telephone
+us radio wave telephone existed sincesee 
+hello hawaii primarily used cell phoneunited state wireless company tend use term wirelessrefer wide range service cell phone called
+mobile phone mobile phone cell phone simply celltrend moving towards mobile
+
+change terminology partially due provider using
+different term marketing differentiate newer digital services
+older analog system service one company another
+
+cordless telephone
+
+cordless handset
+enlarge
+cordless handset
+
+cordless telephone invented teri pall inconsist base
+unit connects landline system also communicatesremote handset low power radio permit use handset
+location within range base power
+required transmit handset base station poweredelectronic power supply thus cordless phone typicallyfunction power outage initially cordless phone used 
+mhz frequency range communicate base handsetquality range problem unit soon superseded systems
+used frequency modulation higher frequency rangesmhz
+mhzghz andghz theghz cordless phoneinterfere certain wireless lan protocolsbg dueusage frequency theghz band several channels
+utilized attempt guard degradation quality
+voice signal due crowding range modern cordless
+phone normally order hundred meters
+
+mobile phones
+
+modern mobile phone system cellstructured radio usedcommunicate handset nearby cell sites
+
+handset get far cell site computer system
+command handset closer cell site takecommunication different channel without interrupting call
+
+radio frequency limited shared resource higher
+frequency used cell phone advantage short distances
+connection distance somewhat predictable controlledadjusting power level using enough power connectnearest cell site phone using one cell site cause almostinterference phone using frequency another cell
+site higher frequency also work well various formmultiplexing allows one phone connecttower set frequencies
+
+satellite phones
+
+mobile telephone especially used remote locations
+constructing cell network would unprofitabledifficult instead communicate directly orbiting satellite
+device tend bulkier cellbased mobile phonerequire large antenna dish communicating satellite
+require ground based transmitter making usefulcommunicating remote area disaster zones
+
+semicordless phone
+
+phone work cordless phone nearcorresponding base station sometimes base station work
+wireless phone location varietyreason become popular
+
+kind cordless phone work like cellular phone within
+small private network covering building group buildings
+kind system using voip popular hospitalfactory wireless network used datavoice
+
+ip telephony
+
+wifibased voip phone
+enlarge
+wifibased voip phone
+
+also known internet telephony telephony service basedvoice voip disruptive technology rapidly gaining
+ground traditional telephone network technology japansouth korea toof subscriber januaryhave switched
+digital telephone service recent newsweek article suggested
+internet telephony may next big thing
+
+many telephony provider market packet
+vonage sunrocket moment statistic suggest 
+world population switched voip year 
+
+ip telephony broadband internet connection transmit
+conversation data packet addition replacing pot telephony also competing mobile phone network offering free
+lower cost connection via wifi hotspot mentioned voipalso used private wireless network may mayconnection outside telephone network
+
+telephone equipment research labs
+
+bell lab noted telephone equipment research laboratory amongst
+research fields
+
+telephone operating companies
+
+country many telephone operating company commonly
+abbreviated telco american english competition provide
+telephone service included following list
+however list includes facility based providercompany lease service facility based provider order
+serve customer see also list telephone operating
+companies
+
+trivia
+
+modern handset came existence swedish lineman tied
+microphone earphone stick could keep hand free
+folding portable phone intentional copy fictional
+futuristic communicator use actually closely
+resembled walkietalkies nextelstyle used television show
+star trek though similar device seen shows
+unicode telephone depicted character whose
+hexadecimal code areefand
+may display properly browsers
+
+patents
+
+ustelegraphy bell first telephone patent 
+alexander graham bell
+uselectric telegraphy permanent magnet receiver 
+alexander graham bell
+usspeaking telegraph graphite transmitterthomas
+edison
+usspeaking telephone carbon button transmitter 
+thomas edison
+uscarbon telephone carbon granule transmitter 
+thomas edison
+
+ustelephone solid back carbon transmitteranthony
+c white bell engineer design used untiland
+installed phone usedusduplex radio communication signalling appartus
+g sweigert
+uscellular mobile communication systemamos edward
+joel bell labs
+usradio telephone system dynatac cell phone 
+martin cooper al motorola
+

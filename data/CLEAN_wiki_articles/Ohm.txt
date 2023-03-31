@@ -1,0 +1,58 @@
+copyright
+
+ohm
+
+ school wikipedia selection related subject electricityelectronics
+
+multimeter used measure resistance ohm alsoused measure capacitance voltage amperage ect
+multimeter used measure resistance ohm alsoused measure capacitance voltage amperage ect
+several resistor resistance ohm marked using color
+code
+several resistor resistance ohm marked using colour
+code
+
+ohm symbolis unit electrical impedancedirect current case electrical resistance named georg ohm
+
+definition
+
+ohm electrical resistance offered currentcarrying
+element produce voltage drop one volt current one
+ampere flowing
+omegadfracmboxvmboxadfracmboxm cdot
+mboxkgmboxs cdot mboxa
+
+explanation
+
+r one ohm vone volt ione ampere
+r one ohm vone volt ione ampere
+
+definition ohm law device resistance one ohmvoltage one volt cause current one ampere flow rvi
+alternatively equivalently device dissipates one wattpower one ampere current flowing resistanceone ohm rpi 
+
+sincethe ohm maintained internationally usingquantum hall effect conventional value used 
+vonklitzing constant fixed general conference weights
+measure 
+complex quantity impedance generalisation resistancereal part resistance imaginary part reactance impedance
+resistance reactance unit ohms
+
+symbol ohm greek capital letter omegaifgreek letter cannot used word ohm used instead various
+guide use international system unitexplicitly forbid elision final prefixes
+although nothing suggest allowable
+either result one likely see kilohm
+kiloohm even kiloohm hold true hecto
+micro nano pico femto atto zepto yoctosi unit suffer kind orthographic uncertaintyampere particular case ohm one even seeprefix lose vowel hence megohm gigohm higher prefixrarely used ohm direction milliohms millohms
+seen resistance cable etc measured
+
+unit ohm kilohmsand megohmsare usedelectronic design documentation schematic diagram part lists
+kilohms abbreviated megohm abbreviated thus 
+kilohms would rendered andmegohms wouldanother commonly used convention multiplier usedreplace decimal point thatmegohms also represented
+convention used decimal pointdifficult see small cluttered print value krendered either without symbol r following
+number soohms shown asor resistorusually identified reference designator cardinal number
+eg 
+conversions
+
+measurement ohm reciprocal measurement siemens
+si unit electrical conductance note siemenssingular plural nonsi unit mho simply put ohm written
+backwards equivalent siemens mostly obsolete rarely
+used
+

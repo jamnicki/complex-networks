@@ -1,0 +1,284 @@
+copyright
+
+benzene
+
+ school wikipedia selection related subject chemical compounds
+
+may looking benzine benzin pronounced
+benzene
+
+benzene
+benzene
+general
+systematic namebenzene
+namesbenzol
+cyclohexatriene
+molecular formulach
+smilescccccc
+cccccc
+inchiinchich
+chh
+molar massgmol
+appearancecolorless liquid
+ca number
+properties
+density phasegcm liquid
+solubility waterglc
+melting pointck
+boiling pointck
+viscositycp atc
+structure
+molecular shapeplanar
+symmetry groupdh
+dipole momentd
+hazards
+msdsexternal msds
+eu classificationflammable carc cat 
+muta cat 
+toxicnfpa 
+
+
+
+
+
+rphrasesr r r sphrasessflash pointc
+autoignition temperaturec
+rtecs numbercy
+related compounds
+related
+hydrocarbonscyclohexane
+naphthalene
+related compoundstoluene
+borazine
+except noted otherwise data givenmaterial standard state ckpa
+infobox disclaimer references
+
+benzene also known benzol organic chemical compoundformula sometimes abbreviated phh benzenecolorless flammable liquid sweet smell relatively high
+melting point carcinogenic use additive gasoline
+limited important industrial solvent precursor
+production drug plastic synthetic rubber dyes
+benzene natural constituent crude oil usually
+synthesized compound present petroleum benzenearomatic hydrocarbon second annulene annulene
+
+history
+
+benzene subject many study many famous scientists
+ranging michael faraday linus pauling infaraday reported
+isolation oil gas gave name bicarburet hydrogen
+ineilhard mitscherlich produced via distillationbenzoic acid gum benzoin lime mitscherlich gavecompound name benzin incharles mansfield workingaugust wilhelm von hofmann isolated benzene coal tar four years
+later mansfield began first industrialscale productionbenzene based coaltar method
+
+structure
+
+formula benzene mystified scientist couldfigure structure friedrich august kekul von stradonitzfirst deduce ring structure benzene oftenrepeated
+story claim year studying carbon bonding benzenerelated molecule dreamt one night ouroboros snake eating
+tail upon waking inspired deduce ring
+structure benzene common tale obtained inspiration
+figure hexagon tabern sign germany howeverstory first appeared berichte der durstigen chemischen
+gesellschaft journal thirsty chemical society parodyberichte der deutschen chemischen gesellschaft appeared annually
+lateth century occasion congress german
+chemist accordingly probably treatedcircumspection
+
+formal claim wellpublicized acceptedearlys kekuls biographer came conclusionkekuls understanding tetravalent nature carbon bonding
+depended previous research archibald scott couper
+furthermore josef loschmidthad earlier
+posited cyclic structure benzene early asthe cyclic
+nature benzene finally confirmed eminent crystallographer
+kathleen lonsdale
+
+benzene present special problem accountbond must alternating double carbon bonds
+
+benzene alternating double bonds
+
+using xray diffraction researcher discoveredcarboncarbon bond benzene length ofpicometres
+pm bond length greater double bond pmshorter single bond intermediate distanceexplained electron delocalization electron bondingdistributed equally six carbon atom one
+representation structure exists superpositionsocalled resonance structure rather either form individually
+delocalisation electron known aromaticity gives
+benzene great stability enhanced stability fundamental
+property aromatic molecule differentiates molecules
+nonaromatic reflect delocalised naturebonding benzene often depicted circle inside hexagonal
+arrangement carbon atoms
+
+benzene structure circle inside hexagon
+
+common organic chemistry carbon atom diagram
+left unlabeled
+
+benzene occurs sufficiently often component organic molecules
+unicode symbol code represent
+
+
+many font unicode character browser mayable display correctly
+
+substituted benzene derivatives
+
+many important chemical derived benzene wherein onehydrogen atom replaced another functional group
+example simple benzene derivative phenol tolueneaniline abbreviated phohphme phnh respectively linking
+benzene ring give biphenyl chch losshydrogen give fused aromatic hydrocarbon naphthaleneanthracene limit fusion process hydrogenfree
+material graphite
+
+heterocycle carbon atom benzene ring replacedelement important derivative ring containing
+nitrogen replacing one n give compound pyridine
+chn although benzene pyridine structurally related
+benzene cannot converted pyridine replacement second bond give depending location second pyridazine pyrimidine pyrazine
+
+production
+
+trace amount benzene may result whenever carbonrich materials
+undergo incomplete combustion produced volcano forest
+fire also component cigarette smoke
+
+world war benzene produced byproduct coke
+production steel industry however increased
+demand benzene especially growing plastic industry
+necessitated production benzene petroleum todaybenzene come petrochemical industry small
+fraction produced coal
+
+three chemical process contribute equally industrial benzene
+production catalytic reforming toluene hydrodealkylation steam
+cracking
+
+catalytic reforming
+
+catalytic reforming mixture hydrocarbon boiling points
+betweenc blended hydrogen gas exposedbifunctional platinum chloride rhenium chloride catalyst 
+c pressure ranging fromatm conditions
+aliphatic hydrocarbon form ring lose hydrogen become aromatic
+hydrocarbon aromatic product reaction separated
+reaction mixture extraction one numbersolvent including diethylene glycol sulfolane benzeneseparated aromatics distillation
+
+toluene hydrodealkylation
+
+toluene hydrodealkylation convert toluene benzene process
+toluene mixed hydrogen passed chromium
+molybdenum platinum oxide catalyst atc andatm
+pressure sometimes higher temperature used insteadcatalyst condition toluene undergoes dealkylation
+according chemical equation
+
+chchhchch
+
+irreversible reaction accompanied equilibrium side
+reaction produce biphenyl aka diphenyl chhch
+
+typical reaction yield exceedsometimes xylene heavier
+aromatics used place toluene similar efficiency
+
+toluene disproportionation
+
+chemical complex similar demand benzenexylene toluene disproportionation tdp may attractive
+alternative broadly speakingtoluene molecule reactedmethyl group rearranged one toluene moleculeyielding one benzene molecule one xylene molecule
+
+given demand paraxylenepxylene substantially exceeds
+demand xylene isomer refinement tdp process called
+selective tdp stdp may used process xylene stream
+exiting tdp unit approximatelyparaxylene
+
+steam cracking
+
+steam cracking process producing ethylene olefins
+aliphatic hydrocarbon depending feedstock used produce
+olefin steam cracking produce benzenerich liquid byproduct
+called pyrolysis gasoline pyrolysis gasoline blendedhydrocarbon gasoline additive distilled separatecomponent including benzene
+
+uses
+
+early uses
+
+th earlyth century benzene usedaftershave lotion douche pleasant smell prior
+benzene frequently used industrial solvent
+especially degreasing metal toxicity became obvious
+benzene supplanted solvents
+
+inlugwig roselius popularized use benzene decaffeinate
+coffee discovery lead production sanka kakaffein process later discontinued
+
+petrol additive benzene increase octane rating reduces
+knocking consequently petrol often contained several percent benzene
+tetraethyl lead replacedwidelyused antiknock additive however global phaseoutleaded petrol benzene made comeback gasoline additivenation united state concern negative health
+effect possibility benzene entering groundwaterled stringent regulation petrol benzene content values
+aroundtypical european petrol specification containlimit benzene content
+
+current benzene
+
+today benzene mainly used intermediate makechemical widelyproduced derivative include styreneused make polymer plastic phenol resin adhesives
+via cumene cyclohexane used manufacturenylon smaller amount benzene used make typerubber lubricant dye detergent drug explosivepesticides
+
+laboratory research toluene often used substitutebenzene solventproperties two similar toluenele toxic wider liquid range
+
+benzene used basic research tool varietyexperiment including analysis twodimensional gas
+
+reaction benzene
+
+electrophilic aromatic substitution benzene
+electrophilic aromatic substitution general methodderivatizing benzene benzene sufficiently nucleophilicundergoes substitution acylium ion alkyl carbocationsafford give substituted derivatives
+
+friedelcrafts acylation benzene acetyl chloride
+
+friedelcrafts acylation specific exampleelectrophilic aromatic substitution reaction involvesacylation benzene many aromatic ringacyl chloride using strong lewis acid catalystaluminium chloride
+
+friedelcrafts alkylation benzene methyl chloride
+
+like friedelcrafts acylation friedelcrafts
+alkylation involves alkylation benzene manyaromatic ring usng alkyl halide presencestrong lewis acid catalyst
+
+
+sulfonation
+nitration benzene undergoes nitration nitronioum ions
+electrophile thus warming benzenecombination concentrated sulphuric nitric acid gives
+nitrobenzene
+hydrogenation benzene derivative convert cyclohexanederivative treated hydrogen high hydrogen pressures
+benzene excellent ligand organometallic chemistrylowvalent metal important example include sandwichhalfsandwich complex respectively crchruclch
+
+health effects
+
+benzene exposure serious health effect breathing high levelbenzene result death low level cause drowsiness
+dizziness rapid heart rate headache tremor confusionunconsciousness eating drinking food containing high levelbenzene cause vomiting irritation stomach dizziness
+sleepiness convulsion rapid heart rate death
+
+major effect benzene chronic longterm exposureblood benzene damage bone marrow cause decrease red
+blood cell leading anaemia also cause excessive bleeding
+depress immune system increasing chance infection
+
+woman breathed high level benzene many monthirregular menstrual period decrease sizeovary known whether benzene exposure affectdeveloping fetus pregnant woman fertility men
+
+animal study shown low birth weight delayed bone formation
+bone marrow damage pregnant animal breathed benzene
+
+u department health human service dhhs classifies
+benzene human carcinogen longterm exposure high levelbenzene air cause leukemia potentially fatal cancerbloodforming organ particular acute myeloid leukemia aml
+may caused benzene
+
+several test show exposed benzenetest measuring benzene breath test must done
+shortly exposure benzene also measured blood
+however benzene disappears rapidly blood
+measurement accurate recent exposures
+
+body benzene metabolized certain metabolitemeasured urine however test must done shortlyexposure reliable indicator much benzeneexposed since metabolite may present urine
+sources
+
+u environmental protection agency set maximum permissible
+level benzene drinking water atmilligrams per liter 
+mgl epa requires spill accidental releaseenvironment ofpoundskg benzene reportedepa
+
+u occupational safety health administration osha setpermissible exposure limit ofpart benzene per million partairppm workplace hour workday hour
+workweek short term exposure limit airborne benzene isppm
+forminutes
+
+marchthe official food standard agency britain conducted
+survey ofbrands soft drink found four contained
+benzene level world health organization limit affected
+batch removed sale
+
+recent history many example harmful health
+effect benzene derivative toxic oil syndrome caused
+localised immunesuppression madrid infrom people ingesting
+benzenecontaminated oliveoil chronic fatigue syndrome alsohighly correlated people eat denatured food use
+solvent remove fat contain benzoic acid
+
+worker various industry make use benzene may risk
+exposed high level carcinogenic chemical
+industry involve use benzene include rubber industry
+oil refinery chemical plant shoe manufacturer gasoline
+related industry inosha estimated aboutworkers
+united state potentially exposed benzeneknown number substantially changed since
+water soil contamination important pathway concerntransmission benzene contact aloneapproximatelydifferent site benzene soilgroundwater contamination inthe water supply cityharbin china population almost nine million peoplecut major benzene exposure benzene leakedsonghua river supply drinking water cityexplosion china national petroleum corporation cnpc factorycity jilin onnovember

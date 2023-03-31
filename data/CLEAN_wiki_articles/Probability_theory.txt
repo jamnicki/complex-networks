@@ -1,0 +1,190 @@
+copyright
+
+probability theory
+
+ school wikipedia selection related subject mathematics
+
+probability theory branch mathematics concerned analysis
+random phenomenon central object probability theoryrandom variable stochastic process event mathematical
+abstraction nondeterministic event measured quantitymay either single occurrence evolve time apparently
+random fashion mathematical foundation statistics
+probability theory essential human activity involve
+quantitative analysis large set data method probability
+theory also apply description complex system given partial
+knowledge state statistical mechanic great
+discovery twentieth century physic probabilistic naturephysical phenomenon microscopic scale described quantum
+mechanics
+
+history
+
+mathematical theory probability root attemptanalyse game chance girolamo cardano sixteenth century
+pierre fermat blaise pascal seventeenth century
+although individual coin toss roll die random event
+repeated many time sequence random event exhibit
+certain statistical pattern studied predicted two
+representative mathematical result describing patternlaw large number central limit theorem
+
+initially probability theory mainly considered discrete eventmethod mainly combinatorial eventually analytical
+consideration compelled incorporation continuous variabletheory culminated modern probability theoryfoundation laid andrey nikolaevich kolmogorov
+kolmogorov combined notion sample space introduced richard
+von measure theory presented axiom systemprobability theoryfairly quickly became undisputed
+axiomatic basis modern probability theory
+
+treatment
+
+discrete probability theory
+
+discrete probability theory deal event occur countable
+sample spaces
+
+example throwing dice experiment deck card random
+walk
+
+classical definition initially probability event occur
+wa defined number case favorable event number
+total outcome possible
+
+example event occurrence even number die
+rolled probability given tfractfrac 
+sincefaces thehave even numbers
+
+modern definition modern definition start set calledsample space relates set possible outcomeclassical sense denoted omegaleftxxdotsrightit
+assumed element omegaan intrinsic
+probability value attached satisfies following
+properties
+fxinmbox xin omega
+sumxin omega 
+event defined subset sample space omega 
+probability event defined
+pesumxin fx
+
+probability entire sample space isandprobability null event 
+
+function mapping point sample spaceprobability value called probability mass function abbreviated
+pmf modern definition doe try answer probability
+mass function obtained instead build theory assumes
+existence
+
+continuous probability theory
+
+continuous probability theory deal event occurcontinuous sample space
+
+sample space real number function calledcumulative distribution function cdf assumed existgive pxle xfx 
+
+cdf must satisfy following properties
+f monotonically nondecreasing rightcontinuous function
+limxrightarrow infty limxrightarrow infty 
+f differentiable random variable saidprobability density function pdf simply density
+fxfracdfxdx 
+
+set subseteq mathbbrthe probability random
+variable defined
+pxin eintxin dfx
+
+case density exists written
+pxin eintxin fxdx
+
+whereas pdf exists continuous random variable cdf
+exists random variable including discrete random variables
+take value mathbbr 
+
+concept generalized multidimensional casemathbbrn 
+
+measure theoretic probability theory
+
+certain distribution mix discrete continuous
+distribution example sum discrete continuous random
+variable neither pmf pdf distribution mayeven mix example cantor distribution point
+mass density modern approach probability theory solves
+problem using measure theory definitionprobability space
+
+given set omega also called sample space algebra
+sigma measure called probability measuremu nonnegative
+muomega
+
+cdf unique probability measure borel sigma
+field vice versa measure corresponding cdf saidinduced cdf measure coincides pmf discrete
+variable pdf continuous variable making measure
+theoretic approach free fallacies
+
+probability set sigma field sigma defined
+pxin eintxin dfx
+
+integration respect measure induced 
+
+along providing better understanding unification discrete
+continuous probability measure theoretic treatment also allows
+u work probability outside mathbbrnas theorystochastic process example study brownian motion probability
+defined space functions
+
+probability distributions
+
+certain random variable occur often probability theory duemany natural physical process distribution thereforegained special importance probability theory fundamental
+discrete distribution discrete uniform bernoulli binomial
+negative binomial poisson geometric distribution important
+continuous distribution include continuous uniform normal
+exponential gamma beta distributions
+
+convergence random variables
+
+probability theory several notion convergencerandom variable listed order strength subsequent notion convergence list implies convergence
+according preceding notions
+
+convergence distribution name implies sequencerandom variable xxdots converges random
+variable distribution respective cumulative
+distribution function ffdots convergecumulative distribution function xwherever fcontinuous
+
+weak convergence sequence random variables
+xxdots said converge towards random variable
+x weaklylimnrightarrowinftypleftleftxnxrightgeqvarepsilo
+nright everyweak convergence also called
+convergence probability
+
+strong convergence sequence random variables
+xxdots said converge towards random variable
+x strongly plimnrightarrowinfty xnx strong
+convergence also known almost sure convergence
+
+intuitively strong convergence stronger version weak
+convergence case random variable xxdots
+show increasing correlation xhowever caseconvergence distribution realized value random
+variable need converge possible correlation among
+immaterial
+
+law large numbers
+
+fair coin tossed know roughly half timeturn head half turn tail also seems
+toss likely ratioheadstails approachmodern probability allows formally
+arrive result dubbed law large number result
+remarkable nowhere assumed building theory
+completely offshoot theory linking
+theoreticallyderived probability actual frequencyoccurrence real world result considered pillarhistory statistical theory
+
+strong law large number slln state eventprobability observed repeatedly independent experiments
+ratio observed frequency event total number
+repetition converges towards strongly probability
+
+word independent bernoulli random
+variable taking valueswith probability andwith probability
+p sequence random number fracsum xnn converges
+p almost surely 
+pleft limnrightarrow infty fracsumin xinp
+right
+
+central limit theorem
+
+central limit theorem reason ubiquitous occurrence
+normal distribution nature onecelebrated theorem probability statistics
+
+theorem state average many independent identically
+distributed random variable tends towards normal distribution
+irrespective distribution original random variables
+follow formally let xxdots independent random variables
+mean mumudotsand variances
+sigmasigmadots sequence random variables
+
+znfracsumin ximuisqrtsumin
+sigmai
+
+converges distribution standard normal random variable
+

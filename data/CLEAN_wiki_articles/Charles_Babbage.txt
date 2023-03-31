@@ -1,0 +1,218 @@
+copyright
+
+charles babbage
+
+ school wikipedia selection related subject computing people
+
+charles babbage
+sketch based photograph npg henri claudetborndecember 
+england
+diedoctober 
+england
+occupation mathematician
+analytical philosopher
+mechanical engineerproto computer scientist
+spousegeorgiana whitmore
+
+charles babbagedecemberoctoberwas english
+mathematician analytical philosopher mechanical engineer proto
+computer scientist originated idea programmable computer
+part uncompleted mechanism display london
+science museum inworking babbages original plandifference engine completed functioned perfectly built
+tolerance achievable century indicating babbages
+machine would worked nine year later science museum
+completed printer babbage designed difference engine
+featured astonishing complexity century device
+
+birth
+
+charles babbage born england likely atcrosby row
+walworth road london blue plaque junction larcom street
+walworth road commemorates event discrepancy
+regarding date babbages birth published times
+obituary asdecemberhowever day later nephew babbage
+wrote say babbage born precisely one year earlier 
+parish register mary newington london show babbage
+wa baptised onjanuary
+
+charles father benjamin babbage banking partner praeds
+owned bitton estate teignmouth mother betsy
+plumleigh babbage teape inthe babbage family movedold rowdens house east teignmouth benjamin babbage becamewarden nearby michael church
+
+education
+
+father money allowed charles receive instruction several
+school tutor course elementary education
+around age eight sent country school alphington near
+exeter recover lifethreatening fever parent ordered
+brain taxed much babbage feltgreat idleness may led childish reasonings
+short time attended king edward grammar school totnes
+south devon health forced back private tutortime joined student holmwood academy baker street
+enfield middlesex reverend stephen freeman academywellstocked library prompted babbages love mathematicsstudied two private tutor leaving academyfirst clergyman near cambridge babbage said fearderive advantage might done second
+wa oxford tutor babbage learned enough classicaccepted cambridge
+
+babbage arrived trinity college cambridge octoberheread extensively leibniz lagrange simpson lacroixseriously disappointed mathematical instruction availablecambridge response john herschel george peacock several
+friend formed analytical society
+
+inbabbage transferred peterhouse cambridge top
+mathematician peterhouse failed graduate honourinstead received honorary degree without examination 
+
+marriage
+
+onjulybabbage married georgiana whitmore michaels
+church teignmouth devon father approve marriage
+couple lived atdevonshire street portland place london
+
+children
+
+charles georgiana eight childrenbut three livedadulthood georgiana died worcesterseptembermoreover
+charles father wife least two son died 
+benjamin herschel babbage bornaugustdied australia 
+october 
+charles whitmore babbage bornjanuarydied 
+georgiana whitmore babbage bornjulydied young
+edward stewart babbage borndecemberdiednovember
+
+francis moore babbage bornmaydied young
+dugald bromheald babbage bornmarchdied southampton 
+august 
+henry prevost babbage bornseptemberdied cheltenham 
+january 
+alexander forbes babbage borndied 
+
+design computers
+
+recognition high error rate calculationmathematical table babbage wanted find methodcould calculated mechanically removing human source error
+three different factor seem influenced dislikeuntidiness experience working logarithmic table existing
+work calculating machine carried wilhelm schickard blaise
+pascal gottfried leibniz first discussed principlecalculating engine letter sir humphry davy 
+part babbages difference engine assembled deathbabbages son using part found laboratory
+enlarge
+part babbages difference engine assembled deathbabbages son using part found laboratory
+
+babbages engine among first mechanical computerengine actually completed largely funding
+problem personality issue babbage realized machine could
+work better reliably human babbage
+controlled building steampowered machine less
+job calculation could mechanized extent although
+babbages machine mechanical monster basic architecture
+wa astonishingly similar modern computer data program
+memory separated operation instruction based control unit
+could make conditional jump machine separate unit
+invention babbage discussed length worth
+mentioning cowcatcher dynamometer car standard railroad
+gauge uniform postal rate occulting light lighthouseheliograph ophthalmoscope
+
+difference engine
+
+babbages time numerical table calculated human called
+computer cambridge saw high error rate people
+computing table thus started life work tryingcalculate table mechanically removing human error began
+inwith called difference engine made compute
+value polynomial functions
+
+unlike similar effort time babbages difference enginecreated calculate series value automatically usingmethod finite difference possible avoid needmultiplication division
+london science museum replica difference engine builtbabbages design
+enlarge
+london science museum replica difference engine builtbabbages design
+
+first difference engine needed aroundparts combined
+weight fifteen ton standing eight foot high although received
+much funding project complete later designed
+improved version difference engine nothis waconstructed time built using planth century tolerance performed first calculationlondon science museum bringing back result todigits faraverage modern pocket calculator
+
+printer
+
+babbage designed printer second difference engineremarkable feature supported linewrapping variable column
+row width programmable output formatting
+
+analytical engine
+
+soon attempt making difference engine crumbled
+babbage started designing different complex machine calledanalytical engine engine single physical machinesuccession design tinkered death 
+main difference two engine analytical
+engine could programmed using punch card idea unheardtime realized program could put similar cardperson create program initially put cards
+machine let run analytical engine also proposed
+use loop jacquard punched card control mechanical
+calculator could formulate result based resultpreceding computation machine also intended employ
+several feature subsequently used modern computer including
+sequential control branching looping wouldfirst mechanical device turingcomplete
+
+ada lovelace impressive mathematician one peopletotally understood babbages vision created programanalytical engine analytical engine ever actually built
+program would able calculate numerical sequence
+known bernoulli number based work ada credited
+first computer programmer ina contemporary
+programming language named ada honour shortly afterwardsatirical article tony karp datamation magazine described
+babbage programming language language future
+
+accomplishments
+
+inbabbage gold medal royal astronomical society
+invention engine calculating mathematicalastronomical tables
+
+fromtobabbage lucasian professor mathematicscambridge contributed largely several scientific periodicals
+wa instrumental founding astronomical society inand
+statistical society inhowever dreamt designing
+mechanical calculating machines
+
+wa sitting room analytical societycambridge head leaning forward table kind dreamy
+mood table logarithm lying open another
+member coming room seeing half asleep calledwell babbage dreaming repliedthinking table pointing logarithms
+might calculated machinery 
+
+inresponding official eight bridgewater treatisepower wisdom goodness god manifested creationpublished ninth bridgewater treatise putting forward thesis
+god omnipotence foresight create divine
+legislator making law program produced specieappropriate time rather continually interfering hoc
+miracle time new specie required book worknatural theology book incorporated extract correspondencejohn herschel subject
+
+charles babbage also achieved notable result cryptography broke
+vigenres autokey cipher well much weaker ciphercalled vigenre cipher today autokey cipher generally called
+undecipherable cipher though owing popular confusion many
+thought weaker polyalphabetic cipher undecipherable
+one babbages discovery used aid english military campaigns
+wa published several year later result creditdevelopment instead given friedrich kasiski prussian
+infantry officer made discovery year babbage
+
+babbage also invented pilot also called cowcatcher metal
+frame attached front locomotive clear trackobstacle inhe also constructed dynamometer car performed
+several study isambard kingdom brunels great western railwayaboutcharles eldest son benjamin herschel babbage workedengineer brunel railway emigrating australia
+coincidentally charles babbage brunelburied london kensal green cemetery
+
+babbage endeavoured enter public life inhe
+stood unsuccessfully borough finsbury came lastpolls
+
+eccentricities
+
+babbage counted broken pane glass factory
+publishing ina table relative frequency causebreakage plate glass windowsofwere caused drunken
+men woman boy distaste commoner mob included
+writing observation street nuisance inas well tallying
+upnuisances period ofdays especially hated street
+music also obsessed fire baking oven
+f four minute without great discomfortsee would happen later arranged lowered mount
+vesuvius order view molten lava
+quotes
+
+two occasion askedpray babbage put
+machine wrong figure right answer comeone case member upper member lower
+house put question able rightly apprehend kindconfusion idea could provoke question
+
+chapterpassages life philosopher charles
+babbageisbnillustrating even
+babbage deal people displayed illogical levels
+would called computer illiteracy
+
+named babbage
+
+babbage crater moon named honour
+charles babbage institute university minnesota united states
+former chain retail computer videogames store babbages
+wa namedmr babbage computer game show family fortunes
+babbage building university plymouth devon babbage lecture theatre university cambridge babbage computer suite exmouth community college babbage giant mechanical monster online computer game
+city heroes
+babbage character video game suikoden known
+amazing mechanical inventions
+science fiction novel difference engine refers babbage
+extensively
+movie hacker main bad guy attempt fleecaptured exposed airplane flyingname babbage
+

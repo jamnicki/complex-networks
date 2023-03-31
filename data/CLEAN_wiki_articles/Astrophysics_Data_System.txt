@@ -1,0 +1,241 @@
+copyright
+
+astrophysics data system
+
+ school wikipedia selection related subject space astronomy
+
+nasa astrophysics data system usually referred adonline database overastronomy physic paperpeer reviewed nonpeer reviewed source abstractavailable free online article full scanned articles
+available gif pdf format older article new articles
+link electronic version hosted journal webpagetypically available subscriptionastronomy research facility
+ad extremely powerful research tool significant
+impact efficiency astronomical research since launched
+inliterature search previously would taken dayweek carried second via sophisticated ads
+search engine custombuilt astronomical need studies
+found benefit astronomy equivalentseveral hundred million dollar annually systemestimated tripled readership astronomical journals
+
+use almost universal among astronomer worldwidetherefore usage statistic used analyse global trendastronomical research revealed amount research
+astronomer carry related gdp per caputcountry based number astronomercountry proportional gdp country amountresearch done country proportional square gdp
+divided population
+
+history
+
+many year growing problem astronomical research warising number paper published major astronomical journals
+wa increasing steadily meaning astronomer able read lele latest research finding astronomer saw
+nascent technology formed basis internet
+could eventually used build electronic indexing systemastronomical research paper would allow astronomer keep
+abreast much greater range research
+
+first suggestion database journal paper abstract made
+conference astronomy large database held garching bei
+mnchen ininitial development electronic systemaccessing astrophysical abstract took place following two
+year indiscussions took place integrate adsimbad database contains available catalogue
+designation object outside solar system create system
+astronomer could search paper written given
+object
+
+initial version database consisting ofpaperscreated proof concept inand databasesuccessfully connected simbad database summer 
+believed first use internet allow
+simultaneous querying transatlantic scientific databaseservice available via proprietary network softwarewa transferred nascent world wide web early yearnumber user service quadrupled five week following
+introduction webbased service
+
+first journal article available via scanned bitmaps
+created paper journal fromonwardsastrophysical journal began publish online edition soon
+followed main journal astronomy astrophysics
+monthly notice royal astronomical society provided
+link electronic edition first appearance since
+aboutthe number user doubled roughly every two
+year ha agreement almost astronomical journals
+supply abstract scanned article far backearly century available via service contains
+five million document service distributed worldwide
+twelve mirror site twelve country five continentdatabase synchronised mean weekly update using rsyncmirroring utility allows update portiondatabase changed update triggered centrallyinitiate script mirror site pull updated data
+main servers
+
+data system
+
+paper available long ago
+enlarge
+paper available long ago
+
+paper indexed within database bibliographic record
+containing detail journal publishedvarious associated metadata author list referencecitation originally data stored ascii formateventually limitation encouraged database maintainers
+migrate record xml extensible markup language formatbibliographic record stored xml elementsubelements various metadata
+
+since advent online edition journal abstract loaded
+ad publication date articlefull journal text available subscriber older articlescanned abstract created using optical character recognition
+software scanned article aboutare usually available
+free agreement journal publishers
+
+scanned article stored tiff format medium high
+resolution tiff file converted demand gif fileonscreen viewing pdf postscript file printinggenerated file cached eliminate needlessly frequent
+regeneration popular article ofads containedgbscan consisted ofarticle page comprising 
+article bythis grown togb expected grow
+aboutgb 
+
+database initially contained astronomical referencegrown incorporate four database covering astronomy
+instrumentation geophysics reference well preprintsastronomical paper astronomy database far advanced
+use account aboutof total usage articleassigned different database according subject rather
+journal published article one
+journal might appear three subject database separationdatabase allows searching discipline tailoredword automatically given different weight functiondifferent database search depending commonrelevant field
+
+data preprint archive updated daily arxiv main
+repository physic astronomy preprints advent preprint
+server like significant impact rateastronomical research paper often made available preprint
+server week month published journalincorporation preprints arxiv meansearch engine return current research availablecaveat preprints may peer reviewed proofreadrequired standard publication main journal adss
+database link preprints subsequently published article wherever
+possible citation reference search return linkjournal article preprint cited
+
+software hardware
+
+software run system written specificallyallowing extensive customisation astronomical need would
+possible general purpose database softwarescript designed platform independent possible given
+need facilitate mirroring different system around world
+although growing dominance linux operating systemchoice within astronomy led increasing optimisationscript installation platform
+
+main server located harvardsmithsonian centreastrophysics cambridge massachusetts single two
+ghz cpu andgb ram running fedora core linux
+distribution mirror located argentina brazil china chile
+france germany india japan russia south korea united
+kingdom
+
+indexing
+
+ad currently receive abstract table content almost two
+hundred journal source service may receive data referringarticle multiple source creates one bibliographic
+reference based accurate data source common
+use tex latex almost scientific journal greatly
+facilitates incorporation bibliographic data systemstandardised format importing htmlcoded webbased articlealso simple utilises perl script importing processingstandardising bibliographic data
+
+apparently mundane task converting author name standard
+surname initial format actually one difficultautomate due wide variety naming convention aroundworld possibility given name davis couldfirst name middle name surname accurate conversion names
+requires detailed knowledge name author activeastronomy maintains extensive database author names
+also used searching database see
+electronic article list reference given endarticle easily extracted scanned article reference
+extraction relies ocr reference database inverted
+list citation paper database citation lists
+used past identify popular article missingdatabase mostly beforeandadded system
+
+coverage
+
+database contains four million article casemajor journal astronomyastrophysical journal astronomical
+journal astronomy astrophysics publication astronomical
+society pacific monthly notice royal
+astronomical society coverage complete issue indexed
+numberto present journal accounttwothirds paper database rest consistingpaper published overother journal around world
+
+database contains complete content major
+journal many minor one well coverage referencecitation much complete reference citationarticle major journal fairly complete referenceprivate communication press preparation cannotmatched author error reference listing also introduce
+potential error astronomical paper may cite cited articles
+journal fall outside scope chemistry
+math biology journals
+
+search engine
+
+since inception ha developed highly sophisticated
+search engine query abstract object database search
+engine tailormade searching astronomical abstractengine user interface assume user wellversedastronomy able interpret search result designedreturn relevant paper databasequeried author name astronomical object name title wordword abstract text result filtered accordingnumber criterion work first gathering synonymsimplifying search term described generatinginverted file list document matchingsearch term userselected logic filter appliedinverted list generate final search results
+
+author name queries
+
+system index author name surname initial accounts
+possible variation spelling name using listvariation common case name including accentumlaut transliteration arabic cyrillic scriptexample entry author synonym list
+afanasjev afanasev afanasiev afanasev afanasyev afansiev afansev 
+object name searches
+
+capability search paper specific astronomical objectone powerful tool system data simbad
+nasaipac extragalactic database international astronomical
+union circular lunar planetary institute identify
+paper referring given object also search object
+position listing paper concern object within aarcminute
+radius given right ascension declination databases
+combine many catalogue designation object mightsearch pleiades also find paper list famous
+open cluster taurus catalogue designationpopular name seven sister melotte 
+
+title abstract searches
+
+search engine first filter search term several wayfollowed space hyphen space hyphen removedsearching messier catalogue object simplified user input
+mor result query executed
+similarly ngc designation common search term shoemaker
+levy tauri stripped space unimportant wordstripped although case case sensitivitymaintained ignored converted 
+andromedae converted toherculis ignored
+
+synonym replacement
+
+search term preprocessed database queriedrevised search term well synonym well simple
+synonym replacement searching plural singular
+form also search large number specifically
+astronomical synonym example spectrograph spectroscopebasically meaning astronomical context metallicity
+abundance also synonymous synonym list created
+manually grouping list word database accordingsimilar meanings
+
+well english language synonym also search english
+translation foreign search term vice versa search
+french word soleil retrieves reference sun paperlanguage english returned english search terms
+
+synonym replacement disabled required rare term
+synonym much common term asdateline
+rather thandate searched specifically
+
+selection logic
+
+search engine allows selection logic within fieldfield search term field combined simple
+logic boolean logic user specify field mustmatched search result allows complex searchbuilt example user could search paper concerning ngc
+ngcwith paper title containing radius velocity
+abundance temperature
+
+result filtering
+
+search result filtered according number criteria
+including specifying range year astoto
+present day beforeand type journal article
+appears innonpeer reviewed article conference proceedings
+excluded specifically searched specific journalincluded excluded search
+
+search results
+
+although conceived mean accessing abstract papers
+ad today provides substantial amount ancillary information along
+search result abstract returned link providedpaper database referenced citepaper link provided preprint one existssystem also generates link alsoread articlesthatcommonly accessed reading articleway user determine paper interestastronomer interested subject given paper
+
+also returned link simbad andor nasa extragalactic
+database object name database via user quickly findbasic observational data object analysed paperfind paper objects
+
+impact astronomy
+
+ad almost universally used research tool among astronomerimpact astronomical research considerable several studies
+estimated quantitatively much efficient ha made
+astronomy one estimated increased efficiencyastronomical research byfulltime equivalent research year per
+year another found inits effect equivalent 
+fulltime researcher astronomical research done france
+ad allowed literature search would previously taken
+day week carry completed secondestimated ha increased readership useastronomical literature factor three since inception
+
+monetary term increase efficiency representsconsiderable amount aboutactive astronomical
+researcher worldwide equivalent aboutofworking population astronomer global astronomical research
+budget estimated betweenandmillion usdvalue astronomy would aboutmillion usd annually
+operating budget small fraction amount
+
+great importance astronomer recognisedunited nation general assembly commended adwork success particularly noting importance astronomerdeveloping world report united nation committeepeaceful outer space areport visiting committeecentre astrophysics meanwhile said servicerevolutionized use astronomical literatureprobably valuable single contribution astronomy research
+cfa made lifetime
+
+sociological study using ads
+
+used almost universally astronomer reveal
+much astronomical research distributed around world
+user system reach institute higher
+education whose address easily used determine users
+geographical location study reveal highest percapita users
+ad france netherlandsbased astronomerdeveloped country measured gdp per caput use systemle developed country relationship gdp per capita
+ad use linear range us per caput far exceeds
+range gdp per caput basic research carriedcountry measured usage found proportionalsquare country gdp divided population
+
+ad usage statistic also suggest astronomer developed
+country tend productive developed
+country amount basic research carried proportionalnumber astronomer country multiplied gdp per
+caput statistic also imply astronomer european cultures
+carry three time much research asian
+culture perhaps implying cultural difference importance
+attached astronomical research
+
+ad also used show fraction singleauthor
+astronomy paper decreased substantially sinceandastronomical paper thanauthors become common
+since 

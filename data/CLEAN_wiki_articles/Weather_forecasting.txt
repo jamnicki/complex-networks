@@ -1,0 +1,275 @@
+copyright
+
+weather forecasting
+
+ school wikipedia selection related subject climate weather
+storms
+
+modern weather prediction aid timely evacuation potentially
+save life property damage
+modern weather prediction aid timely evacuation potentially
+save life property damage
+weather map europedecember 
+weather map europedecember 
+
+weather forecasting application science technologypredict state atmosphere future time given
+location humankind attempted predict weather since ancient
+time today weather forecast made collecting quantitative
+data current state atmosphere using scientific
+understanding atmospheric process project atmosphere
+evolve chaotic nature atmosphere massive
+computational power required solve equation describeatmosphere incomplete understanding atmospheric process mean
+forecast become accurate range forecast
+increases
+
+history weather forecasting
+
+millennium people tried forecast weather inbcbabylonian predicted weather cloud pattern aboutbc
+aristotle described weather pattern meteorologica chinese weather
+prediction lore extends least far back asbc
+
+ancient weather forecasting method usually relied observed patterns
+event example might observed sunsetparticularly red following day often brought fair weatherexperience accumulated generation produce weather lore
+however prediction prove reliable manysince found stand rigorous statistical testing
+
+wa invention telegraph inthat modern
+age weather forecasting began timepossible transport information current stateweather faster steam train telegraph allowed reportweather condition wide area received almost
+instantaneously late allowed forecast made
+knowing weather condition like upwind
+
+imagine rotating sphere iskilometersmilesdiameter bumpy surface surrounded kilometerdeep
+mixture different gas whose concentration vary spatiallytime heated along surrounding gasnuclear reactormillion kilometersmillion mile away imagine
+also sphere revolving around nuclear reactorlocation heated one part revolutionlocation heated another part revolutionimagine mixture gas continually receives inputsurface generally calmly sometimes violenthighly localized injection imagine watchinggaseous mixture expected predict state one location
+sphere one two day futureessentially task encountered day day weather forecaster
+difficulty weather forecasting bob ryan bulletinamerican meteorological society 
+
+two men credited birth forecasting science
+francis beaufort remembered chiefly beaufort scaleprotg robert fitzroy developer fitzroy barometerinfluential men british naval governmental circlethough ridiculed press time work gained scientific
+credence accepted british navy formed basistoday weather forecasting knowledge
+
+great progress made science meteorology century possibility numerical weather prediction proposed
+lewis fry richardson inthough computer fast enoughcomplete vast number calculation required produce forecast
+event occurred exist time practical use
+numerical weather prediction began inspurreddevelopment programmable electronic computers
+
+modern day weather forecasting system
+
+component modern weather forecasting system include
+data collection
+data assimilation
+numerical weather prediction
+model output postprocessing
+forecast presentation enduser
+
+data collection
+
+observation atmospheric pressure temperature wind speed wind
+direction humidity precipitation made near earth surfacetrained observer automatic weather station buoy world
+meteorological organization act standardize instrumentation
+observing practice timing observation worldwide
+station either report hourly metar report every six hoursynop reports
+
+measurement temperature humidity wind surfacefound launching radiosondesweather balloon data usually
+obtained near surface middle stratospheremft recent year data transmittedcommercial airplane amdar system alsoincorporated upper air observation primarily numerical models
+
+increasingly data weather satellite used duealmost global coverage although visible light imageuseful forecaster see development cloud littleinformation used numerical weather prediction modelinfrared data however used give informationtemperature surface cloud top individual cloud also
+tracked one time next provide information wind
+direction strength cloud steering level polar orbiting
+satellite provide sounding temperature moisture throughoutdepth atmosphere compared similar data radiosondes
+satellite data advantage coverage global however
+accuracy resolution good
+
+meteorological radar provide information precipitation locationintensity additionally doppler radar used wind speeddirection determined
+
+data assimilation
+
+data assimilation process information gainedobservation used conjunction numerical modelrecent forecast time observation made sincecontains information previous observation producemeteorological analysis best estimate current state
+atmosphere three dimensional representationdistribution temperature moisture wind
+
+numerical weather prediction nwp
+
+numerical weather prediction model computer simulationatmosphere take analysis starting point evolvestate atmosphere forward time using understanding physics
+fluid dynamic complicated equation governstate fluid change time require supercomputer solve
+output model provides basis weather
+forecast
+
+model output post processing
+
+raw output often modified presentedforecast form statistical technique remove
+known bias model adjustment take account
+consensus among numerical weather forecasts
+
+past human forecaster used responsible generating
+entire weather forecast observation however todayforecast beyond human input generally confinedpostprocessing model data add value forecast humanrequired interpret model data weather forecastunderstandable end user additionally human use knowledge
+local effect may small size resolvedmodel add information forecast increasing accuracyforecast model continues decrease need postprocessinghuman input mostly area low variation terrain
+
+presentation weather forecasts
+
+final stage forecasting process perhapsimportant knowledge end user need weather forecast
+must taken account present information usefulunderstandable way
+
+public information
+
+one main end user forecast general public
+thunderstorm cause strong wind dangerous lightning strikes
+leading death power outage widespread hail damage heavy
+snow rain bring transportation commerce standstillwell cause flooding lowlying area excessive heat cold waves
+kill sicken without adequate utility national
+weather service provides forecast watcheswarningsadvisoriesarea united state protect life propertymaintain commercial interest environment canada responsibledispensing similar forecast warning public canada
+traditionally television radio weather presentermain method informing public however increasingly internet
+used due vast amount information found
+
+air traffic
+
+aviation industry especially sensitive weather fog
+andor exceptionally low ceiling prevent many aircraft landingtaking similarly turbulence icing hazard whilstflight thunderstorm problem aircraft due severe
+turbulence icing well large hail strong windlightning cause fatal damage aircraftflight day day basis airliner routed take advantagejet stream tailwind improve fuel efficiency air crewbriefed prior take condition expect routedestination
+
+marine
+
+commercial recreational use waterway limited
+significantly weather wind direction speed wave
+periodicity height tide precipitation influence
+safety marine transit consequently variety codeestablished efficiently transmit detailed marine weather
+forecast vessel pilot via radio example mafor marine
+forecast
+
+utility companies
+
+electricity gas company rely weather forecast anticipate
+demand strongly affected weather winter severe
+cold weather cause surge demand people turnheating similarly summer surge demand linkedincreased use air conditioning system hot weatheranticipating surge demand utility company purchase
+additional supply power natural gas price increases
+circumstance supply restricted
+
+private sector
+
+increasingly private company pay weather forecast tailoredneed increase profit avoid large
+loss example supermarket chain may change stockshelf anticipation different consumer spending habitdifferent weather condition state department transportationprivate road maintenance company also use forecastdemonstrate best effort defending lawsuit result
+traffic accidents
+
+military applications
+
+similarly private sector military weather forecaster present
+weather condition war fighter community equally provide
+preflight weather brief flight weather brief taketerminal location including update throughout flight path also
+military weather forecaster provide real time resource protection
+service military installation covered national
+weather service three military branch independent weather
+forecasting technique tailored specific need example
+naval forecaster cover water ship weather forecast air
+force forecaster cover air operation wartime peacetime
+operation provide army support coast guard forecaster provide
+ship forecast ice breaker various operation within
+realm marine forecaster forecast troop local
+aviation asset silent cooperative agreementcivilian forecaster military forecaster working unison
+improvement weather forecasting general
+
+persistence forecasting
+
+simplest method forecasting weather persistence relies upon
+today condition forecast condition tomorrowvalid way forecasting weather steady statesummer season tropic method forecasting
+strongly depends upon presence stagnant weather patternuseful short range forecast long range forecasts
+
+nowcasting
+
+forecasting weather thehour timeframe often
+referred nowcasting range human
+forecaster still advantage computer nwp modeltime range possible forecast smaller featureindividual shower cloud reasonable accuracy howeveroften small resolved computer model human givenlatest radar satellite observational data able makebetter analysis small scale feature present able
+make accurate forecast following hours
+
+sample nowcast issued national weather servicemount holly new jersey
+
+fpus kphi 
+nowphi
+
+short term forecast
+national weather service mount holly  edt fri jun
+dezmdznjz
+atlantic njatlantic coastal cape may njcape may njcaroline coastal atlantic njcoastal ocean njdelaware beach eastern monmouth njinland sussex dekent deocean queen anne mdsoutheastern burlington njtalbot western monmouth including city ofatlantic city dover
+ edt fri jun
+
+
+area fog low cloud southern delawareportion northeastern maryland shore early morningwell along new jersey coast patchy dense fog may reduce
+visibility quarter mile timedriving morning sure leave plenty roomvehicle one ahead visibility could drop quickly
+drive dense patch fog watch especiallypedestrian fog dissipate hour two sunrise
+
+
+medium range forecasting
+
+analog technique
+
+complicated way making forecast requires rememberingprevious weather event expected mimicked upcoming
+event make difficult technique userarely perfect analog event future call type
+forecasting pattern recognition remains useful methodobserving rainfall data void ocean wellforecasting precipitation amount distribution futurevariation theme used medium range forecastingknown teleconnections use system locationhelp pin location another system within surrounding
+regime one method using teleconnections using ensorelated
+phenomena
+
+ensemble forecasting
+
+although forecast model predict realistic looking weather
+feature evolving realistically distant future errorforecast inevitably grow time due chaotic natureatmosphere detail given forecast therefore
+decrease time error increase becomes point
+error large forecast completely wrongforecast atmospheric state correlation actual state
+atmosphere
+
+however looking single forecast give indication likely
+forecast correct ensemble forecasting lotforecast produced reflect uncertainty initial stateatmosphere due error observation insufficient
+sampling uncertainty forecast assessedrange different forecast produced shownbetter detecting possibility extreme event long range
+
+ensemble forecast increasingly used operational weather
+forecasting example ecmwf ncep canadian forecasting
+centre
+
+website providing forecasts
+
+meteorological agencies
+
+academic governmental meteorology organizationprovide least limited forecast area interestwebsite
+world meteorological organization
+noaa weather page
+
+noaa satellite images
+national weather service
+
+met ireann ireland
+met office european centre medium range weather forecasting ecmwf
+environment canada weather office
+australian bureau meteorology
+new zealand metservice
+meteo suisse swiss weather agency english
+finnish meteorological institute
+royal meteorological institute belgium
+korea meteorological administration
+hong kong observatory
+
+commercial organisations
+
+high profile commercial sites
+freesenotis weather sitemeteorologists doppler radar
+image data analysis forensics wide variety industry
+specific international weather forecast agricultureenergy strong area performance plus supply advanced web
+site content
+weather undergroundprovides wide variety uinternational weather information
+unisys weather siteprovides meteorological data analysisforecast along ancillary information aircraft
+flight system related information domestically overseas
+verizons weather forecastsprovides weather briefsextended
+outlook also power weather onother websites
+meteogroup europe largest independent weather forecasting
+company provides weather transport energy agriculture
+maritime medium leisure healthenvironment insurance water
+management
+accuweatherweather forecast weatherrelated news uinternational known television grade services
+weather channelweather forecast weatherrelated news
+mainly also world forecasts
+theweatheroutlookweather forecast bbc weatherweather forecast climate overviews
+whole world link contemporary climate change newsastute observer controversial topic
+wetterzentralea german language site displaying large rangehigh quality weather charts
+weather networkcanadian weather forecasts
+weatherzoneprovides wide variety australian weather
+information
+weathercomauaustralian weather forecasts
+weatheronlinemeteorological data analysis forecastuk whole world provides radar image climate dataweatherrelated news
+msn weather data provided forecaworldwide weather forecasts
+hourly extended tenday historical averages
+

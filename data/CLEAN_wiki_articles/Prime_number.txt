@@ -1,0 +1,601 @@
+copyright
+
+prime number
+
+ school wikipedia selection related subject mathematics
+
+divisibilitybased
+set integers
+form factorization
+prime number
+composite number
+powerful number
+squarefree number
+achilles number
+constrained divisor sums
+perfect number
+almost perfect number
+quasiperfect number
+multiply perfect number
+hyperperfect number
+unitary perfect number
+semiperfect number
+primitive semiperfect number
+practical number
+number many divisors
+abundant number
+highly abundant number
+superabundant number
+colossally abundant number
+highly composite number
+superior highly composite number
+deficient number
+weird number
+amicable number
+sociable number
+sublime number
+harmonic divisor number
+frugal number
+equidigital number
+extravagant number
+see also
+divisor function
+divisor
+prime factor
+factorization
+
+mathematics prime number prime natural numberha exactly two distinct natural number divisor areandprime number exists infinitude prime numberdemonstrated euclid aboutbc firstprime numbers
+andsequence
+oeis see list prime number longer list
+
+property prime called primality word prime
+also used adjective sinceis even prime number
+term odd prime refers prime number greater 
+
+study prime number part number theory branchmathematics encompasses study natural number prime
+number subject intense research yet fundamental
+question riemann hypothesis goldbach conjecture
+unresolved century problem modelling
+distribution prime number popular subject investigation
+number theorist looking individual number primes
+seem randomly distributed global distributionprime follows welldefined laws
+
+notion prime number generalized many different
+branch mathematics
+ring theory branch abstract algebra term prime
+element specific meaning nonzero nonunit ring
+element defined prime whenever divide c ring
+element c divide least one cmeaning additive inverse prime number also primeword considering set integersmathbbzas
+ringis prime element without specification
+however prime number always mean positive integer prime
+among ring complex algebraic integer eisenstein primegaussian prime may also interest
+knot theory prime knot knotdisaggregated smaller prime knot
+
+two example fundamental theorem arithmetic
+every natural number uniquely decomposed productprime doe apply
+
+history prime numbers
+
+hint surviving record ancient egyptianknowledge prime number egyptian fraction
+expansion rhind papyrus instance quite different
+form prime composite however earliest surviving
+record explicit study prime number come ancient
+greek euclid element circabc contain important theorems
+prime including infinitude prime fundamental
+theorem arithmetic euclid also showed construct perfect
+number mersenne prime sieve eratosthenes attributederatosthenes simple efficient still widely used methodcompute primes
+
+greek little happened century 
+pierre fermat stated without proof fermat little theorem later
+proved leibnitz euler special case may known
+long chinese conjecture fermat turnedfalse fermat number prime french monk marin
+mersenne made partially false assertion mersenne primes
+
+ineuler showed even perfect number euclids
+form still unknown whether exist odd perfect numbers
+euler extensive work included many significant result primes
+eg infinite sumis
+divergent
+
+several mathematician made contribution towards prime number
+theorem proved independently hadamard la valle
+poussin 
+
+fermat little theorem doe prove primalitydetermined slow trial division small number many
+mathematician worked faster primality test large numbers
+often restricted specific number form includes ppins test
+fermat numbersproths theorem aroundthe
+lucaslehmer test mersenne number originatedandgeneralized lucaslehmer test recent algorithm like aprtcl
+ecpp work arbitrary number remain much slower
+
+th century mathematician considered numbera
+prime still large body mathematical workvalid despite labellinga prime work sternzeisel henri lebesgue said last professional
+mathematician callprime change label occurredsaid number unique factorization prime see
+also argument primality 
+
+long time prime number thought possible
+application outside number theory changedconcept publickey cryptography invented prime
+number formed basis first algorithm rsa
+cryptosystem diffiehellman keyexchange algorithm
+
+sinceall largest known prime found computers
+search ever larger prime generated interest outside
+mathematical circle great internet mersenne prime searchdistributed computing project find large prime become
+popular mathematician continue struggle theoryprimes
+
+prime divisors
+
+fundamental theorem arithmetic state every positive
+integer larger thancan written product one primes
+unique way unique except order prime may
+occur multiple time prime thus considered basic building
+block natural number example write
+
+timestimestimes 
+
+factorization ofas product primeidentical except order factor many prime
+factorization algorithm practice larger numbers
+
+importance theorem one reason exclusion
+offrom set prime number ifwere admitted primeprecise statement theorem would require additional
+qualifications
+
+property primes
+
+basenumerals prime number exceptandend 
+ornumerals ending inorrepresent multiples
+ofand numeral ending inrepresent multiple ofdueuse basesystem
+
+p prime number divide product integerp divide divide proposition proved euclid
+known euclid lemma used proofuniqueness prime factorizations
+
+ring znz see modular arithmetic field prime put another way prime 
+
+
+p prime integer apa divisible fermat little theorem
+
+p prime number thanandp alwaysrecurring decimal period divisor pdeduced directly fermat little theorem expressed
+likewise base ie basehas similar effect
+provided prime factor articlerecurring decimal show interesting properties
+
+integer prime factorial divisible pwilsons theorem conversely integer composite divisible 
+n positive integer greater thanthen alwaysprime number npnbertrands postulate
+
+adding reciprocal prime together resultdivergent infinite seriesproof precisely denotes
+sum reciprocal prime number pxsxln xo xsee big notation
+
+every arithmetic progression aq aqpositive integer qare coprime infinitely
+many primesdirichlets theorem arithmetic progressions
+
+characteristic every field either zero prime number
+
+g finite group highest power prime divide order g subgroup order 
+sylow theorems
+
+p prime group element contains
+element order 
+prime number theorem say proportion prime less
+x asymptotic x word getlarge likelihood number x primeinversely proportional number digit 
+copelanderds constantobtained
+concatenating prime number known irrational
+number
+
+value riemann zeta function point complex
+plane given meromorphic continuation function defined
+product set prime res
+
+zeta sumninfin fracnsprodp
+fracps
+
+evaluating identity different integer providesinfinite number product prime whose valuecalculated first two
+prodp fracpinfty
+prodp fracp fracpi
+
+pthe polynomial xpxp cdotsis
+irreducible zpz prime
+
+p prime number greater thanthen modis eitheror 
+p modisor 
+
+classification prime numbers
+
+two way classifying prime number class class nstudied paul erds john selfridge
+
+determining class prime number involves lookinglargest prime factor pif largest prime factor isor 
+p classbut largest prime factor another prime
+q class p one class q sequences
+list classthrough classprimes
+
+class almost class exceptfactorization looked instead
+
+number prime numbers
+
+infinitely many prime numbers
+
+oldest known proof statement infinitely many
+prime number given greek mathematician euclidelement book propositioneuclid state resultgiven finite number prime proofessentially following
+
+suppose finite number prime call numbermultiply prime together add one see euclid number
+resulting number divisible finite set
+prime dividing would giveremainder one one divisible primes
+therefore must either prime divisibleprime included finite set either
+way must least mprimes argument
+applies matter applies mtooprime given finite number
+
+previous argument explains product prime plusmust
+divisible prime among prime primecommon mistake thinking euclid proof say prime product plus
+always prime
+prime shows
+case
+
+mathematician given proof one dueeuler show sum reciprocal prime numbers
+diverges infinity kummers particularly elegant harry
+furstenberg provides one using general topology
+
+counting number prime number given number
+
+even though total number prime infinite one could still ask
+approximately many prime beloworlikely random digit number prime
+
+prime counting function defined number primex known algorithm compute exact value faster
+would compute prime value largecalculated quickly accurately modern
+computer thus egand
+
+
+larger value beyond reach modern equipment prime
+number theorem provides good estimate approximately xlnx
+even better estimate known
+
+location prime numbers
+
+finding prime numbers
+
+sieve eratosthenes simple way sieve atkinfast way compute list prime number given limit
+
+practice though one usually want check whether given number
+prime rather generate list prime often
+satisfactory know answer high probability possible
+quickly check whether given large number saythousand digit prime using probabilistic primality testtypically pick random number called witness checkformula involving witness potential prime several
+iteration declare definitely composite probably
+prime test perfect maycomposite number called pseudoprimes respective testdeclared probably prime matter witness chosen
+however popular probabilistic test sufferdrawback
+
+one method determining whether number prime divideprime equal square root numberdivision come integer original numberprime otherwise prime one need actually calculate
+square root one see quotient ledivisor one stop known trial divisionsimplest primality test quickly becomes impractical testing
+large integer number possible factor grows
+exponentially number digit numbertobetested
+increases
+
+pseudocode program find primes
+
+least efficient algorithm start list containingnumberthen try dividing subsequent number primes
+already list divisible evenlyadded list divisible evenly number
+already list program move next candidate
+
+simplest elegant algorithm perhaps sieveeratosthenes
+ arbitrary search limit
+limit
+
+ assume number prime first
+isprimeitrue ilimit
+
+n inlimit
+isprimen
+eliminate multiple prime
+starting square
+n nnn already eliminated
+nn nnto eliminated
+isprimeifalse nnlimit
+
+n inlimit
+isprimen print 
+
+complicated efficient algorithm properly
+optimized sieve atkin basic structure follows
+ arbitrary search limit
+limit
+
+ initialize sieve
+isprimeifalse ilimit
+
+ put candidate primes
+ integer odd number representation certain quadratic forms
+x inlimitlimit
+nxy
+nlimitn modn mod
+isprimenisprimen
+nxy
+nlimitn mod
+isprimenisprimen
+nxy
+xynlimitn mod
+isprimenisprimen
+
+ eliminate composite sieving
+n inlimit
+isprimen
+n prime omit multiple square sufficientcomposite managed get list cannot squarefree
+isprimekfalse n nlimit
+
+print
+n inlimit
+isprimen print 
+primality tests
+
+primality test algorithm algorithm test numberprimality whether number prime number
+ak primality test
+fermat primality test
+lucaslehmer test
+solovaystrassen primality test
+millerrabin primality test
+
+probable prime integer virtue passedcertain test considered probably prime probable primefact composite carmichael number called
+pseudoprimes
+
+inindian scientist iit kanpur discovered new deterministic
+algorithm known algorithm amount timealgorithm take check whether number prime dependspolynomial function number digit ie logarithm
+n
+
+formula yielding prime numbers
+
+known formula prime efficient finding
+prime method mentioned finding prime numbers
+
+set diophantine equation invariable one
+parameter following property parameter primeresulting system equation solutionnatural number used obtain single formulaproperty positive value prime
+
+polynomial even several variable takeprime value example curious polynomial one variable
+fnnnyields prime nbut fcomposite however polynomial several variable whose
+positive value variable take positive integer valueexactly primes
+
+another formula based wilson theorem mentionedgenerates number two many time prime exactlysimilar formula also produce primes
+
+special type prime formula primes
+
+prime called primorial primefactorial form 
+nfor number n stand product
+primesn prime called factorialform nthe first factorial prime
+ni prime sequence oeis
+
+ni prime sequence oeis
+
+largest known primorial prime isfound heuerlargest known factorial prime isfoundmarchal carmody kuosa init known whetherinfinitely many primorial factorial primes
+
+prime form nare known mersenne prime primes
+form nare known fermat prime prime number pi also prime known sophie germain primefollowing list special type prime number come
+formulas
+wieferich primes
+wilson primes
+wallsunsun primes
+wolstenholme primes
+unique primes
+newmanshankswilliams prime nsw primes
+smarandachewellin primes
+wagstaff primesupersingular primes
+
+prime classified according property digits
+decimal base example number whose digit formpalindromic sequence called palindromic prime prime number
+called truncatable prime successively removing first digit
+left right yield new prime numbers
+
+distribution prime numbers
+
+distribution prime number range ofto 
+pixel represents number black pixel meaning numberprime white one notprime
+distribution prime number range ofto 
+pixel represents number black pixel meaning numberprime white one notprime
+
+problem modelling distribution prime number popular
+subject investigation number theorist prime numberdistributed among natural number far unpredictable way
+appear law governing behaviour leonhard
+euler commented
+
+mathematician tried vain day discoverorder sequence prime number reasonbelieve mystery mind never
+penetrate havilp 
+
+paul erds said
+
+god may play dice universe something strange
+going prime number referring albert
+einstein famous belief god doe play diceuniverse
+
+alecture zagier commented
+
+two fact distribution prime numberhope convince overwhelminglypermanently engraved heart first despite
+simple definition role building blocknatural number prime number grow like weed amongnatural number seeming obey lawchance nobody predict next one sprout
+second fact even astonishing stateopposite prime number exhibit stunning regularity
+law governing behaviourobey law almost military precision havilp
+
+
+gap primes
+
+let denote nth prime number ppetc
+gap consecutive prime pnisdifference 
+gnpnpn
+
+gggg
+sequence prime gap haextensively studied
+
+natural number larger thanthe sequence notation
+n read factorial
+
+nnnn
+
+sequence nconsecutive composite integer thereforeexist gap prime arbitrarily large ienatural number integer gnn choose npn greatest prime number n
+
+hand gap get arbitrarily small proportionprime quotient gnpn approach zero approaches
+infinity note also twin prime conjecture asserts 
+infinitely many integer 
+location largest known prime
+
+largest known prime septemberis
+number isdigits long known mersenne
+prime found septemberby curtis coopersteven boone professor university central missouri
+formerly central missouri state university membercollaborative effort known gimp finding prime cooper
+boone ran gimp program peak ofcmsu computer 
+years
+
+next two largest known prime also mersenne primes
+mrd known mersenne prime 
+digit long mnd known mersenne
+primedigits long historically largest known prime
+ha almost always mersenne prime since dawn electronic
+computer exists particularly fast primality testnumber form lucaslehmer test mersenne numbers
+
+largest known prime mersenne primedigit proth number alsoseventh largest known prime form found seventeen
+bust project brings one step closer solvingsierpinski problem
+
+largest prime known particular formsimple formula mersenne prime found
+taking piece semirandom binary data converting number
+n multiplying positive integer searching
+possible prime within interval knkn
+
+award finding primes
+
+electronic frontier foundation eff offered aus
+prize first discoverer prime leastmillion
+digit also offerformillion digit 
+forbillion digit inthey paid outformillion
+digits
+
+rsa factoring challenge offer prize tousfinding prime factor certain semiprimes tobits
+
+generalization prime concept
+
+concept prime number important hageneralized different way various branch mathematics
+
+prime element rings
+
+one define prime element irreducible element integral
+domain unique factorization domain ring zinteger set prime element equal set irreducible
+element z
+
+example consider gaussian integer complex
+number form abi z integral
+domain prime element gaussian prime note thatis
+gaussian prime factor product two
+gaussian primesi andi elementhowever remains
+prime gaussian integer general rational prime prime
+element ring integer form kare gaussian
+prime whereas rational prime form kare
+prime ideals
+
+ring theory one generally replaces notion numberideal prime ideal important tool object studycommutative algebra algebraic number theory algebraic geometry
+prime ideal ring integer ideals
+
+
+central problem algebraic number theory prime ideal
+factor lifted extension field examplegaussian integer example aboveramifies prime poweri
+andi generate prime ideal prime ideal form inert remain prime prime ideal form split product ofdistinct prime ideals
+
+prime valuation theory
+
+class field theory yet another generalization used givenarbitrary field one considers valuation certain functions
+k real number every valuation yield topologyk two valuation called equivalent yieldtopology prime sometimes called place kequivalence class valuation definition primefield rational number represented standard
+absolute value function known infinite prime wellpadic valuation every prime number 
+prime knots
+
+knot theory prime knot knot certain sense
+indecomposable specifically one cannot writtenknot sum two nontrivial knots
+
+open questions
+
+many open question prime number significant
+one riemann hypothesis essentially say primes
+regularly distributed possible physical viewpointroughly state irregularity distribution primecome random noise mathematical viewpoint roughly
+state asymptotic distribution prime aboutlog xnumber x prime prime number theorem also holds
+much shorter interval length square root xinterval near hypothesis generally believed correct
+particular simplest assumption primesignificant irregularity without good reason
+
+many famous conjecture appear high probabilitytrue formal sense many follow simple heuristic
+probabilistic arguments
+prime euclid number known whetherinfinite number prime euclid numbers
+
+strong goldbach conjecture every even integer greater thancan
+written sum two primes
+
+weak goldbach conjecture every odd integer greater thancanwritten sum three primes
+
+twin prime conjecture infinitely many twin prime pairs
+prime difference 
+
+polignacs conjecture every positive integer ninfinitely many pair consecutive prime differ nthis twin prime conjecture
+
+weaker form polignacs conjecture every even numberdifference two primes
+
+widely believed infinitely many mersenne primes
+fermat primes
+
+many believe infinitely many prime form 
+many wellknown conjecture special case broad
+schinzels hypothesis 
+many believe infinitely many fibonacci primes
+
+legendres conjecture prime number nnfor every positive integer 
+cramrs conjecture limsupnrightarrowinfty
+fracpnpnlog pnthis conjecture implies
+legendres status unsure
+
+brocards conjecture always least four primesquare successive primes
+
+applications
+
+long time number theory general study prime
+number particular seen canonical example pure
+mathematics application outside selfintereststudying topic particular number theorist british
+mathematician h hardy prided workabsolutely military significance however vision shattered
+wa publicly announced prime number could
+used basis creation public key cryptography
+algorithm prime number also used hash tablepseudorandom number generators
+
+rotor machine designed different number pinrotor number pin one rotor either primecoprime number pin rotor helped generate
+full cycle possible rotor position repeatingposition
+
+publickey cryptography
+
+several publickey cryptography algorithm rsa basedlarge prime number greater 
+
+prime number nature
+
+many number occur nature inevitably prime
+however relatively example number appearnature prime example starfish havearms
+andis prime number however evidence suggeststarfish havearms becauseis prime number indeed starfish
+different number arm echinaster luzonicus normally six
+arm luidia senegalensis nine arm solaster endecamany twenty arm majority starfishechinoderm fivefold symmetry remains mystery
+
+one example use prime number nature evolutionary
+strategy used cicada genus magicicada insect spend
+life grub underground pupateemerge burrow afteroryears point fly
+breed die week logicbelieved prime number intervalemergence make difficult predator evolve could
+specialise predator magicicada magicicada appearednonprime number interval say everyyears predators
+appearing everyoryears would sure meetyear period average predator populationhypothetical outbreak ofand year cicada would 
+higher outbreak ofand year cicada though small
+advantage appears enough drive natural selection
+favour primenumbered lifecycle insects
+
+prime pop culture
+
+carl sagans novel contact message outer space senthumanity message hashed piece come intervals
+incremented prime number fromtothe devicelater used episode star trek next generation
+
+fictional alien transmission might inspireduse prime number constructing arecibo message transmitted
+stephen king novel waste land wizard glassprotagonist solve puzzle using prime order ridesentient deranged train blaine mono
+
+mark haddons novel curious incident dognighttime main character fascinated prime numberbook chapter numbered primes
+
+stargate atlantis episode hot zone physicist rodney
+mckay radek zelenka play game prime primeplayer randomly name number expect playerplayer determine whether number prime
+
+film cube protagonist discover prime numbers
+encoded passageway represent possible key escape
+mysterious facility filled lethal booby traps
+
+trivia
+
+publicity stunt digital millennium copyright actwipo copyright treaty implementation people triedencode various form dec program wayexecutable program code becomes prime number thus creating illegal
+prime number converted binary executedcomputer program perform act encumbered applicable law onejurisdictions
+
+largest known prime consisting prime number decimal digits
+iswhich hasdigits january
+thelarger known prime mersenne prime numberdigit even divisible 
+

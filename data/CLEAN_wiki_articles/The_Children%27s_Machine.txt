@@ -1,0 +1,433 @@
+copyright
+
+childrens machine
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+childrens machine
+latest prototype device named manufacturerquanta computers
+typelaptop
+connectivitybgs wireless lan
+usbports
+operating system fedora corebased
+camerabuiltin video camerafps
+mediamibgib flash memory
+inputkeyboard
+touchpad
+microphone
+powernimh battery pack
+cpuamd geode gxw
+memorymib dram
+displaydualmodecm diagonal tft lcd 
+
+childrens machine proposed inexpensive laptop
+computer intended provide every child world accessknowledge modern form education previously knownlaptop laptop developed one laptop per child
+olpc trade association olpc based nonprofit organization
+created faculty member mit medium lab design manufacture
+distribute laptops
+
+computer rugged use linux operating system 
+mobile adhoc networking may used allow many machine internet
+access one connection olsr wireless protocol pricing
+goal currently expected start around reachu mark inthe laptop sold government issued
+child school basis one laptop per child
+
+one laptop per child association
+
+one laptop per child association olpc delaware based
+nonprofit organization set oversee childrens machine
+project construction blaptop project
+organization announced world economic forumdavos switzerland january 
+
+olpc funded number sponsor organization include amd
+brightstar corporation ebay google marvell news corporation ses
+global nortel network red hat company donated two
+million dollars
+
+organization chaired nicholas negroponte cto mary
+lou jepsen principal company include former mit media
+lab director walter bender president olpc softwarecontent jim gettys vicepresident software engineering
+
+history
+
+mary lou jepsen alan kay nicholas negroponte unveil 
+laptop
+enlarge
+mary lou jepsen alan kay nicholas negroponte unveil 
+laptop
+
+olpc based constructionist learning theory pioneered seymour
+papert alan kay also principle expressed nicholas
+negropontes book digital founding corporate membergoogle news corp amd red hat brightstar norteldonated two million dollar project three individualsix company active participant olpc
+
+organization gained much attention nicholas negropontekofi annan unveiled working prototype november
+world summit information society wsis tunis
+tunisia negroponte showed two prototype laptop second
+phase world summit non working physical model tethered
+version using external board separate keyboard device shown
+wa rough prototype using standard development board negroponte
+estimated screen alone required three monthdevelopment first working prototype demonstratedproject country task force meeting maythe production
+version expected larger display screen size
+package laptop scheduled available end 
+early 
+
+theworld economic forum davos switzerland united
+nation development program undp announced would back laptop
+undp released statement saying would work olpc deliver
+technology resource targeted school least developed
+countries
+first generation prototype
+enlarge
+first generation prototype
+
+olpc board director announced decemberthat quanta
+computer chosen original design manufacturer odmthelaptop project decision made board reviewed
+bid several possible manufacturing company company
+emphasized lot work remains donestill need put large amount research developmenthopefully ready make finished productsecond half next yearaccording quantum next six
+month team quantum research institute going focusingthelaptop
+
+pricing
+
+project originally aimed price ofunited state dollars
+maynegroponte told red hat annual user summitfloating price nonprofit organization targetbybut probably bemaybethat start
+price every release make cheapercheaperwe promising price go
+participating countries
+
+luiz incio lula silva president brazil prototype
+enlarge
+luiz incio lula silva president brazil prototype
+
+following state already committed project various
+way according negropontes press release however commitment
+binding laptop sold governmentdistributed ministry education willing adoptpolicy one laptop per child
+brazil
+thailand although thailand participation cancelledmilitary coup
+egypt
+united state specifically state massachusetts maine
+cambodia
+dominican republic
+costa rica
+tunisia
+argentina
+venezuela
+nigeria
+libya
+
+massachusetts governor mitt romney submitted billlegislature deliverlaptops child state
+nigeria first country order one million laptop computers
+
+octoberthe new york time reported olpc reached
+agreement government libya supply laptopitsmillion school child themillion deal includes
+satellite internet access one server per school technical support
+
+india rejected initiative saying would impossiblejustify expenditure scale debatable scheme public
+fund continue inadequate supply wellestablished needs
+listed different policy documents
+
+olpc originally planned make laptop availablegovernment negroponte indicated may partner
+well known brandname manufacturer create commercial
+version selling aboutthis would subsidize unitdeveloping world
+
+technology
+
+b linuxbased fullcolour fullscreen laptopinitially flat lcd screen later generation may use
+electronic paper eink laptop rugged use
+innovative power possibly pedal wifi voipenabledtouch screen including separate writing pad
+
+design requirements
+
+mary lou jepsen stated hardware design goal deviceminimal power consumption design target ofw total
+power consumption
+minimal production cost target ofper laptopproduction run one million units
+cool look implying innovative styling physical
+appearance
+ebook functionality extremely low power consumption
+software provided laptop open source free
+software
+
+software design requirement educational objectivedescribed publicly
+
+various use model currently explored mit medium lab
+help design continuum fuseproject including laptop
+ebook theatre simulation tote tablet architectures
+
+hardware
+
+second generation prototype
+enlarge
+second generation prototype
+
+hardware specification mayare
+
+features
+
+cpu amd geode w integrated graphic controller
+cpu clock speedmhz
+svgadiagonal transmissive reflective liquid crystal
+display used one two modes
+reflective sunlight readable monochrome mode withby
+screen resolution ebook reading outdoorsthisdpi
+transmissive colour mode approximately pixel
+resolution backlighting laptop use
+
+depending mode power consumption display betweenand
+one watt
+mib dualddrmhz dram
+kib flash rom opensource linuxbios
+mib slc nand flash memory
+external card slot
+vga resolution colour camera
+wireless networking using extended range wireless
+chipset run low bitratembits minimize power
+consumption
+marvellwireless chip chosen due abilityautonomously forward packet mesh even cpu powered
+dual adjustable antenna diversity reception
+conventional layout alphanumeric keyboard localized country
+use
+dual fivekey cursorcontrol pad four directional key plus enter
+touchpad mouse control handwriting input
+builtin stereo speakers
+builtin microphone
+audio based codec jack external stereo
+speaker microphone lineout micin
+external usb ports
+power sources
+dc inputv
+cell rechargeable nimh battery packwatthourkj
+capacity
+
+intentionally omitted features
+
+keeping goal robustness low power consumptiondesign laptop intentionally omits motordriven moving parts
+ha hard drive optical cddvd floppy drivefan ata interface unnecessary due lack hard drive
+also card slot although slot available
+
+floppy disk hard disk drive dvd drive usb drive many
+peripheral connected via usb port expansion
+available external card slot
+
+builtin hand crank generator part original designnegroponte stated alinuxworld talk longer
+integrated laptop optionally available hand
+footoperated generator built separate power unit
+
+power consumption
+
+power consumption design target total power consumptiondevice laptop mode consumption ebook mode estimatedbeto contrast typical apple laptop idle around wpeak around reduced backlight cpu performancewifibluetooth disabled reach even sleep mode
+consume 
+ebook mode hardware subsystem powered exceptmonochrome display including display backlighting user
+move different page system wake draw new pagedisplay back sleep
+
+display
+
+firstgeneration olpc laptop expected novel lowcost
+liquid crystal display later generation olpc laptopexpected use lowcost lowpower highresolution electronic
+paper displays
+
+display expensive component olpc laptopaprilnegroponte hired mary lou jepsenwho expected join
+medium art science faculty mit medium lab september
+olpc chief technology officer jepsen developing new
+display firstgeneration olpc laptop deriveddesign small lcd used portable dvd player estimated
+would cost 
+
+jepsen described removal filter colour rgb
+subpixels critical design innovation new liquid crystal
+display instead using subtractive colour filter display uses
+plastic diffraction grating lens rear lcdilluminate colored subpixels grating pattern stamped using
+technology used make dvd grating split light
+white backlight spectrum red green blue
+component diffracted correct position illuminatecorresponding g subpixels innovation result much
+brighter display corresponding reduction backlight
+illumination colour filter regular display typically
+absorbof light hit display absorbs littlelight
+
+remainder lcd existing display technologymade using existing manufacturing equipment even mask made
+using combination existing material processes
+
+display transmissive backlighting used colourdvd
+mode conventional cold cathode fluorescent lamp backlighting
+account forof cost conventional lcd hareplaced lowerpower fragile alternative white
+led use low light level form backlighting also
+improve colour gamut display display reflective
+display backlighting used monochrome modedisplaying ebook page mode change occurs change usedevice landscape format colour display used laptop mode
+whereas portrait format monochrome display used ebook mode
+displayed page read vertically like booksocalled curlupinbed mode enable reading ebooksextended time bright light sunlight negroponte saidtechnology review fifth annual emerging technology conference
+monochrome display four time resolution colour
+display
+
+dualmode display operational wsis prototypeprototype shown conventional transmission tft lcds
+
+wireless networking
+
+ieee support provided using wifi extended range
+chipset jepsen said wireless chipset run low
+bitratembits maximum rather usual higher speed mbits
+mbit minimize power consumption
+
+whenever laptop powered participate mobile
+adhoc network node operating peertopeer fashionlaptop hear forwarding packet across cloudcomputer cloud access internet either directlyindirectly computer cloud able accessnet data rate across network high similar
+network like store forward motoman project supported
+email service toschoolchildren cambodia accordingnegroponte data rate sufficient asynchronous network
+application email communicate outside cloud ratherinteractive like web browsing highbandwidth applications
+video streaming interactive network communicationpossible inside cloud
+
+conventional ieee system handle traffic withinlocal cloud wireless device manner similar ethernet
+network node transmits receives data doeroute packet two node cannot communicate directlyolpc laptop use ieee form wireless mesh network
+
+keyboard touchpad
+
+negroponte jepsen said keyboard changed suit
+local need match standard keyboard countryused version prototype shown world summitinformation society wsis detachable keyboard tetheredcord however working prototype demonstrated mayhadconventional builtin keyboard
+
+negroponte demanded keyboard contain cap lock
+key free keyboard real estate new key view
+source key
+
+beneath keyboard large area resembles wide
+touchpad jepsen referred mousepad negroponte said
+device used calligraphy presumably support
+language use ideogram also implies support
+finger penlike device trackpad operationalwsis prototype
+
+enclosure
+
+enclosure dirt moistureresistant constructedmmthick plasticthicker typical laptop feature pivoting
+reversible display movable wifi antenna sealed rubbermembrane
+keyboard
+
+software
+
+child remote cambodian school pilot laptop programplace since 
+enlarge
+child remote cambodian school pilot laptop programplace since 
+
+software laptop open source projected
+software novemberis
+pareddown version fedora core operating systemstudent receiving root access
+web browser based upon gecko engine used firefox
+word processor based upon abiword
+email chat voip programs
+several interpreted programming language including logo
+javascript python csound etoys version squeak
+music multimedia software jean pichs tamtammplayer helix
+
+steve job offered mac free charge use laptop
+according seymour papert professor emeritus mit one
+initiative founder designer want operating system
+tinkered declined open source
+therefore linux chosen
+
+jim gettys responsible laptop system software called
+reeducation programmer saying many application use
+much memory even leak memory seems common
+fallacy among programmer using memory good current
+hardware often much faster recompute valuereference memory get precomputed value full cache misshundred cycle hundred time power consumptioninstruction hit first level cache
+
+onaugustthe wikimedia foundation announced static copies
+selected wikipedia article would included laptop jimmy
+wale chair wikimedia foundation said olpcs mission
+go hand hand goal distributing encyclopedic knowledge
+free charge every person world everybodyworld access broadband connection negroponte earlier
+suggested would like see wikipedia laptop wale feels
+wikipedia one thekiller apps device
+
+laptop use sugar graphical user interface writtenpython top window system
+
+criticism
+
+third generation prototype
+enlarge
+third generation prototype
+
+though generally well received early stage project hacriticized unrealistic
+
+technological aspects
+
+novemberlee felsenstein criticized centralized
+topdown imperialistic design distribution olpc lee
+felsenstein currently fonly institute draw upon previous
+experience distributed collaboration open source hardwarehomebrew computer club
+
+decemberintel chairman craig barrett criticised project
+agadgetthe problem gadgetsuccessful turn people lookingsomething full functionality reprogrammablerun application grownup pcnot dependent servers
+sky deliver content capability dependenthand crank power marchafter introducedultra mobile bill gate mocked project sayinggoing people share computer get broadband connection
+somebody help support user geez getdecent computer actually read text youresitting cranking thing youre trying type
+
+good use money
+
+un conference tunisia several african officialnotably marthe dansokho cameroon mohammed diop malisuspicious motif project claimed project
+wa using overly american mindset presented solutionapplicable specifically african problem dansokho said project
+demonstrated misplaced priority stating clean water schools
+important african woman stated wouldtime use computer research new crop grow diop
+specifically attacked project attempt exploitgovernment poor nation making pay hundred millions
+machines
+
+one criticism money purchasing laptop could
+favorably spent library school john wood founderroom read emphasized affordable scalehightech solution favour one laptop per child
+initative providing education child developing world
+cheaper rate pointed alibrary serve
+child costing justa child bring access wide range
+book local language khmer nepali english
+also aschool servechildrena child
+according wood appropriate solution education
+dense forest vietnam rural cambodia
+
+according olpc wiki
+
+
+childrens machine
+
+mentioned common criticism projectsay poor people need food shelter laptopcomment however ignorant condition impoverished nations
+around world true many people world
+definitely need food shelter multitude people
+live rural suburban area plenty eatreasonable accommodation people dont decent
+shot good education
+
+
+childrens machine
+
+criticisms
+
+another criticism developed country giving poorer
+child laptop give child laptopclaimed many child united state developed
+country would benefit much use laptopchild undeveloped country fact state eg maine georgia providing commercial laptop pupilolpc faq responds question laptop available
+relatively developed nation stating exploringpossibility developing commercial versiondiscussion representative nation distribution
+noncommercial version however priority makelaptop available first greatest needcommonwealth massachusetts one initial participantolpc
+
+project also received criticism due environmentalhealth impact hazardous material found computer many nations
+organization working towards development ofgreen
+electronics european union waste electrical electronic
+equipment directive project scaleenvironmental impact olpc asserted aiming useenvironmentally friendly material also laptop
+olpcsupplied accessory fully rohs compliantlaptop use order magnitude powertypical consumer laptop available today ofreducingenvironmental burden power generation
+
+people criticizing idea selling open
+market one concern possibility arbitrage bmade available certain area certain party parallel
+black market laptop may develop arbitrageur could findway obtain laptop going rate resellblack market higher price presence black market could
+also encourage intended owner sell laptop nicholas
+negroponte addressed concern presentationemerging technology conference september 
+
+
+childrens machine
+
+grey market serious issue dont want dismissive
+moment three way addressing way
+number one market mean cant sell
+could buy isnt bullet proof thats little bit
+dreaming part equation second puttechnology device help stop laptops
+distributed middle schoolers maine apple ibooksgreat stuff steal dont necessarily corruption
+kind pretty transferable technology theyve put
+little thing machine disables hasnt
+connected school put gps put sorts
+stuff third one like make
+machine distinctive socially stigma carrying
+one child teacher obviously takebasement hope spouse even say god
+honey stole church like red
+cross something hoping distinctivenessproduct third one maybe isnt thought often
+three combined hope least limit one percent
+two percent going going
+
+childrens machine
+
+project functionally similar openbook project aimcreate maintain open hardware software specification enable
+production convenient tablet high volume priceunlike olpc initiative project aimed open
+market
+

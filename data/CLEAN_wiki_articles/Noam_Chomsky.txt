@@ -1,0 +1,408 @@
+copyright
+
+noam chomsky
+
+ school wikipedia selection related subject linguistics
+
+avram noam chomsky
+noam chomsky
+born december
+east oak lane philadelphia pennsylvania
+occupation linguist
+
+avram noam chomsky phd born decemberis institute
+professor emeritus linguistics massachusetts institutetechnology chomsky credited creation theorygenerative grammar considered one significant
+contribution field theoretical linguistics made century also helped spark cognitive revolution psychology
+review skinner verbal behaviourchallenged behaviorist approach study mind language
+dominant naturalistic approach studylanguage also affected philosophy language mind see
+harman fodor also credited establishmentchomskyschtzenberger hierarchy classification formal languages
+term generative power
+
+beginning critique vietnam war chomsky
+ha become widely knownespecially internationallyformedium criticism radical politics linguistic theories
+generally considered key intellectual figure withinleft wing united state politics according arthumanity citation index betweenandchomsky citedsource often living scholar eighthcited scholar overall chomsky widely known political
+activism criticism foreign policy united
+state government chomsky describeslibertarian socialist sympathizer anarchosyndicalismmember iww
+
+biography
+
+chomsky born east oak lane neighbourhood philadelphia
+pennsylvania son hebrew scholar iww member william chomsky
+wa town ukraine mother elsie chomsky born
+simonofsky came belarus unlike husbandgrew united state spoke ordinary new york english
+first language yiddish chomsky say taboofamily speak describes family living sortjewish ghetto split yiddish side hebrew sidefamily aligning latter bringing immersedhebrew culture literature chomsky also describes tensionpersonally experienced irish catholic antisemitismmids stating dont like say grew kind
+visceral fear catholic knew irrational gotwa street experience
+
+chomsky remembers first article wrote age ten
+threat spread fascism following fallbarcelona spanish civil war age twelve thirteen
+identified fully anarchist politics
+
+graduate central high school philadelphia classchomsky began studying philosophy linguisticsuniversity pennsylvania learning philosopher west
+churchman nelson goodman linguist zellig harris harriss
+teaching included discovery transformation mathematical
+analysis language structure mapping one subset anotherset sentence chomsky subsequently reinterpretedoperation production contextfree grammar derivedpost production system harris political view instrumentalshaping chomsky
+
+inchomsky married linguist carol schatz two
+daughter aviva band diane band son harry 
+
+chomsky received phd linguistics universitypennsylvania inhe conducted much doctoral researchfour year harvard university harvard junior fellowdoctoral thesis began develop linguistic ideas
+elaborating hisbook syntactic structure perhapsbestknown work linguistics
+
+chomsky joined staff massachusetts institute technology
+inand inwas appointed full professor departmentmodern language linguistics department linguisticsphilosophy fromtohe held ferrari ward
+professorship modern language linguistics inheappointed institute professor chomsky teaching mit
+continuously lastyears
+
+wa time chomsky became publicly engagedpolitics became one leading opponent vietnam war
+publication essay responsibility intellectuals
+new york review book insince time chomskybecome well known political view speaking politicsworld writing numerous book farreaching criticism
+u foreign policy legitimacy power madecontroversial figure
+
+chomsky past received various death threatcriticism foreign policy list created theodore
+kaczynski better known unabomber planned targetperiod kaczynski large chomsky mail
+checked explosive chomsky also state frequently receives
+undercover police protection particular mit campus
+though chomsky state doe agree police
+protection
+
+despite criticism chomsky stated continues reside
+united state belief remains greatest
+country world comment later clarified saying
+evaluating country senseless would never put thingterm america advance particularlyarea free speech achieved century popular
+struggle admired chomsky travel frequently giving
+lecture politics lecture described compelling
+sincere though largely devoid personality emotion chomsky
+ha acknowledged criticism seeing virtue imboring speaker like wayi doubt people attracted
+whatever persona ispeople interested issuetheyre interested issue important
+
+inhe elected member serbian academy sciencearts
+
+contribution linguistics
+
+syntactic structure distillation book logical structure
+linguistic theoryin introduces transformational
+grammar theory take utterance sequence wordsyntax largely characterized formal grammarparticular contextfree grammar extended transformational
+rule child hypothesized innate knowledgebasic grammatical structure common human language ieassume language encounter certain
+restricted kind innate knowledge often referreduniversal grammar argued modeling knowledge language
+using formal grammar account productivity language
+limited set grammar rule finite set term humans
+able produce infinite number sentence including
+sentence one previously said
+
+principle parameter approach ppdeveloped pisa
+lecture later published lecture government binding
+lgbmake strong claim regarding universal grammargrammatical principle underlying language innate fixeddifference among world language characterizedterm parameter setting brain prodrop
+parameter indicates whether explicit subject always
+required english optionally dropped spanish
+often likened switch hence term principleparameter often given approach view child
+learning language need acquire necessary lexical items
+word grammatical morpheme idiom determineappropriate parameter setting done based key
+examples
+
+proponent view argue pace child learn
+language inexplicably rapid unless child innate ability
+learn language similar step followed child across
+world learning language fact child make
+certain characteristic error learn first language
+whereas seemingly logical kind error never occuraccording chomsky attested purely general rather
+languagespecific learning mechanism employedalso pointed motivation innateness
+
+recently minimalist programwhile retainingcore concept principle parameter chomsky attempt major
+overhaul linguistic machinery involved lgb model
+stripping barest necessary elementadvocating general approach architecture human language
+faculty emphasizes principle economy optimal design
+reverting derivational approach generation contrastlargely representational approach classic 
+chomsky idea strong influence researchers
+investigating acquisition language child thoughresearcher work area today support chomskys
+theory often advocating emergentist connectionist theories
+reducing language instance general processing mechanismbrain
+
+generative grammar
+
+chomskyan approach towards syntax often termed generative grammar
+though quite popular challenged many especiallyworking outside united state america chomskyan syntactic
+analysis often highly abstract based heavily careful
+investigation border grammatical ungrammatical
+construct language compare socalled pathological
+case play similarly important role mathematicsgrammatical judgment made accurately native speaker
+however thus pragmatic reason linguist often focusnative language language fluent
+usually spanish english french german dutch italian japaneseone chinese language however chomsky said
+
+first application approach modern hebrew fairly
+detailed effort inthe second native american
+language hidatsa first fullscale generative grammar mids
+third turkish first phd dissertation earlyresearch wide variety language took mitfact became international centre work australian
+aboriginal language within generative frameworkthankswork ken hale also initiatedfarreaching work native american language also withinprogram fact first program brought native speakeruniversity become trained professional linguistcould work language far greater depthever done continued since time
+particularly since constitutes vast bulk work
+widest typological variety languages
+
+sometimes generative grammar analysis break appliedlanguage previously studied many changegenerative grammar occurred due increase numberlanguage analyzed claimed linguistic universalsemantics become stronger rather weaker timeexistence linguistic universal syntax corechomsky claim still highly disputed still richard kayne
+suggested language underlying
+subjectverbobject word order one prime motivation behindalternative approach functionaltypological approach linguistic
+typology often associated joseph greenberg base
+hypothesis linguistic universal study wide variety
+world language possible classify variation seen
+form theory based result classificationchomskyan approach indepth reliant native speaker
+knowledge follow method though time applied
+broad range languages
+
+chomsky hierarchy
+
+chomsky famous investigating various kind formal languages
+whether might capable capturing key propertyhuman language chomsky hierarchy partition formal grammarclass group increasing expressive power iesuccessive class generate broader set formal languageone interestingly chomsky argues modelingaspect human language requires complex formal grammarmeasured chomsky hierarchy modeling others example
+regular language powerful enough model english
+morphology powerful enough model english syntaxaddition relevant linguistics chomsky hierarchyalso become important computer science especially compiler
+construction automaton theory
+
+bestknown work phonology sound pattern english
+written morris halle often known simply spe though
+extremely influential day work considered outdated
+though recently reprinted chomsky doe publish
+phonology anymore
+
+automaton theory formal language formal grammars
+chomsky
+hierarchy grammar language minimal
+automaton
+type unrestricted recursively enumerable turing machine
+na common name recursive decider
+type contextsensitive contextsensitive linearbounded
+type contextfree contextfree pushdown
+type regular regular finite
+category language grammar proper subsetcategory directly
+contribution psychology
+
+chomsky work linguistics major implication modern
+psychology chomsky linguistics branch cognitive
+psychology genuine insight linguistics imply concomitant
+understanding aspect mental processing human naturetheory universal grammar seen many direct challengeestablished behaviorist theory time major
+consequence understanding language learned childexactly ability use language many basic
+principle theory though necessarily stronger claims
+made principle parameter approach describedgenerally accepted circles
+
+inchomsky published influential critique skinners
+verbal behaviour book skinner offered speculative
+explanation language behavioral term verbal behaviordefined learned behavior characteristic consequences
+delivered learned behaviour others makeview communicative behavior much larger usually
+addressed linguist skinner approach focused circumstances
+language used example asking waterfunctionally different response labeling something water
+responding someone asking water etc functionally
+different kind response required turn separate
+explanation sharply contrasted traditional notionlanguage chomsky psycholinguistic approach chomsky thoughtfunctionalist explanation restricting questioncommunicative performance ignored important questions
+chomskylanguage mindhe focused question concerning
+operation development innate structure syntax capable
+creatively organizing cohering adapting combining wordphrase intelligible utterances
+
+review chomsky emphasized scientific applicationbehavioral principle animal research severely lackingexplanatory adequacy furthermore particularly superficialaccount human verbal behavior theory restrictingexternal condition learned cannot adequately account
+generative grammar chomsky raised example rapid language
+acquisition child including quickly developing abilityform grammatical sentence universally creative language use
+competent native speaker highlight way skinners
+view exemplified underdetermination theory evidence argued
+understand human verbal behaviour creative aspects
+language use language development one must first postulategenetic linguistic endowment assumption important aspectlanguage product universal innate ability run counterskinner radical behaviorism
+
+chomskysreview drawn fire number criticfamous criticism kenneth maccorquodalespaperchomsky review skinner verbal behaviour journalexperimental analysis behaviour volumepagesthissimilar critique raised certain point generally acknowledged
+outside behavioral psychology claim chomskyposse adequate understanding either behavioral psychology
+general difference skinner behaviorismvariety consequently argued made several serious
+error account perceived problem critic maintain
+review failed demonstrate often citedaverred influenced chomskys
+paper probably either already substantially agreed chomskynever actually read chomsky maintained reviewdirected way skinner variant behavioural psychologyused quinean empiricism andnaturalization philosophy
+quoted barsky noam chomsky life dissent 
+
+ha claimed chomsky critique skinner methodology
+basic assumption paved way thecognitive revolution
+shift american psychologyprimarily behavioural primarily cognitivecartesian linguistics subsequent work chomsky laidexplanation human language faculty become modelinvestigation area psychology much present
+conception mind work draw directly idea found
+first persuasive author modern time chomsky
+
+three key idea first mind cognitivemind actually contains mental state belief doubtsecond argued important property language
+mind innate acquisition development languageresult unfolding innate propensity triggeredexperiential input external environment subsequent
+psychologist extended general nativist thesis beyond
+language lastly chomsky made concept ofmodularity critical
+feature mind cognitive architecture mind composedarray interacting specialized subsystem limited flowintercommunication model contrast sharply old idea
+piece information mind could accessedcognitive process optical illusion example cannotturned even known illusions
+
+opinion criticism science culture
+
+chomsky strongly disagrees poststructuralist postmodern
+criticism science
+
+spent lot life working questionusing method know condemned science
+rationality logic therefore read paperhope would help transcend limitationperhaps suggest entirely different course afraiddisappointed admittedly may limitation quite
+regularly eye glaze read polysyllabic discourse
+theme poststructuralism postmodernismunderstand largely truism error fraction
+total word count true lot thingdont understand article current issue mathphysic journal example differencelatter case know get understand donecase particular interest also know people
+field explain content levelgain partial understanding may want contrastone seems able explain latest
+postthisandthat part truism error
+gibberish know proceed
+
+chomsky also commented critique white male science
+stating much like antisemitic politically
+motivated attack jewish physic used nazidenigrate research done jewish scientist deutsche physik
+movement
+
+fact entire idea white male science reminds afraid jewish physic perhaps another inadequacymine read scientific paper cant tell whetherauthor white male true discussion work
+class office somewhere else rather doubtnonwhite nonmale student friend colleaguework would much impressed doctrine thinking
+understanding differ white male scienceculture gender race suspect surprise wouldquite proper word reaction
+
+chomsky influence fields
+
+chomskyan model used theoretical basis severalfield chomsky hierarchy often taught fundamental computer
+science course confers insight various type formal
+language hierarchy also discussed mathematical terms
+ha generated interest among mathematician particularly
+combinatorialists number argument evolutionary psychologyderived research results
+
+thenobel prize laureate medicine physiology niels jerne used chomsky generative model explain human immune
+system equating component generative grammarwith various
+feature protein structure title jernes stockholm nobel
+lecture generative grammar immune system
+
+nim chimpsky chimpanzee subject study animal
+language acquisition columbia university named honourchomsky
+
+political views
+
+noam chomsky engaged political activism adult
+life expressed wide range opinion politics world
+event widely cited publicized discussed withinunited state many consider view far endpolitical spectrum thus outside mainstream chomsky haturn argued view powerful dont wantheard reason often termed consideredamerican political dissident highlight political views
+much political writing offer strong criticismforeign policy united state specifically denounces
+considers double standard government claim result massive human rights
+violation chomsky argues may preach democracy
+freedom ha history exactlyopposite promoting supporting allyingnondemocratic repressive organization states
+ha argued mass medium united state largely
+serf propaganda arm government corporation three party largely intertwined
+common interest famously said american
+mediamanufactures consent among public
+ha opposed global war drug claiming language
+misleading referring war certain
+drug favor education prevention issue opposed
+military police action
+
+u domestic drug policy doe carry stated goalpolicymakers well aware isnt reducing
+substance abuse reasonably clearcurrent action historical record substance tendcriminalized associated socalled dangerous
+class criminalization certain substance technique
+social control
+critical american capitalist system big businessdescribes libertarian socialist sympathizesanarchosyndicalism highly critical leninist branchsocialism also belief libertarian socialist values
+exemplify rational morally consistent extension original
+unreconstructed classical liberal radical humanist ideaindustrial context belief radical humanist ideatwo major influence bertrand russell john deweyrooted enlightenment classical liberalism retain
+revolutionary character
+hold view summarized antiwar strictly
+pacifist prominently opposed vietnam warwar lifetime however maintains involvement
+world war wa probably justified caveatpreferable outcome would end prevent war
+earlier diplomacy particular beliefdropping nuclear bomb hiroshima nagasaki amongunspeakable crime history
+ha view broad freespeech right especially mass
+medium opposes censorship refuse take legal action
+may libeled
+chomsky made connection linguistics researchpolitical topic example adebate french philosopher
+michel foucault question human nature chomsky usedidea innate linguistic capacity criticize idea human
+value knowledge entirely conditioned societal conditions
+however chomsky make connection rarely generally
+critical idea competent discussion political topics
+requires expert knowledge academic field ainterviewsaid regarding connection politics worklinguistics
+
+still feel kind tenuous connection
+would want overstate think mean something
+least think anyones political ideaidea social organization must rooted ultimatelyconcept human nature human need new left review 
+sepoctpg 
+
+septembervenezuelan president hugo chvez gave chomskys
+book entitled hegemony survival america quest global
+dominance sale boost raising first place amazoncom
+bestseller list recommended speech general assembly chvez stated good book readdemonstrates greatest danger world peace currentlyunited state causing prolonged round applause majority
+general assembly new york time erroneously reportedchavez said regretted able meet chomskydeath knowing still alive subsequently times
+published acknowledgement error
+
+criticism chomsky politics
+
+chomsky acquired many critic right left endpolitical spectrum despite jewish heritage accused
+antisemitism view israel foreign policyinvolvement faurisson affair among issue chomskyargued action faurisson affair limiteddefense right free expression someone disagreescritic subsequently subjected limited defence various
+interpretation critic contend chomsky wentdefence free speech effectively protecting characterholocaust denier well supporting legitimacy research
+
+late accused apologism khmer rouge
+edward herman charged publicized accountcambodian genocide also known killing field western
+medium anticommunist propaganda
+
+chomsky also received criticism many revolutionary anarchists
+claim much reformist encourageslevel participation electoral system
+
+academic achievement award honours
+
+spring ofhe delivered john locke lecture oxford
+university januaryhe delivered bertrand russell memorial
+lecture cambridge university inthe nehru memorial lecturenew delhi inthe huizinga lecture leiden inthe massey
+lecture university toronto titled necessary illusions
+thought control democratic society inthe davie
+memorial lecture academic freedom cape town among many others
+
+noam chomsky received many honorary degreeprestigious university around world including following
+university london university chicago loyola universitychicago swarthmore college delhi university bard college university
+massachusetts university pennsylvania georgetown university
+amherst college cambridge university university buenos aires
+mcgill university universitat rovira virgili tarragona columbia
+university university connecticutuniversity maine scuola
+normale superiore pisa university western ontario universitytoronto harvard university universidad chile universitycalcutta universidad nacional colombia vrije universiteit
+brussel member american academy art sciences
+national academy science american philosophical
+society addition member professional learned
+society united state abroad recipientdistinguished scientific contribution award american
+psychological association kyoto prize basic sciencehelmholtz medal dorothy eldridge peacemaker award ben
+franklin medal computer cognitive science otherstwice winner orwell award granted national councilteacher english distinguished contribution honestyclarity public languageearly career chomsky granted
+prestigious macarthur award
+
+chomsky voted leading living public intellectual 
+global intellectual poll conducted british magazine prospect
+reacted saying dont pay lot attention pollsinlist compiled magazine new statesman inhe voted
+seventh list hero time
+
+author chomsky
+
+rai milanbroken chomsky politics verso isbn
+retrievedbarsky robertnoam chomsky life dissent cambridge
+mit press isbn 
+goldsmith johnreview noam chomsky lifedissent robert barsky journal historybehaviorial sciencesretrieveddershowitz alan maychomskys immoral divestiture
+petition techretrievedroy arundhatithe loneliness noam chomskyhindu retrievedcollier peter horowitz david antichomsky reader
+encounter book isbn pateman trevorwittgensteinians chomskyans defence
+mentalism language mind language society
+blackburn robin kamm oliver novemberforchomsky pdf prospectretrievedmcgilvray james cambridge companion chomsky
+cambridge new york cambridge university press doi
+isbn 
+paradis michelreview government future noam
+chomsky oxonian review books
+schoneberger departure cognitivism implications
+chomsky second revolution linguistics analysisverbal behaviour
+sperlich wolfgang bnoam chomsky london reaktion books
+isbnretrieved
+filmography
+
+manufacturing consent noam chomsky medium director mark
+achbar peter wintonick 
+last partydirector rebecca chaiklin donovan leitch
+
+power terror noam chomsky time director john
+junkerman 
+distorted moralityamericas war terror director john
+junkerman 
+noam chomsky rebel without pause director pascoe
+
+corporation director jennifer abbott mark achbar 
+peace propagandathe promised land director sut jhallybathsheba ratzkoff 
+
+interviews
+
+maria hinojosa
+
+noam chomsky america foreign policy
+
+david barsamian
+
+keeping rabble line 
+class warfare 
+common good 
+propaganda public mind 
+imperial ambitionsconversations noam chomskypost world 
+
+others
+
+see complete list interview chomskyinfo
+

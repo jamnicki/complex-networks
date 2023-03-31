@@ -1,0 +1,429 @@
+copyright
+
+welding
+
+ school wikipedia selection related subject engineering
+
+
+featured article click information
+
+welding fabrication process join material usually metals
+thermoplastic causing coalescence often donemelting workpiece adding filler material form poolmolten material weld puddle cool become strong joint
+sometimes pressure used conjunction heatproduce weld contrast soldering brazing
+involve melting lowermeltingpoint materialworkpiece form bond without melting workpieces
+arc welding
+enlarge
+arc welding
+
+many different energy source used welding including gas
+flame electric arc laser electron beam frictionultrasound often industrial process welding donemany different environment including open air underwaterspace regardless location however welding remains dangerousprecaution must taken avoid burn electric shock poisonous
+fume overexposure ultraviolet light
+
+end century welding process forge
+welding blacksmith used century join metalheating pounding arc welding oxyfuel welding among
+first process develop late century resistance
+welding followed soon welding technology advanced quicklyearly century world war world war drove demand
+reliable inexpensive joining method following wars
+several modern welding technique developed including manual
+method like shielded metal arc welding one popular
+welding method well semiautomatic automatic processgas metal arc welding submerged arc welding fluxcored arc
+welding development continued invention laser beam
+welding electron beam welding latter half century
+today science continues advance robot welding becomingcommonplace industrial setting researcher continue develop
+new welding method gain greater understanding weld qualityproperties
+
+history
+
+iron pillar delhi
+enlarge
+iron pillar delhi
+
+history joining metal back several millenniumearliest example welding bronze age iron ageeurope middle east welding used constructioniron pillar delhi india erected aboutand weighingmetric
+ton middle age brought advance forge weldingblacksmith pounded heated metal repeatedly bonding occurredvannoccio biringuccio published la pirotechnia includes
+description forging operation renaissance craftsmanskilled process industry continued growfollowing century welding however transformed centuryinsir humphry davy discovered electric arcadvance arc welding continued invention metal
+electrode russian nikolai slavyanov american coffin late even carbon arc welding usedcarbon electrode gained popularity arounda strohmenger
+released coated metal electrode britain gave stable
+arc inalternating current welding invented holslag become popular another decade
+
+resistance welding also developed final decadeth century first patent going elihu thompson 
+produced advance nextyears thermite welding
+wa invented inand around time another process oxyfuel
+welding became well established acetylene discovered inby
+edmund davy use practical welding 
+suitable blowtorch developed first oxyfuel weldingone popular welding method due portabilityrelatively low cost century progressed however fell
+favour industrial application largely replacedarc welding metal covering known flux electrodestabilize arc shield base material impurities
+continued developed
+
+world war caused major surge use welding processvarious military power attempting determineseveral new welding process would best british primarily used
+arc welding even constructing ship fulagar entirely
+welded hull american hesitant began recognize
+benefit arc welding process allowed repair
+ship quickly german attack new york harbourbeginning war arc welding first applied aircraft
+war well german airplane fuselageconstructed using process
+
+major advance made welding technology
+including introduction automatic welding ininelectrode wire fed continuously shielding gas became subject
+receiving much attention scientist attempted protect weldeffect oxygen nitrogen atmosphere porositybrittleness primary problem solution developed
+included use hydrogen argon helium welding atmospheres
+following decade advance allowed welding
+reactive metal like aluminium magnesium conjunction
+development automatic welding alternating current fluxes
+fed major expansion arc weldingworld war 
+middle century many new welding methodinventedsaw release stud welding soon became
+popular shipbuilding construction submerged arc weldinginvented year continues popular today gas tungsten
+arc welding decade development finally perfectedgas metal arc welding followed inallowing fast
+welding non ferrous material requiring expensive shielding
+gas shielded metal arc welding developed using
+consumable electrode carbon dioxide atmosphere shielding
+gas quickly became popular metal arc welding process
+inthe fluxcored arc welding process debutedselfshielded wire electrode could used automatic equipment
+resulting greatly increased welding speed year
+plasma arc welding invented electroslag welding introducedwa followed cousin electrogas welding 
+
+recent development welding include thebreakthroughelectron beam welding making deep narrow welding possibleconcentrated heat source following invention laserlaser beam welding debuted several decade later proved
+especially useful highspeed automated weldingprocess however continue quite expensive due high costnecessary equipment limited applications
+
+welding processes
+
+arc welding
+
+process use welding power supply create maintainelectric arc electrode base material melt metals
+welding point use either direct alternating
+ac current consumable nonconsumable electrode welding
+region sometimes protected type inert semi inert gas
+known shielding gas filler material sometimes usedwell
+
+power supplies
+
+supply electrical energy necessary arc welding processnumber different power supply used common
+classification constant current power supply constant voltage
+power supply arc welding voltage directly relatedlength arc current related amount heat
+input constant current power supply often used manual
+welding process gas tungsten arc welding shielded metal
+arc welding maintain relatively constant current even
+voltage varies important manual weldingdifficult hold electrode perfectly steadyresult arc length thus voltage tend fluctuate constant
+voltage power supply hold voltage constant vary current
+result often used automated welding processes
+gas metal arc welding flux cored arc welding submerged
+arc welding process arc length kept constant sincefluctuation distance wire base materialquickly rectified large change current examplewire base material get close current rapidly
+increase turn cause heat increase tipwire melt returning original separation distance
+
+type current used arc welding also play important rolewelding consumable electrode process shielded metal arc
+welding gas metal arc welding generally use direct currentelectrode charged either positively negatively welding
+positively charged anode greater heat concentration
+result changing polarity electrode impact
+weld property electrode positively chargedmelt quickly increasing weld penetration welding speed
+alternatively negatively charged electrode result shallow
+weld nonconsumable electrode process gas tungsten arc
+welding use either type direct current well alternating
+current however direct current electrodecreates arc doe provide filler material positively
+charged electrode cause shallow weld negatively charged
+electrode make deeper weld alternating current rapidly movetwo resulting mediumpenetration weld one disadvantageac fact arc must reignited every zero crossing
+ha addressed invention special power unitproduce square wave pattern instead normal sine wave making
+rapid zero crossing possible minimizing effectproblem
+
+methods
+
+shielded metal arc welding
+enlarge
+shielded metal arc welding
+
+one common type arc welding shielded metal arc
+welding smaw also known manual metal arc welding mma
+stick welding electric current used strike arcbase material consumable electrode rod made steelcovered flux protects weld area oxidationcontamination producing gas welding processelectrode core act filler material making separate filler
+unnecessary process versatile requiring little operator
+training inexpensive equipment however weld time rather
+slow since consumable electrode must frequently replacedslag residue flux must chipped awaywelding furthermore process generally limited welding
+ferrous material though speciality electrode made possiblewelding cast iron nickel aluminium copper metalversatility method make popular number applications
+including repair work construction
+
+gas metal arc welding gmaw also known metal inert gas mig
+welding semiautomatic automatic welding process uscontinuous wire feed electrode inert semiinert gas
+mixture protect weld contamination since electrodecontinuous welding speed greater gmaw smaw however
+additional equipment process portableversatile still useful industrial application process
+applied wide variety metal ferrousnonferrous related process fluxcored arc welding fcaw uses
+similar equipment wire consisting steel electrode
+surrounding powder fill material cored wire expensive
+standard solid wire generate fume andor slagpermit higher welding speed greater metal penetration
+gas tungsten arc welding
+enlarge
+gas tungsten arc welding
+
+gas tungsten arc welding gtaw tungsten inert gas tig welding
+manual welding process nonconsumable electrode madetungsten inert semiinert gas mixture separate filler
+material especially useful welding thin material methodcharacterized stable arc high quality weld requires
+significant operator skill accomplished relatively
+low speed used nearly weldable metal thoughoften applied stainless steel light metal often
+used quality weld extremely important bicycle
+aircraft naval application related process plasma arc welding
+also tungsten electrode plasma gas make arcarc concentrated gtaw arc making transverse control
+critical thus generally restricting techniquemechanized process stable current methodused wider range material thickness gtaw
+process furthermore much faster appliedmaterial gtaw except magnesium automated welding
+stainless steel one important application processvariation process plasma cutting efficient steel cutting
+process
+
+submerged arc welding saw highproductivity welding methodarc struck beneath covering layer fluxincrease arc quality since contaminant atmosphere blocked
+flux slag form weld generally comecombined use continuous wire feed weld
+deposition rate high working condition much improvedarc welding process since flux hide arc smoke
+produced process commonly used industry especiallylarge product arc welding process include atomic hydrogen
+welding carbon arc welding electroslag welding electrogas welding
+stud arc welding
+gas welding steel armature
+enlarge
+gas welding steel armature
+
+gas welding
+
+common gas welding process oxyfuel welding also knownoxyacetylene welding one oldest versatile
+welding process recent year become popularindustrial application still widely used welding pipetube well repair work equipment relatively inexpensive
+simple generally employing combustion acetylene oxygen
+produce welding flame temperature flame
+since concentrated electric arc cause slower weld
+cooling lead greater residual stress weld
+distortion though eas welding high alloy steel similar
+process generally called oxyfuel cutting used cut metalgas welding method air acetylene welding oxygen hydrogen
+welding pressure gas welding quite similar generally
+differing type gas used water torch sometimes
+used precision welding item jewelry gas weldingalso used plastic welding though heated substance airtemperature much lower
+
+resistance welding
+
+resistance welding involves generation heat passing current
+resistance caused contact two metal
+surface small pool molten metal formed weld areahigh currenta passed metal general
+resistance welding method efficient cause little pollution
+application somewhat limited equipment costhigh
+spot welder
+enlarge
+spot welder
+
+spot welding popular resistance welding method used join
+overlapping metal sheet tomm thick two electrodesimultaneously used clamp metal sheet together pass
+current sheet advantage method include
+efficient energy use limited workpiece deformation high production
+rate easy automation required filler material weld strength
+significantly lower welding method makingprocess suitable certain application used extensively
+automotive industryordinary car several thousand spot
+weld specialized process called shot welding used spot
+weld stainless steel
+
+like spot welding seam welding relies two electrode apply
+pressure current join metal sheet however instead pointed
+electrode wheelshaped electrode roll along often feedworkpiece making possible make long continuous weldpast process used manufacture beverageus limited resistance welding method include
+flash welding projection welding upset welding
+
+energy beam welding
+
+energy beam welding method namely laser beam welding electron
+beam welding relatively new process become quite
+popular high production application two process quite
+similar differing notably source power laser beam
+welding employ highly focused laser beam electron beam
+welding done vacuum electron beamhigh energy density making deep weld penetration possibleminimizing size weld area process extremely
+fast easily automated making highly productiveprimary disadvantage high equipment cost thoughdecreasing susceptibility thermal cracking developments
+area include laserhybrid welding principlelaser beam welding arc welding even better weld
+properties
+
+solidstate welding
+
+like first welding process forge welding modern welding
+method involve melting material joined one
+popular ultrasonic welding used connect thin sheets
+wire made metal thermoplastic vibrating high
+frequency high pressure equipment method involved
+similar resistance welding instead electric
+current vibration provides energy input welding metalprocess doe involve melting material instead weldformed introducing mechanical vibration horizontallypressure welding plastic material similar
+melting temperature vibration introduced vertically
+ultrasonic welding commonly used making electrical connections
+aluminium copper also common polymer
+welding process
+
+another common process explosion welding involves joiningmaterial pushing together extremely high pressureenergy impact plasticizes material forming weld even
+though limited amount heat generated processcommonly used welding dissimilar material weldingaluminium steel ship hull compound platesolidstate welding process include coextrusion welding cold
+welding diffusion welding friction welding including friction stir
+welding high frequency welding hot pressure welding induction
+welding roll welding
+
+geometry
+
+common welding joint typessquare butt jointsinglev
+preparation jointlap jointtjoint
+enlarge
+common welding joint typessquare butt jointsinglev
+preparation jointlap jointtjoint
+
+weld geometrically prepared many different way five
+basic type weld joint butt joint lap joint corner joint
+edge joint tjoint variation exist wellfor example
+doublev preparation joint characterized two piecematerial tapering single centre point onehalfheight singleu doubleu preparation joint also fairly
+commoninstead straight edge like singlev doublev
+preparation joint curved forming shape lap
+joint also commonly two piece thickdependingprocess used thickness material many piecewelded together lap joint geometry
+
+often particular joint design used exclusively almost
+exclusively certain welding process example resistance spot
+welding laser beam welding electron beam weldingfrequently performed lap joint however welding method like
+shielded metal arc welding extremely versatile weld
+virtually type joint additionally process used
+make multipass weld one weld allowed coolanother weld performed top allows weldingthick section arranged singlev preparation joint example
+crosssection welded butt joint darkest gray
+representing weld fusion zone medium gray heataffected
+zone lightest gray base material
+enlarge
+crosssection welded butt joint darkest gray
+representing weld fusion zone medium gray heataffected
+zone lightest gray base material
+
+welding number distinct region identifiedweld area weld called fusion zonemore specifically
+filler metal laid welding processproperty fusion zone depend primarily filler metal
+used compatibility base material surrounded
+heataffected zone area microstructureproperty altered weld property depend base
+material behaviour subjected heat metal areaoften weaker base material fusion zonealso residual stress found
+
+quality
+
+often major metric used judging quality weldstrength strength material around many distinct
+factor influence including welding method amountconcentration heat input base material filler material
+flux material design joint interactions
+factor test quality weld either
+destructive nondestructive testing method commonly usedverify weld defectfree acceptable level residual
+stress distortion acceptable heataffected zone haz
+property welding code specification exist guide welderproper welding technique judge quality welds
+
+heataffected zone
+
+haz pipe weld blue area metalaffected heat
+enlarge
+haz pipe weld blue area metalaffected heat
+
+effect welding material surrounding welddetrimentaldepending material used heat inputwelding process used haz varying size strengththermal diffusivity base material play large roleifdiffusivity high material cooling rate high hazrelatively small conversely low diffusivity lead slower cooling
+larger haz amount heat injected welding process
+play important role well process like oxyacetylene welding
+unconcentrated heat input increase size haz
+process like laser beam welding give highly concentrated limited
+amount heat resulting small haz arc welding falltwo extreme individual process varying somewhatheat input calculate heat input arc welding procedurefollowing formula used
+
+qleftfracv time time timesright
+time mathitefficiency
+
+qheat inputkj vvoltage icurrentaswelding speed mmmin efficiency dependent welding
+process used shielded metal arc welding value 
+gas metal arc welding submerged arc weldingand gas tungsten
+arc welding 
+
+distortion cracking
+
+welding method involve melting metal sitejoint necessarily prone shrinkage heated metal cools
+shrinkage turn introduce residual stresslongitudinal rotational distortion distortion pose major
+problem since final product desired shape alleviate
+rotational distortion workpiece offsetwelding result correctly shaped piece method limiting
+distortion clamping workpiece place cause buildup
+residual stress heataffected zone base material
+stress reduce strength base materiallead catastrophic failure cold cracking caseseveral liberty ship cold cracking limited steelassociated formation martensite weld coolcracking occurs heataffected zone base materialreduce amount distortion residual stress amountheat input limited welding sequence usedone end directly rather segmenttype cracking hot cracking solidification crackingoccur metal happens fusion zone welddiminish probability type cracking excess material
+restraint avoided proper filler materialutilized
+
+weldability
+
+quality weld also dependent combination materials
+used base material filler material metalsuitable welding filler metal work wellacceptable base materials
+
+steels
+
+weldability steel inversely proportional property known
+hardenability steel measure ease forming
+martensite heat treatment hardenability steel dependschemical composition greater quantity carbonalloying element resulting higher hardenability thus lower
+weldability order able judge alloy made many
+distinct material measure known equivalent carbon contentused compare relative weldabilities different alloycomparing property plain carbon steel effectweldability element like chromium vanadium great
+carbon significant copper nickelexample equivalent carbon content rise weldabilityalloy decrease disadvantage using plain carbon lowalloy
+steel lower strengththere tradeoff material
+strength weldability high strength lowalloy steeldeveloped especially welding applicationgenerally easy weld material good strength makingideal many welding applications
+
+stainless steel high chromium content tendbehave differently respect weldability steels
+austenitic grade stainless steel tend weldableespecially susceptible distortion due high
+coefficient thermal expansion alloy type pronecracking reduced corrosion resistance well hot crackingpossible amount ferrite weld controlledto
+alleviate problem electrode used deposit weld metal
+containing small amount ferrite type stainless steels
+ferritic martensitic stainless steel easily
+welded must often preheated welded special electrodes
+
+aluminium
+
+weldability aluminium alloy varies significantly dependingchemical composition alloy used aluminum alloysusceptible hot cracking combat problem welders
+increase welding speed lower heat input preheating reduces
+temperature gradient across weld zone thus help reduce hot
+cracking reduce mechanical property base
+material used base material restrained
+design joint changed well compatible
+filler alloy selected decrease likelihood hot
+cracking aluminium alloy also cleaned prior welding
+goal removing oxide oil loose particlesurface welded especially importantaluminium weld susceptibility porosity due hydrogen dross
+due oxygen
+
+unusual conditions
+
+underwater welding
+enlarge
+underwater welding
+
+many welding application done controlled environments
+factory repair shop welding process commonly
+used wide variety condition open air underwatervacuum space openair application construction
+outdoors repair shielded metal arc welding common
+process process employ inert gas protect weld cannot
+readily used situation unpredictable atmospheric
+movement result faulty weld shielded metal arc weldingalso often used underwater welding construction repairship offshore platform pipeline others flux
+cored arc welding gas tungsten arc welding also common
+welding space also possibleit first attempted inby
+russian cosmonaut performed experiment test shielded
+metal arc welding plasma arc welding electron beam weldingdepressurized environment testing method donefollowing decade today researcher continue develop
+method using welding process space laser beam
+welding resistance welding friction welding advancearea could prove indispensable project like constructioninternational space station likely rely heavilywelding joining space part manufactured earth
+
+safety issues
+
+welding without proper precaution dangerousunhealthy practice however use new technology proper
+protection risk injury death associated weldinggreatly reduced many common welding procedure involveopen electric arc flame risk burn significantprevent welder wear personal protective equipment formheavy leather glove protective long sleeve jacket avoid
+exposure extreme heat flame additionally brightnessweld area lead condition called arc eye ultraviolet
+light cause inflammation cornea burn retinaeye goggles welding helmet dark face plate wornprevent exposure recent year new helmet modelproduced feature face plate selfdarkens upon exposurehigh amount light protect bystander transparent welding
+curtain often surround welding area curtain madepolyvinyl chloride plastic film shield nearby worker exposureuv light electric arc used replace
+filter glass used helmets
+
+welder also often exposed dangerous gas particulate
+matter process like fluxcored arc welding shielded metal arc
+welding produce smoke containing particle various type oxides
+case lead medical condition like metal fume
+fever size particle question tends influencetoxicity fume smaller particle presenting greater
+danger additionally many process produce fume various gases
+commonly carbon dioxide ozone prove dangerousventilation inadequate furthermore use compressed
+gas flame many welding process pose explosion fire
+risk common precaution include limiting amount oxygenair keeping combustible material away workplace
+
+cost trends
+
+industrial process cost welding play crucial rolemanufacturing decision many different variable affect total
+cost including equipment cost labor cost material cost energy
+cost depending process equipment cost varyinexpensive method like shielded metal arc welding oxyfuel
+welding extremely expensive method like laser beam weldingelectron beam welding high cost used
+high production operation similarly automation robots
+increase equipment cost implemented high
+production necessary labor cost depends deposition raterate welding hourly wage total operation time
+including time welding handling part costmaterial includes cost base filler materialcost shielding gas finally energy cost depends arc timewelding power demand
+
+manual welding method labor cost generally make vast
+majority total cost result many costsavings measurefocused minimizing operation time welding
+procedure high deposition rate selected weld
+parameter finetuned increase welding speed mechanization
+automatization often implemented reduce labor costfrequently increase cost equipment creates additional
+setup time material cost tend increase special propertynecessary energy cost normally amount several
+percent total welding cost
+
+recent year order minimize labor cost high production
+manufacturing industrial welding become increasinglyautomated notably use robot resistance spot
+welding especially automotive industry arc weldingrobot welding mechanized device hold material perform
+weld first spot welding common application
+robotic arc welding increasing popularity technology
+ha advanced key area research development includewelding dissimilar material steel aluminiumexample new welding process friction stir magnetic
+pulse conductive heat seam laserhybrid welding furthermore
+progress desired making specialized method like laser beam
+welding practical application aerospaceautomotive industry researcher also hope better understandoften unpredictable property weld especially microstructure
+residual stress weld tendency crack deform

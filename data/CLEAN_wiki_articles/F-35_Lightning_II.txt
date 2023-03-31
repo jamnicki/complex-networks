@@ -1,0 +1,370 @@
+copyright
+
+f lightning 
+ school wikipedia selection related subject airsea transport
+military history war
+
+f lightning first ofpreproduction typemultirole fighter
+manufacturerlockheed martin aeronautics
+northrop grumman
+bae systems
+maiden flight latescheduled
+introducedscheduled
+statusunder developmentpreproduction
+primary user united state air force
+united state navy
+united state marine corps
+royal navy
+produceddate
+
+f lightning iidescended joint strike
+fighter jsf programis singleseat singleengined military
+strike fighter multirole aircraft perform close air
+support tactical bombing airtoair combat developmentfunded united state united kingdompartner government designed built aerospace
+industry team led lockheed martin major partner bae systemnorthrop grumman demonstrator aircraft flew infirst flightproduction model expected late 
+
+requirement
+
+jsf program created replace various aircraft keeping
+development production operating cost pursuedbuilding three variant one aircraft sharingof parts
+fa conventional takeoff landingctol variant slatedreplace air force usaf fighting falcon beginning
+fb shorttakeoff verticallandingstovl variant slated
+replace marine corp usmc harrier fa
+hornet royal air force rafroyal navy harrier grgrs
+beginning 
+fc carrierbased variant slated replace navy usn
+fa hornet abcd variant beginning 
+
+international participation
+
+primary customer financial backer united stateunited kingdom eight nation also funding aircrafts
+development decide inwhether purchasetotal program development cost procurement estimatedu billion bulk underwrittenunited states
+
+three level international participation united
+kingdom sole levelpartner contributing slightly billion aboutof development costslevelpartnersitaly contributing billion netherlands million levelare canada million turkey million
+australia million norway million denmark million level generally reflect financial stakeprogram amount technology transfer subcontract openbid national company priority order countries
+obtain production aircraft israel singapore also joined
+security cooperative participants
+
+partner country wavered public commitment
+jsf program hinting warning unless receivesubcontract technology transfer forsake jsf purchases
+eurofighter typhoon gripen rafale
+
+united kingdom participation
+
+british government signed early jsf effortofficial became increasingly frustrated refusal handsensitive technology would allow maintain upgrade
+fighter without involvement five year british
+official sought itar waiver secure greater technology transfer
+request blessing bush administrationrepeatedly blocked representative henry hyde says
+uk need tighten law protectingunauthorized transfer advanced technology third
+parties
+
+matter came head bae system ceo mike turner complainedu denied company access aircraft source code
+ondecemberan article glasgow herald quotedchairman house common defence select committee saying
+uk might consider whether continue programaccess granted lord drayson minister defence procurement
+took firmer stance marchvisit washingtonexpect software technology transfer take placetake place able purchase aircraftsaid plan deal fell maydevelopment navalized typhoon
+
+maypresident george bush prime minister tony blair
+announced government agree ukability successfully operate upgrade employ maintainjoint strike fighter retains operational sovereignty
+aircraft
+
+australian participation
+
+maythe australian government announced would delay
+planneddecision buying jsf toand thus pastterm present government australia like ha insistedmust access software needed modify repair aircraft
+citing american firm profiteering maintenance
+
+royal australian air force opinion remains strongly favourjsf however medium report lobby group politicianraised doubt aircraft ready time replaceaging australian air force fleet general dynamic strike
+aircraft hornet fighter critic say raptor
+eurofighter may better choice offering better range
+dogfighting capability supercruise cost may much
+fclaims julyare examinedparliamentary inquiry statement released early august 
+australian defence minister brendan nelson revealed whilstf still governmental support australia startinginvestigate possible aircraft proveunfeasible whilst revealing aircraft australian
+government considering rule australian
+consideration octoberthe deputy chief air force air
+vice marshal john blackburn publicly stated raaf ruled
+purchase interim strike aircraft cover delayf program believed wa suitable
+
+jsf program history
+
+origin v 
+boeing left lockheed martin prior downselectx chosen dod photo
+enlarge
+boeing left lockheed martin prior downselectx chosen dod photo
+
+joint strike fighter evolved several requirementcommon fighter replace existing type actual jsf development
+contract signed onnovember 
+
+contract system development demonstration sdd awarded
+onoctoberto lockheed martin whose beat boeing dod official minister defence procurement said consistently outperformed although met exceeded
+requirements
+
+onfebruarythe first usaf version rolledfort worth texas aircraft undergo extensive ground testing
+flight test edward air force base fall 
+
+onseptemberthe first engine run wa conductedairframe test completed onseptember static
+run full afterburner engine run first timef completely functional power systems
+
+naming
+
+onjulythe air force officially announced namef lightning honour lockheeds world war iiera twinprop
+p lightning cold warera jet english electric lightning
+english electric aircraft division incorporated bacpredecessor partner bae system name previously listed
+contender kestrel phoenix piasa black mamba spitfire
+ii lightning wa also early company name aircraftbecame raptor
+
+design characteristics
+
+fa towed inauguration ceremony july 
+enlarge
+fa towed inauguration ceremony july 
+
+element design pioneered raptor appears trimmer sleeker oneengine siblingtwoengine exhaust duct design inspired general
+dynamic modelavtol aircraft designed sea control
+ship lockheed teaming relationship yakovlev design
+bureau bid joint advanced strike technology
+competition fueled speculation overall designf heavily influenced yakin aircraft museumaerospaceweborg however two aircraft different
+
+stealth technology make aircraft hard detect approaches
+shortrange tracking although rear much easily spotted
+
+specific improvement currentgeneration fighter aircraft
+durable lowmaintenance stealth technology
+integrated avionics sensor fusion combine informationonboard sensor increase pilot situational
+awareness improve identification weapon deliveryrelay information quickly command control nodes
+low lifecycle costs
+
+although helmetmounted display system already integrated
+fourthgeneration fighter like swedishmanufactured jas
+gripen first modern combat aircrafthelmetmounted display replace headsup display altogether
+
+fa
+
+fa smallest lightest version intended primarily
+replace air force aging fighting falconthunderbolt version internal gungauu thismm cannon upgrade vulcan
+carried usaf fighter since starfighter
+
+fb
+
+xb lift fan vtol propulsion system designed manufactured
+rollsroyce plc
+enlarge
+xb lift fan vtol propulsion system designed manufactured
+rollsroyce plc
+
+fb stovl aircraft intended replace vertical flight
+harrier world first operational shorttakeoff 
+verticallanding fighter royal navy use replacesea harrier raf grs marine corp usefb replace avb harrier hornet fighters
+design similar size air force trading fuel
+volume vertical flight system like harrier guncarried pod vertical flight far riskiestend decisive factor design
+
+instead lift engine rotating nozzle engine fan likeav harrier us innovative shaftdriven lift fan
+patented lockheed martin developed rollsroyce somewhat like
+turboprop embedded fuselage engine shaft power diverted
+forward via clutchandbevel gearbox vertically mounted
+contrarotating lift fan located forward main enginecentre aircraft bypass air cruise engine turbofan
+exhaust pair rollpost nozzle wing either
+side fuselage lift fan balance vectoring cruise
+nozzle tail
+
+effect power plant act flow multiplier muchturbofan achieves efficiency moving unburned air lower
+velocity getting effect harrier hugesupersonically impractical main fan like lift engine added
+machinery dead weight flight increased lifting power
+increase takeoff payload even cool fan also reducesharmful effect hot highvelocity air harm runway
+pavement aircraft carrier deck though risky complicatedwa made work satisfaction dod official unlike boeings
+entry prototype able demonstrate historic flight starting
+short takeoff transitioning supersonic flight ending
+vertical landing
+
+concept definition two lockheed airframe flighttested
+lockheed wa later converted xblargerwinged boeing x power plantderived prattwhitneys stovl variantlatter incorporating rollsroyce lift fan module
+
+arguably persuasive demonstration capabilityfinal qualifying joint strike fighter flight trialxb stovl aircraft took thanfeet went supersonic
+landed vertically
+
+fc
+
+naval variant replace faa chornet replaced subsonic longranged attack typecorsair intruder also serve stealthy
+complement faef super hornet larger
+folding wing larger control surface improved lowspeed
+control stronger landing gear stress carrier
+landing larger wing area provides increased range payload
+twice range internal fuel compared fac
+achieving much goal much heavier super hornet navy plan purchasejsf
+
+directedenergy weapons
+
+directedenergy weapon may installed conventional takeoff lightning whose lack direct lift fan free aboutft
+space whose engine provides thanhpmw
+electrical power concept including solid state laserhighpower microwave beam may nearing operational status
+
+analysis jsf program united state services
+
+jsf program designed replace faavb fleet tactical fighter aircraft military service
+joint strike fighter critic say like aircraftreplacing insufficient range replace dedicated bomberprimarily strike platform inability supercruise limitair defense platform new aircraft almost
+certain suffer cost overrun lengthy development delay indeed
+throughthe jsfs total projected cost risento billion aprilthe pentagon projecting budgetrise billion
+
+reuters report insaid pentagon seeking cancel
+air force version would see air force adopt larger
+navy version year later move made
+
+close air support theorist especially experience flying
+mission vocally skeptical capacity carry role point claimprocurement would replacef similar shortcoming close air support
+mission specifically small gun ammunition capacitytight constraint number variety bomb missilecarry stealth configurationnot issue carrying
+external store nonstealthy alike configuration
+
+defender say jsf never intended replace bomberair defense platform say thorough requirements
+definition process year analysis international
+participation mitigated cost schedule concern potential
+solid state laser also offered advantage close air
+support role since aerial refueling would essentially also rearmlaser could used even enemy ground force locatedclose friendly ground force employment explosive armaments
+
+proponent say multirole design philosophy provencombat fighting falcon hornet pointseveral nation mainly fa user committed
+substantial sum become minority partner jsf manufacturing
+team say even without substantial performance advanceexisting aircraft stealthiness information warfare
+technology make enticing product
+
+program advocate see jsfs jointdevelopment conceptopportunity break decadesold pattern military
+aircraft procurement allowing commonality saving developmentoperating cost follows philosophy behind sepecat jaguar
+panavia tornado international development program accordingly
+jsf first aircraft program consider costindependent variable unlike earlier program extra features
+always boosted cost change permitted jsf
+development
+
+jsfs feed diagnostic information groundbased autonomic
+logistic information system built lockheed martin simulation
+training support make aircraft expensive operate
+maintain
+
+thrusttoweight ratio
+
+fb variant danger missing performance requirements
+weighed muchreportedly one metric ton 
+pound orin response lockheed martin added engine thrustshed ton thinning aircraft skin shrinkingweapon bay vertical tail rerouting thrustrollpost outlet main nozzle redesigning wingmate
+joint portion electrical system portionaircraft immediately behind cockpit
+
+smaller weapon bay return original
+lbkg internalweapons carriage expected hinder
+close air support mission likely take place enemy
+air defense may make variant differenttwo boosting costs
+
+internal weapon stored offline external air flowcomplicate weapon certification testingno demonstrationweapon delivery capability done prior contract award
+
+speculated usaf stovl purchase
+
+cost grow rumor canceling variant however operation afghanistan highlightedneed jump jet unimproved battlespaces leading hazy usaf
+commitment buy preserve economic rationaleproduce stovl jet needed usmc raf
+
+usaf reportedly investigated buying tostovl enough outfit three wing one option discussed discarded wafourth variant would different propulsion systemincrease emphasis stol capability vtol larger wing
+allow fuel internal cannon opposed usmc external
+gun pod change inflight refueling
+
+specification lightning 
+xc
+enlarge
+xc
+
+information estimated
+
+general characteristics
+
+crew 
+lengthftinm
+wingspanftinm
+heightftinm
+wing areaftm
+empty weightlbt
+loaded weightlbt
+max takeoff weightlbt
+powerplantprattwhitney afterburning turbofan 
+lbf wablbf drykn wabkn dry link
+lockheedmartin medium kit fact sheets
+secondary high performance developmentgeneral
+electricrollsroyce afterburning turbofankn thrust
+lift fan stovlrollsroyce lift system conjunctioneither f power plantlbfkn thrust
+
+performance
+
+maximum speed machmachestmphkmh
+cruise speed mach mph kmh
+rangenautical mile internal fuelkm internal
+fuel
+service ceilingftm
+rate climbftminms
+wing loadinglbftkgm
+thrustweightwith full fuelwithfuel
+
+lockheedmartin statistic summary zip file
+fa armament
+enlarge
+fa armament
+
+armament
+
+gauumm cannonslated mounted internallyround fitted external pod 
+round fc
+internally current planned weapon integrationup four
+aim amraam aimx sidewinder aim asraam internallytwo airtoair two airtoground weapon twolb
+weapon model twolb weapon modelbomb bay could amraam joint direct attack
+munition jdamup tolbkg joint standoff
+weapon jsow small diameter bomb sdba maximum ofinbay brimstone antiarmor missile cluster munition wcmd
+high speed antiradiation missile harm mbda meteor
+airtoair missile currently adapted fit internallymissile spot may integrated expense detectable radar manymissile bomb fuel tank attached four wing pylons
+two wingtip position two wingtip pylon carry
+shortrange airtoair missilesaims storm shadow
+joint air surface standoff missile jassm cruise missiles
+carried addition store already integratedairtoair load ofaims andaims conceivable using
+internal external weapon station well configuration
+six two thousand pound bombsaims andaimshighly unlikely operational scenario
+
+manufacturing responsibilities
+
+xa refuelled inflight stratotanker
+enlarge
+xa refuelled inflight stratotanker
+lockheed martin aeronautics prime contractor
+final assembly
+overall system integration
+mission system
+forward fuselage
+wings
+flight control system
+northrop grumman
+active electronically scanned array aesa radar
+centre fuselage
+weapon bay
+arrestor gear
+bae systems
+aft fuselage empennages
+horizontal vertical tails
+crew life support escape
+electronic warfare systems
+fuel system
+flight control software fcs
+
+related content
+
+
+comparable aircraft
+
+boeing dassault rafale
+saab gripen
+eurofighter typhoon
+mikoyan project 
+f raptor
+
+designation sequence
+
+fffyfxxxf
+x series designation historically separate series
+however wa adopted using series number
+rather next open series number created gap
+sequence f three experimental
+fighter series might usedadopted named manner 
+related lists
+
+list fighter aircraft
+list experimental aircraft
+list military aircraft united states
+

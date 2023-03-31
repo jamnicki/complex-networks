@@ -1,0 +1,225 @@
+copyright
+
+dvd
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+caption dvd
+
+medium type optical disc
+capacityup togb per side
+usagedata storage
+optical disc authoring
+optical disc
+optical disc image
+recorder hardware
+authoring software
+recording technologies
+recording modes
+packet writing
+
+optical medium types
+laserdisc
+compact disc cdrom cdr cdrw
+dvd dvdr dvdr dvdr dvdr dvdrw dvdrw dvdrw dvdram
+bluray disc bdr bdre
+hd dvd dvdr
+
+standards
+rainbow books
+file systems
+iso 
+joliet
+rock ridge
+amiga extension rock ridge
+el torito
+apple iso extensions
+universal disk format
+mount rainier
+
+dvd sometimes called digital versatile disc digital video
+disc optical disc storage medium format useddata storage including movie high video sound quality dvds
+resemble compact disc physical dimension 
+mminches occasionallymminches diameterencoded different format much higher density
+
+history
+
+acm sony dvdrw shown comparison size ainch dixon
+ticonderoga pencil
+enlarge
+acm sony dvdrw shown comparison size ainch dixon
+ticonderoga pencil
+
+early two highdensity optical storage standarddeveloped one multimedia compact discmmcd backedphilip sony super density disc supported toshiba timewarner matsushita electric hitachi
+mitsubishi electric pioneer thomson jvc ibms president lou
+gerstner acting matchmaker led effort unite two camps
+behind single standard anticipating repeat costly format
+war vhs betamax
+philip sony abandoned mmcd format confusedmultimediacards agreed upon toshibas formatconfused secure digital card although logo disc
+format would reused digital card format two
+modification related servo tracking technology
+first one adoption pit geometry allows
+pushpull tracking proprietary philipssony technology second
+modification adoption philip efmplus efmplus createdkees immink also designed efm isle efficient toshibas
+sd code resulted capacity ofgb opposed sds
+originalgb great advantage efmplus great resilience
+disc damage scratch fingerprint resultdvd specification versionannounced inand finalizedseptemberin maythe dvd consortium replaced dvd
+forum open companies
+
+dvd originally initialism digital video discmember dvd forum believe stand digital
+versatile disc reflect widespread use nonvideo
+application toshiba maintains official dvd forum site 
+adheres latter interpretation indeed appeared within
+copyright warning earliest example howeverdvd forum never reached consensus matter todayofficial name format simply dvd letterofficially stand anything
+
+dvd disc capacity
+
+single layer capacitydualdouble layer capacity
+physical sizegbgibgbgib
+cm single sided
+cm double sided
+cm single sided
+cm double sided
+
+note mean gigabyte equal toorbytes
+many computer display gibibyte gib equal toor
+bytes
+
+example disc withgb capacity equivalent tox
+gib
+
+capacity nomenclature
+
+four basic type dvd referred capacitygigabyte rounded nearest integer exception rule
+dvd whose capacity factgigabytes
+dvd typename
+single sided single layer dvd
+single sided dual layerdvd
+double sided single layer dvd
+double sided dual layerdvd
+
+dvd recordable rewriteable
+
+dvdr readwrite side
+enlarge
+dvdr readwrite side
+
+hp initially developed recordable dvd medium need store data
+backup transport
+
+dvd recordables also used consumer audio video
+recording three format developed rrw dash rrw plus
+ram random access memory
+
+dual layer recording
+
+dual layer recording allows dvdr dvdr disc store
+significantly data togigabytes per disc comparedgigabyte singlelayer disc dvdr dual layersee
+figure developed dvd forum pioneer corporation dvdr
+dl double layersee figure developed dvdrw alliancesony
+
+dual layer disc differs usual dvd counterpart employingsecond physical layer within disc drive dual
+layer capability access second layer could shinelaser first semitransparent layerthis something
+normal dvd recordable disc layer change
+mechanism dvd player show noticeable pause longtwo second account viewer worrieddual layer disc damaged defective
+
+dvd recordable disc supporting technology backward compatible
+existing dvd player dvdrom drive many current dvd
+recorder support duallayer technology price pointcomparable singlelayer drive though blank media
+remains significantly expensive
+
+dvdvideo
+
+dvdvideo standard storing video content dvd mediumdvdvideo become dominant form consumer video formats
+united state europe australia
+
+though many resolution format supported consumer
+dvdvideo disk utilize eitheroraspect ratio mpeg video
+stored resolution xntsc xpal audiocommonly stored using dolby digital andor digital theatre
+system dts format ranging monaural tochannelsurround
+sound presentation dvdvideo also support feature like selectable
+subtitle multiple camera angle multiple audio tracks
+
+dvdaudio
+
+dvdaudio format delivering highfidelity audio contentdvd offer many channel configuration option mono 
+surround sound various sampling frequency sample rates
+compared format much higher capacity dvd format
+enables inclusion either considerably music respect
+total running time quantity song far higher audio
+quality reflected higher linear sampling rate higher vertical
+bitrates andor additional channel spatial sound reproduction
+
+despite dvdaudios superior technical specification debate
+whether resulting audio enhancementdistinguishable typical human ear dvdaudio currently formniche market probably due dependency upon new relatively
+expensive equipment
+
+security
+
+dvdaudio disc employ robust copy prevention mechanism called
+content protection prerecorded medium cppm developed group ibm intel matsushita toshiba
+
+cppm circumvented capturing decoded audio streampcm format underlying protection mechanism encryption
+algorithm key yet cracked
+
+player recorders
+
+modern dvd recorder often support additional format including
+dvdrrw cdrrw wma svcd jpeg png svg kar mpeg 
+divx xvid also include usb port flash memory reader many
+player priced underand recorder
+dvd drive computer usually come one two kind regional
+playback control rpc either rpc rpc used enforce
+publisher restriction region world dvdplayed see regional lockout
+
+competitor successors
+
+several possible successor dvd developeddifferent consortium sonypanasonics bluray disc toshibas dvd maxells holographic versatile disc hvd
+
+first generation holographic medium withgb storage
+capacity ambit transfer rate scheduled releaselateby maxell partner inphase
+
+novemberthe chinese news agency xinhua reported final
+standard chinese governmentsponsored enhanced versatile disc
+evd several patent however since formatgenerally failed live expectations
+
+novemberthe dvd forum decided vote eight six
+hd dvd official hdtv successor dvdeffect competing bluray disc association bda determination
+format would succeed dvd especially since voters
+belonged groups
+
+aprilin coop project toppan printing coelectronics giant sony corp successfully developed paper discstorage medium made ofpaper offer togbstorage five time standardgb dvd disc
+easily cut scissors recycled offering foolproof data
+security environmentfriendly storage media
+
+reported midissue popular mechanic yet
+clear technology win format war dvd dvd discs
+lower capacity bluray discsgb vsgb single
+layergb vsgb dual layer bluray requires changemanufacturing machinery technique thus expensive
+
+aprilsonic solution ravisent announced hdvd hdtv
+extension dvd presaged format debutedyears
+later
+
+situationmultiple new format fighting successorformat approaching purported obsolescencepreviously appeared 
+war speed record industry alsocourse similar vhsbetamax war consumer video recorderlate
+possible neither bluray dvd nextgeneration
+optical recording product succeed storage capacity hard
+disk drive solidstate memory grown fasteroptical disc since introduction yearstorage capacityhdds grew factor aboutfrommb togbcapacity bluray onlytimes larger threemuch capable storing general consumer content photos
+music video past hard disk driveterabyte storage capacity market beforea
+terabyte equivalent aboutcdromsdvds 
+duallayer however hard disk drive memory cardmoment hundred time expensive optical disc ucompared tothe price per gigabyte hard disk drive
+gb growing closer dvdrom 
+gb bdromgb recordable dvd 
+gb recordable dvdgb lower
+cost bdregb direct access large
+amount information much convenient hard disk drive
+broadband becomes fast enoughmbits higher widely
+available physical medium become important distribution
+format
+
+one last possibility dvd replaced term home
+theatre format currently developed people may keenupgrade dvd collection relatively soon dvd may remainformat choice many year may lead creationbetter technology replace
+new generation optical format restricted access
+anticopy mechanism therefore possible consumer may
+ignore

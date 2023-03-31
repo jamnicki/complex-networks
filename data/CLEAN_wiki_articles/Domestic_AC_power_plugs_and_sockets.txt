@@ -1,0 +1,641 @@
+copyright
+
+domestic power plug sockets
+
+ school wikipedia selection related subject engineering
+
+ceeplug socket
+enlarge
+ceeplug socket
+
+article cover plug socket intended common
+domestic use plug socket used industrial
+application two current carrying conductors
+see industrialmultiphase power plugssockets less
+common plug socket see unusual obsolete plugsockets
+
+domestic power plug socket device connect home
+appliance portable light fixture commonly used homecommercial power supply electric power flow
+power plug male electrical connector fit female
+electrical socket contact pin bladeconnect mechanically electrically hole slot socket
+plug usually live hot contact neutral contactoptional earth ground contact many plug make distinction
+live neutral contact case two
+live contact contact may brass tin nickel plated
+
+power socket female electrical connector slot holes
+accept pin blade power plug inserteddeliver electricity plug socket usually designedreject plug built electrical standard
+socket one pin connect hole plug
+
+standard wire colour flexible cable
+region live neutral protective earth
+eu australiasouth africaiecbrown blue greenyellow
+uk irelandaustralia beforered black green
+united state canada screw colour black brass white silver
+green green
+standard wire colour fixed cable
+region live neutral protective earth
+euiecincluding frommarchbrown black blue
+greenyellow
+uk beforeaprilaustralia red black greenyellow coreusually bare sleeved terminations
+united state canada screw colour black red brass white
+silver green bare green
+note colour table represent common preferred
+standard colour however others may use especially older
+installations
+
+three contacts
+
+country household power singlephase electric powersingle live conductor brings alternating current house
+neutral return power supply many plug sockets
+include third contact used protective earth groundcarry current case fault connected equipment
+
+live phase
+
+live contact also known phase hot active carries
+alternating current power source equipment voltage
+varies country set national standard installations
+may two live conductor either two phasethreephase system phase split phase systemplugsocket combination designed way pluginserted one possible waythis referred polarized
+plug confused positive negative polarity others
+allow plug inserted live neutral either way round 
+referred unpolarized plug furthermore even live
+neutral connect one way country commonwire without regard hazardousequipment neutral connected directlychassis
+
+neutral
+
+neutral contact return current equipment backpower source distribution panel cases
+referenced earth except fault condition doe pose
+danger voltage neutral contact earth
+close zero nevertheless treated liveinstallation practice develop high voltagefault conditions
+
+main danger posed neutral voltage rise highvoltage live conductor broken neutral cablewiring disconnect neutral leaf live conductor connected
+another possibility live neutral may reversedcrossed improper installation
+
+neutral earth ground closely related usually
+connected point however extra connection neutral
+earth avoided unless relevant jurisdictions
+regulation allow connecting neutral earth one
+point sometimes create dangerous ground loop system
+
+earthground
+
+earth contact known ground american englishintended carry electric current connected equipmentdeveloped insulation fault except emirfi filtercause small current earth earth connection added
+modern plug live wire component device
+touch metal casing anybody touching device may receivedangerous electric shock many country device metal cases
+must case connected earth contact reducesdoe eliminate possibility case developing high
+voltage relative earth grounded metalwork
+grounding adapter allows device ground pinattached ungrounded receptacle united state deviceillegal jurisdictions
+enlarge
+grounding adapter allows device ground pinattached ungrounded receptacle united state deviceillegal jurisdictions
+
+common misconception purpose earth connection
+take fault current safely earth primary purposeearthing system cause fuse blow breakerresidualcurrent device rcd trip automatically disconnectpower supply device cable develops wiring faultsecondary purpose hold touchable metal housevoltage prevent electrical shock touching two metal objecttime
+
+two main approach problem disconnect power
+live wire come contact metalwork attachedearthing system one way get resistance fault
+path back supply low metallic connection
+earth back supply transformer systemfault happens high current flow rapidly blowing fuse
+tripping mcb
+
+direct connection used system resistance
+fault path back supply almost invariably far higher
+result fault current generally low reliably blow
+fuse trip mcbs therefore rcd must normally useddisconnect fault
+
+neutral core could theory used ground woulddangerous core broke normally used building
+wiring portable appliance however usedsituation special precaution instance switzerland
+socket house old two wire installation ground
+neutral contact connected together probably supposingprofessionally maintained house installation much reliablepluggedin device also using neutral ground prevents use
+rcds
+
+difference terminology
+
+significant difference american english british
+english talking power plug sockets
+british american meaning
+main power line power house electrical current
+earth connection ground connection safety connection earthground
+flex cord flexible electric cable plug appliance
+socket power point outlet receptacle female part electrical
+connection
+pin prong male part electrical connector
+
+united state live contact may called live hotneutral contact may called cold neutral grounded conductornational electrical code identified conductor earth
+contact called ground grounding conductor
+
+united kingdom word line occasionally used denote
+live terminal wire terminology derivesline voltage relative neutral ground distinctphase voltage line different phase supply
+
+live conductor called phase single
+phase use pin also known prong contact terminals
+
+australia live contact called active
+
+history plug sockets
+
+light fitting plug toaster
+enlarge
+light fitting plug toaster
+
+electricity first introduced householdprimarily used lighting time many electricity companies
+operated splittariff system cost electricitylighting lower purpose led lowpower
+appliance vacuum cleaner hair drier connectedlight fitting picture right show aelectric
+toaster light bulb socket plug
+u patentthe first electric power plug receptacle
+enlarge
+u patentthe first electric power plug receptacle
+
+however electricity became common method heating houseoperating laboursaving appliance mean connectionelectric system using light socket neededoriginal two prong electrical plug socket invented harvey
+hubbell patented 
+
+three prong plug invented inby philip labrewa going school milwaukee school engineering msoesaid landlady cat would knock fancame window plugged fan back would get
+electric shock philip figured plug grounded
+electricity would earth plug ratherlandlady applied issued patent grounding
+receptacle plug juneas need safer
+installation became apparent earthed threecontact system made
+mandatory industrial countries
+
+proliferation standards
+
+reason dozen different style plugs
+wall outlet european country adopted electricity nationalistic reason developed unique
+national plug design instead agreeing european standard plug
+contrast thedifferent country adopted american
+v standard electricity also adopted type plugs
+country elsewhere world colony european
+nation usually adopted standard colonial governments
+time electricity introduced many countrysingle national standard multiple voltage frequencyplug design use creating extra complexity potential safety
+problem users
+
+however recent year country settled one facto standard although legacy installation obsolete
+wiring country world building wiringha use almost century predates modern
+standards
+iec power cord ceeplug left end
+enlarge
+iec power cord ceeplug left end
+
+minimize difficulty designing different national
+standard many manufacturer electrical device like personal
+computer adopted practice putting single worldstandard
+iec connector device supplying country power
+cord equipped standard iec connector one end national
+power plug device designed adaptwide range voltage frequency standards
+
+world map plugsocket voltagefrequency
+
+two basic standard voltage frequency world
+one north american standard ofvolts athzus plug european standard 
+volt athz plug difference arosehistorical reasons
+
+united state thomas edison inventor first
+practical electric light bulb insisted usingvolts direct
+current rather alternating current electric
+system new york city however george westinghouse builtfirst large hydroelectric plant niagara fall decided use instead could stepped stepped voltage
+using transformer electrical genius nicola tesla advisedv athz optimum authority would let usethanv distribution eventually edison switched hisv system well sov athz became american
+electrical standard despite fact required conductor twicelarge carry amount power asv
+
+europe german company aeg built first generating
+facility chosehz fit better metric
+system power tenunfortunatelyhz less
+efficient thanhz generator areless efficienttransformer must bebigger step voltagehowever aeg virtual monopoly europe standard spread
+rest continent eventually britain originally
+europe electrified atv like north america world
+war regulator decided increase tov reduceamount copper used wiring
+
+american regulator would liked double voltage wellfar household electrical appliance europe
+compromised adopting split phasev system supplying 
+v two live conductor going household single
+neutral small appliance ran onv big one onv wacomplicated saved copper backwardcompatible existing
+appliance original plug could used system well
+
+country continent adopted one two voltage
+standard although country use variation mixturestandard outline map show different plug types
+voltage frequency used around world colourcoded easy
+reference
+
+see also list country main power plug voltagefrequency specific places
+voltagefrequency click larger version
+enlarge
+voltagefrequency click larger version
+plug click larger version
+enlarge
+plug click larger version
+
+type plug sockets
+
+electrical plug socket differ country shape size
+type connector type used country setnational standard legislation article type designated
+letter plus short comment parenthesis giving countryorigin number contact subsection detail subtypestype used different part world
+
+note iec class refers earthed equipment iec class refers
+unearthed equipment protected double insulation see appliance
+classes
+
+type north americanjapanese pin
+
+nemanorth americana ungrounded
+
+standardized national electrical manufacturer association
+adopted byother country simple plug two flat
+parallel pin blade used north americawest coast south america device requiring ground
+connection lamp doubleinsulated small appliance nema
+socket prohibited new construction united
+state canada sincebut remain many older homestill sold replacement use type plug stillcommon compatible type sockets
+
+early design could inserted either way modern one preventneutral pin inserted live socket making wider
+live one referred polarized plug notepositivenegative polarization direct current
+system new polarized plug fit old type socketold new type plug fit new type type socket device distinguish neutral live
+sealed electronic power supply still sold pins
+narrow attaching new polarized plug cord usefulremember common type twoconductor cord lowpower
+use north america smooth insulation hot side ribbed
+insulation neutral side
+
+jisclass japanesea ungrounded
+
+japanese plug socket identical nemahoweverjapanese system incorporates stricter dimensional requirementplug housing different marking requirement mandatory testingapproval miti jis
+
+japanese outlet nonpolarizedthe slot socketsizeand accept nonpolarized plug japanese
+plug able fit north american outlet without
+trouble north american appliance polarized plug may require
+adapter replacement nonpolarized plug connect japanese
+outlets
+
+japanese standard wire size resulting current ratingsomewhat different used elsewhere world japanese
+voltage onlyvoltslower american voltageandfrequency eastern japan onlyhertz instead ofso evennorth american plug inserted japanese socket doealways mean device work properly
+
+type american pin
+
+american grounded earthed plug note receptacle also
+accept ungrounded two prong plug whether polarized unpolarized
+enlarge
+american grounded earthed plug note receptacle also
+accept ungrounded two prong plug whether polarized unpolarized
+
+nemanorth americana grounded
+
+type plug two flat parallel blade like type haround ground earthing pin american standard nema canadian
+standard csan rated foramps atvoltsground pin longer live neutral blade devicegrounded power connected neutral blade type socket wider live one prevent type pluginserted upsidedown type plug often pin narrow
+since ground pin enforces polarity
+
+thesocket standard north america canada united
+state mexico also used central america caribbean
+west coast south america japan part korea taiwan
+pin orientation type nemasocket
+pin orientation type nemasocket
+
+type plug look directly socket ground
+socket bottom neutral slot left live slot
+right may also installed ground top
+either side socket going clockwise always ground
+neutral live plug connection going
+counterclockwise plug polarized widest pinneutral connector
+
+due low power available socket number
+nema connector higher current andv supply also
+commonly encountered north american homes
+
+jisclass japanesea grounded
+
+japan also type plug similar north american one
+however common type equivalent
+
+type european pin
+
+ceeeuropluga unearthed
+
+ceeplug socket
+enlarge
+ceeplug socket
+
+twopin plug probably single widely used international
+plug popularly known europlug plug unearthedtwo roundmm pin usually converge slightlyinserted socket acceptsmm round contact spacedmm
+apart described ceeand also defined italian
+standard ceiand russian standard gost 
+
+europlug used class application throughout continental
+europe germany austria switzerland italy greece netherlands
+belgium france spain portugal denmark norway sweden finland
+poland czech republic slovakia hungary romania bulgariaalso used turkey middle east africa south
+america brazil well former soviet republic many
+developing nations
+
+plug intended use device requirea less
+inserted either direction socket live
+neutral connected random
+ceeplug
+enlarge
+ceeplug
+
+ceegermanfrencha unearthed
+
+plug also two round pin pin aremm diameter
+like type f plug round plastic rubber basestop inserted small socket intended europlug
+instead fit large round socket intended type ef base hole accommodate side contactsocket earth pin used large class appliance often used
+south korea also defined italian standard cei 
+bssocket
+enlarge
+bssocket
+
+bsuk shaver
+
+united kingdom ireland special versiontype plug use shaver electric razor bath shower
+room hasmm diameter pinsmm apart socketplug often take ceeus andor australian plug well
+socket often able supply eitherv orv wet zones
+must contain isolation transformer compliant 
+unearthed socket compatible schuko french plugs
+enlarge
+unearthed socket compatible schuko french plugs
+
+variation sockets
+
+type socket takemm pin plastic barrierplace prevent schuko french plug entering however many
+takemm pin enough room amm pin round schuko
+french plug inserted
+
+type old british pin
+
+bsindiana earthed
+
+
+india standardised plug originally definedbritish standard bsit three large round pin triangular
+pattern bsstandard also used part africa ghana
+kenya nigeria middle east kuwait qatar part asiafar east electrified british type also
+previously used south africa phased favourthea version thisa plug along itsa cousinsometimes used centrally switched domestic lighting
+circuit order distinguish normal power circuits
+
+bssouth africana earthed
+
+
+plug sometimes referred type fact merely
+thea version plug though pin much largermmmm live neutral spacedmm apart earth
+ismm away although thea version standard
+india sri lanka nepal namibia thea version also used
+country larger appliance country like south
+africa use main domestic plug socket type sockets
+almost always onoff switch built typealmost universally used indoor dimmable theatrearchitectural lighting installation also often usednondimmed centrally controlled socket within installations
+main reason fused plug convenient
+domestic wiring allowa socket circuit used
+safely convenient plug socket hardaccess location like lighting bar using chain extension
+lead since hard figure fuse blownsituation common theatre wiring plug also widely
+used israel air conditioners
+
+type french pin female earth
+
+french socket
+
+french plug
+
+french type 
+france belgium poland czech republic slovakiacountry standardised socket compatibleceesocket type standard germanycontinental european country reason incompatibilityearthing socket accomplished round male pin
+permanently mounted socket socket installed earth
+pin upwards wired left live right neutral plug
+round two round pin measuringmm spacedmm
+apart hole socket earth pin accept europlug
+ceeplugs
+
+german plug plug fit typesocket either easily force however earth
+connection socket also case plug forced
+socket may damaged plug removed
+
+type german pin side clip earth
+
+ceegerman schukoa earthed
+
+type plug defined ceeand commonly called aschuko
+plug like type except two earthing clipside plug instead female earth contact schuko
+connection system symmetrical allows live neutralreversed socket also accepts europlugs ceeplugssupply toamperes equipment must either wired
+permanently main connected via another higher power
+connector iecsystem
+
+schuko abbreviation german word schutzkontaktmean protective earthed contact
+
+gostrussiana earthed
+
+country use standard plug socket similarschuko standard defined russian standard gostthe contacts
+alsomm apart diameter pin ismm insteadmm possible insert russian plug schuko outletrussian socket accept type f plug holesmall socket also accepts europlugs doe accept
+ceeplugs use larger pin size
+
+many official standard eastern europe virtually identicalschuko standard one protocol governing reunification
+germany required din vde standard would prevail
+without exception former east germany conformschuko standard eastern european country use schuko
+standard internally prior collapse exported large
+volume appliance soviet union soviet standard plug
+installed many russian plug found way
+eastern european countries
+
+type f hybrid
+
+ceefrenchgermana earthed
+
+ceeplug
+enlarge
+ceeplug
+
+order bridge difference socket f cee 
+plug developed earthing clip side connectceesocket female contact accept earthing pintype socket nowadays appliance sold type plug attached plug ceeand nonrewirable means
+plug identical country like francegermany socket different
+
+type f plug compatible type socket
+found cheap replacement plug attached cord
+originally another plug betterquality replacementstandard ceeand compatible schuko french
+standard sockets
+
+note ceeplug polarized prevent live neutral
+connection reversed used type outletallows polarity reversal inserted type socket plug
+rated ata equipment must either wired
+permanently main connected via another higher power
+connector iecsystem
+
+type british pin
+
+bsbritisha earthed fused
+
+b 
+enlarge
+b 
+
+bsplug commonly known amp plug large plug
+ha three rectangular prong forming triangle live neutral
+aremm spacedmm apartmm insulation base
+pin prevents people touching bare connectorplug partly inserted earth ismm
+
+plug unusual fuse inside protectionaddition circuit breaker distribution panel fuserequired protect flex british wiring standard allowhighcurrent circuit socket accepted practice choosesmallest standard fuseaa allowappliance function using fuse appliance thin flex
+considered bad practice
+
+earth pin required open shutter live neutral
+pin socket prevent child inserting metal objects
+also prevents use plug made standards
+plug class appliance require earth pin
+often plastic possible open shutterscrewdriver insert plug type avoidedplug fuse
+
+bswas published inand since time gradually
+replaced earlier standard type dbsdespite capable
+carrying maximum load ofa considered safe
+system
+
+type israeli pin
+
+two israeli plug one socket left plug old standard
+one right revision
+enlarge
+two israeli plug one socket left plug old standard
+one right revision
+
+siisraelia earthed
+
+plug defined siisar unique israelincompatible socket three flat pin formyshape live neutral spacedmm apart type plug
+rated ata practice inadequate flat pin causeoverheat connecting large appliance inthe siwas
+revised use three roundmm pin location older
+standard socket manufactured accept flat round pins
+order compatible old new plug also allows
+type socket accommodate type plug used israel
+non grounded appliance older socketflat round hole live neutral order accept
+type plug ofpure type socket forflat pinaccept type plug rare israel
+
+plug also used area controlled palestinian
+national authority west bank gaza strip
+
+type australianchinese pin
+
+australian switchedpin dual power point socket
+
+asaustraliana 
+plug used australia new zealand papua new guinea haearthing pin two flat pin forming upside vshapeunearthed version plug well earthing pinflat blade measuremm setto verticalnominal pitch ofmm australian wall socket almost alwaysswitch extra safety 
+several asnzsplug variant including one wider
+earth pin used device drawing toa socket supporting
+pin also accepta plug additionally exists variant three pin oversized andanda variants
+thea larger pin earthing pin forming inverted thea horizontal thea note 
+variantsampere socket accommodateplug equal lesser current carring capacityhigher value aa plug accommodated socketaa plug accommodated aanda outlet
+
+australia standard plugsocket system originally codifiedstandard floated provisionally inand adopted formal
+standard inwhich superseded asinas 
+latest major update asnzswhich mandated insulated
+pin byhowever equipment cord made beforecan still
+used
+
+cpcsccc chinesea 
+although chinese plug slightly different pin aremm
+longer australian plug inserted socket usedmainland china standard chinese plug socket setgband gbas part china commitmententry wto new cpcs compulsory product certification
+system introduced compliant chinese plugawarded ccc china compulsory certification mark system
+plug three wire grounded rated atav usedclassapplications
+
+china socket installed upside relativeaustralian one shown picture however position live
+neutral contact reversed australian plug
+device conforming current standard serious
+neutral generally treated live appliance design
+however older noncomplying equipment differencedangerous
+
+china also americanjapanese type socket plugclassii appliance however voltage across pin chinese
+socket always beno matter plug type
+
+iramargentiniana 
+argentinian plug threewire earthed plug rated atav
+defined iram used classapplications argentinauruguay
+
+plug similar appearance australian chinese plugs
+pin length wiring chinese
+version important difference australian plugargentinian plug wired live neutral contacts
+reversed australian plug
+
+type swiss pin
+
+
+sevswissa 
+switzerland standard described sev 
+ase swar plug similar type europlug
+ceeexcept earth pin one side swiss
+socket take swiss plug europlugs ceethis connector
+system rated toamperes also common
+variant withsquare pin rated forum abovea equipment must
+either wired permanently electrical supply systemappropriate branch circuit protection connected mainappropriate high power industrial connector
+
+switzerland also twopin plug pin shape sizespacing sev live neutral pinflattened hexagonal form fit swiss socket roundhexagonal ceesockets rated toa
+
+iecbraziliana 
+inthe international electrotechnical commission published iec
+specification plug look similaridentical swiss plug plug intended become one day
+common standard europe region withv
+main effort adopt european union standard put
+hold mid brazilwhich mix europlug
+argentine nema plugslater adopted national standard
+nbrinand plug permitted sold
+domestic appliance brazil 
+
+type danish pin
+
+enlarge
+
+afsnit danisha 
+danish standard plug described sectionsrafdbdnar plug similar type schuko
+plug except earthing pin instead earthing clipdanish socket also accept type ceeeuroplug type ceeschukofrench hybrid plug type ceeschuko type ceeschukofrench hybrid earthed type french plugalso fit socket used earth contact
+connect variation plug intended usesurge protected computer circuit introduced current
+rating plug isa
+
+adapter plug exist allow connection ceeprongsnoncomputer outlet usually sold local
+supermarket visitor wishing safe contactelectrician
+
+since early grounded outlet required new
+electric installation denmark
+vii socket
+enlarge
+vii socket
+vii rewirable
+enlarge
+vii rewirable
+italian power strip showing type hybrid socket
+enlarge
+italian power strip showing type hybrid socket
+
+type italian pin
+
+italian earthed plugsocket standard cei vii includes two
+model rated ata anda differ contact diameterspacing symmetrical allowing live neutral contacts
+inserted either direction ceetype unearthed
+europlugs also common use standardized italyceiappliances ceeschukofrench plug often solditaly every socket accept adapter commonly
+used connect ceeplugs cei vii sockets
+
+cei vii italiana 
+theampere style extends ceeby adding central earthing pin
+thus cei viia socket accept ceeeuroplugsplug shown illustration outside italy plugfound libya ethiopia chile various country north africaoccasionally old building spain
+
+cei vii italiana 
+theampere style look like bigger version thea stylepin couple millimetre apart threeslightly thicker packaging plug italy may claimnorth european type also referred industriale
+industrial although correct definition
+
+variation sockets
+
+two type socket common use modern installationitaly one type central round hole two shaped holedesign allows connection style type plug cei viia anda type ceeeuroplug
+advantage socket type small footprint
+
+type look like type socket add central grounding
+hole design accepts ceetype plug addition type
+c type plug disadvantage twice large
+normal type socket socket also extra holes
+accept type plugs
+
+older installation often socket limited eitherthea style plug requiring use adapterstyle need connected
+
+type see
+bssouth africana 
+type sometimes used describe thea version old
+british type used south africa elsewhere see typedetails
+standard grounded thai outlet supporting commonpin plugalso earthed american plugs
+enlarge
+standard grounded thai outlet supporting commonpin plugalso earthed american plugs
+
+multi standard sockets
+
+socket take variety incompatible plug type often seen
+developing country electrical standard either lacking
+unenforced socket may accept bothv andv plugs
+raising significant risk device damaged wrong
+voltage sometimes one earth hole allowpin
+plug good chance ground contact mayactually connected earth ground contact certainlymate schuko french plug great care takenavoid incompatible voltage grounding connection usingoutlet multistandard device designed autoadapt different
+voltage frequency standard require ground
+contact best used sockets
+
+retrieved 
+httpenwikipediaorgwikidomesticacpowerplugsandsockets
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

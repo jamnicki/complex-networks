@@ -1,0 +1,243 @@
+copyright
+
+moore law
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+growth transistor count intel processor dot moore law
+upper line month lower line months
+enlarge
+growth transistor count intel processor dot moore law
+upper line month lower line months
+
+moore law empirical observation made inthat number
+transistor integrated circuit minimum component cost
+double everymonths attributed gordon moore
+cofounder intel
+
+earliest forms
+
+term moore law coined carver mead around
+moore original statement found publication cramming
+component onto integrated circuit electronics magazine 
+april
+
+
+moore law
+
+complexity minimum component cost increased rateroughly factor two per yearcertainly short termrate expected continue increase longer
+term rate increase bit uncertain althoughreason believe remain nearly constant least 
+year mean bythe number component per integrated
+circuit minimum cost bei believe large
+circuit built single wafer
+
+
+moore law
+
+assumption chip complexity proportionalnumber transistor regardless law largely
+held test time date however one could arguepertransistor complexity large ram cache arrayexecution unit perspective validity one formulation
+moore law may questionable
+
+gordon moore observation named law moorecaltech professor vlsi pioneer entrepreneur carver mead
+
+moore may heard douglas engelbart inventor todays
+mechanical computer mouse discus projected downscalingintegrated circuit size alecture inmoore projecteddoubling every two year adamant never said
+everymonths quoted sematech
+roadmap follows amonth cycle
+
+aprilintel offeredto purchase copy original
+electronics magazine
+
+understanding moore law
+
+moore law density transistorachieved density transistor cost per
+transistor lowestas transistor made chipcost make transistor reduces chance chipwork due defect rise rising cost discarded non
+working chip balanced reducing cost per transistorlarger chip moore observed inthere numbertransistor complexity minimum cost achievedobserved transistor made smaller advances
+photolithography number would increase rate roughlyfactor two per year 
+
+formulation moore law
+
+pc hard disk capacity plot logarithmic fit line
+corresponds exponential growth
+enlarge
+pc hard disk capacity plot logarithmic fit line
+corresponds exponential growth
+
+popular formulation doubling numbertransistor integrated circuit rough measure computer
+processing power everymonths end moore law
+became known limit number transistorcomplex chip however also common cite moore law refer
+rapidly continuing advance computing power per unit cost
+
+similar law held hard disk storage cost per unitinformation rate progression disk storage past
+decade actually sped correspondingutilization error correcting code magnetoresistive effectgiant magnetoresistive effect current rate increase hard
+drive capacity roughly similar rate increase transistor
+count however recent trend show rate droppingmet last three year see hard disk capacity
+
+another version state ram storage capacity increaserate processing power
+
+industry driver
+
+although moore law initially made form observation
+forecast widely became accepted servedgoal entire industry drove marketingengineering department semiconductor manufacturer focus
+enormous energy aiming specified increase processing power
+wa presumed one competitor would soon
+actually attain regard viewed selffulfilling
+prophecy
+
+implication moore law computer component suppliersignificant typical major design project allnew
+cpu hard drive take two five year reach
+productionready status consequence component manufacturer face
+enormous timescale pressuresjust week delay major
+project spell difference great success massive
+loss even bankruptcy expressed doubling everymonths
+moore law suggests phenomenal progress technology recent
+year expressed shorter timescale however moore law equates
+average performance improvement industry wholeoverper week manufacturer competing competitive cpu
+market new product expected take three year develop
+two three month late istoslower bulkierlower storage capacity directly competing productusually unsellable
+
+future trends
+
+qcurrent processor fabricated thenm level
+andnm chip introduced intelpentium dintel
+core decade ago chip built anm level companyworking using nanotechnology solve complex engineering
+problem involved producing chip thenmnm even
+smaller levelsa process postpone industry meetinglimit moore law
+
+recent computer industry technology roadmaps predict 
+moore law continue several chip generation depending
+doubling time used calculation could meanfold increase transistor count chip decadesemiconductor industry technology roadmap threeyear doubling
+time microprocessor leading ninefold increasedecade
+
+earlyibm researcher announced developedtechnique print circuitry onlynm wide using deepultraviolet
+duv nanometer optical lithography ibm claimtechnique may allow chipmakers use current method seven years
+continuing achieve result predicted moore law new
+method achieve smaller circuit predictedsubstantially expensive
+
+since rapid exponential improvement could theory putghz
+personal computer every home andghz device every pocket
+commentator speculated sooner later computermeet exceed conceivable need computation true
+problemsthere others exponential increaseprocessing power matched exceeded exponential increasecomplexity problem size increase see computational complexity
+theory complexity class np somewhat theoretical
+discussion problem occur commonly applications
+scheduling
+
+exponential increase frequency operation method
+increasing computation speed misleading matterexponential increase useful work instruction executed per unit
+time fact newer processor actually made lower clock
+speed focus larger cache multiple computing corereason higher clock speed correspond exponential
+increase temperature becomes almost impossibleproduce cpu run reliably speed higher thanghz
+extrapolation partly based moore law led futuristvernor vinge bruce sterling ray kurzweil speculatetechnological singularity however aprilgordon moore
+stated interview law may hold long
+since transistor may reach limit miniaturization atomic
+levels
+
+
+moore law
+
+term size transistor see approachingsize atom fundamental barrier itll two three
+generation get farbut thats far weve ever
+able see anothertoyears reachfundamental limit theyll able make bigger chiptransistor budget billions
+
+
+moore law
+
+time horizon moore law scaling possiblecome without underlying engineering challenge one major
+challenge integrated circuit use nanoscale transistorincrease parameter variation leakage current resultvariation leakage design margin available predictive
+design becoming harder additionally system dissipate
+considerable power even switching adaptive statistical
+design along leakage power reduction critical sustain
+scaling cmos good treatment topic covered leakage
+nanometer cmos technology scaling challenge include
+ability control parasitic resistance capacitancetransistors
+ability reduce resistance capacitance electrical
+interconnects
+ability maintain proper transistor electrostatics allow
+gate terminal control onoff behaviour
+increasing effect line edge roughness
+dopant fluctuations
+system level power delivery
+thermal design effectively handle dissipation delivered
+powersolve challenge everreducing cost manufacturing
+overall system
+
+kurzweil expansion moore law show due paradigm shiftunderlying trend hold true integrated circuit earlier
+transistor vacuum tube relay electromechanical computers
+enlarge
+kurzweil expansion moore law show due paradigm shiftunderlying trend hold true integrated circuit earlier
+transistor vacuum tube relay electromechanical computers
+
+kurzweil project continuation moore law untilwill
+result transistor feature atom width althoughmean strategy ever finer photolithography run
+course speculates doe mean end moores
+law
+
+
+moore law
+
+moore law integrated circuit first fifth
+paradigm provide accelerating priceperformance computing devices
+consistently multiplying power per unit timemechanical calculating device used theus census turings
+relaybased robinson machine cracked nazi enigma codecbs vacuum tube computer predicted election eisenhower
+transistorbased machine used first space launchintegratedcircuitbased personal computers
+
+
+moore law
+
+thus kurzweil conjecture likely new typetechnology replace current integratedcircuit technologymoore law hold true long afterhe beliefexponential growth moore law continue beyond useintegrated circuit technology leadtechnological singularity law accelerating return describedray kurzweil many way altered public perceptionmoore law common mistaken belief moore law
+make prediction regarding form technology actually
+concern semiconductor circuit many futurist still use term
+moore law describe idea like put forth kurzweil
+
+krauss starkman announced ultimate limit aroundyearspaper universal limit computation based rigorous
+estimation total informationprocessing capacity systemuniverse
+
+law often met obstacle appeared
+insurmountable soon surmounting sense moore
+say see law beautiful realised
+moore law violation murphy law everything get betterbetter
+
+considerations
+
+aspect computing technology develop capacity speed
+according moore law random access memory ram speed hard
+drive seek time improve best percentage point year
+since capacity ram hard drive increasing much faster
+access speed intelligent use capacity becomes
+important make sense many case trade
+space time precomputing index storingway facilitate rapid access cost using diskmemory space space getting cheaper relative time
+
+another sometimes misunderstood point exponentially improved
+hardware doe necessarily imply exponentially improved softwarego productivity software developer assuredlyincrease exponentially improvement hardwaremeasure increased slowly fitfully decades
+software tends get larger complicated timewirths law even state software get slower faster hardware
+get faster
+
+moreover popular misconception clock speedprocessor determines speed also known megahertz mythactually also depends number instruction per tickexecuted well complexity instruction see mips
+risc cisc clock speed used comparison
+two identical circuit course factor must taken
+consideration bus size speed peripherals
+therefore popular evaluation computer speed inherently
+biased without understanding underlying technologyespecially true pentium era popular manufacturers
+played public perception speed focusing advertisingclock rate new products
+
+also important note transistor density multicore cpus
+doe necessarily reflect similar increase practical computing
+power due unparallelized nature applications
+
+cost consumer computer power fall costproducer achieve moore law opposite trend manufacturing test cost increased steadily new
+generation chip cost semiconductor equipment expected
+continue increasing manufacturer must sell larger larger
+quantity chip remain profitable cost tapeout chip
+nm roughlyusd cost tapeout chip exceedsusd cost expected exceed usdnm recent year analyst observed decline number
+design start advanced process nodeobservation made period theeconomic
+downturn decline may evidence traditional manufacturerlongterm global market cannot economically sustain moore law
+however intel reported inas stating downsizingsilicon chip good economics continue next decade
+intels prediction increasing use material silicon
+wa verified mid intent using trigate
+transistor aroundresearchers ibm georgia tech created
+new speed record ran silicongermanium helium supercooled
+chip atgigahertz ghz chip operated aboveghz atk
+f simulation showed could likely run atthz
+ghz though noted extremely
+simple device practical desktop cpu running speedextremely unlikely using contemporary silicon chip technique 
+

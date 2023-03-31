@@ -1,0 +1,76 @@
+copyright
+
+volt
+
+ school wikipedia selection related subject electricityelectronics
+
+josephson junction array chip developed nist standard volt
+josephson junction array chip developed nist standard volt
+
+volt symbol si derived unit electric potential
+difference electromotive forceit named honouritalian physicist alessandro voltawho inventedvoltaic pile first modern chemical battery
+
+definition
+
+volt defined potential difference across conductorcurrent one ampere dissipates one watt power hencebase representation mkgsa equally
+represented one joule energy per coulomb charge 
+mboxvdfracmboxwmboxa 
+dfracmboxjmboxcdfracmboxm cdot
+mboxkgmboxs cdot mboxa
+
+josephson junction definition
+
+sincethe volt maintained internationally practical
+measurement using josephson effect conventional valueused josephson constant fixed general conference
+weight measure
+kjghzv
+
+hydraulic analogy
+
+hydraulic analogy sometimes used explain electric circuitcomparing waterfilled pipe voltage likened water
+pressureit determines fast electron travelcircuit current ampere analogy measurevolume water flow past given point ratedetermined voltage total output measured wattequation brings three component together voltsamperes
+watts
+
+common voltages
+
+multimeter used measure voltage two points
+multimeter used measure voltage two points
+v ccell batteries
+v ccell batteries
+
+nominal voltage familiar sources
+nerve cell action potential aroundmv
+singlecell rechargeable nimh nicd batteryv
+mercury batteryv
+singlecell nonrechargeable alkaline battery aaa ccellsv
+lithium polymer rechargeable batteryv
+transistortransistor logic ttl power supplyv
+pp batteryv
+automobile electrical systemv aboutv discharged 
+v charged andv charging vehicle running
+household main electricityv rms australiav rmseurope asia africav rms north americav rmsjapan see list country main power plug voltagefrequencies
+rapid transit third railtov see list current systems
+electric rail traction
+high speed train overhead power lineskv rms athz see
+list current system electric rail traction exceptions
+high voltage electric power transmission lineskv rmskv rms record 
+lightning varies greatly often aroundmv
+
+note rmsroot mean square stated peak voltage
+sqrt time greater rms voltage sinusoidal signal
+
+history volt
+
+inas result professional disagreement galvanic
+response advocated luigi galvani alessandro volta developedsocalled voltaic pile forerunner battery producedsteady electric current volta determined effective
+pair dissimilar metal produce electricity zinc silver
+international electrical congressinternational electrotechnical commission iec approved voltelectromotive force volt defined potential difference
+across conductor current one ampere dissipates one wattpower
+
+prior development josephson junction voltage standard
+volt maintained national laboratory using specially
+constructed battery called standard cell united state useddesign called weston cell fromto 
+si unit named alessandro volta unit whose
+name derived proper name person first lettersymbol uppercase si unit spelledalways written lowercase volt unless beginsentence name degree celsius
+based international system unit section 
+

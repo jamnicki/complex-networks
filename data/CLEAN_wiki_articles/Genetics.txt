@@ -1,0 +1,196 @@
+copyright
+
+genetics
+
+ school wikipedia selection related subject general biology
+
+genetics greek gennogive birth sciencegene heredity variation organism word genetics
+wa first suggested describe study inheritancescience variation prominent british scientist william bateson
+personal letter adam sedgwick dated aprilbateson
+first used term genetics publicly third international
+conference genetics london england 
+
+heredity variation form basis genetics human applied
+knowledge genetics prehistory domestication breeding
+plant animal modern research genetics provides important
+tool investigation function particular gene analysis genetic interaction within organism genetic information
+generally carried chromosome representedchemical structure particular dna deoxyribonucleic acid molecules
+
+gene encode information necessary synthesizing aminoacid
+sequence protein turn play large role determining
+final phenotype physical appearance organismdiploid organism dominant allele one chromosome maskexpression recessive gene
+phrase code often used mean gene containsinstruction build particular protein gene
+code protein one gene one protein concept known
+simplistic example single gene may produce multiple
+product depending transcription regulated gene code
+nucleotide sequence mrna trna rrna requiredprotein synthesis
+
+genetics determines much appearance organisms
+including human possibly act environmental differences
+random factor also play part monozygotic identical twinclone resulting early splitting embryodna different personality fingerprints
+geneticallyidentical plant grown colder climate incorporate
+shorter lesssaturated fatty acid avoid stiffness
+
+history
+
+paper versuche ber pflanzenhybriden experiment plant
+hybridization presented brunn natural history
+society gregor mendel traced inheritance pattern certain
+trait pea plant showed could described
+mathematically although feature show patternmendelian inheritance work suggested utilityapplication statistic study inheritance since time
+many complex form inheritance demonstrated
+
+significance mendel work understood earlytwentieth century death research rediscovered
+scientist working similar problems
+
+mendel understand nature inheritance knowheritable information carried dnaretroviruses including
+influenza oncoviruses hiv many plant virus carry
+information rna manipulation dna turn alterinheritance feature various organisms
+
+timeline notable discoveries
+
+charles darwin publishes origin species
+gregor mendel paper experiment plant hybridization
+friedrich miescher discovers weak acid nucleuswhite blood cell today call dna hartl jones
+chromosome discovered hereditary units
+term genetics first introduced publiclybritish biologist william bateson third international
+conference genetics london england
+thomas hunt morgan show gene reside chromosomes
+discovered linked gene chromosome follow
+mendel law independent allele segregation
+alfred sturtevant make first genetic mapchromosome
+gene map show chromosome containing linear arranged genes
+ronald fisher publishes correlationrelative supposition mendelian inheritancethe
+modern synthesis starts
+physical change gene called mutations
+frederick griffith discovers hereditary moleculetransmissible bacteria see griffith experiment
+crossing cause recombination see barbara
+mcclintock cytogenetics
+edward lawrie tatum george well beadle show genes
+code protein see original central dogma genetics
+oswald theodore avery colin mcleod maclyn mccarty
+isolate dna genetic material time called
+transforming principle
+erwin chargaff show four nucleotidepresent nucleic acid stable proportiongeneral rule appear hold nucleotide bases
+adeninethymine cytosineguanine always remain equal
+proportion barbara mcclintock discovers transposon maize
+hersheychase experiment prof genetic information
+phage organism dna
+dna structure resolved double helix jameswatson francis crick help rosalind franklin
+jo hin tjio albert levan established correct
+chromosome number human 
+meselsonstahl experiment demonstrates dnasemiconservatively replicated
+genetic code arranged triplets
+howard temin showed using rna virus watson central
+dogma always true
+restriction enzyme discovered studybacterium haemophilus influenzae enabling scientist cut
+paste dna
+dna sequenced first time fred sanger walter
+gilbert allan maxam working independently sanger lab
+complete entire genome sequence bacteriophage kary bank mullis discovers polymerase chain reaction
+enabling easy amplification dna
+alec jeffreys discovers genetic finger printing
+first human gene sequenced francis collinslapchee tsui encodes cftr protein defect gene
+cause cystic fibrosis
+genome haemophilus influenzae first genomefree living organism sequenced
+saccharomyces cerevisiae first eukaryote genome
+sequence released
+first genome sequence multicellular eukaryote elegans released
+first draft sequence human genome released
+simultaneously human genome project celera genomics
+april successful completion human genome project
+withof genome sequenced aaccuracy
+marcus pembrey olov bygren publish sexspecific
+maleline transgenerational response human proofepigenetics
+
+josh wa
+area genetics
+
+classical genetics
+
+main article classical genetics mendelian inheritance
+
+classical genetics consists technique methodologygenetics predate advent molecular biologydiscovery genetic code tool cloning restriction
+enzyme avenue investigation open geneticist greatly
+broadened classical genetic idea supplantedmechanistic understanding brought molecular discovery many
+remain intact use mendel law patterninheritance still remain useful tool study genetic
+diseases
+
+behavioural genetics
+
+main article behavioural genetics
+
+behavioral genetics study influence varying genetics animal
+behavior behavioral genetics study effect human disorderwell cause behavioural genetics yieldedinteresting question evolution various behavioreven fundamental principle evolution general example
+guppy meerkat seem genetically driven post lookoutwatch predator lookout stand significantly slimmer chance
+survival others mechanism natural
+selection would seem trait would lostgeneration however gene remained leading evolutionary
+philosopherscientists richard dawkins hamiltonpropose explanation including theory kin selectionreciprocal altruism interaction behavior gregarious
+creature partially genetic cause must thereforeapproached evolutionary theory
+
+clinical genetics
+
+physician trained geneticist diagnose treat counsel
+patient genetic disorder syndrome doctortypically trained genetics residency andor fellowship
+
+clinical genetics also study genetic cause clinical
+diseases
+
+molecular genetics
+
+molecular genetics build upon foundation classical geneticsfocus structure function gene molecular level
+molecular genetics employ method classical geneticshybridization molecular biology socalleddifferentiate sub field genetics ecological
+genetics population genetics important area within molecular
+genetics use molecular information determine patterns
+descent therefore correct scientific classificationorganism called molecular systematics study inherited
+feature strictly associated change dna sequencecalled epigenetics
+
+take view life defined molecular termset strategy rna polynucleotides used continueuse perpetuate definition grows workorigin life specifically rna world hypothesis
+
+population quantitative ecological genetics
+
+main article population genetics quantitative genetics
+ecological genetics
+
+population quantitative ecological genetics closely
+related subfields also build upon classical genetics supplemented
+modern molecular genetics chiefly distinguishedcommon theme studying population organism drawn naturediffer somewhat choice aspect organismfocus foundational discipline population geneticsstudy distribution change allele frequency genes
+influence four evolutionary force natural selection
+genetic drift mutation migration theory attempts
+explain phenomenon adaptation speciation
+
+related subfield quantitative genetics buildpopulation genetics aim predict response selection given
+data phenotype relationship individual recent
+development quantitative genetics analysis quantitative
+trait locus trait influence large numbergene known quantitative trait mapping location
+chromosome requires accurate phenotypic pedigree marker
+data large number related individuals
+
+ecological genetics build upon basic principlepopulation genetics explicitly focused ecological
+issue molecular genetics study structure functiongene molecular level ecological genetics focus wild
+population organism attempt collect dataecological aspect individual well molecular markerindividuals
+
+population genetics closely linked method genetic
+epidemiology one method study genedisease association using
+principle mendelian randomization
+
+genomics
+
+recent development rise genomics attemptstudy largescale genetic pattern across genomeprinciple dna given specie field typically depends
+availability whole genome sequence computational toolsequence profiling tool using bioinformatics approach analysislarge set data
+
+closelyrelated fields
+
+science grew union biochemistry geneticswidely known molecular biology term genetics often widely
+conflated notion genetic engineering dnaorganism modified kind practical end research
+genetics aimed understanding explaining effectgene phenotype role gene population see
+population genetics ecological genetics rather genetic
+engineering
+
+journals
+
+genetics
+journal genetics
+annals human genetics
+heredity
+

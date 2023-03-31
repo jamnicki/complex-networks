@@ -1,0 +1,237 @@
+copyright
+
+quantum computer
+
+ school wikipedia selection related subject computing hardwareinfrastructure
+
+bloch sphere representation qubit fundamental
+building block quantum computers
+enlarge
+bloch sphere representation qubit fundamental
+building block quantum computers
+
+quantum computer device computation make direct use
+distinctively quantum mechanical phenomenon superposition
+entanglement perform operation data classicalconventional computer amount data measured bitquantum computer data measured qubits basic principle
+quantum computation quantum property particleused represent structure data quantum mechanisms
+devised built perform operation data
+
+though quantum computing still infancy experimentcarried quantum computational operation executedsmall number qubits research theoreticalpractical area continues frantic pace many national
+government military funding agency support quantum computing
+research develop quantum computer civilian national
+security purpose cryptanalysis see timeline quantum
+computing detail current past progress
+
+widely believed largescale quantum computerbuilt able solve certain problem asymptotically
+faster classical computer quantum computer different
+computer dna computer computer basedtransistor even though may ultimately use kind quantum
+mechanical effect example covalent bond computing
+architecture optical computer may use classical superposition
+electromagnetic wave without specifically quantum
+mechanical resource entanglement sharepotential computational speedup quantum computers
+
+basis quantum computing
+
+unsolved problem physic possible construct practical
+computer performs calculation qubits quantum bits
+
+quantum mechanic state physical systemelectron photon described vector mathematical object
+called hilbert space realisation hilbert space dependsparticular system instance case single particle
+system three dimension state describedcomplexvalued function defined three dimensional space
+called wave function described article quantum
+mechanic function probabilistic interpretationparticular significance quantum statesuperposition basis state time evolution system
+state vector assumed unitary meaning reversible
+
+classical computer memory made bit bit holds
+either one zero device computes manipulating bits
+ie transporting bit memory possibly suitelogic gate back quantum computer maintains vector qubits
+qubit hold one zero superpositionquantum computer operates manipulating qubits ietransporting bit memory possibly suite quantum
+logic gate back
+
+qubits quantum computer implemented using particletwo spin state typically written rangleranglein fact system possessing observable quantityconserved time evolution least
+two discrete sufficiently spaced consecutive eigenvaluesuitable candidate implementing qubit since systemmapped onto effective spin
+
+discussion foundational aspect quantum computing seearticle quantum circuits
+
+bit qubits
+
+consider first classical computer operates abit register
+given time bit register definite state
+asin quantum computer however qubitssuperposition classically allowed state factregister described wavefunction
+
+psi ranglealpharanglebetarangle 
+gammarangleldots
+
+coefficientsare complex number whose amplitudes
+squared probability measure qubits state
+consequentlyis probability measure registerstatethat number complex importantphase number constructively destructively interfere
+one another important feature quantum algorithms
+
+n qubit quantum register recording state register
+requires complex number qubit register requires
+number consequently number classical state encodedquantum register grows exponentially number qubitsn roughlymore state atomknown universe note coefficient independent
+since probability must sum tothe representation alsopractical case nonunique since way physically
+distinguish particular quantum register similar one
+amplitude multiplied phaseasi general number complex unit circle oneshow dimension set state qubit registernsee bloch sphere
+
+initialization execution termination
+
+example content qubit register thoughtdimensional complex vector algorithm quantum computer
+must initialize vector specified form dependentdesign quantum computer step algorithmvector modified multiplying unitary matrix matrixdetermined physic device unitary charactermatrix ensures matrix invertible step reversible
+
+upon termination algorithm dimensional complex vector
+stored register must somehow read qubit register
+quantum measurement however law quantum mechanics
+measurement yield randombit string destroy
+stored state well random string used computing
+value function design probability
+distribution measured output bitstring skewed favourcorrect value function repeated run quantum
+computer measurement output correct valuedetermined high probability majority polling outputs
+see quantum circuit precise formulation brief quantum
+computation probabilistic
+
+quantum algorithm implemented appropriate sequenceunitary operation note given algorithm operations
+always done exactly orderstatement vary order since way read statequbit final measurement however conditional
+gate operation controlled gate cnot
+
+detail sequence operation used various
+algorithm see universal quantum computer shors algorithm grovers
+algorithm deutschjozsa algorithm quantum fourier transform quantum
+gate quantum adiabatic algorithm quantum error correction also
+refer growing field quantum programming
+
+power quantum computers
+
+integer factorization believed computationally infeasibleordinary computer large number product two
+prime number roughly equal size product two digit
+prime comparison quantum computer could solve problem
+relatively easily number n bit digit longwritten binary numeral system quantum computern qubits use shors algorithm find factoralso solve related problem called discrete logarithm problem
+ability would allow quantum computer break manycryptographic system use today sense wouldrelatively fastpolynomial time algorithm solvingproblem particular popular public key cipher couldmuch quickly broken including form rsa elgamaldiffiehellman used protect secure web page encrypted
+email many type data breaking wouldsignificant ramification electronic privacy securityway increase security algorithm like rsa wouldincrease key size hope adversary doeresource build use powerful enough quantum computer seems
+plausible always possible build classical computers
+bit number qubits largest quantum
+computer thats true algorithm like rsa could made secure
+ensuring keylengths exceed storage capacity quantum
+computers
+
+digital signature scheme believed secure
+quantum computer see instance lamport signatures
+
+perhaps surprisingly quantum computer could also usefulrunning simulation quantum mechanic idea backrichard feynmanwho observed known algorithm
+simulating quantum system classical computer suggestedstudy use quantum computer purpose speedup
+achieved quantum computer could large factoring
+could great boon physic chemistry material science
+nanotechnology biology medicine limited todayslow speed quantum mechanical simulation examplemodern simulation taking ibms blue gene supercomputer years
+would take quantum computer matter seconds
+
+dramatic advantage quantum computer currently knownexist three problem factoring discrete logarithmquantum physic simulation however proofadvantage real equally fast classical algorithm may stilldiscovered though consider unlikely oneproblem quantum computer smaller though significant
+quadratic advantage quantum database search solved
+grovers algorithm case advantage provableestablishes beyond doubt ideal quantum computer superiorclassical computer least one problem
+
+consider problem four properties
+way solve guess answer repeatedly check
+n possible answer check
+every possible answer take amount time checkclue answer might better generating
+possibility randomly good checkingspecial order
+
+example password cracker attempt guesspassword encrypted file assuming password hamaximum possible length
+
+problem four property take averagenguesses find answer using classical computertime quantum computer solve proportionalsquare root large speedup reducingproblem year second used attack symmetric
+cipher triple aes attempting guess secret
+key also easy defend doubling sizekey also complicated method secure
+communication using quantum cryptography
+
+regardless whether problem shownadvantage quantum computer nonetheless alwaysadvantage excellent tool studying quantum mechanical
+interaction enormous value scientific
+community
+
+currently practical problem known quantum
+computer give large speedup classical computer researchcontinuing problem may yet found
+
+problem practicality issues
+
+number practical difficulty building quantum
+computer thus far quantum computer solved trivial
+problem david divincenzo ibm listed following requirements
+practical quantum computer
+scalable physically increase number qubits
+qubits initialized arbitrary values
+quantum gate faster decoherence time
+turingcomplete gate set
+qubits read easily
+
+summarize problem perspective engineer one needs
+solve challenge building system isolatedeverything except measurement manipulation mechanism
+furthermore one need able turn couplingqubits measurement decohere qubitsperforming operation
+quantum decoherence
+
+one major problem keeping component computercoherent state slightest interaction external world
+would cause system decohere effect cause unitary
+character specifically invertibility quantum
+computational step violated decoherence time candidate
+system particular transverse relaxation time terminology
+used nmr mri technology also called dephasing time
+typically range nanosecond second low temperatureissue optical approach difficult timescalesorder magnitude lower often cited approach overcomeus optical pulse shaping approach error rate typically
+proportional ratio operating time decoherence time hence
+operation must completed much quicker decoherence time
+error rate small enough possible use quantum error
+correction corrects error due decoherence thereby allowing
+total calculation time longer decoherence timeoften cited rather arbitrary figure required error rategate isthis implies gate must able perform
+tasktimes faster decoherence time system
+
+meeting scalability condition possible wide rangesystem however use error correction brings costgreatly increased number required qubits number requiredfactor integer using shors algorithm still polynomial thought
+l l number bit number
+factored abit number implies need forto
+qubits fabrication control large number qubitsnontrivial proposed designs
+
+one approach stabilitydecoherence problem createtopological quantum computer anyons quasiparticle usedthread relying knot theory form stable logic gates
+
+candidates
+
+number quantum computing candidate amongsuperconductorbased quantum computer including squidbased
+quantum computers
+trapped ion quantum computer
+electron helium quantum computers
+nuclear magnetic resonance molecule solutionbased
+quantum dot surfacebased
+cavity quantum electrodynamicscqedbased
+molecular magnetbased
+fullerenebased esr quantum computer
+solid state nmr kane quantum computers
+opticbased quantum computersquantum optics
+topological quantum computer
+
+inresearchers university michigan builtsemiconductor chip functioned ion trap devices
+produced standard lithography technique may point wayscalable quantum computing tool improved version made 
+
+quantum computing computational complexity theory
+
+section survey currently known mathematicallypower quantum computer describes known resultcomputational complexity theory theory computation dealing
+quantum computers
+
+class problem efficiently solved quantum
+computer called bqp bounded error quantum polynomial time
+quantum computer run randomized algorithm bqp quantum
+computer counterpart bpp classical computerdefined set problem solvable polynomialtime
+algorithm whose probability error bounded away one quarter
+nielsenchuanga quantum computer said solveproblem every instance answer right high
+probability solution run polynomial timeproblem bqp
+
+bqp suspected disjoint npcomplete strict superset
+p known integer factorization discrete
+log bqp problem problem suspectedoutside bpp hence outside suspectednpcomplete common misconception quantum computersolve npcomplete problem polynomial time knowntrue generally suspected false
+
+operator quantum computer thought changingvector multiplying particular matrix multiplicationmatrix linear operation shown quantum
+computer could designed nonlinear operator could
+solve npcomplete problem polynomial time could evenpcomplete problem yet known whether machinepossible
+
+although quantum computer sometimes faster classical
+computer one type described cant solve problems
+classical computer cant solve given enough time memory
+albeit possibly amount could never practically broughtbear turing machine simulate quantum computerquantum computer could never solve undecidable problem likehalting problem existence standard quantum computer doedisprove churchturing thesis nielsen chuang 
+
+recently debabrata goswami others begun investigate
+possibility using quantum mechanic hypercomputationthat
+solving undecidable problem claim metconsiderable skepticism whether even theoretically
+possible see hypercomputation article details
+

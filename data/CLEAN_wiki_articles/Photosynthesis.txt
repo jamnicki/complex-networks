@@ -1,0 +1,321 @@
+copyright
+
+photosynthesis
+
+ school wikipedia selection related subject general biology
+
+leaf primary site photosynthesis plants
+enlarge
+leaf primary site photosynthesis plants
+
+photosynthesis photolight synthesisputting together generallysynthesis sugar light carbon dioxide wateroxygen waste product arguably important
+biochemical pathway known nearly life dependsextremely complex process comprised many coordinated biochemical
+reaction occurs higher plant algae bacteriaprotist organism collectively referred photoautotrophs
+
+overview
+
+photosynthesis energy light make sugar glucosesimple general equation photosynthesis follows
+
+coholightchooho
+
+carbon dioxidewaterlight energyglucoseoxygenwater
+
+photosynthesis occurs two stage first phase lightdependent
+reaction photosynthetic reaction also called light reactions
+capture energy light use make highenergy molecules
+second phase lightindependent reaction also called
+calvinbenson cycle formerly known dark reaction use
+highenergy molecule capture carbon dioxide make
+precursor glucose
+
+lightdependent reaction pigment chlorophyll absorbs light
+loses electron travel electron transport chain
+producing high energy molecule nadph atp chlorophyll
+molecule regains electron taking one water molecule
+process called photolysis release oxygen gasbyproduct
+
+lightindependent dark reaction enzyme rubisco captures
+co atmosphere complex process calledcalvinbenson cycle release carbon sugar later combined
+form glucose
+
+photosynthesis may simply defined conversion light energy
+chemical energy living organism affectedsurroundings rate photosynthesis affectedconcentration carbon dioxide light intensity temperature
+
+plants
+
+plant photoautotrophs mean ablesynthesize food directly inorganic compound using light energy 
+example sun instead eating organism relyingnutrient derived distinct chemoautotrophsdepend light energy use energy inorganic compounds
+
+energy photosynthesis ultimately come absorbed photons
+involves reducing agent water case plants
+releasing oxygen waste product light energy convertedchemical energy known lightdependent reaction formatp nadph used synthetic reactionphotoautotrophs notably plant use chemical energy fix
+carbon dioxide carbohydrate organic compoundlightindependent reaction overall equation carbon fixation
+sometimes referred carbon reduction green plant
+n con hoatpnadphchonn hon
+
+n defined according structure resulting
+carbohydrate
+
+specifically carbon fixation produce intermediate product
+converted final hexose carbohydrate products
+carbohydrate product variously used formorganic compound building material celluloseprecursor lipid amino acid biosynthesis fuelcellular respiration latter occurs plant alsoanimal energy plant get passed food chain
+organism dependent photosynthetic chemosynthetic organismcalled heterotroph general outline cellular respirationopposite photosynthesis glucose compound oxidisedproduce carbon dioxide water chemical energy howeverprocess actually take place different sequence reactions
+different cellular compartments
+
+plant absorb light primarily using pigment chlorophyllreason plant green colour functionchlorophyll often supported accessory pigmentcarotene xanthophyll chlorophyll accessory pigmentcontained organelle compartment within cell called
+chloroplast although cell green part plantchloroplast energy captured leaf cells
+interior tissue leaf called mesophyll containhalf million chloroplast every square millimeter leafsurface leaf uniformly coated waterresistant waxy
+cuticle protects leaf excessive evaporation waterdecrease absorption ultraviolet blue light reduce
+heating transparent epidermis layer allows light paspalisade mesophyll cell photosynthesis takes
+place
+
+algae bacteria
+
+algae range multicellular form like kelp microscopic
+singlecelled organism although complex land
+plant photosynthesis take place biochemically waymuch like plant algae chloroplast chlorophyll various
+accessory pigment present algae phycoerythrinred algae rhodophytes resulting wide variety colouralgae produce oxygen many autotrophic howeverheterotrophic relying material produced organismexample coral reef symbiotic relationshipzooxanthellae coral polyps
+
+photosynthetic bacteria chloroplast membranebound
+organelle instead photosynthesis take place directly withincell cyanobacteria contain thylakoid membrane similarchloroplast prokaryote perform
+oxygengenerating photosynthesis fact chloroplastconsidered evolved endosymbiotic bacteriumalso ancestor later gave rise cyanobacteriumphotosynthetic bacteria variety different pigment called
+bacteriochlorophyll produce oxygen bacteriachromatium oxidize hydrogen sulfide instead waterphotosynthesis producing sulfur waste
+
+evolution photosynthesis
+
+ability convert light energy chemical energy significant
+evolutionary advantage early photosynthetic systemgreen purple sulphur green purple nonsulphur
+bacteria anoxygenic using various molecule electron donors
+green purple sulphur bacteria used hydrogen sulphurelectron donor green nonsulphur bacteria used various aminoorganic acid purple nonsulphur bacteria used varietynonspecific organic molecule use moleculeconsistent geological evidence atmosphere highly
+reduced time
+
+fossil found filamentous photosynthetic organism dating
+frommillion year agonew scientistaug 
+
+oxygen atmosphere today exists due evolutionoxygenic photosynthesis sometimes referred oxygen
+catastrophe geological evidence suggests oxygenic photosynthesis
+cyanobacteria became importantpaleoproterozoic era aroundbillion year ago modern photosynthesis
+plant photosynthetic prokaryote oxygenic oxygenic
+photosynthesis water electron donor oxidizedmolecular oxygen absorption photon photosynthetic
+reaction centre
+
+origin chloroplasts
+
+plant process photosynthesis compartmentalizedorganelle called chloroplast chloroplast many similarities
+photosynthetic bacteria including circular chromosome
+prokaryotic ribosome similar protein photosynthetic
+reaction centre
+
+endosymbiotic theory suggest photosynthetic bacteriaingested early eukaryotic cell form first plant cells
+
+molecular production
+
+light chemical energy
+
+photosystem lightharvesting cluster photosynthetic pigments
+present thylakoid membrane chloroplasts
+enlarge
+photosystem lightharvesting cluster photosynthetic pigments
+present thylakoid membrane chloroplasts
+
+light energy converted chemical energy usinglightdependent reaction product light dependent
+reaction atp photophosphorylation nadphphotoreduction utilized energy sourcelight independent reactions
+
+z scheme
+
+plant light dependent reaction occur thylakoid membranes
+chloroplast use light energy synthesize atp nadph
+light dependent reaction two form cyclic noncyclic
+reaction noncyclic reaction photon capturedlightharvesting antenna complex photosystem chlorophyllaccessory pigment see diagram right chlorophyll
+molecule core photosystem reaction centre obtains
+sufficient excitation energy adjacent antenna pigmentelectron transferred primary electronacceptor molecule
+pheophytin process called photoinduced charge separation
+electron shuttled electron transport chaincalled zscheme shown diagram initially functiongenerate chemiosmotic potential across membrane atp synthase
+enzyme chemiosmotic potential make atpphotophosphorylation nadph product terminal redox
+reaction zscheme electron enters photosystemmolecule electron emitted due light absorbedphotosystem second electron carrier accepts electronpassed lowering energy electron acceptorenergy created electron acceptor used move hydrogen ions
+across thylakoid membrane lumen electron usedreduce coenzyme nadh function lightindependent
+reaction cyclic reaction similar noncyclicdiffers form generates atp reduced nadp
+nadph created cyclic reaction take place photosystem
+electron displaced photosystem electronpassed electron acceptor molecule return backphotosystem emitted hence name cyclic
+reaction
+
+water photolysis
+
+nadph main reducing agent chloroplast providingsource energetic electron reaction production leaves
+chlorophyll deficit electron oxidized mustobtained reducing agent excited electron lost
+chlorophyll photosystem replaced electron
+transport chain plastocyanin however since photosystem includes
+first step zscheme external source electronrequired reduce oxidized chlorophyll molecule sourceelectron greenplant cyanobacterial photosynthesis water
+two water molecule oxidized four successive chargeseparation
+reaction photosystem yield molecule diatomic oxygenfour hydrogen ion electron yielded step transferredredoxactive tyrosine residue reduces photooxidized
+pairedchlorophyll specie called serf primary
+lightdriven electron donor photosystem reaction centre
+oxidation water catalyzed photosystem redoxactive
+structure contains four manganese ion oxygenevolving
+complex bind two water molecule store four oxidizing
+equivalent required drive wateroxidizing reaction
+photosystem known biological enzyme carryoxidation water hydrogen ion contributetransmembrane chemiosmotic potential lead atp synthesis
+oxygen waste product lightindependent reactionmajority organism earth use oxygen cellular respiration
+including photosynthetic organisms
+
+oxygen photosynthesis
+
+respect oxygen photosynthesis two important
+concepts
+plant cyanobacterial bluegreen algae cell also use oxygen
+cellular respiration although net output oxygen
+since much produced photosynthesis
+oxygen product lightdriven wateroxidation reaction
+catalyzed photosystem generated fixationcarbon dioxide consequently source oxygenphotosynthesis water carbon dioxide
+
+bacterial variation
+
+concept oxygen production directly associatedfixation carbon dioxide first proposed cornelis van nielstudied photosynthetic bacteria asidecyanobacteria bacteria one photosystem use reducing
+agent water get electron variety different
+inorganic chemical including sulfide hydrogenbacteria oxygen produced
+
+others halophile archaea produced called purple
+membrane bacteriorhodopsin could harvest light produce
+energy purple membrane one first useddemonstrate chemiosmotic theory light hit membrane solution contained purple membrane dropped protons
+pumping membrane
+
+carbon fixation
+
+fixation reduction carbon dioxide lightindependent
+process carbon dioxide combine fivecarbon sugar
+ribulose bisphosphate rubp yield two moleculethreecarbon compound glycerate phosphate also knownphosphoglycerate pga presence atp nadphlightdependent stage reduced glyceraldehyde phosphate product also referred phosphoglyceraldehydepgaleven triose phosphate triose carbon sugar see
+carbohydrate mostout ofmolecules produced used
+regenerate rubp process continue see calvinbenson
+cycle theout ofmolecules triose phosphaterecycled often condense form hexose phosphate ultimately
+yield sucrose starch cellulose sugar produced carbon
+metabolism yield carbon skeleton used metabolic
+reaction like production amino acid lipids
+
+c cam
+
+hot dry condition plant close stoma pore used
+gas exchange prevent loss water conditions
+oxygen gas produced light reaction photosynthesisconcentrate leaf causing photorespiration occurplant devised mechanism increase concentrationleaf conditions
+
+c plant capture carbon dioxide using enzyme called pep
+carboxylase add carbon dioxide three carbon molecule
+phosphoenolpyruvate pep creating thecarbon molecule oxaloacetic
+acid plant without enzyme called plantprimary carboxylation reaction produce three carbon sugar
+phosphoglycerate directly calvinbenson cycle oxygen
+level rise leaf plant reverse reaction release
+carbon dioxide thus preventing photorespiration preventing
+photorespiration plant produce sugar plants
+condition strong light high temperature many important crop
+plant plant including maize sorghum sugarcane millet
+
+cactus succulent also use pep carboxylase capture
+carbon dioxide process called crassulacean acid metabolism cam
+store different molecule plants
+mostly store malic acid also different leaf
+anatomy plant grab nightstoma open release leaf dayincrease photosynthetic rate
+
+discovery
+
+although step photosynthesis still completely
+understood overall photosynthetic equation known since
+
+jan van helmont began research process midscarefully measured mass soil used plant mass
+plant grew noticing soil mass changedlittle hypothesized mass growing plant must come
+water substance added potted planthypothesis partially accuratemuch gained mass also comes
+carbon dioxide well water however signalling
+point idea bulk plant biomass comeinput photosynthesis soil
+joseph priestley chemist minister discoveredisolated volume air inverted jar burned candlecandle would burn quickly much ranwax discovered mouse could similarly injure air
+showed air injured candlemouse could restored plant
+
+injan ingenhousz court physician austrian empress
+repeated priestley experiment discovered wainfluence sun light plant could cause rescuemouse matter hours
+
+injean senebier french pastor showed wafixed injured air taken plantphotosynthesis soon afterwards nicolasthodore saussure showed
+increase mass plant grows could due
+uptake also incorporation water thus
+basic reaction photosynthesis used produce food
+glucose outlined
+
+modern scientist built foundation knowledgescientist century ago able discover many things
+
+cornelis van niel made key discovery explaining chemistryphotosynthesis studying purple sulfur bacteria green bacteria
+wa first scientist demonstrate photosynthesislightdependent redox reaction hydrogen reduces carbon
+dioxide
+
+experiment prove oxygen developedphotosynthesis green plant came water performedrobert hill inandhe showed isolated chloroplast give
+oxygen presence unnatural reducing agent like iron
+oxalate ferricyanide benzoquinone exposure light hill
+reaction follows
+
+hoalight chloroplastsaho
+
+electron acceptor therefore light electron
+acceptor reduced oxygen evolved
+
+samuel ruben martin kamen used radioactive isotope determine
+oxygen liberated photosynthesis came water
+
+melvin calvin andrew benson along james bassham elucidated
+path carbon assimilation photosynthetic carbon reduction
+cycle plant carbon reduction cycle known calvin
+cycle inappropriately ignores contribution basshambenson many scientist refer cycle calvinbenson cycle
+bensoncalvin even call calvinbensonbassham cbb
+cycle
+
+nobel prize winning scientist rudolph marcus ablediscover function significance electron transport chain
+
+factor affecting photosynthesis
+
+three main factor affecting photosynthesis several
+corollary factor three mainlight irradiance wavelength
+carbon dioxide concentration
+temperature
+
+light intensity irradiance wavelength temperature
+
+early frederick frost blackman along gabrielle
+matthaei investigated effect light intensityirradiancetemperature rate carbon assimilation
+constant temperature rate carbon assimilation varies
+irradiance initially increasing irradiance increases
+however higher irradiance relationship longer holdrate carbon assimilation reach plateau
+constant irradiance rate carbon assimilation increases
+temperature increased limited range effect
+seen high irradiance level low irradiance
+increasing temperature little influence ratecarbon assimilation
+
+two experiment illustrate vital point firstly research
+known photochemical reaction generally affectedtemperature however experiment clearly show temperature
+affect rate carbon assimilation must two setreaction full process carbon assimilationcourse lightdependent photochemical stagelightindependent temperaturedependent stage secondly blackmans
+experiment illustrate concept limiting factor another
+limiting factor wavelength light cyanobacteria reside
+several meter underwater cannot receive correct wavelengths
+required cause photoinduced charge separation conventional
+photosynthetic pigment combat problem series proteins
+different pigment surround reaction centre unitcalled phycobilisome
+
+carbon dioxide level photorespiration
+
+carbon dioxide concentration rise rate sugarmade lightindependent reaction increase limitedfactor rubisco enzyme capture carbon dioxidelightindependent reaction binding affinity carbon
+dioxide oxygen concentration carbon dioxide high
+rubisco fix carbon dioxide however oxygen concentration
+high rubisco bind oxygen instead carbon dioxideprocess called photorespiration energy doe make sugar
+
+rubisco oxygenase activity disadvantageous plant several
+reasons
+one product oxygenase activity phosphoglycolatecarbon
+instead phosphoglyceratecarbon phosphoglycolate cannot
+metabolized calvinbenson cycle represents carbon
+lost cycle high oxygenase activity therefore drains
+sugar required recycle ribulose bisphosphatecontinuation calvinbenson cycle
+phosphoglycolate quickly metabolized glycolate toxic
+plant high concentration inhibits photosynthesis
+salvaging glycolate energetically expensive process uses
+glycolate pathway onlyof carbon returnedcalvinbenson cycle phosphoglycerate
+
+highly simplified summary
+glycolateatpphophoglyceratecarbon
+dioxideadp 
+salvaging pathway product rubisco oxygenase activitycommonly known photorespiration since characterizedlight dependent oxygen consumption release carbon dioxide
+
+corollary factors
+

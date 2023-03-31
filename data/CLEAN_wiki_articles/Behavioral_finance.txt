@@ -1,0 +1,202 @@
+copyright
+
+behavioural finance
+
+ school wikipedia selection related subject economics
+
+behavioural finance behavioural economics closely related
+field apply scientific research human social cognitive
+emotional bias better understand economic decisionaffect market price return allocation resourcefield primarily concerned rationality lack thereof
+economic agent behavioural model typically integrate insights
+psychology neoclassical economic theory
+
+behavioural analysis mostly concerned effect market
+decision also public choice another source economic
+decision similar biases
+
+history
+
+classical period economics close linkpsychology example adam smith wrote important text describing
+psychological principle individual behaviour theory moral
+sentiment jeremy bentham wrote extensively psychological
+underpinnings utility economist began distancepsychology development neoclassical economicssought reshape discipline natural scienceexplanation economic behaviour deduced assumptionnature economic agent concept homo economicus developed
+psychology entity fundamentally rational
+nevertheless psychological explanation continued informanalysis many important figure development neoclassical
+economics francis edgeworth vilfredo pareto irving fisherjohn maynard keynes
+
+psychology largely disappeared economic discussion mid
+th century number factor contributed resurgenceuse development behavioural economics expected utilitydiscounted utility model began gain wide acceptance generated
+testable hypothesis decision making uncertaintyintertemporal consumption respectively number observedrepeatable anomaly challenged hypothesis furthermorecognitive psychology began describe braininformation processing device contrast behaviorist models
+psychologist field ward edward amos tverskydaniel kahneman began benchmark cognitive model decision
+making risk uncertainty economic model rational
+behaviour
+
+perhaps important paper development behavioural
+finance economics field written kahneman tverskypaperprospect theory decision making risk used
+cognitive psychological technique explain number documented
+anomaly rational economic decision making milestonedevelopment field include well attended diverse
+conference university chicago see hogarthredera
+specialedition respected quarterly journal economics
+memory amos tversky devoted topic behavioural
+economics award nobel prize daniel kahneman 
+integrated insight psychological researcheconomic science especially concerning human judgmentdecisionmaking uncertainty
+
+prospect theory example generalized expected utility theory
+although commonly included discussion fieldbehavioural economics generalized expected utility theory similarly
+motivated concern descriptive inaccuracy expected
+utility theory
+
+behavioural economics also applied problemintertemporal choice prominent idea hyperbolic
+discounting high rate discount usedpresent near future lower rate near future
+far future pattern discounting dynamically
+inconsistent timeinconsistent therefore inconsistentstandard model rational choice since rate discounttime low time near futurehigh time present time near future
+
+methodology
+
+outset behavioural economics finance theory developed
+almost exclusively experimental observation survey responses
+though recent time real world data taken prominent
+position fmri also used determine area brain
+active various step economic decision making
+experiment simulating market situation stock market trading
+auction seen particularly useful usedisolate effect particular bias upon behavior observed market
+behaviour typically explained number way carefully
+designed experiment help narrow range plausible
+explanation experiment designed incentive compatiblebinding transaction involving real money norm
+
+key observations
+
+three main theme behavioural finance economics
+shefrin 
+heuristic people often make decision based approximate rules
+thumb strictly rational analysis see also cognitive biases
+bounded rationality
+framing way problem decision presented decision
+maker affect action
+market inefficiency explanation observed market
+outcome contrary rational expectation market
+efficiency include mispricings nonrational decision
+making return anomaly richard thaler particularwritten long series paper describing specific market
+anomaly behavioural perspective
+
+market wide anomaly cannot generally explained individuals
+suffering cognitive bias individual bias oftenlarge enough effect change market price return addition
+individual bias could potentially cancel cognitive
+bias real anomalous effect social
+contamination strong emotional content collective greedfear leading widespread phenomenon herdinggroupthink behavioural finance economics rest much social
+psychology individual psychology
+
+two exception general statement first mightcase enough individual exhibit biased differentrational expectation behavior behavior normbehavior would market wide effectbehavioural model explicitly demonstrate small significant
+anomalous group marketwide effect fehr schmidt
+
+
+behavioural finance topics
+
+key observation made behavioural finance literature includelack symmetry decision acquire keep resource called
+colloquially thebird bush paradox strong loss
+aversion regret attached decision emotionally
+valued resource home might totally lost loss aversion
+appears manifest investor behaviour unwillingnesssell share equity would force traderrealise nominal loss genesovemayerit may also help
+explain housing market price adjust downwards market
+clearing level period low demand
+
+applying version prospect theory benartzi thalerclaim
+solved equity premium puzzle something conventional
+finance model unable
+presently researcher experimental finance use experimental
+method creating artificial market kind simulation
+software study people decisionmaking process behaviourfinancial markets
+
+behavioural finance models
+
+financial model used money management asset valuation use
+behavioural finance parameter example
+thalers model price reaction information three
+phase underreactionadjustmentoverreaction creating price
+trend
+
+characteristic overreaction average return asset
+price following series announcement good news loweraverage return following series bad announcementword overreaction occurs market reacts strongly news
+subsequently need compensated opposite direction
+result asset winner past seenindication invest risk adjusted return future
+relatively low compared stock defined loserpast
+stock image coefficient
+
+criticism behavioural finance
+
+critic behavioural finance eugene fama typically support
+efficient market theory though fama may reversed position
+recent year contend behavioural financecollection anomaly true branch financeanomaly eventually priced market explainedappeal market microstructure argument however distinction
+noted individual bias social bias former
+averaged market create feedback
+loop drive market equilibriumthefair price
+
+specific example criticism found attempted
+explanation equity premium puzzle argued puzzle
+simply arises due entry barrier practical psychological
+traditionally impeded entry individual stock
+market return stock bond stabilizeelectronic resource open stock market greater numbertrader see freemanfor review reply others contendpersonal investment fund managed superannuation
+fund effect putative barrier entry wouldminimal addition professional investor fund manager seemhold bond one would expect given return differentials
+
+behavioural economics topics
+
+model behavioural economics typically addressed particular
+observed market anomaly modify standard neoclassical modeldescribing decision maker using heuristic affectedframing effect general behavioural economics sits withinneoclassical framework though standard assumption rational
+behaviour often challenged
+
+heuristics
+prospect theoryloss aversionstatus quo biasgamblers fallacy 
+selfserving bias
+
+framing
+cognitive framingmental accountingreference utilityanchoring
+
+anomalies
+disposition effectendowment effectequity premium puzzlemoney
+illusiondividend puzzlefairnessinequity aversionefficiency
+wage hypothesisreciprocityintertemporal consumptionpresent
+biased preferencesbehavioural life cycle hypothesiswage
+stickinessprice stickinessvisceral influencesearles curvepredictive reliabilitylimits arbitrageincome happiness 
+momentum investing
+
+criticism behavioural economics
+
+critic behavioural economics typically stress rationalityeconomic agent see myagkov plottamongst otherscontend experimentally observed behavior inapplicable market
+situation learning opportunity competition ensureleast close approximation rational behaviour others notecognitive theory prospect theory model decision
+making generalized economic behaviour applicablesort onceoff decision problem presented experiment
+participant survey respondents
+
+traditional economist also skeptical experimentalsurvey based technique used extensively behavioural
+economics economist typically stress revealed preferencestated preference survey determination economic
+value experiment survey must designed carefully avoid
+systemic bias strategic behaviour lack incentive
+compatibility many economist distrustful result obtained
+manner due difficulty eliminating problems
+
+rabindismisses criticism claiming resulttypically reproduced various situation country lead
+good theoretical insight behavioural economist also
+incorporated criticism focusing field study ratherlab experiment economist look split fundamental
+schism experimental economics behavioral economicsprominent behavioral experimental economist tend overlap
+technique approach answering common question example
+many prominent behavioural economist actively investigating
+neuroeconomics entirely experimental cannot verified
+field
+
+proponent behavioral economics note neoclassical models
+often fail predict outcome real world context behavioral
+insight used update neoclassical equation behavioural
+economist note revised model reachcorrect prediction traditional model also correctly
+predict outcome traditional model failed
+
+key figures
+
+george akerlofdan arielycolin camererernst fehrdaniel
+kahnemanwerner gthdavid laibsongeorge loewensteinsarah
+lichtensteinlola lopesmatthew rabinrobert shillerrichard
+thaleramos tverskypaul slovicandrei shleiferhersh shefrin 
+werner bondt
+
+nonspecialists whose work important field
+
+herbert simongerd gigerenzerfischer blackjohn toobyleda
+cosmidespaul rubindonald rubinronald coaseandrew caplin

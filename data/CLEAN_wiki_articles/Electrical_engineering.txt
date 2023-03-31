@@ -1,0 +1,301 @@
+copyright
+
+electrical engineering
+
+ school wikipedia selection related subject engineering
+
+
+featured article click information
+complex electronic circuits
+enlarge
+complex electronic circuits
+
+electrical engineering sometimes referred electricalelectronic engineering professional engineering disciplinedeal study application electricity electronicselectromagnetism field first became identifiable occupationlate nineteenth century commercialization electric
+telegraph electrical power supply field cover rangesubdisciplines including deal power optoelectronics
+digital electronics analog electronics computer science artificial
+intelligence control system electronics signal processingtelecommunications
+
+term electrical engineering may may encompass electronic
+engineering distinction made electrical engineeringconsidered deal problem associated largescale
+electrical system power transmission motor control
+whereas electronic engineering deal study smallscale
+electronic system including computer integrated circuit another
+way looking distinction electrical engineerusually concerned using electricity transmit energyelectronics engineer concerned using electricity transmit
+information
+
+history
+
+early developments
+
+electricity subject scientific interest since least
+th century th century research
+subject started intensify notable developmentcentury include work georg ohm inquantifiedrelationship electric current potential differenceconductor michael faraday discoverer electromagnetic induction
+inand james clerk maxwell inpublished unified
+theory electricity magnetism treatise electricitymagnetism
+
+year study electricity largely consideredsubfield physic late centuryuniversity started offer degree electrical engineeringdarmstadt university technology founded first chairfirst faculty electrical engineering worldwide inin 
+darmstadt university technology cornell university introduced
+world first course study electrical engineeringuniversity college london founded first chairelectrical engineering united kingdom universitymissouri subsequently established first department electrical
+engineering united state 
+thomas edison built world first largescale electrical supply
+network
+enlarge
+thomas edison built world first largescale electrical supply
+network
+
+period work concerning electrical engineering
+increased dramatically inedison switched world first
+largescale electrical supply network providedvolts direct
+current fiftynine customer lower manhattan innikola
+tesla filed number patent related competing form power
+distribution known alternating current following yearbitter rivalry tesla edison known thewarcurrent took place preferred method distribution eventually replaced generation power distribution
+enormously extending range improving safety efficiency
+power distribution
+nikola tesla made longdistance electrical transmission networks
+possible
+enlarge
+nikola tesla made longdistance electrical transmission networks
+possible
+
+effort two much electrical
+engineeringteslas work induction motor polyphase systems
+influenced field year come edison worktelegraphy development stock ticker proved lucrativecompany ultimately became general electric howeverend century key figure progresselectrical engineering beginning emerge
+
+modern developments
+
+emergence radio electronics
+
+development radio many scientist inventors
+contributed radio technology electronics classic uhf
+experiment ofheinrich hertz transmitted via sparkgap
+transmitter detected radio wave using electrical equipmentnikola tesla able detect signal transmissionnew york lab west point distance ofkm inkarl
+ferdinand braun introduced cathode ray tube partoscilloscope crucial enabling technology electronic television
+john fleming invented first radio tube diode intwo
+year later robert von lieben lee forest independently
+developed amplifier tube called triode inalbert hull
+developed magnetron would eventually lead development
+microwave oven inby percy spencer inthe british
+military began make stride towards radar also usmagnetron direction wimperis culminatingoperation first radar station bawdsey august 
+
+inkonrad zuse presented world first fully
+functional programmable computer inthe eniac electronic
+numerical integrator computer john presper eckert john
+mauchly followed beginning computing era arithmetic
+performance machine allowed engineer develop completely
+new technology achieve new objective including apollo
+mission nasa moon landing
+
+invention transistor inby william shockley john
+bardeen walter brattain opened door compact devices
+led development integrated circuit inby jack
+kilby independently inby robert noyce inmarcian hoff
+invented first microprocessor intel thus igniteddevelopment personal computer first realizationmicroprocessor intela bit processor developed 
+indid intelan bit processor makebuilding first personal computer altairpossible
+
+education
+
+electrical engineer typically posse academic degree major
+electrical engineering length study degreeusually four five year completed degree may designated
+bachelor engineering bachelor science bachelortechnology bachelor applied science depending uponuniversity degree generally includes unit covering physics
+mathematics computer science project management specific topics
+electrical engineering initially topic coversubdisciplines electrical engineering studentchoose specialize one subdisciplines towards enddegree
+
+electrical engineer also choose pursue postgraduate degree
+master engineering master science masterengineering management doctor philosophy engineeringengineer degree master engineer degree may consisteither research coursework mixture two doctorphilosophy consists significant research component often
+viewed entry point academia united kingdomvarious european country master engineering often
+considered undergraduate degree slightly longer durationbachelor engineering
+
+practicing engineers
+
+country bachelor degree engineering representsfirst step towards professional certification degree program
+certified professional body completingcertified degree program engineer must satisfy rangerequirement including work experience requirementcertified certified engineer designated titleprofessional engineer united state canada south africa 
+chartered engineer united kingdom ireland indiazimbabwe chartered professional engineer australia new
+zealand european engineer much european union
+
+advantage certification vary depending upon locationexample united state canada licensed engineer may
+seal engineering work public private client requirement
+enforced state provincial legislation quebecs
+engineer act country australialegislation exists practically certifying body maintain code
+ethic expect member abide risk expulsion
+way organization play important role maintaining
+ethical standard profession even jurisdictioncertification little legal bearing work engineersubject contract law case engineer work failsmay subject tort negligence extreme casecharge criminal negligence engineer work must also complynumerous rule regulation building codelegislation pertaining environmental law
+
+professional body note electrical engineer includeinstitute electrical electronics engineer ieeeinstitution electrical engineer iee ieee claim produce
+percent world literature electrical engineeringovermembers worldwide hold overconferences annually
+iee publishesjournals worldwide membership 
+claim largest professional engineering societyeurope obsolescence technical skill serious concernelectrical engineer membership participation technical
+society regular review periodical field habitcontinued learning therefore essential maintaining proficiency
+
+country australia canada united state electrical
+engineer make aroundof labour force see note outside
+country difficult gauge demographicprofession due meticulous reporting labour statistics
+however term electrical engineering graduate percapita
+electrical engineering graduate would probably numerouscountry taiwan japan south korea
+
+tool work
+
+global positioning system electric power generation
+electrical engineer responsible wide range technologies
+design develop test supervise deployment electrical
+system electronic device example may workdesign telecommunication system operation electric power
+station lighting wiring building design household
+appliance electrical control industrial machinery
+satellite communication one many project electrical engineer
+might workenlarge
+satellite communication one many project electrical engineer
+might work
+fundamental discipline science physicmathematics help obtain qualitative quantitative
+description system work today engineering work
+involves use computer commonplace use
+computeraided design program designing electrical systems
+nevertheless ability sketch idea still invaluablequickly communicating others
+
+although electrical engineer understand basic circuit theory
+interaction element resistor capacitors
+diode transistor inductor circuit theory employed
+engineer generally depend upon work example
+quantum mechanic solid state physic might relevantengineer working vlsi design integrated circuitlargely irrelevant engineer working macroscopic electrical
+system even circuit theory may relevant person designing
+telecommunication system use offtheshelf component perhaps
+important technical skill electrical engineerreflected university program emphasize strong numerical
+skill computer literacy ability understand technical
+language concept relate electrical engineering
+
+engineer technical work account fractionwork lot time also spent task discussing
+proposal client preparing budget determining project
+schedule many senior engineer manage team technicianengineer reason project management skill important
+engineering project involve form documentation strong
+written communication skill therefore important
+
+workplace electrical engineer varied types
+work electrical engineer may found pristine lab
+environment fabrication plant office consulting firmsite mine working life electrical engineer may
+find supervising wide range individual including
+scientist electrician computer programmer engineers
+
+subdisciplines
+
+electrical engineering many subdisciplines popularlisted although electrical engineerfocus exclusively one subdisciplines many dealcombination sometimes certain field electronic
+engineering computer engineering considered separate
+discipline right
+
+power
+
+power engineering deal generation transmissiondistribution electricity well design range related
+device include transformer electric generator electric
+motor power electronics many region world governments
+maintain electrical network called power grid connectsvariety generator together user energy users
+purchase electrical energy grid avoiding costly exercise
+generate power engineer may work design
+maintenance power grid well power systemconnect system called ongrid power system may
+supply grid additional power draw power gridpower engineer may also work system connectgrid called offgrid power system casepreferable ongrid systems
+
+control
+
+control engineering focus modelling diverse rangedynamic system design controller causesystem behave desired manner implement controllers
+electrical engineer may use electrical circuit digital signal
+processor microcontrollers control engineering wide range
+application flight propulsion system commercial
+airliner cruise control present many modern automobilealso play important role industrial automation
+
+control engineer often utilize feedback designing control
+system example automobile cruise controlvehicle speed continuously monitored fed back system
+adjusts motor speed accordingly regular
+feedback control theory used determine system
+responds feedback
+
+electronics
+
+electronic engineering involves design testing electronic
+circuit use property component resistors
+capacitor inductor diode transistor achieve particular
+functionality tuned circuit allows user radiofilter single station one examplecircuit another example pneumatic signal conditioner shown
+adjacent photograph
+
+prior second world war subject commonly known radio
+engineering basically restricted aspect communications
+radar commercial radio early television later post war
+year consumer device began developed field grewinclude modern television audio system computermicroprocessor mid late term radio engineering
+gradually gave way name electronic engineering
+
+invention integrated circuit inelectronic
+circuit constructed discrete component couldmanipulated human discrete circuit consumed much spacepower limited speed although still commonapplication contrast integrated circuit packed large
+numberoften millionsof tiny electrical component mainly
+transistor small chip around size coin allowed
+powerful computer electronic device see today
+
+microelectronics
+
+microelectronics engineering deal design small
+electronic circuit component use integrated circuitsometimes use general electronic componentcommon microelectronic component semiconductor transistors
+although main electronic componentsresistors capacitors
+inductor created microscopic level
+
+microelectronic component created chemically fabricating wafers
+semiconductor silicon higher frequency gallium
+arsenide indium phosphide obtain desired transportelectronic charge control current field microelectronics
+involves significant amount chemistry material sciencerequires electronic engineer working fieldgood working knowledge effect quantum mechanics
+
+signal processing
+
+signal processing deal analysis manipulation signals
+signal either analog case signal varies
+continuously according information digital case
+signal varies according series discrete value representing
+information analog signal signal processing may involveamplification filtering audio signal audio equipmentmodulation demodulation signal telecommunicationdigital signal signal processing may involve compression error
+detection error correction digitally sampled signals
+
+telecommunications
+
+telecommunication engineering focus transmissioninformation across channel coax cable optical fibrefree space transmission across free space require informationencoded carrier wave order shift informationcarrier frequency suitable transmission knownmodulation popular analog modulation technique include amplitude
+modulation frequency modulation choice modulation affects
+cost performance system two factor mustbalanced carefully engineer
+
+transmission characteristic system determined
+telecommunication engineer design transmitter receivers
+needed system two sometimes combined formtwoway communication device known transceiver key
+consideration design transmitter power consumption
+closely related signal strength signal
+strength transmitter insufficient signal informationcorrupted noise
+
+instrumentation engineering
+
+instrumentation engineering deal design device measure
+physical quantity pressure flow temperature design
+instrumentation requires good understanding physicoften extends beyond electromagnetic theory example radar guns
+use doppler effect measure speed oncoming vehicles
+similarly thermocouple use peltierseebeck effect measuretemperature difference two points
+
+often instrumentation used instead sensors
+larger electrical system example thermocouple might used
+help ensure furnace temperature remains constantreason instrumentation engineering often viewed counterpart
+control engineering
+
+computers
+
+computer engineering deal design computer computer
+system may involve design new hardware designpda use computer control industrial plant computer
+engineer may also work system software however designcomplex software system often domain software engineering
+usually considered separate discipline desktop computers
+represent tiny fraction device computer engineer might work
+computerlike architecture found range devices
+including video game console dvd players
+
+related disciplines
+
+mechatronics engineering discipline dealconvergence electrical mechanical system combined systems
+known electromechanical system widespread adoption
+example include automated manufacturing system heating ventilation
+airconditioning system various subsystem aircraftautomobiles
+
+term mechatronics typically used refer macroscopic systems
+futurist predicted emergence small
+electromechanical device already small device known micro
+electromechanical system mem used automobile tell
+airbags deploy digital projector create sharper images
+inkjet printer create nozzle highdefinition printing
+future hoped device help build tiny implantable
+medical device improve optical communication
+
+biomedical engineering another related discipline concerneddesign medical equipment includes fixed equipmentventilator mri scanner electrocardiograph monitor wellmobile equipment cochlear implant artificial pacemakerartificial hearts
+

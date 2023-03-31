@@ -1,0 +1,314 @@
+copyright
+
+r file format
+
+ school wikipedia selection related subject computer programming
+
+caption rss
+
+firefox internet explorerfeed icon
+screenshot feed seen mozilla thunderbird
+file extension xml
+mime typeapplicationrssxml unregistered
+extended fromxml
+
+r family web feed format used publish frequently updated
+page blog news feed consumer content use
+special browser called aggregator watch new content dozens
+even hundred web feed initial variously usedrefer following standards
+really simple syndication 
+rich site summary rssrss 
+rdf site summary rssand 
+
+r format specified xml generic specification data
+format delivers information xml file called rss
+feed webfeed stream channel
+
+usage
+
+program known feed reader aggregator check list feeds
+behalf user display updated article findcommon find web feed major website many smaller ones
+website let people choose atom formatted web
+feed others offer atom
+
+rssaware program available various operating systems
+clientside reader aggregator typically constructedstandalone program extension existing program web
+browser email reader many browser integrated supportr feed also application convert rss
+feed several usenet article viewable major
+newsreader software mozilla thunderbird fort agentexample application nntprss java coded programr feed converter script popular mailnewsserver hamster
+
+webbased feed reader news aggregator yourlivewirenewsgator online require software installation make users
+feed available computer web access aggregators
+combine existing web feed new feed taking football
+related item several sport feed providing new football
+feed also search engine content published via web feeds
+like feedster blogdigger
+
+web page web feed atom typically linkedword subscribe orange rectangle feed iconorletter xml rssmany news aggregator yahoo publish
+subscription button use web page simplify processadding news feeds
+
+history
+
+r several similar format already existed syndication
+none achieved widespread popularity still common use
+today envisioned work single service
+originated push pull technology two earliest
+example backweb pointcast
+
+betweenandramanathan guha apple computer advanced
+technology group developed meta content framework mcf mcf waspecification structuring metadata information web sitedata basis project aka hot sauce flythough
+visualizer web research project discontinued
+guha left apple netscape adapted mcf use xmlcreated first version resource description framework rdf
+
+inmicrosoft created channel definition format active
+channel feature internet explorerwhich never became popular
+wa probably due cdf focused commercial applicationconcept extensive resource required timepeople mostly dialup backweb pointcast geared
+towards news much like personal api feed backweb later morphedproviding software update precursor push update featurevarious company
+dave winer also designed xml syndication format usescripting news weblog also introduced
+rdf site summary first version wa created dan libbynetscape marchfor use netscape portal version
+became known rssin julyresponding commentsuggestion libby produced prototype tentatively named rssrss
+standing rich site summary simplified formatincorporated part winers scripting news formatconsidered interim measure libby suggesting like
+format socalled future document 
+
+soon afterwards netscape lost interest rssxml leaving format
+without owner becoming widely used working group
+mailing list rssdev set various user xml notables
+continue development time winer unilaterally
+posted modified version rssspecification userland
+website since already use product claimedrssspecification property company userland
+softwaresince neither side official claim nameformat argument raged whenever either side claimed rcreating became known fork
+
+rssdev group went produce rssin decemberlike rss
+notthis based rdf specificationmodular many term coming standard metadata
+vocabulary dublin core
+
+nineteen day later winer released rssa minorsupposedly compatible set change rssbasedproposal aprilhe published draft rsswhichalmost identical toa draft rsssurfaced august
+reverting change made inand adding type attributedescription element
+
+septemberwiner released final successor rssknown
+rssand emphasizing really simple syndication meaning
+threeletter abbreviation rssspec removed type
+attribute added rssand allowed people add extension
+element using xml namespaces several version rsswere
+released version number document model changed
+
+novemberthe new york time began offering readerability subscribe news feed related various topicjanuarywiner called new york time adoption 
+tipping point driving format becoming facto
+standard
+
+julywiner userland software assigned ownershiprssspecification workplace harvard berkman centre
+internetsociety 
+
+januarysean palmer christopher schmidt cody woodard
+produced preliminary draft rssit intended bugfix
+forremoving littleused feature simplifying syntaximproving specification based recent rdf
+specification julyrsshad amounted littleacademic exercise
+
+aprilapple computer released safariwith feed
+capability built safari delivered ability read feeds
+bookmark builtin search feature safari button
+blue rounded rectangle written inside white safaris
+r iconbuttonthe favicon displayed default newspaper icon
+safari feed favicon 
+
+novembermicrosoft proposed simple sharing extensionr 
+
+decemberthe microsoft team outlook team announcedblog adopting feed icon first usedmozilla firefox browsereffectively making orange squarewhite radio wave industry standard related
+format atom also februaryopera software announced
+add orange square next release opera 
+
+januaryrogers cadenhead relaunched advisory boardorder move format forward
+
+incompatibilities
+
+noted several different version falling
+two major branch rdf andthe rdf rssbranch
+includes following versions
+rsswas original netscape version wa called
+rdf site summary based early working draftrdf standard compatible final rdf
+recommendation
+rssis open format rssdev working groupstanding rdf site summary rssis rdf format like rss
+fully compatible sinceis basedfinal rdfrecommendation
+rssis also open format intended updatereplace rssthe specification independent draftsupported endorsed way rssdev working grouporganization
+
+rssbranch initially userland harvard includesfollowing versions
+rssis simplified version released netscapealso version number simplified version championeddave winer userland software netscape version wacalled rich site summary longer rdf formatrelatively easy use remains common variant
+rssthroughare expansion rssformatmostly compatible winers versionrssbut compatible rssin userland rss
+x specification wa longer acronym
+rsshas internal version numberrsswas
+proclaimed frozen still updated shortly release
+without changing version number stood really
+simple syndication major change version explicit
+extension mechanism using xml namespaces
+
+part later version branchbackwardcompatible earlier version aside nonconformant
+rdf syntax inand version include properly documented
+extension mechanism using xml namespaces either directly 
+branch rdf thebranch syndication software
+support branch mark pilgrim article myth rss
+compatibility discus version compatibility detail
+
+extension mechanism make possible branch track
+innovation example rssbranch first
+support enclosure making current leading choicepodcasting mid format supported useitunes podcasting software however enclosure extension
+available rssbranch modenclosurelikewisersscore specification doe support providing fulltextaddition synopsis rssmarkup oftenused extension also several common outside extension
+package available including new proposal microsoft useinternet explorer 
+
+serious compatibility problem html markup userlands
+r readergenerally considered reference implementationdidoriginally filter html markup feed result publishers
+began placing html markup title description itemr feed behaviour become widely expected readers
+point becoming facto standard though still
+inconsistency software handle markup particularlytitle rssspecification later updated include examples
+entityencoded html however prior plain text usage remain
+valid
+
+atom
+
+reaction recognized issue rssis
+frozen third group began new syndication specification atomjunetheir work later adopted internet engineering
+task force ietf leading publication specificationrfc
+atom format inwork atom publishing
+protocol standardsbased protocol posting publishing toolongoing
+
+relative benefit atom comparison two branchmatter debate within websyndication community supporteratom claim improves relying standard xml features
+specifying payload container handle many different kinds
+content unambiguously specification maintainedrecognized standard organization critic claim atom
+unnecessarily introduces third branch syndication specifications
+confusing marketplace
+
+comparison atomto rsssee atom compared 
+
+modules
+
+primary objective module extend basic xml
+schema established robust syndication contentinherently allows diverse yet standardized transactions
+without modifying core specification
+
+accomplish extension tightly controlled vocabularyr world module xml world schema declaredxml namespace give name concept relationshipconcepts
+
+rssmodules established namespaces
+ecommerce rssmodule
+medium rssmodule
+opensearch rssmodule
+
+bittorrent rss
+
+peertopeer application bittorrent also announced supportr feed also known torrentrsses allow client
+application download file automatically also knownbroadcatching common bittorrent client already offer rss
+support
+
+example
+
+following example rssfile
+xml version
+
+rdfrdf
+ xmlnsrdfhttpwwwworgrdfsyntaxns
+ xmlnshttppurlorgrss
+
+ channel rdfabouthttpwwwxmlcomxmlnewsrss
+titlexmlcomtitle
+linkhttpxmlcompublink
+description
+xmlcom feature rich mix information services
+xml community
+description
+image rdfresourcehttpxmlcomuniversalimagesxmltinygif 
+items
+rdfseq
+rdfli resourcehttpxmlcompubxsltxslthtml 
+rdfli resourcehttpxmlcompubrdfdbindexhtml 
+rdfseq
+items
+textinput rdfresourcehttpsearchxmlcom 
+ channel
+
+ image rdfabouthttpxmlcomuniversalimagesxmltinygif
+titlexmlcomtitle
+linkhttpwwwxmlcomlink
+urlhttpxmlcomuniversalimagesxmltinygifurl
+ image
+
+ item rdfabouthttpxmlcompubxsltxslthtml
+titleprocessing inclusion xslttitle
+linkhttpxmlcompubxsltxslthtmllink
+description
+processing document inclusion general xml toolproblematic article proposes way preserving inclusion
+information saxbased processing
+description
+ item
+
+ item rdfabouthttpxmlcompubrdfdbindexhtml
+titleputting rdf worktitle
+linkhttpxmlcompubrdfdbindexhtmllink
+description
+tool api support resource description framework
+slowly coming age edd dumbill take look rdfdb
+one exciting new rdf toolkits
+description
+ item
+
+ textinput rdfabouthttpsearchxmlcom
+titlesearch xmlcomtitle
+descriptionsearch xmlcoms xml collectiondescription
+namesname
+linkhttpsearchxmlcomlink
+ textinput
+rdfrdf
+
+following example rssfile
+xml version
+r version
+channel
+titleliftoff newstitle
+linkhttpliftoffmsfcnasagovlink
+descriptionliftoff space explorationdescription
+languageenuslanguage
+pubdatetuejungmtpubdate
+lastbuilddatetuejungmtlastbuilddate
+docshttpblogslawharvardedutechrssdocs
+generatorweblog editor generator
+managingeditoreditorexamplecommanagingeditor
+webmasterwebmasterexamplecomwebmaster
+
+item
+titlestar citytitle
+linkhttpliftoffmsfcnasagovnewsnewsstarcityasplink
+descriptionhow american get ready work russian aboardinternational space station take crash course culture langua
+ge
+protocol russia star citydescription
+pubdatetuejungmtpubdate
+guidhttpliftoffmsfcnasagovhtmlitemguid
+item
+
+item
+titlespace explorationtitle
+linkhttpliftoffmsfcnasagovlink
+descriptionsky watcher europe asia part alaska canada
+experience partial eclipse sun saturday may stdes
+cription
+pubdatefrimaygmtpubdate
+guidhttpliftoffmsfcnasagovhtmlitemguid
+item
+
+item
+titlethe engine doe moretitle
+linkhttpliftoffmsfcnasagovnewsnewsvasimrasplink
+descriptionbefore man travel mar nasa hope design new engines
+let fly solar system quicklythe propose
+vasimr engine would thatdescription
+pubdatetuemaygmtpubdate
+guidhttpliftoffmsfcnasagovhtmlitemguid
+item
+
+item
+titleastronauts dirty laundrytitle
+linkhttpliftoffmsfcnasagovnewsnewslaundryasplink
+descriptioncompared earlier spacecraft international space
+station many luxury laundry facility oneinstead astronaut optionsdescription
+pubdatetuemaygmtpubdate
+guidhttpliftoffmsfcnasagovhtmlitemguid
+item
+channel
+rss
+

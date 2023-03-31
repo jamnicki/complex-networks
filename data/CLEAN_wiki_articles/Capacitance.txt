@@ -1,0 +1,151 @@
+copyright
+
+capacitance
+
+ school wikipedia selection related subject electricityelectronics
+
+electromagnetism
+electricitymagnetism
+electrostatics
+electric charge
+coulomb law
+electric field
+gauss law
+electric potential
+electric dipole moment
+magnetostatics
+ampres law
+magnetic field
+magnetic dipole moment
+electrodynamics
+electric current
+lorentz force law
+electromotive force
+em electromagnetic induction
+faradaylenz law
+displacement current
+maxwell equations
+emf electromagnetic field
+em electromagnetic radiation
+electrical network
+electrical conduction
+electrical resistance
+capacitance
+inductance
+impedance
+resonant cavities
+waveguides
+
+capacitance measure amount electric charge storedseparated given electric potential
+
+cfracqv
+
+capacitor two conducting electrode insulated
+one another charge electrode q represents potential difference electrode unit
+capacitance faradfaradcoulomb per volt
+
+capacitors
+
+capacitance majority capacitor used electronic
+circuit several order magnitude smaller faradcommon unit capacitance use today millifarad microfarad nanofarad picofarad 
+capacitance calculated geometry conductordielectric property insulator conductorknown example capacitance parallelplate capacitor
+constructed two parallel plane electrode area separateddistance approximately equal following
+
+cepsilon fracad
+
+
+c capacitance farad permittivity insulator used orforvacuum
+area plane electrode measured square metres
+separation electrode measured metres
+
+equation good approximation small compareddimension electrodes
+
+dielectric constant number useful dielectric changes
+function applied electrical field ferroelectric
+material capacitance device longer purelyfunction device geometry capacitor driven sinusoidal
+voltage dielectric constant accurately referreddielectric permittivity function frequency changing
+dielectric constant frequency referred dielectric
+dispersion governed dielectric relaxation processdebye relaxation
+
+energy
+
+energy measured joule stored capacitor equalwork done charge consider capacitance holding charge one plate moving small element charge one plate potential difference vqc
+requires work 
+mathrmdwfracqcmathrmdq
+
+
+w work measured joules
+
+q charge measured coulombs
+
+c capacitance measured farads
+
+find energy stored capacitance integratingequation starting uncharged capacitance moving
+charge one plate plate charge qq requires work 
+wchargingintq fracqcmathrmdq 
+fracfracqcfraccvwstored
+
+combining equation capacitanceflatplate capacitor get
+
+wstoredfrac vfrac epsilon
+fracad 
+
+
+w energy measured joules
+
+c capacitance measured farads
+
+v voltage measured volts
+
+capacitance displacement current
+
+physicist james clerk maxwell invented concept displacement
+current fracpartial vecdpartial tto make ampere law
+consistent conservation charge case chargeaccumulating example capacitor interpreted real
+motion charge even vacuum supposedcorresponded motion dipole charge ether althoughinterpretation abandoned maxwell correction ampere law
+remains valid changing electric field produce magnetic field
+
+maxwell equation combining ampere law displacement current
+concept given vecnabla time vechvecj 
+fracpartial vecdpartial tintegrating sideintegral vecnablatimes vech replacedcourtesystokess theoremwith integral vech cdot mathrmd
+vecl closed contour thus demonstrating interconnection
+ampere formulation
+
+capacitanceinductance duality
+
+mathematical term ideal capacitance consideredinverse ideal inductance voltagecurrent equations
+two phenomenon transformed one another exchanging
+voltage current terms
+
+selfcapacitance
+
+electrical circuit term capacitance usually shorthandmutual capacitance two adjacent conductor two
+plate capacitor also exists property called
+selfcapacitance amount electrical charge mustadded isolated conductor raise electrical potential one
+volt reference point potential theoretical hollow
+conducting sphere infinite radius centred conductor using
+method selfcapacitance conducting sphere radius rgiven
+cpiepsilonr 
+
+typical value selfcapacitancetop electrode van graaf generator typicallyspherecm diameterpf
+planet earth aboutf
+
+elastance
+
+inverse capacitance called elastance unitreciprocal farad also informally called daraf
+
+stray capacitance
+
+two adjacent conductor considered capacitor although
+capacitance small unless conductor close together
+long unwanted effect termed stray capacitance stray
+capacitance allow signal leak otherwise isolated
+circuit effect called crosstalk limiting factor
+proper functioning circuit high frequency
+
+stray capacitance often encountered amplifier circuitform feedthrough capacitance interconnects inputoutput node defined relative common ground often
+convenient analytical purpose replace capacitancecombination one inputtoground capacitance one outputtoground
+capacitance original configurationincludinginputtooutput capacitanceis often referredpiconfiguration miller theorem used effectreplacement miller theorem state gain ratio two
+node impedance connecting two nodereplaced impedance first node groundkzk impedance second node ground since impedance
+varies inversely capacitance internode capacitance cseen replaced capacitance inputground capacitance kck output groundinputtooutput gain large equivalent inputtoground
+impedance small outputtoground impedanceessentially equal original inputtooutput impedance

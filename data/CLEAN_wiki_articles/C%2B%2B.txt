@@ -1,0 +1,391 @@
+copyright
+
+c
+
+ school wikipedia selection related subject computer programming
+
+caption 
+ imagec plus plus bookjpg
+paradigmmultiparadigm genericprogramming language bias
+towards system programming objectoriented procedural
+appeared inlast revised 
+designed bybjarne stroustrup
+typing disciplinestatic unsafe nominative
+ major implementation gnu compiler collection microsoft visual borland builder
+dialectsansi cansi 
+influenced byc simula adaalgolclu influencedadac java php
+c generally pronounced pls pls generalpurpose
+highlevel programming language lowlevel facilitystatically typed freeform multiparadigm language supporting
+procedural programming data abstraction objectoriented programming
+generic programming since ha onepopular commercial programming languages
+
+bjarne stroustrup developed originally named classbell lab enhancement programming language
+enhancement started addition class followed among
+feature virtual function operator overloading multiple
+inheritance template exception handling programming
+language standard ratified inas isoiecthe
+current version theversion isoieca new
+version standard known informally developed
+
+history
+
+stroustrup began work class inthe idea creatingnew language originated stroustrups experience programmingphd thesis stroustrup found simula featurehelpful large software development language waslow practical use bcpl fast lowlevelunsuitable large software development stroustrup started
+working bell lab problem analyzing unix kernel
+respect distributed computing remembering phd
+experience stroustrup set enhance languagesimulalike feature wa chosen generalpurpose fast
+portable besides simula language inspired
+algolada clu first class derived class
+strong type checking inlining default argument featureadded via cfront first commercial release occurred october
+
+
+inthe name language changed classc new feature added including virtual function function name
+operator overloading reference constant usercontrolled
+freestore memory control improved type checking new
+singleline comment style two forward slashesinthe
+first edition programming language released providing
+important reference language yetofficial standard inreleaseof wa released new
+feature included multiple inheritance abstract class static member
+function const member function protected member inthe
+annotated reference manual published work becamebasis future standard late addition feature included
+template exception namespaces new cast boolean type
+
+c language evolved standard library also evolvedfirst addition standard library stream library provided facility replace traditional function printf scanf later among significant
+addition standard library standard template library
+
+year work joint ansi iso committee standardized cisoiecfor year official release
+standard inthe committee processed defect reportpublished corrected version standard inina
+technical report called thelibrary technical reportoften known
+tr short released official partstandard give number extension standard libraryexpected included next version support growing almost currently maintained compilers
+
+c language royaltyfree standard documentfreely available
+
+name 
+name credited rick mascitti mid first useddecemberearlier research period developing
+language referred new thenc classfinal name stem csoperator increment valuevariable common naming convention usingto indicateenhanced computer program according stroustrup name signifies
+evolutionary nature change c nameearlier unrelated programming language
+
+stroustrup addressed origin name preface later
+edition book programming language adding might inferred appendix george orwell nineteen
+eightyfour three segment fictional language newspeak
+c vocabulary one dedicated technical term jargon
+doubleplus superlative modifier newspeak adjective thus
+c might hold meaning extremely technical jargonousnewspeak
+
+rick mascitti questioned informally inabout naming
+indicated given tongueincheek spirit never
+thought would become formal name language
+
+future development
+
+c continues evolve meet future requirement one groupparticular boostorg work make current
+form advises standard committee feature work
+well need improving current work indicates ccapitalize multiparadigm nature workboost example greatly expanding functionalmetaprogramming capability new version standardcurrently worked entitled denoting factexpected released beforewhich include number new
+features
+
+philosophy
+
+design evolution cbjarne stroustrup describes
+rule design knowing rule helps
+understand way following summaryrule much detail found design evolutionc
+c designed statically typed generalpurpose language
+efficient portable c designed directly comprehensively support multiple
+programming stylesprocedural programming data abstraction
+objectoriented programming generic programming
+c designed give programmer choice even makes
+possible programmer choose incorrectly
+c designed compatible possible therefore
+providing smooth transition c avoids feature platform specific general
+purpose
+c doe incur overhead feature used
+c designed function without sophisticated programming
+environment
+
+stanley lippman describes various model indepth book
+inside object modelfor compiler may convert program statement inmemory layout compiler vendor free
+implement standard manner lippman workedimplementing maintaining cfront original implementation
+bell labs
+
+standard library
+
+thec standard consists two part core languagec standard library latter includes standard template
+library slightly modified version standard library many
+c library exist part standard using
+external linkage library even written 
+c standard library incorporates standard librarysmall modification make work better language
+another large part library based standard template
+library stl provides useful tool containerexample vector list iterators generalized pointer provide
+container arraylike access algorithm perform
+operation searching sorting furthermore multimaps 
+associative array multisets provided export
+compatible interface therefore possible using templatewrite generic algorithm work containersequence defined iterators feature libraryaccessed using include directive include standard header
+c provides sixtynine standard header nineteendeprecated
+
+using standard libraryfor example using stdvectorstdstring instead cstyle arraycan help lead saferscalable software
+
+stl originally thirdparty library later sgi
+incorporation standard standard doerefer stl merely part standard library
+many people still use term distinguish restlibrary inputoutput stream internationalization diagnostics
+c library subset etc
+
+c compiler provide implementation standard
+library including stl compilerindependent implementationstl stlport also exist project also produce various
+custom implementation standard library stlvarious design goals
+
+feature introduced 
+compared language introduced extra feature including
+declaration statement functionlike cast new delete bool
+reference type inline function default argument function
+overloading namespaces class including classrelated features
+inheritance member function virtual function abstract
+class constructor operator overloading template 
+operator exception handling runtime type identification
+
+contrary popular belief introduce const keyword
+first const formally added shortly adoptedc
+
+c also performs type checking several case see
+incompatibility c
+comment starting two slasheswere originally part predecessor bcpl reintroduced 
+several feature later adopted including declarations
+loop cstyle comment using thesymbol inline
+though definition inline keyword compatiblec definition however also introduced featureexist variadic macro better handling arrayparameter compiler may implement featureextension others incompatible existing features
+
+common source confusion subtle terminology issue
+derivation c term object mean memory
+area like class instance meanobject oriented language example c
+statement int defines object type int memory
+area value variable stored assignment
+
+incompatibility 
+c often considered superset strictly
+true code easily made compile correctly cdifference cause valid code invalid
+c behave differently 
+perhaps commonly encountered difference allows
+implicit conversion void pointer type cfollowing valid code
+int imallocsizeofintimplicit conversion void int
+
+
+make work c one would need use explicit
+cast
+int iintmallocsizeofint
+
+another common portability issue defines many new keywords
+new class may used identifier variable
+name program
+
+incompatibility removed latest c
+standard support feature ascomments mixed
+declaration code however introduced number new features
+conflict variablelength array native
+complexnumber type compound literal language maydiverging converging
+
+order intermix c code code called
+fromused must put extern code
+
+language features
+
+operators
+
+logicalreleationalunary
+
+preprocessor
+
+c principally compiled three phase preprocessing translation
+object code linking two last phase generally
+thought compilation proper first phase
+preprocessing preprocessor directive apply lexical transformationsource code fed next compilation stage
+
+preprocessor directive macros
+
+preprocessing directive work simple substitution tokenized
+character sequence tokenized character sequence according
+userdefined rule typically perform macro substitution
+inclusion file opposition higherorder featureinclusion modulespackagesunitscomponents conditional
+compilation andor conditional inclusion instance
+define 
+
+every time appears source code replacedanother common exampleinclude iostream
+
+includes import symbol standard library header
+file iostream addition common directive mentioned
+several additional preprocessor directivecontrol flow compilation conditionally include exclude code
+block control various aspect compilation
+
+templates
+
+template different macro compiletime
+language feature used produce conditional compilation
+template restricted lexical substitution templateawareness semantics type system companion language
+well compiletime type definition perform highlevel
+operation including programmatic flow control based evaluationstrictly typechecked parameter macro capable conditional
+control compilation based predetermined criterion cannot
+instantiate new type recurse perform type evaluation effect
+limited precompilation textsubstitutiontextinclusionexclusion word macro control
+compilation flow based predefined symbol cannot unlike
+template independently instantiate new symbol template tool
+static polymorphism see generic programmingexample template replacing common dangerous macro define
+maxxy xyxy
+template typenamemaxt x
+xy
+returnelse
+return 
+
+found algorithm header stdmax
+
+addition template compile time mechanism cturingcomplete meaning computation expressible computer
+program computed form template metaprogram prior
+runtime
+
+objects
+
+c introduces objectoriented feature offers
+class provide four feature commonly present oononoo language abstraction encapsulation inheritancepolymorphism object set class basically likeset attribute already defined created time
+
+encapsulation
+
+c implement encapsulation allowing member classdeclared either public private protected public memberclass accessible function private memberaccessible function member classfunction class explicitly granted access permission class
+friend protected member accessible memberclass inherit class addition classfriends
+
+oo principle function accessinternal representation type encapsulated withintype definition support via member function friend
+function doe enforce programmer declare parts
+representation type public also
+allowed make public entity part representation
+type support programmingweaker decomposition paradigm like modular programming
+
+generally considered good practice make data privateprotected make public function partminimal interface user class hide implementation
+details
+
+inheritance
+
+inheritance base class may declared public protectedprivate access specifier determines whether unrelated derived
+class access inherited public protected memberbase class public inheritance corresponds usually
+meant inheritance two form much frequently
+used access specifier omitted inheritance assumedprivate class base public struct base base class may
+declared virtual called virtual inheritance virtual
+inheritance ensures one instance base class existsinheritance graph avoiding ambiguity problemmultiple inheritance
+
+multiple inheritance feature sometimes considered
+controversial multiple inheritance allows class derivedone base class result complicated graphinheritance relationship example flying cat classinherit cat flying mammal languagec java accomplish something similar although limitedallowing inheritance multiple interface restrictingnumber base class one interface unlike class provideimplementation function members
+
+polymorphism
+
+c support several kind staticcompiletime dynamic 
+runtime polymorphism compiletime polymorphism doe allowcertain runtime decision runtime polymorphism typically
+incurs performance penalty
+
+static polymorphism
+
+function overloading
+
+function overloading allows program declare multiple functionname function distinguished number andor
+type formal parameter thus function namerefer different function depending contextused
+
+operator overloading
+
+similarly operator overloading allows program define certain
+operator asorto result function calldepends type operand used
+class function templates
+
+template provide sophisticated mechanism writing generic
+polymorphic code particular curiously recurring
+template pattern possible implement form static
+polymorphism closely mimic syntax overriding virtual
+method dynamic polymorphism technique described since template typeaware turingcomplete also usedlet compiler resolve recursive conditionals generate
+substantial program template metaprogramming
+
+dynamic polymorphism
+
+polymorphism inheritance
+
+variable pointer reference base class type crefer object derived class type additionobject exactly matching variable type allows arraycontainer given type object hold pointer multiple types
+object cannot done otherwise assignment
+value variable usually occurs runtime necessarily
+runtime phenomenon
+
+c also provides dynamiccast operator allows programsafely attempt conversion object objectspecific object type opposed conversion general type
+always allowed feature relies runtime type
+information rtti object known certain specific typealso cast type staticcast purely compiletime
+construct faster doe require rtti
+
+virtual member functions
+
+virtual member function different object share common
+base class may support operation different way member
+function implemented derived class said overridemember function base class contrast function
+overloading parameter given member function always
+exactly number type type objectmethod called varies addition standard member functions
+operator overload destructors also virtual
+
+virtue inherited object polymorphic maypossible compiler determine type objectcompile time decision therefore put runtimecalled dynamic dispatch way specific implementation
+function called according actual runtime typeobject commonly done using virtual function tables
+may sometimes bypassed prepending fully qualified class
+name function call call virtual functiongeneral always resolved run time
+
+example
+
+include iostream
+
+class birdthe generic base class
+
+public
+virtual void outputname stdcouta bird
+virtual bird 
+
+
+class swanpublic birdswan derives bird
+
+public
+void outputname stdcouta swanoverrides virtual function
+
+
+int main
+
+bird mybirdnew swandeclares pointer generic bird
+set pointing newly created swan
+
+mybirdoutputnamethis output swan bird
+
+delete mybird
+
+return 
+
+
+example program make use virtual function polymorphisminheritance derive new specific object base classcase base class bird specific swanmade
+
+problem controversies
+
+c subject debate traditionally compilerrange problem standard doe cover implementation
+name mangling exception handling implementationspecific
+feature making object code produced different compilers
+incompatible however rdparty standard particular
+machine operating system attempt standardize compilerplatform example abi compiler adopt secondary
+standard items
+
+many year different compiler implemented languagedifferent level compliance standardimplementation varied widely area partial template
+specialization recent release popular compiler support
+almost cstandardone particular pointcontention export keyword intended allow template
+definition separated declaration first compiler
+implement export comeau earlyyearsrelease standard inbeta compiler borland builder
+x also released export compiler basededg front end also noted many books
+provide example code implementing keyword export example
+beginning ansi ivor horton compilereference problem keyword export mentionedcompiler gcc support herb sutter secretary
+c standard committee recommended export removedfuture version standardbut finally decision made
+leave standard 
+
+modern critic language raise several point first since based largely compatible inheritscriticism levelled language taken whole ha large
+feature set including plus large set additions
+part leading criticism bloated complicated
+language especially embedded system due featureexception rtti add code size embedded standard
+wa specified deal part received criticismleaving useful part language incur runtime penalty
+large featureset quite difficult fully
+master leading programmer often bringing unnecessarily advancedcomplicated solution simple problem relatively
+difficult write good parser modern algorithm see 
+partly grammar lalrtool analyzing performing nontrivial
+transformation refactoring existing code
+
+c also sometimes compared unfavorably singleparadigm
+objectoriented language java basis allows
+programmer mix match objectoriented procedural
+programming rather strictly enforcing single paradigmpart wider debate relative merit two programming
+styles
+

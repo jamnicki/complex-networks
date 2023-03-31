@@ -1,0 +1,77 @@
+copyright
+
+ cygni
+
+ school wikipedia selection related subject space astronomy
+
+captioncygni 
+observation data
+epoch constellationcygnus
+cygniright ascensionhdeclination
+apparent magnitude cygni right ascensionhdeclination
+apparent magnitude astrometry
+radial velocity rvkms
+proper motionramas decmas parallaxmas
+distancelypc
+absolute magnitude designations
+cygni
+gla hrbdhdlttgctp 
+saostruve hip 
+
+cygni glb hrbdhdltt 
+saostruve hip 
+
+cygni abbreviatedcyg triple star system located around 
+lightyears away constellation cygnus consists two
+sunlike yellow dwarf star red dwarf inan extrasolar
+planet discovered eccentric orbit around sunlike star 
+cygni 
+distance
+
+parallax two brightest star measured parthipparcos astrometry mission yielded parallax 
+milliarcseconds forcygni andmilliarcseconds forcygni
+b since two component associated reasonable assume
+lie distance different parallax result
+experimental error indeed associated parallax errortaken account range parallax overlap usingparallax component distance isparsecs parallax
+b component corresponds distance ofparsecs
+
+system components
+
+cygni hierarchial triple system star form close
+binary projected separation ofau orbital elementac binary currently unknown distance ofauthird component designatedcygni orbit relativeac pair well determined plausible orbit range periodtomillion year semimajor axis ranging fromto
+au
+
+bothcygni andcygni yellow dwarf star like sun
+according data genevacopenhagen survey starmass similar sun age estimate two star vary
+slightly butcygni likely much older solar
+system aroundmillion year oldcygni much fainter
+either star may red dwarf
+
+cyg acyg bcyg characteristics
+spectral typegvbgvbm
+bv colour index
+ub colour index
+variable typenonenone
+details
+massm
+radiusr
+luminosityl
+temperaturek
+metallicity
+rotation days
+ageyears
+
+planetary system
+
+inan extrasolar planet eccentric orbit announced around
+starcygni planet orbit takesdays complete
+semimajor axis ofau like majority known extrasolar
+planetscygni wa detected measuring radial velocityparent star give lower limit masscase abouttimes jupiter
+
+companion
+order starmass
+mjorbital period
+dayssemimajor axis
+aueccentricity
+bb
+

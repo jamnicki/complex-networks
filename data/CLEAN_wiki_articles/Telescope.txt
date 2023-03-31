@@ -1,0 +1,214 @@
+copyright
+
+telescope
+
+ school wikipedia selection related subject engineering
+
+cm refracting telescope nice observatory
+enlarge
+cm refracting telescope nice observatory
+
+telescope greek telefar skopeinto looksee teleskoposfarseeing instrument designedobservation remote object term usually refers optical
+telescope telescope spectrumelectromagnetic radiation signal types
+
+optical telescope gather focus visible lightelectromagnetic radiation telescope increase apparent angular
+size distant object well apparent brightness
+telescope work employing one curved optical element 
+lens mirrorsto gather light electromagnetic radiation
+bring light radiation focus imageobserved photographed studied optical telescope usedastronomy many nonastronomical instrument including
+theodolite transit spotting scope monoculars binoculars camera
+lens spyglasses
+
+singledish radio telescope focusing radio antenna oftenparabolic shape dish sometimes constructed conductive
+wire mesh whose opening smaller wavelength multielement
+radio telescope constructed pair larger groupdish synthesize large virtual aperture similar size
+separation telescope see aperture synthesiscurrent record array size many time widthearth utilizing spacebased long baseline interferometry vlbi
+telescope japanese halca highly advanced laboratorycommunication astronomy vsop vlbi space observatory program
+satellite aperture synthesis also applied optical
+telescope using optical interferometer array optical telescopes
+aperture masking interferometry single telescopes
+
+xray gammaray telescope problem ray metal glass use ringshaped glancing
+mirror made heavy metal reflect raydegree mirror usually section rotated parabola high
+energy particle telescope detect flux particle usually
+originating astronomical source
+
+history
+
+group newtonian telescope perkins observatory delaware ohio
+enlarge
+group newtonian telescope perkins observatory delaware ohio
+replica first telescope built used galileo display
+griffith observatory
+enlarge
+replica first telescope built used galileo display
+griffith observatory
+
+first telescope may assyrian crystal lensesbutvisby lens tentatively suggest technology knownarab persian leonard digges sometimes creditedinvention england usually credit assembling
+first telescope given unknown dutch spectacle makeraboutsome name person han lippershey jacob metius zacharias jansen also claimedinvented telescope period even lippersheymake first one publicized galileo galilei madetelescope incalling first perspicillum using
+term telescopium latin telescopio italianenglish word derives galileo generally creditedfirst use telescope astronomical purpose galileos
+telescope consisted convex object lens concave eye lens
+universally called galilean telescope used viewfinder
+many simple camera later johannes kepler described opticlens see book astronomiae par optica dioptrice including
+new kind astronomical telescope two convex lensprinciple often called kepler telescope optical interferometer
+array array radio telescope developed muchrecently
+
+type telescope
+
+telescope frequently characterised design detailusually named principal designer designer typetelescope optical telescope especially optical astronomical
+telescope three main types
+refracting telescope solely arrangementlenses
+reflecting telescope solely arrangementmirrors
+catadioptric telescope combination mirrorlenses
+
+telescope used direct viewing human eyetelescope pure reflector usual useeyepiece view image eyepiece design usearrangement lens much astronomy performed using photographic
+film digital sensor usually used without eyepiecemechanised operation telescope used pure reflectors
+
+detail see list telescope types
+
+research telescopes
+
+harlan smith telescope mcdonald observatory enlarge
+harlan smith telescope mcdonald observatory 
+large research telescope operate either cassegrain
+telescope longer focal length narrower field higher
+magnification newtonian telescope brighter fieldpierced primary mirror newtonian focus spider mountvariety replaceable secondary mirrors
+
+new era telescope making inaugurated multiple mirror
+telescope mmt mirror composed six segment synthesizingmirror ofmeters diameter replaced single
+mirror example followed keck telescope withm
+segmented mirrors
+
+largest current groundbased telescope primary mirrorbetweenandmeters diameter generation telescopes
+mirror usually thin kept optimal shapearray actuator see active optic technology driven new
+design future telescope diameter ofand even 
+meters
+
+relatively cheap massproducedmeter telescope recentlydeveloped made significant impact astronomy research
+allow many astronomical target monitored continuouslylarge area sky surveyed many robotic telescopes
+computer controlled internet see liverpool telescope
+faulkes telescope north south allowing automated
+followup astronomical events
+
+initially detector used telescope human eye latersensitized photographic plate took place spectrographintroduced allowing gathering spectral informationphotographic plate successive generation electronic detectors
+chargecoupled device ccds perfectedsensitivity resolution often wider wavelength
+coverage
+
+current research telescope several instrument chooseimagers different spectral responses
+spectrograph useful different region spectrum
+polarimeter detect light polarization
+
+recent year technology overcome distortion caused
+atmosphere groundbased telescope developed good
+result see adaptive optic speckle imaging optical
+interferometry
+
+phenomenon optical diffraction set limit resolution
+image quality telescope achieve effective
+area airy disc limit close two discplaced absolute limit called diffraction limitsometimes rayleigh criterion dawes limit sparrow resolution
+limit limit depends wavelength studied lightlimit red light come much earlier limit blue
+light diameter telescope mirror meantelescope certain mirror diameter resolve certain
+limit certain wavelength greater resolution neededwavelength wider mirror built aperture synthesis
+performed using array nearby telescopes
+
+imperfect images
+
+telescope form perfect image even reflecting telescope
+could perfect mirror refracting telescope couldperfect lens effect aperture diffraction could stillescaped reality perfect mirror perfect lens exist
+image aberration addition aperture diffraction must taken
+account image aberration broken two main
+class monochromatic polychromatic inphilipp ludwig von
+seideldecomposed first order monochromatic aberrations
+five constituent aberration commonly referredfive seidel aberrations
+
+five seidel aberrations
+
+spherical aberration
+difference focal length paraxial raymarginal ray proportional square aperture
+
+coma
+objectionable defect point imagedcometlike asymmetrical patch light tail makes
+measurement imprecise magnitude usually deduced
+optical sine theorem
+
+astigmatism
+image point form focal line sagittaltangiental focus absence comaelliptical shape
+
+curvature field
+petzval curvature mean image instead lyingplane actually lie curved surface describedhollow round cause problem flat imaging device
+used photographic plate ccd image sensor
+
+distortion
+either barrel pincushion radial distortion mustcorrected multiple image combined similarstitching multiple photo panoramic photo
+
+always listed order since expressinterdependence first order aberration via moveexitentrance pupil first seidel aberration spherical
+aberration independent position exit pupilaxial extraaxial pencil second coma changes
+function pupil distance spherical aberration hencewellknown result impossible correct coma lens
+free spherical aberration simply moving pupil similar
+dependency affect remaining aberration list
+
+chromatic aberrations
+
+longitudinal chromatic aberration
+spherical aberration axialoblique pencils
+
+transverse chromatic aberration chromatic aberration magnification
+
+famous optical telescopes
+
+hubble space telescope orbit earth
+enlarge
+hubble space telescope orbit earth
+hubble space telescope orbit beyond earth atmosphereallow observation distorted astronomical seeingway image diffraction limited usedcoverage ultraviolet infrared
+keck telescope currentlyas ofthe largestsoon superseded gran telescopio canariassouthern african large telescope
+large telescope array vlt currentlyas ofthe
+record holder total collecting area array telescopes
+four telescope eachmeters diameter four
+telescope belonging european southern observatory eso
+located atacama desert chile usually operated
+independently faint astronomical observation three
+telescope operated together aperture synthesis
+observation bright objects
+navy prototype optical interferometer optical telescope
+array currentlyas ofproduce highest
+resolution image visible wavelengths
+chara centre high angular resolution astronomy arraytelescope array currentlyas ofproducehighest resolution image nearinfrared wavelengths
+many plan even larger telescope oneoverwhelmingly large telescope owl intendedsingle aperture ofmeters diameter
+inch meter hale telescope palomar mountainlargest conventional research telescope many yearsingle borosilicatepyrex mirror famously difficult
+construct mounting special design equatorial mount
+called yoke mount permit telescope pointednear north celestial pole
+inch meter hooker telescope mount wilson
+observatory used edwin hubble discover galaxyredshift mirror made green glass saintgobaintelescope used first stellar diameter
+measurement using interferometry telescope haadaptive optic system still useful advanced research
+inch leviathan birr castle ireland largest
+telescope world fromuntil dismanlted 
+wa exceeded size construction hooker
+telescope
+meter yerkes telescope wisconsin largest
+aimable refracting telescope use
+meter nice refractor france became operational
+inwas time world largest refractorlast time powerful operational telescope world
+wa located europe exceeded size one year latermeter refractor lick observatory
+largest refractor ever constructed french wadisplay theparis exposition lens stationary
+prefigured sag correct shape telescopeaimed aid foucault sidrostat movable plane
+mirror meter diameter mounted large castiron frame
+horizontal tube wasm long objective hadmdiameter failure
+gran telescopio canariasgrantecan also gtc high
+performance segmentedmeter telescope installed
+one best site northern hemisphere roque los muchachos observatory palma canary island spain
+meter refracting swedish solar telescope sst palma
+spain currently highestresolution solar telescopeworld
+
+famous telescopes
+
+arecibo observatory
+atacama large millimeter array
+large array
+chandra xray observatory
+xmmnewton
+ligo
+icecube neutrino detector
+isaac newton telescope
+william herschel telescope
+hexapodtelescope
+

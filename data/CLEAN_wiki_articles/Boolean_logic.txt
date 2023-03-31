@@ -1,0 +1,237 @@
+copyright
+
+boolean logic
+
+ school wikipedia selection related subject mathematics
+
+boolean logic complete system logical operation named
+george boole english mathematician university college cork
+first defined algebraic system logic mid century
+boolean logic many application electronics computer hardware
+software base digital electronics inclaude
+shannon showed electric circuit relay modelboolean logic fact soon proved enormously consequentialemergence electronic computer
+
+using algebra set article contains basic introduction
+set boolean operation venn diagram truth table boolean
+application boolean algebra article discus type algebraic
+structure satisfies axiom boolean logic binary
+arithmetic article discus use binary number computer
+systems
+
+terms
+
+venn diagram showing intersection set violetunion set colored region set xor bcolored region except violet universe represented
+rectangular frame
+venn diagram showing intersection set violetunion set colored region set xor bcolored region except violet universe represented
+rectangular frame
+
+let set
+element one member set denoted inifelement set denoted notin 
+
+universe set sometimes denoted bynoteuse word universe mean element considered
+necessarily element
+empty set null set set element denotedvarnothing sometimes 
+
+unary operator applies single set one unary
+operator called logical work taking complement
+
+binary operator applies two set basic binary operators
+logical logical perform unionintersection set also derived binary
+operator xor exclusive see geometry logic
+
+subset denoted subseteq mean every element set
+also set 
+proper subset denoted subset mean every element
+set also set two set equal
+
+superset denoted supseteq mean every elementset also set
+proper superset denoted supset mean every element
+set also set two set equal
+
+example
+
+let imagine set contains even number multiple two
+universe set contains multiple threeuniverse intersection two set element sets
+b would multiple six universe
+
+complement set element set would odd
+number universe
+
+chaining operation together
+
+two set joined boolean operation new set
+formed operation joined set utilizing
+additional boolean operation using previous exampledefine new set set multiple fiveuniverse thus set c would multiple ofin
+universe convenient may consider set abintersection set set multiple sixuniverse say set c setmultiple ofin universe could take step
+call result set abc
+
+use parentheses
+
+number logical ands number logical maychained together without ambiguity combination andsnots lead ambiguous case case parenthesis mayused clarify order operation always operations
+within innermost pair performed first followed next pair
+etc operation within parenthesis completed
+operation outside parenthesis performed
+
+properties
+
+let define symbol two primary binary operation land 
+cap logical andintersection lorcup logical orunionsingle unary operation lnotlogical notcomplementalso use valueslogical falsethe empty set andlogical
+truethe universe following property apply boolean
+algebra boolean logic
+
+lor lor lor lor land land land land associativity
+lor lor land land commutativity
+lor land land lor absorption
+lor land lor land lor land lor 
+land lor land distributivity
+lor lnot land lnot acomplements
+lor land idempotency
+lora landa boundedness
+lora land
+lnotlnotandare complements
+lnot lor blnot land lnot lnot land blnotlor lnot de morgan laws
+lnot lnot involution
+
+first three property define lattice first five defineboolean algebra
+
+truth tables
+
+boolean logic using two valuesandthe intersectionunion value may defined using truth table
+cap
+
+
+
+cup
+
+
+complex truth table involving multiple inputboolean operation may also created
+
+truth table application logic interpretingas false 
+true cap cup andas
+notations
+
+mathematician engineer often use plusfor product
+signcdotfor somewhat analogous addition
+multiplication algebraic structure notation
+make easy get sum product form normal algebramay represented line drawn expression negated 
+overlinex 
+
+programmer often use pipe symbolfor ampersand 
+tildefor many programming languagesymbol stand bitwise operationsandare usedvariant operations
+
+another notation meet join howeverlead confusion term join also commonly usedboolean operation combine set together includes
+basic mathematics use boolean terms
+
+case simultaneous equation connectedimplied logical
+xy
+
+
+xy
+
+applies simultaneous inequalities
+
+xy
+
+
+xy
+
+greater equal signgeand equals
+signlemay assumed contain logical
+x
+
+
+x
+
+plusminus signpmas case solutionsquare root problem may taken logical
+width
+
+
+width
+
+english language use boolean terms
+
+care taken converting english sentence formal
+boolean statement many english sentence imprecise meaning glitter gold could mean nothingglitter gold thing glitter gold
+
+also used interchangeably english certain
+cases
+always carry umbrella rain snows
+
+always carry umbrella rain snows
+
+sometimes english word opposite meaningboolean logic
+give red blue berry usually mean giveberry red blue alternative phrasing standard
+written english give berry red wellberry blue
+
+also note word english may correspond either
+logical logical xor depending context
+start sweat humidity temperature high
+logical
+want ice cream candy may ice cream candy
+logical xor
+
+combination andor sometimes used english specifylogical using word alone might mistaken
+meaning logical xor
+im chicken andor beef dinner logicalalternative phrasing standard written english imeither chicken beef dinner
+
+use andor virgule generally disfavored formal
+written english usage may introduce critical imprecision legal
+instrument research finding specification computer
+program electronic circuit example statementprogram verify applicant checked male female
+box taken xor check added ensure one
+one box selected case interpretationenglish may certain author specification may
+need consulted determine true intent
+
+applications
+
+digital electronic circuit design
+
+boolean logic also used circuit design electrical
+engineering hereandmay represent two different state one
+bit digital circuit typically high low voltage circuitdescribed expression containing variable two expressions
+equal value variablecorresponding circuit inputoutput behavior
+furthermore every possible inputoutput behaviour modeledsuitable boolean expression
+
+basic logic gate gate may used aloneconjunction nand xor gate control digital
+electronics circuitry whether gate wired seriesparallel control precedence operations
+
+database applications
+
+relational database use sql databasespecific languageperform query may contain boolean logic application
+record table may considered element set
+example sql select statement used retrieve data
+table database
+selectfrom employee lastnamesmith firstnamejohn 
+
+selectfrom employee lastnamesmith orfirstnamejohn 
+
+selectfrom employee lastnamesmith 
+
+parenthesis may used explicitly specify orderboolean operation occur multiple operation present
+selectfrom employee lastnamesmith firstnamejo
+hn firstnamemary 
+
+multiple set nested parenthesis may also used needed
+
+boolean operation operation combine twotable together referred join relational database
+terminology
+
+field electronic medical record software applications
+use boolean logic query patient database hanamed concept processing technology
+
+search engine queries
+
+search engine query also employ boolean logic application
+web page internet may considered elementset following example use syntax supported google
+doublequotes used combine whitespaceseparated wordsingle search term
+whitespace used specify logical default
+operator joining search terms
+
+search termsearch term 
+
+keyword used logical
+search termor search term 
+
+minus sign used logical
+search termsearch term 
+

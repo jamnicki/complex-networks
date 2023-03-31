@@ -1,0 +1,189 @@
+copyright
+
+measurement
+
+ school wikipedia selection related subject mathematics
+
+various meters
+enlarge
+various meters
+
+measurement estimation determination extent dimensioncapacity usually relation standard unit measurement
+measurement expressed number unit standardreal number time unit distance indicated number
+mile kilometers
+
+process measuring involves estimating ratio magnitude
+quantity magnitude unit type length
+time mass etc measurement result process
+expressed product real number unit real
+number estimated ratio example ismetresestimate object length relative unit length metre
+unlike count integer quantity item known exactly
+every measurement estimate uncertainty
+
+overview
+
+natural science act measuring object normally
+involves comparing magnitude quantity possessed object
+standard unit using instrument controlled
+condition example measuring instrument include thermometer
+speedometer weighing scale voltmeter order measure
+accurately measuring instrument must carefully constructedcalibrated however measurement degree uncertainty
+associated usually expressed standard errormeasurement mean measurement usually givennumber followed unit every measurement three componentestimate error bound probability actual magnitude
+lie within error bound estimate example measurement
+plank might result measurement ofmeters plus minus 
+meter probability 
+
+measurement usually distinguished count measurementreal number never exact count natural number mayexact example determine exactlyeggscarton counting however group easily
+counted estimating number involve similar issuephysical measurement example figure number people
+hiv number star milky way associated
+standard error viewed estimate rather exact
+counts
+
+measurement fundamental field science including
+physic chemistry biology measurement also essentialdiverse range industry commercial applicationengineering construction manufacturing pharmaceutical productionelectronics
+
+us term
+
+addition definition measurement given termalso often used looser fashion refer processnumber assigned entity represent increasing amountdegree sense example count raw score testsometimes referred measurement example include consumer
+confidence rate increase price good service
+
+history
+
+law regulate measurement originally developed prevent
+fraud however unit measurement generally definedscientific basis established international treatyunited state commercial measurement regulated national
+institute standard technology nist division united
+state department commerce
+
+history measurement topic within history science
+technology metre meter standardized unitlength french revolution since adopted
+throughout world united state ukprocess converting system process knownmetrication
+
+unit system measurement
+
+measurement involves estimation magnitude quantities
+relative particular quantity called unit specificationunit fundamental importance measurement definitionspecification precise standard measurement involves two key
+feature evident international system unit specifically system definition base units
+make reference specific empirical conditionexception kilogram also quantitative attributederived unit defined purely term relationship involving
+unit example unit velocity ism due
+fact derived unit make reference base unitspecification empirical condition implied componentdefinition units
+
+measurement specific entity relation result least
+two number relationship entity relationstudy referenced unit measurement least one number
+estimate statistical uncertainty measurement also referred
+measurement error measuring instrument used estimate
+ratio magnitude unit prior comparison underliecalibration term standard unit commonly used instruments
+constructed measure physical quantities
+
+imperial system
+
+si unit widely adopted around world british
+system english unit later imperial unit used britain
+commonwealth united state system came knownu customary unit united state still usecaribbean country various system measurementtime called footpoundsecond system imperial units
+distance weight time interesting note many
+imperial unit remain use britain despite factmostly switched system road sign still mile yards
+mile per hour etc people tend measure height feet
+inch beer sold pint give examples
+imperial unit used many place example many
+commonwealth country considered metricated land areameasured acre floor space square foot particularlycommercial transaction rather government statistic similarly
+imperial gallon used many country considered
+metricated gaspetrol station example united arab
+emirates
+
+metric system
+
+metric system decimalised system measurement basedmeter gram exists several variation different
+choice base unit though affect daytoday use
+since international system unit explained
+internationally recognised standard metric
+system metric unit mass length electricity widely used
+around world everyday scientific purpose main
+advantage metric system single base unitphysical quantity unit power ten multiples
+ten base unit unit conversion always simpleratio ten one hundred one thousand etclength distance example measured meterthousandth metre millimeter thousand meters
+kilometre profusion different unitdifferent conversion factor imperial system inches
+foot yard fathom rod multiple submultiples relatedfundamental unit factor power ten oneconvert simply moving decimal placemetres 
+millimetre orkilometres use fraction 
+meter prohibited uncommon
+
+si
+
+international system unit abbreviated french
+language name systme international dunits modern revised
+form metric system world widely used systemunit everyday commerce science wa developed
+infrom metre kilogram second mks system rathercentimetregramsecond cgs system turn many variants
+development also introduced several newly named units
+previously part metric system
+
+two type unit base derived unit base unitsimple measurement time length mass temperature amountsubstance electric current light intensity derived unitmade base unit example density kgm
+
+converting prefixes
+
+si allows easy multiplication switching among unitbase different prefix working meterwant convert centimeter need multiply numbermeter bybecause arecentimeters meter inversely
+switch centimeter meter multiply numbercentimeter 
+
+length
+
+ametre carpenter rule
+enlarge
+ametre carpenter rule
+
+ruler rule tool used geometry technical drawingengineeringbuilding measure distance andor rule straight
+line strictly speaking ruler instrument used rule
+line calibrated instrument used determining measurementcalled measure however common usage ruler calibrated
+measure
+
+several different design flexible instrument used determine
+length carpenter rule ribbonlike tape measure used
+tailor retractable rule used especiallyconstruction trade home handyman also known tape measure
+seen photo page ametre carpenter rule
+folded length onlycentimetres easily fitpocket themetre long tape easily retracts fit withinsmallsized housing
+
+time
+
+common device measuring time clock periods
+le day calendar period longer day
+clock range watch exotic varietyclock long driven variety means
+including pendulum also variety different calendars
+example lunar calendar solar calendar althoughgregorian calendar commonly used
+
+chronometer timekeeper precise enough used portable
+time standard usually order determine longitude meancelestial navigation
+
+accurate type measuring device time atomic
+clock archaic device include hourglass sundialtempometer water clock
+
+mass
+
+weighing scale device measuring weight object
+digital scale accurate mean measuring weight
+mass object using balance conventional form
+class measuring instrument compare sample placedweighing pan weighing basin suspended one end beamstandard mass combination standard mass scale pan scale
+basin suspended end weigh objectmeasuring pan standard weight added scale panbeam equilibrium closely possible accurateversitile springbased scale calibrated springdeforms linearly weight put mass also refermuch inertia object
+metrology
+
+metrology study measurement general metric scale
+measurement defined term standard termwelldefined unit quantification phenomenon process
+measurement relies existence explicit implicit
+metric standard measurement referencedone say amthat person indicating measurement without
+supplying applicable standard could mean amyears oldamfeet high however implicit metric isyears old
+
+probabilistic measurement
+
+measurement limited physical quantity relationextend quantification magnitude kind social
+science field health biology market research
+probabilistic model rasch model measurementapplied order measure using instrument questionnaires
+assessment enable comparison person fieldpsychometrics concerned theory technique measurement
+psychological mental phenomena
+
+difficulty measurement
+
+physical quantity gaining accurate measurement difficult
+possible exact instead repeated measurementvary due various factor affecting quantity temperature
+time electromagnetic field especially measurement methodexample measurement speed light quantityknown high degree precision due modern method even
+method variability measurement
+statistical technique applied measurement sampleestimate speed earlier set measurement variability
+wa greater comparing result show variabilitybias measurement method properly taken account
+proof various group measurement plotted
+estimated speed error bar showing expected
+variability estimated speed actual number error
+bar experiment overlap meannumber group incorrectly accounted true source error
+overestimated accuracy methods

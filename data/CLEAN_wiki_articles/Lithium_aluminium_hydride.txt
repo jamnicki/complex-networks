@@ -1,0 +1,186 @@
+copyright
+
+lithium aluminium hydride
+
+ school wikipedia selection related subject chemical compounds
+
+lithium aluminium hydride
+lithium aluminium hydride structure lithium aluminium hydride
+general
+systematic name lithium aluminium hydride
+name lah lithium alanate
+lithium tetrahydridoaluminate
+lithal slang
+molecular formula lialh
+molar massgmol
+appearance white crystal pure samples
+grey powder commercial material
+ca number 
+properties
+density phasegcm solid
+solubility water reactive
+diethyl ether thfandmoll
+melting pointck decomposing
+boiling point structure
+coordination geometry
+crystal structure monoclinic
+dipole momentd
+hazards
+msds external msds
+main hazard highly flammable
+nfpa 
+
+
+
+
+del del
+
+flash point r statement rtecs number supplementary data page
+structureproperties r etc
+thermodynamic data phase behaviour
+solid liquid gas
+spectral data ir nmr related compounds
+related hydride sodium borohydride
+sodium hydride
+except noted otherwise data givenmaterial standard state ckpa
+infobox disclaimer references
+
+lithium aluminium hydride lial commonly abbreviated lahpowerful reducing agent used organic chemistrypowerful related reducing agent sodium borohydride dueweaker alh bond compared bond convert esters
+carboxylic acid ketone alcohol nitro compoundamines
+
+lah violently reacts water including atmospheric moisturepure material pyrophoric commercial material inhibitedmineral oil allow handling air
+
+pure recrystallized diethyl ether lah white solid
+commercial sample almost always grey due trace contamination
+aluminium metal white airexposed commercial sample lahabsorbed enough moisture become mixture lithium hydroxidealuminium hydroxide
+
+preparation
+
+lah usually produced reaction lithium hydride lih
+aluminium chloride alcl
+
+lihalcl rightarrow lialhlicl
+
+proceeds high yield lahww licl removedfiltration ethereal solution lah subsequent
+precipitation lah yield product aroundww licl
+
+inorganic reactions
+
+lah nah used produce sodium aluminium hydride naalh
+metathesis thf yield ofww
+
+lialhnah rightarrow naalhlih
+
+potassium aluminium hydride kalh produced yieldww reaction diglyme similar way
+
+lialhkh rightarrow kalhlih
+
+reverse production lah either sodium aluminium
+hydride potassium aluminium hydride obtained reactionlicl diethyl ether thf yield ofandww
+respectively
+
+naalhlicl rightarrow lialhnacl
+kalhlicl rightarrow lialhkcl
+
+magnesium alanate mgalh synthezised lahmgbr
+
+lialhmgbr rightarrow mgalhlibr
+
+use organic chemistry
+
+lithium aluminium hydride widely used organic chemistrypowerful reducing agent despite handling problem associatedreactivity even used smallindustrial scale althoughlarge scale reduction related reagent sodium
+bismethoxyethoxyaluminium hydride redal usualpurpose usually used solution diethyl etheraqueous workup usually performed reduction orderremove inorganic byproduct commonly usedreduction ester carboxylic acid primary alcohol prior
+advent lialh difficult conversion involving
+sodium metal boiling ethanol bouveaultblanc reduction
+aldehyde ketone also reduced alcohol lahusually done using milder reagent nabh unsaturated
+ketone reduced allylic alcohol epoxides reduced
+using lah reagent attack hindered end epoxide
+usually producing secondary tertiary alcohol reducesprogressive breakup complex alh transfer hydride
+ion positive centre organic compound may low
+density electron due inductive mesomeric effects
+
+organic reaction lithium aluminium hydride
+
+amine prepared lah reduction amidesoximes 
+nitrile nitro compound alkyl azide lah also able reduce
+primary alkyl halide alkanes
+
+lithium aluminium hydride able reduce simple alkenebenzene ring alkyne reduced alcohol groupnearby
+
+thermal decomposition
+
+room temperature lah metastable prolonged storage may
+slowly decompose lialh lih processaccelerated presence catalytic element ti v
+
+heated lah decompose three step reaction mechanism
+
+lialh rightarrow lialhalh lialh rightarrow lihalh lihal rightarrow lialh 
+r usually initiated melting lah around temperatureoc immediately followed decomposition solid
+lialh lialh decompose lih rsubsequently decompose lial r effectively
+irreversible lialh metastable reversibility ha yet conclusively established reversibleequilibrium pressure aboutbar r occur
+room temperature suitable catalysts
+
+according reaction lialh containswthydrogen
+thereby making lah potential hydrogen storage medium future fuel
+cell powered vehicle cycling would storewtinmaterial single step comparable two step naalh
+
+solubility data
+
+lah soluble many etheral solution however may spontaneously
+decompose due presence catalytic impurity thoughappears stable thf thus thf preferred diethyl ether even despite lower solubility
+
+caption solubility data lialh moll
+
+temperature solvent
+diethyl ether
+thf
+monoglyme
+diglyme
+triglyme
+tetraglyme
+dioxane
+dibutyl ether
+
+note water used solvent lithium aluminium
+hydride would react following equation
+
+lialhho rightarrow lialohh
+
+crystal structure
+
+crystal structure lah atom blue alh tetrahedronred unit cell border marked black line
+enlarge
+crystal structure lah atom blue alh tetrahedra
+red unit cell border marked black line
+
+crystal structure lah belongs monoclinic crystal system
+space group crystal structure lahillustrated right structure consists atom surrounded
+five alh tetrahedron atom bonded one hydrogen atom
+surrounding tetrahedron creating bipyramid
+arrangement side length unit cell approxb theangle approxat high pressures
+gpa phase transition lah occurs
+
+thermodynamic data
+
+table summarizes thermodynamic data lah reaction involving
+lah form standard enthalpy entropy gibbs free energy
+change respectively
+
+caption thermodynamic data reaction involving lialh
+
+reaction kjmol jmol go kjmol comment
+lisalshg rightarrow lialhs
+standard formation elements
+lihsalshg rightarrow lialhs
+using hoflihsoflihand goflih 
+
+lialhs rightarrow lialhlheat fusion valueprobably unreliable
+lialhl rightarrow lialhsalshg 
+calculated reported value go
+
+retrieved 
+httpenwikipediaorgwikilithiumaluminiumhydride
+reference article mainly selected english wikipedia
+minor check change see wwwwikipediaorg details
+author source available gnu free
+documentation license see also disclaimer

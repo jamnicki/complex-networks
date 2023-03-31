@@ -1,0 +1,313 @@
+copyright
+
+doom
+
+ school wikipedia selection related subject computervideo games
+
+doom
+ultimate doom title artwork painted ivan punchatz
+depicts lone hero space marine fighting demonic creatures
+developer software
+publisher software interactive activision
+designer john romero
+engine doom
+release date december
+genre firstperson shooter
+mode single player
+multiplayercooperative
+multiplayerdeathmatch
+rating esrbesrb tgba
+bbfc 
+oflcrsac blood gore
+l mild expletives
+platform pcmsdos
+version port doom
+mediafloppy disk 
+
+doom doom acomputer game software amonglandmark title firstperson shooter genre widely
+recognized pioneering use immersive graphic networked
+multiplayer gaming platform support playercreate custom expansionswads distributed shareware doomdownloaded estimatedmillion people within two years
+popularizing mode gameplay spawning gaming subculturesign impact industry game mids boomfirstperson shooter often known simply asdoom clonegraphic interactive violence also made doom subject much
+controversy reaching outside gaming world according gamespy
+doom voted industry insider thegame time
+
+doom franchise continued doom hell earthand
+numerous expansion pack including ultimate doommaster
+level doom iiand final doomoriginally released
+pc game later ported manyplatform including nine different game console series lost
+mainstream appeal technology doom game enginesurpassed mids although fan continued making wads
+speedrunning modifying source code released 
+franchise received popular attention inwith release
+dooma retelling original game using new technologyassociateddoom motion picture
+
+game features
+
+story
+
+doom science fiction horror theme simple plotbackground given game manual ingame storymainly advanced short message displayed games
+episodes
+
+player take role nameless space marine referred 
+doomguy many fan one earth toughest hardened combat
+trained action deported mar assaultingsenior officer ordered kill unarmed civilian forcedwork union aerospace corporation uac militaryindustrial
+conglomerate performing secret experiment teleportation
+moon mar phobos deimos suddenly something goes
+wrong creature hell come teleportation gategateway defensive response base security fails haltinvasion base quickly get overrun demon personnel
+killed turned zombie time deimos vanishes
+entirely uac team mar sent phobos investigateincident soon radio contact cease one human left
+alivethe player whose task make alive
+
+order beat game player must fight three episodes
+containing nine level see episode level doom
+kneedeep dead first episode oneshareware version set hightech military base phobosend player fighting baron hell afterwards
+entering teleporter leading deimos getting overwhelmedmonster seemingly killed second episode shore hell
+player journey deimos installation whose areainterwoven beastly architecture encounteringcyberdemon truth vanished moon discoveredfloating hell player climb surfacefinal episode inferno begin destroying final bosspider mastermind hidden doorway open hero proven
+tough hell contain leading back home earthexpansion pack ultimate doom add fourth episode thy flesh consumed
+chronicling marine return earth
+
+gameplay
+
+firstperson shooter doom experienced eyemain character objective level simply locateexit room lead next area usually labeled inviting
+red exit sign surviving hazard way amongobstacle monster pit radioactive slime ceiling come
+crush player locked door keycardremote switch need located level sometimes labyrinthine
+automap crucial aid navigating feature plenty
+hidden secret area hold powerups reward playerexplore
+
+doom notable weapon arsenal available playerbecame prototypical firstperson shooter player start armed
+pistol brassknuckled fist case ammunition
+run larger weapon picked chainsawshotgun chaingun rocket launcher plasma rifle finallyimmensely powerful bfgthere wide array powerupsbackpack increase player ammunitioncarrying capacity
+armor first aid kit restore health berserk pack black
+first aid box put character berserk mode allowingdeal rocket launcherlevel damage fistpotentially splattering former human imp supernatural blue
+orb boost player health percentage beyondupmaximum 
+
+enemy monster doom make central gameplay elementplayer face large number higher game five
+difficulty level often encountering dozen room
+aretypes monstersdoom double figure
+including possessed human well demon different strength
+ranging weak ubiquitous imp red floating cacodemonboss survive multiple strike even players
+strongest weapon monster simple behaviour consisting
+either walking toward player attacking throwing fireballs
+biting scratching though also fight
+many version doom sequel include secret levelaccessed player discovering alternate exit often hidden behind
+secret door difficulttoreach area version doom
+ii two secret level incorporate level design characters
+doom precursor wolfenstein
+aside singleplayer game mode doom feature two multiplayer
+mode playable network cooperative two four
+player team legion hell anddeathmatchtwo four player fightdoom singleplayer gameplay demonstration
+video singleplayer game level mount
+erebus
+
+
+development
+
+doom monster digitized sculpture adrian
+carmack creates baron hell clay
+enlarge
+doom monster digitized sculpture adrian
+carmack creates baron hell clay
+
+development doom started inwhen john carmack developednew game engine doom engine rest software
+team finished wolfenstein sequel spear destiny game
+design phase began latethe main thematic influencescience fiction action movie alien horror movie evil dead title game picked carmack
+
+scene inthe colour money tom cruse sic
+show pool hall custom pool cue caseasks someone doom replied crusecocky grin resulting carnage viewed
+u springing game industry
+
+designer tom hall wrote elaborate design document called doom
+bible according game would feature detailed storyline
+multiple player character number interactive features
+however many idea discarded development favour
+simpler design primarily advocated carmack resulting hallend forced resign due contributing effectivelydirection rest team going level design
+ended final game john romero sandy
+petersen graphic adrian carmack kevin cloud gregor
+punchatz created various way although much drawnpainted several monster built sculpture claylatex weapon toy gun toy u heavy
+metal ambient soundtrack supplied bobby prince
+
+engine technology
+
+doom primary distinguishing feature time releaserealistic graphic unparalleledrealtimerendered game running consumerlevel hardwareadvance software previous game wolfenstein enabledseveral new feature doom engine
+height difference room wolfensteinaltitude
+non perpendicular wall wall wolfenstein run alongrectangular grid
+swaying weapon wolfenstein arm stay fixedfront screen matter character doe gives
+impression fluidity walking running
+full texture mapping surface wolfenstein floorceiling texture mapped
+varying light level area wolfenstein fully litbrightness contributing game visual
+authenticity allowing effect highlight shadows
+perhaps importantly added game atmosphereeven gameplay use darkness mean frighteningconfusing player unseen element games
+
+contrast static level wolfenstein doomhighly interactive platform lower rise floor raise
+sequentially form staircase bridge raise lowerlifelike feeling environment enhanced stereo
+sound system made possible roughly tell directiondistance sound origin player kept guard grunts
+growl monster receives occasional clue finding secret
+area form sound hidden door opening remotely monsters
+also become aware player presence hearing distant
+gunshots
+
+carmack make use several trick feature run
+smoothly home computer ofmost significantly doom leveltruly threedimensional internally representedplane height difference added separately similar trickstill used many game create huge outdoor environmentlead several limitation example possibledoom level one room another twodimensional
+representation doe however benefit renderingdone quickly using binary space partitioning method another
+benefit clearness automap could displayed
+vector without risk overlapping
+
+another important feature doom engine modular approachallows game content replaced loading custom wad files
+wolfenstein designed expandable fannevertheless figured create leveldoom designed take phenomenon ability create
+custom scenario contributed significantly game popularity
+see section wad
+release later history
+
+initial popularity
+
+development doom surrounded much anticipation large
+number post internet newsgroups doom led spispopd
+joke nod given game form cheat code
+addition news rumor screenshots unauthorized leaked alpha
+version also circulated online many year later alpha versions
+sanctioned software historical interestreveal game progressed early design stage first
+public version doom uploaded ftp run universitywisconsinmadison december
+
+released shareware people encouraged distribute doom
+indoom estimated installed
+thanmillion computer although user purchase
+registered version one million copy soldpopularity helped sale later game doom seriesreleased shareware inthe ultimate doom version
+including episode wa released making first time
+doom sold commercially stores
+
+press release dated januaryid software writtenexpected doom number one cause decreased
+productivity business around world prediction came true
+least part doom became major problem workplaceoccupying time employee clogging computer networktraffic caused deathmatches intel lotus development carnegie
+mellon university among many organization reported form
+policy specifically disallowing doomplaying work hourmicrosoft campus doom one account equal religious
+phenomenon
+
+latedoom estimated installed computers
+worldwide microsofts new operating system windowsdespite
+milliondollar advertising campaign latter games
+popularity prompted bill gate briefly consider buying software
+led microsoft develop windowsport doom promoteoperating system gaming platform one presentation promote
+windowshad bill gate digitally superimposed gamemicrosoftrelease excelincluded doomesque secret leveleaster egg containing portrait programmer amongthing speculated microsoft engineer took advantageexperience working doom windowsport place code
+spreadsheet program
+
+doom also widely praised gaming press initawarded game year gamer computer gaming worldalso received award technical excellence magazinebest action adventure game award academy interactive arts
+sciences
+
+addition thrilling nature singleplayer gamedeathmatch mode important factor game popularity doom
+wa first firstperson shooter deathmatch mode midi
+maze atari one inusing midi port builtst network four machine together however doom wafirst game allow deathmatching ethernet combinationviolence gore fighting friend made deathmatching doom
+particularly attractive two player deathmatch also possiblephone line using modem due widespread distribution doom
+hence became game introduced deathmatching large audience
+wa also first game use term deathmatch
+
+wads
+
+ability create custom level otherwise modify gameform custom wad file turned particularly popular
+aspect doom gaining first large modmaking community doom
+affected culture surrounding firstperson shooter alsoindustry several tobe professional game designer startedcareer making doom wad hobby among tim willits later
+became lead designer software
+
+first level editor appeared earlyand additional tools
+created allow aspect game edited
+although majority wad contain one several custom levels
+mostly style original game others implement new monsters
+resource heavily alter gameplay several popular
+movie television series brand popular cultureturned doom wad fan without authorization including
+alien star war xfiles simpson south park pokemonbatman work like theme doom patch even combined enemyseveral movie like alien predator terminator
+
+addon file also made changed sound madevarious character weapon notable one sample beavis
+butthead famous orgasm scene harry met sally
+
+aroundandwads primarily distributed onlinebulletin board system sold collection compact disccomputer shop sometimes bundled editing guide book ftp servers
+became primary method later year wad released
+commercially including master level doom iireleased inalong maximum doom containingwads
+downloaded internet several thousand wads
+created total idgames ftp archive containsfile doe represent complete output doom
+fans
+
+third party program also written handle loading various
+wad since game game command entered
+command line order run typical launcher would allowplayer select file load menu making much easier
+start
+
+clone related products
+
+phrase doom clone initially popular describe stylegameplay doomlike game afterwas gradually replacedfirst person shooter
+enlarge
+phrasedoom clone initially popular describe stylegameplay doomlike game afterwas gradually replaced 
+first person shooter
+
+popularity doom led development sequel doom hell earthas well expansion pack alternate versions
+based game engine including ultimate doom 
+final doomand doomdoom became killer application
+capable console operating system expectedversion doom subsequently released following
+system microsoft window qnx irix nextstep linux apple
+macintosh super sega sony playstation game boy advance
+risc atari jaguar sega saturn nintendotapwave zodiacxbox feature doomlimited edition xboxon xbox live
+arcade total number copy doom game sold unknownmay well overmillion doom alone sold 
+million
+
+game engine licensed several company wellreleased game based including heretic hexen strife
+hacx also doombased game released breakfast
+cereal maker product tiein called chex quest united
+state marine corp released marine doom designed teach teamwork
+coordination decisionmaking
+
+dozen new firstperson shooter title appeared following dooms
+release often referred asdoom clone ratherfirstperson shooter certainly cloneshastily
+assembled quickly forgotten aboutothers explored new groundgenre highly acclaimed many game closely imitated
+feature doom selection weapon cheat codes
+doom principal rival apogee rise triad looking
+glass studio system shock unlike doom featured gameplay
+popularity star warsthemed wad rumoredfactor prompted lucasarts create firstperson shooter
+dark forces
+
+three year later realm released duke nukemtongueincheek science fiction shooter based ken silvermans
+technologically similar build engine software nearly finished
+quake nextgeneration game mirrored doom successremainder significantly reduced interestpredecessor franchise remained state untilwhen doom
+wa announced retelling original doom using entirely new
+graphic technology doomwas hyped provide large leaprealism interactivity original doom received mixed
+reaction released 
+
+doom appeared several form addition game includingcomic book four novel dafydd hugh brad linaweaver loosely
+based event location game film starring karl
+urban rock released inthe game development impact
+popular culture also subject book master doomdavid kushner
+
+controversy
+
+doom remains notorious high level violence gore
+satanic imagery generated much controversy broad
+range group criticized numerous time religious
+organization diabolic undertone dubbed mass murder
+simulator critic killology research group founder col
+david grossman doom prompted fear thenemerging virtual
+reality technology could used simulate extremely realistic
+killing inled unsuccessful attempt washington state
+senator phil talmadge introduce compulsory licensing usefact according wellknown graph usa departmentjustice violent crime plummeted since early 
+
+game sparked controversy throughout period school
+shooting united state found eric harrisdylan klebold committed columbine high school massacreavid player game planning massacre
+harris said killing would like fucking doomshotgun straight game rumor spread afterwardsharris designed doom level looked like hall high
+school populated representation harris classmateteacher harris practiced role shootingplaying level however although harris design
+doom level simulation columbine high school see
+harris levels
+
+continued legacy
+
+doom widely regarded one important title gaming
+history voted thegame time poll amonggame developer journalist conducted gamespy july 
+pc gamer proclaimed doom influential game timetenyear anniversary issue aprilhowever several game
+journalist also contrasted relatively simplistic gameplaydoom unfavorably storyoriented firstperson shooterhalflife
+
+although popularity doom game dropped releasequakeand afterwards game retained strong fan base
+continues playing competitively creating wad idgames ftp
+archive receives dozen new wad week ofand
+doomrelated news still tracked multiple websitedoomworld interest doom renewed inwhen source code
+doom engine released also placed gnu
+general public license infans began porting gamevarious operating system even previously unsupported platforms
+dreamcast psp ipod adding new featureopengl rendering scripting allows wad altergameplay radically well overdifferent doom source
+port remain active development
+
+devoted player spent year creating speedruns doom competing
+quickest completion time sharing knowledge routes
+level exploit bug doom engineshortcut achievement include completion doom doom ultraviolence difficulty setting thanminutesaddition player also managed complete doom iisingle run nightmare difficulty setting monsteraggressive enemy projectile faster casepinky demon move faster respawn roughlysecondskilled level designer john romero characterized idearun impossible movierun available competn website

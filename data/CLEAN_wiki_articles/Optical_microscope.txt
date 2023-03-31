@@ -1,0 +1,221 @@
+copyright
+
+optical microscope
+
+ school wikipedia selection related subject engineering general
+physics
+
+optical microscope type microscope visible light
+system lens magnify image small sample optical
+microscope oldest simplest
+optical configurations
+
+two basic configuration optical microscope usesimple one lens compound many lenses
+
+simple optical microscope
+
+simple microscope microscope one lensmagnification original light microscope van leeuwenhoeks
+microscope consisted single small convex lens mountedplate mechanism hold material examined sample
+specimen demonstration british microscopist brian fordproduced surprisingly detailed image basic instrumentuse single convex lens magnify object viewing found
+today magnifying glass handlens loup
+
+compound optical microscope
+
+compound microscope set many lens order maximize
+magnification diagram show compound microscopesimplest formas used robert hooke examplethe compound
+microscope would single glass lens short focal lengthobjective another single glass lens eyepiece ocular
+modern microscope kind usually complex multiple
+lens component objective eyepiece assemblymulticomponent lens designed reduce aberration particularly
+chromatic aberration spherical aberration modern microscopes
+mirror replaced lamp unit providing stable controllable
+illumination
+basic microscope main elementsocular lens eyepiece 
+objective turret nosepieceobjective lensescoarse adjustment
+knobfine adjustment knobobject holder stagemirror 
+diaphragm condenser
+enlarge
+basic microscope main elements
+ocular lens eyepiece
+objective turret nosepiece
+objective lenses
+coarse adjustment knob
+fine adjustment knob
+object holder stage
+mirror
+diaphragm condenser
+
+history microscope
+
+compound microscope made john cuff 
+enlarge
+compound microscope made john cuff 
+
+see timeline microscope technology
+
+impossible say invented compound microscope dutch
+spectaclemakers han janssen son zacharias janssen often
+said invented first compound microscope inbutwa declaration zacharias janssen halfway century date certainly likely shownzacharias janssen actually born aroundanother favoritetitle inventor microscope galileo galileideveloped occhiolino compound microscope convexconcave lens ingalileis microscope celebrated lynx
+academy founded federico cesi infrancesco stellutis drawing
+three bee part pope urban viii seal countfirst microscopic figure published see stephen jay gould lying
+stone marrakechchristiaan huygens another dutchman
+developed simple lens ocular system lateachromatically corrected therefore huge step forwardmicroscope development huygens ocular still producedday suffers small field size eye reliefuncomfortably close compared modern widefield oculars
+
+anton van leeuwenhoekis generally credited bringing
+microscope attention biologist even though simple
+magnifying lens already producedmagnifying principle waterfilled glass bowl describedroman seneca van leeuwenhoek homemade microscopeactually small simple instrument single strong lens
+awkward use enabled van leeuwenhoek see highly
+detailed image mainly single lens doe suffer lens
+fault doubled even multiplied using several lenscombination compound microscope actually took 
+year optical development compound microscope ableprovide quality image van leeuwenhoek simple microscopes
+although certainly great microscopist van leeuwenhoekcontrary widespread claim certainly inventormicroscope
+
+component microscope
+
+optical microscope share basic components
+eyepiece oculara cylinder containing two lenses
+bring image focus eye eyepiece inserted
+top end body tube eyepiece interchangeable
+many different eyepiece inserted different
+magnification typical value eyepiece include xx high performance microscope opticobjective eypiece matched give best possible optical
+performance occurs commonly apochromatic objectives
+objective lensa cylinder containing one lenscollect light sample lower end microscope
+tube one objective lens screwed circular nose
+piece may rotated select required objective lens
+typical value objective x x x
+high performance objective may require matched eyepiecedeliver best optical performance
+stagea platform objective supportspecimen viewed centre stage circular
+hole light shine illuminate specimenstage usually arm hold slide rectangular glass plates
+typical dimension mm specimenmounted
+illumination sourcebelow stage light providedcontrolled variety way simplest daylightdirected via mirror microscope howevercontrollable light source focused optical device
+called condenser diaphragm filter available manage
+quality intensity light
+
+classic microscope whole optical assembly attached
+rigid arm turn attached robust shaped footprovide necessary rigidity arm usually able pivotjoint foot allow viewing angle adjusted mounted
+arm control focusing usually placed typically large
+knurled wheel control coarse focusing together smaller
+knurled wheel control fine focusing
+
+modern microscope may many feature including
+transmissionreflection illumination filter apparatus phase
+contrast microscopy differential interference microscopy digital
+camera etc
+
+use microscope
+
+compound optical microscope typically used examine smearsquash preparation thinly sectioned slice materialexception utilize light passing samplespecial technique usually necessary illuminatesample increase contrast image useful level see
+contrast method however low power may also usedexamine small living animal plant even high power
+microscopic living speciments protozoa rotifer bacteria
+may examined
+
+common use nontransmitted lighting study thin structure
+metal see metallography mineral lightreflected examined surfacethe light fedobjective using semitransparent mirror reflected light
+observed normal
+
+typically standard compound optical microscope three
+objective lens scanning lenslow power lensor
+sometimes medium power lens high power lensadvanced
+microscope often fourth objective lens called oil immersion
+lens use lens drop immersion oil placed topcover slip lens carefully lowered front
+objective element immersed oil film immersion lenses
+designed refractive index oilcover slip closely matched light transmittedspecimen outer face objective lens minimal
+refraction oil immersion lens usually power ofolder
+microscope sometimes equipped water immersion lenshigher performance nonimmersion lens still
+significantly inferior performance oil immersion lenses
+
+actual power magnification optical microscopeproduct power oculareyepiece usually aboutand
+objective lens used
+
+compound optical microscope produce magnified imagespecimen toand high magnification used study
+thin specimen limited depth field
+
+microscope works
+
+microscope works
+enlarge
+microscope works
+
+optical component modern microscope complexmicroscope work well whole optical path haaccurately set controlled despite basic optical
+principle microscope quite simple
+
+objective lens simplest high powered magnifying
+glass lens short focal length broughtclose specimen examined lightspecimen come focus aboutmm inside microscope tubecreates enlarged image subject image invertedseen removing eyepiece placing piece tracing
+paper end tube careful focusing rather dim image
+specimen much enlarged seen real imageviewed eyepiece lens provides enlargement
+
+microscope eyepiece compound lens madetwo lens one near front one near back eyepiece
+tube forming air separated couplet many design virtual
+image come focus two lens eyepiecefirst lens bringing real image focus second lens
+enabling eye focus virtual image
+
+microscope image viewed eye focusedinfinity headache tired eye using microscope usually
+sign eye forced focus close distance rather
+infinity
+
+stereomicroscope
+
+stereo microscope
+enlarge
+stereo microscope
+scientist using stereo microscope outfitted digital imaging
+pickup
+enlarge
+scientist using stereo microscope outfitted digital imaging
+pickup
+
+stereo dissecting microscope designed differentlydiagram serf different purpose two separate
+optical path two objective two eyepiece provide slightly
+different viewing angle left right eye wayproduce threedimensional visualization sampleexamined
+
+stereo microscope often used study surface solid
+specimen carry close work sorting dissection
+microsurgery watchmaking small circuit board manufactureinspection like
+
+great working distance depth field important qualities
+type microscope quality inversely correlated
+resolution higher resolution magnificationsmaller depth field working distance stereo microscope
+ha useful magnification tothe resolution maximallyorder averageobjective compound microscopeoften much lower
+
+stereomicroscope confused ordinary compound
+microscope equipped binocular eyepiece microscopes
+eye see image binocular head provides greater
+viewing comfort slightly better appearance resolution however
+image microscope remains monocular
+
+special designs
+
+type optical microscope include
+inverted microscope studying sample usefulcell culture liquid
+student microscope designed low cost durability ease
+use
+research microscope expensive tool many
+enhancements
+petrographic microscope whose design usually includespolarizing filter rotating stage gypsum plate facilitate
+study mineral crystalline material whose optical
+property vary orientation
+
+old pocket microscope
+enlarge
+old pocket microscope
+polarizing microscope
+fluorescence microscope
+phase contrast microscope
+
+limitation light microscopes
+
+compound optical microscope limited ability resolve
+fine detail property light refractive materials
+used manufacture lens lens magnifies bending light see
+refraction optical microscope restricted abilityresolve feature phenomenon called diffraction basednumerical aperture optical systemwavelength light usedsets definite limit optical
+resolution assuming optical aberration negligibleresolution given
+dfraclambdaan 
+
+usually aofnm assumed corresponding green lightair medium highest practical isand oil
+
+due diffraction even best classic optical microscope limited
+resolution ofmicrometres
+
+optical microscope focal point either chosen fixedimage clear cover twodimensional area single
+optical image cannot capture detail threedimensional
+shape focus type microscope capable imaging
+threedimensional shapes

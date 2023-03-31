@@ -1,0 +1,245 @@
+copyright
+
+sphere
+
+ school wikipedia selection related subject mathematics
+
+sphere perfectly symmetrical geometrical objectnonmathematical usage term used refer either round
+ball twodimensional surface mathematics sphereset point threedimensional space rdistance fixed point space positive real
+number called radius sphere fixed point calledcentre centre part sphere special
+case called unit sphere
+
+article deal mathematical concept spherephysic sphere object usually idealized sakesimplicity capable colliding stacking objectoccupy space
+
+equations
+
+analytic geometry sphere centre zradius locus point z
+xxyyzzr 
+
+point sphere radius parametrized via
+
+xxr sin thetasin phi
+yyr thetasin phi qquadleq theta leq
+pi mbox andtfracpiphi leq tfracpi 
+zzr phi 
+
+see also trigonometric function spherical coordinates
+
+sphere radius centered origin describedfollowing differential equation
+
+xdxydyzdz
+
+equation reflects fact position velocity vectors
+point travelling sphere always orthogonal
+surface area sphere radius r
+api 
+
+enclosed volume
+vfracpi 
+sphere smallest surface area among surface enclosinggiven volume encloses largest volume among closed
+surface given surface area reason sphere appears
+nature instance bubble small water drop roughly
+spherical surface tension locally minimizes surface area
+image one accurate sphere ever created humanrefracts image einstein background sphere wafused quartz gyroscope gravity probe experiment differs
+shape perfect sphere thanatoms thickness
+thought neutron star smoother
+image one accurate sphere ever created humanrefracts image einstein background sphere wafused quartz gyroscope gravity probe experiment differs
+shape perfect sphere thanatoms thickness
+thought neutron star smoother
+
+circumscribed cylinder given sphere volume 
+time volume sphere also curved portion hasurface area istimes surface area spherefact along volume surface formula givenalready known archimedes
+
+sphere also defined surface formed rotating circle
+diameter circle replaced ellipserotated major axis shape becomes prolate spheroid
+rotated minor axis oblate spheroid
+
+terminology
+
+pair point sphere lie straight linecentre called antipodal point great circle circlesphere centre radius sphereconsequently divide two equal part shortest distance
+two distinct nonpolar point surface measured along
+surface unique great circle passing two
+points
+
+particular point sphere designated north polecorresponding antipodal point called south poleequator great circle equidistant great circles
+two pole called line meridian longitudeline connecting two pole called axis rotation
+circle sphere parallel equator linelatitude terminology also used astronomical bodyplanet earth even though neither spherical even
+spheroidal see geoid
+
+sphere divided two equal hemisphere plane passes
+center two intersecting plane pas centre
+subdivide sphere four lunes bianglesvertex coincide antipodal point lyingline intersection planes
+
+generalization dimensions
+
+sphere generalized dimension natural number
+n nsphere often written set pointndimensional euclidean space distance fixed
+point space positive real numbernthe nsphere simply connected ndimensional manifoldconstant positive curvature also thought embeddedndimensional manifold surface boundary ballndimensional manifold
+sphere pair point line atrr
+sphere circle radius sphere ordinary sphere
+sphere sphere dimensional euclidean space
+
+sphere nare sometimes called hyperspheres
+
+nsphere unit radius centred origin denoted snoften referred nsphere note ordinary spheresphere dimensional surface though alsodimensional object embedded ordinary space
+
+surface area nsphere radiusis
+
+fracpingamman
+
+z euler gamma function
+
+another formula surface area
+begincases pinrn overcdotcdots 
+mboxifn mbox evenpinrn
+overcdotcdots nmboxifn mbox odd
+endcases
+
+volume within surface area time n
+begincases pinrn overcdotcdots 
+mboxifn mbox evenpinrncdotcdots nmboxifn mbox odd endcases
+
+generalization metric spaces
+
+generally metric space sphere centre xradius set
+
+sxryedxyr 
+
+centre distinguished point considered origin eg
+normed space mentioned definition notation
+applies radius taken equal one iecase unit sphere contrast ball sphere mayempty even large radius example euclidean
+metric sphere radius nonempty rcan writtensum square integers
+
+topology
+
+topology nsphere defined space homeomorphicboundary nball thus homeomorphic euclidean
+nsphere perhaps lacking metric
+sphere pair point discrete topology
+sphere circleup homeomorphism thus example
+image knot sphere
+sphere ordinary sphereup homeomorphism thusexample spheroid sphere
+
+nsphere denoted example compact topological
+manifold without boundary sphere need smoothsmooth need diffeomorphic euclidean sphere
+
+heineborel theorem used short proof euclidean
+nsphere compact sphere inverse image onepoint set
+continuous function therefore sphere closed
+sn also bounded therefore compact
+
+spherical geometry
+
+great circle sphere
+great circle sphere
+
+basic element plane geometry point linesphere point defined usual sense analogueline may immediately apparent one measure arc length
+one find shortest path connecting two point lying entirely
+sphere segment great circle containing points
+see geodesic many theorem classical geometry hold truespherical geometry well many see parallel postulate
+spherical trigonometry angle defined great circles
+thus spherical trigonometry different ordinary trigonometrymany respect example sum interior anglespherical triangle exceedsdegrees also two similar spherical
+triangle congruent
+
+eleven property sphere
+
+book geometry imagination david hilbert stephan
+cohnvossen describe eleven property sphere discuss
+whether property uniquely determine sphere several
+property hold plane thought sphereinfinite radius propertypoint sphere distance fixed
+point also ratio distance point two fixed
+point constant
+
+first part usual definition spheredetermines uniquely second part easilydeduced follows similar result apolloniusperga circle second part also holdplane
+
+contour plane section sphere circles
+
+property defines sphere uniquely
+
+sphere constant width constant girth
+
+width surface distance pairparallel tangent plane numerous closed
+convex surface constant width example
+meissner tetrahedron girth surfacecircumference boundary orthogonal projection
+plane provedproperty implies
+normal vector sphere normal plane normal
+section curvature curve intersectionsectional curvature sphere normal section
+given point circle radius
+radius sphere mean every pointsphere umbilical point
+
+normal vector sphere normal plane normal
+section curvature curve intersectionsectional curvature sphere normal section
+given point circle radius
+radius sphere mean every pointsphere umbilical point
+
+point sphere umbilics
+
+point surface find normal direction
+right angle surface sphere
+line radiating centresphere intersection plane containing normal
+surface form curve called normal section
+curvature curve sectional
+curvature point surface different
+section different curvature maximumminimum value called principal
+curvature proved closed surfaceleast four point called umbilical pointumbilic sectional curvature equalparticular principal curvature equal umbilical
+point thought point surface
+closely approximated sphere
+sphere curvature normal sectionequal every point umbilic sphere plane
+surface property
+
+sphere doe surface centers
+
+given normal section circle whose
+curvature sectional curvaturetangent surface whose center line alongnormal line take two centre correspondingmaximum minimum sectional curvature called
+focal point set center forms
+focal surface
+surface focal surface form two sheetsurface come together umbilical
+point number special case canal
+surface one sheet form curve sheetsurface cone cylinder torus cyclidessheet form curve sphere center every
+osculating circle centre spherefocal surface form single point unique
+property sphere
+
+geodesic sphere closed curves
+
+geodesic curve surface give shortest
+distance two point generalisationconcept straight line planesphere geodesic great circle many
+surface property
+
+solid given volume sphere onesmallest surface area solid given surface
+area sphere one greatest volume
+
+property define sphere uniquelyproperty seen observing soap bubble soap
+bubble enclose fixed volume due surface
+tension try minimise surface area
+therefore free floating soap bubbleapproximately sphere factor like gravity causeslight distortion
+
+sphere smallest total mean curvature among convex
+solid given surface area
+
+mean curvature average two principal
+curvature constant pointsphere mean curvature
+
+sphere constant positive mean curvature
+
+sphere surface without boundarysingularity constant positive mean curvaturesurface constant mean curvatureminimal surface zero mean curvature
+
+sphere constant positive gaussian curvature
+
+gaussian curvature product two principle
+curvature intrinsic propertydetermined measuring length angle doedepend way surface embedded space hence
+bending surface alter gaussian curvature
+surface constant positive gaussian
+curvature obtained cutting small slitsphere bending surface wouldboundary sphere surface without
+boundary constant positive gaussian curvaturepseudosphere example surface constant
+negative gaussian curvature
+
+sphere transformed three parameter family
+rigid motions
+
+consider unit sphere place origin rotation
+around z axis map sphere ontoindeed rotation line originexpressed combination rotation around three
+coordinate axis see euler angle thus three
+parameter family rotation transform sphere
+onto rotation group plane
+surface three parameter familytransformation translation along axisrotation around origin circular cylindersurface two parameter family rigid motions
+surface revolution helicoidssurface one parameter family
+

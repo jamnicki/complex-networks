@@ -1,0 +1,522 @@
+copyright
+
+esperanto
+
+ school wikipedia selection related subject languages
+
+esperanto
+flag
+esperanto flag
+created zamenhof
+setting usage international auxiliary language
+total speaker native approx 
+fluent speaker esttomillion
+category purpose constructed language
+international auxiliary language
+esperanto
+category source vocabulary romance germanic languages
+phonology slavic languages
+regulated akademio esperanto
+language codes
+isoeo
+isoepo
+isofdisepo
+note page may contain ipa phonetic symbol unicode see ipa
+chart english englishbased pronunciation key
+
+esperantois widely spoken constructed international
+language name derives doktoro esperanto pseudonyml zamenhof first published unua libro inthe word
+mean one hope zamenhofs goal create easyflexible language universal second language foster peaceinternational understanding
+
+although country adopted language officially enjoyed
+continuous usage community estimated betweenand 
+million speaker estimated thousand
+native speakers
+
+today esperanto employed world travel correspondence cultural
+exchange convention literature language instruction television 
+internacia televido radio broadcasting state education
+system offer elective course esperanto evidencelearning esperanto useful preparation later language learning
+see esperanto education
+
+history
+
+esperanto developed late earlyophthalmologist ludovic lazarus zamenhof polish jewwest russian empire poland ten yeardevelopment zamenhof spent translating literaturelanguage well writing original prose verse first
+esperanto grammar published warsaw julythe numberspeaker grew rapidly next decade first primarilyrussian empire eastern europe western europeamerica china japan early year speaker esperanto
+kept contact primarily correspondence periodicalinthe first world congress esperanto speaker heldboulognesurmer france since world congress heldfive continent every year except two world warattended topeople typically 
+
+esperanto official status country elective
+part curriculum several state educational systemplan beginning century establish neutral
+moresnet world first esperanto state shortlived
+artificial island micronation rose island used esperantoofficial language inin china talk circles
+thexinhai revolution officially replacing chinese
+esperanto mean dramatically bring countrytwentieth century though policy proved untenable summer
+ofthe american radio relay league adopted esperantoofficial international auxiliary language hoped language
+would used radio amateur international communicationactual use language radio communication negligible
+esperanto working language several nonprofit international
+organization sennacieca asocio tutmonda others
+specifically esperanto organization largestworld esperanto association official consultative relationship
+united nation unesco army published
+military phrasebooks esperanto used wargames enemy
+ie nonus forcesan ironic contrast peaceloving
+idealism inventor zamenhof
+
+linguistic properties
+
+classification
+
+constructed language esperanto genealogically relatedethnic language esperanto described language
+lexically predominantly romanic morphologically intensively
+agglutinative certain degree isolating characterphonology grammar vocabulary semantics based western
+indoeuropean language phonemic inventory essentially slavic
+much semantics vocabulary derives primarily
+romance language lesser contribution germanic
+pragmatic aspect language specifiedzamenhofs original document influenced native languages
+early speaker primarily russian polish german french
+
+typologically esperanto preposition pragmatic word order
+default subject verb object adjective noun new words
+formed extensive prefixing suffixing
+
+phonology
+
+esperanto hasvowels andconsonants two semivowels
+doe tone stress always penultimate vowel
+unless final vowel elided practice occurspoetry example familio family familio familifamili
+
+consonants
+
+bilabial labio
+dental alveolar post
+alveolar palatal velar glottal
+plosive bt g
+nasalmn
+tap
+fricativef zxh
+affricate
+lateral approximantl
+approximantj
+
+sound usually rolled may tappedin ipa
+v normative pronunciation like english vsometimes somewhere w ipadependinglanguage background speaker semivowel normally occurs
+diphthong vowel common debated
+assimilation includes pronunciation k english
+sink gz like english example
+
+large number possible consonant cluster occur threeinitial position four medial position example instrui
+teach final cluster uncommon except foreign name poetic
+elision final basic word cent hundred
+post
+vowels
+
+esperanto five vowel spanish swahili distinctions
+length made nasalized vowels
+front back
+close mideo
+opena
+
+six falling diphthong oj aj ui ei au 
+five vowel good deal variation toleratedinstance commonly range frenchtofrench 
+detail often depend speaker native language glottal
+stop may occur adjacent vowel people speech
+especially two vowel heroo heropraavo greatgrandfather
+
+grammar
+
+esperanto word derived stringing together prefix rootsuffix regular people create new wordspeak understood compound word formedmodifierfirst headfinal order way english
+birdsong songbird
+
+different part speech marked suffixcommon noun end adjective derived adverbe verb end one six tense mood suffixpresent tense
+plural noun end pronounced whereas direct object end
+plural direct object end ojn pronounced rhymecoin adjective agree noun ending plural
+aj pronounced eye directobject plural directobject
+ajn pronounced rhyme fine
+
+
+nounsubject object
+singularoon
+pluralojojn
+
+
+adjective subject object
+singularaan
+pluralajajn
+
+six verb inflection three tense three moodpresent tense future tense past tense infinitive mood
+conditional mood jussive mood verb markedperson number instance kantito sing kantasi sing kantisi sang kantosi sing
+
+
+verbal tensesuffix
+presentas kantas
+pastis kantis
+futureos kantos
+
+
+verbal moodsuffix
+infinitivei kanti
+jussiveu kantu
+conditional kantus
+
+word order comparatively free adjective may precede follow
+noun subject verb object marked suffix noccur order however article lademonstrative almost always come noun preposition
+must come similarly negative conjunctions
+kaj must precede phrase clause
+introduce copular clause word orderimportant english clause like people dog dogpeople
+
+vocabulary
+
+core vocabulary esperanto defined lingvo internacia
+published zamenhof init comprisedroots couldexpanded ten thousand word prefix suffixes
+compounding inzamenhof published first esperanto
+dictionary universala vortaro larger set root however
+rule language allowed speaker borrow new rootneeded recommending look international
+form derive related meaning
+since many word borrowed primarily solely
+western european language proposed borrowing catch
+many especially technical scientific term termeveryday use hand likely derivedexisting rootsfor example komputilo computer komputicompute plus suffix ilo toolor covered extendingmeaning existing word example muso mouse also means
+computer input device english frequent debates
+among esperanto speaker whether particular borrowingjustified whether need met deriving extending
+meaning existing words
+
+addition root word rule combininglearner esperanto must learn idiomatic compoundentirely straightforward example eldoni literally giveused publish calque word several european
+language derivation vortaro literallycollection word mean glossary dictionary forms
+modeled usage ethnic european language speakers
+language may find illogical fossilized derivations
+inherited esperanto source language may similarly obscure
+opaque connection root word centralo power station
+ha centro centre compound overtly arbitrary
+must learned individually ha defined meaningturn dekstren right dekstrumen clockwise komuna
+commonshared komunumo community example
+
+nevertheless nearly many truly idiomatic slang
+word esperanto ethnic language tend make
+international communication difficult working esperanto main
+goal
+
+modern time conscious attempt made esperantistseliminate sexism language one example riismone among several proposition modify languagenonsexist manner
+
+writing system
+
+esperanto written modified version latin alphabet
+including six letter diacriticsandthat g j circumflex breve alphabet doe includeletter w except unassimilated foreign names
+
+letter alphabet
+b e ghi l p st z
+
+letter pronounced approximately lowercase
+equivalent ipa exception accented
+letters
+letterpronunciation
+c
+
+
+x
+
+
+
+eu
+
+two asciicompatible writing convention use substitute
+digraph accented letter original hconvention gh
+hh sh based english sh recent 
+xconvention gx jx ux useful alphabetic word
+sorting computer come correctly sx etc
+well simple conversion back standard orthography
+see esperanta klavaro keyboard layout latin unicode
+
+esperanto clear language morse code communication
+since code exist accented esperanto characters
+
+useful phrases
+
+useful esperanto phrase ipa transcriptions
+hello saluton saluton
+name
+
+kiel nomia kiel nomias
+
+name
+mi nomiasmi nomia 
+
+much kiom kiom
+jen jen
+speak esperanto vi parolas esperanton vi
+parolas esperanton
+dont understand ne komprenas vin ne komprenas
+vin
+like one
+
+mi atas tiun atas tiuntiu plaas mi tiu plaas mi
+
+thank dankon dankon
+youre welcome dankinde dankinde
+please bonvolu bonvolu
+health via sano via sano
+bless yougesundheit sanon sanon
+okay bone bone
+nice day estas bela tago estas bela tago
+love amas vin amas vin
+goodbye
+
+la revido revido
+la 
+peace pacon patson
+would like one beer please unu bieron petas unu
+bieron petas
+kio estas tio
+tio estas
+
+esperanto speaker community
+
+geography demography
+
+esperanto speaker numerous europe east asiaamerica africa oceania numerous urbanrural area esperanto particularly prevalent northerneastern country europe china korea japan iran within
+asia brazil argentina mexico america togomadagascar africa
+
+estimate number esperanto speaker made sidneyculbert retired psychology professor university washington
+longtime esperantist tracked tested esperanto
+speaker sample area dozen country period twenty
+year culbert concluded one two million people speak
+esperanto foreign service levelprofessionally proficient able
+communicate moderately complex idea without hesitationfollow speech radio broadcast etc culberts estimate wamade esperanto alone formed part listing estimates
+language overmillion speaker published annuallyworld almanac book fact culberts detailed accountmethodology found aletter david wolff since culbert
+never published detailed intermediate result particular countries
+region difficult independently gauge accuracyresults
+
+almanac estimate number language speakerrounded nearest million thus number esperanto speakers
+shown asmillion latter figure appears ethnologue
+assuming figure accurate mean aboutof
+world population speaks language fall shortzamenhofs goal universal language represents levelpopularity unmatched constructed language ethnologue also
+state aretonative esperanto speakers
+denaskuloj learned language birthesperantospeaking parent happens esperanto family
+language international family sometimes family devoted
+esperantists
+
+marcus sikosek challenged figure ofmillionexaggerated sikosek estimated even esperanto speakerevenly distributed assuming one million esperanto speaker worldwide
+would lead one expect aboutin city cologne sikosek
+find onlyfluent speaker city similarly smallerexpected figure several place thoughtlargerthanaverage concentration esperanto speaker also notes
+total aboutmembers various esperanto
+organization estimate higher thoughundoubtedly many esperanto speaker memberesperanto organization think unlikely fifty
+time speaker organization member others thinkratio member organized esperanto movement speakers
+language unlikely
+
+finnish linguist jouko lindstedt expert nativeborn
+esperanto speaker presented following scheme show overall
+proportion language capability within esperanto community
+esperanto native language
+speak fluently
+use actively
+understand large amount passively
+studied extent time
+
+absence culberts detailed sampling datacensus data impossible state number speakercertainty observer probably would challenge following
+statement website world esperanto association
+
+number textbook sold membership local society put
+number people knowledge languagehundred thousand possibly millions
+
+culture
+
+esperanto often used access international culture includinglarge corpus original well translated literatureoveresperanto book original translation wellhundred regularly distributed esperanto magazine many
+esperanto speaker use language free travel throughoutworld using pasporta servo others like idea pen pals
+many country around world using service like esperanto
+pen pal service every yearesperanto speaker meetworld congress esperanto universala kongreso esperanto
+
+historically music published esperanto havarious folk tradition recent decade rock modern
+genre appeared
+
+extent also shared tradition like zamenhof day
+shared behaviour pattern like avoiding usage ones
+national language esperanto meeting unless good reasonuse
+
+two fulllength feature film produced dialogue entirely
+esperanto namely angoroj inand incubus starring william
+shatner inother amateur production madedramatisation novel gerda malaperis gerda disappearednumber mainstream film national language used esperanto
+way gattaca
+
+esperanto frequently criticized culture proponents
+observe esperanto culturally neutral designintended facilitator culture carrierone culture see esperanto international language
+
+science
+
+nearly beginning esperanto used scientific paperfundamenta krestomatio ofcontains section la vivo kaj
+sciencoj life science scientist maurice
+frchet published part work esperanto articleinterlinguistics use esperanto uncommon
+
+esperanto first language teaching administrationinternational academy science san marino sometimes called
+esperanto university although doe teach languagelanguage confused akademio esperanto academy esperanto
+
+goal esperanto movement
+
+zamenhofs intention create easytolearn language foster
+international understanding serve international
+auxiliary language universal second languagereplace ethnic language goal widely shared among esperanto
+speaker early decade movement later esperanto
+speaker began see language culture grownaround end even esperanto never adoptedunited nation international organizations
+
+esperanto speaker want see esperanto adopted officially
+large scale worldwide commonly called finvenkistojfina venko meaning final victory focus intrinsic
+value language commonly called ramistoj rauma
+finland declaration nearterm unlikelihood fina
+venko value esperanto culture made international
+youth congress inthese category however mutually
+exclusive see finvenkismo
+
+prague manifestopresents view mainstreamesperanto movement main organisation world esperanto
+associationuea
+
+symbol flags
+
+inc rjabinis deullin designed manufactured lapel
+pin esperantists identify design circular
+pin white background five pointed green star themedesign hope five continent united common
+language
+
+earliest flag one commonly used today featuregreen fivepointed star white canton upon field green
+indelegates first conference esperantistsboulognesurmer unanimously approved version differingmodern superimposition green starvariant include christian esperantists white
+christian cross superimposed upon green starleftist colour field changed green red
+
+ina second flag design chosen contest ueafirst centennial language featured white background
+two stylised curved facing dubbed jubilea
+simbolo jubilee symbolit attracted criticismesperantists dubbed melono melon designs
+eliptical shape later fell disuse traditional flag
+known verda stelo green star still use today
+
+esperanto education
+
+relatively school teach esperanto officially outside china
+hungary bulgaria majority esperanto speaker continuelearn language selfdirected study correspondence
+course several esperanto paper correspondence course earlyadapted email taught corp volunteer instructorrecent year teaching website like lernu become popular
+various educator estimated esperanto learnedanywhere one quarter one twentieth amount time required
+language argue however truenative speaker western european languages
+
+claude piron psychologist formerly university genevachineseenglishrussianspanish translator united nations
+argued easier think clearly esperanto many
+ethnic language see sapirwhorf hypothesis explanationtheory esperanto relies entirely innate reflex differs
+language always trust natural
+tendency generalize patternsthe neuropsychological law
+called jean piaget generalizing assimilationapplies word
+formation well grammar
+
+several research study demonstrate studying esperantoanother foreign language speed improves learninglanguage presumably learning subsequent foreign
+language easier learning one first usegrammatically simple culturally flexible auxiliary language like
+esperanto lessens firstlanguage learning hurdle one studygroup european high school student studied esperanto one year
+french three year ended significantly better
+command french control group studied french four
+year similar result found second languagejapanese course study reduced two yearsix month spent learning esperanto see propaedeutic value
+esperanto relevant studies
+
+esperanto religion
+
+homaranismo
+
+zamenhof promoted religion called homaranismoconcerned could taint earlier work establishing esperanto
+proposed abandoning public role esperantist avoid
+confusion
+
+oomoto
+
+oomoto religion encourages use esperanto amongfollower includes zamenhof one deified spirits
+
+bah
+
+bah faith encourages use auxiliary international
+language endorsing specific language see esperantogreat potential role
+
+lidja zamenhof daughter esperanto founder became bah
+
+various volume bah scripture bahai booktranslated esperanto
+
+noted beforethe bah interest esperanto
+go back century islamic republic iranmullah also encouraged use esperanto
+
+spiritism
+
+esperanto also actively promoted least brazil followers
+spiritism brazilian spiritist federation publishes esperanto
+coursebooks translation spiritism basic book encourages
+spiritists become esperantists
+
+bible translations
+
+first translation bible esperanto translationtanakh old testament done l zamenhof translationreviewed compared language translation bible
+group british clergy scholar publishingbritish foreign bible society ininthis published
+along new testament translation edition commonly called
+londona biblio internacia asocio bibliistoj kaj
+orientalistoj tried organize new ecumenical esperanto bible
+version since dutch lutheran pastor gerrit bervelingtranslated deuterocanonical apocryphal book addition new
+translation gospel new testament epistlebook tanakh old testament publishedvarious separate booklet serialized dia regnodeuterocanonical book appeared recent new edition londona
+bilbio
+
+christianity
+
+ikueinternacia katolika unuio esperantistathe international
+union catholic esperantists
+roman catholic pope including least john paul benedict
+xvi occasionally used esperanto multilingual urbi orbi blessings
+kelikristana esperantista ligo internaciathe international
+christian esperantists league keli formed early history
+esperanto work cooperation ikue
+issue friend describes activity quaker
+esperanto society
+instance christian apologist teacher use
+esperanto medium nigerian pastor bayo afolaranmisspirita
+nutrao spiritual food yahoo mailing list examplehosted weekly message since 
+
+criticism modification esperanto
+
+common criticism language vocabulary grammar
+european vocabulary accented letter grammar
+western european enough critique addressed ido novial
+interlingua sexist look sound artificialha failed meet expectation people would one day usesecond language
+
+finally proponent often seen exaggerating successesperanto example many observer question stable population
+several thousand speaker produce modestdeclining number recent publications
+
+though esperanto changed little since publicationfundamento esperanto foundation esperanto number reform
+project proposed year starting zamenhofs
+proposal inand ido inseveral later constructed languages
+fasile based esperanto
+
+esperanto popular culture
+
+esperanto used number film novel typically
+done either add exoticness foreign language without
+representing particular ethnicity avoid going trouble
+inventing new language filmmaker charlie chaplin used esperanto
+signage storefront building hisclassic great
+dictator science fiction esperanto often used representfuture universally spoken language exists
+today example include riverworld series philip jos
+farmer scifi sitcom red dwarf stainless steel rat series
+harry harrison thescifi drama gattaca also seen
+heard thevampire film blade trinity
+
+two instance feature film entirely performedesperanto angoroj esperanto agonieswas first
+feature film produced entirely esperanto incubusenglish french subtitle ablack white horror film
+directed leslie stevens starring pre star trek william
+shatner earliest film incorporate esperanto thriller
+state secretwith douglas fairbanks starredamerican surgeon contacted authority vosnia eastern
+european dictatorship perform rare operation leaderlanguage spoken vosnia esperanto earliest filmfeature length however utilize language titled antaen
+onwards silent esperanto publicity film world war 
+rarely used jokingly referred ageek language
+usage seen occasion animated series danny
+phantom character speak either
+selfdescribed geek particular ghost apparentlyfluent language human character evidenceddifficulty tucker foley translating said ghost commentenglish
+
+name beverage yakult derived jahurto archaic
+form esperanto foryoghurt modern word jogurto
+
+esperanto also cited possible inspiration george
+orwell newspeak orwell exposed esperanto inwhen
+living paris aunt nellie limouzin livingeugne lanti prominent esperantist esperanto languagehouse orwell come paris part improvefrench obliged find lodging
+
+musician credit blood chocolate aalbum elvis
+costellothe attraction written esperanto
+
+composer david gaines bsymphony nois subtitled
+esperanto feature mezzosoprano soloist singing esperanto
+ha recorded moravian philharmonic
+
+opening theme final fantasy ffxi opening theme legend
+crystal theme memory people memoro la tono memorywind sung esperanto
+

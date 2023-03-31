@@ -1,0 +1,312 @@
+copyright
+
+group mathematics
+
+ school wikipedia selection related subject mathematics
+
+picture illustrates hour clock form group
+picture illustrates hour clock form group
+
+abstract algebra group set binary operationsatisfies certain axiom detailed example setinteger addition group branch mathematicsstudy group called group theory
+
+many structure investigated mathematics turngroup include familiar number system integers
+rational number real number complex numberaddition well nonzero rational real complex
+number multiplication important example group
+nonsingular matrix multiplication groupinvertible function composition group theory allowsproperty structure investigated general setting
+
+group theory extensive application mathematics scienceengineering many algebraic structure field vector spaces
+may defined concisely term group group theory provides
+important tool studying symmetry since symmetryobject form group group thus essential abstraction branches
+physic involving symmetry principle relativity quantum
+mechanic particle physic furthermore abilityrepresent geometric transformation find application chemistry
+computer graphic fields
+
+history
+
+definitions
+
+group set binary operationthat satisfiesfollowing four axioms
+closurefor g result also associativity c abcabc
+identity element exists element gg eaaea
+inverse element exists element g
+abbae identity element
+
+text omit explicit requirement closure since closure
+group follows fact operationis binary
+operation
+
+using identity element property shown groupexactly one identity element see simple theorems
+
+inverse element also shown unique left
+rightinverses element definitionthus slightly narrow substituting second third axioms
+concept left right identity element left
+right inverse element
+
+also note group often denoted simply gambiguity operation
+basic concept group theory
+
+order group elements
+
+order group denoted number elementset order finite group infinite
+group denoted 
+order element group least positive integer ane multiplication times
+suitable composition depending group operatorn exists order said infinity
+
+subgroups
+
+set subgroup group subset group
+using operation defined word subgroupgif restriction ofto group operation 
+g finite group order divides
+order glagranges theorem
+
+abelian groups
+
+group said abelian group commutativeoperation commutative g abbanonabelian group group abelian term abeliannamed mathematician niels abel
+
+cyclic groups
+
+cyclic group group whose element may generated successive
+composition operation defining group appliedsingle element group single element calledgenerator primitive element group
+
+multiplicative cyclic group groupgenerator
+
+gan mid z 
+
+additive cyclic group generator
+gna mid z 
+
+successive composition operation defining groupapplied nonprimitive element group cyclic subgroupgenerated order cyclic subgroup divide ordergroup thus order group prime elements
+except identity primitive element group
+
+important note group contains cyclic
+subgroup generated element group howevergroup constructed cyclic subgroup necessarilycyclic group example klein group cyclic group even
+though constructed two copy cyclic group order
+
+
+notation groups
+
+group use different notation depending contextgroup operation
+additive group useto denote addition minus signto
+denote inverse example aain multiplicative group usecdotor general
+composition symbol circ denote multiplicationsuperscriptto denote inverse example aait
+common drop theand write instead
+function group useto denote function compositionsuperscriptto denote inverse example ggecommon drop theand write instead
+
+omitting symbol operation generally acceptable leaves
+reader know context group operation
+
+defining group standard notation use parenthesisdefining group operation example hdenotesset group addition group like znand
+fnit common drop parenthesis operation
+eg fn also correct refer group set
+identifier h zor define group setbuilder
+notation
+
+identity element sometimes known neutral elementsometimes denoted symbol depending group
+multiplicative group identity element denoted 
+invertible matrix group identity element usually
+denotedadditive group identity element may denoted 
+function group identity element usually denotedf
+
+subset x element multiplicative
+notation set product similarlynotation sxsxs two subset write
+st sts additive notation write 
+x respective set see cosets
+
+example groups
+
+abelian group integer addition
+
+familiar group group integer addition let zset integersand letsymbolindicate operation addition group
+
+proof
+closure integer integer
+associativity c integer abca 
+bc
+identity elementis integer integer aaa
+inverse element integer integer satisfies
+inverse rule aaaa
+
+group also abelian abba
+
+extend example considering integeraddition multiplication form complicated algebraic
+structure called ring note integermultiplication group
+
+cyclic multiplicative groups
+
+case cyclic multiplicative group elementgroup generated set integer exponentiationprimitive element group
+
+gan mid z pmodm 
+
+example isand operation mathematical
+multiplication operator modulo may bind groupfinite set nonfractional set element since inverse
+xetc would within set
+
+group integer multiplication
+
+hand consider integer operationmultiplication denoted bythen group satisfies
+axiom fails inverses
+closure integer integer
+associativity c integer abca 
+bc
+identity elementis integer integer aaa
+however true whenever integerinteger abbafor example integer
+solution equation abin case 
+cannot choose bbecauseis integer
+inverse element fails
+
+since every element ha inverse group
+however commutative monoid similar structuregroup doe require inverse elements
+
+abelian group nonzero rational number multiplication
+
+consider set rational number set fractioninteger b integer nonzerooperation multiplication denoted bysince rational number 
+doe multiplicative inverse like zgroup
+
+however instead use set nonzero rational number 
+qdoes form abelian group
+closure associativity identity element axiom easycheck follow property integers
+inverse element inverse ba satisfiesaxiom
+
+dont lose closure removing zero product two
+nonzero rational never zero integer form ringrational number form algebraic structure field allowingoperation addition subtraction multiplication division
+
+finite nonabelian group permutation set
+
+example taken larger article dihedral
+group order 
+
+concrete example group consider three colored blocks
+red green blue initially placed order rgb letaction swap first block second block let baction swap second block third block
+cycle diagram loop specifies series powerelement connected identity elementfor example ebaab
+loop reflects fact baab bae well fact
+abba abe loop root unityexample cycle diagram loop specifies series powerelement connected identity elementfor example ebaab
+loop reflects fact baab bae well fact
+abba abe loop root unityexample 
+multiplicative form traditionally write combined
+action first ab action rgbrbg 
+brg take last block move front write
+e leave block identity actionwrite six permutation set three block following
+actions
+ergbrgb
+argbgrb
+brgbrbg
+abrgbbrg
+bargbgbr
+abargbbgr
+
+note action ha effect rgbgrbrgb leavingblock write aae similarly
+bbe
+abaabaeabbabaabe
+
+action inverse
+
+inspection also determine associativity closure note
+exampleabaabaabababbabbab
+
+group called symmetric group onlettersorderorfactorial nonabelian since example 
+ba since built basic action sayset generates
+generally define symmetric grouppermutation object group denoted ha order
+n factorial
+
+one reason permutation group important every
+finite group expressed subgroup symmetric group result cayleys theorem
+
+simple theorems
+
+group exactly one identity element
+
+proof suppose f identity elementdefinition identity feefe also effefef
+
+therefore identity element unique
+
+every element exactly one inverse
+
+proof suppose c inverse xdefinition inverse xbbxe xccxe
+xbexc
+xbxc
+bxbbxcmultiplying left ebecusing bxe
+bcneutral element axiom
+
+therefore inverse unique
+
+first two property actually follow associative binary
+operation defined set given binary operation setone identity one inverse element
+perform division group given element group exactly one solution gequation xab exactly one solution equation
+ayb
+
+expression aaan unambiguousresult matter place parentheses
+
+sock shoe inverse product productinverse opposite order abba
+
+proof demonstrate abbabaab
+e required definition inverse
+
+abbaabbaassociativity
+aeadefinition inverse
+aadefinition neutral element
+edefinition inverse
+
+similarly direction
+
+basic fact hold individual group form
+field elementary group theory
+
+constructing new group given ones
+
+possible way construct new group set given groups
+subgroup subgroup group group
+quotient group given group normal subgroup nquotient group set cosets togetheroperation gnhnghn
+direct product h group set together operation ghgh 
+gghh direct product also definednumber term finite infinite using cartesian
+product defining operation coordinatewise
+semidirect product h group andhautngroup homomorphism semidirect product hrespect tois group nhwithdefined
+n hn n h
+
+direct external sum direct external sum family groups
+subgroup product constituted elementfinite number nonidentity coordinate family finite
+direct sum product equivalent
+
+proving set group
+
+two main method proving set group
+prove set subgroup group
+prove set group using definition
+
+first method generally referred thesubgroup testrequires prove following trying prove hsubgroup
+set nonempty subset ie identity element
+inside
+h closed operation ab hh h
+
+second method requires prove axiomassumption definition set g nonempty
+g closed binary operation
+g associative
+e usually follows nonemptiness
+g consists units
+
+finite group one need prove subset nonempty
+closed ambient group operation
+
+generalizations
+
+abstract algebra get related structure similar
+group relaxing axiom given toparticle
+eliminate requirement every element inverse
+get monoid
+additionally require identity either getsemigroup
+alternatively relax requirement operationassociative still requiring possibility divisionget loop
+additionally require identity getquasigroup
+dont require axiom binary operationget magma
+
+groupoids similar group except composition 
+b need defined arise studyinvolved kind symmetry often topological analytical
+structure special sort categories
+
+supergroups hopf algebra generalizations
+
+lie group algebraic group topological group examplegroup object grouplike structure sitting categoryordinary category sets
+
+abelian group form prototype concept abelian
+category application vector space beyond
+
+formal group law certain formal power series properties
+much like group operation

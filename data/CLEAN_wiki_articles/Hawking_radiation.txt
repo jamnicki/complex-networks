@@ -1,0 +1,118 @@
+copyright
+
+hawking radiation
+
+ school wikipedia selection related subject space astronomy
+
+physic hawking radiation thermal radiation thoughtemitted black hole due quantum effect namedbritish physicist stephen hawking worked theoretical
+argument existence inhawkings discovery becamefirst convincing insight quantum gravity however existence
+hawking radiation remains controversial 
+
+overview
+
+black hole site immense gravitational attractionsurrounding matter drawn gravitational force classicallygravitation powerful nothing even radiation light
+hence black light reflecting escape
+black hole however calculation framework
+quantum field theory curved spacetimes hawking showedquantum effect allow black hole emit radiation thermal
+spectrum
+
+physical insight process may gained imaginingparticle antiparticle radiation emitted beyond event
+horizon radiation doe come directly black hole
+rather result virtual particle boostedblack hole gravitation becoming real particles
+
+precise still much simplified view processvacuum fluctuation cause particleantiparticle pair appear close
+event horizon black hole one pair fallblack hole whilst escape order fill energy hole
+left pair spontaneous creation energy tunnelblack hole across event horizon process black hole
+loses mass outside observer would appear black
+hole emitted particle
+
+example
+
+black hole one solar mass temperature 
+nanokelvins fact black hole would absorb far cosmic
+microwave background radiation emits black holekg mass moon would equilibriumkelvin absorbing much radiation emits yet smaller
+primordial black hole would emit absorb thereby
+lose mass
+
+problem theory
+
+transplanckian problem may raise doubt physical validity
+hawking result hawking original derivation employed field modes
+arbitrarily high frequency near black hole horizon although
+appear final result particular used modes
+frequency higher inverse planck time scales
+physical law unknown number alternative approachhawking radiation appeared order try overcomeaddress problem connection unruh
+effect
+
+hawking radiation show law black hole thermodynamics
+complete physical meaning
+
+emission process
+
+black hole emits thermal radiation temperature
+
+thfrackappa 
+
+natural unit c hbar equal toand whereissurface gravity horizon
+
+particular radiation schwarzschild black holeblackbody radiation temperature
+
+thbarcoverpi k
+
+hbar reduced planck constant speed light boltzmann constant gravitational constantmass black hole
+
+black hole evaporation
+
+particle escape black hole loses small amountenergy therefore mass recall mass energyrelated einstein famous equation emc
+
+power emitted black hole form hawking radiationeasily estimated simplest case nonrotating noncharged
+schwarzschild black hole mass combining formulaschwarzschild radius black hole stefanboltzmann lawblackbody radiation formula temperatureradiation formula surface area sphere black
+hole event horizon get
+
+phbarcoverpigm
+
+p energy outflow hbar reduced planck constant speed light gravitational constant worth
+mentioning formula yet derivedframework semiclassical gravity
+
+power hawking radiation solar mass black hole turns
+minusculewatts indeed extremely good
+approximation call object black
+
+assumption otherwise empty universe matter
+cosmic microwave background radiation fall black holepossible calculate long would take black holeevaporate black hole mass function timetime black hole take evaporate
+toperatornameevpigmoverhbarc
+
+black hole one solar mass abouttimeskg getevaporation time ofyearsmuch longer current ageuniverse black hole ofkg evaporation timeaboutbillion year astronomer searchingsign exploding primordial black holes
+
+common units
+
+ptimes 
+leftfracmathrmkgmright mathrmw
+
+tmathrmevtimes 
+leftfracmmathrmkgright mathrmsapprox
+timesleftfracmmathrmkgright
+mathrmyr
+
+mtimes 
+leftfractmathrmevmathrmsright mathrmkg
+approxtimes 
+leftfractmathrmevmathrmyrright mathrmkg
+
+instance asecondlived black hole masskg equivalent energy ofj could releasedmegaton tnt initial power isw
+
+black hole evaporation several significant consequences
+black hole evaporation produce consistent view black
+hole thermodynamics showing black hole interact thermally
+rest universe
+unlike object black hole temperature increaseradiates away mass rate temperature increaseexponential likely endpoint dissolutionblack hole violent burst gamma ray complete
+description dissolution requires model quantum gravity
+however occurs black hole approach planck mass
+planck radius
+simplest model black hole evaporation lead black
+hole information paradox information content black hole
+appears lost evaporates modelhawking radiation random containing information number
+solution problem proposed including
+suggestion hawking radiation perturbed containmissing information hawking evaporation leaf form
+remnant particle containing missing informationinformation allowed lost conditions
+

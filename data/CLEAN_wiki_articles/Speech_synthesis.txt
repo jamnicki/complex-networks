@@ -1,0 +1,285 @@
+copyright
+
+speech synthesis
+
+ school wikipedia selection related subject software
+
+speech synthesis artificial production human speechcomputer system used purpose called speech synthesizer
+implemented software hardware texttospeech tts
+system convert normal language text speech system render
+symbolic linguistic representation like phonetic transcriptionspeech
+
+synthesized speech created concatenating piece recorded
+speech stored database system differ sizestored speech unit system store phone diphones provides
+largest output range may lack clarity specific usage
+domain storage entire word sentence allowshighquality output alternatively synthesizer incorporatemodel vocal tract human voice characteristiccreate completely synthetic voice output
+
+quality speech synthesizer judged similarityhuman voice ability understood intelligible
+texttospeech program allows people visual impairment reading
+disability listen written work home computer many
+computer operating system included speech synthesizer sinceearly
+overview text processing
+
+texttospeech system engine composed two partfrontend backend frontend two major task firstconvert raw text containing symbol like number abbreviations
+equivalent writtenout word process often called
+text normalization preprocessing tokenization frontendassigns phonetic transcription word divide marktext prosodic unit like phrase clause sentenceprocess assigning phonetic transcription word called
+texttophoneme graphemetophoneme conversion phonetic
+transcription prosody information together make symbolic
+linguistic representation output frontendbackendoften referred synthesizerthen convertsymbolic linguistic representation sound
+
+history
+
+mechanical devices
+
+long electronic signal processing invented speech
+researcher tried build machine create human speech early
+example speaking head made gerbert aurillac 
+ad albertus magnusand roger bacon 
+
+inthe danish scientist christian kratzenstein workingrussian academy science built model human vocal tractcould produce five long vowel sound international phonetic
+alphabet notation ufollowed bellowsoperated acousticmechanical speech machine
+wolfgang von kempelen vienna austria described apaper
+machine added model tongue lip enablingproduce consonant well vowel incharles wheatstone
+produced speaking machine based von kempelens designfaber built euphonia wheatstone designresurrected inby paget
+
+bell lab developed vocoder keyboardoperated
+electronic speech analyzer synthesizer said clearly
+intelligible homer dudley refined device voderexhibited thenew york world fair
+
+pattern playback built franklin coopercolleague haskins laboratory late completedseveral different version hardware deviceone currently survives machine convert pictureacoustic pattern speech form spectrogram backsound using device alvin liberman colleague ablediscover acoustic cue perception phonetic segments
+consonant vowels
+
+early electronic speech synthesizer sounded robotic often
+barely intelligible however quality synthesized speechsteadily improved output contemporary speech synthesis
+system sometimes indistinguishable actual human speech
+
+electronic devices
+
+first computerbased speech synthesis system createdlate first complete texttospeech system completed
+ininphysicist john larry kelly used ibm 
+computer synthesize speech event among prominenthistory bell lab kelly voice recorder synthesizer vocoder
+recreated songdaisy bell musical accompaniment max
+mathews coincidentally arthur clarke visiting friendcolleague john pierce bell lab murray hill facility clarkeimpressed demonstration used climactic
+scene screenplay novela space odysseyhalcomputer sings song put sleepastronaut dave bowman
+
+despite success purely electronic speech synthesis researchstill conducted mechanical speech synthesizer usehumanoid robot even perfect electronic synthesizer limitedquality transducer usually loudspeaker producesound robot mechanical system may able producenatural sound small loudspeaker
+
+synthesizer technologies
+
+important quality speech synthesis systemnaturalness intelligibility naturalness describes closelyoutput sound like human speech intelligibility easeoutput understood ideal speech synthesizernatural intelligible speech synthesis system trymaximize characteristics
+
+two primary technology generating synthetic speech waveforms
+concatenative synthesis formant synthesis technologystrength weakness intended synthesis system
+typically determine approach used
+
+concatenative synthesis
+
+concatenative synthesis based concatenation stringing
+together segment recorded speech generally concatenative
+synthesis produce naturalsounding synthesized speech
+however difference natural variation speechnature automated technique segmenting waveforms
+sometimes result audible glitch output three
+main subtypes concatenative synthesis
+
+unit selection synthesis
+
+unit selection synthesis large database recorded speech
+database creation recorded utterance segmentedfollowing individual phone syllable morphemes
+word phrase sentence typically division segmentdone using specially modified speech recognizer set forced
+alignment mode manual correction afterward using visual
+representation waveform spectrogram indexunit speech database created based segmentation
+acoustic parameter like fundamental frequencypitch
+duration position syllable neighboring phone runtime
+desired target utterance created determining best chain
+candidate unit database unit selection processtypically achieved using specially weighted decision tree
+
+unit selection provides greatest naturalness applies
+small amount digital signal processing dsp recorded
+speech dsp often make recorded speech sound natural although
+system use small amount signal processing pointconcatenation smooth waveform output best
+unitselection system often indistinguishable real human
+voice especially context system tuned
+however maximum naturalness typically require unitselection speech
+database large system ranging gigabytes
+recorded data representing dozen hour speech
+
+diphone synthesis
+
+diphone synthesis minimal speech database containingdiphones soundtosound transition occurring languagenumber diphones depends phonotactics languageexample spanish aboutdiphones german aboutin
+diphone synthesis one example diphone containedspeech database runtime target prosody sentencesuperimposed minimal unit mean digital signal
+processing technique linear predictive coding psola used
+mbrola
+
+quality resulting speech generally worseunitselection system naturalsounding outputformant synthesizer diphone synthesis suffers sonic glitches
+concatenative synthesis roboticsounding nature formant
+synthesis advantage either approachsmall size use commercial application declining
+although continues used research number
+freely available software implementations
+
+domainspecific synthesis
+
+domainspecific synthesis concatenates prerecorded word phrasecreate complete utterance used applicationvariety text system output limited particular
+domain like transit schedule announcement weather reporttechnology simple implement commercial use
+long time device like talking clock calculatorlevel naturalness system highvariety sentence type limited closely matchprosody intonation original recordingsystem limited word phrase databasegeneralpurpose synthesize combinationword phrase preprogrammed
+
+formant synthesis
+
+formant synthesis doe use human speech sample runtime
+instead synthesized speech output created using acoustic
+model parameter fundamental frequency voicing noise
+level varied time create waveform artificial speech
+method sometimes called rulesbased synthesis however many
+concatenative system also rulesbased components
+
+many system based formant synthesis technology generate artificial
+roboticsounding speech would never mistaken human speech
+however maximum naturalness always goal speech
+synthesis system formant synthesis system advantageconcatenative system formantsynthesized speech reliably
+intelligible even high speed avoiding acoustic glitches
+commmonly plague concatenative system highspeed synthesized
+speech used visually impaired quickly navigate computers
+using screen reader formant synthesizer usually smaller
+program concatenative system database
+speech sample therefore used embedded systems
+memory microprocessor power especially limitedformantbased system complete control aspectoutput speech wide variety prosody intonationoutput conveying question statement varietyemotion tone voice
+
+example nonrealtime highly accurate intonation controlformant synthesis include work done late texas
+instrument toy speakspell early sega arcade
+machine creating proper intonation projectpainstaking result yet matched realtime
+texttospeech interfaces
+
+articulatory synthesis
+
+articulatory synthesis refers computational techniquesynthesizing speech based model human vocal tractarticulation process occurring first articulatory
+synthesizer regularly used laboratory experiment developedhaskins laboratory mids philip rubin tom baerpaul mermelstein synthesizer known asy based vocal
+tract model developed bell laboratorypaul mermelstein cecil coker colleagues
+
+articulatory synthesis mostly academic interestrecently model currently sufficiently advancedcomputationally efficient used commercial speech synthesis
+system notable exception nextbased system originally
+developed marketed trillium sound research spinoff company
+university calgary much original researchconducted following demise various incarnation next
+started steve job late merged apple computer
+inthe trillium software published gnu general
+public licence work continuing gnuspeech system first
+marketed inprovides full articulatorybased texttospeech
+conversion using waveguide transmissionline analog human
+oral nasal tract controlled carrs distinctive region model
+
+hmmbased synthesis
+
+hmmbased synthesis synthesis method based hidden markov
+model system frequency spectrumvocal tract
+fundamental frequency vocal source durationprosody speech
+modeled simultaneously hmms speech waveform generatedhmms based maximum likelihood criteria
+
+sinewave synthesis
+
+sinewave synthesis technique synthesizing speech replacing
+formants main band energy pure tone whistles
+
+challenges
+
+text normalization challenges
+
+process normalizing text rarely straightforward textfull heteronym number abbreviation require
+expansion phonetic representation many spellingenglish pronounced differently based context example
+latest project learn better project voice contains
+two pronunciation project
+
+texttospeech system generate semantic
+representation input text processreliable well understood computationally effective result
+various heuristic technique used guess proper waydisambiguate homograph like examining neighboring word using
+statistic frequency occurrence
+
+deciding convert number another problem systems
+address simple programming challenge convertnumber word likebecoming one thousand three hundred
+twentyfive however number occur many different contextpart addressshould likely read thirteen
+twentyfive part social security number one three
+two five system often infer expand number basedsurrounding word number punctuation sometimes system
+provides way specify context ambiguous
+
+similarly abbreviation ambiguous exampleabbreviation inch must differentiated word
+tt system intelligent front end make educated guesses
+ambiguous abbreviation others provide resultcase resulting nonsensical sometimes comical outputs
+
+texttophoneme challenges
+
+speech synthesis system use two basic approach determinepronunciation word based spelling process often
+called texttophoneme graphemetophoneme conversionphonemeterm used linguist describe distinctive soundlanguage simplest approach texttophoneme conversiondictionarybased approach large dictionary containingword language correct pronunciation storedprogram determining correct pronunciation word matter
+looking word dictionary replacing spelling
+pronunciation specified dictionary approach
+rulebased pronunciation rule applied worddetermine pronunciation based spellingsimilar sounding synthetic phonics approachlearning reading
+
+approach advantage drawback dictionarybased
+approach quick accurate completely fails givenword dictionary dictionary size growsdoe memory space requirement synthesis systemhand rulebased approach work inputcomplexity rule grows substantially system takeaccount irregular spelling pronunciation consider word
+common english yet wordletter pronounced result nearly speech synthesis
+system use combination approaches
+
+language like spanish regular writing systemprediction pronunciation word based spellings
+quite successful speech synthesis system language often
+use rulebased method extensively resorting dictionaryword like foreign name borrowing whose
+pronunciation obvious spelling hand
+speech synthesis system language like englishextremely irregular spelling system likely relydictionary use rulebased method unusual wordword arent dictionaries
+
+computer operating system outlet speech synthesis
+
+apple
+
+first speech system integrated operating system apple
+computer macintalk induring early apple
+voice synthetic recently apple added samplebased
+voice starting curiosity speech system apple macintosh
+eventually evolved fullysupported program plaintalk people
+vision problems
+
+amigaos
+
+second operating system advanced speech synthesis capabilities
+wa amigaos introduced inthe voice synthesis licensedcommodore international thirdparty software house dont ask
+software softvoice inc featured complete systemvoice emulation male female voice stress
+indicator marker made possible advanced feature amiga
+hardware audio chipset divided narrator devicetranslator library amiga speak handler featured texttospeech
+translator amigaos considered speech synthesis virtual hardware
+device user could even redirect console outputamiga program word processor made extensive usespeech system
+
+microsoft windows
+
+modern window system use sapi sapibased speech systeminclude speech recognition engine sre sapiwas availablemicrosoftbased operating system like windowsand window 
+window featured speech synthesis program called narrator
+directly available user windowscompatible program could make
+use speech synthesis feature available menuinstalled system microsoft speech server complete package
+voice synthesis recognition commercial applicationcall centers
+
+websites
+
+recently website bluemountaincom featured ecardsallow user produce custommade vocal greetingcomputergenerated voice ecards usually consist premade
+image allow user select image whatever user
+want ecards allow user select computers
+vocabulary
+
+others
+
+theandtexas instrument tia home
+computer capable texttophoneme synthesis reciting
+complete word phrase texttodictionary usingpopular speech synthesizer peripheral used proprietary codec
+embed complete spoken phrase application primarily video
+games
+system operate gnulinux system various include
+opensource program festival speech synthesis system
+us diphonebased synthesis use limited numbermbrola voice gnuspeech articulatory synthesis
+free software foundation commercial vendor software
+also run gnulinux
+several commercial speech synthesis systemcreated including one nowdefunct lernouthauspie called
+ttsacapela group att cepstral dectalk ibm viavoice
+neospeech nuance communication commercial offerings
+well
+
+speech synthesis markup languages
+
+number markup language established renditiontext speech xmlcompliant format recent speech
+synthesis markup language ssml became recommendationolder speech synthesis markup language include java speech
+markup language jsml sable although proposed
+standard none widely adopted
+
+speech synthesis markup language distinguished dialogue
+markup language voicexml example includes tag relatedspeech recognition dialogue management touchtone dialingaddition texttospeech markup

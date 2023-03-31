@@ -1,0 +1,561 @@
+copyright
+
+symmetry
+
+ school wikipedia selection related subject mathematics
+
+sphere symmetry groupsphere symmetry group
+symmetry mean constancy something retains certain feature
+even change way looking symmetric
+
+thus thing symmetric
+time change time
+space look even different pointview
+size look even zoom
+symmetric object material person crystal quilt
+floor tile molecule abstract structuremathematical equation series tone music naturechange similarly diverse ranging simple intuitive
+operation moving across regularly patterned tile floorrotating eightsided vase complex transformation equations
+way music played
+
+article describes symmetry three perspective firstmathematics symmetry defined categorized
+precisely second perspective application symmetry concepts
+science technology example symmetry turn underlie
+profound result modern physic including aspects
+space time finally third perspective look richvaried use symmetry history architecture art religion
+
+opposite symmetry asymmetry
+
+symmetry mathematics
+
+formal term say object symmetric respectgiven mathematical operation applied objectoperation doe change object appearance two objectsymmetric respect given group operationone obtained operation vice
+versa
+
+symmetry may also found living organism including humananimal see symmetry biology geometry main
+kind symmetry interest respect basic euclidean
+plane isometry translation rotation reflection glide
+reflections
+
+mathematical model symmetry
+
+nonisometric symmetry
+
+mentioned symmetry group space may
+differ euclidean group group isometries
+
+examples
+g group similarity transformation affine
+transformation matrix scalar timeorthogonal matrix thus dilation added selfsimilarityconsidered symmetry
+
+g group affine transformation matrixdeterminantorie transformation preserve area
+add oblique reflection symmetry
+
+g group bijective affine transformations
+
+inversive geometry includes circle reflection etc
+
+generally involution defines symmetry respectinvolution
+
+directional symmetry
+
+see directional symmetry
+
+reflection symmetry
+
+see reflection symmetry
+
+reflection symmetry mirror symmetry mirrorimage symmetrybilateral symmetry symmetry respect reflection
+
+common type symmetry axissymmetry plane symmetry object figureindistinguishable transformed image called mirror symmetric
+see mirror image
+
+axis symmetry twodimensional figure lineperpendicular constructed two point lyingperpendicular equal distance axis symmetryidentical another way think shapefolded half axis two half would identicaltwo half others mirror image thus square four axes
+symmetry four different way foldedge match circle infinitely many symmetryreason
+
+letter reflected along vertical axis appearsnote sometimes called horizontal symmetrysometimes vertical symmetry one better use unambiguous
+formulation ha vertical symmetry axis
+
+triangle symmetry isosceles quadrilateralsymmetry kite isosceles trapezoids
+
+line plane reflection symmetry group isomorphic
+c see point group three dimension one three types
+order two involution hence algebraically fundamental
+domain halfplane halfspace
+
+bilateria bilateral animal including human less
+symmetric respect sagittal plane
+
+certain context rotational symmetry anywaymirrorimage symmetry equivalent inversion symmetrycontext modern physic term psymmetry used stand parity
+
+general type reflection correspondinggeneral type reflection symmetry examples
+respect non isometric affine involution oblique
+reflection line plane etc
+
+respect circle inversion
+
+rotational symmetry
+
+see rotational symmetry
+
+rotational symmetry symmetry respect rotations
+mdimensional euclidean space rotation direct isometries
+ie isometry preserving orientation therefore symmetry grouprotational symmetry subgroup see euclidean group
+
+symmetry respect rotation point implies
+translational symmetry respect translationsymmetry group whole doe apply objects
+make space homogeneous may apply physical laws
+
+symmetry respect rotation point takepoint origin rotation form special orthogonal group
+som group orthogonal matrix determinantforrotation group
+
+another meaning word rotation group objectsymmetry group within group direct isometryword intersection full symmetry group groupdirect isometry chiral object full
+symmetry group
+
+law physic soinvariant distinguish
+different direction space noether theorem rotational
+symmetry physical system equivalent angular momentum
+conservation law see also rotational invariance
+
+translational symmetry
+
+see main article translational symmetry
+
+translational symmetry leaf object invariant discretecontinuous group translation tappa
+
+glide reflection symmetry
+
+glide reflection symmetry glide plane symmetry meanreflection line plane combined translation alonglinein plane result object implies
+translational symmetry twice translation vector
+
+symmetry group isomorphic 
+rotoreflection symmetry
+
+rotoreflection improper rotation strict senserotation axis combined reflection plane
+perpendicular axis symmetry group regardrotoreflection distinguish
+angle common divisor withthe symmetry groupdiscrete
+nfold rotoreflection angle symmetry group order confused symmetric groupnotation used abstract group special casen inversion doe depend axisplane characterized point inversion
+cnh angle odd generated single
+symmetry abstract group even nbasic symmetry combinationsee also point group three
+dimensions
+
+helical symmetry
+
+drill bit helical symmetry
+drill bit helical symmetry
+
+helical symmetry kind symmetry seen everyday objects
+spring slinky toy drill bit auger thoughtrotational symmetry along translation along axisrotation concept helical symmetry visualizedtracing threedimensional space result rotating object
+even speed simultaneously moving another even speed
+along axis rotation translation one point time
+two motion combine give coiling angle help defineproperty tracing tracing object rotates quicklytranslates slowly coiling angle close toconversely
+rotation slow translation speedy coiling angle
+approach 
+
+three main class helical symmetry distinguished basedinterplay angle coiling translation symmetry along
+axis
+infinite helical symmetry distinguishing features
+along length helix helixlike object objectinfinite symmetry much like circleadditional requirement translation along long axisobject return original appearance helixlike object
+one every point regular angle coilinghelix also cross section indefinitely high
+complexity provided precisely cross section
+exists usually rotation every point along length
+object simple example include evenly coiled springs
+slinkies drill bit auger stated precisely object
+ha infinite helical symmetry small rotationobject around central axis exists point nearbytranslation distance axis object appear
+exactly infinite helical symmetrygive rise curious illusion movement along lengthauger screw bit rotated also providesmechanically useful ability device move material along
+length provided combined forcegravity friction allows material resist simply
+rotating along drill auger
+
+nfold helical symmetry requirement every cross
+section helical object identical relaxed additional
+lesser helical symmetry become possible example cross
+section helical object may change still repeatregular fashion along axis helical object
+consequently object type exhibit symmetryrotation fixed angleand translation fixed
+distance general invariant rotation
+angle angle rotation symmetry occurs divides
+evenly full circlethe result helical
+equivalent regular polygon case called nfold helical
+symmetry nthis concept generalized
+include case multiple cycle
+doe eventually repeat one full rotation
+helical object
+
+nonrepeating helical symmetry case angle
+rotationrequired observe symmetry irrational
+number sqrtradians never repeat exactly matter
+many time helix rotated symmetry createdusing nonrepeating point group two dimension dnaexample type nonrepeating helical symmetry
+
+scale symmetry fractals
+
+scale symmetry refers idea object expandedreduced size new object propertyoriginal scale symmetry notable fact doe exist
+physical system point first discerned galileo
+simple example lack scale symmetry physical world
+include difference strength size legelephant versus mouse observation candle madesoft wax enlarged size tall tree would immediately
+collapse weight
+
+subtle form scale symmetry demonstrated fractalconceived mandelbrot fractal mathematical conceptstructure complex form look exactly matterdegree magnification used examine coast examplenaturally occurring fractal since retains roughly comparablesimilarappearing complexity every level viewsatellite microscopic examination water lapindividual grain sand branching tree enables
+child use small twig standins full tree dioramaanother example
+
+similarity naturally occurring phenomenon provides fractaleveryday familiarity typically seen mathematically
+generated function consequence produce strikingly
+beautiful result mandelbrot set intriguingly fractals
+also found place computergenerated movie effects
+ability create complex curve fractal
+symmetry result realistic virtual worlds
+
+symmetry combinations
+
+see symmetry combinations
+
+symmetry science technology
+
+generalisation concept symmetry
+
+definition symmetry related notions
+
+symmetry physics
+
+symmetry physic generalized mean invariancethatlack visible changeunder kind transformationconcept become one powerful tool theoretical
+physic become evident practically law nature
+originate symmetry see noether theorem gross
+oversimplification state every mathematical symmetrycorresponding conserved quantity conserved currentnoether original language also wigner classificationsay symmetry law physic determineproperty particle found nature
+
+symmetry physical objects
+
+classical objects
+
+although everyday object may appear exactlysymmetry operation rotation exchange two identical
+part performed readily apparentsymmetry true approximation ordinary physical
+object
+
+example one rotates precisely machined aluminium equilateral
+triangledegrees around centre casual observer broughtrotation unable decide whetherrotation took place however reality cornertriangle always appear unique examined sufficient
+precision observer armed sufficiently detailed measuring
+equipment optical electron microscope fooled
+immediately recognize object rotatedlooking detail crystal minor deformities
+
+simple thought experiment show assertion symmetryeveryday physical object always matter approximate similarity
+rather precise mathematical sameness important
+consequence approximate nature symmetry everyday
+physical object symmetry minimal impactphysic object consequently deeper symmetries
+space time play major role classical physicsthatphysic large everyday objects
+
+quantum objects
+
+remarkably exists realm physic mathematical
+assertion simple symmetry real object ceaseapproximation domain quantum physicpart physic small simple objectelectron proton light atoms
+
+unlike everyday object object electron limited
+number configuration called state existmean symmetry operation exchanging positioncomponent applied resulting new configuration often
+cannot distinguished original matter diligentobserver consequently sufficiently small simple objects
+generic mathematical symmetry assertion fxx ceaseapproximate instead becomes experimentally precise accurate
+description situation real world
+
+consequence quantum symmetry
+
+make sense symmetry could become exact appliedsimple object immediate intuition detail
+affect physic object significant way
+part difficult view conceptexact similarity physically meaningful mental picturesituation invariably one use large objectpicture object configuration similarcould look closer would still able telldifference
+
+however assumption exact symmetry small objects
+make difference physic discoveredearly spectacularly incorrect situation succinctly
+summarized richard feynman direct transcript feynman
+lecture physic volume iii sectionidentical particles
+unfortunately quote edited printed versionlecture
+
+physical situation impossible
+tell way happened always interferes never
+fails
+
+wordinterferes context quick way sayingobject fall rule quantum mechanicbehave like wave interfere like everyday large objects
+
+short object becomes simple symmetry assertionform fxx becomes exact statement experimentally
+verifiable sameness cease follow rule classical physics
+must instead modeled using complexand often far less
+intuitiverules quantum physics
+
+transition also provides important insightmathematics symmetry deeply intertwined quantum
+mechanic physical system make transition symmetries
+approximate one exact mathematical
+expression symmetry cease approximationtransformed precise definition underlying natureobject point correlation objectmathematical description becomes close difficultseparate two
+
+symmetry unifying principle geometry
+
+german geometer felix klein enunciated influential erlangen
+programme insuggesting symmetry unifying organising
+principle geometry time read geometrybroad rather deep principle initially led interestgroup attached geometry slogan transformation
+geometry aspect new math hardly controversial modern
+mathematical practice applied numerous forms
+kind standard attack problems
+
+symmetry mathematics
+
+example mathematical expression exhibiting symmetry 
+abbc exchanged expression remains unchanged
+due commutativity addition multiplication
+
+like geometry term two possibilities
+symmetric
+ha one term symmetric accordance
+symmetry kind
+
+see also symmetric function duality mathematics
+
+symmetry logic
+
+dyadic relation symmetric whenever true
+rab true rba thus agesymmetrical paul age mary maryage paul
+
+symmetric binary logical connective areandlandor
+orbiconditionaliffnand notand xor
+notbiconditional notor
+
+generalization symmetry
+
+given set object structurepossible symmetry merely convert one object another
+instead acting upon possible object simultaneouslyrequires generalization concept symmetry groupgroupoid
+
+physicist come direction generalizationsupersymmetry quantum groups
+
+symmetry biology
+
+see symmetry biology facial symmetry
+
+symmetry chemistry
+
+symmetry important chemistry explains observationspectroscopy quantum chemistry crystallography draw heavily
+group theory
+
+symmetry telecommunications
+
+telecommunication service specifically data product mayreferred symmetrical asymmetrical refersbandwidth allocated data sent received internet services
+used residential customer asymmetrical data sentserver normally far returned server
+
+symmetry history religion culture
+
+human endeavor impressive visual result partdesired objective symmetry play profound roleinnate appeal symmetry found reactionhappening across highly symmetrical natural object precisely
+formed crystal beautifully spiraled seashell first reaction
+finding object often wonder whether foundobject created fellow human followed quickly surprisesymmetry caught attention derived naturereaction give away inclination view symmetrybeautiful fashion informative world around 
+symmetry religious symbols
+
+symmetry religious symbol rowchristian jewish hindu 
+islamic buddhist shintosikh bahai jain
+symmetry religious symbol rowchristian jewish hindu 
+islamic buddhist shintosikh bahai jain
+
+tendency people see purpose symmetry suggests least one
+reason symmetry often integral part symbolworld religion many example include sixfold
+rotational symmetry judaism star david twofold point
+symmetry taoism taijitu yinyang bilateral symmetrychristianity cross sikhism khanda fourfold point
+symmetry jains ancient peacefully intended versionswastika strong prohibition userepresentational image islam particular sunni branchislam developed intricate visually impressive
+use symmetry decorative major religion
+
+ancient taijitu image taoism particularly fascinating use
+symmetry around central point combined blackandwhite
+inversion colour opposite distance central pointimage often misunderstood western worldrepresenting good white versus evil black actually intendedgraphical representative complementary need two abstract
+concept maleness white femaleness black symmetry
+symbol case used create symbolcatch attention eye make significant statement
+philosophical belief people group use
+italso important symmetrical religious symbol shintoist
+torii gate bird usually gate shintoist
+temple called jinjas
+
+symmetry architecture
+
+another human endeavor visual result play vital partoverall result architecture ancient time ability
+large structure impress even intimidate vieweroften major part purpose use symmetryinescapable aspect accomplish goals
+
+example ancient example architecture made
+powerful use symmetry impress around includedegyptian pyramid greek parthenon first second temple
+jerusalem china forbidden city kampuchea cambodia angkor
+wat complex many temple pyramid ancient
+precolumbian civilization recent historical examplearchitecture emphasizing symmetry include gothic architecture
+cathedral american president thomas jefferson monticello home
+india unparalleled taj mahal category may
+arguably one impressive beautiful symmetry
+architecture world ever seen
+leaning tower pisa
+leaning tower pisa
+
+interesting example broken symmetry architectureleaning tower pisa whose notoriety stem small partintended symmetry design violationsymmetry lean developed stillconstruction modern example architecture make impressivecomplex use various symmetry include australia astonishing
+sydney opera house houston texas simpler astrodome
+
+symmetry find way architecture every scaleoverall external view layout individual floor
+plan design individual building elementintricately caved door stained glass window tile mosaic friezes
+stairwell stair rail balustrade sheer complexitysophistication exploitation symmetry architectural
+element islamic building taj mahal often eclipseculture age due part general prohibitionislam using image people animals
+
+link related symmetry architecture include
+williams symmetry architecture
+aslaksen mathematics art architecture
+
+symmetry pottery metal vessels
+
+persian vessel millennium persian vessel millennium 
+since earliest pottery wheel help shape clay vessels
+pottery strong relationship symmetry minimum
+pottery created using wheel necessarily begin full rotational
+symmetry crosssection allowing substantial freedomshape vertical direction upon inherently symmetrical
+starting point culture ancient time tended addpattern tend exploit many case reduce original full
+rotational symmetry point specific visual objectiveachieved example persian pottery dating fourth
+millennium earlier used symmetric zigzag squares
+crosshatchings repetition figure produce complexvisually striking overall designs
+
+cast metal vessel lacked inherent rotational symmetrywheelmade pottery otherwise provided similar opportunitydecorate surface pattern pleasing usedancient chinese example used symmetrical patternbronze casting early century bronze vessels
+exhibited bilateral main motif repetitive translated
+border design
+
+links
+chinavoc art chinese bronzes
+
+grant iranian pottery oriental institute
+
+metropolitan museum artislamic art
+
+symmetry quilts
+
+kitchen kaleidoscope block
+kitchen kaleidoscope block
+
+quilt made square block usuallyorpiecesblock smaller piece usually consisting fabric triangles
+craft lends readily application symmetry
+
+links
+quate exploring geometry quilts
+
+quilt geometry
+
+symmetry carpet rugs
+
+navajo blanket
+navajo blanket
+persian rug
+persian rug
+
+long tradition use symmetry carpet rug patterns
+span variety culture american navajo indian used bold
+diagonal rectangular motif many oriental rug intricate
+reflected center border translate patternsurprisingly rectangular rug typically use quadrilateral
+symmetrythat motif reflected across horizontal
+vertical axes
+
+links
+mallet tribal oriental rugs
+
+dilucchio navajo rugs
+
+symmetry music
+
+symmetry course restricted visual art rolehistory music touch many aspect creation perception
+music
+
+musical form
+
+symmetry used formal constraint many composerarch form abcba used steve reich bla bartk james
+tenney swell classical music bach used symmetry concepts
+permutation invariance see external link fugue nopdf
+shockwave
+
+pitch structures
+
+symmetry also important consideration formation scales
+chord traditional tonal music made nonsymmetrical
+group pitch diatonic scale major chord
+symmetrical scale chord whole tone scale augmented
+chord diminished seventh chord diminisheddiminished seventhsaid lack direction sense forward motion ambiguouskey tonal centre specific diatonic
+functionality however composer alban berg bla bartkgeorge perle used symmetry andor interval cycleanalogous way key non tonal tonal centers
+
+perleexplains df ebg different instances
+intervalthe kind identityhas axes
+symmetry belongs family symmetrically related dyadfollows
+e f g
+c b 
+thus addition part interval family alsopart sum family equal 
+
+
+
+
+interval cycle symmetrical thus nondiatonic however seven
+pitch segment cycle fifth enharmoniccycle fourth produce diatonic major scale cyclic tonal
+progression work romantic composer gustav mahler
+richard wagner form link cyclic pitch successionatonal music modernist bartk alexander scriabin edgard
+varse vienna school time progressions
+signal end tonality
+
+first extended composition consistently based symmetrical pitch
+relation probably alban berg quartet opperle
+
+
+equivalency
+
+tone row pitch class set invariant retrogradehorizontally symmetrical inversion vertically see also
+asymmetric rhythm
+
+symmetry art crafts
+
+celtic knotwork
+celtic knotwork
+
+concept symmetry applied design objectshape size example include beadwork furniture sand
+painting knotwork mask musical instrument manyendeavors
+
+symmetry aesthetics
+
+relationship symmetry aesthetic complex certain simple
+symmetry particular bilateral symmetry seem deeply
+ingrained inherent perception human likely healthfitness living creature seen simple
+experiment distorting one side image attractive face
+asking viewer rate attractiveness resulting image
+consequently symmetry mimic biology tend innate
+appeal turn drive powerful tendency create artifactsimilar symmetry one need imagine difficulty tryingmarket highly asymmetrical car truck general automotive buyers
+understand power biologically inspired symmetrybilateral symmetry
+
+another subtle appeal symmetry simplicityturn implication safety security familiarity highly
+symmetrical room example unavoidably also roomanything place potentially threatening identified
+easily quickly people example grown houses
+full exact right angle precisely identical artifact find
+first experience staying room exact right angles
+exactly identical artifact highly disquieting symmetry
+thus source comfort indicator biological
+health also safe wellunderstood living environment
+
+opposed tendency excessive symmetry perceived
+boring uninteresting human particular powerful desire
+exploit new opportunity explore new possibilityexcessive degree symmetry convey lack opportunities
+
+yet another possibility symmetry become complexchallenging human mind tendency tuneperceive yet another fashion noise conveys useful
+information
+
+finally perception appreciation symmetry also dependent
+cultural background far greater use complex geometric
+symmetry many islamic culture example make likely
+people culture appreciate art formconversely rebel
+many human endeavor result confluence manyfactor effective use symmetry art architecturecomplex intuitive highly dependent skillindividual must weave combine factor withincreative work along texture colour proportionfactor symmetry powerful ingredient synthesis one
+need examine taj mahal powerful role symmetry plays
+determining aesthetic appeal object
+
+example explicit use symmetry artfound remarkable art escher creative designmathematical concept wallpaper group many applications
+mathematical real world tiling
+
+symmetry game puzzles
+
+see also symmetric games
+
+see sudoku
+
+puzzles
+diamondpuzzle
+
+board games
+symmetrical chess collection
+
+symmetry literature
+
+see palindrome
+
+moral symmetry
+
+tit tat
+reciprocity
+golden rule
+empathysympathy
+reflective equilibrium
+

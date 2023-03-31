@@ -1,0 +1,91 @@
+copyright
+
+differential equation
+
+ school wikipedia selection related subject mathematics
+
+mathematics differential equation equationderivative function appear variable many fundamental
+law physic chemistry biology economics formulateddifferential equation express relationship involvingrate change continuously changing quantity modeledfunction used whenever rate change derivativeknown process originating solutiondifferential equation usually function whose derivative satisfy
+equation question becomes find solutionequations
+
+mathematical theory differential equation developed
+together science equation originateresult find application diverse scientific field often give riseidentical problem differential equation casemathematical theory unify otherwise quite distinct scientific
+field celebrated example fourier theory conductionheat term sum trigonometric function fourier seriesfind application propagation sound electromagnetic
+field optic elasticity spectral analysis radiationscientific fields
+
+order differential equation highest derivative
+contains instance firstorder differential equation
+contains first derivatives
+
+type differential equations
+
+ordinary differential equation ode contains functionone independent variable derivative variable
+partial differential equation pde contains functionmultiple independent variable partial derivatives
+delay differential equation dde contains function one
+dependent variable derivative variable dependsprevious state dependent variables
+stochastic differential equation sde differential equation
+one term stochastic process thus
+resulting solution stochastic process
+differential algebraic equation dae differential equation
+comprising differential algebraic term given implicit
+form
+
+category divided linear nonlinear
+subcategories differential equation linear involvesunknown function derivative first power otherwise
+differential equation nonlinear thus denotes first
+derivative equation
+
+uu
+
+linear equation
+
+uu
+
+nonlinear solution linear equation unknown
+function derivative derivative appear term linear
+homogeneous equation may added together multipliedarbitrary constant order obtain additional solutionequation general way obtain family solutions
+nonlinear equation except exhibit symmetry see
+symmetry invariant linear equation frequently appearapproximation nonlinear equation approximationvalid restricted conditions
+
+theory differential equation closely related theory
+difference equation coordinate assume discrete
+value relationship involves value unknown functionfunction value nearby coordinate many method compute
+numerical solution differential equation study properties
+differential equation involve approximation solutiondifferential equation solution corresponding difference
+equation
+
+study differential equation wide field pureapplied mathematics pure mathematician study type properties
+differential equation whether solution existexist whether unique applied mathematicians
+emphasize differential equation application additionexistenceuniqueness question also concerned rigorously
+justifying method approximating solution physicistengineer usually interested computing approximate
+solution differential equation typically interested
+justification whether approximation really closeactual solution solution used simulate
+celestial motion simulate neuron design bridge automobiles
+aircraft sewer etc often equation closed form
+solution solved using numerical methods
+
+mathematician also study weak solution relying weak derivatives
+type solution differentiable
+everywhere extension often necessary solution exist
+also result physically reasonable propertysolution shock hyperbolic wave equations
+
+study stability solution differential equationknown stability theory
+
+famous differential equations
+
+newton second law dynamic mechanics
+radioactive decay nuclear physics
+newton law cooling thermodynamics
+wave equation
+maxwell equation electromagnetism
+heat equation thermodynamics
+laplace equation defines harmonic functions
+poissons equation
+einstein field equation general relativity
+schrdinger equation quantum mechanics
+geodesic equation
+navierstokes equation fluid dynamics
+lotkavolterra equation population dynamics
+blackscholes equation finance
+cauchyriemann equation complex analysis
+

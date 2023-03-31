@@ -1,0 +1,99 @@
+copyright
+
+quantum chemistry
+
+ school wikipedia selection related subject general chemistry
+
+article historical introduction theoretical
+concept quantum chemistry information computational
+method chemistry recent andor technical aspectquantum chemistry see computational chemistry theoretical
+concept related chemistry see theoretical chemistry
+
+linus pauling pioneer valence bond theory onefirst quantum chemist received first nobel prize 
+enlarge
+linus pauling pioneer valence bond theory onefirst quantum chemist received first nobel prize 
+
+quantum chemistry branch theoretical chemistry applies
+quantum mechanic quantum field theory address issueproblem chemistry description electronic behaviouratom molecule pertaining reactivity oneapplication quantum chemistry quantum chemistry lie border
+chemistry physic significant contributionmade scientist field strong active overlap
+field atomic physic molecular physic wellphysical chemistry
+
+electronic structure
+
+first step solving quantum chemical problem usually solving
+schrdinger equation dirac equation relativistic quantum
+chemistry electronic molecular hamiltonian called
+determining electronic structure molecule said
+electronic structure molecule crystal implies
+essentially chemical properties
+
+wave model
+
+foundation quantum mechanic quantum chemistry wave
+model atom small dense positively charged nucleus
+surrounded electron unlike earlier bohr model atom
+however wave model describes electron asclouds movingorbitals position represented probability
+distribution rather discrete point strength model
+lie predictive power specifically predicts patternchemically similar element found periodic table wave model
+named electron exhibit property interference
+traditionally associated wave see waveparticle duality
+
+valence bond
+
+although mathematical basis quantum chemistry laidschrdinger init generally accepted first true
+calculation quantum chemistry german physicists
+walter heitler fritz london hydrogen moleculeheitler london method extended american
+theoretical physicist john slater american theoretical
+chemist linus pauling become valencebond vbheitlerlondonslaterpauling hlsp method method attention
+primarily devoted pairwise interaction atommethod therefore correlate closely classical chemists
+drawing bonds
+
+molecular orbital
+
+alternative approach developed inby friedrich hundrobert mulliken electron described mathematical
+function delocalized entire molecule hundmulliken
+approach molecular orbital method intuitivechemist turned capable predicting spectroscopic
+property better method approach conceptional
+basis hartreefock method post hartreefock methods
+
+density functional theory
+
+thomasfermi model developed independently thomas fermi
+inthis first attempt describe manyelectron systems
+basis electronic density instead wave function although
+wa successful treatment entire moleculemethod provide basis known density
+functional theory though method developed post
+hartreefock method lower computational requirement allowtackle larger polyatomic molecule even macromoleculemade used method computational chemistry present
+
+chemical dynamics
+
+step consist solving schrdinger equationtotal molecular hamiltonian order study motion molecules
+direct solution schrdinger equation called quantum molecular
+dynamic within semiclassical approximation semiclassical
+molecular dynamic within classical mechanic framework
+molecular dynamic statistical approach using example
+monte carlo method also possible
+
+adiabatic chemical dynamics
+
+adiabatic dynamic interatomic interaction representedsingle scalar potential called potential energy surfacebornoppenheimer approximation introduced born oppenheimerpioneering application chemistry performedrice ramsperger inand kassel inand generalizedrrkm theory inby marcus took transition state theory
+developed eyring ininto account method enable simple
+estimate unimolecular reaction rate characteristicpotential surface
+
+nonadiabatic chemical dynamics
+
+nonadiabatic dynamic consists taking interactionseveral coupled potential energy surface corresponding different
+electronic quantum state molecule coupling termcalled vibronic coupling pioneering work field done
+stueckelberg landau zener workknown landauzener transition formula allowstransition probability two diabatic potential curveneighbourhood avoided crossing calculated
+
+quantum chemistry quantum field theory
+
+application quantum field theory qft chemical systemtheory become increasingly common modern physical
+science one first fundamentally explicit appearances
+seen theory photomagneton system
+plasma ubiquitous physic chemistrystudied order determine basic quantization underlying
+bosonic field however quantum field theory interest many
+field chemistry including nuclear chemistry astrochemistry
+sonochemistry quantum hydrodynamics field theoretic methodalso critical developing initio effective hamiltonian
+theory semiempirical pielectron methods
+

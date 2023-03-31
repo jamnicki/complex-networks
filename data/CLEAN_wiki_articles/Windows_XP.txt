@@ -1,0 +1,393 @@
+copyright
+
+window 
+ school wikipedia selection related subject software
+
+
+featured article click information
+window part microsoft window family
+screenshot
+screenshot window sp
+developer
+microsoft
+web site wwwmicrosoftcomwindowsxp
+release information
+release dateoctoberinfo
+current version service packspaugustinfo
+source modelshared source
+licensemicrosoft eula
+kernel typehybrid kernel
+support status
+currently active
+reading
+feature new window 
+development window 
+window line operating system developed microsoft
+corporation use generalpurpose computer system including home
+business desktop notebook computer medium centerletter stand experience codenamed whistler whistler
+british columbia many microsoft employee ski resortdevelopment window successor windowsand
+window first consumeroriented operating system
+produced microsoft built window kernelarchitecture release window developmentoperating system based window architecturediscontinued window wa first released octoberandofis recent consumer version microsoft windows
+available overmillion copy use accordingestimate idc analyst
+
+common edition operating system window home
+edition targeted home user window professional
+ha additional feature support window server
+domain dual processor targeted power userbusiness client window medium centre edition consists windows
+xp professional new feature enhancing ability recordwatch show watch dvd listen music window tablet
+pc edition designed run inkaware tablet platform two
+separate bit version window also released window bit edition iaitanium processor window professional edition processors
+
+window known improved stability efficiencyprevious version window present significantly redesigned
+graphical user interface change microsoft promoteduserfriendly previous version window new software
+management capability introduced avoid thedll hellplagued older consumer version window also first
+version window use product activation combat software piracy
+restriction sit well user privacy
+advocate window ha also criticized usersecurity vulnerability tight integration applicationinternet explorer window medium player aspect user
+interface
+
+window vista scheduled next major revision microsoft
+window planned release date novemberfor volume
+license customer worldwide general release followingjanuary
+
+editions
+
+diagram representing main edition window basedcategory edition grey codebase black arrow
+enlarge
+diagram representing main edition window basedcategory edition grey codebase black arrow
+
+two major edition window home edition designed home
+user window professional designed businesspowerusers build window include builtspecialized hardware crippled version sold europe select
+developing economies
+
+window professional offer number feature unavailablehome edition including
+able become part window server domaina groupcomputer remotely managed one central servers
+many business use window window serverdomain
+sophisticated access control scheme allows specific
+permission file granted specific user normal
+circumstance however user use tool windows
+explorer like cacls file manager restart safe modemodify access control lists
+remote desktop server allows operated another
+window user local area network internet
+offline file folder allow automatically
+store copy file another networked computer workdisconnected network
+encrypting file system encrypts file storedcomputer hard drive cannot read another user even
+physical access storage medium
+centralized administration feature including group policies
+automatic software installation maintenance roaming user
+profile remote installation service ris
+support two physical central processing unit cpu number
+cpu core hyperthreading capability modern cpuconsidered part single physical processor
+
+window specialized hardware
+
+microsoft also customized window suit different marketseveral different version available five different
+version specific hardware designed twospecifically bit processors
+
+window bit edition
+edition designed specifically itaniumbased
+workstation edition discontinued earlyafter
+hp last distributor itaniumbased workstation stopped
+selling itanium system marketed workstation however
+itanium support continues server edition windows
+
+window professional edition
+confused previous bit itanium editionwindow edition based window serverand
+support amd amd bit extension intel architecture found amd opteron athlon 
+chip well intels chip implementing broadly
+compatible emt extension
+
+microsoft previously supported microprocessorearlier version window operating system line
+including two bit line dec alpha mips although window used bit processor files
+necessary architecture includedinstallation require purchase separate
+versions
+
+window medium centre edition
+edition designed medium centre originallywa available bundled one computercould purchased separately inthe medium center
+edition updated window medium centre edition 
+added additional feature radio tuning another
+update released inand inwhich wafirst edition available system builders
+
+window tablet edition
+intended speciallydesigned notebooklaptop computer called
+tablet tablet edition compatiblepensensitive screen supporting handwritten noteportraitoriented screen cannot purchased separately
+tablet 
+window embedded
+edition specific consumer electronics settop boxes
+kiosk atm medical device arcade video game pointofsale
+terminal voice internet protocolvoip components
+
+window fundamental legacy pcs
+julymicrosoft introduced thinclient versionwindow called window fundamental legacy pctarget older machine early original pentiumavailable software assurance customerwould like upgrade window take advantagesecurity management capability cant affordpurchase new hardware application typically runremote server using remote desktop
+
+window starter edition
+
+window starter edition lowercost version window available thailand turkey malaysia indonesia russia india
+colombia brazil argentina chile mexico ecuador uruguayvenezuela similar window home limited lowend
+hardware runprograms time hafeature either removed disabled default
+
+according microsoft press release window starter editionlowcost introduction microsoft window operating system
+designed firsttime desktop user developing countryseen effort fight unauthorized copying window xppossibly spread gnulinuxbased system asia south
+america
+
+specializations
+
+starter edition includes special feature nonus markets
+consumer may computer literate found home
+edition include localized help feature mayspeak english countryspecific computer wallpaper screensavers
+default setting designed easier use typical windows
+xp installations
+
+addition starter edition also unique limitationprevent displacing expensive version window xpthree application run starter editionapplication may open three window maximum screen resolution
+limited toand support workgroup
+networking domain addition starter edition licensed
+lowend processor like intels celeron amd duronalso limit main memory disk size limit
+microsoft made clear however total disk
+space per partition per disk also fewer optioncustomizing theme desktop taskbar
+
+market adoption
+
+octobermicrosoft announced reached milestone
+ofunits window starter edition sold mass
+market however starter edition much success many
+market available seen uptake illegally cracked
+pirated version software instead
+
+window edition 
+marchthe european commission fined microsoftmillion
+million usd ordered company provide versionwindow without window medium player commission concludedmicrosoft broke european union competition law leveraging near
+monopoly market operating system onto marketwork group server operating system medium player microsoft
+currently appealing ruling meantime courtcompliant
+version released version doe include companys
+window medium player instead encourages user pick download
+medium player microsoft wanted call version reduced
+medium edition regulator objected suggested edition name signifying medium player homeprofessional edition window due fact soldprice version window medium player included dell
+hewlettpackard lenovo fujitsu siemens chosen stock
+product however dell offer operating system short
+time consumer interest low roughlyunits shipped
+oems reported sale consumers
+
+new updated features
+
+window introduced several new feature window line
+including
+faster startup hibernation sequences
+ability discard newer device driver favourprevious one known driver rollback driver upgrade
+produce desirable results
+new arguably userfriendly interface includingframework developing theme desktop environment
+fast user switching allows user save current state
+open application desktop allow another userlog without losing information
+cleartype font rendering mechanism designedimprove text readability liquid crystal display lcdsimilar monitors
+remote desktop functionality allows user connectcomputer running window across network internet
+access application file printer devicesupport dsl modem wireless network connectionwell networking firewire
+
+user interface
+
+caption default theme classic theme
+
+default
+
+classic
+
+window feature new taskbased graphical user interfacestart menu search capability redesigned many visual
+effect added including
+translucent blue selection rectangle explorer
+watermarklike graphic folder icon indicating typeinformation stored folder
+drop shadow icon label desktop
+taskbased sidebar explorer window common tasks
+ability group taskbar button window one
+application one button
+ability lock taskbar toolbars prevent
+accidental changes
+highlighting recently added program start menu
+shadow menu windowshad shadow mouse pointers
+menus
+
+window analyzes performance impact visual effect uses
+determine whether enable prevent new
+functionality consuming excessive additional processing overhead
+user customize setting effect alpha
+blending transparency fading handled entirely many newer
+video card however video card capable hardware
+alpha blending performance substantially hurt microsoft
+recommends feature turned manually window adds
+ability window use visual style change user
+interface however visual style must cryptographically signedmicrosoft run luna name new visual style ships
+window enabled default machinemb ram luna refers one particular visual stylenew user interface feature window wholeorder use unsigned visual style many user turn softwaretgtsofts stylexp stardocks windowblinds user patchuxthemedll file restrict ability use visual styles
+created general public user window 
+default wallpaper bliss bmp photograph landscapenapa valley outside napa california rolling green hillblue sky stratocumulus cirrus clouds
+
+windowsclassic interface used instead preferred
+several third party utility exist provide hundred different
+visual style addition another microsoftcreated theme called 
+royale included window medium centre editionalso released version window ha sinceremoved original microsoft new zealand package luna theme
+usesmore megabyte ram classic window themeclassic possibly improve performance lowerend systems
+
+overof new icon created iconfactory best known
+freeware mac icons
+
+window also command line interface cli cmdexeexecuting single command running script called batch files
+syntax language window cliwelldocumented microsoft builtin help many gui features
+simple list basic command available command prompt
+typing help somewhat complete command syntax mayfound typing commandnamefor command
+
+service packs
+
+microsoft occasionally release service pack window operating
+system fix problem add features
+
+service pack 
+
+service packsp window wa released september
+notable new feature usbsupport set program
+access default utility first time user could control
+default application activity web browsing instant
+messaging well hide access microsofts bundled
+program utility later brought older window 
+operating system service packservice pack later
+released remove microsofts java virtual machine resultlawsuit sun microsystems
+
+lba allowed view use hdd space abovegb
+wa enabled default native support serial ata added
+
+support window service packended october
+
+service pack 
+
+service packsp codenamed springboard released august 
+several delay special emphasis security unlike
+previous service pack add new functionality window including enhanced firewall improved wifi support wizard
+utility popup blocker internet explorer bluetooth
+support security enhancement include major revision included
+firewall renamed window firewall enableddefault advanced memory protection take advantage bit
+incorporated newer processor stop buffer overflow
+attack removal raw socket support supposedly limitdamage done zombie machine infected computer used
+remotely launch denial service attack additionally
+securityrelated improvement made email web browsing
+window service packincludes window security centreprovides general overview security system includingstate antivirus software window update new windows
+firewall thirdparty antivirus firewall applicationinterface new security centre
+
+window movie makerhas new interface transition video
+effect option full list service fix modificationsp available microsofts website service packreleased program stop working microsoft officially
+listed several website company assetmetrix reports
+one ten computer upgraded severe
+compatibility problem applications
+
+sp also includes major update window tablet editionwindow medium centre edition supportsnew languages
+
+also visual change made service packonopening screen say microsoft window three
+scrolling square designation bottomremoved edition name removed home editionprofessional home edition version scrolling squareoriginally green replaced blue oneaddition wireless network connection icon used show two
+computer symbol like lan connection icon show one
+radio wave symbol right side
+
+well received general service packwas withoutcritic thomas greene register claimed wa merelyplacebo sort term feature fix security updates
+
+found indeed minor improvements
+worthy acknowledgment particular rather lowlevel
+improvement dont show admin user overall little improve system practical security leaving
+many service networking component enabled bungling
+permission leaving oe vulnerable malicious scripts
+installing packet filter lack capacity egress
+filtering
+
+service pack 
+
+window service packis currently developmentreleased window vista finished october 
+microsofts web site indicates preliminary release date 
+
+service packis speculated include window medium player 
+internet explorerand backported technology initially createdwindow vista microsoft made official statementfeature set document microsofts web site suggests service
+packwill include additional support true peruser
+application installing another page suggests improvement managing
+list hidden wireless networks
+
+site titled hotfix reported keeping uptodate
+list downloadable hotfixes included service pack 
+many hotfixes site yet officially released
+microsoft user warned installmany fix known solve specific problem eventually address
+
+common criticisms
+
+security issues
+
+window ha criticized susceptibility malware
+virus trojan horse worm security issue compoundedfact user home edition default receiveadministrator account provides unrestricted accessunderpinnings system administrator account broken
+limit control assertedcompromised 
+window large market share historically tempting
+target virus creator security hole often invisibleexploited making preemptive action difficult microsoftstated release patch fix security hole oftencause spread exploit holecracker figured problem patch fixed launch
+attack unpatched systems
+
+effort slow rate malicious programspread uninfected computer service packlowered limitoutgoing tcpip connection attempt fromtotheremany incomplete outgoing connection attemptedone time additional connection attempt queued limit
+adversely affect legitimate software peertopeer
+application tcpipsys system file patched raiselimit former value
+
+user interface performance
+
+critic claimed default window user interface luna
+add visual clutter waste screen space offering new
+functionality running slowlywith even callingfisherprice interface user like new interfaceeasily switch back window classic theme however theme
+doe entirly copy window gui
+
+integration operating system features
+
+light united state microsoft case resultedmicrosoft convicted abusing operating system monopolyoverwhelm competition market window ha drawn fireintegrating user application window medium player windows
+messenger operating system well close tiewindow live service
+
+backward compatiblity
+
+user switching window xp dislike lack dos
+support although come ability run programbackward compatibility mode well command programlike box cmd still trouble running many old dos
+program largly due fact baseduse base work arounds open
+source dosbox freedos
+
+product activation
+
+product activation licensing server common business
+industrial software especially software sold peruser basis
+large sum money window gave many casual computer users
+first introduction system introduced microsoft
+curb unauthorized distribution window activation requires
+computer user activate microsoft within certain
+amount time order continue using operating systemuser computer system ever changesfor example tworelevant component computer upgradedwindows may
+refuse run user reactivates microsoft
+
+copying restrictions
+
+microsoft window service pack designedinstall computer running installation window use
+product key known widely used unauthorized installations
+product key unique boxed bundled copywindow included product documentation small
+number product key posted internet used
+large number unauthorized installation service packs
+contain list key update copy window use
+microsoft developed new key verification engine window service packthat could detect illicit key evennever used outcry security consultantfeared denying security update illegal installationwindow would wideranging consequence even legal owners
+microsoft elected disable new key verification engine service
+packonly check small list commonly used keyservice packthis mean service packwill install
+copy window use older set copied keyuse key posted recently may able update
+systems
+
+window genuine advantage notifications
+
+window genuine advantage notification utility checklegitimacy window license license key judgedgenuine display nag screen regular interval asking user
+buy license microsoft addition user accessmicrosoft update restricted critical security updatenew version directx window defender internet explorermicrosoft product refuse install
+
+download marked critical security update causing
+automatic update download without user intervention however
+unlike critical update notification component doeinstall automatically must accept supplemental eula provided
+install
+
+installed wga notification phone home microsoft every time
+computer connected internet behaviour hacriticized user claiming program spywarereason others claiming licensed copywindow wga notification mistakenly identified pirate copy
+damaged
+
+testing phase microsoft include uninstallation
+utility rather gave user manual removal instructionwork final build
+
+strictly speaking neither download installnotification mandatory user change automatic update
+setting allow choose update may downloadedinstallation update already downloaded user choose
+accept supplemental eula provided notificationcase user also request update presented
+
+ofmicrosoft currently involved class action lawsuit
+brought forth california ground violated spyware
+law state window genuine advantage notifications
+program 
+

@@ -1,0 +1,572 @@
+copyright
+
+automated teller machine
+
+ school wikipedia selection related subject engineering
+
+ncr interior multifunction atm usa
+enlarge
+ncr interior multifunction atm usa
+smaller indoor atm dispense money inside convenience storebusy area offpremise wincor nixdorf monofunction atm
+sweden
+enlarge
+smaller indoor atm dispense money inside convenience storebusy area offpremise wincor nixdorf monofunction atm
+sweden
+onpremise ncr interior multifunction throughthewall atmcibc branch canada
+enlarge
+onpremise ncr interior multifunction throughthewall atmcibc branch canada
+
+automated teller machine automatic teller machine atmcomputerized telecommunication device provides financial
+institution customer secure method performing financial
+transaction public space without need human clerkbank teller
+
+using atm customer access bank account order make
+cash withdrawal credit card cash advance check account
+balance many atm also allow people deposit cash cheques
+transfer money bank account pay bill purchase
+good services
+
+atm also known english automated banking machine money
+machine bank machine canada cash machineuk holeinthewall
+new zealand cashpoint new zealand despite wide
+usage term atm machine word machine redundant
+
+history
+
+old nixdorf atm
+enlarge
+old nixdorf atm
+
+mechanical cash dispenser arguably atm developed built
+luther george simjian installedin new york city
+bank new york removed aftermonths due lackcustomer acceptance
+
+thereafter history atm paused overyears la
+rue developed first electronic atm installed firstenfield town north london juneby barclays bankfirst person use machine reg varney ofon bus fame
+british television programme sthis instanceinvention credited john shepherdbarron although luther george
+simjian registered patent new york usa donald
+wetzel two engineer docutel registered patent june
+shepherdbarron awarded obe thenew years
+honour list
+
+first atm accepted singleuse token voucherretained machine worked various principle including
+radiation lowcoercivity magnetism wiped card
+reader make fraud difficult
+
+idea personal identification number pin stored physical
+card compared pin entered retrieving moneydeveloped british engineer james goodfellow inwho also
+hold international patent regarding technology
+
+atm first came wide use early mid notable
+historical model atm include ibmand series diebold
+tabsand series ncr xxx series
+
+usage
+
+atm encrypting pin pad epp german markings
+enlarge
+atm encrypting pin pad epp german markings
+
+modern atm customer identifiesinserting plastic card magnetic stripe plastic smartcard
+chip contains card number security
+information expiration date cvc cvv customerverifies identity entering passcode often referredpin personal identification number four digit upon
+successful entry pin customer may perform transaction
+transaction complete transaction record printed
+usually consisting action taken date time locationapplicable fee available balance
+
+number entered incorrectly several time row usually
+three attempt per card insertion atm attempt retain
+card security precaution prevent unauthorised userdiscovering pin guesswork captured card often destroyedatm owner card issuing bank noncustomers
+identity cannot reliably confirmed
+
+case transaction may performed atm allows
+customer pin changed securely
+
+types
+
+top three worldwide manufacturer atm machinery atm
+brand includes diebold opteva series ncr persona serieswincor nixdorf procash series many atm supplierdistributors
+
+type physical characteristics
+
+monofunction exterior siemens nixdorf atm germany
+enlarge
+monofunction exterior siemens nixdorf atm germany
+
+two main type atm developed time
+monofunction device one type mechanismfinancial transaction present cash dispensingstatement printing
+multifunction device incorporate multiple mechanismperform multiple service accepting deposit dispensing
+cash printing statement etc within single footprint
+
+monofunction multifunction device manufactured regular
+interior grade weatherresistant exterior throughthewall
+grade variant atm also built fully selfcontained
+exterior unit designed sit alone without protectionbuilding completely exposed side elements
+
+reason selecting either monofunction multifunctioninterior versus exterior atm include device cost installation
+location customer wait time desired reliability historical
+preference
+
+type installation locations
+
+atm placed near inside premise bank also
+location shopping centresmalls grocery store gas
+station restaurant represent two type atm
+installation premise premise atm typicallyadvanced mutlifunction machine complement actual bank
+branch capability thus expensive premise machinedeployed financial institution also isos independent sales
+organization usually straight need cashtypically cheaper monofunction devices
+
+canada atm operated financial institutionknown white label atm
+
+financial network atms
+
+atm netherlands logo number interbank networks
+atm connected shown
+enlarge
+atm netherlands logo number interbank networks
+atm connected shown
+
+logical connections
+
+atm connected interbank network enabling peoplewithdraw deposit money machine belonging bank
+account country accounts
+held convenience especially peopletravelling possible make withdrawal place ones
+bank branch even withdraw local currency foreign
+country example interbank network include plus cirrus
+south africa saswitch hong kongs jetco canada interacphilippine expressnet nigeria interswitch network
+
+atm rely authorization transaction card issuerauthorizing institution via communication network often
+performed isomessaging system
+
+many bank charge fee use atm casefee assessed solely nonmember bank cases
+apply user many people oppose fee atmactually costly bank withdrawal human tellers
+
+order allow diverse range device attachnetwork interbank network passed rule expandingdefinition atm terminal either vault within
+footprint utilizes vault cash drawer within merchant
+establishment allows use scrip cash dispenser
+diebold dialup modem visible base
+enlarge
+diebold dialup modem visible base
+
+physical connections
+
+atm typically connect directly atm transaction processor via
+either dialup modem telephone line directly via leased
+line leased line preferable pot line require
+le time establish connection leased line may comparatively
+expensive operate versus pot line meaning lesstrafficked
+machine usually rely dialup modem dilemma maysolved highspeed internet vpn connection become ubiquitous
+common lowerlevel layer communication protocol used atmcommunicate back bank include sna sdlc async
+x tcpip ethernet
+
+addition method employed transaction security secrecy
+communication traffic atm transaction
+processor could also encrypted via method ssl
+
+global use
+
+atm tokyo subway
+enlarge
+atm tokyo subway
+
+hard international governmentalcompiled numbers
+totaling complete number atm use worldwide estimates
+developed atmia place number atm use overmillion
+august 
+
+industry view atm usage around world generally divide world
+seven region due penetration rate usage statisticfeature deployed four region usa canada europe japanhigh number atm per million people generally slowing growth
+rate despite large number atm additional demandmachine asiapacific area well latin america atms
+yet reach high number near eastafrica
+
+world northernly installed atm world locatedlongyearbyen svalbard norway
+
+world southernly installed atm world locatedmcmurdo station antarctica
+
+atm ubiquitous modern cruise ship atm alsofound certain navy ships
+
+hardware
+
+block diagram atm
+enlarge
+block diagram atm
+
+atm typically made following devices
+cpu control user interface transaction devices
+magnetic andor chip card reader identify customer
+pin pad similar layout touch tone calculator keypad
+often manufactured part secure enclosure
+secure cryptoprocessor generally within secure enclosure
+display used customer performing transaction
+function key button usually close displaytouchscreen used select various aspect transaction
+record printer provide customer recordtransaction
+vault store part machinery requiring restricted
+access
+housing aesthetic attach signage
+recently due heavier computing demand falling pricecomputerlike architecture atm moved away custom hardware
+architecture using microcontrollers andor applicationspecific
+integrated circuit adopting hardware architecturesimilar personal computer many atm able use operating
+system microsoft window linux although undoubtedly
+cheaper use commercial offtheshelf hardware doe make atms
+vulnerable sort problem exhibited conventional
+computers
+
+vaults
+
+interior freestanding atm servicing
+enlarge
+interior freestanding atm servicing
+
+vault atm within footprint deviceitem value kept scrip cash dispenser incorporate
+vault
+
+mechanism found inside vault may include
+dispensing mechanism provide cash item value
+deposit mechanism take item value customer
+security sensor magnetic thermal seismic
+lock ensure controlled access content vault
+
+atm vault supplied manufacturer several grade factors
+influencing vault grade selection include cost weight regulatory
+requirement atm type operator risk avoidance practice internal
+volume requirements
+
+industry standard vault configuration include underwriters
+laboratory business hour levelsafes ral 
+tl derivative cen encen iiivds cen
+ivlgaivds
+
+atm manufacturer recommend vault attached floorprevent theft
+
+software
+
+wincor nixdorf atm running window 
+enlarge
+wincor nixdorf atm running window 
+
+migration commodity hardware standard commercial
+offtheshelf operating system programming environmentused inside atm typical platform used atm development include
+rmx microsoft operating system windowswindows
+nt windowswindows window embedded sun
+microsystems java may also used environments
+
+linux also finding reception atm marketplace example
+banrisul largest bank south brazilreplaced msdos operating system atm linux
+
+common application layer transaction protocol dieboldor
+ibm pbm ncr ndc ndc provide emulation older
+generation hardware newer platform incremental extensions
+made time address new capability major atm
+manufacturer provide software package implement protocols
+newer protocol ifx yet find wide acceptancetransaction processors
+
+wosacenxfs jxfs
+
+move standardized software base financial
+institution increasingly interested ability pick
+choose application program drive equipment
+wosaxfs known cen xfs simply xfs provides common api
+accessing manipulating various device atm
+
+jxfs java implementation cen xfs api
+
+xfs middleware
+
+perceived benefit xfs similar java write
+run anywhere mantra often different atm hardware vendordifferent interpretation xfs standard resultdifference interpretation mean atm application typically use
+middleware even difference various platforms
+
+notable xfs middleware platform include diebold agilis kal kalignite
+ncr corporation aptra edge phoenix interactive vistaatm wincor
+nixdorf protopas
+
+software integrity
+
+move atm industrystandard computing environments
+concern risen integrity atm software stack
+various solution adopted industry addressconcern
+
+security
+
+security relates atm several dimension atm also
+provide practical demonstration number security systemconcept operating together various security concern dealt
+
+physical
+
+vandalized atm spain
+enlarge
+vandalized atm spain
+
+early atm security focused making atm invulnerable physical
+attack effectively safe dispenser mechanism number
+attack atm resulted thief attempting steal entire
+atm ramraiding since late criminal group operatingjapan improved ramraiding stealing using truck loadedheavy construction machinery effectively demolish uprootentire atm housing steal cash
+
+another attack method seal opening atm silicone
+fill vault combustible gas place explosive
+inside attached near atm gas explosive ignitedvault opened distorted force resulting
+explosion criminal break
+modern atm physical security per modern moneyhandling security
+concentrate denying use money inside machinethief mean technique dye marker smoke canisters
+
+transactional secrecy integrity
+
+security atm transaction relies mostly integritysecure cryptoprocessor atm often commodity componentconsidered betrusted systems
+
+encryption personal information required law many
+jurisdiction used prevent fraud sensitive data atm
+transaction usually encrypted transaction processors
+usually require use triple remote key loading
+technique may used ensure secrecy initializationencryption key atm message authentication code macpartial mac may also used ensure message tampered
+transit atm financial network
+
+customer identity integrity
+
+atm palm scanner right screen
+enlarge
+atm palm scanner right screen
+
+also number incident fraud criminals
+attached fake keypad card reader existing machineused record customer pin bank card information
+order gain unauthorised access account various atm
+manufacturer put place countermeasure protectequipment manufacture threats
+
+alternate method verify cardholder identity testeddeployed country finger palm vein patterns
+iris facial recognition technology cost integratingimplementing technology along concern consumer
+acceptance limited deployment far
+
+device operation integrity
+
+atm exposed outside must vandal weather
+resistant
+enlarge
+atm exposed outside must vandal weather
+resistant
+
+opening customerside atm often covered mechanical
+shutter prevent tampering mechanismuse alarm sensor placed inside atm atm servicing areas
+alert operator door opened unauthorized
+personnel
+
+rule usually set government atm operating bodydictate happens integrity system fail dependingjurisdiction bank may may liable attempt made
+dispense customer money atm money either gets
+outside atm vault exposed nonsecure fashionunable determine state money failed
+transaction bank customer often complain bank madedifficult recover money lost way often
+complicated bank internal policy regarding suspicious
+activity typical criminal element
+
+customer security using atms
+
+security guard watching atm installed van
+enlarge
+security guard watching atm installed van
+
+area multiple security camera security guardubiquitous atm feature
+
+critic atm operator assert issue customer security
+appears abandoned banking industry hasuggested effort concentrated deterring
+legislation solving problem forced withdrawals
+
+least far back julycritics industrycalled adoption emergency pin system atmuser able send silent alarm response threat
+legislative effort require emergency pin system appearedillinois kansa georgia none succeeded yet
+
+alternative uses
+
+automatic teller machine bank jersey dispensing dual
+currency bank england sterling jersey pounds
+enlarge
+automatic teller machine bank jersey dispensing dual
+currency bank england sterling jersey pounds
+
+although atm originally developed cash dispenserevolved include many bankrelated functioncountry especially benefit fully integrated
+crossbank atm network multibanco portugal atm include
+many function directly related managementone bank accountdeposit currency recognition acceptance recycling
+paying routine bill fee tax utility phone bills
+social security legal fee tax etc
+printing bank statements
+updating passbooks
+loading monetary value prepaid card cell phone tolls
+multi purpose stored value card etc
+ticket purchase train concert etc
+purchasing postal stamps
+lottery ticket purchases
+game promotional features
+donation charities
+purchase shopping mall gift certificates
+
+canada interac shared cash network doe allowselling good atm due specific security requirementpin entry buying goods
+
+atm also act advertising channel company advertise
+product thirdparty product services
+
+future technologies
+
+south korean atm biometrics
+enlarge
+south korean atm biometrics
+
+manufacture demonstrated deployed several different
+technology atm yet reached worldwide acceptance
+biometrics authorization transaction basedscanning customer fingerprint iris face etc
+biometrics atm found asia
+chequecash acceptance atm accepts recoginse cheques
+andor currency without using envelopes
+expected grow importance check 
+legislation
+bar code scanning
+ondemand printing item value movie tickets
+traveller cheque etc
+dispensing additional medium phone cards
+coordination atm mobile phones
+customerspecific advertising
+integration nonbanking equipment
+
+reliability
+
+de rue atm running microsoft window crashed
+enlarge
+de rue atm running microsoft window crashed
+
+atm placed public place typically undergone
+extensive testing test money backend computer systems
+allow perform transaction banking customer also come
+expect high reliability atm provides incentiveatm provider minimize machine network failure financial
+consequence incorrect machine operation also provide high degrees
+incentive minimize malfunctions
+
+atm supporting electronic financial network generally
+reliable industry benchmark typically producing 
+customer availability atm toavailability host
+system atm service customer could left without
+ability make transaction beginning banks
+next time opening hours
+
+course error detriment customercase machine giving money without debiting account
+giving higher value note result incorrect denomination
+banknote loaded money cassette error occur
+may mechanical card transport mechanism keypad hard
+disk failure software operating system device driver
+application communication purely operator error
+atm running crashed
+enlarge
+atm running crashed
+
+aid reliability atm print transaction roll paper
+journal stored inside atm allows useratm related financial institution settle thing based
+record journal case disputecase transaction posted electronic journal removecost supplying journal paper atm convenient
+searching data
+
+improper money checking cause possibility customer
+receiving counterfeit banknote atm bank presonnelgenerally trained better spotting removing counterfit cashresulting atm money supply used bank provide absolute
+guarantee proper banknote federal criminal police office
+germany confirmed regularly incident false
+banknote provided bank atm atm maystocked wholly owned outside companycomplicate problem happens bill validation technologyused atm provider help ensure authenticity cash
+stocked atm atm cash recycling
+capability include capability
+
+fraud
+
+device containing object value atm systems
+depend function target fraud fraud atms
+people attempt use take several forms
+
+fake atms
+
+first known instance fake atm installed shopping mall
+manchester connecticut inby modifying inner workingfujitsu modelatm criminal gang known bucklands boys
+able steal information card inserted machinecustomers
+
+operational fraud
+
+case bank fraud could occur atm whereby bank
+accidentally stock atm bill wrong denomination
+therefore giving customer money dispensedresult receiving much money may influenced card holder
+agreement place customer bank
+
+variation wavytv reported incident virginia beach
+septemberwhere hacker admin password gas
+station white label atm caused unit assume loadedusd bill instead enabling himselfand many subsequent
+customersto walk away four time money said wanted
+withdraw
+
+atm behaviour change called standin timebank cash dispensing network unable access databasecontain account information possibly database maintenanceorder give customer access cash customer may allowedwithdraw cash certain amount may usual
+daily withdrawal limit may still exceed amount available
+money account could result fraud
+
+atm card fraud
+
+theft
+
+attempt prevent criminal shoulder surfing customers
+pin bank draw privacy area floor
+enlarge
+attempt prevent criminal shoulder surfing customers
+pin bank draw privacy area floor
+
+lowtech form fraud simplest simply stealcustomer card scenario user pin observedsomeone watching use machine muggedcard second person taken care stay range
+atm surveillance camera however offer little
+advantage compared simply mugging victim moneycarry risk offender violent crimes
+
+later variant approach trap card insideatm card reader device often referred lebanese loop
+customer get frustrated getting card backwalk away machine criminal able remove card
+withdraw cash customer account
+
+lebanese loop could also combined droplet methodstealing pin small drop oil placed pin pad
+key customer used atm one see keypressed make easier guess entered pin simple
+counter measure attack wipe pin paduse
+
+another simple form fraud involves attempting get customers
+bank issue new card stealing mail
+
+cloning
+
+atm may put warning message customer usedetects possible tampering
+enlarge
+atm may put warning message customer usedetects possible tampering
+
+concept various method copying content atm
+card magnetic stripe duplicate card access peoples
+financial information well known hacking community late
+
+
+inandrew stone computer security consultant hampshireuk convicted stealing excess ofmillion poundtime u million pointing high definition video
+camera atm considerable distance recording card
+number expiry date etc embossed detail atm cards
+along video footage pin entered gettinginformation videotape able produce clone cards
+allowed withdraw full daily limitaccount also allowed sidestep withdrawal limit using
+multiple copied card court shown could withdrawmuch asper hour using method stone sentencedfive year six month prison
+
+contrast newer hightech modus operandi involves installation
+magnetic card reader real atm card slot usewireless surveillance camera modified digital camera observe
+user pin card data cloned onto second cardcriminal attempt standard cash withdrawal availabilitylowcost commodity wireless camera card reader maderelatively simple form fraud comparatively low riskfraudsters
+
+combatting stolen card information
+
+attempt stop practice countermeasure card
+cloning developed banking industry particularuse smart card cannot easily copied spoofedunauthenticated device attempting make outsideatm tamper evident older chipcard security system includefrench carte bleue visa cash mondex blue american expressemvor emvthe actively developed form smart card
+security industry today known emvor emv 
+emv widely used ukchip pin part europeavailable specific area atm must fallbackusing easy copy magnetic stripe perform transactionfallback behaviour exploited
+
+related devices
+
+talking atm
+
+talking atm type atm provides audible instructionperson cannot read atm screen independently usemachine audible information delivered privatelystandard headphone jack face machine informationdelivered customer either prerecorded sound filevia texttospeech speech synthesis
+
+postal kiosk
+
+postal kiosk may also share many component atm
+including vault dispenses item relating postage
+
+scrip cash dispenser
+
+scrip cash dispenser may share many component atm
+lack ability dispense physical cash consequently
+requires vault instead customer request withdrawal
+transaction machine print receipt customertake receipt nearby sale clerk exchangecash till
+
+teller assist unit
+
+teller assist unit may also share many componentatm including vault distinctdesigned operated solely trained personnel general
+public integrate directly interbank networkusually controlled computer directly integratedoverall construction unit
+

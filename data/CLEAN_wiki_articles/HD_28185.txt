@@ -1,0 +1,75 @@
+copyright
+
+hd 
+
+ school wikipedia selection related subject space astronomy
+
+caption 
+
+observation data
+epoch constellationeridanus
+right ascensionhdeclination
+apparent magnitude characteristics
+spectral typegv
+bv colour index
+ub colour index
+variable typenone
+astrometry
+radial velocity rvkms
+proper motionramas decmas parallaxmas
+distancelypc
+absolute magnitude 
+details
+massm
+radiusr
+luminosityl
+temperaturek
+metallicity
+rotationdays
+ageyears
+designations
+bdsaohipgsc 
+database references
+simbaddata
+
+hdis yellow dwarf star similar sun located 
+light year away constellation eridanus designation refers entry henry draper catalogue ofthe
+star known posse one long period extrasolar planet
+
+distance visibility
+
+according measurement hipparcos astrometric satellite ha parallax ofmilliarcseconds correspondsdistance ofparsecslight year since star located
+thanparsecs earth listed gliese
+catalogue nearby star apparent magnitude ofthe star
+visible naked eye though seen using
+binoculars
+
+stellar characteristics
+
+hdis similar sun term mass radius luminosity
+star main sequence generating energy fusing
+hydrogen core spectral type implies hdis
+cooler sun like majority extrasolar planet host stars
+hdis metalrich relative sun containing aroundof
+solar abundance iron star rotates slower sunperiod arounddays compared today sun
+
+based star chromospheric activity hdis estimatedage aroundmillion year hand
+evolutionary model give age aroundmillion yearmasstimes sun
+
+planetary system
+
+inan extrasolar planet designated hdb discoveredorbit around star period ofyears unlike many
+longperiod extrasolar planet low orbital eccentricityplanet experience similar insolation earth ledspeculation possibility habitable moon addition
+numerical simulation suggest lowmass planet located gas
+giant trojan point would stable long periods
+
+star also show evidence longterm radial velocity trend
+may indicate presence additional outer companion
+
+companion
+order starmass
+mjorbital period
+dayssemimajor axis
+aueccentricity
+b
+

@@ -1,0 +1,326 @@
+copyright
+
+game theory
+
+ school wikipedia selection related subject mathematics
+
+game theory branch applied mathematics economicsstudy situation player choose different action attempt
+maximize return first developed tool understanding
+economic behaviour rand corporation define nuclear
+strategy game theory used many diverse academic fields
+ranging biology psychology sociology philosophy
+beginning game theory applied animal
+behaviour including specie development natural selectiongame like prisoner dilemma rational selfinterest
+hurt everyone game theory used political science ethics
+philosophy finally game theory recently drawn attentioncomputer scientist use artificial intelligencecybernetics
+
+addition academic interest game theory received
+attention popular culture nobel prizewinning game theorist john
+nash subject thebiography sylvia nasarfilm beautiful mind game theory also theme 
+film wargames several game show adopted game theoretic
+situation including friend foe extent survivorcharacter jack bristow television show alias onefictional game theorist popular culture
+
+although similar decision theory game theory study decisionmade environment various player interactword game theory study choice optimal behaviour costbenefit option fixed depend upon choiceindividuals
+
+representation games
+
+game studied game theory welldefined mathematical objects
+game consists set player set move strategies
+available player specification payoffcombination strategy two way representing games
+common literature
+
+see also list game game theory
+
+normal form
+
+player 
+chooses leftplayer 
+chooses right
+player 
+choosesplayer 
+choosesnormal form payoff matrix player strategy game
+
+normal strategic form game matrix showplayer strategy payoff see example righttwo player one chooses row choosescolumn player two strategy specifiednumber row number column payoff providedinterior first number payoff received row player
+playerin example second payoff column
+player playerin example suppose playerplaysplayerplays left playergets payoff ofand player
+get 
+
+game presented normal form presumedplayer act simultaneously least without knowing actionplayer information choiceplayer game usually presented extensive form
+
+extensive form
+
+extensive form game
+enlarge
+extensive form game
+
+extensive form used formalize game important
+order game presented tree pictured left
+vertex node represents point choice player
+player specified number listed vertex linevertex represent possible action player payoffs
+specified bottom tree
+
+game pictured two player playermoves first
+chooses either u playersees player movechooses suppose playerchooses player 
+chooses playergetsand playergets 
+
+extensive form also capture simultaneousmove game eitherdotted line circle drawn around two different vertexrepresent part information set ieplayer know point
+type games
+
+symmetric asymmetric
+
+ef
+e
+f
+asymmetric game
+
+symmetric game game payoff playing particular
+strategy depend strategy employedplaying identity player changed without
+changing payoff strategy game symmetric many
+commonly studiedgames symmetric standard
+representation chicken prisoner dilemma stag hunt
+symmetric game scholar would consider certain
+asymmetric game example game well howevercommon payoff game symmetric
+
+commonly studied asymmetric game gameidentical strategy set player instance ultimatum
+game similarly dictator game different strategyplayer possible however game identical
+strategy player yet asymmetric example game
+pictured right asymmetric despite identical strategy
+set players
+
+zero sum nonzero sum
+
+ab
+b
+zerosum game
+
+zerosum game total benefit player gameevery combination strategy always add zero informally
+player benefit expense others poker exemplifieszerosum game ignoring possibility house cutone win exactly amount one opponent lose zero sum games
+include matching penny classical board game including chess many game studied game theorist including famous
+prisoner dilemma nonzerosum game outcomenet result greater zero informally nonzerosum
+game gain one player doe necessarily correspond loss
+another
+
+possible transform game possibly asymmetric
+zerosum game adding additional dummy player often calledboard whose loss compensate player net winnings
+
+simultaneous sequential
+
+simultaneous game game player move simultaneouslymove simultaneously later player unawareearlier player action making effectively simultaneous
+sequential game dynamic game game later playerknowledge earlier action need perfect
+knowledge every action earlier player mightlittle information instance player may know earlier
+player perform one particular action doe know
+available action first player actually
+performed
+
+difference simultaneous sequential game captureddifferent representation discussed normal form usedrepresent simultaneous game extensive form used represent
+sequential ones
+
+perfect information imperfect information
+
+game imperfect information dotted line represents ignorance
+part player 
+enlarge
+game imperfect information dotted line represents ignorance
+part player 
+
+important subset sequential game consists game perfect
+information game one perfect information player know
+move previously made player thus sequential
+game game perfect information since simultaneous games
+every player know action others game studiedgame theory imperfect information game althoughinteresting example perfect information game includingultimatum game centipede game perfect information game include
+also chess mancala arimaa
+
+perfect information often confused complete informationsimilar concept complete information requires every player
+know strategy payoff playernecessarily actions
+
+infinitely long games
+
+obvious reason game studied economist realworld game
+player generally finished finite number move pure
+mathematician constrained set theorist particular
+study game last infinitely many move winnerpayoff known move completed
+
+focus attention usually much best way
+play game simply whether one playerwinning strategy proven using axiom choicegameseven perfect informationoutcome win losefor neither player winning
+strategy existence strategy cleverly designed
+game important consequence descriptive set theory
+
+us game theory
+
+game one form another widely used many different academic
+disciplines
+
+economics business
+
+economist long used game theory analyze wide arrayeconomic phenomenon including auction bargaining duopolies
+oligopoly social network formation voting systemresearch usually focus particular set strategy knownequilibrium game solution concept usually basedrequired norm rationality famousnash equilibrium set strategy nash equilibriumrepresents best response strategyplayer playing strategy nash equilibriumincentive deviate since strategy bestgiven others
+payoff game generally taken represent utilityindividual player often modeling situation payoff represent
+money presumably corresponds individual utilityassumption however faulty
+
+prototypical paper game theory economics begin presentinggame abstraction particular economic situation one
+solution concept chosen author demonstratesstrategy set presented game equilibrium appropriate
+type naturally one might wonder use informationput economist business professor suggest two primary uses
+
+descriptive
+
+three stage centipede game
+enlarge
+three stage centipede game
+
+first use inform actual human populations
+behave scholar believe finding equilibrium games
+predict actual human population behaveconfronted situation analogous game studiedparticular view game theory come recent criticism first
+criticized assumption made game theoristoften violated game theorist may assume player always act rationally
+maximize win homo economicus model real humans
+often act either irrationally act rationally maximize wins
+larger group peoplealtruism game theorist respondcomparing assumption used physic thusassumption always hold treat game theoryreasonable scientific ideal akin model used physicists
+however additional criticism use game theory halevied experiment demonstrated individualplay equilibrium strategy instance centipede game
+guessof average game dictator game people regularly
+play nash equilibrium ongoing debate regardingimportance experiments
+
+alternatively author claim nash equilibrium provide
+prediction human population rather provide explanation
+population play nash equilibrium remain state
+however question population reach point remains
+open
+
+game theorist turned evolutionary game theory orderresolve worry model presume either rationalitybounded rationality part player despite name
+evolutionary game theory doe necessarily presume natural selection
+biological sense evolutionary game theory includesbiological well cultural evolution also model individual
+learning example fictitious play dynamics
+
+normative analysis
+
+cooperate defect
+cooperate
+defect
+prisoner dilemma
+
+hand scholar see game theory predictive
+tool behaviour human suggestionpeople ought behave since nash equilibrium game constitutes
+one best response action player playingstrategy part nash equilibrium seems appropriate however
+use game theory also come criticism firstcase appropriate play nonequilibrium strategy one
+expects others play nonequilibrium strategy wellexample see guessof average
+
+second prisoner dilemma present another potential
+counterexample prisoner dilemma player pursuingselfinterest lead player worsepursued selfinterests scholar believedemonstrates failure game theory recommendationbehaviour
+
+application biology
+
+hawkdove
+hawk vc 
+dovevv hawkdove game
+
+unlike economics payoff game biology often
+interpreted corresponding fitness addition focusle equilibrium correspond notion rationalityrather one would maintained evolutionary forcewellknown equilibrium biology known evolutionary
+stable strategy wa first introduced john maynard
+smith described hisbook although initial motivationinvolve mental requirement nash equilibrium
+every nash equilibrium
+
+biology game theory used understand many different
+phenomenon first used explain evolution stability
+approximatesex ratio ronald fishersuggestedthesex ratio result evolutionary force actingindividual could seen trying maximize numbergrandchildren
+
+additionally biologist used evolutionary game theory ess
+explain emergence animal communicationmaynard smith 
+harperthe analysis signaling game communication
+game provided insight evolution communication
+among animals
+
+finally biologist used hawkdove game also knownchicken analyze fighting behaviour territoriality
+
+computer science logic
+
+game theory come play increasingly important role logic
+computer science several logical theory basis game
+semantics addition computer scientist used game model
+interactive computations
+
+political science
+
+application game theory political science focusedoverlapping area political economy public choice positive
+political theory social choice theory areas
+researcher developed game theoretic model players
+often voter state interest group politicians
+
+early example game theory applied political science seework anthony book economic theory democracy
+applies hotelling firm location model political
+process downsian model political candidate commitideology onedimensional policy space showpolitical candidate converge ideology preferredmedian voter recent example see book genegrossman elhanan helpman david austensmith jeffreybanks
+
+gametheoretic explanation democratic peacepublic open debate democracy send clear reliable
+information regarding intention state contrastdifficult know intention nondemocratic leadereffect concession promise kept thusmistrust unwillingness make concession least one
+party dispute nondemocracy
+
+philosophy
+
+stag hare
+stag
+hare
+stag hunt
+
+game theory put several philosophy respondingtwo paper wvo quinedavid lewisused game
+theory develop philosophical account conventionprovided first analysis common knowledge employedanalyzing play coordination game addition first suggested
+one understand meaning term signaling game later
+suggestion pursued several philosopher since lewis skyrms
+grim al 
+
+ethic author attempted pursue project begunthomas hobbes deriving morality selfinterest since games
+like prisoner dilemma present apparent conflictmorality selfinterest explaining cooperation requiredselfinterest important component project general
+strategy component general social contract viewpolitical philosophy example see gauthierand kavka 
+
+finally author attempted use evolutionary game theory
+order explain emergence human attitude moralitycorresponding animal behavior author look several games
+including prisoner dilemma stag hunt nash bargaining
+game providing explanation emergence attitudemorality see skyrmssober wilson 
+
+sociology
+
+fewer application game theory sociologysister discipline economics political science game theoretic
+analysis interaction among prisoner conducted kaminski
+
+
+history game theory
+
+first known discussion game theory occurred letter written
+james waldegrave inin letter waldegrave providesminimax mixed strategy solution twoperson version card
+game wa publication antoine augustin
+cournots research mathematical principle theorywealth inthat general game theoretic analysis pursuedwork cournot considers duopoly present solutionrestricted version nash equilibrium
+
+although cournots analysis general waldegraves game
+theory really exist unique field john von neumann
+published series paper inwhile french mathematician
+borel earlier work game von neumann rightfullycredited inventor game theory von neumann brilliant
+mathematician whose work farreaching set theorycalculation key development atom hydrogen
+bomb finally work developing computer von neumann work
+culminated thebook theory game economic behaviour
+von neumann oskar morgenstern profound work containsmethod finding optimal solution twoperson zerosum games
+time period work game theory primarily focusedcooperative game theory analyzes optimal strategy groups
+individual presuming enforce agreementproper strategies
+
+inthe first discussion prisoner dilemma appearedexperiment undertaken game rand corporation
+around time john nash developed definition optimum
+strategy multiplayer game optimum previously
+defined known nash equilibrium equilibrium sufficiently
+general allowing analysis noncooperative game addition
+cooperative ones
+
+game theory experienced flurry activitytime concept core extensive form game fictitious
+play repeated game shapley value developedaddition first application game theory philosophypolitical science occurred time
+
+inreinhard selten introduced solution concept subgame
+perfect equilibrium refined nash equilibrium later
+would introduce trembling hand perfection well injohn
+harsanyi developed concept complete information bayesian
+game along john nash reinhard selten banksweden prize economic science memory alfred nobel 
+
+game theory extensively applied biology largely
+result work john maynard smith evolutionary
+stable strategy addition concept correlated equilibrium
+trembling hand perfection common knowledge introducedanalyzed
+
+ingame theorist thomas schelling robert aumann bank
+sweden prize economic science schelling worked dynamic
+model early example evolutionary game theory aumann contributed
+equilibrium school developing equilibrium coarsening
+correlated equilibrium developing extensive analysisassumption common knowledge
+

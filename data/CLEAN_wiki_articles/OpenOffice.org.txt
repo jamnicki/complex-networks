@@ -1,0 +1,305 @@
+copyright
+
+openofficeorg
+
+ school wikipedia selection related subject software
+
+openofficeorg
+openofficeorgwriter editing text document window developer sun microsystems association community
+latest releaseoctober
+crossplatform
+use office suite
+license gnu lesser general public license
+website httpwwwopenofficeorg
+
+openofficeorg free office suite application availablemany different operating system including microsoft window linux
+solaris mac intended compatible alternativemicrosoft office support opendocument standard data
+interchange
+
+openofficeorg based staroffice office suite developedstardivision acquired sun microsystems augustthe
+source code suite released julywith aimreducing dominant market share microsoft office providingfree open highquality alternative openofficeorg free
+software available gnu lesser general public license lgpl
+
+project software informally referred openoffice
+project organizer report term trademark heldanother party requiring adopt openofficeorg formal
+name abbreviated ooo ooo
+
+overview
+
+openofficeorgfor linux editing html document
+enlarge
+openofficeorgfor linux editing html document
+
+according mission statement openofficeorg project aimcreate community leading international office suiterun major platform provide access functionality
+data opencomponent based apis xmlbased file
+format
+
+openofficeorg aim compete microsoft office emulatelook feel suitable read write file
+format found microsoft office many applicationessential feature suite many user openofficeorg hafound able open file older version microsoft office
+damaged file newer version microsoft office cannot
+open however cannot open older word macintosh mcw files
+
+primary development platform microsoft window linuxsolaris also port available progress mac many unixlike operating systems
+
+federal computer week issue listed openofficeorg one 
+star opensource product contrast openofficeorg usedguardian newspaper illustrate claim limitations
+opensource software
+
+openofficeorg collection different application work
+together closely provide feature expected modern office
+suite many component designed mirror availablemicrosoft office component available include
+writera word processor similar look feel microsoft
+word offering comparable range function toolalso includes ability export portable document format pdf
+file additional software also functionwysiwyg editor creating editing web page one important
+difference writer microsoft word writer
+many function number format calc available
+writer table another difference writer automatic
+save default
+
+calca spreadsheet similar microsoft excel roughly
+equivalent range feature calc provides number features
+present excel including system automatically
+defines series graphing based layout users
+data calc also capable writing spreadsheet directlypdf file
+
+impressa presentation program similar microsoft powerpoint
+export presentation adobe flash swf file allowing
+played computer flash player installed
+also includes ability create pdf file impress suffers
+lack readymade presentation design however templates
+readily available internet
+
+basea database program similar microsoft access base allows
+creation manipulation database buildingform report provide easy access data endusersaccess base able work frontend numberdifferent database system including access database jet odbc
+data source mysql postgresql base became part suite
+starting version 
+
+drawa vector graphic editor comparable featurecoreldraw feature versatile connector shapeavailable range line style facilitate building
+drawing flowcharts
+
+matha tool creating editing mathematical formulae
+similar microsoft equation editor formula embedded
+inside openofficeorg document createdwriter support multiple font export pdf
+
+quickstartera small program window linux runcomputer start first time load core filelibrary openofficeorg computer startup allowssuite application start quickly selected lateramount time take open openofficeorg application wacommon complaint versionof suite quickstartersolution sort substantial improvement madearea version 
+
+macro recorderis used record user action replaylater help automating task using openofficeorg basic
+
+possible download component individuallywindow though installed separately linux
+distribution break component individual package may
+downloaded installed separately
+
+openofficeorg basic
+
+openofficeorg basic similar microsoft visual basicapplication vba based staroffice basic additionmacro upcoming novell edition openofficesupports running
+microsoft vba macro feature expected incorporatedmainstream version soon
+
+openofficeorg basic available writer calc applications
+
+history
+
+caption openofficeorg versions
+
+versiondescriptionrelease date
+build cthe first milestone releaseoctober 
+may
+recommended windowsusersmay
+september
+october
+december
+last release product line september
+secpatch security patch macrosjuly
+milestoneoctober
+december
+march
+june
+latest stable releaseoctober
+
+originally developed proprietary software application suite
+staroffice german company stardivision code purchased
+inby sun microsystems augustversionof staroffice
+wa made available free charge
+
+julysun microsystems announced makingsource code staroffice available download lgpl
+sun industry standard source license sisslintention building open source development community aroundsoftware new project known openofficeorg website
+went live october
+
+work versionbegan earlywith following goals
+better interoperability microsoft office better performanceimproved speed lower memory usage greater scripting capabilities
+better integration particularly gnome easiertofind use
+database frontend creating report form query new
+builtin sql database improved usability beta versionreleased march
+
+septembersun announced retiring sisslconsequence openofficeorg community council announcedwould longer dual license office suite future versions
+would use lgpl
+
+octoberopenofficeorgwas formally releasedpublic eight week release versionan update
+openofficeorgwas released fixed minor bug introduced
+new features
+
+therelease openofficeorg changed release cyclemonth releasing update feature enhancement bug fixes
+every three months
+
+staroffice
+
+sun subsidizes development openofficeorg order usebase commercial staroffice application software releasestaroffice since versionhave based openofficeorg
+source code additional proprietary component including
+additional bundled font especially east asian language fonts
+adabas database
+additional document templates
+clip art
+sorting functionality asian versions
+additional file filters
+migration assessment tool enterprise edition
+macro migration tool enterprise edition
+configuration management tool enterprise edition
+
+openofficeorg therefore inherited many feature original
+staroffice upon based including openofficeorg xml
+file format retained versionwhen replacedopendocument
+
+development
+
+overview
+
+openofficeorg api based component technology knownuniversal network object uno consists wide rangeinterface defined corbalike interface description language
+
+document file format used based xml several exportimport filter external format read openofficeorgconverted back forth internal xml representation using
+compression saving xml disk file generally smallerequivalent binary microsoft office document native file
+format storing document versionwas used basisoasis opendocument file format standard becomedefault file format version 
+
+development version suite released every weekdeveloper zone openofficeorg website release meant
+wish test new feature simply curiousforthcoming change suitable production use
+
+project still essentially run staroffice staff getting
+external contribution core codebase generally regardeddifficult highprofile free software
+projects
+
+native desktop integration
+
+openofficeorgwas criticized lack look feelnative application comparing platform runningstarting versionopenofficeorg native widget
+toolkit icon fontrendering library across varietyplatform better match native application provide smoother
+experience user project underway improve
+integration gnome kde
+
+openofficeorg also used mac version using aqua
+interface planned openofficeorg versionbut duetechnical challenge licensing complication limited development
+resource project postponed openofficeorgrelease
+application made available two intermediate varieties
+run meantime
+openofficeorg mac x version requiresinstallation xapp xdarwin close portwelltested unix version version functionally equivalent
+unix version user interface significantly
+different look feel purposedesigned mac application application menu bar insteadusual mac menu attached top screen example
+versionprovides port abilityconveniently use installed system font like mac application use cup printing
+
+current development aqua version openofficeorgnative
+openofficeorg without 
+last screenshots info openofficeorg port without ericbs blog
+neooffice fork mean derivated product version integratesx using java carbon increasingly cocoa neooffice
+adheres fairly closely gui standard example using
+native pulldown menu full access fontprinting subsystem work small teamrelease lag slightly behind official openofficeorg releases
+
+projects
+
+openofficeorgfor window saving hello world document
+enlarge
+openofficeorgfor window saving hello world document
+
+project run alongside main openofficeorg projecteasier contribute include documentation
+internationalization localization api
+
+opengroupwareorg set extension program allow sharing
+openofficeorg document calendar address book email instant
+messaging blackboard provide access groupware
+applications
+
+also effort create share assorted document templates
+useful addition ooextras
+
+set perl extension available cpan orderallow openofficeorg document processing external programlibrary use openofficeorg api directly readwrite openofficeorg file using perl standard file
+compressionuncompression xml access utf encoding modules
+
+distribution openofficeorg called portable openofficeorgdesigned run suite usb flash drive
+
+versionopenofficeorg manner similar mozilla
+firefox support extensions
+
+security
+
+septemberthe security site secunia report known
+security flaw ooo kaspersky lab shown proof concept
+virus openofficeorg show ooo virus possibleknown virus wild
+
+private meeting french ministry defense additional
+macrorelated security issue raised openofficeorg developers
+responded noting published vulnerabilitytalk researcher fix vulnerability
+
+reactions
+
+market share
+
+although microsoft office retainsof general market
+openofficeorg staroffice securedof large enterprise
+market ofthe openofficeorg web site report 
+million downloads
+
+large scale user openofficeorg include singapore ministrydefense bristol city council france openofficeorg
+ha attracted attention local national government
+administration wish rationalize software procurementwell stable standard file format archival purposeofficial office suite french gendarmerie may also
+noted supreme court india linux completely
+relies openofficeorg
+
+octobersun google announced strategic partnership
+part agreement sun add google search baropenofficeorg sun google engage joint marketing
+activity well joint research development googlehelp distribute openofficeorg
+
+besides staroffice still number openofficeorg derived
+commercial product developed sissl license
+valid openofficeorgbetain generaltargeted local niche market proprietary addonsspeech recognition module automatic database connection better cjk
+support
+
+java controversy
+
+versiondepended java runtime environment jre presentuser computer auxiliary function version 
+increased suite use programming platform following
+area openofficeorgdepend jre present
+medium player unixlike systems
+document wizard writer
+accessibility tools
+report autopilot
+jdbc driver support
+hsql database engine used openofficeorg base
+xslt filters
+beanshell netbeans scripting language java uno bridge
+export filter aportisdoc pdb format palmpocket word psw format pocket export filter latex
+
+dependency installed jre drawn criticism advocates
+free software jre generally available desktop platforms
+wa time proprietary application bundle thus undercutting
+principle freedom advocated group fact sun
+microsystems creator java chief supporteropenofficeorg drawn accusation ulterior motiftechnology choice
+
+issue openofficeorgs use java came fore may 
+richard stallman appeared call fork applicationposting free software foundation website leddiscussion within openofficeorg community sun staff
+developer involved gnu classpath free replacement suns
+java implementation determined necessary
+step place ensure key openofficeorg java
+platform would supported gcj classpath
+
+fedora corereleased juneincluded beta versionopenofficeorg versionrunning gcj gnu classpathdemonstrated use java need barrieruse openofficeorg free software platform whenstablereleased continued openofficeorg developer also placed
+development guideline various requirement ensurefuture version openofficeorg could run free implementations
+java
+
+sun microsystems announced maythat intended releasejava platform opensource license novembersun
+released javac javahelp java hotspot virtual machine free
+open source software gnu general public licensereiterated intend restjava implementations
+
+common point confusion mail merge generate emails
+requires java api javamail staroffice however version
+openofficeorg pythoncomponent instead
+
+trivia
+
+openofficeorg includes several easter egg including quite fully
+fledged game version space invader playable enteringcheat code cell calc version tictactoename picture openofficeorg calc developer team
+

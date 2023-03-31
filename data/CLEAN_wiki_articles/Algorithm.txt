@@ -1,0 +1,524 @@
+copyright
+
+algorithm
+
+ school wikipedia selection related subject mathematics
+
+mathematics computing linguistics related disciplinealgorithm finite list welldefined instructionaccomplishing task given initial state terminatedefined endstate
+
+concept algorithm originated mean recording
+procedure solving mathematical problem finding common
+divisor two number multiplying two number conceptformalized inthrough alan turing turing machine alonzo
+church lambda calculus turn formed foundationcomputer science
+
+etymology
+
+alkhwrizm persian astronomer mathematician wrotetreatise arabic inad calculation hindu numeralwa translated latin century algoritmi numero
+indorumwhich title likely intended mean algoritminumber indian algoritmi translators
+rendition author name people misunderstanding title
+treated algoritmi latin plural led word
+algorithm latin algorithmus coming mean calculation method
+intrusive likely due false cognate greek
+arithmosnumber
+
+flowchart often used graphically represent algorithms
+flowchart often used graphically represent algorithms
+
+algorithm necessary informal definition
+
+detailed presentation various point view around
+definition algorithm see algorithm characterizations
+example simple addition algorithm specifieddetailed manner described algorithm characterization see
+algorithm examples
+
+generally accepted formal definition algorithm existshowever derive clue issue involved informal meaningword following quotation boolos jeffrey 
+
+
+human write fast enough long enough small
+enough list member enumerably infinite setwriting name one another notation
+human something equally useful casecertain enumerably infinite set give explicit
+instruction determining nth member setarbitrary finite instruction given quite
+explicitly form could followedcomputing machine human capable carryingelementary operation symbol boldface added 
+
+word enumerably infinite mean countable using integer perhaps
+extending infinity thus boolos jeffrey sayingalgorithm implies instruction process creates output
+integer arbitrary input integer integer theory
+chosen fromto infinity thus might expect algorithmalgebraic equation ymntwo arbitrary input
+variable produce output unfortunatelyas see
+algorithm characterizationsthe word algorithm implies muchsomething order addition example
+
+precise instruction language understood computer
+fast efficient good process specifies moves
+computer machine human equipped necessary
+internallycontained information capability find
+decode munch arbitrary input integerssymbols symbolsandand reliably correctly effectively
+produce reasonable time outputinteger specified
+place specified format
+
+formalization algorithms
+
+algorithm essential way computer process information
+computer program essentially algorithm tellcomputer specific step perform specific orderorder carry specified task calculating employees
+paycheck printing student report card thus algorithmconsidered sequence operation performedturingcomplete system author assert thesis include savage
+gurevich 
+
+turing informal argument favour thesis justifies
+stronger thesis every algorithm simulated turing
+machine gurevichp according savagean
+algorithm computational process defined turing
+machinegurevichp
+
+typically algorithm associated processing information
+data read input source device written output sink
+device andor stored processing stored dataregarded part internal state entity performingalgorithm practice state stored data structurealgorithm requires internal data specific operation sets
+called abstract data types
+
+computational process algorithm must rigorously
+defined specified way applies possible circumstances
+could arise conditional step must systematically
+dealt casebycase criterion case must clearcomputable
+
+algorithm precise list precise step ordercomputation almost always critical functioningalgorithm instruction usually assumed listed explicitly
+described starting top goingbottom idea described formally flow control
+
+far discussion formalization algorithmassumed premise imperative programming common
+conception attempt describe task discrete
+mechanical mean unique conception formalized algorithms
+assignment operation setting value variablederives intuition ofmemory scratchpadexample assignment
+
+alternate conception constitutes algorithm see
+functional programming logic programming 
+
+termination
+
+writer restrict definition algorithm procedureeventually finish category kleeneplaces decision
+procedure decision method algorithm question kleene others including kleene include procedure could run
+forever without stopping procedure calledcomputational method knuth vol por calculation procedurealgorithm kleene phowever kleene note method
+must eventually exhibit object kleene 
+
+minksy make pertinent observation algorithm hasnt
+terminated cannot answer question terminatecorrect answer
+
+length process known advancetrying may decisive process doe foreverthen time ever sure answer
+minskyp 
+
+thus answer undecidable never knowanalysis beforehand find analysis algorithmlikelihood termination called termination analysis see halting
+problem knotty issue
+
+case nonhalting computation method calculation procedure
+success longer defined term halting meaningful
+output instead term success allow unbounded output
+sequence must defined example algorithm verifieszero one infinite random binary sequence
+must run forever effective implemented correctly
+however algorithm output useful longexamines sequence algorithm give positive response
+number examined zero outnumber one negative
+response otherwise success algorithm could definedeventually outputting positive response actually
+zero one sequence case outputting
+mixture positive negative responses
+
+see example improper subtraction partial functionhappen algorithm fails certaininput numberseg nontermination production junk
+output wrong format considered number numbers
+halt end computation output iii wrong
+number combination kleenep 
+proposed production junk failure produce number
+solved algorithm detect instance produce
+eg error message suggestedor preferably forcealgorithm endless loop davisdoessubtraction algorithm phe fix algorithm second
+example proper subtraction along logical
+outcome true false kleene also proposes use third
+logical symbol uundecided pthus algorithm always
+produce something confronted proposition problemwrong answer must solved independent proofalgorithm using induction
+
+normally require auxiliary evidencealgorithm correctly defines recursive function egform inductive proof argument value
+computation terminates unique value minsky 
+p 
+
+expressing algorithms
+
+algorithm expressed many kind notation including
+natural language pseudocode flowchart programming languages
+natural language expression algorithm tend verboseambiguous rarely used complex technical algorithms
+pseudocode flowchart structured way express algorithms
+avoid many ambiguity common natural language
+statement remaining independent particular implementation
+language programming language primarily intended expressing
+algorithm form executed computer often
+used way define document algorithms
+
+example boolosburgessjeffreypgive exampleturing machine program written machine table see turing
+machine finite state machine state transition table flow
+chart see state diagram form rudimentary
+machine code assembly code called set quadruple seeturing machine give detailed outlinemultiplication machine figurepdrawn flow chart
+portion labeled short naturallanguage descriptions
+
+describing computation abacus machine model see
+register machine boolosburgessjeffreysupplement
+small flow chart state diagram naturallanguage andor
+arithmetic expression written insideblock diagram summarize
+flow chart accomplishing sometimes combineblock diagram flow chart descriptions
+
+chaptertitled definition algorithm sipser 
+describes three level turing machine description quote 
+highlevel description
+
+prose describe algorithm ignoringimplementation detail level needmention machine manages tape head
+
+implementation description
+
+prose used define way turing machine uses
+head way store data tapelevel give detail state transition
+function
+
+formal description
+
+detailed lowest level give turing machines
+state table
+
+implementation
+
+algorithm intended implemented computer programs
+however algorithm also implemented meanbiological neural network example human brain implementing
+arithmetic insect looking food electrical circuitmechanical device
+
+example
+
+one simplest algorithm find largest numberunsorted list number solution necessarily requires looking
+every number list followssimple algorithm stated highlevel description
+english prose
+highlevel description
+assume first item largest
+look remaining item list larger
+largest item far make notelast noted item largest list processcomplete
+
+quasi formal description written prose much closerhighlevel language computer program followingformal coding algorithm pseudocode pidgin code
+algorithm largestnumber
+input nonempty list number output largest number list 
+largestl
+item list litemlargestlargestthe item
+return largest
+
+loose shorthand change instance largest 
+item mean value largest change value item
+return terminates algorithm output valuefollows
+
+complex example algorithm see euclid algorithmgreatest common divisor one earliest algorithm known
+
+detailed example simple algorithm add precisely defined turing machine counter
+machine manner three descriptionlevels sipser
+precise inputoutput specificationboolosburgessjeffreysee algorithm examples
+
+algorithm analysis
+
+happens important know much particular
+resource time storage required given algorithm
+method developed analysis algorithm obtain
+quantitative answer example algorithm time
+requirement using big notation lengthlist time algorithm need remember two values
+largest number found far current position input
+list therefore said space requirement note
+size input counted space usedalgorithm
+
+different algorithm may complete task different setinstruction time space effort othersexample given two different recipe making potato salad one may
+peel potato boil potato presents
+step reverse order yet call steprepeated potato end potato salad readyeaten
+
+analysis study algorithm discipline computer
+science often practiced abstractly without usespecific programming language implementation sense
+resembles mathematical discipline analysis
+focus underlying principle algorithmparticular implementation pseudocode simplest abstract
+enough analysis
+
+classes
+
+various way classify algorithmmerits
+
+classification implementation
+
+one way classify algorithm implementation means
+recursion iteration recursive algorithm one invokes
+make reference repeatedly certain condition
+match method common functional programming
+iterative algorithm use repetitive construct like loopsometimes additional data structure like stack solve given
+problem problem naturally suited one implementation
+example tower hanoi well understoodrecursive implementation every recursive version equivalent
+possibly complex iterative version vice
+versa
+
+logical algorithm may viewed controlled logical
+deduction notion may expressed
+algorithmlogiccontrol
+logic component express axiom may usedcomputation control component determines waydeduction applied axiom basis logic
+programming paradigm pure logic programming languagecontrol component fixed algorithm specifiedsupplying logic component appeal approachelegant semantics change axiom well defined
+change algorithm
+
+serial parallel distributed algorithm usually discussed
+assumption computer execute one instructionalgorithm time computer sometimes called serial
+computer algorithm designed environment called
+serial algorithm opposed parallel algorithmdistributed algorithm parallel algorithm take advantagecomputer architecture several processor workproblem time whereas distributed algorithm utilise
+multiple machine connected network parallel distributed
+algorithm divide problem symmetrical asymmetrical
+subproblems collect result back together resource
+consumption algorithm processor cycleprocessor also communication overheadprocessor sorting algorithm parallelized efficientlycommunication overhead expensive iterative algorithmgenerally parallelizable problem parallel
+algorithm called inherently serial problems
+
+deterministic nondeterministic deterministic algorithm solve
+problem exact decision every step algorithm
+whereas nondeterministic algorithm solve problem via guessing
+although typical guess made accurate useheuristics
+
+exact approximate many algorithm reach exact
+solution approximation algorithm seek approximationclose true solution approximation may use eitherdeterministic random strategy algorithm practical
+value many hard problems
+
+classification design paradigm
+
+another way classifying algorithm design methodologyparadigm certain number paradigm differentfurthermore category include many
+different type algorithm commonly found paradigm include
+divide conquer divide conquer algorithm repeatedly
+reduces instance problem one smaller instances
+problem usually recursively instancesmall enough solve easily one example divideconquer merge sorting sorting done segmentdata dividing data segment sorting entire data
+obtained conquer phase merging simpler variant
+divide conquer called decrease conquer algorithm
+solves identical subproblem solutionsubproblem solve bigger problem divide conquer divides
+problem multiple subproblems conquer stagecomplex decrease conquer algorithm exampledecrease conquer algorithm binary search algorithm
+dynamic programming problem show optimal substructure
+meaning optimal solution problem constructedoptimal solution subproblems overlapping subproblems
+meaning subproblems used solve many different
+problem instance quicker approach called dynamic programming
+avoids recomputating solution already computedexample shortest path goal vertex weighted
+graph found using shortest path goaladjacent vertex dynamic programming memoization together
+main difference dynamic programming divideconquer subproblems independent divideconquer overlap subproblems occur dynamic
+programming difference dynamic programmingstraightforward recursion caching memoization recursive
+call subproblems independent repetition
+memoization doe help hence dynamic programmingsolution complex problem using memoizationmaintaining table subproblems already solved dynamic
+programming reduces exponential nature many problempolynomial complexity
+greedy method greedy algorithm similar dynamic
+programming algorithm difference solutionsubproblems known stage insteadgreedy choice made look best momentdifference dynamic programming greedy methodextends solution best possible decisionfeasible decision algorithmic stage based current
+local optimum best decision possible decisions
+made previous stage exhaustive doe give
+accurate answer many problem workfastest method popular greedy algorithm findingminimal spanning tree given kruskal
+linear programming solving problem using linear
+programming program put number linear
+inequality attempt made maximize minimize
+input many problem maximum flow directed
+graph stated linear programming waysolved generic algorithm simplex algorithmcomplex variant linear programming called integer
+programming solution space restrictedintegers
+reduction another powerful technique solving many
+problem transforming one problem another problemexample one selection algorithm finding medianunsorted list first translating problem sorting
+problem finding middle element sorted list goalreduction algorithm finding simplest transformationcomplexity reduction algorithm doe dominatecomplexity reduced algorithm technique also called
+transform conquer
+search enumeration many problem playing chessmodeled problem graph graph exploration algorithm
+specifies rule moving around graph usefulproblem category also includes search algorithm branch
+bound enumeration backtracking
+probabilistic heuristic paradigm algorithm belongingclass fit definition algorithm loosely
+
+probabilistic algorithm make choice randomly
+pseudorandomly problem fact proven
+fastest solution must involve randomness
+genetic algorithm attempt find solution problemmimicking biological evolutionary process cycle random
+mutation yielding successive generation solution thus
+emulate reproduction survival fittest genetic
+programming approach extended algorithm regarding
+algorithm solution problem alsoheuristic algorithm whose general purpose findoptimal solution approximate solution timeresource limited practical find perfect
+solution example would local search taboo search
+simulated annealing algorithm class heuristic
+probabilistic algorithm vary solution problemrandom amount name simulated annealing alludesmetallurgic term meaning heating cooling metalachieve freedom defect purpose random variancefind close globally optimal solution rather simply
+locally optimal one idea random elementdecreased algorithm settle solution
+
+classification field study
+
+every field science problem need efficient
+algorithm related problem one field often studied together
+example class search algorithm sorting algorithm merge
+algorithm numerical algorithm graph algorithm string algorithms
+computational geometric algorithm combinatorial algorithm machine
+learning cryptography data compression algorithm parsing
+techniques
+
+field tend overlap algorithm advance one
+field may improve sometimes completely unrelated
+field example dynamic programming originally inventedoptimisation resource consumption industry usedsolving broad range problem many fields
+
+classification complexity
+
+actually problem classification strict sensealgorithm complete linear time proportional input sizeexponential amount time never problem may
+multiple algorithm problem may algorithmproblem known efficient algorithm also
+mapping problem problem computer scientists
+found suitable classify problem rather algorithms
+equivalence class based complexity
+
+legal issues
+
+country allow algorithm patented embodiedsoftware hardware patent long controversial issue
+see example software patent debate countryallow certain algorithm cryptographic algorithmexported country see export cryptography
+
+history development notion algorithm
+
+origin word
+
+word algorithm come name century persian
+mathematician abu abdullah muhammad ibn musa alkhwarizmi whose works
+introduced indian numeral algebraic concept worked baghdad
+time centre scientific study tradeword algorism originally referred rule performing
+arithmetic using arabic numeral evolved via european latin
+translation alkhwarizmis name algorithm century
+word evolved include definite procedure solving
+problem performing tasks
+
+discrete distinguishable symbols
+
+tallymarks keep track flock sack grainmoney ancient used tallyingaccumulating stone marks
+discrete symbol clay scratched stickbabylonian egyptian use mark symbol eventually roman
+numeral abacus evolved dilson tally mark appear
+prominently unary numeral system arithmetic used turing machine
+postturing machine computations
+
+manipulation symbol place holder number algebra
+
+work ancient greek geometer persian mathematician
+alkhwarizmioften considered father algebra chinesewestern european mathematicans culminated leibniz notioncalculus ratiocinator 
+
+good century half ahead time leibniz proposed
+algebra logic algebra would specify rulemanipulating logical concept manner ordinary
+algebra specifies rule manipulating number davis
+p 
+
+mechanical contrivance discrete states
+
+clock bolter credit invention weightdriven clockkey invention europe middle age particularverge escapement bolter pthat provides tick tock
+mechanical clock accurate automatic machine bolter 
+quoting mumford led immediately mechanical automaton beginningthirteenth century finally computational machinesthe
+difference engine analytical engine charles babbagecountess ada lovelace bolter p
+
+jacquard loom hollerith punch card telegraphy telephonythe
+electromechanical relay bell newellindicatejacquard loomprecursor hollerith card punch card 
+telephone switching technology root tree leading
+development first computer bell newell diagram cf davisby mids telegraph precursor
+telephone use throughout world discretedistinguishable encoding letter dot dash common
+sound late ticker tape wa useuse hollerith card theus census teletype use punchedpaper binary encoding baudot codetape
+
+telephoneswitching network electromechanical relay invented
+wa behind work george stibitzthe inventordigital adding device worked bell laboratory observed
+burdensome use mechanical calculator gear went
+home one evening inintending test ideatinkering stibitz constructed binary adding device
+valley news 
+
+davisobserves particular importanceelectromechanical relay two binary state open closed
+
+wa development beginningelectromechanical calculator using electrical relaymachine built scope babbage envisioned
+davis 
+
+mathematics mids
+
+symbol rule rapid succession mathematics george boole
+gottlob fregeand giuseppe peano 
+reduced arithmetic sequence symbol manipulated rules
+peanos principle arithmetic presented new method 
+wa first attempt axiomatization mathematicssymbolic language heijenoort ff
+
+heijenoort give fregethis kudos freges perhapsimportant single work ever written logicin seeformula language lingua characterica language written
+special symbol pure thought free rhetorical
+embellishmentsconstructed specific symbolmanipulated according definite rule pthe work fregesimplified amplified alfred north whitehead bertrand
+russell principia mathematica 
+
+paradox time number disturbing paradoxes
+appeared literature particular buraliforti paradox
+russell paradoxand richard paradox 
+dixoncf kleenepthe resultant considerations
+led kurt gdels paperhe specifically cite paradoxliarthat completely reduces rule recursion numberrapid succession following appeared churchkleenes calculus footnote alonzo church paper undecidable pchurchs 
+theorem undecidable ff emil postsprocess
+undecidable palan turingsa automatic
+machine undecidable ff barkley rossersdefinition
+effective method term machine undecidable 
+c kleenesproposal churchturing thesis
+undecidable 
+
+emil postand alan turing
+
+remarkable coincidence two men knowingdescribing process menascomputers working computationsand
+yield virtually identical definitions
+
+emil postdescribed action computer humanfollows
+
+two concept involved symbol spacework leading problem answer carriedfixed unalterable set directions
+
+symbol space would
+two way infinite sequence space box problem
+solver worker move work symbol spacecapable operating one box time
+box admit two possible condition ieempty unmarked single mark sayvertical stroke
+
+one box singled called starting point
+specific problem given symbolic formfinite number box input marked stroke
+likewise answer output given symbolic
+form configuration marked boxes
+
+set direction applicable general problem setdeterministic process applied specific problem
+process terminate come direction
+type cie stop pseepostturing machine
+
+alan turing workpreceded stibitzitunknown stibitz knew work turing turing biographer
+believed turing use typewriterlike model derivedyouthful interest alan dreamt inventing typewriter boy
+mr turing typewriter could well begun asking
+wa meant calling typewriter mechanical hodges
+pgiven prevalence morse code telegraphy ticker tape
+machine teletypes might conjecture influences
+
+turinghis model computation called turing machine 
+begin post analysis human computerwhittle simple set basic motion state mind
+continues step creates machine modelcomputation number undecidable 
+
+computing normally done writing certain symbol paper
+may suppose paper divided square like childs
+arithmetic booki assume computation carried
+onedimensional paper tape dividedsquare shall also suppose number symbolmay printed finite
+
+behaviour computer moment determinedsymbol observing state mindmoment may suppose bound bnumber symbol square computer observeone moment wish observe must use successive
+observation also suppose number statemind need taken account finite
+
+let imagine operation performed computersplit simple operation elementary
+easy imagine divided
+undecidable 
+
+turing reduction yield following
+
+simple operation must therefore include
+
+change symbol one observed squares
+b change one square observed another
+square within square one previously observed
+squares
+
+may change necessarily invoke changestate mind general single operation must thereforetaken one following
+
+possible change symbol togetherpossible change state mind
+b possible change observed square together
+possible change state mind
+
+may construct machine workcomputerundecidable 
+
+j rosserand kleene 
+
+j barkley rosser boldly defined effective mathematical method
+following manner boldface added
+
+effective method used rather special sensemethod step precisely determinedcertain produce answer finite number stepspecial meaning three different precise definitiongiven date footnotesee discussion immediately
+simplest state due post turing
+say essentially effective method solving certain
+set problem exists one build machinesolve problem set human intervention
+beyond inserting question later reading answer
+three definition equivalent doesnt matterone used moreover fact three equivalentstrong argument correctness one
+undecidable 
+
+rossers footnotereferences work ofchurch kleenedefinition definability particular church useunsolvable problem elementary number theory
+herbrand gdel use recursion particular gdels use
+famous paper formally undecidable propostions principia
+mathematica related system iandpost turingmechanismmodels computation
+
+stephen kleenedefined nowfamous thesis knownchurchturing thesis following context
+boldface original
+
+algorithmic theory setting complete
+algorithmic theory describe procedure
+performable set value independent variables
+procedure necessarily terminates manneroutcome read definite answer yesquestion predicate value true undecidable
+p 
+
