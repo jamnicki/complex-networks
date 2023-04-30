@@ -1,5 +1,5 @@
 #### *Developed 12 I 2022*
-# University mini project: Complex networks -- Analysis of token relationships from Wikipedia Article Networks
+# University project: Complex networks -- Analysis of token relationships from Wikipedia Article Networks
 
 Data source: [Rozemberczki et al., Wikipedia Article Networks, Stanford University SNAP Database, 2019](https://snap.stanford.edu/data/wikipedia-article-networks.html)
 
